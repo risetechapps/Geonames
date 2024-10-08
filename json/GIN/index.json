@@ -1,1 +1,242 @@
-[{"id":0,"name":"Beyla Prefecture","iso3":"BE","country":"GIN"},{"id":1,"name":"Boffa Prefecture","iso3":"BF","country":"GIN"},{"id":2,"name":"Bok\u00e9 Prefecture","iso3":"BK","country":"GIN"},{"id":3,"name":"Bok\u00e9 Region","iso3":"B","country":"GIN"},{"id":4,"name":"Conakry","iso3":"C","country":"GIN"},{"id":5,"name":"Coyah Prefecture","iso3":"CO","country":"GIN"},{"id":6,"name":"Dabola Prefecture","iso3":"DB","country":"GIN"},{"id":7,"name":"Dalaba Prefecture","iso3":"DL","country":"GIN"},{"id":8,"name":"Dinguiraye Prefecture","iso3":"DI","country":"GIN"},{"id":9,"name":"Dubr\u00e9ka Prefecture","iso3":"DU","country":"GIN"},{"id":10,"name":"Faranah Prefecture","iso3":"FA","country":"GIN"},{"id":11,"name":"For\u00e9cariah Prefecture","iso3":"FO","country":"GIN"},{"id":12,"name":"Fria Prefecture","iso3":"FR","country":"GIN"},{"id":13,"name":"Gaoual Prefecture","iso3":"GA","country":"GIN"},{"id":14,"name":"Gu\u00e9ck\u00e9dou Prefecture","iso3":"GU","country":"GIN"},{"id":15,"name":"Kankan Prefecture","iso3":"KA","country":"GIN"},{"id":16,"name":"Kankan Region","iso3":"K","country":"GIN"},{"id":17,"name":"K\u00e9rouan\u00e9 Prefecture","iso3":"KE","country":"GIN"},{"id":18,"name":"Kindia Prefecture","iso3":"KD","country":"GIN"},{"id":19,"name":"Kindia Region","iso3":"D","country":"GIN"},{"id":20,"name":"Kissidougou Prefecture","iso3":"KS","country":"GIN"},{"id":21,"name":"Koubia Prefecture","iso3":"KB","country":"GIN"},{"id":22,"name":"Koundara Prefecture","iso3":"KN","country":"GIN"},{"id":23,"name":"Kouroussa Prefecture","iso3":"KO","country":"GIN"},{"id":24,"name":"Lab\u00e9 Prefecture","iso3":"LA","country":"GIN"},{"id":25,"name":"Lab\u00e9 Region","iso3":"L","country":"GIN"},{"id":26,"name":"L\u00e9louma Prefecture","iso3":"LE","country":"GIN"},{"id":27,"name":"Lola Prefecture","iso3":"LO","country":"GIN"},{"id":28,"name":"Macenta Prefecture","iso3":"MC","country":"GIN"},{"id":29,"name":"Mali Prefecture","iso3":"ML","country":"GIN"},{"id":30,"name":"Mamou Prefecture","iso3":"MM","country":"GIN"},{"id":31,"name":"Mamou Region","iso3":"M","country":"GIN"},{"id":32,"name":"Mandiana Prefecture","iso3":"MD","country":"GIN"},{"id":33,"name":"Nz\u00e9r\u00e9kor\u00e9 Prefecture","iso3":"NZ","country":"GIN"},{"id":34,"name":"Nz\u00e9r\u00e9kor\u00e9 Region","iso3":"N","country":"GIN"},{"id":35,"name":"Pita Prefecture","iso3":"PI","country":"GIN"},{"id":36,"name":"Siguiri Prefecture","iso3":"SI","country":"GIN"},{"id":37,"name":"T\u00e9lim\u00e9l\u00e9 Prefecture","iso3":"TE","country":"GIN"},{"id":38,"name":"Tougu\u00e9 Prefecture","iso3":"TO","country":"GIN"},{"id":39,"name":"Yomou Prefecture","iso3":"YO","country":"GIN"}]
+[
+    {
+        "id": 2672,
+        "name": "Beyla Prefecture",
+        "country": "GIN",
+        "state_code": "BE"
+    },
+    {
+        "id": 2699,
+        "name": "Boffa Prefecture",
+        "country": "GIN",
+        "state_code": "BF"
+    },
+    {
+        "id": 2709,
+        "name": "Boké Prefecture",
+        "country": "GIN",
+        "state_code": "BK"
+    },
+    {
+        "id": 2676,
+        "name": "Boké Region",
+        "country": "GIN",
+        "state_code": "B"
+    },
+    {
+        "id": 2686,
+        "name": "Conakry",
+        "country": "GIN",
+        "state_code": "C"
+    },
+    {
+        "id": 2705,
+        "name": "Coyah Prefecture",
+        "country": "GIN",
+        "state_code": "CO"
+    },
+    {
+        "id": 2679,
+        "name": "Dabola Prefecture",
+        "country": "GIN",
+        "state_code": "DB"
+    },
+    {
+        "id": 2706,
+        "name": "Dalaba Prefecture",
+        "country": "GIN",
+        "state_code": "DL"
+    },
+    {
+        "id": 2688,
+        "name": "Dinguiraye Prefecture",
+        "country": "GIN",
+        "state_code": "DI"
+    },
+    {
+        "id": 2681,
+        "name": "Dubréka Prefecture",
+        "country": "GIN",
+        "state_code": "DU"
+    },
+    {
+        "id": 2682,
+        "name": "Faranah Prefecture",
+        "country": "GIN",
+        "state_code": "FA"
+    },
+    {
+        "id": 2683,
+        "name": "Forécariah Prefecture",
+        "country": "GIN",
+        "state_code": "FO"
+    },
+    {
+        "id": 2675,
+        "name": "Fria Prefecture",
+        "country": "GIN",
+        "state_code": "FR"
+    },
+    {
+        "id": 2685,
+        "name": "Gaoual Prefecture",
+        "country": "GIN",
+        "state_code": "GA"
+    },
+    {
+        "id": 2711,
+        "name": "Guéckédou Prefecture",
+        "country": "GIN",
+        "state_code": "GU"
+    },
+    {
+        "id": 2704,
+        "name": "Kankan Prefecture",
+        "country": "GIN",
+        "state_code": "KA"
+    },
+    {
+        "id": 2697,
+        "name": "Kankan Region",
+        "country": "GIN",
+        "state_code": "K"
+    },
+    {
+        "id": 2710,
+        "name": "Kérouané Prefecture",
+        "country": "GIN",
+        "state_code": "KE"
+    },
+    {
+        "id": 2693,
+        "name": "Kindia Prefecture",
+        "country": "GIN",
+        "state_code": "KD"
+    },
+    {
+        "id": 2701,
+        "name": "Kindia Region",
+        "country": "GIN",
+        "state_code": "D"
+    },
+    {
+        "id": 2691,
+        "name": "Kissidougou Prefecture",
+        "country": "GIN",
+        "state_code": "KS"
+    },
+    {
+        "id": 2692,
+        "name": "Koubia Prefecture",
+        "country": "GIN",
+        "state_code": "KB"
+    },
+    {
+        "id": 2703,
+        "name": "Koundara Prefecture",
+        "country": "GIN",
+        "state_code": "KN"
+    },
+    {
+        "id": 2695,
+        "name": "Kouroussa Prefecture",
+        "country": "GIN",
+        "state_code": "KO"
+    },
+    {
+        "id": 2680,
+        "name": "Labé Prefecture",
+        "country": "GIN",
+        "state_code": "LA"
+    },
+    {
+        "id": 2677,
+        "name": "Labé Region",
+        "country": "GIN",
+        "state_code": "L"
+    },
+    {
+        "id": 2690,
+        "name": "Lélouma Prefecture",
+        "country": "GIN",
+        "state_code": "LE"
+    },
+    {
+        "id": 2708,
+        "name": "Lola Prefecture",
+        "country": "GIN",
+        "state_code": "LO"
+    },
+    {
+        "id": 2702,
+        "name": "Macenta Prefecture",
+        "country": "GIN",
+        "state_code": "MC"
+    },
+    {
+        "id": 2700,
+        "name": "Mali Prefecture",
+        "country": "GIN",
+        "state_code": "ML"
+    },
+    {
+        "id": 2689,
+        "name": "Mamou Prefecture",
+        "country": "GIN",
+        "state_code": "MM"
+    },
+    {
+        "id": 2698,
+        "name": "Mamou Region",
+        "country": "GIN",
+        "state_code": "M"
+    },
+    {
+        "id": 2673,
+        "name": "Mandiana Prefecture",
+        "country": "GIN",
+        "state_code": "MD"
+    },
+    {
+        "id": 2678,
+        "name": "Nzérékoré Prefecture",
+        "country": "GIN",
+        "state_code": "NZ"
+    },
+    {
+        "id": 2684,
+        "name": "Nzérékoré Region",
+        "country": "GIN",
+        "state_code": "N"
+    },
+    {
+        "id": 2694,
+        "name": "Pita Prefecture",
+        "country": "GIN",
+        "state_code": "PI"
+    },
+    {
+        "id": 2707,
+        "name": "Siguiri Prefecture",
+        "country": "GIN",
+        "state_code": "SI"
+    },
+    {
+        "id": 2687,
+        "name": "Télimélé Prefecture",
+        "country": "GIN",
+        "state_code": "TE"
+    },
+    {
+        "id": 2696,
+        "name": "Tougué Prefecture",
+        "country": "GIN",
+        "state_code": "TO"
+    },
+    {
+        "id": 2674,
+        "name": "Yomou Prefecture",
+        "country": "GIN",
+        "state_code": "YO"
+    }
+]

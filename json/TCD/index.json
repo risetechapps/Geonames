@@ -1,1 +1,140 @@
-[{"id":0,"name":"Bahr el Gazel","iso3":"BG","country":"TCD"},{"id":1,"name":"Batha","iso3":"BA","country":"TCD"},{"id":2,"name":"Borkou","iso3":"BO","country":"TCD"},{"id":3,"name":"Chari-Baguirmi","iso3":"CB","country":"TCD"},{"id":4,"name":"Ennedi-Est","iso3":"EE","country":"TCD"},{"id":5,"name":"Ennedi-Ouest","iso3":"EO","country":"TCD"},{"id":6,"name":"Gu\u00e9ra","iso3":"GR","country":"TCD"},{"id":7,"name":"Hadjer-Lamis","iso3":"HL","country":"TCD"},{"id":8,"name":"Kanem","iso3":"KA","country":"TCD"},{"id":9,"name":"Lac","iso3":"LC","country":"TCD"},{"id":10,"name":"Logone Occidental","iso3":"LO","country":"TCD"},{"id":11,"name":"Logone Oriental","iso3":"LR","country":"TCD"},{"id":12,"name":"Mandoul","iso3":"MA","country":"TCD"},{"id":13,"name":"Mayo-Kebbi Est","iso3":"ME","country":"TCD"},{"id":14,"name":"Mayo-Kebbi Ouest","iso3":"MO","country":"TCD"},{"id":15,"name":"Moyen-Chari","iso3":"MC","country":"TCD"},{"id":16,"name":"N'Djamena","iso3":"ND","country":"TCD"},{"id":17,"name":"Ouadda\u00ef","iso3":"OD","country":"TCD"},{"id":18,"name":"Salamat","iso3":"SA","country":"TCD"},{"id":19,"name":"Sila","iso3":"SI","country":"TCD"},{"id":20,"name":"Tandjil\u00e9","iso3":"TA","country":"TCD"},{"id":21,"name":"Tibesti","iso3":"TI","country":"TCD"},{"id":22,"name":"Wadi Fira","iso3":"WF","country":"TCD"}]
+[
+    {
+        "id": 3583,
+        "name": "Bahr el Gazel",
+        "country": "TCD",
+        "state_code": "BG"
+    },
+    {
+        "id": 3590,
+        "name": "Batha",
+        "country": "TCD",
+        "state_code": "BA"
+    },
+    {
+        "id": 3574,
+        "name": "Borkou",
+        "country": "TCD",
+        "state_code": "BO"
+    },
+    {
+        "id": 5114,
+        "name": "Chari-Baguirmi",
+        "country": "TCD",
+        "state_code": "CB"
+    },
+    {
+        "id": 3575,
+        "name": "Ennedi-Est",
+        "country": "TCD",
+        "state_code": "EE"
+    },
+    {
+        "id": 3584,
+        "name": "Ennedi-Ouest",
+        "country": "TCD",
+        "state_code": "EO"
+    },
+    {
+        "id": 3576,
+        "name": "Guéra",
+        "country": "TCD",
+        "state_code": "GR"
+    },
+    {
+        "id": 3573,
+        "name": "Hadjer-Lamis",
+        "country": "TCD",
+        "state_code": "HL"
+    },
+    {
+        "id": 3588,
+        "name": "Kanem",
+        "country": "TCD",
+        "state_code": "KA"
+    },
+    {
+        "id": 3577,
+        "name": "Lac",
+        "country": "TCD",
+        "state_code": "LC"
+    },
+    {
+        "id": 3585,
+        "name": "Logone Occidental",
+        "country": "TCD",
+        "state_code": "LO"
+    },
+    {
+        "id": 3591,
+        "name": "Logone Oriental",
+        "country": "TCD",
+        "state_code": "LR"
+    },
+    {
+        "id": 3589,
+        "name": "Mandoul",
+        "country": "TCD",
+        "state_code": "MA"
+    },
+    {
+        "id": 3580,
+        "name": "Mayo-Kebbi Est",
+        "country": "TCD",
+        "state_code": "ME"
+    },
+    {
+        "id": 3571,
+        "name": "Mayo-Kebbi Ouest",
+        "country": "TCD",
+        "state_code": "MO"
+    },
+    {
+        "id": 3570,
+        "name": "Moyen-Chari",
+        "country": "TCD",
+        "state_code": "MC"
+    },
+    {
+        "id": 3586,
+        "name": "N'Djamena",
+        "country": "TCD",
+        "state_code": "ND"
+    },
+    {
+        "id": 3582,
+        "name": "Ouaddaï",
+        "country": "TCD",
+        "state_code": "OD"
+    },
+    {
+        "id": 3592,
+        "name": "Salamat",
+        "country": "TCD",
+        "state_code": "SA"
+    },
+    {
+        "id": 3572,
+        "name": "Sila",
+        "country": "TCD",
+        "state_code": "SI"
+    },
+    {
+        "id": 3579,
+        "name": "Tandjilé",
+        "country": "TCD",
+        "state_code": "TA"
+    },
+    {
+        "id": 3587,
+        "name": "Tibesti",
+        "country": "TCD",
+        "state_code": "TI"
+    },
+    {
+        "id": 3581,
+        "name": "Wadi Fira",
+        "country": "TCD",
+        "state_code": "WF"
+    }
+]

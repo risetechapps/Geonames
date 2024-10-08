@@ -1,1 +1,50 @@
-[{"id":0,"name":"Bansk\u00e1 Bystrica Region","iso3":"BC","country":"SVK"},{"id":1,"name":"Bratislava Region","iso3":"BL","country":"SVK"},{"id":2,"name":"Ko\u0161ice Region","iso3":"KI","country":"SVK"},{"id":3,"name":"Nitra Region","iso3":"NI","country":"SVK"},{"id":4,"name":"Pre\u0161ov Region","iso3":"PV","country":"SVK"},{"id":5,"name":"Tren\u010d\u00edn Region","iso3":"TC","country":"SVK"},{"id":6,"name":"Trnava Region","iso3":"TA","country":"SVK"},{"id":7,"name":"\u017dilina Region","iso3":"ZI","country":"SVK"}]
+[
+    {
+        "id": 4352,
+        "name": "Banská Bystrica Region",
+        "country": "SVK",
+        "state_code": "BC"
+    },
+    {
+        "id": 4356,
+        "name": "Bratislava Region",
+        "country": "SVK",
+        "state_code": "BL"
+    },
+    {
+        "id": 4353,
+        "name": "Košice Region",
+        "country": "SVK",
+        "state_code": "KI"
+    },
+    {
+        "id": 4357,
+        "name": "Nitra Region",
+        "country": "SVK",
+        "state_code": "NI"
+    },
+    {
+        "id": 4354,
+        "name": "Prešov Region",
+        "country": "SVK",
+        "state_code": "PV"
+    },
+    {
+        "id": 4358,
+        "name": "Trenčín Region",
+        "country": "SVK",
+        "state_code": "TC"
+    },
+    {
+        "id": 4355,
+        "name": "Trnava Region",
+        "country": "SVK",
+        "state_code": "TA"
+    },
+    {
+        "id": 4359,
+        "name": "Žilina Region",
+        "country": "SVK",
+        "state_code": "ZI"
+    }
+]

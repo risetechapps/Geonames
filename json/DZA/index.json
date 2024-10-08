@@ -1,1 +1,350 @@
-[{"id":0,"name":"Adrar","iso3":"01","country":"DZA"},{"id":1,"name":"A\u00efn Defla","iso3":"44","country":"DZA"},{"id":2,"name":"A\u00efn T\u00e9mouchent","iso3":"46","country":"DZA"},{"id":3,"name":"Algiers","iso3":"16","country":"DZA"},{"id":4,"name":"Annaba","iso3":"23","country":"DZA"},{"id":5,"name":"Batna","iso3":"05","country":"DZA"},{"id":6,"name":"B\u00e9char","iso3":"08","country":"DZA"},{"id":7,"name":"B\u00e9ja\u00efa","iso3":"06","country":"DZA"},{"id":8,"name":"B\u00e9ni Abb\u00e8s","iso3":"53","country":"DZA"},{"id":9,"name":"Biskra","iso3":"07","country":"DZA"},{"id":10,"name":"Blida","iso3":"09","country":"DZA"},{"id":11,"name":"Bordj Baji Mokhtar","iso3":"52","country":"DZA"},{"id":12,"name":"Bordj Bou Arr\u00e9ridj","iso3":"34","country":"DZA"},{"id":13,"name":"Bou\u00efra","iso3":"10","country":"DZA"},{"id":14,"name":"Boumerd\u00e8s","iso3":"35","country":"DZA"},{"id":15,"name":"Chlef","iso3":"02","country":"DZA"},{"id":16,"name":"Constantine","iso3":"25","country":"DZA"},{"id":17,"name":"Djanet","iso3":"56","country":"DZA"},{"id":18,"name":"Djelfa","iso3":"17","country":"DZA"},{"id":19,"name":"El Bayadh","iso3":"32","country":"DZA"},{"id":20,"name":"El M'ghair","iso3":"49","country":"DZA"},{"id":21,"name":"El Menia","iso3":"50","country":"DZA"},{"id":22,"name":"El Oued","iso3":"39","country":"DZA"},{"id":23,"name":"El Tarf","iso3":"36","country":"DZA"},{"id":24,"name":"Gharda\u00efa","iso3":"47","country":"DZA"},{"id":25,"name":"Guelma","iso3":"24","country":"DZA"},{"id":26,"name":"Illizi","iso3":"33","country":"DZA"},{"id":27,"name":"In Guezzam","iso3":"58","country":"DZA"},{"id":28,"name":"In Salah","iso3":"57","country":"DZA"},{"id":29,"name":"Jijel","iso3":"18","country":"DZA"},{"id":30,"name":"Khenchela","iso3":"40","country":"DZA"},{"id":31,"name":"Laghouat","iso3":"03","country":"DZA"},{"id":32,"name":"M'Sila","iso3":"28","country":"DZA"},{"id":33,"name":"Mascara","iso3":"29","country":"DZA"},{"id":34,"name":"M\u00e9d\u00e9a","iso3":"26","country":"DZA"},{"id":35,"name":"Mila","iso3":"43","country":"DZA"},{"id":36,"name":"Mostaganem","iso3":"27","country":"DZA"},{"id":37,"name":"Naama","iso3":"45","country":"DZA"},{"id":38,"name":"Oran","iso3":"31","country":"DZA"},{"id":39,"name":"Ouargla","iso3":"30","country":"DZA"},{"id":40,"name":"Ouled Djellal","iso3":"51","country":"DZA"},{"id":41,"name":"Oum El Bouaghi","iso3":"04","country":"DZA"},{"id":42,"name":"Relizane","iso3":"48","country":"DZA"},{"id":43,"name":"Sa\u00efda","iso3":"20","country":"DZA"},{"id":44,"name":"S\u00e9tif","iso3":"19","country":"DZA"},{"id":45,"name":"Sidi Bel Abb\u00e8s","iso3":"22","country":"DZA"},{"id":46,"name":"Skikda","iso3":"21","country":"DZA"},{"id":47,"name":"Souk Ahras","iso3":"41","country":"DZA"},{"id":48,"name":"Tamanghasset","iso3":"11","country":"DZA"},{"id":49,"name":"T\u00e9bessa","iso3":"12","country":"DZA"},{"id":50,"name":"Tiaret","iso3":"14","country":"DZA"},{"id":51,"name":"Timimoun","iso3":"54","country":"DZA"},{"id":52,"name":"Tindouf","iso3":"37","country":"DZA"},{"id":53,"name":"Tipasa","iso3":"42","country":"DZA"},{"id":54,"name":"Tissemsilt","iso3":"38","country":"DZA"},{"id":55,"name":"Tizi Ouzou","iso3":"15","country":"DZA"},{"id":56,"name":"Tlemcen","iso3":"13","country":"DZA"},{"id":57,"name":"Touggourt","iso3":"55","country":"DZA"}]
+[
+    {
+        "id": 1118,
+        "name": "Adrar",
+        "country": "DZA",
+        "state_code": "01"
+    },
+    {
+        "id": 1119,
+        "name": "Aïn Defla",
+        "country": "DZA",
+        "state_code": "44"
+    },
+    {
+        "id": 1122,
+        "name": "Aïn Témouchent",
+        "country": "DZA",
+        "state_code": "46"
+    },
+    {
+        "id": 1144,
+        "name": "Algiers",
+        "country": "DZA",
+        "state_code": "16"
+    },
+    {
+        "id": 1103,
+        "name": "Annaba",
+        "country": "DZA",
+        "state_code": "23"
+    },
+    {
+        "id": 1142,
+        "name": "Batna",
+        "country": "DZA",
+        "state_code": "05"
+    },
+    {
+        "id": 1108,
+        "name": "Béchar",
+        "country": "DZA",
+        "state_code": "08"
+    },
+    {
+        "id": 1128,
+        "name": "Béjaïa",
+        "country": "DZA",
+        "state_code": "06"
+    },
+    {
+        "id": 4909,
+        "name": "Béni Abbès",
+        "country": "DZA",
+        "state_code": "53"
+    },
+    {
+        "id": 1114,
+        "name": "Biskra",
+        "country": "DZA",
+        "state_code": "07"
+    },
+    {
+        "id": 1111,
+        "name": "Blida",
+        "country": "DZA",
+        "state_code": "09"
+    },
+    {
+        "id": 4908,
+        "name": "Bordj Baji Mokhtar",
+        "country": "DZA",
+        "state_code": "52"
+    },
+    {
+        "id": 1116,
+        "name": "Bordj Bou Arréridj",
+        "country": "DZA",
+        "state_code": "34"
+    },
+    {
+        "id": 1104,
+        "name": "Bouïra",
+        "country": "DZA",
+        "state_code": "10"
+    },
+    {
+        "id": 1125,
+        "name": "Boumerdès",
+        "country": "DZA",
+        "state_code": "35"
+    },
+    {
+        "id": 1105,
+        "name": "Chlef",
+        "country": "DZA",
+        "state_code": "02"
+    },
+    {
+        "id": 1121,
+        "name": "Constantine",
+        "country": "DZA",
+        "state_code": "25"
+    },
+    {
+        "id": 4912,
+        "name": "Djanet",
+        "country": "DZA",
+        "state_code": "56"
+    },
+    {
+        "id": 1098,
+        "name": "Djelfa",
+        "country": "DZA",
+        "state_code": "17"
+    },
+    {
+        "id": 1129,
+        "name": "El Bayadh",
+        "country": "DZA",
+        "state_code": "32"
+    },
+    {
+        "id": 4905,
+        "name": "El M'ghair",
+        "country": "DZA",
+        "state_code": "49"
+    },
+    {
+        "id": 4906,
+        "name": "El Menia",
+        "country": "DZA",
+        "state_code": "50"
+    },
+    {
+        "id": 1099,
+        "name": "El Oued",
+        "country": "DZA",
+        "state_code": "39"
+    },
+    {
+        "id": 1100,
+        "name": "El Tarf",
+        "country": "DZA",
+        "state_code": "36"
+    },
+    {
+        "id": 1127,
+        "name": "Ghardaïa",
+        "country": "DZA",
+        "state_code": "47"
+    },
+    {
+        "id": 1137,
+        "name": "Guelma",
+        "country": "DZA",
+        "state_code": "24"
+    },
+    {
+        "id": 1112,
+        "name": "Illizi",
+        "country": "DZA",
+        "state_code": "33"
+    },
+    {
+        "id": 4914,
+        "name": "In Guezzam",
+        "country": "DZA",
+        "state_code": "58"
+    },
+    {
+        "id": 4913,
+        "name": "In Salah",
+        "country": "DZA",
+        "state_code": "57"
+    },
+    {
+        "id": 1113,
+        "name": "Jijel",
+        "country": "DZA",
+        "state_code": "18"
+    },
+    {
+        "id": 1126,
+        "name": "Khenchela",
+        "country": "DZA",
+        "state_code": "40"
+    },
+    {
+        "id": 1138,
+        "name": "Laghouat",
+        "country": "DZA",
+        "state_code": "03"
+    },
+    {
+        "id": 1134,
+        "name": "M'Sila",
+        "country": "DZA",
+        "state_code": "28"
+    },
+    {
+        "id": 1124,
+        "name": "Mascara",
+        "country": "DZA",
+        "state_code": "29"
+    },
+    {
+        "id": 1109,
+        "name": "Médéa",
+        "country": "DZA",
+        "state_code": "26"
+    },
+    {
+        "id": 1132,
+        "name": "Mila",
+        "country": "DZA",
+        "state_code": "43"
+    },
+    {
+        "id": 1140,
+        "name": "Mostaganem",
+        "country": "DZA",
+        "state_code": "27"
+    },
+    {
+        "id": 1102,
+        "name": "Naama",
+        "country": "DZA",
+        "state_code": "45"
+    },
+    {
+        "id": 1101,
+        "name": "Oran",
+        "country": "DZA",
+        "state_code": "31"
+    },
+    {
+        "id": 1139,
+        "name": "Ouargla",
+        "country": "DZA",
+        "state_code": "30"
+    },
+    {
+        "id": 4907,
+        "name": "Ouled Djellal",
+        "country": "DZA",
+        "state_code": "51"
+    },
+    {
+        "id": 1136,
+        "name": "Oum El Bouaghi",
+        "country": "DZA",
+        "state_code": "04"
+    },
+    {
+        "id": 1130,
+        "name": "Relizane",
+        "country": "DZA",
+        "state_code": "48"
+    },
+    {
+        "id": 1123,
+        "name": "Saïda",
+        "country": "DZA",
+        "state_code": "20"
+    },
+    {
+        "id": 1141,
+        "name": "Sétif",
+        "country": "DZA",
+        "state_code": "19"
+    },
+    {
+        "id": 4902,
+        "name": "Sidi Bel Abbès",
+        "country": "DZA",
+        "state_code": "22"
+    },
+    {
+        "id": 1110,
+        "name": "Skikda",
+        "country": "DZA",
+        "state_code": "21"
+    },
+    {
+        "id": 1143,
+        "name": "Souk Ahras",
+        "country": "DZA",
+        "state_code": "41"
+    },
+    {
+        "id": 1135,
+        "name": "Tamanghasset",
+        "country": "DZA",
+        "state_code": "11"
+    },
+    {
+        "id": 1117,
+        "name": "Tébessa",
+        "country": "DZA",
+        "state_code": "12"
+    },
+    {
+        "id": 1106,
+        "name": "Tiaret",
+        "country": "DZA",
+        "state_code": "14"
+    },
+    {
+        "id": 4910,
+        "name": "Timimoun",
+        "country": "DZA",
+        "state_code": "54"
+    },
+    {
+        "id": 1120,
+        "name": "Tindouf",
+        "country": "DZA",
+        "state_code": "37"
+    },
+    {
+        "id": 1115,
+        "name": "Tipasa",
+        "country": "DZA",
+        "state_code": "42"
+    },
+    {
+        "id": 1133,
+        "name": "Tissemsilt",
+        "country": "DZA",
+        "state_code": "38"
+    },
+    {
+        "id": 1131,
+        "name": "Tizi Ouzou",
+        "country": "DZA",
+        "state_code": "15"
+    },
+    {
+        "id": 1107,
+        "name": "Tlemcen",
+        "country": "DZA",
+        "state_code": "13"
+    },
+    {
+        "id": 4911,
+        "name": "Touggourt",
+        "country": "DZA",
+        "state_code": "55"
+    }
+]

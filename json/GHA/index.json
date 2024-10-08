@@ -1,1 +1,98 @@
-[{"id":0,"name":"Ahafo","iso3":"AF","country":"GHA"},{"id":1,"name":"Ashanti","iso3":"AH","country":"GHA"},{"id":2,"name":"Bono","iso3":"BO","country":"GHA"},{"id":3,"name":"Bono East","iso3":"BE","country":"GHA"},{"id":4,"name":"Central","iso3":"CP","country":"GHA"},{"id":5,"name":"Eastern","iso3":"EP","country":"GHA"},{"id":6,"name":"Greater Accra","iso3":"AA","country":"GHA"},{"id":7,"name":"North East","iso3":"NE","country":"GHA"},{"id":8,"name":"Northern","iso3":"NP","country":"GHA"},{"id":9,"name":"Oti","iso3":"OT","country":"GHA"},{"id":10,"name":"Savannah","iso3":"SV","country":"GHA"},{"id":11,"name":"Upper East","iso3":"UE","country":"GHA"},{"id":12,"name":"Upper West","iso3":"UW","country":"GHA"},{"id":13,"name":"Volta","iso3":"TV","country":"GHA"},{"id":14,"name":"Western","iso3":"WP","country":"GHA"},{"id":15,"name":"Western North","iso3":"WN","country":"GHA"}]
+[
+    {
+        "id": 53,
+        "name": "Ahafo",
+        "country": "GHA",
+        "state_code": "AF"
+    },
+    {
+        "id": 48,
+        "name": "Ashanti",
+        "country": "GHA",
+        "state_code": "AH"
+    },
+    {
+        "id": 4959,
+        "name": "Bono",
+        "country": "GHA",
+        "state_code": "BO"
+    },
+    {
+        "id": 4958,
+        "name": "Bono East",
+        "country": "GHA",
+        "state_code": "BE"
+    },
+    {
+        "id": 52,
+        "name": "Central",
+        "country": "GHA",
+        "state_code": "CP"
+    },
+    {
+        "id": 50,
+        "name": "Eastern",
+        "country": "GHA",
+        "state_code": "EP"
+    },
+    {
+        "id": 54,
+        "name": "Greater Accra",
+        "country": "GHA",
+        "state_code": "AA"
+    },
+    {
+        "id": 4960,
+        "name": "North East",
+        "country": "GHA",
+        "state_code": "NE"
+    },
+    {
+        "id": 51,
+        "name": "Northern",
+        "country": "GHA",
+        "state_code": "NP"
+    },
+    {
+        "id": 4961,
+        "name": "Oti",
+        "country": "GHA",
+        "state_code": "OT"
+    },
+    {
+        "id": 4962,
+        "name": "Savannah",
+        "country": "GHA",
+        "state_code": "SV"
+    },
+    {
+        "id": 55,
+        "name": "Upper East",
+        "country": "GHA",
+        "state_code": "UE"
+    },
+    {
+        "id": 57,
+        "name": "Upper West",
+        "country": "GHA",
+        "state_code": "UW"
+    },
+    {
+        "id": 56,
+        "name": "Volta",
+        "country": "GHA",
+        "state_code": "TV"
+    },
+    {
+        "id": 49,
+        "name": "Western",
+        "country": "GHA",
+        "state_code": "WP"
+    },
+    {
+        "id": 4963,
+        "name": "Western North",
+        "country": "GHA",
+        "state_code": "WN"
+    }
+]

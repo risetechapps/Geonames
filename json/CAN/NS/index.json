@@ -1,1 +1,260 @@
-[{"id":0,"name":"Amherst","country":"CAN","state":"NS"},{"id":1,"name":"Annapolis County","country":"CAN","state":"NS"},{"id":2,"name":"Antigonish","country":"CAN","state":"NS"},{"id":3,"name":"Berwick","country":"CAN","state":"NS"},{"id":4,"name":"Bridgewater","country":"CAN","state":"NS"},{"id":5,"name":"Cape Breton County","country":"CAN","state":"NS"},{"id":6,"name":"Chester","country":"CAN","state":"NS"},{"id":7,"name":"Colchester","country":"CAN","state":"NS"},{"id":8,"name":"Cole Harbour","country":"CAN","state":"NS"},{"id":9,"name":"Cow Bay","country":"CAN","state":"NS"},{"id":10,"name":"Dartmouth","country":"CAN","state":"NS"},{"id":11,"name":"Digby","country":"CAN","state":"NS"},{"id":12,"name":"Digby County","country":"CAN","state":"NS"},{"id":13,"name":"English Corner","country":"CAN","state":"NS"},{"id":14,"name":"Eskasoni 3","country":"CAN","state":"NS"},{"id":15,"name":"Fall River","country":"CAN","state":"NS"},{"id":16,"name":"Glace Bay","country":"CAN","state":"NS"},{"id":17,"name":"Greenwood","country":"CAN","state":"NS"},{"id":18,"name":"Halifax","country":"CAN","state":"NS"},{"id":19,"name":"Hantsport","country":"CAN","state":"NS"},{"id":20,"name":"Hayes Subdivision","country":"CAN","state":"NS"},{"id":21,"name":"Kentville","country":"CAN","state":"NS"},{"id":22,"name":"Lake Echo","country":"CAN","state":"NS"},{"id":23,"name":"Lantz","country":"CAN","state":"NS"},{"id":24,"name":"Lower Sackville","country":"CAN","state":"NS"},{"id":25,"name":"Lunenburg","country":"CAN","state":"NS"},{"id":26,"name":"Middleton","country":"CAN","state":"NS"},{"id":27,"name":"New Glasgow","country":"CAN","state":"NS"},{"id":28,"name":"Oxford","country":"CAN","state":"NS"},{"id":29,"name":"Parrsboro","country":"CAN","state":"NS"},{"id":30,"name":"Pictou","country":"CAN","state":"NS"},{"id":31,"name":"Pictou County","country":"CAN","state":"NS"},{"id":32,"name":"Port Hawkesbury","country":"CAN","state":"NS"},{"id":33,"name":"Port Williams","country":"CAN","state":"NS"},{"id":34,"name":"Princeville","country":"CAN","state":"NS"},{"id":35,"name":"Shelburne","country":"CAN","state":"NS"},{"id":36,"name":"Springhill","country":"CAN","state":"NS"},{"id":37,"name":"Sydney","country":"CAN","state":"NS"},{"id":38,"name":"Sydney Mines","country":"CAN","state":"NS"},{"id":39,"name":"Truro","country":"CAN","state":"NS"},{"id":40,"name":"Windsor","country":"CAN","state":"NS"},{"id":41,"name":"Wolfville","country":"CAN","state":"NS"},{"id":42,"name":"Yarmouth","country":"CAN","state":"NS"}]
+[
+    {
+        "id": 16161,
+        "name": "Amherst",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16170,
+        "name": "Annapolis County",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16171,
+        "name": "Antigonish",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16216,
+        "name": "Berwick",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16242,
+        "name": "Bridgewater",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16272,
+        "name": "Cape Breton County",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16304,
+        "name": "Chester",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16322,
+        "name": "Colchester",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16324,
+        "name": "Cole Harbour",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16342,
+        "name": "Cow Bay",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16355,
+        "name": "Dartmouth",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16374,
+        "name": "Digby",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16375,
+        "name": "Digby County",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16406,
+        "name": "English Corner",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16407,
+        "name": "Eskasoni 3",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16416,
+        "name": "Fall River",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16454,
+        "name": "Glace Bay",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16475,
+        "name": "Greenwood",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16482,
+        "name": "Halifax",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16490,
+        "name": "Hantsport",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16499,
+        "name": "Hayes Subdivision",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16539,
+        "name": "Kentville",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16589,
+        "name": "Lake Echo",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16600,
+        "name": "Lantz",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16632,
+        "name": "Lower Sackville",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16637,
+        "name": "Lunenburg",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16686,
+        "name": "Middleton",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16739,
+        "name": "New Glasgow",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16791,
+        "name": "Oxford",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16799,
+        "name": "Parrsboro",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16818,
+        "name": "Pictou",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16819,
+        "name": "Pictou County",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16840,
+        "name": "Port Hawkesbury",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16846,
+        "name": "Port Williams",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 16859,
+        "name": "Princeville",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 17037,
+        "name": "Shelburne",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 17064,
+        "name": "Springhill",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 17095,
+        "name": "Sydney",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 17096,
+        "name": "Sydney Mines",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 17127,
+        "name": "Truro",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 17211,
+        "name": "Windsor",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 17216,
+        "name": "Wolfville",
+        "country": "CAN",
+        "state": "NS"
+    },
+    {
+        "id": 17220,
+        "name": "Yarmouth",
+        "country": "CAN",
+        "state": "NS"
+    }
+]

@@ -1,1 +1,116 @@
-[{"id":0,"name":"Ba","iso3":"01","country":"FJI"},{"id":1,"name":"Bua","iso3":"02","country":"FJI"},{"id":2,"name":"Cakaudrove","iso3":"03","country":"FJI"},{"id":3,"name":"Central Division","iso3":"C","country":"FJI"},{"id":4,"name":"Eastern Division","iso3":"E","country":"FJI"},{"id":5,"name":"Kadavu","iso3":"04","country":"FJI"},{"id":6,"name":"Lau","iso3":"05","country":"FJI"},{"id":7,"name":"Lomaiviti","iso3":"06","country":"FJI"},{"id":8,"name":"Macuata","iso3":"07","country":"FJI"},{"id":9,"name":"Nadroga-Navosa","iso3":"08","country":"FJI"},{"id":10,"name":"Naitasiri","iso3":"09","country":"FJI"},{"id":11,"name":"Namosi","iso3":"10","country":"FJI"},{"id":12,"name":"Northern Division","iso3":"N","country":"FJI"},{"id":13,"name":"Ra","iso3":"11","country":"FJI"},{"id":14,"name":"Rewa","iso3":"12","country":"FJI"},{"id":15,"name":"Rotuma","iso3":"R","country":"FJI"},{"id":16,"name":"Serua","iso3":"13","country":"FJI"},{"id":17,"name":"Tailevu","iso3":"14","country":"FJI"},{"id":18,"name":"Western Division","iso3":"W","country":"FJI"}]
+[
+    {
+        "id": 1917,
+        "name": "Ba",
+        "country": "FJI",
+        "state_code": "01"
+    },
+    {
+        "id": 1930,
+        "name": "Bua",
+        "country": "FJI",
+        "state_code": "02"
+    },
+    {
+        "id": 1924,
+        "name": "Cakaudrove",
+        "country": "FJI",
+        "state_code": "03"
+    },
+    {
+        "id": 1929,
+        "name": "Central Division",
+        "country": "FJI",
+        "state_code": "C"
+    },
+    {
+        "id": 1932,
+        "name": "Eastern Division",
+        "country": "FJI",
+        "state_code": "E"
+    },
+    {
+        "id": 1934,
+        "name": "Kadavu",
+        "country": "FJI",
+        "state_code": "04"
+    },
+    {
+        "id": 1933,
+        "name": "Lau",
+        "country": "FJI",
+        "state_code": "05"
+    },
+    {
+        "id": 1916,
+        "name": "Lomaiviti",
+        "country": "FJI",
+        "state_code": "06"
+    },
+    {
+        "id": 1922,
+        "name": "Macuata",
+        "country": "FJI",
+        "state_code": "07"
+    },
+    {
+        "id": 1919,
+        "name": "Nadroga-Navosa",
+        "country": "FJI",
+        "state_code": "08"
+    },
+    {
+        "id": 1927,
+        "name": "Naitasiri",
+        "country": "FJI",
+        "state_code": "09"
+    },
+    {
+        "id": 1928,
+        "name": "Namosi",
+        "country": "FJI",
+        "state_code": "10"
+    },
+    {
+        "id": 1921,
+        "name": "Northern Division",
+        "country": "FJI",
+        "state_code": "N"
+    },
+    {
+        "id": 1926,
+        "name": "Ra",
+        "country": "FJI",
+        "state_code": "11"
+    },
+    {
+        "id": 1920,
+        "name": "Rewa",
+        "country": "FJI",
+        "state_code": "12"
+    },
+    {
+        "id": 1931,
+        "name": "Rotuma",
+        "country": "FJI",
+        "state_code": "R"
+    },
+    {
+        "id": 1925,
+        "name": "Serua",
+        "country": "FJI",
+        "state_code": "13"
+    },
+    {
+        "id": 1918,
+        "name": "Tailevu",
+        "country": "FJI",
+        "state_code": "14"
+    },
+    {
+        "id": 1923,
+        "name": "Western Division",
+        "country": "FJI",
+        "state_code": "W"
+    }
+]

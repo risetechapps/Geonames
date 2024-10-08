@@ -1,1 +1,188 @@
-[{"id":0,"name":"Arusha","iso3":"01","country":"TZA"},{"id":1,"name":"Dar es Salaam","iso3":"02","country":"TZA"},{"id":2,"name":"Dodoma","iso3":"03","country":"TZA"},{"id":3,"name":"Geita","iso3":"27","country":"TZA"},{"id":4,"name":"Iringa","iso3":"04","country":"TZA"},{"id":5,"name":"Kagera","iso3":"05","country":"TZA"},{"id":6,"name":"Katavi","iso3":"28","country":"TZA"},{"id":7,"name":"Kigoma","iso3":"08","country":"TZA"},{"id":8,"name":"Kilimanjaro","iso3":"09","country":"TZA"},{"id":9,"name":"Lindi","iso3":"12","country":"TZA"},{"id":10,"name":"Manyara","iso3":"26","country":"TZA"},{"id":11,"name":"Mara","iso3":"13","country":"TZA"},{"id":12,"name":"Mbeya","iso3":"14","country":"TZA"},{"id":13,"name":"Morogoro","iso3":"16","country":"TZA"},{"id":14,"name":"Mtwara","iso3":"17","country":"TZA"},{"id":15,"name":"Mwanza","iso3":"18","country":"TZA"},{"id":16,"name":"Njombe","iso3":"29","country":"TZA"},{"id":17,"name":"Pemba North","iso3":"06","country":"TZA"},{"id":18,"name":"Pemba South","iso3":"10","country":"TZA"},{"id":19,"name":"Pwani","iso3":"19","country":"TZA"},{"id":20,"name":"Rukwa","iso3":"20","country":"TZA"},{"id":21,"name":"Ruvuma","iso3":"21","country":"TZA"},{"id":22,"name":"Shinyanga","iso3":"22","country":"TZA"},{"id":23,"name":"Simiyu","iso3":"30","country":"TZA"},{"id":24,"name":"Singida","iso3":"23","country":"TZA"},{"id":25,"name":"Songwe","iso3":"31","country":"TZA"},{"id":26,"name":"Tabora","iso3":"24","country":"TZA"},{"id":27,"name":"Tanga","iso3":"25","country":"TZA"},{"id":28,"name":"Zanzibar North","iso3":"07","country":"TZA"},{"id":29,"name":"Zanzibar South","iso3":"11","country":"TZA"},{"id":30,"name":"Zanzibar West","iso3":"15","country":"TZA"}]
+[
+    {
+        "id": 1491,
+        "name": "Arusha",
+        "country": "TZA",
+        "state_code": "01"
+    },
+    {
+        "id": 1490,
+        "name": "Dar es Salaam",
+        "country": "TZA",
+        "state_code": "02"
+    },
+    {
+        "id": 1466,
+        "name": "Dodoma",
+        "country": "TZA",
+        "state_code": "03"
+    },
+    {
+        "id": 1481,
+        "name": "Geita",
+        "country": "TZA",
+        "state_code": "27"
+    },
+    {
+        "id": 1489,
+        "name": "Iringa",
+        "country": "TZA",
+        "state_code": "04"
+    },
+    {
+        "id": 1465,
+        "name": "Kagera",
+        "country": "TZA",
+        "state_code": "05"
+    },
+    {
+        "id": 1482,
+        "name": "Katavi",
+        "country": "TZA",
+        "state_code": "28"
+    },
+    {
+        "id": 1478,
+        "name": "Kigoma",
+        "country": "TZA",
+        "state_code": "08"
+    },
+    {
+        "id": 1467,
+        "name": "Kilimanjaro",
+        "country": "TZA",
+        "state_code": "09"
+    },
+    {
+        "id": 1483,
+        "name": "Lindi",
+        "country": "TZA",
+        "state_code": "12"
+    },
+    {
+        "id": 1484,
+        "name": "Manyara",
+        "country": "TZA",
+        "state_code": "26"
+    },
+    {
+        "id": 1468,
+        "name": "Mara",
+        "country": "TZA",
+        "state_code": "13"
+    },
+    {
+        "id": 4955,
+        "name": "Mbeya",
+        "country": "TZA",
+        "state_code": "14"
+    },
+    {
+        "id": 1470,
+        "name": "Morogoro",
+        "country": "TZA",
+        "state_code": "16"
+    },
+    {
+        "id": 1476,
+        "name": "Mtwara",
+        "country": "TZA",
+        "state_code": "17"
+    },
+    {
+        "id": 1479,
+        "name": "Mwanza",
+        "country": "TZA",
+        "state_code": "18"
+    },
+    {
+        "id": 1480,
+        "name": "Njombe",
+        "country": "TZA",
+        "state_code": "29"
+    },
+    {
+        "id": 1488,
+        "name": "Pemba North",
+        "country": "TZA",
+        "state_code": "06"
+    },
+    {
+        "id": 1472,
+        "name": "Pemba South",
+        "country": "TZA",
+        "state_code": "10"
+    },
+    {
+        "id": 1485,
+        "name": "Pwani",
+        "country": "TZA",
+        "state_code": "19"
+    },
+    {
+        "id": 1477,
+        "name": "Rukwa",
+        "country": "TZA",
+        "state_code": "20"
+    },
+    {
+        "id": 1486,
+        "name": "Ruvuma",
+        "country": "TZA",
+        "state_code": "21"
+    },
+    {
+        "id": 1463,
+        "name": "Shinyanga",
+        "country": "TZA",
+        "state_code": "22"
+    },
+    {
+        "id": 1464,
+        "name": "Simiyu",
+        "country": "TZA",
+        "state_code": "30"
+    },
+    {
+        "id": 1474,
+        "name": "Singida",
+        "country": "TZA",
+        "state_code": "23"
+    },
+    {
+        "id": 4956,
+        "name": "Songwe",
+        "country": "TZA",
+        "state_code": "31"
+    },
+    {
+        "id": 1469,
+        "name": "Tabora",
+        "country": "TZA",
+        "state_code": "24"
+    },
+    {
+        "id": 1487,
+        "name": "Tanga",
+        "country": "TZA",
+        "state_code": "25"
+    },
+    {
+        "id": 1473,
+        "name": "Zanzibar North",
+        "country": "TZA",
+        "state_code": "07"
+    },
+    {
+        "id": 1471,
+        "name": "Zanzibar South",
+        "country": "TZA",
+        "state_code": "11"
+    },
+    {
+        "id": 1475,
+        "name": "Zanzibar West",
+        "country": "TZA",
+        "state_code": "15"
+    }
+]

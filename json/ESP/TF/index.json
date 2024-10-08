@@ -1,1 +1,326 @@
-[{"id":0,"name":"Adeje","country":"ESP","state":"TF"},{"id":1,"name":"Agulo","country":"ESP","state":"TF"},{"id":2,"name":"Alajer\u00f3","country":"ESP","state":"TF"},{"id":3,"name":"Arafo","country":"ESP","state":"TF"},{"id":4,"name":"Arico","country":"ESP","state":"TF"},{"id":5,"name":"Arona","country":"ESP","state":"TF"},{"id":6,"name":"Barlovento","country":"ESP","state":"TF"},{"id":7,"name":"Bre\u00f1a Alta","country":"ESP","state":"TF"},{"id":8,"name":"Bre\u00f1a Baja","country":"ESP","state":"TF"},{"id":9,"name":"Buenavista del Norte","country":"ESP","state":"TF"},{"id":10,"name":"Candelaria","country":"ESP","state":"TF"},{"id":11,"name":"Fasnia","country":"ESP","state":"TF"},{"id":12,"name":"Frontera","country":"ESP","state":"TF"},{"id":13,"name":"Fuencaliente de la Palma","country":"ESP","state":"TF"},{"id":14,"name":"Garachico","country":"ESP","state":"TF"},{"id":15,"name":"Garaf\u00eda","country":"ESP","state":"TF"},{"id":16,"name":"Granadilla de Abona","country":"ESP","state":"TF"},{"id":17,"name":"Guancha La","country":"ESP","state":"TF"},{"id":18,"name":"Gu\u00eda de Isora","country":"ESP","state":"TF"},{"id":19,"name":"G\u00fcimar","country":"ESP","state":"TF"},{"id":20,"name":"Hermigua","country":"ESP","state":"TF"},{"id":21,"name":"Icod de los Vinos","country":"ESP","state":"TF"},{"id":22,"name":"Llanos de Aridane Los","country":"ESP","state":"TF"},{"id":23,"name":"Matanza de Acentejo La","country":"ESP","state":"TF"},{"id":24,"name":"Orotava La","country":"ESP","state":"TF"},{"id":25,"name":"Paso El","country":"ESP","state":"TF"},{"id":26,"name":"Pinar de El Hierro El","country":"ESP","state":"TF"},{"id":27,"name":"Puerto de la Cruz","country":"ESP","state":"TF"},{"id":28,"name":"Puntagorda","country":"ESP","state":"TF"},{"id":29,"name":"Puntallana","country":"ESP","state":"TF"},{"id":30,"name":"Realejos Los","country":"ESP","state":"TF"},{"id":31,"name":"Rosario El","country":"ESP","state":"TF"},{"id":32,"name":"San Andr\u00e9s y Sauces","country":"ESP","state":"TF"},{"id":33,"name":"San Crist\u00f3bal de La Laguna","country":"ESP","state":"TF"},{"id":34,"name":"San Juan de la Rambla","country":"ESP","state":"TF"},{"id":35,"name":"San Miguel De Abona","country":"ESP","state":"TF"},{"id":36,"name":"San Sebasti\u00e1n de la Gomera","country":"ESP","state":"TF"},{"id":37,"name":"Santa Cruz de la Palma","country":"ESP","state":"TF"},{"id":38,"name":"Santa Cruz de Tenerife","country":"ESP","state":"TF"},{"id":39,"name":"Santa \u00darsula","country":"ESP","state":"TF"},{"id":40,"name":"Santiago del Teide","country":"ESP","state":"TF"},{"id":41,"name":"Sauzal El","country":"ESP","state":"TF"},{"id":42,"name":"Silos Los","country":"ESP","state":"TF"},{"id":43,"name":"Tacoronte","country":"ESP","state":"TF"},{"id":44,"name":"Tanque El","country":"ESP","state":"TF"},{"id":45,"name":"Tazacorte","country":"ESP","state":"TF"},{"id":46,"name":"Tegueste","country":"ESP","state":"TF"},{"id":47,"name":"Tijarafe","country":"ESP","state":"TF"},{"id":48,"name":"Valle Gran Rey","country":"ESP","state":"TF"},{"id":49,"name":"Vallehermoso","country":"ESP","state":"TF"},{"id":50,"name":"Valverde","country":"ESP","state":"TF"},{"id":51,"name":"Victoria de Acentejo La","country":"ESP","state":"TF"},{"id":52,"name":"Vilaflor","country":"ESP","state":"TF"},{"id":53,"name":"Villa de Mazo","country":"ESP","state":"TF"}]
+[
+    {
+        "id": 31931,
+        "name": "Adeje",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 31969,
+        "name": "Agulo",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 31993,
+        "name": "Alajeró",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 32400,
+        "name": "Arafo",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152448,
+        "name": "Arico",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 32497,
+        "name": "Arona",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 32666,
+        "name": "Barlovento",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 32980,
+        "name": "Breña Alta",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 32981,
+        "name": "Breña Baja",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 33005,
+        "name": "Buenavista del Norte",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 33226,
+        "name": "Candelaria",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 34167,
+        "name": "Fasnia",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 34268,
+        "name": "Frontera",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 34276,
+        "name": "Fuencaliente de la Palma",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 34405,
+        "name": "Garachico",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 34406,
+        "name": "Garafía",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 34498,
+        "name": "Granadilla de Abona",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152449,
+        "name": "Guancha La",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 34557,
+        "name": "Guía de Isora",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 34569,
+        "name": "Güimar",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 34586,
+        "name": "Hermigua",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 34732,
+        "name": "Icod de los Vinos",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152451,
+        "name": "Llanos de Aridane Los",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152452,
+        "name": "Matanza de Acentejo La",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152453,
+        "name": "Orotava La",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152454,
+        "name": "Paso El",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152465,
+        "name": "Pinar de El Hierro El",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 36454,
+        "name": "Puerto de la Cruz",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 36472,
+        "name": "Puntagorda",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 36473,
+        "name": "Puntallana",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152455,
+        "name": "Realejos Los",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152456,
+        "name": "Rosario El",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152457,
+        "name": "San Andrés y Sauces",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152450,
+        "name": "San Cristóbal de La Laguna",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 36848,
+        "name": "San Juan de la Rambla",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 36879,
+        "name": "San Miguel De Abona",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 36920,
+        "name": "San Sebastián de la Gomera",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 37038,
+        "name": "Santa Cruz de la Palma",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 37036,
+        "name": "Santa Cruz de Tenerife",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 37102,
+        "name": "Santa Úrsula",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 37119,
+        "name": "Santiago del Teide",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152458,
+        "name": "Sauzal El",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152459,
+        "name": "Silos Los",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 37347,
+        "name": "Tacoronte",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152460,
+        "name": "Tanque El",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 37389,
+        "name": "Tazacorte",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 37391,
+        "name": "Tegueste",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 37425,
+        "name": "Tijarafe",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152461,
+        "name": "Valle Gran Rey",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152462,
+        "name": "Vallehermoso",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 37881,
+        "name": "Valverde",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152463,
+        "name": "Victoria de Acentejo La",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 37982,
+        "name": "Vilaflor",
+        "country": "ESP",
+        "state": "TF"
+    },
+    {
+        "id": 152464,
+        "name": "Villa de Mazo",
+        "country": "ESP",
+        "state": "TF"
+    }
+]

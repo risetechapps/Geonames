@@ -1,1 +1,182 @@
-[{"id":0,"name":"Cheorwon-gun","country":"KOR","state":"42"},{"id":1,"name":"Chuncheon","country":"KOR","state":"42"},{"id":2,"name":"Chuncheon-si","country":"KOR","state":"42"},{"id":3,"name":"Donghae-si","country":"KOR","state":"42"},{"id":4,"name":"Gangneung","country":"KOR","state":"42"},{"id":5,"name":"Gangneung-si","country":"KOR","state":"42"},{"id":6,"name":"Goseong-gun","country":"KOR","state":"42"},{"id":7,"name":"Hoengseong-gun","country":"KOR","state":"42"},{"id":8,"name":"Hongch\u2019\u014fn","country":"KOR","state":"42"},{"id":9,"name":"Hongcheon-gun","country":"KOR","state":"42"},{"id":10,"name":"Hwacheon","country":"KOR","state":"42"},{"id":11,"name":"Hwacheon-gun","country":"KOR","state":"42"},{"id":12,"name":"Inje-gun","country":"KOR","state":"42"},{"id":13,"name":"Jeongseon-gun","country":"KOR","state":"42"},{"id":14,"name":"Kosong","country":"KOR","state":"42"},{"id":15,"name":"Neietsu","country":"KOR","state":"42"},{"id":16,"name":"Pyeongchang","country":"KOR","state":"42"},{"id":17,"name":"Pyeongchang-gun","country":"KOR","state":"42"},{"id":18,"name":"Samcheok-si","country":"KOR","state":"42"},{"id":19,"name":"Santyoku","country":"KOR","state":"42"},{"id":20,"name":"Sokcho","country":"KOR","state":"42"},{"id":21,"name":"Sokcho-si","country":"KOR","state":"42"},{"id":22,"name":"T\u2019aebaek","country":"KOR","state":"42"},{"id":23,"name":"Taebaek-si","country":"KOR","state":"42"},{"id":24,"name":"Tonghae","country":"KOR","state":"42"},{"id":25,"name":"W\u014fnju","country":"KOR","state":"42"},{"id":26,"name":"Wonju-si","country":"KOR","state":"42"},{"id":27,"name":"Yanggu","country":"KOR","state":"42"},{"id":28,"name":"Yanggu-gun","country":"KOR","state":"42"},{"id":29,"name":"Yangyang-gun","country":"KOR","state":"42"}]
+[
+    {
+        "id": 65293,
+        "name": "Cheorwon-gun",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65297,
+        "name": "Chuncheon",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65298,
+        "name": "Chuncheon-si",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65311,
+        "name": "Donghae-si",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65322,
+        "name": "Gangneung",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65323,
+        "name": "Gangneung-si",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65349,
+        "name": "Goseong-gun",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65383,
+        "name": "Hoengseong-gun",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65385,
+        "name": "Hongch’ŏn",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65384,
+        "name": "Hongcheon-gun",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65388,
+        "name": "Hwacheon",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65389,
+        "name": "Hwacheon-gun",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65401,
+        "name": "Inje-gun",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65411,
+        "name": "Jeongseon-gun",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65430,
+        "name": "Kosong",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65459,
+        "name": "Neietsu",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65473,
+        "name": "Pyeongchang",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65474,
+        "name": "Pyeongchang-gun",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65478,
+        "name": "Samcheok-si",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65481,
+        "name": "Santyoku",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65504,
+        "name": "Sokcho",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65505,
+        "name": "Sokcho-si",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65519,
+        "name": "T’aebaek",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65515,
+        "name": "Taebaek-si",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65518,
+        "name": "Tonghae",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65534,
+        "name": "Wŏnju",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65533,
+        "name": "Wonju-si",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65536,
+        "name": "Yanggu",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65537,
+        "name": "Yanggu-gun",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 65543,
+        "name": "Yangyang-gun",
+        "country": "KOR",
+        "state": "42"
+    }
+]

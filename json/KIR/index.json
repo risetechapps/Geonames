@@ -1,1 +1,20 @@
-[{"id":0,"name":"Gilbert Islands","iso3":"G","country":"KIR"},{"id":1,"name":"Line Islands","iso3":"L","country":"KIR"},{"id":2,"name":"Phoenix Islands","iso3":"P","country":"KIR"}]
+[
+    {
+        "id": 1831,
+        "name": "Gilbert Islands",
+        "country": "KIR",
+        "state_code": "G"
+    },
+    {
+        "id": 1832,
+        "name": "Line Islands",
+        "country": "KIR",
+        "state_code": "L"
+    },
+    {
+        "id": 1830,
+        "name": "Phoenix Islands",
+        "country": "KIR",
+        "state_code": "P"
+    }
+]

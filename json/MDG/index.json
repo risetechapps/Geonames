@@ -1,1 +1,38 @@
-[{"id":0,"name":"Antananarivo Province","iso3":"T","country":"MDG"},{"id":1,"name":"Antsiranana Province","iso3":"D","country":"MDG"},{"id":2,"name":"Fianarantsoa Province","iso3":"F","country":"MDG"},{"id":3,"name":"Mahajanga Province","iso3":"M","country":"MDG"},{"id":4,"name":"Toamasina Province","iso3":"A","country":"MDG"},{"id":5,"name":"Toliara Province","iso3":"U","country":"MDG"}]
+[
+    {
+        "id": 2951,
+        "name": "Antananarivo Province",
+        "country": "MDG",
+        "state_code": "T"
+    },
+    {
+        "id": 2950,
+        "name": "Antsiranana Province",
+        "country": "MDG",
+        "state_code": "D"
+    },
+    {
+        "id": 2948,
+        "name": "Fianarantsoa Province",
+        "country": "MDG",
+        "state_code": "F"
+    },
+    {
+        "id": 2953,
+        "name": "Mahajanga Province",
+        "country": "MDG",
+        "state_code": "M"
+    },
+    {
+        "id": 2952,
+        "name": "Toamasina Province",
+        "country": "MDG",
+        "state_code": "A"
+    },
+    {
+        "id": 2949,
+        "name": "Toliara Province",
+        "country": "MDG",
+        "state_code": "U"
+    }
+]

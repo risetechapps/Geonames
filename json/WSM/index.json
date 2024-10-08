@@ -1,1 +1,68 @@
-[{"id":0,"name":"A'ana","iso3":"AA","country":"WSM"},{"id":1,"name":"Aiga-i-le-Tai","iso3":"AL","country":"WSM"},{"id":2,"name":"Atua","iso3":"AT","country":"WSM"},{"id":3,"name":"Fa'asaleleaga","iso3":"FA","country":"WSM"},{"id":4,"name":"Gaga'emauga","iso3":"GE","country":"WSM"},{"id":5,"name":"Gaga'ifomauga","iso3":"GI","country":"WSM"},{"id":6,"name":"Palauli","iso3":"PA","country":"WSM"},{"id":7,"name":"Satupa'itea","iso3":"SA","country":"WSM"},{"id":8,"name":"Tuamasaga","iso3":"TU","country":"WSM"},{"id":9,"name":"Va'a-o-Fonoti","iso3":"VF","country":"WSM"},{"id":10,"name":"Vaisigano","iso3":"VS","country":"WSM"}]
+[
+    {
+        "id": 4763,
+        "name": "A'ana",
+        "country": "WSM",
+        "state_code": "AA"
+    },
+    {
+        "id": 4761,
+        "name": "Aiga-i-le-Tai",
+        "country": "WSM",
+        "state_code": "AL"
+    },
+    {
+        "id": 4765,
+        "name": "Atua",
+        "country": "WSM",
+        "state_code": "AT"
+    },
+    {
+        "id": 4764,
+        "name": "Fa'asaleleaga",
+        "country": "WSM",
+        "state_code": "FA"
+    },
+    {
+        "id": 4769,
+        "name": "Gaga'emauga",
+        "country": "WSM",
+        "state_code": "GE"
+    },
+    {
+        "id": 4771,
+        "name": "Gaga'ifomauga",
+        "country": "WSM",
+        "state_code": "GI"
+    },
+    {
+        "id": 4767,
+        "name": "Palauli",
+        "country": "WSM",
+        "state_code": "PA"
+    },
+    {
+        "id": 4762,
+        "name": "Satupa'itea",
+        "country": "WSM",
+        "state_code": "SA"
+    },
+    {
+        "id": 4770,
+        "name": "Tuamasaga",
+        "country": "WSM",
+        "state_code": "TU"
+    },
+    {
+        "id": 4768,
+        "name": "Va'a-o-Fonoti",
+        "country": "WSM",
+        "state_code": "VF"
+    },
+    {
+        "id": 4766,
+        "name": "Vaisigano",
+        "country": "WSM",
+        "state_code": "VS"
+    }
+]

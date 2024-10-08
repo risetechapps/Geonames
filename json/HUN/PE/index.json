@@ -1,1 +1,896 @@
-[{"id":0,"name":"Abony","country":"HUN","state":"PE"},{"id":1,"name":"Acsa","country":"HUN","state":"PE"},{"id":2,"name":"Albertirsa","country":"HUN","state":"PE"},{"id":3,"name":"Als\u00f3n\u00e9medi","country":"HUN","state":"PE"},{"id":4,"name":"Asz\u00f3d","country":"HUN","state":"PE"},{"id":5,"name":"Asz\u00f3di J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":6,"name":"Bag","country":"HUN","state":"PE"},{"id":7,"name":"Biatorb\u00e1gy","country":"HUN","state":"PE"},{"id":8,"name":"Budakal\u00e1sz","country":"HUN","state":"PE"},{"id":9,"name":"Budakeszi","country":"HUN","state":"PE"},{"id":10,"name":"Budakeszi J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":11,"name":"Buda\u00f6rs","country":"HUN","state":"PE"},{"id":12,"name":"Bugyi","country":"HUN","state":"PE"},{"id":13,"name":"Cegl\u00e9d","country":"HUN","state":"PE"},{"id":14,"name":"Cegl\u00e9dbercel","country":"HUN","state":"PE"},{"id":15,"name":"Cegl\u00e9di J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":16,"name":"Csem\u0151","country":"HUN","state":"PE"},{"id":17,"name":"Csob\u00e1nka","country":"HUN","state":"PE"},{"id":18,"name":"Cs\u00f6m\u00f6r","country":"HUN","state":"PE"},{"id":19,"name":"Dabas","country":"HUN","state":"PE"},{"id":20,"name":"Dabasi J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":21,"name":"D\u00e1nszentmikl\u00f3s","country":"HUN","state":"PE"},{"id":22,"name":"D\u00e1ny","country":"HUN","state":"PE"},{"id":23,"name":"D\u00e9legyh\u00e1za","country":"HUN","state":"PE"},{"id":24,"name":"Di\u00f3sd","country":"HUN","state":"PE"},{"id":25,"name":"Domony","country":"HUN","state":"PE"},{"id":26,"name":"D\u00f6ms\u00f6d","country":"HUN","state":"PE"},{"id":27,"name":"Dunabogd\u00e1ny","country":"HUN","state":"PE"},{"id":28,"name":"Dunaharaszti","country":"HUN","state":"PE"},{"id":29,"name":"Dunakeszi","country":"HUN","state":"PE"},{"id":30,"name":"Dunakeszi J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":31,"name":"Dunavars\u00e1ny","country":"HUN","state":"PE"},{"id":32,"name":"Ecser","country":"HUN","state":"PE"},{"id":33,"name":"\u00c9rd","country":"HUN","state":"PE"},{"id":34,"name":"\u00c9rdi J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":35,"name":"Erd\u0151kertes","country":"HUN","state":"PE"},{"id":36,"name":"Farmos","country":"HUN","state":"PE"},{"id":37,"name":"Fels\u0151pakony","country":"HUN","state":"PE"},{"id":38,"name":"Forr\u00f3puszta","country":"HUN","state":"PE"},{"id":39,"name":"F\u00f3t","country":"HUN","state":"PE"},{"id":40,"name":"Galgah\u00e9v\u00edz","country":"HUN","state":"PE"},{"id":41,"name":"Galgam\u00e1csa","country":"HUN","state":"PE"},{"id":42,"name":"G\u00f6d","country":"HUN","state":"PE"},{"id":43,"name":"G\u00f6d\u00f6ll\u0151","country":"HUN","state":"PE"},{"id":44,"name":"G\u00f6d\u00f6ll\u0151i J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":45,"name":"Gomba","country":"HUN","state":"PE"},{"id":46,"name":"Gy\u00e1l","country":"HUN","state":"PE"},{"id":47,"name":"Gy\u00e1li J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":48,"name":"Gy\u00f6mr\u0151","country":"HUN","state":"PE"},{"id":49,"name":"Hal\u00e1sztelek","country":"HUN","state":"PE"},{"id":50,"name":"Hern\u00e1d","country":"HUN","state":"PE"},{"id":51,"name":"H\u00e9v\u00edzgy\u00f6rk","country":"HUN","state":"PE"},{"id":52,"name":"Iklad","country":"HUN","state":"PE"},{"id":53,"name":"In\u00e1rcs","country":"HUN","state":"PE"},{"id":54,"name":"Isaszeg","country":"HUN","state":"PE"},{"id":55,"name":"J\u00e1szkarajen\u0151","country":"HUN","state":"PE"},{"id":56,"name":"Kakucs","country":"HUN","state":"PE"},{"id":57,"name":"Kartal","country":"HUN","state":"PE"},{"id":58,"name":"Kerepes","country":"HUN","state":"PE"},{"id":59,"name":"Kiskunlach\u00e1za","country":"HUN","state":"PE"},{"id":60,"name":"Kismaros","country":"HUN","state":"PE"},{"id":61,"name":"Kistarcsa","country":"HUN","state":"PE"},{"id":62,"name":"Kocs\u00e9r","country":"HUN","state":"PE"},{"id":63,"name":"K\u00f3ka","country":"HUN","state":"PE"},{"id":64,"name":"Kosd","country":"HUN","state":"PE"},{"id":65,"name":"Le\u00e1nyfalu","country":"HUN","state":"PE"},{"id":66,"name":"Magl\u00f3d","country":"HUN","state":"PE"},{"id":67,"name":"Mende","country":"HUN","state":"PE"},{"id":68,"name":"Mogyor\u00f3d","country":"HUN","state":"PE"},{"id":69,"name":"Monor","country":"HUN","state":"PE"},{"id":70,"name":"Monori J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":71,"name":"Nagyk\u00e1ta","country":"HUN","state":"PE"},{"id":72,"name":"Nagyk\u00e1tai J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":73,"name":"Nagyk\u0151r\u00f6s","country":"HUN","state":"PE"},{"id":74,"name":"Nagyk\u0151r\u00f6si J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":75,"name":"Nagykov\u00e1csi","country":"HUN","state":"PE"},{"id":76,"name":"Nagymaros","country":"HUN","state":"PE"},{"id":77,"name":"Nagytarcsa","country":"HUN","state":"PE"},{"id":78,"name":"Ny\u00e1regyh\u00e1za","country":"HUN","state":"PE"},{"id":79,"name":"\u00d3csa","country":"HUN","state":"PE"},{"id":80,"name":"\u0150rbotty\u00e1n","country":"HUN","state":"PE"},{"id":81,"name":"\u00d6rk\u00e9ny","country":"HUN","state":"PE"},{"id":82,"name":"P\u00e1nd","country":"HUN","state":"PE"},{"id":83,"name":"P\u00e1ty","country":"HUN","state":"PE"},{"id":84,"name":"P\u00e9cel","country":"HUN","state":"PE"},{"id":85,"name":"Perb\u00e1l","country":"HUN","state":"PE"},{"id":86,"name":"P\u00e9teri","country":"HUN","state":"PE"},{"id":87,"name":"Pilis","country":"HUN","state":"PE"},{"id":88,"name":"Pilisborosjen\u0151","country":"HUN","state":"PE"},{"id":89,"name":"Piliscsaba","country":"HUN","state":"PE"},{"id":90,"name":"Pilissz\u00e1nt\u00f3","country":"HUN","state":"PE"},{"id":91,"name":"Pilisszentiv\u00e1n","country":"HUN","state":"PE"},{"id":92,"name":"Pilisszentkereszt","country":"HUN","state":"PE"},{"id":93,"name":"Pilisv\u00f6r\u00f6sv\u00e1r","country":"HUN","state":"PE"},{"id":94,"name":"Pilisv\u00f6r\u00f6sv\u00e1ri J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":95,"name":"Pom\u00e1z","country":"HUN","state":"PE"},{"id":96,"name":"R\u00e1ckeve","country":"HUN","state":"PE"},{"id":97,"name":"R\u00e1ckevei J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":98,"name":"Solym\u00e1r","country":"HUN","state":"PE"},{"id":99,"name":"S\u00f3sk\u00fat","country":"HUN","state":"PE"},{"id":100,"name":"S\u00fclys\u00e1p","country":"HUN","state":"PE"},{"id":101,"name":"Szada","country":"HUN","state":"PE"},{"id":102,"name":"Sz\u00e1zhalombatta","country":"HUN","state":"PE"},{"id":103,"name":"Szentendre","country":"HUN","state":"PE"},{"id":104,"name":"Szentendrei J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":105,"name":"Szentl\u0151rinck\u00e1ta","country":"HUN","state":"PE"},{"id":106,"name":"Szentm\u00e1rtonk\u00e1ta","country":"HUN","state":"PE"},{"id":107,"name":"Szigetcs\u00e9p","country":"HUN","state":"PE"},{"id":108,"name":"Szigethalom","country":"HUN","state":"PE"},{"id":109,"name":"Szigetszentmikl\u00f3s","country":"HUN","state":"PE"},{"id":110,"name":"Szigetszentmikl\u00f3si J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":111,"name":"Sziget\u00fajfalu","country":"HUN","state":"PE"},{"id":112,"name":"Szob","country":"HUN","state":"PE"},{"id":113,"name":"Szobi J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":114,"name":"Sz\u0151d","country":"HUN","state":"PE"},{"id":115,"name":"Sz\u0151dliget","country":"HUN","state":"PE"},{"id":116,"name":"T\u00e1borfalva","country":"HUN","state":"PE"},{"id":117,"name":"Tahit\u00f3tfalu","country":"HUN","state":"PE"},{"id":118,"name":"Taksony","country":"HUN","state":"PE"},{"id":119,"name":"T\u00e1pi\u00f3bicske","country":"HUN","state":"PE"},{"id":120,"name":"T\u00e1pi\u00f3gy\u00f6rgye","country":"HUN","state":"PE"},{"id":121,"name":"T\u00e1pi\u00f3s\u00e1g","country":"HUN","state":"PE"},{"id":122,"name":"T\u00e1pi\u00f3szecs\u0151","country":"HUN","state":"PE"},{"id":123,"name":"T\u00e1pi\u00f3szele","country":"HUN","state":"PE"},{"id":124,"name":"T\u00e1pi\u00f3szentm\u00e1rton","country":"HUN","state":"PE"},{"id":125,"name":"T\u00e1pi\u00f3sz\u0151l\u0151s","country":"HUN","state":"PE"},{"id":126,"name":"T\u00e1rnok","country":"HUN","state":"PE"},{"id":127,"name":"Telki","country":"HUN","state":"PE"},{"id":128,"name":"T\u00f3alm\u00e1s","country":"HUN","state":"PE"},{"id":129,"name":"T\u00f6k\u00f6l","country":"HUN","state":"PE"},{"id":130,"name":"T\u00f6r\u00f6kb\u00e1lint","country":"HUN","state":"PE"},{"id":131,"name":"T\u00f6rtel","country":"HUN","state":"PE"},{"id":132,"name":"Tura","country":"HUN","state":"PE"},{"id":133,"name":"\u00dajharty\u00e1n","country":"HUN","state":"PE"},{"id":134,"name":"\u00dajszilv\u00e1s","country":"HUN","state":"PE"},{"id":135,"name":"\u00dcll\u0151","country":"HUN","state":"PE"},{"id":136,"name":"\u00dari","country":"HUN","state":"PE"},{"id":137,"name":"\u00dcr\u00f6m","country":"HUN","state":"PE"},{"id":138,"name":"V\u00e1c","country":"HUN","state":"PE"},{"id":139,"name":"V\u00e1ci J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":140,"name":"V\u00e1cszentl\u00e1szl\u00f3","country":"HUN","state":"PE"},{"id":141,"name":"Valk\u00f3","country":"HUN","state":"PE"},{"id":142,"name":"Vecs\u00e9s","country":"HUN","state":"PE"},{"id":143,"name":"Vecs\u00e9si J\u00e1r\u00e1s","country":"HUN","state":"PE"},{"id":144,"name":"Veresegyh\u00e1z","country":"HUN","state":"PE"},{"id":145,"name":"Ver\u0151ce","country":"HUN","state":"PE"},{"id":146,"name":"Visegr\u00e1d","country":"HUN","state":"PE"},{"id":147,"name":"Zs\u00e1mb\u00e9k","country":"HUN","state":"PE"},{"id":148,"name":"Zs\u00e1mbok","country":"HUN","state":"PE"}]
+[
+    {
+        "id": 55172,
+        "name": "Abony",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55174,
+        "name": "Acsa",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55183,
+        "name": "Albertirsa",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55185,
+        "name": "Alsónémedi",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55197,
+        "name": "Aszód",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55198,
+        "name": "Aszódi Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55201,
+        "name": "Bag",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55245,
+        "name": "Biatorbágy",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55260,
+        "name": "Budakalász",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55261,
+        "name": "Budakeszi",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55262,
+        "name": "Budakeszi Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55282,
+        "name": "Budaörs",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55284,
+        "name": "Bugyi",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55315,
+        "name": "Cegléd",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55316,
+        "name": "Ceglédbercel",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55317,
+        "name": "Ceglédi Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55327,
+        "name": "Csemő",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55336,
+        "name": "Csobánka",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55350,
+        "name": "Csömör",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55351,
+        "name": "Dabas",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55352,
+        "name": "Dabasi Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55384,
+        "name": "Dánszentmiklós",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55385,
+        "name": "Dány",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55388,
+        "name": "Délegyháza",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55362,
+        "name": "Diósd",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55370,
+        "name": "Domony",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55392,
+        "name": "Dömsöd",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55372,
+        "name": "Dunabogdány",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55374,
+        "name": "Dunaharaszti",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55375,
+        "name": "Dunakeszi",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55376,
+        "name": "Dunakeszi Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55380,
+        "name": "Dunavarsány",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55394,
+        "name": "Ecser",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56145,
+        "name": "Érd",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56146,
+        "name": "Érdi Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55411,
+        "name": "Erdőkertes",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55417,
+        "name": "Farmos",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55423,
+        "name": "Felsőpakony",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55433,
+        "name": "Forrópuszta",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55436,
+        "name": "Fót",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55444,
+        "name": "Galgahévíz",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55445,
+        "name": "Galgamácsa",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55474,
+        "name": "Göd",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55475,
+        "name": "Gödöllő",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55476,
+        "name": "Gödöllői Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55449,
+        "name": "Gomba",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55456,
+        "name": "Gyál",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55457,
+        "name": "Gyáli Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55458,
+        "name": "Gyömrő",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55496,
+        "name": "Halásztelek",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55507,
+        "name": "Hernád",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55520,
+        "name": "Hévízgyörk",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55526,
+        "name": "Iklad",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55527,
+        "name": "Inárcs",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55529,
+        "name": "Isaszeg",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55548,
+        "name": "Jászkarajenő",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55557,
+        "name": "Kakucs",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55570,
+        "name": "Kartal",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55588,
+        "name": "Kerepes",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55598,
+        "name": "Kiskunlacháza",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55606,
+        "name": "Kismaros",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55609,
+        "name": "Kistarcsa",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55617,
+        "name": "Kocsér",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55644,
+        "name": "Kóka",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55624,
+        "name": "Kosd",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55663,
+        "name": "Leányfalu",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55674,
+        "name": "Maglód",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55687,
+        "name": "Mende",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55707,
+        "name": "Mogyoród",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55711,
+        "name": "Monor",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55712,
+        "name": "Monori Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55753,
+        "name": "Nagykáta",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55754,
+        "name": "Nagykátai Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55755,
+        "name": "Nagykőrös",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55756,
+        "name": "Nagykőrösi Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55750,
+        "name": "Nagykovácsi",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55757,
+        "name": "Nagymaros",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55763,
+        "name": "Nagytarcsa",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55767,
+        "name": "Nyáregyháza",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56149,
+        "name": "Ócsa",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56171,
+        "name": "Őrbottyán",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56158,
+        "name": "Örkény",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55841,
+        "name": "Pánd",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55847,
+        "name": "Páty",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55849,
+        "name": "Pécel",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55813,
+        "name": "Perbál",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55855,
+        "name": "Péteri",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55817,
+        "name": "Pilis",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55818,
+        "name": "Pilisborosjenő",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55819,
+        "name": "Piliscsaba",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55822,
+        "name": "Pilisszántó",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55820,
+        "name": "Pilisszentiván",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55821,
+        "name": "Pilisszentkereszt",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55823,
+        "name": "Pilisvörösvár",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55824,
+        "name": "Pilisvörösvári Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55829,
+        "name": "Pomáz",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55872,
+        "name": "Ráckeve",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55873,
+        "name": "Ráckevei Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55905,
+        "name": "Solymár",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55996,
+        "name": "Sóskút",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55998,
+        "name": "Sülysáp",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55914,
+        "name": "Szada",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55971,
+        "name": "Százhalombatta",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55934,
+        "name": "Szentendre",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55935,
+        "name": "Szentendrei Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55946,
+        "name": "Szentlőrinckáta",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55947,
+        "name": "Szentmártonkáta",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55950,
+        "name": "Szigetcsép",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55951,
+        "name": "Szigethalom",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55952,
+        "name": "Szigetszentmiklós",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55953,
+        "name": "Szigetszentmiklósi Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55956,
+        "name": "Szigetújfalu",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55962,
+        "name": "Szob",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55963,
+        "name": "Szobi Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55977,
+        "name": "Sződ",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 55978,
+        "name": "Sződliget",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56061,
+        "name": "Táborfalva",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56003,
+        "name": "Tahitótfalu",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56004,
+        "name": "Taksony",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56063,
+        "name": "Tápióbicske",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56064,
+        "name": "Tápiógyörgye",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56069,
+        "name": "Tápióság",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56065,
+        "name": "Tápiószecső",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56066,
+        "name": "Tápiószele",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56067,
+        "name": "Tápiószentmárton",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56068,
+        "name": "Tápiószőlős",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56071,
+        "name": "Tárnok",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56018,
+        "name": "Telki",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56076,
+        "name": "Tóalmás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56079,
+        "name": "Tököl",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56083,
+        "name": "Törökbálint",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56082,
+        "name": "Törtel",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56058,
+        "name": "Tura",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56161,
+        "name": "Újhartyán",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56163,
+        "name": "Újszilvás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56168,
+        "name": "Üllő",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56165,
+        "name": "Úri",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56169,
+        "name": "Üröm",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56105,
+        "name": "Vác",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56106,
+        "name": "Váci Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56107,
+        "name": "Vácszentlászló",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56090,
+        "name": "Valkó",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56094,
+        "name": "Vecsés",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56095,
+        "name": "Vecsési Járás",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56097,
+        "name": "Veresegyház",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56099,
+        "name": "Verőce",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56103,
+        "name": "Visegrád",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56132,
+        "name": "Zsámbék",
+        "country": "HUN",
+        "state": "PE"
+    },
+    {
+        "id": 56131,
+        "name": "Zsámbok",
+        "country": "HUN",
+        "state": "PE"
+    }
+]

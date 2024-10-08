@@ -1,1 +1,68 @@
-[{"id":0,"name":"Bamako","iso3":"BKO","country":"MLI"},{"id":1,"name":"Gao Region","iso3":"7","country":"MLI"},{"id":2,"name":"Kayes Region","iso3":"1","country":"MLI"},{"id":3,"name":"Kidal Region","iso3":"8","country":"MLI"},{"id":4,"name":"Koulikoro Region","iso3":"2","country":"MLI"},{"id":5,"name":"M\u00e9naka Region","iso3":"9","country":"MLI"},{"id":6,"name":"Mopti Region","iso3":"5","country":"MLI"},{"id":7,"name":"S\u00e9gou Region","iso3":"4","country":"MLI"},{"id":8,"name":"Sikasso Region","iso3":"3","country":"MLI"},{"id":9,"name":"Taoud\u00e9nit Region","iso3":"10","country":"MLI"},{"id":10,"name":"Tombouctou Region","iso3":"6","country":"MLI"}]
+[
+    {
+        "id": 253,
+        "name": "Bamako",
+        "country": "MLI",
+        "state_code": "BKO"
+    },
+    {
+        "id": 258,
+        "name": "Gao Region",
+        "country": "MLI",
+        "state_code": "7"
+    },
+    {
+        "id": 252,
+        "name": "Kayes Region",
+        "country": "MLI",
+        "state_code": "1"
+    },
+    {
+        "id": 257,
+        "name": "Kidal Region",
+        "country": "MLI",
+        "state_code": "8"
+    },
+    {
+        "id": 250,
+        "name": "Koulikoro Region",
+        "country": "MLI",
+        "state_code": "2"
+    },
+    {
+        "id": 251,
+        "name": "Ménaka Region",
+        "country": "MLI",
+        "state_code": "9"
+    },
+    {
+        "id": 255,
+        "name": "Mopti Region",
+        "country": "MLI",
+        "state_code": "5"
+    },
+    {
+        "id": 249,
+        "name": "Ségou Region",
+        "country": "MLI",
+        "state_code": "4"
+    },
+    {
+        "id": 254,
+        "name": "Sikasso Region",
+        "country": "MLI",
+        "state_code": "3"
+    },
+    {
+        "id": 256,
+        "name": "Taoudénit Region",
+        "country": "MLI",
+        "state_code": "10"
+    },
+    {
+        "id": 248,
+        "name": "Tombouctou Region",
+        "country": "MLI",
+        "state_code": "6"
+    }
+]

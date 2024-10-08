@@ -1,1 +1,1544 @@
-[{"id":0,"name":"Afuma\u0163i","country":"ROU","state":"DJ"},{"id":1,"name":"Alm\u0103j","country":"ROU","state":"DJ"},{"id":2,"name":"Am\u0103r\u0103\u015ftii de Jos","country":"ROU","state":"DJ"},{"id":3,"name":"Am\u0103r\u0103\u015ftii de Sus","country":"ROU","state":"DJ"},{"id":4,"name":"Apele Vii","country":"ROU","state":"DJ"},{"id":5,"name":"Argetoaia","country":"ROU","state":"DJ"},{"id":6,"name":"B\u0103do\u0219i","country":"ROU","state":"DJ"},{"id":7,"name":"B\u0103ile\u015fti","country":"ROU","state":"DJ"},{"id":8,"name":"B\u00e2lta","country":"ROU","state":"DJ"},{"id":9,"name":"B\u00e2rca","country":"ROU","state":"DJ"},{"id":10,"name":"Basarabi","country":"ROU","state":"DJ"},{"id":11,"name":"Bechet","country":"ROU","state":"DJ"},{"id":12,"name":"Bistre\u021b","country":"ROU","state":"DJ"},{"id":13,"name":"Boto\u015fe\u015fti-Paia","country":"ROU","state":"DJ"},{"id":14,"name":"Boureni","country":"ROU","state":"DJ"},{"id":15,"name":"Brabe\u021bi","country":"ROU","state":"DJ"},{"id":16,"name":"Brabova","country":"ROU","state":"DJ"},{"id":17,"name":"Br\u0103de\u015fti","country":"ROU","state":"DJ"},{"id":18,"name":"Bralo\u015fti\u0163a","country":"ROU","state":"DJ"},{"id":19,"name":"Bratovoe\u0219ti","country":"ROU","state":"DJ"},{"id":20,"name":"Breasta","country":"ROU","state":"DJ"},{"id":21,"name":"Bucov\u0103\u0163","country":"ROU","state":"DJ"},{"id":22,"name":"Bulze\u015fti","country":"ROU","state":"DJ"},{"id":23,"name":"Calafat","country":"ROU","state":"DJ"},{"id":24,"name":"C\u0103l\u0103ra\u015fi","country":"ROU","state":"DJ"},{"id":25,"name":"Calop\u0103r","country":"ROU","state":"DJ"},{"id":26,"name":"Caraula","country":"ROU","state":"DJ"},{"id":27,"name":"C\u00e2rcea","country":"ROU","state":"DJ"},{"id":28,"name":"C\u00e2rna","country":"ROU","state":"DJ"},{"id":29,"name":"Carpen","country":"ROU","state":"DJ"},{"id":30,"name":"Castranova","country":"ROU","state":"DJ"},{"id":31,"name":"Castrele Traiane","country":"ROU","state":"DJ"},{"id":32,"name":"Catane","country":"ROU","state":"DJ"},{"id":33,"name":"Celaru","country":"ROU","state":"DJ"},{"id":34,"name":"Cer\u0103t","country":"ROU","state":"DJ"},{"id":35,"name":"Cern\u0103te\u015fti","country":"ROU","state":"DJ"},{"id":36,"name":"Cernele","country":"ROU","state":"DJ"},{"id":37,"name":"Cetate","country":"ROU","state":"DJ"},{"id":38,"name":"Cioroia\u0219i","country":"ROU","state":"DJ"},{"id":39,"name":"Ciupercenii Noi","country":"ROU","state":"DJ"},{"id":40,"name":"Ciupercenii Vechi","country":"ROU","state":"DJ"},{"id":41,"name":"Cleanov","country":"ROU","state":"DJ"},{"id":42,"name":"Como\u0219teni","country":"ROU","state":"DJ"},{"id":43,"name":"Comuna Afuma\u0163i","country":"ROU","state":"DJ"},{"id":44,"name":"Comuna Alm\u00e3j","country":"ROU","state":"DJ"},{"id":45,"name":"Comuna Am\u0103r\u0103\u015ftii de Jos","country":"ROU","state":"DJ"},{"id":46,"name":"Comuna Am\u0103r\u0103\u015ftii de Sus","country":"ROU","state":"DJ"},{"id":47,"name":"Comuna Apele Vii","country":"ROU","state":"DJ"},{"id":48,"name":"Comuna Argetoaia","country":"ROU","state":"DJ"},{"id":49,"name":"Comuna B\u00e2rca","country":"ROU","state":"DJ"},{"id":50,"name":"Comuna Bistre\u0163","country":"ROU","state":"DJ"},{"id":51,"name":"Comuna Boto\u015fe\u015fti-Paia","country":"ROU","state":"DJ"},{"id":52,"name":"Comuna Brabova","country":"ROU","state":"DJ"},{"id":53,"name":"Comuna Br\u0103de\u015fti","country":"ROU","state":"DJ"},{"id":54,"name":"Comuna Bralo\u015fti\u0163a","country":"ROU","state":"DJ"},{"id":55,"name":"Comuna Bratovoe\u015fti","country":"ROU","state":"DJ"},{"id":56,"name":"Comuna Breasta","country":"ROU","state":"DJ"},{"id":57,"name":"Comuna Bucov\u0103\u0163","country":"ROU","state":"DJ"},{"id":58,"name":"Comuna Bulze\u015fti","country":"ROU","state":"DJ"},{"id":59,"name":"Comuna C\u0103l\u0103ra\u015fi","country":"ROU","state":"DJ"},{"id":60,"name":"Comuna Calop\u0103ru","country":"ROU","state":"DJ"},{"id":61,"name":"Comuna Caraula","country":"ROU","state":"DJ"},{"id":62,"name":"Comuna C\u00e2rcea","country":"ROU","state":"DJ"},{"id":63,"name":"Comuna C\u00e2rna","country":"ROU","state":"DJ"},{"id":64,"name":"Comuna Carpen","country":"ROU","state":"DJ"},{"id":65,"name":"Comuna Castranova","country":"ROU","state":"DJ"},{"id":66,"name":"Comuna Catane","country":"ROU","state":"DJ"},{"id":67,"name":"Comuna Celaru","country":"ROU","state":"DJ"},{"id":68,"name":"Comuna Cer\u00e3t","country":"ROU","state":"DJ"},{"id":69,"name":"Comuna Cern\u0103te\u015fti","country":"ROU","state":"DJ"},{"id":70,"name":"Comuna Cetate","country":"ROU","state":"DJ"},{"id":71,"name":"Comuna Cioroia\u015fi","country":"ROU","state":"DJ"},{"id":72,"name":"Comuna Ciupercenii Noi","country":"ROU","state":"DJ"},{"id":73,"name":"Comuna Co\u015foveni","country":"ROU","state":"DJ"},{"id":74,"name":"Comuna Co\u0163ofenii din Dos","country":"ROU","state":"DJ"},{"id":75,"name":"Comuna Co\u0163ofenii din Fa\u0163\u0103","country":"ROU","state":"DJ"},{"id":76,"name":"Comuna D\u0103ne\u0163i","country":"ROU","state":"DJ"},{"id":77,"name":"Comuna Desa","country":"ROU","state":"DJ"},{"id":78,"name":"Comuna Dio\u015fti","country":"ROU","state":"DJ"},{"id":79,"name":"Comuna Dobre\u015fti","country":"ROU","state":"DJ"},{"id":80,"name":"Comuna Dobrote\u015fti","country":"ROU","state":"DJ"},{"id":81,"name":"Comuna Dr\u0103gote\u015fti","country":"ROU","state":"DJ"},{"id":82,"name":"Comuna Dr\u00e3nic","country":"ROU","state":"DJ"},{"id":83,"name":"Comuna F\u00e3rca\u015f","country":"ROU","state":"DJ"},{"id":84,"name":"Comuna Galicea Mare","country":"ROU","state":"DJ"},{"id":85,"name":"Comuna Galiciuica","country":"ROU","state":"DJ"},{"id":86,"name":"Comuna G\u00e2ngiova","country":"ROU","state":"DJ"},{"id":87,"name":"Comuna Gherce\u015fti","country":"ROU","state":"DJ"},{"id":88,"name":"Comuna Ghidici","country":"ROU","state":"DJ"},{"id":89,"name":"Comuna Ghindeni","country":"ROU","state":"DJ"},{"id":90,"name":"Comuna Gighera","country":"ROU","state":"DJ"},{"id":91,"name":"Comuna Giubega","country":"ROU","state":"DJ"},{"id":92,"name":"Comuna Giurgi\u0163a","country":"ROU","state":"DJ"},{"id":93,"name":"Comuna Gogo\u015fu","country":"ROU","state":"DJ"},{"id":94,"name":"Comuna Goicea","country":"ROU","state":"DJ"},{"id":95,"name":"Comuna Goie\u015fti","country":"ROU","state":"DJ"},{"id":96,"name":"Comuna Grece\u015fti","country":"ROU","state":"DJ"},{"id":97,"name":"Comuna \u00centorsura","country":"ROU","state":"DJ"},{"id":98,"name":"Comuna I\u015falni\u0163a","country":"ROU","state":"DJ"},{"id":99,"name":"Comuna Izvoare","country":"ROU","state":"DJ"},{"id":100,"name":"Comuna Leu","country":"ROU","state":"DJ"},{"id":101,"name":"Comuna Lipovu","country":"ROU","state":"DJ"},{"id":102,"name":"Comuna M\u0103ce\u015fu de Jos","country":"ROU","state":"DJ"},{"id":103,"name":"Comuna M\u0103ce\u015fu de Sus","country":"ROU","state":"DJ"},{"id":104,"name":"Comuna Maglavit","country":"ROU","state":"DJ"},{"id":105,"name":"Comuna Malu Mare","country":"ROU","state":"DJ"},{"id":106,"name":"Comuna M\u00e2r\u015fani","country":"ROU","state":"DJ"},{"id":107,"name":"Comuna Meline\u015fti","country":"ROU","state":"DJ"},{"id":108,"name":"Comuna Mischii","country":"ROU","state":"DJ"},{"id":109,"name":"Comuna Mo\u0163\u0103\u0163ei","country":"ROU","state":"DJ"},{"id":110,"name":"Comuna Murga\u015fi","country":"ROU","state":"DJ"},{"id":111,"name":"Comuna Negoi","country":"ROU","state":"DJ"},{"id":112,"name":"Comuna Orodel","country":"ROU","state":"DJ"},{"id":113,"name":"Comuna Ostroveni","country":"ROU","state":"DJ"},{"id":114,"name":"Comuna Peri\u015for","country":"ROU","state":"DJ"},{"id":115,"name":"Comuna Piele\u015fti","country":"ROU","state":"DJ"},{"id":116,"name":"Comuna Piscu Vechi","country":"ROU","state":"DJ"},{"id":117,"name":"Comuna Pleni\u0163a","country":"ROU","state":"DJ"},{"id":118,"name":"Comuna Ple\u015foi","country":"ROU","state":"DJ"},{"id":119,"name":"Comuna Podari","country":"ROU","state":"DJ"},{"id":120,"name":"Comuna Poiana Mare","country":"ROU","state":"DJ"},{"id":121,"name":"Comuna Prede\u015fti","country":"ROU","state":"DJ"},{"id":122,"name":"Comuna Radovan","country":"ROU","state":"DJ"},{"id":123,"name":"Comuna Rast","country":"ROU","state":"DJ"},{"id":124,"name":"Comuna Rob\u0103ne\u015fti","country":"ROU","state":"DJ"},{"id":125,"name":"Comuna Roji\u015fte","country":"ROU","state":"DJ"},{"id":126,"name":"Comuna Sadova","country":"ROU","state":"DJ"},{"id":127,"name":"Comuna S\u0103lcu\u0163a","country":"ROU","state":"DJ"},{"id":128,"name":"Comuna Sc\u0103e\u015fti","country":"ROU","state":"DJ"},{"id":129,"name":"Comuna Seaca de C\u00e2mp","country":"ROU","state":"DJ"},{"id":130,"name":"Comuna Seaca de P\u0103dure","country":"ROU","state":"DJ"},{"id":131,"name":"Comuna Secu","country":"ROU","state":"DJ"},{"id":132,"name":"Comuna Sili\u015ftea Crucii","country":"ROU","state":"DJ"},{"id":133,"name":"Comuna \u015eimnicu de Sus","country":"ROU","state":"DJ"},{"id":134,"name":"Comuna Sopot","country":"ROU","state":"DJ"},{"id":135,"name":"Comuna T\u00e3lpa\u015f","country":"ROU","state":"DJ"},{"id":136,"name":"Comuna Teasc","country":"ROU","state":"DJ"},{"id":137,"name":"Comuna Terpezi\u0163a","country":"ROU","state":"DJ"},{"id":138,"name":"Comuna Teslui","country":"ROU","state":"DJ"},{"id":139,"name":"Comuna \u0162uglui","country":"ROU","state":"DJ"},{"id":140,"name":"Comuna Unirea","country":"ROU","state":"DJ"},{"id":141,"name":"Comuna Urzicu\u0163a","country":"ROU","state":"DJ"},{"id":142,"name":"Comuna Valea Stanciului","country":"ROU","state":"DJ"},{"id":143,"name":"Comuna V\u00e2rtop","country":"ROU","state":"DJ"},{"id":144,"name":"Comuna V\u00e2rvoru de Jos","country":"ROU","state":"DJ"},{"id":145,"name":"Comuna Vela","country":"ROU","state":"DJ"},{"id":146,"name":"Comuna Verbi\u0163a","country":"ROU","state":"DJ"},{"id":147,"name":"Co\u015foveni","country":"ROU","state":"DJ"},{"id":148,"name":"Co\u0163ofenii din Dos","country":"ROU","state":"DJ"},{"id":149,"name":"Co\u021bofenii din Fa\u021b\u0103","country":"ROU","state":"DJ"},{"id":150,"name":"Craiova","country":"ROU","state":"DJ"},{"id":151,"name":"D\u0103buleni","country":"ROU","state":"DJ"},{"id":152,"name":"D\u0103ne\u0163i","country":"ROU","state":"DJ"},{"id":153,"name":"Desa","country":"ROU","state":"DJ"},{"id":154,"name":"Dio\u015fti","country":"ROU","state":"DJ"},{"id":155,"name":"Dobre\u015fti","country":"ROU","state":"DJ"},{"id":156,"name":"Dobridor","country":"ROU","state":"DJ"},{"id":157,"name":"Dobrote\u0219ti","country":"ROU","state":"DJ"},{"id":158,"name":"Dr\u0103gote\u015fti","country":"ROU","state":"DJ"},{"id":159,"name":"Dr\u0103nic","country":"ROU","state":"DJ"},{"id":160,"name":"F\u0103c\u0103i","country":"ROU","state":"DJ"},{"id":161,"name":"F\u0103rca\u0219","country":"ROU","state":"DJ"},{"id":162,"name":"Filia\u015fi","country":"ROU","state":"DJ"},{"id":163,"name":"Frato\u0219ti\u021ba","country":"ROU","state":"DJ"},{"id":164,"name":"Galicea Mare","country":"ROU","state":"DJ"},{"id":165,"name":"Galiciuica","country":"ROU","state":"DJ"},{"id":166,"name":"G\u00e2ngiova","country":"ROU","state":"DJ"},{"id":167,"name":"Ghidici","country":"ROU","state":"DJ"},{"id":168,"name":"Ghindeni","country":"ROU","state":"DJ"},{"id":169,"name":"Ghizd\u0103ve\u0219ti","country":"ROU","state":"DJ"},{"id":170,"name":"Gighera","country":"ROU","state":"DJ"},{"id":171,"name":"Giubega","country":"ROU","state":"DJ"},{"id":172,"name":"Giurgi\u0163a","country":"ROU","state":"DJ"},{"id":173,"name":"Gogo\u015fu","country":"ROU","state":"DJ"},{"id":174,"name":"Goicea","country":"ROU","state":"DJ"},{"id":175,"name":"Goie\u0219ti","country":"ROU","state":"DJ"},{"id":176,"name":"Grece\u015fti","country":"ROU","state":"DJ"},{"id":177,"name":"Hunia","country":"ROU","state":"DJ"},{"id":178,"name":"\u00centorsura","country":"ROU","state":"DJ"},{"id":179,"name":"I\u015falni\u0163a","country":"ROU","state":"DJ"},{"id":180,"name":"Izvoare","country":"ROU","state":"DJ"},{"id":181,"name":"Leu","country":"ROU","state":"DJ"},{"id":182,"name":"Lipovu","country":"ROU","state":"DJ"},{"id":183,"name":"Li\u0219teava","country":"ROU","state":"DJ"},{"id":184,"name":"M\u0103ce\u015fu de Jos","country":"ROU","state":"DJ"},{"id":185,"name":"M\u0103ce\u015fu de Sus","country":"ROU","state":"DJ"},{"id":186,"name":"Maglavit","country":"ROU","state":"DJ"},{"id":187,"name":"Malu Mare","country":"ROU","state":"DJ"},{"id":188,"name":"M\u00e2r\u015fani","country":"ROU","state":"DJ"},{"id":189,"name":"Meline\u015fti","country":"ROU","state":"DJ"},{"id":190,"name":"Mischii","country":"ROU","state":"DJ"},{"id":191,"name":"Mofleni","country":"ROU","state":"DJ"},{"id":192,"name":"Mo\u0163\u0103\u0163ei","country":"ROU","state":"DJ"},{"id":193,"name":"Municipiul B\u00e3ile\u015fti","country":"ROU","state":"DJ"},{"id":194,"name":"Municipiul Calafat","country":"ROU","state":"DJ"},{"id":195,"name":"Municipiul Craiova","country":"ROU","state":"DJ"},{"id":196,"name":"Murga\u0219i","country":"ROU","state":"DJ"},{"id":197,"name":"Nedeia","country":"ROU","state":"DJ"},{"id":198,"name":"Negoi","country":"ROU","state":"DJ"},{"id":199,"name":"Negoie\u0219ti","country":"ROU","state":"DJ"},{"id":200,"name":"Ocolna","country":"ROU","state":"DJ"},{"id":201,"name":"Ora\u015f Bechet","country":"ROU","state":"DJ"},{"id":202,"name":"Ora\u015f D\u00e3buleni","country":"ROU","state":"DJ"},{"id":203,"name":"Ora\u015f Filia\u015fi","country":"ROU","state":"DJ"},{"id":204,"name":"Ora\u015f Segarcea","country":"ROU","state":"DJ"},{"id":205,"name":"Orodel","country":"ROU","state":"DJ"},{"id":206,"name":"Ostroveni","country":"ROU","state":"DJ"},{"id":207,"name":"Padea","country":"ROU","state":"DJ"},{"id":208,"name":"Peri\u0219or","country":"ROU","state":"DJ"},{"id":209,"name":"Piele\u015ft\u00ed","country":"ROU","state":"DJ"},{"id":210,"name":"Piscu Nou","country":"ROU","state":"DJ"},{"id":211,"name":"Piscu Sadovei","country":"ROU","state":"DJ"},{"id":212,"name":"Piscu Vechi","country":"ROU","state":"DJ"},{"id":213,"name":"Pleni\u0163a","country":"ROU","state":"DJ"},{"id":214,"name":"Ple\u0219oi","country":"ROU","state":"DJ"},{"id":215,"name":"Podari","country":"ROU","state":"DJ"},{"id":216,"name":"Poiana Mare","country":"ROU","state":"DJ"},{"id":217,"name":"Popoveni","country":"ROU","state":"DJ"},{"id":218,"name":"Prapor","country":"ROU","state":"DJ"},{"id":219,"name":"Preajba","country":"ROU","state":"DJ"},{"id":220,"name":"Prede\u015fti","country":"ROU","state":"DJ"},{"id":221,"name":"Pu\u021buri","country":"ROU","state":"DJ"},{"id":222,"name":"R\u0103carii de Sus","country":"ROU","state":"DJ"},{"id":223,"name":"Radomir","country":"ROU","state":"DJ"},{"id":224,"name":"Radovan","country":"ROU","state":"DJ"},{"id":225,"name":"Rast","country":"ROU","state":"DJ"},{"id":226,"name":"Roji\u0219te","country":"ROU","state":"DJ"},{"id":227,"name":"Sadova","country":"ROU","state":"DJ"},{"id":228,"name":"Salcia","country":"ROU","state":"DJ"},{"id":229,"name":"S\u0103lcu\u0163a","country":"ROU","state":"DJ"},{"id":230,"name":"S\u0103rata","country":"ROU","state":"DJ"},{"id":231,"name":"Satu Nou Calop\u0103r","country":"ROU","state":"DJ"},{"id":232,"name":"Sc\u0103e\u015fti","country":"ROU","state":"DJ"},{"id":233,"name":"Seaca de C\u00e2mp","country":"ROU","state":"DJ"},{"id":234,"name":"Seaca de P\u0103dure","country":"ROU","state":"DJ"},{"id":235,"name":"Secu","country":"ROU","state":"DJ"},{"id":236,"name":"Secui","country":"ROU","state":"DJ"},{"id":237,"name":"Segarcea","country":"ROU","state":"DJ"},{"id":238,"name":"Sf\u00e2rcea","country":"ROU","state":"DJ"},{"id":239,"name":"Sili\u015ftea Crucii","country":"ROU","state":"DJ"},{"id":240,"name":"\u015eimnicu de Sus","country":"ROU","state":"DJ"},{"id":241,"name":"Sm\u00e2rdan","country":"ROU","state":"DJ"},{"id":242,"name":"Sopot","country":"ROU","state":"DJ"},{"id":243,"name":"T\u0103lpa\u0219","country":"ROU","state":"DJ"},{"id":244,"name":"Teasc","country":"ROU","state":"DJ"},{"id":245,"name":"Terpezi\u0163a","country":"ROU","state":"DJ"},{"id":246,"name":"Teslui","country":"ROU","state":"DJ"},{"id":247,"name":"\u0162uglui","country":"ROU","state":"DJ"},{"id":248,"name":"Unirea","country":"ROU","state":"DJ"},{"id":249,"name":"Urzicu\u0163a","country":"ROU","state":"DJ"},{"id":250,"name":"Valea Stanciului","country":"ROU","state":"DJ"},{"id":251,"name":"V\u00e2rtop","country":"ROU","state":"DJ"},{"id":252,"name":"V\u00e2rvoru de Jos","country":"ROU","state":"DJ"},{"id":253,"name":"Vela","country":"ROU","state":"DJ"},{"id":254,"name":"Verbi\u0163a","country":"ROU","state":"DJ"},{"id":255,"name":"Z\u0103noaga","country":"ROU","state":"DJ"},{"id":256,"name":"Z\u0103val","country":"ROU","state":"DJ"}]
+[
+    {
+        "id": 89890,
+        "name": "Afumaţi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 89938,
+        "name": "Almăj",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 89952,
+        "name": "Amărăştii de Jos",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 89953,
+        "name": "Amărăştii de Sus",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 89972,
+        "name": "Apele Vii",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 89987,
+        "name": "Argetoaia",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90484,
+        "name": "Bădoși",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90494,
+        "name": "Băileşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90442,
+        "name": "Bâlta",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90446,
+        "name": "Bârca",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90067,
+        "name": "Basarabi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90076,
+        "name": "Bechet",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90146,
+        "name": "Bistreț",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90249,
+        "name": "Botoşeşti-Paia",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90250,
+        "name": "Boureni",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90258,
+        "name": "Brabeți",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90259,
+        "name": "Brabova",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90324,
+        "name": "Brădeşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90265,
+        "name": "Braloştiţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90277,
+        "name": "Bratovoești",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90282,
+        "name": "Breasta",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90360,
+        "name": "Bucovăţ",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90405,
+        "name": "Bulzeşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90562,
+        "name": "Calafat",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93850,
+        "name": "Călăraşi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90565,
+        "name": "Calopăr",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90577,
+        "name": "Caraula",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93809,
+        "name": "Cârcea",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93817,
+        "name": "Cârna",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90581,
+        "name": "Carpen",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90585,
+        "name": "Castranova",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90586,
+        "name": "Castrele Traiane",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90589,
+        "name": "Catane",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90612,
+        "name": "Celaru",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90644,
+        "name": "Cerăt",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90639,
+        "name": "Cernăteşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90631,
+        "name": "Cernele",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90647,
+        "name": "Cetate",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90727,
+        "name": "Cioroiași",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90755,
+        "name": "Ciupercenii Noi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90756,
+        "name": "Ciupercenii Vechi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90764,
+        "name": "Cleanov",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90815,
+        "name": "Comoșteni",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90827,
+        "name": "Comuna Afumaţi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90858,
+        "name": "Comuna Almãj",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90866,
+        "name": "Comuna Amărăştii de Jos",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90867,
+        "name": "Comuna Amărăştii de Sus",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90879,
+        "name": "Comuna Apele Vii",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90889,
+        "name": "Comuna Argetoaia",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91185,
+        "name": "Comuna Bârca",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 90997,
+        "name": "Comuna Bistreţ",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91065,
+        "name": "Comuna Botoşeşti-Paia",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91072,
+        "name": "Comuna Brabova",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91114,
+        "name": "Comuna Brădeşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91075,
+        "name": "Comuna Braloştiţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91085,
+        "name": "Comuna Bratovoeşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91088,
+        "name": "Comuna Breasta",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91136,
+        "name": "Comuna Bucovăţ",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91160,
+        "name": "Comuna Bulzeşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91577,
+        "name": "Comuna Călăraşi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91254,
+        "name": "Comuna Calopăru",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91259,
+        "name": "Comuna Caraula",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91549,
+        "name": "Comuna Cârcea",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91554,
+        "name": "Comuna Cârna",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91262,
+        "name": "Comuna Carpen",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91265,
+        "name": "Comuna Castranova",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91267,
+        "name": "Comuna Catane",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91279,
+        "name": "Comuna Celaru",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91301,
+        "name": "Comuna Cerãt",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91295,
+        "name": "Comuna Cernăteşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91304,
+        "name": "Comuna Cetate",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91355,
+        "name": "Comuna Cioroiaşi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91374,
+        "name": "Comuna Ciupercenii Noi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91477,
+        "name": "Comuna Coşoveni",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91480,
+        "name": "Comuna Coţofenii din Dos",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91481,
+        "name": "Comuna Coţofenii din Faţă",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91741,
+        "name": "Comuna Dăneţi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91617,
+        "name": "Comuna Desa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91629,
+        "name": "Comuna Dioşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91636,
+        "name": "Comuna Dobreşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91643,
+        "name": "Comuna Dobroteşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91692,
+        "name": "Comuna Drăgoteşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91685,
+        "name": "Comuna Drãnic",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91815,
+        "name": "Comuna Fãrcaş",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91831,
+        "name": "Comuna Galicea Mare",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91832,
+        "name": "Comuna Galiciuica",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91963,
+        "name": "Comuna Gângiova",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91844,
+        "name": "Comuna Gherceşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91852,
+        "name": "Comuna Ghidici",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91858,
+        "name": "Comuna Ghindeni",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91867,
+        "name": "Comuna Gighera",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91873,
+        "name": "Comuna Giubega",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91877,
+        "name": "Comuna Giurgiţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91891,
+        "name": "Comuna Gogoşu",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91894,
+        "name": "Comuna Goicea",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91895,
+        "name": "Comuna Goieşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 91914,
+        "name": "Comuna Greceşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93493,
+        "name": "Comuna Întorsura",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92113,
+        "name": "Comuna Işalniţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92102,
+        "name": "Comuna Izvoare",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92159,
+        "name": "Comuna Leu",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92168,
+        "name": "Comuna Lipovu",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92378,
+        "name": "Comuna Măceşu de Jos",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92379,
+        "name": "Comuna Măceşu de Sus",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92228,
+        "name": "Comuna Maglavit",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92236,
+        "name": "Comuna Malu Mare",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92374,
+        "name": "Comuna Mârşani",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92253,
+        "name": "Comuna Melineşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92305,
+        "name": "Comuna Mischii",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92353,
+        "name": "Comuna Moţăţei",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92360,
+        "name": "Comuna Murgaşi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92428,
+        "name": "Comuna Negoi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92512,
+        "name": "Comuna Orodel",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92520,
+        "name": "Comuna Ostroveni",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92555,
+        "name": "Comuna Perişor",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92575,
+        "name": "Comuna Pieleşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92588,
+        "name": "Comuna Piscu Vechi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92592,
+        "name": "Comuna Pleniţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92594,
+        "name": "Comuna Pleşoi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92611,
+        "name": "Comuna Podari",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92629,
+        "name": "Comuna Poiana Mare",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92670,
+        "name": "Comuna Predeşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92743,
+        "name": "Comuna Radovan",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92749,
+        "name": "Comuna Rast",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92775,
+        "name": "Comuna Robăneşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92780,
+        "name": "Comuna Rojişte",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92858,
+        "name": "Comuna Sadova",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93097,
+        "name": "Comuna Sălcuţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92904,
+        "name": "Comuna Scăeşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92909,
+        "name": "Comuna Seaca de Câmp",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92910,
+        "name": "Comuna Seaca de Pădure",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92912,
+        "name": "Comuna Secu",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92933,
+        "name": "Comuna Siliştea Crucii",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93523,
+        "name": "Comuna Şimnicu de Sus",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 92977,
+        "name": "Comuna Sopot",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93232,
+        "name": "Comuna Tãlpaş",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93132,
+        "name": "Comuna Teasc",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93143,
+        "name": "Comuna Terpeziţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93145,
+        "name": "Comuna Teslui",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93577,
+        "name": "Comuna Ţuglui",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93276,
+        "name": "Comuna Unirea",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93287,
+        "name": "Comuna Urzicuţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93323,
+        "name": "Comuna Valea Stanciului",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93446,
+        "name": "Comuna Vârtop",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93447,
+        "name": "Comuna Vârvoru de Jos",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93341,
+        "name": "Comuna Vela",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93342,
+        "name": "Comuna Verbiţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93692,
+        "name": "Coşoveni",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93694,
+        "name": "Coţofenii din Dos",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93701,
+        "name": "Coțofenii din Față",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93704,
+        "name": "Craiova",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94114,
+        "name": "Dăbuleni",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94129,
+        "name": "Dăneţi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93925,
+        "name": "Desa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93939,
+        "name": "Dioşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93954,
+        "name": "Dobreşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93958,
+        "name": "Dobridor",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 93966,
+        "name": "Dobrotești",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94045,
+        "name": "Drăgoteşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94065,
+        "name": "Drănic",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94250,
+        "name": "Făcăi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94263,
+        "name": "Fărcaș",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94171,
+        "name": "Filiaşi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94203,
+        "name": "Fratoștița",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94278,
+        "name": "Galicea Mare",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94279,
+        "name": "Galiciuica",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94480,
+        "name": "Gângiova",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94317,
+        "name": "Ghidici",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94327,
+        "name": "Ghindeni",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94338,
+        "name": "Ghizdăvești",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94343,
+        "name": "Gighera",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94349,
+        "name": "Giubega",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94354,
+        "name": "Giurgiţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94373,
+        "name": "Gogoşu",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94375,
+        "name": "Goicea",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94376,
+        "name": "Goiești",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94406,
+        "name": "Greceşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94579,
+        "name": "Hunia",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 97025,
+        "name": "Întorsura",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94721,
+        "name": "Işalniţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94702,
+        "name": "Izvoare",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94789,
+        "name": "Leu",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94805,
+        "name": "Lipovu",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94827,
+        "name": "Lișteava",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95227,
+        "name": "Măceşu de Jos",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95228,
+        "name": "Măceşu de Sus",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94904,
+        "name": "Maglavit",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94916,
+        "name": "Malu Mare",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95223,
+        "name": "Mârşani",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 94947,
+        "name": "Melineşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95027,
+        "name": "Mischii",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95048,
+        "name": "Mofleni",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95093,
+        "name": "Moţăţei",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95121,
+        "name": "Municipiul Bãileşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95122,
+        "name": "Municipiul Calafat",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95128,
+        "name": "Municipiul Craiova",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95205,
+        "name": "Murgași",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95305,
+        "name": "Nedeia",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95308,
+        "name": "Negoi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95310,
+        "name": "Negoiești",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95403,
+        "name": "Ocolna",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95459,
+        "name": "Oraş Bechet",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95512,
+        "name": "Oraş Dãbuleni",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95517,
+        "name": "Oraş Filiaşi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95586,
+        "name": "Oraş Segarcea",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95663,
+        "name": "Orodel",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95678,
+        "name": "Ostroveni",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95692,
+        "name": "Padea",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95738,
+        "name": "Perișor",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95775,
+        "name": "Pieleştí",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95798,
+        "name": "Piscu Nou",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95799,
+        "name": "Piscu Sadovei",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95800,
+        "name": "Piscu Vechi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95809,
+        "name": "Pleniţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95813,
+        "name": "Pleșoi",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95842,
+        "name": "Podari",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95876,
+        "name": "Poiana Mare",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95918,
+        "name": "Popoveni",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95940,
+        "name": "Prapor",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95941,
+        "name": "Preajba",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95943,
+        "name": "Predeşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 95992,
+        "name": "Puțuri",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96183,
+        "name": "Răcarii de Sus",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96052,
+        "name": "Radomir",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96054,
+        "name": "Radovan",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96062,
+        "name": "Rast",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96103,
+        "name": "Rojiște",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96225,
+        "name": "Sadova",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96233,
+        "name": "Salcia",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 106014,
+        "name": "Sălcuţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 106031,
+        "name": "Sărata",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96261,
+        "name": "Satu Nou Calopăr",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96295,
+        "name": "Scăeşti",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96300,
+        "name": "Seaca de Câmp",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96301,
+        "name": "Seaca de Pădure",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96313,
+        "name": "Secu",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96314,
+        "name": "Secui",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96319,
+        "name": "Segarcea",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96331,
+        "name": "Sfârcea",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96342,
+        "name": "Siliştea Crucii",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 97053,
+        "name": "Şimnicu de Sus",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96389,
+        "name": "Smârdan",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96412,
+        "name": "Sopot",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96603,
+        "name": "Tălpaș",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 106067,
+        "name": "Teasc",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 106086,
+        "name": "Terpeziţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 106088,
+        "name": "Teslui",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 97109,
+        "name": "Ţuglui",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96670,
+        "name": "Unirea",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96689,
+        "name": "Urzicuţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96756,
+        "name": "Valea Stanciului",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96947,
+        "name": "Vârtop",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96948,
+        "name": "Vârvoru de Jos",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96784,
+        "name": "Vela",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 96785,
+        "name": "Verbiţa",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 97012,
+        "name": "Zănoaga",
+        "country": "ROU",
+        "state": "DJ"
+    },
+    {
+        "id": 97020,
+        "name": "Zăval",
+        "country": "ROU",
+        "state": "DJ"
+    }
+]

@@ -1,1 +1,62 @@
-[{"id":0,"name":"Berea District","iso3":"D","country":"LSO"},{"id":1,"name":"Butha-Buthe District","iso3":"B","country":"LSO"},{"id":2,"name":"Leribe District","iso3":"C","country":"LSO"},{"id":3,"name":"Mafeteng District","iso3":"E","country":"LSO"},{"id":4,"name":"Maseru District","iso3":"A","country":"LSO"},{"id":5,"name":"Mohale's Hoek District","iso3":"F","country":"LSO"},{"id":6,"name":"Mokhotlong District","iso3":"J","country":"LSO"},{"id":7,"name":"Qacha's Nek District","iso3":"H","country":"LSO"},{"id":8,"name":"Quthing District","iso3":"G","country":"LSO"},{"id":9,"name":"Thaba-Tseka District","iso3":"K","country":"LSO"}]
+[
+    {
+        "id": 3030,
+        "name": "Berea District",
+        "country": "LSO",
+        "state_code": "D"
+    },
+    {
+        "id": 3029,
+        "name": "Butha-Buthe District",
+        "country": "LSO",
+        "state_code": "B"
+    },
+    {
+        "id": 3026,
+        "name": "Leribe District",
+        "country": "LSO",
+        "state_code": "C"
+    },
+    {
+        "id": 3022,
+        "name": "Mafeteng District",
+        "country": "LSO",
+        "state_code": "E"
+    },
+    {
+        "id": 3028,
+        "name": "Maseru District",
+        "country": "LSO",
+        "state_code": "A"
+    },
+    {
+        "id": 3023,
+        "name": "Mohale's Hoek District",
+        "country": "LSO",
+        "state_code": "F"
+    },
+    {
+        "id": 3024,
+        "name": "Mokhotlong District",
+        "country": "LSO",
+        "state_code": "J"
+    },
+    {
+        "id": 3025,
+        "name": "Qacha's Nek District",
+        "country": "LSO",
+        "state_code": "H"
+    },
+    {
+        "id": 3027,
+        "name": "Quthing District",
+        "country": "LSO",
+        "state_code": "G"
+    },
+    {
+        "id": 3031,
+        "name": "Thaba-Tseka District",
+        "country": "LSO",
+        "state_code": "K"
+    }
+]

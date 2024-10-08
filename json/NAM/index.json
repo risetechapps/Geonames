@@ -1,1 +1,86 @@
-[{"id":0,"name":"Erongo Region","iso3":"ER","country":"NAM"},{"id":1,"name":"Hardap Region","iso3":"HA","country":"NAM"},{"id":2,"name":"Karas Region","iso3":"KA","country":"NAM"},{"id":3,"name":"Kavango East Region","iso3":"KE","country":"NAM"},{"id":4,"name":"Kavango West Region","iso3":"KW","country":"NAM"},{"id":5,"name":"Khomas Region","iso3":"KH","country":"NAM"},{"id":6,"name":"Kunene Region","iso3":"KU","country":"NAM"},{"id":7,"name":"Ohangwena Region","iso3":"OW","country":"NAM"},{"id":8,"name":"Omaheke Region","iso3":"OH","country":"NAM"},{"id":9,"name":"Omusati Region","iso3":"OS","country":"NAM"},{"id":10,"name":"Oshana Region","iso3":"ON","country":"NAM"},{"id":11,"name":"Oshikoto Region","iso3":"OT","country":"NAM"},{"id":12,"name":"Otjozondjupa Region","iso3":"OD","country":"NAM"},{"id":13,"name":"Zambezi Region","iso3":"CA","country":"NAM"}]
+[
+    {
+        "id": 43,
+        "name": "Erongo Region",
+        "country": "NAM",
+        "state_code": "ER"
+    },
+    {
+        "id": 38,
+        "name": "Hardap Region",
+        "country": "NAM",
+        "state_code": "HA"
+    },
+    {
+        "id": 45,
+        "name": "Karas Region",
+        "country": "NAM",
+        "state_code": "KA"
+    },
+    {
+        "id": 36,
+        "name": "Kavango East Region",
+        "country": "NAM",
+        "state_code": "KE"
+    },
+    {
+        "id": 35,
+        "name": "Kavango West Region",
+        "country": "NAM",
+        "state_code": "KW"
+    },
+    {
+        "id": 44,
+        "name": "Khomas Region",
+        "country": "NAM",
+        "state_code": "KH"
+    },
+    {
+        "id": 34,
+        "name": "Kunene Region",
+        "country": "NAM",
+        "state_code": "KU"
+    },
+    {
+        "id": 40,
+        "name": "Ohangwena Region",
+        "country": "NAM",
+        "state_code": "OW"
+    },
+    {
+        "id": 41,
+        "name": "Omaheke Region",
+        "country": "NAM",
+        "state_code": "OH"
+    },
+    {
+        "id": 39,
+        "name": "Omusati Region",
+        "country": "NAM",
+        "state_code": "OS"
+    },
+    {
+        "id": 37,
+        "name": "Oshana Region",
+        "country": "NAM",
+        "state_code": "ON"
+    },
+    {
+        "id": 42,
+        "name": "Oshikoto Region",
+        "country": "NAM",
+        "state_code": "OT"
+    },
+    {
+        "id": 46,
+        "name": "Otjozondjupa Region",
+        "country": "NAM",
+        "state_code": "OD"
+    },
+    {
+        "id": 47,
+        "name": "Zambezi Region",
+        "country": "NAM",
+        "state_code": "CA"
+    }
+]

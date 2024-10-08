@@ -1,1 +1,470 @@
-[{"id":0,"name":"Altst\u00e4tten","country":"CHE","state":"SG"},{"id":1,"name":"Amden","country":"CHE","state":"SG"},{"id":2,"name":"Andwil","country":"CHE","state":"SG"},{"id":3,"name":"Au","country":"CHE","state":"SG"},{"id":4,"name":"Bad Ragaz","country":"CHE","state":"SG"},{"id":5,"name":"Balgach","country":"CHE","state":"SG"},{"id":6,"name":"Benken","country":"CHE","state":"SG"},{"id":7,"name":"Bronschhofen","country":"CHE","state":"SG"},{"id":8,"name":"Buchs","country":"CHE","state":"SG"},{"id":9,"name":"B\u00fctschwil","country":"CHE","state":"SG"},{"id":10,"name":"Degersheim","country":"CHE","state":"SG"},{"id":11,"name":"Diepoldsau","country":"CHE","state":"SG"},{"id":12,"name":"Ebnat-Kappel","country":"CHE","state":"SG"},{"id":13,"name":"Eggersriet","country":"CHE","state":"SG"},{"id":14,"name":"Eichberg","country":"CHE","state":"SG"},{"id":15,"name":"Eschenbach","country":"CHE","state":"SG"},{"id":16,"name":"Flawil","country":"CHE","state":"SG"},{"id":17,"name":"Flums","country":"CHE","state":"SG"},{"id":18,"name":"Gams","country":"CHE","state":"SG"},{"id":19,"name":"Ganterschwil","country":"CHE","state":"SG"},{"id":20,"name":"Goldach","country":"CHE","state":"SG"},{"id":21,"name":"Goldingen","country":"CHE","state":"SG"},{"id":22,"name":"Gommiswald","country":"CHE","state":"SG"},{"id":23,"name":"Gossau","country":"CHE","state":"SG"},{"id":24,"name":"Grabs","country":"CHE","state":"SG"},{"id":25,"name":"Haag (Rheintal)","country":"CHE","state":"SG"},{"id":26,"name":"H\u00e4ggenschwil","country":"CHE","state":"SG"},{"id":27,"name":"Horn","country":"CHE","state":"SG"},{"id":28,"name":"Jona","country":"CHE","state":"SG"},{"id":29,"name":"Jonschwil","country":"CHE","state":"SG"},{"id":30,"name":"Kaltbrunn","country":"CHE","state":"SG"},{"id":31,"name":"Kirchberg","country":"CHE","state":"SG"},{"id":32,"name":"Krummenau","country":"CHE","state":"SG"},{"id":33,"name":"Lichtensteig","country":"CHE","state":"SG"},{"id":34,"name":"L\u00fctisburg","country":"CHE","state":"SG"},{"id":35,"name":"Mogelsberg","country":"CHE","state":"SG"},{"id":36,"name":"M\u00f6rschwil","country":"CHE","state":"SG"},{"id":37,"name":"Mosnang","country":"CHE","state":"SG"},{"id":38,"name":"Muolen","country":"CHE","state":"SG"},{"id":39,"name":"Niederb\u00fcren","country":"CHE","state":"SG"},{"id":40,"name":"Niederhelfenschwil","country":"CHE","state":"SG"},{"id":41,"name":"Oberhelfenschwil","country":"CHE","state":"SG"},{"id":42,"name":"Oberriet","country":"CHE","state":"SG"},{"id":43,"name":"Oberuzwil","country":"CHE","state":"SG"},{"id":44,"name":"Quarten","country":"CHE","state":"SG"},{"id":45,"name":"Rapperswil","country":"CHE","state":"SG"},{"id":46,"name":"Rebstein","country":"CHE","state":"SG"},{"id":47,"name":"Rheineck","country":"CHE","state":"SG"},{"id":48,"name":"Rorschach","country":"CHE","state":"SG"},{"id":49,"name":"R\u00fcthi","country":"CHE","state":"SG"},{"id":50,"name":"Sankt Gallen","country":"CHE","state":"SG"},{"id":51,"name":"Sankt Gallenkappel","country":"CHE","state":"SG"},{"id":52,"name":"Sankt Margrethen","country":"CHE","state":"SG"},{"id":53,"name":"Sankt Peterzell","country":"CHE","state":"SG"},{"id":54,"name":"Sargans","country":"CHE","state":"SG"},{"id":55,"name":"Sch\u00e4nis","country":"CHE","state":"SG"},{"id":56,"name":"Schmerikon","country":"CHE","state":"SG"},{"id":57,"name":"Sennwald","country":"CHE","state":"SG"},{"id":58,"name":"Sevelen","country":"CHE","state":"SG"},{"id":59,"name":"Thal","country":"CHE","state":"SG"},{"id":60,"name":"Uznach","country":"CHE","state":"SG"},{"id":61,"name":"Uzwil","country":"CHE","state":"SG"},{"id":62,"name":"Wahlkreis Rheintal","country":"CHE","state":"SG"},{"id":63,"name":"Wahlkreis Rorschach","country":"CHE","state":"SG"},{"id":64,"name":"Wahlkreis Sarganserland","country":"CHE","state":"SG"},{"id":65,"name":"Wahlkreis See-Gaster","country":"CHE","state":"SG"},{"id":66,"name":"Wahlkreis St. Gallen","country":"CHE","state":"SG"},{"id":67,"name":"Wahlkreis Toggenburg","country":"CHE","state":"SG"},{"id":68,"name":"Wahlkreis Werdenberg","country":"CHE","state":"SG"},{"id":69,"name":"Wahlkreis Wil","country":"CHE","state":"SG"},{"id":70,"name":"Waldkirch","country":"CHE","state":"SG"},{"id":71,"name":"Walenstadt","country":"CHE","state":"SG"},{"id":72,"name":"Wattwil","country":"CHE","state":"SG"},{"id":73,"name":"Weesen","country":"CHE","state":"SG"},{"id":74,"name":"Wil","country":"CHE","state":"SG"},{"id":75,"name":"Wildhaus","country":"CHE","state":"SG"},{"id":76,"name":"Wittenbach","country":"CHE","state":"SG"},{"id":77,"name":"Zuzwil","country":"CHE","state":"SG"}]
+[
+    {
+        "id": 17393,
+        "name": "Altstätten",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17394,
+        "name": "Amden",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17398,
+        "name": "Andwil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17419,
+        "name": "Au",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17430,
+        "name": "Bad Ragaz",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17435,
+        "name": "Balgach",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17458,
+        "name": "Benken",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17567,
+        "name": "Bronschhofen",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17580,
+        "name": "Buchs",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17606,
+        "name": "Bütschwil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17678,
+        "name": "Degersheim",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17687,
+        "name": "Diepoldsau",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17720,
+        "name": "Ebnat-Kappel",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17730,
+        "name": "Eggersriet",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17736,
+        "name": "Eichberg",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17769,
+        "name": "Eschenbach",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17791,
+        "name": "Flawil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17794,
+        "name": "Flums",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17821,
+        "name": "Gams",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17822,
+        "name": "Ganterschwil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17847,
+        "name": "Goldach",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17849,
+        "name": "Goldingen",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17850,
+        "name": "Gommiswald",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17856,
+        "name": "Gossau",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17859,
+        "name": "Grabs",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17890,
+        "name": "Haag (Rheintal)",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17938,
+        "name": "Häggenschwil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17934,
+        "name": "Horn",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17959,
+        "name": "Jona",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17962,
+        "name": "Jonschwil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17969,
+        "name": "Kaltbrunn",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 17980,
+        "name": "Kirchberg",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18009,
+        "name": "Krummenau",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18081,
+        "name": "Lichtensteig",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18111,
+        "name": "Lütisburg",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18160,
+        "name": "Mogelsberg",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18194,
+        "name": "Mörschwil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18173,
+        "name": "Mosnang",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18178,
+        "name": "Muolen",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18221,
+        "name": "Niederbüren",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18226,
+        "name": "Niederhelfenschwil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18255,
+        "name": "Oberhelfenschwil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18262,
+        "name": "Oberriet",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18269,
+        "name": "Oberuzwil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18333,
+        "name": "Quarten",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18338,
+        "name": "Rapperswil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18341,
+        "name": "Rebstein",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18365,
+        "name": "Rheineck",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18392,
+        "name": "Rorschach",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18410,
+        "name": "Rüthi",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18438,
+        "name": "Sankt Gallen",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18439,
+        "name": "Sankt Gallenkappel",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18440,
+        "name": "Sankt Margrethen",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18442,
+        "name": "Sankt Peterzell",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18444,
+        "name": "Sargans",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18482,
+        "name": "Schänis",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18472,
+        "name": "Schmerikon",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18509,
+        "name": "Sennwald",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18515,
+        "name": "Sevelen",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18581,
+        "name": "Thal",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18654,
+        "name": "Uznach",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18655,
+        "name": "Uzwil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18700,
+        "name": "Wahlkreis Rheintal",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18701,
+        "name": "Wahlkreis Rorschach",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18702,
+        "name": "Wahlkreis Sarganserland",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18703,
+        "name": "Wahlkreis See-Gaster",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18704,
+        "name": "Wahlkreis St. Gallen",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18705,
+        "name": "Wahlkreis Toggenburg",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18706,
+        "name": "Wahlkreis Werdenberg",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18707,
+        "name": "Wahlkreis Wil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18711,
+        "name": "Waldkirch",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18713,
+        "name": "Walenstadt",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18725,
+        "name": "Wattwil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18727,
+        "name": "Weesen",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18749,
+        "name": "Wil",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18753,
+        "name": "Wildhaus",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18759,
+        "name": "Wittenbach",
+        "country": "CHE",
+        "state": "SG"
+    },
+    {
+        "id": 18805,
+        "name": "Zuzwil",
+        "country": "CHE",
+        "state": "SG"
+    }
+]

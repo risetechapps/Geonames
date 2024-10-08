@@ -1,1 +1,308 @@
-[{"id":0,"name":"\u00c1gua de Pau","country":"PRT","state":"20"},{"id":1,"name":"Angra do Hero\u00edsmo","country":"PRT","state":"20"},{"id":2,"name":"Ang\u00fastias","country":"PRT","state":"20"},{"id":3,"name":"Arrifes","country":"PRT","state":"20"},{"id":4,"name":"Biscoitos","country":"PRT","state":"20"},{"id":5,"name":"Cabouco","country":"PRT","state":"20"},{"id":6,"name":"Cais do Pico","country":"PRT","state":"20"},{"id":7,"name":"Calheta","country":"PRT","state":"20"},{"id":8,"name":"Calheta de S\u00e3o Jorge","country":"PRT","state":"20"},{"id":9,"name":"Castelo Branco","country":"PRT","state":"20"},{"id":10,"name":"Corvo","country":"PRT","state":"20"},{"id":11,"name":"Faj\u00e3 de Baixo","country":"PRT","state":"20"},{"id":12,"name":"Fenais da Ajuda","country":"PRT","state":"20"},{"id":13,"name":"Fenais da Luz","country":"PRT","state":"20"},{"id":14,"name":"Feteira","country":"PRT","state":"20"},{"id":15,"name":"Fonte Bastardo","country":"PRT","state":"20"},{"id":16,"name":"Furnas","country":"PRT","state":"20"},{"id":17,"name":"Horta","country":"PRT","state":"20"},{"id":18,"name":"Lagoa","country":"PRT","state":"20"},{"id":19,"name":"Lajes","country":"PRT","state":"20"},{"id":20,"name":"Lajes das Flores","country":"PRT","state":"20"},{"id":21,"name":"Lajes do Pico","country":"PRT","state":"20"},{"id":22,"name":"Madalena","country":"PRT","state":"20"},{"id":23,"name":"Maia","country":"PRT","state":"20"},{"id":24,"name":"Mosteiros","country":"PRT","state":"20"},{"id":25,"name":"Nordeste","country":"PRT","state":"20"},{"id":26,"name":"Ponta Delgada","country":"PRT","state":"20"},{"id":27,"name":"Ponta Gar\u00e7a","country":"PRT","state":"20"},{"id":28,"name":"Porto Judeu","country":"PRT","state":"20"},{"id":29,"name":"Porto Martins","country":"PRT","state":"20"},{"id":30,"name":"Povoa\u00e7\u00e3o","country":"PRT","state":"20"},{"id":31,"name":"Praia da Vit\u00f3ria","country":"PRT","state":"20"},{"id":32,"name":"Rabo de Peixe","country":"PRT","state":"20"},{"id":33,"name":"Relva","country":"PRT","state":"20"},{"id":34,"name":"Ribeira Grande","country":"PRT","state":"20"},{"id":35,"name":"Ribeira Seca","country":"PRT","state":"20"},{"id":36,"name":"Ribeirinha","country":"PRT","state":"20"},{"id":37,"name":"Rosto de C\u00e3o","country":"PRT","state":"20"},{"id":38,"name":"Santa B\u00e1rbara","country":"PRT","state":"20"},{"id":39,"name":"Santa Cruz da Graciosa","country":"PRT","state":"20"},{"id":40,"name":"Santa Cruz das Flores","country":"PRT","state":"20"},{"id":41,"name":"S\u00e3o Bartolomeu","country":"PRT","state":"20"},{"id":42,"name":"S\u00e3o Mateus","country":"PRT","state":"20"},{"id":43,"name":"S\u00e3o Roque","country":"PRT","state":"20"},{"id":44,"name":"S\u00e3o Roque do Pico","country":"PRT","state":"20"},{"id":45,"name":"S\u00e3o Sebasti\u00e3o","country":"PRT","state":"20"},{"id":46,"name":"S\u00e3o Vicente","country":"PRT","state":"20"},{"id":47,"name":"Senhora do Ros\u00e1rio","country":"PRT","state":"20"},{"id":48,"name":"Velas","country":"PRT","state":"20"},{"id":49,"name":"Vila do Porto","country":"PRT","state":"20"},{"id":50,"name":"Vila Franca do Campo","country":"PRT","state":"20"}]
+[
+    {
+        "id": 89692,
+        "name": "Água de Pau",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 88968,
+        "name": "Angra do Heroísmo",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 88969,
+        "name": "Angústias",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 88994,
+        "name": "Arrifes",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89037,
+        "name": "Biscoitos",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89057,
+        "name": "Cabouco",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89062,
+        "name": "Cais do Pico",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89069,
+        "name": "Calheta",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89070,
+        "name": "Calheta de São Jorge",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89105,
+        "name": "Castelo Branco",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89131,
+        "name": "Corvo",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89163,
+        "name": "Fajã de Baixo",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89172,
+        "name": "Fenais da Ajuda",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89173,
+        "name": "Fenais da Luz",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89181,
+        "name": "Feteira",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89187,
+        "name": "Fonte Bastardo",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89199,
+        "name": "Furnas",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89223,
+        "name": "Horta",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89228,
+        "name": "Lagoa",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89231,
+        "name": "Lajes",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89232,
+        "name": "Lajes das Flores",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89233,
+        "name": "Lajes do Pico",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89267,
+        "name": "Madalena",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89269,
+        "name": "Maia",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89333,
+        "name": "Mosteiros",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89350,
+        "name": "Nordeste",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89412,
+        "name": "Ponta Delgada",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89413,
+        "name": "Ponta Garça",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89427,
+        "name": "Porto Judeu",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89428,
+        "name": "Porto Martins",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89434,
+        "name": "Povoação",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89437,
+        "name": "Praia da Vitória",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89451,
+        "name": "Rabo de Peixe",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89460,
+        "name": "Relva",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89466,
+        "name": "Ribeira Grande",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89467,
+        "name": "Ribeira Seca",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89469,
+        "name": "Ribeirinha",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89479,
+        "name": "Rosto de Cão",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89494,
+        "name": "Santa Bárbara",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89502,
+        "name": "Santa Cruz da Graciosa",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89501,
+        "name": "Santa Cruz das Flores",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89558,
+        "name": "São Bartolomeu",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89577,
+        "name": "São Mateus",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89586,
+        "name": "São Roque",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89588,
+        "name": "São Roque do Pico",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89589,
+        "name": "São Sebastião",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89592,
+        "name": "São Vicente",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89529,
+        "name": "Senhora do Rosário",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89633,
+        "name": "Velas",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89673,
+        "name": "Vila do Porto",
+        "country": "PRT",
+        "state": "20"
+    },
+    {
+        "id": 89650,
+        "name": "Vila Franca do Campo",
+        "country": "PRT",
+        "state": "20"
+    }
+]

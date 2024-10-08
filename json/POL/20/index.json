@@ -1,1 +1,488 @@
-[{"id":0,"name":"August\u00f3w","country":"POL","state":"20"},{"id":1,"name":"Bia\u0142owie\u017ca","country":"POL","state":"20"},{"id":2,"name":"Bia\u0142ystok","country":"POL","state":"20"},{"id":3,"name":"Bielsk Podlaski","country":"POL","state":"20"},{"id":4,"name":"Bo\u0107ki","country":"POL","state":"20"},{"id":5,"name":"Bra\u0144sk","country":"POL","state":"20"},{"id":6,"name":"Choroszcz","country":"POL","state":"20"},{"id":7,"name":"Ciechanowiec","country":"POL","state":"20"},{"id":8,"name":"Czarna Bia\u0142ostocka","country":"POL","state":"20"},{"id":9,"name":"Czeremcha","country":"POL","state":"20"},{"id":10,"name":"Czy\u017cew","country":"POL","state":"20"},{"id":11,"name":"D\u0105browa Bia\u0142ostocka","country":"POL","state":"20"},{"id":12,"name":"Dobrzyniewo Du\u017ce","country":"POL","state":"20"},{"id":13,"name":"Drohiczyn","country":"POL","state":"20"},{"id":14,"name":"Filip\u00f3w","country":"POL","state":"20"},{"id":15,"name":"Goniadz","country":"POL","state":"20"},{"id":16,"name":"Grajewo","country":"POL","state":"20"},{"id":17,"name":"Grudki","country":"POL","state":"20"},{"id":18,"name":"Hajn\u00f3wka","country":"POL","state":"20"},{"id":19,"name":"Jedwabne","country":"POL","state":"20"},{"id":20,"name":"Kleszczele","country":"POL","state":"20"},{"id":21,"name":"Knyszyn","country":"POL","state":"20"},{"id":22,"name":"Kolno","country":"POL","state":"20"},{"id":23,"name":"Krasnopol","country":"POL","state":"20"},{"id":24,"name":"Krynki","country":"POL","state":"20"},{"id":25,"name":"Ku\u017anica","country":"POL","state":"20"},{"id":26,"name":"Lipsk","country":"POL","state":"20"},{"id":27,"name":"\u0141apy","country":"POL","state":"20"},{"id":28,"name":"\u0141om\u017ca","country":"POL","state":"20"},{"id":29,"name":"Ma\u0142y P\u0142ock","country":"POL","state":"20"},{"id":30,"name":"Micha\u0142owo","country":"POL","state":"20"},{"id":31,"name":"Milejczyce","country":"POL","state":"20"},{"id":32,"name":"Mo\u0144ki","country":"POL","state":"20"},{"id":33,"name":"Narew","country":"POL","state":"20"},{"id":34,"name":"Nowogr\u00f3d","country":"POL","state":"20"},{"id":35,"name":"Nurzec-Stacja","country":"POL","state":"20"},{"id":36,"name":"Orla","country":"POL","state":"20"},{"id":37,"name":"Pi\u0105tnica","country":"POL","state":"20"},{"id":38,"name":"Powiat augustowski","country":"POL","state":"20"},{"id":39,"name":"Powiat bia\u0142ostocki","country":"POL","state":"20"},{"id":40,"name":"Powiat bielski","country":"POL","state":"20"},{"id":41,"name":"Powiat grajewski","country":"POL","state":"20"},{"id":42,"name":"Powiat hajnowski","country":"POL","state":"20"},{"id":43,"name":"Powiat kolne\u0144ski","country":"POL","state":"20"},{"id":44,"name":"Powiat \u0142om\u017cy\u0144ski","country":"POL","state":"20"},{"id":45,"name":"Powiat moniecki","country":"POL","state":"20"},{"id":46,"name":"Powiat sejne\u0144ski","country":"POL","state":"20"},{"id":47,"name":"Powiat siemiatycki","country":"POL","state":"20"},{"id":48,"name":"Powiat sok\u00f3lski","country":"POL","state":"20"},{"id":49,"name":"Powiat suwalski","country":"POL","state":"20"},{"id":50,"name":"Powiat wysokomazowiecki","country":"POL","state":"20"},{"id":51,"name":"Powiat zambrowski","country":"POL","state":"20"},{"id":52,"name":"Pu\u0144sk","country":"POL","state":"20"},{"id":53,"name":"Raczki","country":"POL","state":"20"},{"id":54,"name":"Radzi\u0142\u00f3w","country":"POL","state":"20"},{"id":55,"name":"Rajgr\u00f3d","country":"POL","state":"20"},{"id":56,"name":"Rudka","country":"POL","state":"20"},{"id":57,"name":"Rutki-Kossaki","country":"POL","state":"20"},{"id":58,"name":"Sejny","country":"POL","state":"20"},{"id":59,"name":"Siemiatycze","country":"POL","state":"20"},{"id":60,"name":"\u015aniadowo","country":"POL","state":"20"},{"id":61,"name":"Sok\u00f3\u0142ka","country":"POL","state":"20"},{"id":62,"name":"Soko\u0142y","country":"POL","state":"20"},{"id":63,"name":"Stawiski","country":"POL","state":"20"},{"id":64,"name":"Suchowola","country":"POL","state":"20"},{"id":65,"name":"Supra\u015bl","country":"POL","state":"20"},{"id":66,"name":"Sura\u017c","country":"POL","state":"20"},{"id":67,"name":"Suwa\u0142ki","country":"POL","state":"20"},{"id":68,"name":"Szczuczyn","country":"POL","state":"20"},{"id":69,"name":"Szepietowo","country":"POL","state":"20"},{"id":70,"name":"Szumowo","country":"POL","state":"20"},{"id":71,"name":"Turo\u015b\u0144 Ko\u015bcielna","country":"POL","state":"20"},{"id":72,"name":"Tykocin","country":"POL","state":"20"},{"id":73,"name":"Wasilk\u00f3w","country":"POL","state":"20"},{"id":74,"name":"W\u0105sosz","country":"POL","state":"20"},{"id":75,"name":"Wizna","country":"POL","state":"20"},{"id":76,"name":"Wysokie Mazowieckie","country":"POL","state":"20"},{"id":77,"name":"Wyszki","country":"POL","state":"20"},{"id":78,"name":"Zab\u0142ud\u00f3w","country":"POL","state":"20"},{"id":79,"name":"Zambr\u00f3w","country":"POL","state":"20"},{"id":80,"name":"Zb\u00f3jna","country":"POL","state":"20"}]
+[
+    {
+        "id": 85787,
+        "name": "Augustów",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 85845,
+        "name": "Białowieża",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 85850,
+        "name": "Białystok",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 85860,
+        "name": "Bielsk Podlaski",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 85933,
+        "name": "Boćki",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 85937,
+        "name": "Brańsk",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86052,
+        "name": "Choroszcz",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86076,
+        "name": "Ciechanowiec",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86105,
+        "name": "Czarna Białostocka",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86126,
+        "name": "Czeremcha",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86148,
+        "name": "Czyżew",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86238,
+        "name": "Dąbrowa Białostocka",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86179,
+        "name": "Dobrzyniewo Duże",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86200,
+        "name": "Drohiczyn",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86270,
+        "name": "Filipów",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86331,
+        "name": "Goniadz",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86370,
+        "name": "Grajewo",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86384,
+        "name": "Grudki",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86439,
+        "name": "Hajnówka",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86545,
+        "name": "Jedwabne",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86646,
+        "name": "Kleszczele",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86659,
+        "name": "Knyszyn",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86679,
+        "name": "Kolno",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86771,
+        "name": "Krasnopol",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86797,
+        "name": "Krynki",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86847,
+        "name": "Kuźnica",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 86921,
+        "name": "Lipsk",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88768,
+        "name": "Łapy",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88786,
+        "name": "Łomża",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87010,
+        "name": "Mały Płock",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87021,
+        "name": "Michałowo",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87048,
+        "name": "Milejczyce",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87100,
+        "name": "Mońki",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87138,
+        "name": "Narew",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87196,
+        "name": "Nowogród",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87213,
+        "name": "Nurzec-Stacja",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87266,
+        "name": "Orla",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87402,
+        "name": "Piątnica",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87458,
+        "name": "Powiat augustowski",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87464,
+        "name": "Powiat białostocki",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87466,
+        "name": "Powiat bielski",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87512,
+        "name": "Powiat grajewski",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87522,
+        "name": "Powiat hajnowski",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87541,
+        "name": "Powiat kolneński",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87750,
+        "name": "Powiat łomżyński",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87591,
+        "name": "Powiat moniecki",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87669,
+        "name": "Powiat sejneński",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87671,
+        "name": "Powiat siemiatycki",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87678,
+        "name": "Powiat sokólski",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87690,
+        "name": "Powiat suwalski",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87727,
+        "name": "Powiat wysokomazowiecki",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87736,
+        "name": "Powiat zambrowski",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87854,
+        "name": "Puńsk",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87875,
+        "name": "Raczki",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87901,
+        "name": "Radziłów",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87907,
+        "name": "Rajgród",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87974,
+        "name": "Rudka",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 87990,
+        "name": "Rutki-Kossaki",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88055,
+        "name": "Sejny",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88072,
+        "name": "Siemiatycze",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88836,
+        "name": "Śniadowo",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88141,
+        "name": "Sokółka",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88138,
+        "name": "Sokoły",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88200,
+        "name": "Stawiski",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88251,
+        "name": "Suchowola",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88264,
+        "name": "Supraśl",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88265,
+        "name": "Suraż",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88269,
+        "name": "Suwałki",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88300,
+        "name": "Szczuczyn",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88308,
+        "name": "Szepietowo",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88318,
+        "name": "Szumowo",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88426,
+        "name": "Turośń Kościelna",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88438,
+        "name": "Tykocin",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88484,
+        "name": "Wasilków",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88635,
+        "name": "Wąsosz",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88554,
+        "name": "Wizna",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88622,
+        "name": "Wysokie Mazowieckie",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88623,
+        "name": "Wyszki",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88663,
+        "name": "Zabłudów",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88690,
+        "name": "Zambrów",
+        "country": "POL",
+        "state": "20"
+    },
+    {
+        "id": 88712,
+        "name": "Zbójna",
+        "country": "POL",
+        "state": "20"
+    }
+]

@@ -1,1 +1,236 @@
-[{"id":0,"name":"Aktsyabrski","country":"BLR","state":"HO"},{"id":1,"name":"Brahin","country":"BLR","state":"HO"},{"id":2,"name":"Brahinski Rayon","country":"BLR","state":"HO"},{"id":3,"name":"Buda-Kashalyova","country":"BLR","state":"HO"},{"id":4,"name":"Chachersk","country":"BLR","state":"HO"},{"id":5,"name":"Chacherski Rayon","country":"BLR","state":"HO"},{"id":6,"name":"Dobrush","country":"BLR","state":"HO"},{"id":7,"name":"Dowsk","country":"BLR","state":"HO"},{"id":8,"name":"Homyel'","country":"BLR","state":"HO"},{"id":9,"name":"Homyel\u2019ski Rayon","country":"BLR","state":"HO"},{"id":10,"name":"Kalinkavichy","country":"BLR","state":"HO"},{"id":11,"name":"Karanyowka","country":"BLR","state":"HO"},{"id":12,"name":"Karma","country":"BLR","state":"HO"},{"id":13,"name":"Kastsyukowka","country":"BLR","state":"HO"},{"id":14,"name":"Khal\u2019ch","country":"BLR","state":"HO"},{"id":15,"name":"Khoyniki","country":"BLR","state":"HO"},{"id":16,"name":"Loyew","country":"BLR","state":"HO"},{"id":17,"name":"Lyel\u2019chytski Rayon","country":"BLR","state":"HO"},{"id":18,"name":"Lyel\u2019chytsy","country":"BLR","state":"HO"},{"id":19,"name":"Mazyr","country":"BLR","state":"HO"},{"id":20,"name":"Mazyrski Rayon","country":"BLR","state":"HO"},{"id":21,"name":"Narowlya","country":"BLR","state":"HO"},{"id":22,"name":"Novaya Huta","country":"BLR","state":"HO"},{"id":23,"name":"Parychy","country":"BLR","state":"HO"},{"id":24,"name":"Peramoga","country":"BLR","state":"HO"},{"id":25,"name":"Pyetrykaw","country":"BLR","state":"HO"},{"id":26,"name":"Rahachow","country":"BLR","state":"HO"},{"id":27,"name":"Rahachowski Rayon","country":"BLR","state":"HO"},{"id":28,"name":"Rechytsa","country":"BLR","state":"HO"},{"id":29,"name":"Sasnovy Bor","country":"BLR","state":"HO"},{"id":30,"name":"Svyetlahorsk","country":"BLR","state":"HO"},{"id":31,"name":"Turaw","country":"BLR","state":"HO"},{"id":32,"name":"Vasilyevichy","country":"BLR","state":"HO"},{"id":33,"name":"Vyetka","country":"BLR","state":"HO"},{"id":34,"name":"Vyetkawski Rayon","country":"BLR","state":"HO"},{"id":35,"name":"Yel\u2019sk","country":"BLR","state":"HO"},{"id":36,"name":"Zhlobin","country":"BLR","state":"HO"},{"id":37,"name":"Zhlobinski Rayon","country":"BLR","state":"HO"},{"id":38,"name":"Zhytkavichy","country":"BLR","state":"HO"}]
+[
+    {
+        "id": 15804,
+        "name": "Aktsyabrski",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15829,
+        "name": "Brahin",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15830,
+        "name": "Brahinski Rayon",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15835,
+        "name": "Buda-Kashalyova",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15848,
+        "name": "Chachersk",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15849,
+        "name": "Chacherski Rayon",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15864,
+        "name": "Dobrush",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15867,
+        "name": "Dowsk",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15895,
+        "name": "Homyel'",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15896,
+        "name": "Homyel’ski Rayon",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15915,
+        "name": "Kalinkavichy",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15923,
+        "name": "Karanyowka",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15926,
+        "name": "Karma",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15929,
+        "name": "Kastsyukowka",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15930,
+        "name": "Khal’ch",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15936,
+        "name": "Khoyniki",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15962,
+        "name": "Loyew",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15967,
+        "name": "Lyel’chytski Rayon",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15968,
+        "name": "Lyel’chytsy",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15985,
+        "name": "Mazyr",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 15986,
+        "name": "Mazyrski Rayon",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16002,
+        "name": "Narowlya",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16005,
+        "name": "Novaya Huta",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16017,
+        "name": "Parychy",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16020,
+        "name": "Peramoga",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16033,
+        "name": "Pyetrykaw",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16035,
+        "name": "Rahachow",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16036,
+        "name": "Rahachowski Rayon",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16041,
+        "name": "Rechytsa",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16049,
+        "name": "Sasnovy Bor",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16081,
+        "name": "Svyetlahorsk",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16090,
+        "name": "Turaw",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16098,
+        "name": "Vasilyevichy",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16112,
+        "name": "Vyetka",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16113,
+        "name": "Vyetkawski Rayon",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16116,
+        "name": "Yel’sk",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16127,
+        "name": "Zhlobin",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16128,
+        "name": "Zhlobinski Rayon",
+        "country": "BLR",
+        "state": "HO"
+    },
+    {
+        "id": 16129,
+        "name": "Zhytkavichy",
+        "country": "BLR",
+        "state": "HO"
+    }
+]

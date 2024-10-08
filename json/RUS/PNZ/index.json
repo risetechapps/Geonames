@@ -1,1 +1,284 @@
-[{"id":0,"name":"Bashmakovo","country":"RUS","state":"PNZ"},{"id":1,"name":"Bekovo","country":"RUS","state":"PNZ"},{"id":2,"name":"Belinskiy","country":"RUS","state":"PNZ"},{"id":3,"name":"Bessonovka","country":"RUS","state":"PNZ"},{"id":4,"name":"Bogoslovka","country":"RUS","state":"PNZ"},{"id":5,"name":"Chaadayevka","country":"RUS","state":"PNZ"},{"id":6,"name":"Chemodanovka","country":"RUS","state":"PNZ"},{"id":7,"name":"Gorodishche","country":"RUS","state":"PNZ"},{"id":8,"name":"Grabovo","country":"RUS","state":"PNZ"},{"id":9,"name":"Inderka","country":"RUS","state":"PNZ"},{"id":10,"name":"Issa","country":"RUS","state":"PNZ"},{"id":11,"name":"Issinskiy Rayon","country":"RUS","state":"PNZ"},{"id":12,"name":"Kanayevka","country":"RUS","state":"PNZ"},{"id":13,"name":"Kolyshley","country":"RUS","state":"PNZ"},{"id":14,"name":"Kondol\u2019","country":"RUS","state":"PNZ"},{"id":15,"name":"Kuznetsk","country":"RUS","state":"PNZ"},{"id":16,"name":"Kuznetskiy Rayon","country":"RUS","state":"PNZ"},{"id":17,"name":"Lermontovo","country":"RUS","state":"PNZ"},{"id":18,"name":"Lopatino","country":"RUS","state":"PNZ"},{"id":19,"name":"Lunino","country":"RUS","state":"PNZ"},{"id":20,"name":"Makhalino","country":"RUS","state":"PNZ"},{"id":21,"name":"Malaya Serdoba","country":"RUS","state":"PNZ"},{"id":22,"name":"Mokshan","country":"RUS","state":"PNZ"},{"id":23,"name":"Narovchat","country":"RUS","state":"PNZ"},{"id":24,"name":"Neverkino","country":"RUS","state":"PNZ"},{"id":25,"name":"Neverkinskiy Rayon","country":"RUS","state":"PNZ"},{"id":26,"name":"Nikol\u2019sk","country":"RUS","state":"PNZ"},{"id":27,"name":"Nizhniy Lomov","country":"RUS","state":"PNZ"},{"id":28,"name":"Pachelma","country":"RUS","state":"PNZ"},{"id":29,"name":"Penza","country":"RUS","state":"PNZ"},{"id":30,"name":"Poim","country":"RUS","state":"PNZ"},{"id":31,"name":"Poselki","country":"RUS","state":"PNZ"},{"id":32,"name":"Russkiy Kameshkir","country":"RUS","state":"PNZ"},{"id":33,"name":"Serdobsk","country":"RUS","state":"PNZ"},{"id":34,"name":"Shemysheyka","country":"RUS","state":"PNZ"},{"id":35,"name":"Sosnovoborsk","country":"RUS","state":"PNZ"},{"id":36,"name":"Spassk","country":"RUS","state":"PNZ"},{"id":37,"name":"Srednyaya Yelyuzan\u2019","country":"RUS","state":"PNZ"},{"id":38,"name":"Sura","country":"RUS","state":"PNZ"},{"id":39,"name":"Sursk","country":"RUS","state":"PNZ"},{"id":40,"name":"Tamala","country":"RUS","state":"PNZ"},{"id":41,"name":"Vadinsk","country":"RUS","state":"PNZ"},{"id":42,"name":"Verkhniy Lomov","country":"RUS","state":"PNZ"},{"id":43,"name":"Verkhozim","country":"RUS","state":"PNZ"},{"id":44,"name":"Zarechnyy","country":"RUS","state":"PNZ"},{"id":45,"name":"Zasechnoye","country":"RUS","state":"PNZ"},{"id":46,"name":"Zemetchino","country":"RUS","state":"PNZ"}]
+[
+    {
+        "id": 97807,
+        "name": "Bashmakovo",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 97838,
+        "name": "Bekovo",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 97851,
+        "name": "Belinskiy",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 97915,
+        "name": "Bessonovka",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 97975,
+        "name": "Bogoslovka",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 98106,
+        "name": "Chaadayevka",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 98142,
+        "name": "Chemodanovka",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 98560,
+        "name": "Gorodishche",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 98574,
+        "name": "Grabovo",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 98673,
+        "name": "Inderka",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 98715,
+        "name": "Issa",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 98717,
+        "name": "Issinskiy Rayon",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 98836,
+        "name": "Kanayevka",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 99151,
+        "name": "Kolyshley",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 99180,
+        "name": "Kondol’",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 99508,
+        "name": "Kuznetsk",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 99509,
+        "name": "Kuznetskiy Rayon",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 99586,
+        "name": "Lermontovo",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 99662,
+        "name": "Lopatino",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 99692,
+        "name": "Lunino",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 99744,
+        "name": "Makhalino",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 99752,
+        "name": "Malaya Serdoba",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 99946,
+        "name": "Mokshan",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 100060,
+        "name": "Narovchat",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 100118,
+        "name": "Neverkino",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 100119,
+        "name": "Neverkinskiy Rayon",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 100144,
+        "name": "Nikol’sk",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 100171,
+        "name": "Nizhniy Lomov",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 100526,
+        "name": "Pachelma",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 100595,
+        "name": "Penza",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 100738,
+        "name": "Poim",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 100782,
+        "name": "Poselki",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 101033,
+        "name": "Russkiy Kameshkir",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 101174,
+        "name": "Serdobsk",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 101298,
+        "name": "Shemysheyka",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 101493,
+        "name": "Sosnovoborsk",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 101526,
+        "name": "Spassk",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 101547,
+        "name": "Srednyaya Yelyuzan’",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 101672,
+        "name": "Sura",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 101680,
+        "name": "Sursk",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 101759,
+        "name": "Tamala",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 102171,
+        "name": "Vadinsk",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 102255,
+        "name": "Verkhniy Lomov",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 102283,
+        "name": "Verkhozim",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 102651,
+        "name": "Zarechnyy",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 102664,
+        "name": "Zasechnoye",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 102704,
+        "name": "Zemetchino",
+        "country": "RUS",
+        "state": "PNZ"
+    }
+]

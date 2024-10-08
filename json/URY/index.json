@@ -1,1 +1,116 @@
-[{"id":0,"name":"Artigas","iso3":"AR","country":"URY"},{"id":1,"name":"Canelones","iso3":"CA","country":"URY"},{"id":2,"name":"Cerro Largo","iso3":"CL","country":"URY"},{"id":3,"name":"Colonia","iso3":"CO","country":"URY"},{"id":4,"name":"Durazno","iso3":"DU","country":"URY"},{"id":5,"name":"Flores","iso3":"FS","country":"URY"},{"id":6,"name":"Florida","iso3":"FD","country":"URY"},{"id":7,"name":"Lavalleja","iso3":"LA","country":"URY"},{"id":8,"name":"Maldonado","iso3":"MA","country":"URY"},{"id":9,"name":"Montevideo","iso3":"MO","country":"URY"},{"id":10,"name":"Paysand\u00fa","iso3":"PA","country":"URY"},{"id":11,"name":"R\u00edo Negro","iso3":"RN","country":"URY"},{"id":12,"name":"Rivera","iso3":"RV","country":"URY"},{"id":13,"name":"Rocha","iso3":"RO","country":"URY"},{"id":14,"name":"Salto","iso3":"SA","country":"URY"},{"id":15,"name":"San Jos\u00e9","iso3":"SJ","country":"URY"},{"id":16,"name":"Soriano","iso3":"SO","country":"URY"},{"id":17,"name":"Tacuaremb\u00f3","iso3":"TA","country":"URY"},{"id":18,"name":"Treinta y Tres","iso3":"TT","country":"URY"}]
+[
+    {
+        "id": 3205,
+        "name": "Artigas",
+        "country": "URY",
+        "state_code": "AR"
+    },
+    {
+        "id": 3213,
+        "name": "Canelones",
+        "country": "URY",
+        "state_code": "CA"
+    },
+    {
+        "id": 3211,
+        "name": "Cerro Largo",
+        "country": "URY",
+        "state_code": "CL"
+    },
+    {
+        "id": 3208,
+        "name": "Colonia",
+        "country": "URY",
+        "state_code": "CO"
+    },
+    {
+        "id": 3209,
+        "name": "Durazno",
+        "country": "URY",
+        "state_code": "DU"
+    },
+    {
+        "id": 3203,
+        "name": "Flores",
+        "country": "URY",
+        "state_code": "FS"
+    },
+    {
+        "id": 3217,
+        "name": "Florida",
+        "country": "URY",
+        "state_code": "FD"
+    },
+    {
+        "id": 3215,
+        "name": "Lavalleja",
+        "country": "URY",
+        "state_code": "LA"
+    },
+    {
+        "id": 3206,
+        "name": "Maldonado",
+        "country": "URY",
+        "state_code": "MA"
+    },
+    {
+        "id": 3218,
+        "name": "Montevideo",
+        "country": "URY",
+        "state_code": "MO"
+    },
+    {
+        "id": 3212,
+        "name": "Paysandú",
+        "country": "URY",
+        "state_code": "PA"
+    },
+    {
+        "id": 3210,
+        "name": "Río Negro",
+        "country": "URY",
+        "state_code": "RN"
+    },
+    {
+        "id": 3207,
+        "name": "Rivera",
+        "country": "URY",
+        "state_code": "RV"
+    },
+    {
+        "id": 3216,
+        "name": "Rocha",
+        "country": "URY",
+        "state_code": "RO"
+    },
+    {
+        "id": 3220,
+        "name": "Salto",
+        "country": "URY",
+        "state_code": "SA"
+    },
+    {
+        "id": 3204,
+        "name": "San José",
+        "country": "URY",
+        "state_code": "SJ"
+    },
+    {
+        "id": 3219,
+        "name": "Soriano",
+        "country": "URY",
+        "state_code": "SO"
+    },
+    {
+        "id": 3221,
+        "name": "Tacuarembó",
+        "country": "URY",
+        "state_code": "TA"
+    },
+    {
+        "id": 3214,
+        "name": "Treinta y Tres",
+        "country": "URY",
+        "state_code": "TT"
+    }
+]

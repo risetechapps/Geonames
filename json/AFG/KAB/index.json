@@ -1,1 +1,20 @@
-[{"id":0,"name":"Kabul","country":"AFG","state":"KAB"},{"id":1,"name":"M\u012br Bachah K\u014d\u1e6f","country":"AFG","state":"KAB"},{"id":2,"name":"Paghm\u0101n","country":"AFG","state":"KAB"}]
+[
+    {
+        "id": 79,
+        "name": "Kabul",
+        "country": "AFG",
+        "state": "KAB"
+    },
+    {
+        "id": 99,
+        "name": "Mīr Bachah Kōṯ",
+        "country": "AFG",
+        "state": "KAB"
+    },
+    {
+        "id": 103,
+        "name": "Paghmān",
+        "country": "AFG",
+        "state": "KAB"
+    }
+]

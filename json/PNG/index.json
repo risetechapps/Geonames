@@ -1,1 +1,134 @@
-[{"id":0,"name":"Bougainville","iso3":"NSB","country":"PNG"},{"id":1,"name":"Central Province","iso3":"CPM","country":"PNG"},{"id":2,"name":"Chimbu Province","iso3":"CPK","country":"PNG"},{"id":3,"name":"East New Britain","iso3":"EBR","country":"PNG"},{"id":4,"name":"East Sepik","iso3":"ESW","country":"PNG"},{"id":5,"name":"Eastern Highlands Province","iso3":"EHG","country":"PNG"},{"id":6,"name":"Enga Province","iso3":"EPW","country":"PNG"},{"id":7,"name":"Gulf","iso3":"GPK","country":"PNG"},{"id":8,"name":"Hela","iso3":"HLA","country":"PNG"},{"id":9,"name":"Jiwaka Province","iso3":"JWK","country":"PNG"},{"id":10,"name":"Madang Province","iso3":"MPM","country":"PNG"},{"id":11,"name":"Manus Province","iso3":"MRL","country":"PNG"},{"id":12,"name":"Milne Bay Province","iso3":"MBA","country":"PNG"},{"id":13,"name":"Morobe Province","iso3":"MPL","country":"PNG"},{"id":14,"name":"New Ireland Province","iso3":"NIK","country":"PNG"},{"id":15,"name":"Oro Province","iso3":"NPP","country":"PNG"},{"id":16,"name":"Port Moresby","iso3":"NCD","country":"PNG"},{"id":17,"name":"Sandaun Province","iso3":"SAN","country":"PNG"},{"id":18,"name":"Southern Highlands Province","iso3":"SHM","country":"PNG"},{"id":19,"name":"West New Britain Province","iso3":"WBK","country":"PNG"},{"id":20,"name":"Western Highlands Province","iso3":"WHM","country":"PNG"},{"id":21,"name":"Western Province","iso3":"WPD","country":"PNG"}]
+[
+    {
+        "id": 4831,
+        "name": "Bougainville",
+        "country": "PNG",
+        "state_code": "NSB"
+    },
+    {
+        "id": 4847,
+        "name": "Central Province",
+        "country": "PNG",
+        "state_code": "CPM"
+    },
+    {
+        "id": 4846,
+        "name": "Chimbu Province",
+        "country": "PNG",
+        "state_code": "CPK"
+    },
+    {
+        "id": 4834,
+        "name": "East New Britain",
+        "country": "PNG",
+        "state_code": "EBR"
+    },
+    {
+        "id": 5228,
+        "name": "East Sepik",
+        "country": "PNG",
+        "state_code": "ESW"
+    },
+    {
+        "id": 4845,
+        "name": "Eastern Highlands Province",
+        "country": "PNG",
+        "state_code": "EHG"
+    },
+    {
+        "id": 4848,
+        "name": "Enga Province",
+        "country": "PNG",
+        "state_code": "EPW"
+    },
+    {
+        "id": 4839,
+        "name": "Gulf",
+        "country": "PNG",
+        "state_code": "GPK"
+    },
+    {
+        "id": 4833,
+        "name": "Hela",
+        "country": "PNG",
+        "state_code": "HLA"
+    },
+    {
+        "id": 4832,
+        "name": "Jiwaka Province",
+        "country": "PNG",
+        "state_code": "JWK"
+    },
+    {
+        "id": 4843,
+        "name": "Madang Province",
+        "country": "PNG",
+        "state_code": "MPM"
+    },
+    {
+        "id": 4842,
+        "name": "Manus Province",
+        "country": "PNG",
+        "state_code": "MRL"
+    },
+    {
+        "id": 4849,
+        "name": "Milne Bay Province",
+        "country": "PNG",
+        "state_code": "MBA"
+    },
+    {
+        "id": 4835,
+        "name": "Morobe Province",
+        "country": "PNG",
+        "state_code": "MPL"
+    },
+    {
+        "id": 4841,
+        "name": "New Ireland Province",
+        "country": "PNG",
+        "state_code": "NIK"
+    },
+    {
+        "id": 4838,
+        "name": "Oro Province",
+        "country": "PNG",
+        "state_code": "NPP"
+    },
+    {
+        "id": 4837,
+        "name": "Port Moresby",
+        "country": "PNG",
+        "state_code": "NCD"
+    },
+    {
+        "id": 4836,
+        "name": "Sandaun Province",
+        "country": "PNG",
+        "state_code": "SAN"
+    },
+    {
+        "id": 4844,
+        "name": "Southern Highlands Province",
+        "country": "PNG",
+        "state_code": "SHM"
+    },
+    {
+        "id": 4830,
+        "name": "West New Britain Province",
+        "country": "PNG",
+        "state_code": "WBK"
+    },
+    {
+        "id": 4840,
+        "name": "Western Highlands Province",
+        "country": "PNG",
+        "state_code": "WHM"
+    },
+    {
+        "id": 4850,
+        "name": "Western Province",
+        "country": "PNG",
+        "state_code": "WPD"
+    }
+]

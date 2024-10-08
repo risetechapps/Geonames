@@ -1,1 +1,536 @@
-[{"id":0,"name":"Andreapol\u2019","country":"RUS","state":"TVE"},{"id":1,"name":"Andreapol\u2019skiy Rayon","country":"RUS","state":"TVE"},{"id":2,"name":"Bel\u2019skiy Rayon","country":"RUS","state":"TVE"},{"id":3,"name":"Belyy","country":"RUS","state":"TVE"},{"id":4,"name":"Belyy Gorodok","country":"RUS","state":"TVE"},{"id":5,"name":"Berezayka","country":"RUS","state":"TVE"},{"id":6,"name":"Bernovo","country":"RUS","state":"TVE"},{"id":7,"name":"Bezhetsk","country":"RUS","state":"TVE"},{"id":8,"name":"Bezhetskiy Rayon","country":"RUS","state":"TVE"},{"id":9,"name":"Bologovskiy Rayon","country":"RUS","state":"TVE"},{"id":10,"name":"Bologoye","country":"RUS","state":"TVE"},{"id":11,"name":"Bologoye-4","country":"RUS","state":"TVE"},{"id":12,"name":"Emmaus","country":"RUS","state":"TVE"},{"id":13,"name":"Firovo","country":"RUS","state":"TVE"},{"id":14,"name":"Firovskiy Rayon","country":"RUS","state":"TVE"},{"id":15,"name":"Gorodnya","country":"RUS","state":"TVE"},{"id":16,"name":"Il\u2019inskoye","country":"RUS","state":"TVE"},{"id":17,"name":"Izoplit","country":"RUS","state":"TVE"},{"id":18,"name":"Kalashnikovo","country":"RUS","state":"TVE"},{"id":19,"name":"Kalininskiy Rayon","country":"RUS","state":"TVE"},{"id":20,"name":"Kalyazin","country":"RUS","state":"TVE"},{"id":21,"name":"Kalyazinskiy Rayon","country":"RUS","state":"TVE"},{"id":22,"name":"Kashin","country":"RUS","state":"TVE"},{"id":23,"name":"Kashinskiy Rayon","country":"RUS","state":"TVE"},{"id":24,"name":"Kesova Gora","country":"RUS","state":"TVE"},{"id":25,"name":"Kesovogorskiy Rayon","country":"RUS","state":"TVE"},{"id":26,"name":"Kimrskiy Rayon","country":"RUS","state":"TVE"},{"id":27,"name":"Kimry","country":"RUS","state":"TVE"},{"id":28,"name":"Konakovo","country":"RUS","state":"TVE"},{"id":29,"name":"Konakovskiy Rayon","country":"RUS","state":"TVE"},{"id":30,"name":"Kozlovo","country":"RUS","state":"TVE"},{"id":31,"name":"Krasnokholmskiy Rayon","country":"RUS","state":"TVE"},{"id":32,"name":"Krasnomayskiy","country":"RUS","state":"TVE"},{"id":33,"name":"Krasnyy Kholm","country":"RUS","state":"TVE"},{"id":34,"name":"Kuvshinovo","country":"RUS","state":"TVE"},{"id":35,"name":"Kuvshinovskiy Rayon","country":"RUS","state":"TVE"},{"id":36,"name":"Kuzhenkino","country":"RUS","state":"TVE"},{"id":37,"name":"Lesnoy Rayon","country":"RUS","state":"TVE"},{"id":38,"name":"Lesnoye","country":"RUS","state":"TVE"},{"id":39,"name":"Likhoslavl\u2019","country":"RUS","state":"TVE"},{"id":40,"name":"Likhoslavl\u2019skiy Rayon","country":"RUS","state":"TVE"},{"id":41,"name":"Maksatikha","country":"RUS","state":"TVE"},{"id":42,"name":"Maksatikhinskiy Rayon","country":"RUS","state":"TVE"},{"id":43,"name":"Molokovo","country":"RUS","state":"TVE"},{"id":44,"name":"Nelidovo","country":"RUS","state":"TVE"},{"id":45,"name":"Novozavidovskiy","country":"RUS","state":"TVE"},{"id":46,"name":"Olenino","country":"RUS","state":"TVE"},{"id":47,"name":"Orsha","country":"RUS","state":"TVE"},{"id":48,"name":"Ostashkov","country":"RUS","state":"TVE"},{"id":49,"name":"Ostashkovskiy Rayon","country":"RUS","state":"TVE"},{"id":50,"name":"Peno","country":"RUS","state":"TVE"},{"id":51,"name":"Penovskiy Rayon","country":"RUS","state":"TVE"},{"id":52,"name":"Radchenko","country":"RUS","state":"TVE"},{"id":53,"name":"Rameshki","country":"RUS","state":"TVE"},{"id":54,"name":"Rameshkovskiy Rayon","country":"RUS","state":"TVE"},{"id":55,"name":"Redkino","country":"RUS","state":"TVE"},{"id":56,"name":"Rzhev","country":"RUS","state":"TVE"},{"id":57,"name":"Sakharovo","country":"RUS","state":"TVE"},{"id":58,"name":"Sandovo","country":"RUS","state":"TVE"},{"id":59,"name":"Sandovskiy Rayon","country":"RUS","state":"TVE"},{"id":60,"name":"Selishche","country":"RUS","state":"TVE"},{"id":61,"name":"Selizharovo","country":"RUS","state":"TVE"},{"id":62,"name":"Selizharovskiy Rayon","country":"RUS","state":"TVE"},{"id":63,"name":"Sonkovo","country":"RUS","state":"TVE"},{"id":64,"name":"Spirovo","country":"RUS","state":"TVE"},{"id":65,"name":"Spirovskiy Rayon","country":"RUS","state":"TVE"},{"id":66,"name":"Stantsia Staritsa","country":"RUS","state":"TVE"},{"id":67,"name":"Staraya Toropa","country":"RUS","state":"TVE"},{"id":68,"name":"Staritsa","country":"RUS","state":"TVE"},{"id":69,"name":"Staritskiy Rayon","country":"RUS","state":"TVE"},{"id":70,"name":"Toropets","country":"RUS","state":"TVE"},{"id":71,"name":"Toropetskiy Rayon","country":"RUS","state":"TVE"},{"id":72,"name":"Torzhok","country":"RUS","state":"TVE"},{"id":73,"name":"Torzhokskiy Rayon","country":"RUS","state":"TVE"},{"id":74,"name":"Tver","country":"RUS","state":"TVE"},{"id":75,"name":"Udomlya","country":"RUS","state":"TVE"},{"id":76,"name":"Vasil\u2019yevskiy Mokh","country":"RUS","state":"TVE"},{"id":77,"name":"Velikooktyabr\u2019skiy","country":"RUS","state":"TVE"},{"id":78,"name":"Ves\u2019yegonsk","country":"RUS","state":"TVE"},{"id":79,"name":"Ves\u2019yegonskiy Rayon","country":"RUS","state":"TVE"},{"id":80,"name":"Vydropuzhsk","country":"RUS","state":"TVE"},{"id":81,"name":"Vypolzovo","country":"RUS","state":"TVE"},{"id":82,"name":"Vyshnevolotskiy Rayon","country":"RUS","state":"TVE"},{"id":83,"name":"Vyshniy Voloch\u00ebk","country":"RUS","state":"TVE"},{"id":84,"name":"Zapadnaya Dvina","country":"RUS","state":"TVE"},{"id":85,"name":"Zavidovo","country":"RUS","state":"TVE"},{"id":86,"name":"Zharkovskiy","country":"RUS","state":"TVE"},{"id":87,"name":"Zubtsov","country":"RUS","state":"TVE"},{"id":88,"name":"Zubtsovskiy Rayon","country":"RUS","state":"TVE"}]
+[
+    {
+        "id": 97626,
+        "name": "Andreapol’",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 97627,
+        "name": "Andreapol’skiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 97885,
+        "name": "Bel’skiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 97878,
+        "name": "Belyy",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 97879,
+        "name": "Belyy Gorodok",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 97894,
+        "name": "Berezayka",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 97899,
+        "name": "Bernovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 97920,
+        "name": "Bezhetsk",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 97921,
+        "name": "Bezhetskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 97993,
+        "name": "Bologovskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 97994,
+        "name": "Bologoye",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 97995,
+        "name": "Bologoye-4",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98393,
+        "name": "Emmaus",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98429,
+        "name": "Firovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98430,
+        "name": "Firovskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98561,
+        "name": "Gorodnya",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98656,
+        "name": "Il’inskoye",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98758,
+        "name": "Izoplit",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98781,
+        "name": "Kalashnikovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98791,
+        "name": "Kalininskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98803,
+        "name": "Kalyazin",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98804,
+        "name": "Kalyazinskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98891,
+        "name": "Kashin",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98892,
+        "name": "Kashinskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98943,
+        "name": "Kesova Gora",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 98944,
+        "name": "Kesovogorskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99043,
+        "name": "Kimrskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99044,
+        "name": "Kimry",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99177,
+        "name": "Konakovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99178,
+        "name": "Konakovskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99268,
+        "name": "Kozlovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99325,
+        "name": "Krasnokholmskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99328,
+        "name": "Krasnomayskiy",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99363,
+        "name": "Krasnyy Kholm",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99491,
+        "name": "Kuvshinovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99492,
+        "name": "Kuvshinovskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99502,
+        "name": "Kuzhenkino",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99598,
+        "name": "Lesnoy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99599,
+        "name": "Lesnoye",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99623,
+        "name": "Likhoslavl’",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99624,
+        "name": "Likhoslavl’skiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99746,
+        "name": "Maksatikha",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99747,
+        "name": "Maksatikhinskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 99952,
+        "name": "Molokovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 100098,
+        "name": "Nelidovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 100335,
+        "name": "Novozavidovskiy",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 100421,
+        "name": "Olenino",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 100477,
+        "name": "Orsha",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 100491,
+        "name": "Ostashkov",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 100492,
+        "name": "Ostashkovskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 100593,
+        "name": "Peno",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 100594,
+        "name": "Penovskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 100922,
+        "name": "Radchenko",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 100937,
+        "name": "Rameshki",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 100938,
+        "name": "Rameshkovskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 100958,
+        "name": "Redkino",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101060,
+        "name": "Rzhev",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101075,
+        "name": "Sakharovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101098,
+        "name": "Sandovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101099,
+        "name": "Sandovskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101156,
+        "name": "Selishche",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101157,
+        "name": "Selizharovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101158,
+        "name": "Selizharovskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101476,
+        "name": "Sonkovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101537,
+        "name": "Spirovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101538,
+        "name": "Spirovskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101554,
+        "name": "Stantsia Staritsa",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101567,
+        "name": "Staraya Toropa",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101569,
+        "name": "Staritsa",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101570,
+        "name": "Staritskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101899,
+        "name": "Toropets",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101900,
+        "name": "Toropetskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101901,
+        "name": "Torzhok",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101902,
+        "name": "Torzhokskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 101988,
+        "name": "Tver",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102024,
+        "name": "Udomlya",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102199,
+        "name": "Vasil’yevskiy Mokh",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102216,
+        "name": "Velikooktyabr’skiy",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102293,
+        "name": "Ves’yegonsk",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102294,
+        "name": "Ves’yegonskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102429,
+        "name": "Vydropuzhsk",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102434,
+        "name": "Vypolzovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102441,
+        "name": "Vyshnevolotskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102443,
+        "name": "Vyshniy Volochëk",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102646,
+        "name": "Zapadnaya Dvina",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102672,
+        "name": "Zavidovo",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102713,
+        "name": "Zharkovskiy",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102773,
+        "name": "Zubtsov",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 102774,
+        "name": "Zubtsovskiy Rayon",
+        "country": "RUS",
+        "state": "TVE"
+    }
+]

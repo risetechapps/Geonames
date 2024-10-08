@@ -1,1 +1,98 @@
-[{"id":0,"name":"Greater Poland","iso3":"30","country":"POL"},{"id":1,"name":"Holy Cross","iso3":"26","country":"POL"},{"id":2,"name":"Kuyavia-Pomerania","iso3":"04","country":"POL"},{"id":3,"name":"Lesser Poland","iso3":"12","country":"POL"},{"id":4,"name":"Lower Silesia","iso3":"02","country":"POL"},{"id":5,"name":"Lublin","iso3":"06","country":"POL"},{"id":6,"name":"Lubusz","iso3":"08","country":"POL"},{"id":7,"name":"\u0141\u00f3d\u017a","iso3":"10","country":"POL"},{"id":8,"name":"Mazovia","iso3":"14","country":"POL"},{"id":9,"name":"Podlaskie","iso3":"20","country":"POL"},{"id":10,"name":"Pomerania","iso3":"22","country":"POL"},{"id":11,"name":"Silesia","iso3":"24","country":"POL"},{"id":12,"name":"Subcarpathia","iso3":"18","country":"POL"},{"id":13,"name":"Upper Silesia","iso3":"16","country":"POL"},{"id":14,"name":"Warmia-Masuria","iso3":"28","country":"POL"},{"id":15,"name":"West Pomerania","iso3":"32","country":"POL"}]
+[
+    {
+        "id": 1634,
+        "name": "Greater Poland",
+        "country": "POL",
+        "state_code": "30"
+    },
+    {
+        "id": 1630,
+        "name": "Holy Cross",
+        "country": "POL",
+        "state_code": "26"
+    },
+    {
+        "id": 1625,
+        "name": "Kuyavia-Pomerania",
+        "country": "POL",
+        "state_code": "04"
+    },
+    {
+        "id": 1635,
+        "name": "Lesser Poland",
+        "country": "POL",
+        "state_code": "12"
+    },
+    {
+        "id": 1629,
+        "name": "Lower Silesia",
+        "country": "POL",
+        "state_code": "02"
+    },
+    {
+        "id": 1638,
+        "name": "Lublin",
+        "country": "POL",
+        "state_code": "06"
+    },
+    {
+        "id": 1631,
+        "name": "Lubusz",
+        "country": "POL",
+        "state_code": "08"
+    },
+    {
+        "id": 1636,
+        "name": "Łódź",
+        "country": "POL",
+        "state_code": "10"
+    },
+    {
+        "id": 1637,
+        "name": "Mazovia",
+        "country": "POL",
+        "state_code": "14"
+    },
+    {
+        "id": 1632,
+        "name": "Podlaskie",
+        "country": "POL",
+        "state_code": "20"
+    },
+    {
+        "id": 1624,
+        "name": "Pomerania",
+        "country": "POL",
+        "state_code": "22"
+    },
+    {
+        "id": 1623,
+        "name": "Silesia",
+        "country": "POL",
+        "state_code": "24"
+    },
+    {
+        "id": 1626,
+        "name": "Subcarpathia",
+        "country": "POL",
+        "state_code": "18"
+    },
+    {
+        "id": 1622,
+        "name": "Upper Silesia",
+        "country": "POL",
+        "state_code": "16"
+    },
+    {
+        "id": 1628,
+        "name": "Warmia-Masuria",
+        "country": "POL",
+        "state_code": "28"
+    },
+    {
+        "id": 1633,
+        "name": "West Pomerania",
+        "country": "POL",
+        "state_code": "32"
+    }
+]

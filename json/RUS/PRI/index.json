@@ -1,1 +1,578 @@
-[{"id":0,"name":"Anuchino","country":"RUS","state":"PRI"},{"id":1,"name":"Anuchinskiy Rayon","country":"RUS","state":"PRI"},{"id":2,"name":"Arsen\u2019yev","country":"RUS","state":"PRI"},{"id":3,"name":"Art\u00ebm","country":"RUS","state":"PRI"},{"id":4,"name":"Barabash","country":"RUS","state":"PRI"},{"id":5,"name":"Blagodatnoye","country":"RUS","state":"PRI"},{"id":6,"name":"Bol\u2019shoy Kamen\u2019","country":"RUS","state":"PRI"},{"id":7,"name":"Chernigovka","country":"RUS","state":"PRI"},{"id":8,"name":"Chernigovskiy Rayon","country":"RUS","state":"PRI"},{"id":9,"name":"Chernysh\u00ebvka","country":"RUS","state":"PRI"},{"id":10,"name":"Chkalovskoye","country":"RUS","state":"PRI"},{"id":11,"name":"Chuguyevka","country":"RUS","state":"PRI"},{"id":12,"name":"Dalnegorsk","country":"RUS","state":"PRI"},{"id":13,"name":"Dalnerechensk","country":"RUS","state":"PRI"},{"id":14,"name":"Dostoyevka","country":"RUS","state":"PRI"},{"id":15,"name":"Dunay","country":"RUS","state":"PRI"},{"id":16,"name":"Emar","country":"RUS","state":"PRI"},{"id":17,"name":"Fokino","country":"RUS","state":"PRI"},{"id":18,"name":"Gornorechenskiy","country":"RUS","state":"PRI"},{"id":19,"name":"Gornyye Klyuchi","country":"RUS","state":"PRI"},{"id":20,"name":"Grazhdanka","country":"RUS","state":"PRI"},{"id":21,"name":"Ivanovka","country":"RUS","state":"PRI"},{"id":22,"name":"Kamen\u2019-Rybolov","country":"RUS","state":"PRI"},{"id":23,"name":"Kamenka","country":"RUS","state":"PRI"},{"id":24,"name":"Kavalerovo","country":"RUS","state":"PRI"},{"id":25,"name":"Khasanskiy Rayon","country":"RUS","state":"PRI"},{"id":26,"name":"Khorol\u2019","country":"RUS","state":"PRI"},{"id":27,"name":"Kirovskiy","country":"RUS","state":"PRI"},{"id":28,"name":"Knevichi","country":"RUS","state":"PRI"},{"id":29,"name":"Kraskino","country":"RUS","state":"PRI"},{"id":30,"name":"Krasnorechenskiy","country":"RUS","state":"PRI"},{"id":31,"name":"Lazo","country":"RUS","state":"PRI"},{"id":32,"name":"Lazovskiy Rayon","country":"RUS","state":"PRI"},{"id":33,"name":"Lesozavodsk","country":"RUS","state":"PRI"},{"id":34,"name":"Lipovtsy","country":"RUS","state":"PRI"},{"id":35,"name":"Livadiya","country":"RUS","state":"PRI"},{"id":36,"name":"Luchegorsk","country":"RUS","state":"PRI"},{"id":37,"name":"Luchki","country":"RUS","state":"PRI"},{"id":38,"name":"Lyalichi","country":"RUS","state":"PRI"},{"id":39,"name":"Mikhaylovka","country":"RUS","state":"PRI"},{"id":40,"name":"Mikhaylovskiy Rayon","country":"RUS","state":"PRI"},{"id":41,"name":"Mnogoudobnoye","country":"RUS","state":"PRI"},{"id":42,"name":"Monastyrishche","country":"RUS","state":"PRI"},{"id":43,"name":"Nadezhdinskiy Rayon","country":"RUS","state":"PRI"},{"id":44,"name":"Nakhodka","country":"RUS","state":"PRI"},{"id":45,"name":"Novonikol\u2019sk","country":"RUS","state":"PRI"},{"id":46,"name":"Novopokrovka","country":"RUS","state":"PRI"},{"id":47,"name":"Novoshakhtinskiy","country":"RUS","state":"PRI"},{"id":48,"name":"Novosysoyevka","country":"RUS","state":"PRI"},{"id":49,"name":"Novyy","country":"RUS","state":"PRI"},{"id":50,"name":"Ol\u2019ga","country":"RUS","state":"PRI"},{"id":51,"name":"Partizansk","country":"RUS","state":"PRI"},{"id":52,"name":"Plastun","country":"RUS","state":"PRI"},{"id":53,"name":"Pogranichnyy","country":"RUS","state":"PRI"},{"id":54,"name":"Pokrovka","country":"RUS","state":"PRI"},{"id":55,"name":"Popova","country":"RUS","state":"PRI"},{"id":56,"name":"Preobrazheniye","country":"RUS","state":"PRI"},{"id":57,"name":"Primorskiy","country":"RUS","state":"PRI"},{"id":58,"name":"Putyatin","country":"RUS","state":"PRI"},{"id":59,"name":"Razdol\u2019noye","country":"RUS","state":"PRI"},{"id":60,"name":"Rettikhovka","country":"RUS","state":"PRI"},{"id":61,"name":"Romanovka","country":"RUS","state":"PRI"},{"id":62,"name":"Rudnaya Pristan\u2019","country":"RUS","state":"PRI"},{"id":63,"name":"Rudnyy","country":"RUS","state":"PRI"},{"id":64,"name":"Russkiy","country":"RUS","state":"PRI"},{"id":65,"name":"Sergeyevka","country":"RUS","state":"PRI"},{"id":66,"name":"Shkotovo","country":"RUS","state":"PRI"},{"id":67,"name":"Shkotovskiy Rayon","country":"RUS","state":"PRI"},{"id":68,"name":"Shtykovo","country":"RUS","state":"PRI"},{"id":69,"name":"Sivakovka","country":"RUS","state":"PRI"},{"id":70,"name":"Slavyanka","country":"RUS","state":"PRI"},{"id":71,"name":"Smolyaninovo","country":"RUS","state":"PRI"},{"id":72,"name":"Spassk-Dal\u2019niy","country":"RUS","state":"PRI"},{"id":73,"name":"Spasskiy Rayon","country":"RUS","state":"PRI"},{"id":74,"name":"Spasskoye","country":"RUS","state":"PRI"},{"id":75,"name":"Svetlaya","country":"RUS","state":"PRI"},{"id":76,"name":"Tavrichanka","country":"RUS","state":"PRI"},{"id":77,"name":"Terney","country":"RUS","state":"PRI"},{"id":78,"name":"Trudovoye","country":"RUS","state":"PRI"},{"id":79,"name":"Uglekamensk","country":"RUS","state":"PRI"},{"id":80,"name":"Uglovoye","country":"RUS","state":"PRI"},{"id":81,"name":"Ussuriysk","country":"RUS","state":"PRI"},{"id":82,"name":"Vladimiro-Aleksandrovskoye","country":"RUS","state":"PRI"},{"id":83,"name":"Vladivostok","country":"RUS","state":"PRI"},{"id":84,"name":"Vol\u2019no-Nadezhdinskoye","country":"RUS","state":"PRI"},{"id":85,"name":"Volchanets","country":"RUS","state":"PRI"},{"id":86,"name":"Vostok","country":"RUS","state":"PRI"},{"id":87,"name":"Vozdvizhenka","country":"RUS","state":"PRI"},{"id":88,"name":"Vrangel\u2019","country":"RUS","state":"PRI"},{"id":89,"name":"Yakovlevka","country":"RUS","state":"PRI"},{"id":90,"name":"Yakovlevskiy Rayon","country":"RUS","state":"PRI"},{"id":91,"name":"Yaroslavskiy","country":"RUS","state":"PRI"},{"id":92,"name":"Yekaterinovka","country":"RUS","state":"PRI"},{"id":93,"name":"Zarubino","country":"RUS","state":"PRI"},{"id":94,"name":"Zavodskoy","country":"RUS","state":"PRI"},{"id":95,"name":"Zharikovo","country":"RUS","state":"PRI"}]
+[
+    {
+        "id": 97644,
+        "name": "Anuchino",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 97645,
+        "name": "Anuchinskiy Rayon",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 97678,
+        "name": "Arsen’yev",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 97686,
+        "name": "Artëm",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 97789,
+        "name": "Barabash",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 97946,
+        "name": "Blagodatnoye",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98008,
+        "name": "Bol’shoy Kamen’",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98166,
+        "name": "Chernigovka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98167,
+        "name": "Chernigovskiy Rayon",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98182,
+        "name": "Chernyshëvka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98208,
+        "name": "Chkalovskoye",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98217,
+        "name": "Chuguyevka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98237,
+        "name": "Dalnegorsk",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98238,
+        "name": "Dalnerechensk",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98323,
+        "name": "Dostoyevka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98356,
+        "name": "Dunay",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98392,
+        "name": "Emar",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98433,
+        "name": "Fokino",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98532,
+        "name": "Gornorechenskiy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98545,
+        "name": "Gornyye Klyuchi",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98580,
+        "name": "Grazhdanka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98730,
+        "name": "Ivanovka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98823,
+        "name": "Kamen’-Rybolov",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98814,
+        "name": "Kamenka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98912,
+        "name": "Kavalerovo",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 98969,
+        "name": "Khasanskiy Rayon",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99007,
+        "name": "Khorol’",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99069,
+        "name": "Kirovskiy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99113,
+        "name": "Knevichi",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99275,
+        "name": "Kraskino",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99331,
+        "name": "Krasnorechenskiy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99550,
+        "name": "Lazo",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99551,
+        "name": "Lazovskiy Rayon",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99605,
+        "name": "Lesozavodsk",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99635,
+        "name": "Lipovtsy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99642,
+        "name": "Livadiya",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99678,
+        "name": "Luchegorsk",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99679,
+        "name": "Luchki",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99700,
+        "name": "Lyalichi",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99898,
+        "name": "Mikhaylovka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99903,
+        "name": "Mikhaylovskiy Rayon",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99935,
+        "name": "Mnogoudobnoye",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 99955,
+        "name": "Monastyrishche",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100040,
+        "name": "Nadezhdinskiy Rayon",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100052,
+        "name": "Nakhodka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100271,
+        "name": "Novonikol’sk",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100285,
+        "name": "Novopokrovka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100298,
+        "name": "Novoshakhtinskiy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100312,
+        "name": "Novosysoyevka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100339,
+        "name": "Novyy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100431,
+        "name": "Ol’ga",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100555,
+        "name": "Partizansk",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100695,
+        "name": "Plastun",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100737,
+        "name": "Pogranichnyy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100743,
+        "name": "Pokrovka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100771,
+        "name": "Popova",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100811,
+        "name": "Preobrazheniye",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100832,
+        "name": "Primorskiy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100905,
+        "name": "Putyatin",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100950,
+        "name": "Razdol’noye",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100966,
+        "name": "Rettikhovka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 100988,
+        "name": "Romanovka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101021,
+        "name": "Rudnaya Pristan’",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101026,
+        "name": "Rudnyy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101031,
+        "name": "Russkiy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101181,
+        "name": "Sergeyevka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101333,
+        "name": "Shkotovo",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101334,
+        "name": "Shkotovskiy Rayon",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101341,
+        "name": "Shtykovo",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101384,
+        "name": "Sivakovka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101404,
+        "name": "Slavyanka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101420,
+        "name": "Smolyaninovo",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101528,
+        "name": "Spassk-Dal’niy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101532,
+        "name": "Spasskiy Rayon",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101534,
+        "name": "Spasskoye",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101700,
+        "name": "Svetlaya",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101800,
+        "name": "Tavrichanka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101833,
+        "name": "Terney",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 101933,
+        "name": "Trudovoye",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102030,
+        "name": "Uglekamensk",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102037,
+        "name": "Uglovoye",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102105,
+        "name": "Ussuriysk",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102327,
+        "name": "Vladimiro-Aleksandrovskoye",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102330,
+        "name": "Vladivostok",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102372,
+        "name": "Vol’no-Nadezhdinskoye",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102338,
+        "name": "Volchanets",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102400,
+        "name": "Vostok",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102406,
+        "name": "Vozdvizhenka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102412,
+        "name": "Vrangel’",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102466,
+        "name": "Yakovlevka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102470,
+        "name": "Yakovlevskiy Rayon",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102502,
+        "name": "Yaroslavskiy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102530,
+        "name": "Yekaterinovka",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102661,
+        "name": "Zarubino",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102677,
+        "name": "Zavodskoy",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 102712,
+        "name": "Zharikovo",
+        "country": "RUS",
+        "state": "PRI"
+    }
+]

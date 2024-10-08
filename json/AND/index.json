@@ -1,1 +1,44 @@
-[{"id":0,"name":"Andorra la Vella","iso3":"07","country":"AND"},{"id":1,"name":"Canillo","iso3":"02","country":"AND"},{"id":2,"name":"Encamp","iso3":"03","country":"AND"},{"id":3,"name":"Escaldes-Engordany","iso3":"08","country":"AND"},{"id":4,"name":"La Massana","iso3":"04","country":"AND"},{"id":5,"name":"Ordino","iso3":"05","country":"AND"},{"id":6,"name":"Sant Juli\u00e0 de L\u00f2ria","iso3":"06","country":"AND"}]
+[
+    {
+        "id": 488,
+        "name": "Andorra la Vella",
+        "country": "AND",
+        "state_code": "07"
+    },
+    {
+        "id": 489,
+        "name": "Canillo",
+        "country": "AND",
+        "state_code": "02"
+    },
+    {
+        "id": 487,
+        "name": "Encamp",
+        "country": "AND",
+        "state_code": "03"
+    },
+    {
+        "id": 492,
+        "name": "Escaldes-Engordany",
+        "country": "AND",
+        "state_code": "08"
+    },
+    {
+        "id": 493,
+        "name": "La Massana",
+        "country": "AND",
+        "state_code": "04"
+    },
+    {
+        "id": 491,
+        "name": "Ordino",
+        "country": "AND",
+        "state_code": "05"
+    },
+    {
+        "id": 490,
+        "name": "Sant Julià de Lòria",
+        "country": "AND",
+        "state_code": "06"
+    }
+]

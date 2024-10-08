@@ -1,1 +1,152 @@
-[{"id":0,"name":"Amazonas","iso3":"Z","country":"VEN"},{"id":1,"name":"Anzo\u00e1tegui","iso3":"B","country":"VEN"},{"id":2,"name":"Apure","iso3":"C","country":"VEN"},{"id":3,"name":"Aragua","iso3":"D","country":"VEN"},{"id":4,"name":"Barinas","iso3":"E","country":"VEN"},{"id":5,"name":"Bol\u00edvar","iso3":"F","country":"VEN"},{"id":6,"name":"Carabobo","iso3":"G","country":"VEN"},{"id":7,"name":"Cojedes","iso3":"H","country":"VEN"},{"id":8,"name":"Delta Amacuro","iso3":"Y","country":"VEN"},{"id":9,"name":"Distrito Capital","iso3":"A","country":"VEN"},{"id":10,"name":"Falc\u00f3n","iso3":"I","country":"VEN"},{"id":11,"name":"Federal Dependencies of Venezuela","iso3":"W","country":"VEN"},{"id":12,"name":"Gu\u00e1rico","iso3":"J","country":"VEN"},{"id":13,"name":"La Guaira","iso3":"X","country":"VEN"},{"id":14,"name":"Lara","iso3":"K","country":"VEN"},{"id":15,"name":"M\u00e9rida","iso3":"L","country":"VEN"},{"id":16,"name":"Miranda","iso3":"M","country":"VEN"},{"id":17,"name":"Monagas","iso3":"N","country":"VEN"},{"id":18,"name":"Nueva Esparta","iso3":"O","country":"VEN"},{"id":19,"name":"Portuguesa","iso3":"P","country":"VEN"},{"id":20,"name":"Sucre","iso3":"R","country":"VEN"},{"id":21,"name":"T\u00e1chira","iso3":"S","country":"VEN"},{"id":22,"name":"Trujillo","iso3":"T","country":"VEN"},{"id":23,"name":"Yaracuy","iso3":"U","country":"VEN"},{"id":24,"name":"Zulia","iso3":"V","country":"VEN"}]
+[
+    {
+        "id": 2044,
+        "name": "Amazonas",
+        "country": "VEN",
+        "state_code": "Z"
+    },
+    {
+        "id": 2050,
+        "name": "Anzoátegui",
+        "country": "VEN",
+        "state_code": "B"
+    },
+    {
+        "id": 4856,
+        "name": "Apure",
+        "country": "VEN",
+        "state_code": "C"
+    },
+    {
+        "id": 2047,
+        "name": "Aragua",
+        "country": "VEN",
+        "state_code": "D"
+    },
+    {
+        "id": 2049,
+        "name": "Barinas",
+        "country": "VEN",
+        "state_code": "E"
+    },
+    {
+        "id": 2039,
+        "name": "Bolívar",
+        "country": "VEN",
+        "state_code": "F"
+    },
+    {
+        "id": 2040,
+        "name": "Carabobo",
+        "country": "VEN",
+        "state_code": "G"
+    },
+    {
+        "id": 2034,
+        "name": "Cojedes",
+        "country": "VEN",
+        "state_code": "H"
+    },
+    {
+        "id": 2051,
+        "name": "Delta Amacuro",
+        "country": "VEN",
+        "state_code": "Y"
+    },
+    {
+        "id": 4855,
+        "name": "Distrito Capital",
+        "country": "VEN",
+        "state_code": "A"
+    },
+    {
+        "id": 2035,
+        "name": "Falcón",
+        "country": "VEN",
+        "state_code": "I"
+    },
+    {
+        "id": 2046,
+        "name": "Federal Dependencies of Venezuela",
+        "country": "VEN",
+        "state_code": "W"
+    },
+    {
+        "id": 2045,
+        "name": "Guárico",
+        "country": "VEN",
+        "state_code": "J"
+    },
+    {
+        "id": 2055,
+        "name": "La Guaira",
+        "country": "VEN",
+        "state_code": "X"
+    },
+    {
+        "id": 2038,
+        "name": "Lara",
+        "country": "VEN",
+        "state_code": "K"
+    },
+    {
+        "id": 2053,
+        "name": "Mérida",
+        "country": "VEN",
+        "state_code": "L"
+    },
+    {
+        "id": 2037,
+        "name": "Miranda",
+        "country": "VEN",
+        "state_code": "M"
+    },
+    {
+        "id": 2054,
+        "name": "Monagas",
+        "country": "VEN",
+        "state_code": "N"
+    },
+    {
+        "id": 2052,
+        "name": "Nueva Esparta",
+        "country": "VEN",
+        "state_code": "O"
+    },
+    {
+        "id": 2036,
+        "name": "Portuguesa",
+        "country": "VEN",
+        "state_code": "P"
+    },
+    {
+        "id": 2056,
+        "name": "Sucre",
+        "country": "VEN",
+        "state_code": "R"
+    },
+    {
+        "id": 2048,
+        "name": "Táchira",
+        "country": "VEN",
+        "state_code": "S"
+    },
+    {
+        "id": 2043,
+        "name": "Trujillo",
+        "country": "VEN",
+        "state_code": "T"
+    },
+    {
+        "id": 2041,
+        "name": "Yaracuy",
+        "country": "VEN",
+        "state_code": "U"
+    },
+    {
+        "id": 2042,
+        "name": "Zulia",
+        "country": "VEN",
+        "state_code": "V"
+    }
+]

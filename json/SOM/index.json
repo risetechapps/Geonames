@@ -1,1 +1,98 @@
-[{"id":0,"name":"Awdal Region","iso3":"AW","country":"SOM"},{"id":1,"name":"Bakool","iso3":"BK","country":"SOM"},{"id":2,"name":"Banaadir","iso3":"BN","country":"SOM"},{"id":3,"name":"Bari","iso3":"BR","country":"SOM"},{"id":4,"name":"Bay","iso3":"BY","country":"SOM"},{"id":5,"name":"Galguduud","iso3":"GA","country":"SOM"},{"id":6,"name":"Gedo","iso3":"GE","country":"SOM"},{"id":7,"name":"Hiran","iso3":"HI","country":"SOM"},{"id":8,"name":"Lower Juba","iso3":"JH","country":"SOM"},{"id":9,"name":"Lower Shebelle","iso3":"SH","country":"SOM"},{"id":10,"name":"Middle Juba","iso3":"JD","country":"SOM"},{"id":11,"name":"Middle Shebelle","iso3":"SD","country":"SOM"},{"id":12,"name":"Mudug","iso3":"MU","country":"SOM"},{"id":13,"name":"Nugal","iso3":"NU","country":"SOM"},{"id":14,"name":"Sanaag Region","iso3":"SA","country":"SOM"},{"id":15,"name":"Togdheer Region","iso3":"TO","country":"SOM"}]
+[
+    {
+        "id": 925,
+        "name": "Awdal Region",
+        "country": "SOM",
+        "state_code": "AW"
+    },
+    {
+        "id": 917,
+        "name": "Bakool",
+        "country": "SOM",
+        "state_code": "BK"
+    },
+    {
+        "id": 927,
+        "name": "Banaadir",
+        "country": "SOM",
+        "state_code": "BN"
+    },
+    {
+        "id": 930,
+        "name": "Bari",
+        "country": "SOM",
+        "state_code": "BR"
+    },
+    {
+        "id": 926,
+        "name": "Bay",
+        "country": "SOM",
+        "state_code": "BY"
+    },
+    {
+        "id": 918,
+        "name": "Galguduud",
+        "country": "SOM",
+        "state_code": "GA"
+    },
+    {
+        "id": 928,
+        "name": "Gedo",
+        "country": "SOM",
+        "state_code": "GE"
+    },
+    {
+        "id": 915,
+        "name": "Hiran",
+        "country": "SOM",
+        "state_code": "HI"
+    },
+    {
+        "id": 924,
+        "name": "Lower Juba",
+        "country": "SOM",
+        "state_code": "JH"
+    },
+    {
+        "id": 921,
+        "name": "Lower Shebelle",
+        "country": "SOM",
+        "state_code": "SH"
+    },
+    {
+        "id": 922,
+        "name": "Middle Juba",
+        "country": "SOM",
+        "state_code": "JD"
+    },
+    {
+        "id": 923,
+        "name": "Middle Shebelle",
+        "country": "SOM",
+        "state_code": "SD"
+    },
+    {
+        "id": 916,
+        "name": "Mudug",
+        "country": "SOM",
+        "state_code": "MU"
+    },
+    {
+        "id": 920,
+        "name": "Nugal",
+        "country": "SOM",
+        "state_code": "NU"
+    },
+    {
+        "id": 919,
+        "name": "Sanaag Region",
+        "country": "SOM",
+        "state_code": "SA"
+    },
+    {
+        "id": 929,
+        "name": "Togdheer Region",
+        "country": "SOM",
+        "state_code": "TO"
+    }
+]

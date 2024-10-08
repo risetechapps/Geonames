@@ -1,1 +1,98 @@
-[{"id":0,"name":"Bethlehem","iso3":"BTH","country":"PSE"},{"id":1,"name":"Deir El Balah","iso3":"DEB","country":"PSE"},{"id":2,"name":"Gaza","iso3":"GZA","country":"PSE"},{"id":3,"name":"Hebron","iso3":"HBN","country":"PSE"},{"id":4,"name":"Jenin","iso3":"JEN","country":"PSE"},{"id":5,"name":"Jericho and Al Aghwar","iso3":"JRH","country":"PSE"},{"id":6,"name":"Jerusalem","iso3":"JEM","country":"PSE"},{"id":7,"name":"Khan Yunis","iso3":"KYS","country":"PSE"},{"id":8,"name":"Nablus","iso3":"NBS","country":"PSE"},{"id":9,"name":"North Gaza","iso3":"NGZ","country":"PSE"},{"id":10,"name":"Qalqilya","iso3":"QQA","country":"PSE"},{"id":11,"name":"Rafah","iso3":"RFH","country":"PSE"},{"id":12,"name":"Ramallah","iso3":"RBH","country":"PSE"},{"id":13,"name":"Salfit","iso3":"SLT","country":"PSE"},{"id":14,"name":"Tubas","iso3":"TBS","country":"PSE"},{"id":15,"name":"Tulkarm","iso3":"TKM","country":"PSE"}]
+[
+    {
+        "id": 5118,
+        "name": "Bethlehem",
+        "country": "PSE",
+        "state_code": "BTH"
+    },
+    {
+        "id": 5119,
+        "name": "Deir El Balah",
+        "country": "PSE",
+        "state_code": "DEB"
+    },
+    {
+        "id": 5120,
+        "name": "Gaza",
+        "country": "PSE",
+        "state_code": "GZA"
+    },
+    {
+        "id": 5121,
+        "name": "Hebron",
+        "country": "PSE",
+        "state_code": "HBN"
+    },
+    {
+        "id": 5122,
+        "name": "Jenin",
+        "country": "PSE",
+        "state_code": "JEN"
+    },
+    {
+        "id": 5123,
+        "name": "Jericho and Al Aghwar",
+        "country": "PSE",
+        "state_code": "JRH"
+    },
+    {
+        "id": 5124,
+        "name": "Jerusalem",
+        "country": "PSE",
+        "state_code": "JEM"
+    },
+    {
+        "id": 5125,
+        "name": "Khan Yunis",
+        "country": "PSE",
+        "state_code": "KYS"
+    },
+    {
+        "id": 5126,
+        "name": "Nablus",
+        "country": "PSE",
+        "state_code": "NBS"
+    },
+    {
+        "id": 5127,
+        "name": "North Gaza",
+        "country": "PSE",
+        "state_code": "NGZ"
+    },
+    {
+        "id": 5128,
+        "name": "Qalqilya",
+        "country": "PSE",
+        "state_code": "QQA"
+    },
+    {
+        "id": 5129,
+        "name": "Rafah",
+        "country": "PSE",
+        "state_code": "RFH"
+    },
+    {
+        "id": 5130,
+        "name": "Ramallah",
+        "country": "PSE",
+        "state_code": "RBH"
+    },
+    {
+        "id": 5131,
+        "name": "Salfit",
+        "country": "PSE",
+        "state_code": "SLT"
+    },
+    {
+        "id": 5132,
+        "name": "Tubas",
+        "country": "PSE",
+        "state_code": "TBS"
+    },
+    {
+        "id": 5133,
+        "name": "Tulkarm",
+        "country": "PSE",
+        "state_code": "TKM"
+    }
+]

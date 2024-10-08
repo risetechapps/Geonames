@@ -1,1 +1,218 @@
-[{"id":0,"name":"Andaman and Nicobar Islands","iso3":"AN","country":"IND"},{"id":1,"name":"Andhra Pradesh","iso3":"AP","country":"IND"},{"id":2,"name":"Arunachal Pradesh","iso3":"AR","country":"IND"},{"id":3,"name":"Assam","iso3":"AS","country":"IND"},{"id":4,"name":"Bihar","iso3":"BR","country":"IND"},{"id":5,"name":"Chandigarh","iso3":"CH","country":"IND"},{"id":6,"name":"Chhattisgarh","iso3":"CT","country":"IND"},{"id":7,"name":"Dadra and Nagar Haveli and Daman and Diu","iso3":"DH","country":"IND"},{"id":8,"name":"Delhi","iso3":"DL","country":"IND"},{"id":9,"name":"Goa","iso3":"GA","country":"IND"},{"id":10,"name":"Gujarat","iso3":"GJ","country":"IND"},{"id":11,"name":"Haryana","iso3":"HR","country":"IND"},{"id":12,"name":"Himachal Pradesh","iso3":"HP","country":"IND"},{"id":13,"name":"Jammu and Kashmir","iso3":"JK","country":"IND"},{"id":14,"name":"Jharkhand","iso3":"JH","country":"IND"},{"id":15,"name":"Karnataka","iso3":"KA","country":"IND"},{"id":16,"name":"Kerala","iso3":"KL","country":"IND"},{"id":17,"name":"Ladakh","iso3":"LA","country":"IND"},{"id":18,"name":"Lakshadweep","iso3":"LD","country":"IND"},{"id":19,"name":"Madhya Pradesh","iso3":"MP","country":"IND"},{"id":20,"name":"Maharashtra","iso3":"MH","country":"IND"},{"id":21,"name":"Manipur","iso3":"MN","country":"IND"},{"id":22,"name":"Meghalaya","iso3":"ML","country":"IND"},{"id":23,"name":"Mizoram","iso3":"MZ","country":"IND"},{"id":24,"name":"Nagaland","iso3":"NL","country":"IND"},{"id":25,"name":"Odisha","iso3":"OR","country":"IND"},{"id":26,"name":"Puducherry","iso3":"PY","country":"IND"},{"id":27,"name":"Punjab","iso3":"PB","country":"IND"},{"id":28,"name":"Rajasthan","iso3":"RJ","country":"IND"},{"id":29,"name":"Sikkim","iso3":"SK","country":"IND"},{"id":30,"name":"Tamil Nadu","iso3":"TN","country":"IND"},{"id":31,"name":"Telangana","iso3":"TG","country":"IND"},{"id":32,"name":"Tripura","iso3":"TR","country":"IND"},{"id":33,"name":"Uttar Pradesh","iso3":"UP","country":"IND"},{"id":34,"name":"Uttarakhand","iso3":"UK","country":"IND"},{"id":35,"name":"West Bengal","iso3":"WB","country":"IND"}]
+[
+    {
+        "id": 4023,
+        "name": "Andaman and Nicobar Islands",
+        "country": "IND",
+        "state_code": "AN"
+    },
+    {
+        "id": 4017,
+        "name": "Andhra Pradesh",
+        "country": "IND",
+        "state_code": "AP"
+    },
+    {
+        "id": 4024,
+        "name": "Arunachal Pradesh",
+        "country": "IND",
+        "state_code": "AR"
+    },
+    {
+        "id": 4027,
+        "name": "Assam",
+        "country": "IND",
+        "state_code": "AS"
+    },
+    {
+        "id": 4037,
+        "name": "Bihar",
+        "country": "IND",
+        "state_code": "BR"
+    },
+    {
+        "id": 4031,
+        "name": "Chandigarh",
+        "country": "IND",
+        "state_code": "CH"
+    },
+    {
+        "id": 4040,
+        "name": "Chhattisgarh",
+        "country": "IND",
+        "state_code": "CT"
+    },
+    {
+        "id": 4033,
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "country": "IND",
+        "state_code": "DH"
+    },
+    {
+        "id": 4021,
+        "name": "Delhi",
+        "country": "IND",
+        "state_code": "DL"
+    },
+    {
+        "id": 4009,
+        "name": "Goa",
+        "country": "IND",
+        "state_code": "GA"
+    },
+    {
+        "id": 4030,
+        "name": "Gujarat",
+        "country": "IND",
+        "state_code": "GJ"
+    },
+    {
+        "id": 4007,
+        "name": "Haryana",
+        "country": "IND",
+        "state_code": "HR"
+    },
+    {
+        "id": 4020,
+        "name": "Himachal Pradesh",
+        "country": "IND",
+        "state_code": "HP"
+    },
+    {
+        "id": 4029,
+        "name": "Jammu and Kashmir",
+        "country": "IND",
+        "state_code": "JK"
+    },
+    {
+        "id": 4025,
+        "name": "Jharkhand",
+        "country": "IND",
+        "state_code": "JH"
+    },
+    {
+        "id": 4026,
+        "name": "Karnataka",
+        "country": "IND",
+        "state_code": "KA"
+    },
+    {
+        "id": 4028,
+        "name": "Kerala",
+        "country": "IND",
+        "state_code": "KL"
+    },
+    {
+        "id": 4852,
+        "name": "Ladakh",
+        "country": "IND",
+        "state_code": "LA"
+    },
+    {
+        "id": 4019,
+        "name": "Lakshadweep",
+        "country": "IND",
+        "state_code": "LD"
+    },
+    {
+        "id": 4039,
+        "name": "Madhya Pradesh",
+        "country": "IND",
+        "state_code": "MP"
+    },
+    {
+        "id": 4008,
+        "name": "Maharashtra",
+        "country": "IND",
+        "state_code": "MH"
+    },
+    {
+        "id": 4010,
+        "name": "Manipur",
+        "country": "IND",
+        "state_code": "MN"
+    },
+    {
+        "id": 4006,
+        "name": "Meghalaya",
+        "country": "IND",
+        "state_code": "ML"
+    },
+    {
+        "id": 4036,
+        "name": "Mizoram",
+        "country": "IND",
+        "state_code": "MZ"
+    },
+    {
+        "id": 4018,
+        "name": "Nagaland",
+        "country": "IND",
+        "state_code": "NL"
+    },
+    {
+        "id": 4013,
+        "name": "Odisha",
+        "country": "IND",
+        "state_code": "OR"
+    },
+    {
+        "id": 4011,
+        "name": "Puducherry",
+        "country": "IND",
+        "state_code": "PY"
+    },
+    {
+        "id": 4015,
+        "name": "Punjab",
+        "country": "IND",
+        "state_code": "PB"
+    },
+    {
+        "id": 4014,
+        "name": "Rajasthan",
+        "country": "IND",
+        "state_code": "RJ"
+    },
+    {
+        "id": 4034,
+        "name": "Sikkim",
+        "country": "IND",
+        "state_code": "SK"
+    },
+    {
+        "id": 4035,
+        "name": "Tamil Nadu",
+        "country": "IND",
+        "state_code": "TN"
+    },
+    {
+        "id": 4012,
+        "name": "Telangana",
+        "country": "IND",
+        "state_code": "TG"
+    },
+    {
+        "id": 4038,
+        "name": "Tripura",
+        "country": "IND",
+        "state_code": "TR"
+    },
+    {
+        "id": 4022,
+        "name": "Uttar Pradesh",
+        "country": "IND",
+        "state_code": "UP"
+    },
+    {
+        "id": 4016,
+        "name": "Uttarakhand",
+        "country": "IND",
+        "state_code": "UK"
+    },
+    {
+        "id": 4853,
+        "name": "West Bengal",
+        "country": "IND",
+        "state_code": "WB"
+    }
+]

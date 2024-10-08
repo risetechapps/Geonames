@@ -1,1 +1,164 @@
-[{"id":0,"name":"Akita","country":"JPN","state":"05"},{"id":1,"name":"Akita Shi","country":"JPN","state":"05"},{"id":2,"name":"Daisen","country":"JPN","state":"05"},{"id":3,"name":"Daisen-shi","country":"JPN","state":"05"},{"id":4,"name":"Hanawa","country":"JPN","state":"05"},{"id":5,"name":"Kakunodatemachi","country":"JPN","state":"05"},{"id":6,"name":"Katagami","country":"JPN","state":"05"},{"id":7,"name":"Katagami-shi","country":"JPN","state":"05"},{"id":8,"name":"Kazuno Shi","country":"JPN","state":"05"},{"id":9,"name":"Kitaakita-shi","country":"JPN","state":"05"},{"id":10,"name":"Nikaho-shi","country":"JPN","state":"05"},{"id":11,"name":"Noshiro","country":"JPN","state":"05"},{"id":12,"name":"Noshiro Shi","country":"JPN","state":"05"},{"id":13,"name":"\u014cdate","country":"JPN","state":"05"},{"id":14,"name":"\u014cdate-shi","country":"JPN","state":"05"},{"id":15,"name":"Oga","country":"JPN","state":"05"},{"id":16,"name":"Oga-shi","country":"JPN","state":"05"},{"id":17,"name":"\u014cmagari","country":"JPN","state":"05"},{"id":18,"name":"Semboku-shi","country":"JPN","state":"05"},{"id":19,"name":"Takanosu","country":"JPN","state":"05"},{"id":20,"name":"Tenn\u014d","country":"JPN","state":"05"},{"id":21,"name":"Yokote","country":"JPN","state":"05"},{"id":22,"name":"Yokote-shi","country":"JPN","state":"05"},{"id":23,"name":"Yurihonj\u014d","country":"JPN","state":"05"},{"id":24,"name":"Yurihonj\u014d-shi","country":"JPN","state":"05"},{"id":25,"name":"Yuzawa","country":"JPN","state":"05"},{"id":26,"name":"Yuzawa-shi","country":"JPN","state":"05"}]
+[
+    {
+        "id": 63233,
+        "name": "Akita",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 63234,
+        "name": "Akita Shi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 63318,
+        "name": "Daisen",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 63319,
+        "name": "Daisen-shi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 63432,
+        "name": "Hanawa",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 63675,
+        "name": "Kakunodatemachi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 63751,
+        "name": "Katagami",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 63752,
+        "name": "Katagami-shi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 63780,
+        "name": "Kazuno Shi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 63798,
+        "name": "Kitaakita-shi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64137,
+        "name": "Nikaho-shi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64168,
+        "name": "Noshiro",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64169,
+        "name": "Noshiro Shi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64719,
+        "name": "Ōdate",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64720,
+        "name": "Ōdate-shi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64185,
+        "name": "Oga",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64186,
+        "name": "Oga-shi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64736,
+        "name": "Ōmagari",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64299,
+        "name": "Semboku-shi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64430,
+        "name": "Takanosu",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64482,
+        "name": "Tennō",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64674,
+        "name": "Yokote",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64675,
+        "name": "Yokote-shi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64698,
+        "name": "Yurihonjō",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64699,
+        "name": "Yurihonjō-shi",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64701,
+        "name": "Yuzawa",
+        "country": "JPN",
+        "state": "05"
+    },
+    {
+        "id": 64702,
+        "name": "Yuzawa-shi",
+        "country": "JPN",
+        "state": "05"
+    }
+]

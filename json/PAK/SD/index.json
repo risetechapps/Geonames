@@ -1,1 +1,716 @@
-[{"id":0,"name":"Adilpur","country":"PAK","state":"SD"},{"id":1,"name":"Badin","country":"PAK","state":"SD"},{"id":2,"name":"Bagarji","country":"PAK","state":"SD"},{"id":3,"name":"Bandhi","country":"PAK","state":"SD"},{"id":4,"name":"Berani","country":"PAK","state":"SD"},{"id":5,"name":"Bhan","country":"PAK","state":"SD"},{"id":6,"name":"Bhiria","country":"PAK","state":"SD"},{"id":7,"name":"Bhit Shah","country":"PAK","state":"SD"},{"id":8,"name":"Bozdar Wada","country":"PAK","state":"SD"},{"id":9,"name":"Bulri","country":"PAK","state":"SD"},{"id":10,"name":"Chak","country":"PAK","state":"SD"},{"id":11,"name":"Chamber","country":"PAK","state":"SD"},{"id":12,"name":"Chhor","country":"PAK","state":"SD"},{"id":13,"name":"Chuhar Jamali","country":"PAK","state":"SD"},{"id":14,"name":"Dadu","country":"PAK","state":"SD"},{"id":15,"name":"Daromehar","country":"PAK","state":"SD"},{"id":16,"name":"Darya Khan Marri","country":"PAK","state":"SD"},{"id":17,"name":"Daulatpur","country":"PAK","state":"SD"},{"id":18,"name":"Daur","country":"PAK","state":"SD"},{"id":19,"name":"Dhoro Naro","country":"PAK","state":"SD"},{"id":20,"name":"Digri","country":"PAK","state":"SD"},{"id":21,"name":"Diplo","country":"PAK","state":"SD"},{"id":22,"name":"Dokri","country":"PAK","state":"SD"},{"id":23,"name":"Gambat","country":"PAK","state":"SD"},{"id":24,"name":"Garhiyasin","country":"PAK","state":"SD"},{"id":25,"name":"Gharo","country":"PAK","state":"SD"},{"id":26,"name":"Ghauspur","country":"PAK","state":"SD"},{"id":27,"name":"Ghotki","country":"PAK","state":"SD"},{"id":28,"name":"Goth Garelo","country":"PAK","state":"SD"},{"id":29,"name":"Goth Phulji","country":"PAK","state":"SD"},{"id":30,"name":"Goth Radhan","country":"PAK","state":"SD"},{"id":31,"name":"Hala","country":"PAK","state":"SD"},{"id":32,"name":"Hingorja","country":"PAK","state":"SD"},{"id":33,"name":"Hyderabad","country":"PAK","state":"SD"},{"id":34,"name":"Islamkot","country":"PAK","state":"SD"},{"id":35,"name":"Jacobabad","country":"PAK","state":"SD"},{"id":36,"name":"J\u0101m S\u0101hib","country":"PAK","state":"SD"},{"id":37,"name":"Jamshoro","country":"PAK","state":"SD"},{"id":38,"name":"Jati","country":"PAK","state":"SD"},{"id":39,"name":"Jhol","country":"PAK","state":"SD"},{"id":40,"name":"Johi","country":"PAK","state":"SD"},{"id":41,"name":"Kadhan","country":"PAK","state":"SD"},{"id":42,"name":"Kambar","country":"PAK","state":"SD"},{"id":43,"name":"Kandhkot","country":"PAK","state":"SD"},{"id":44,"name":"Kandiari","country":"PAK","state":"SD"},{"id":45,"name":"Kandiaro","country":"PAK","state":"SD"},{"id":46,"name":"Karachi","country":"PAK","state":"SD"},{"id":47,"name":"Karaundi","country":"PAK","state":"SD"},{"id":48,"name":"Kario Ghanwar","country":"PAK","state":"SD"},{"id":49,"name":"Kashmor","country":"PAK","state":"SD"},{"id":50,"name":"Keti Bandar","country":"PAK","state":"SD"},{"id":51,"name":"Khadro","country":"PAK","state":"SD"},{"id":52,"name":"Khairpur","country":"PAK","state":"SD"},{"id":53,"name":"Khairpur Mir\u2019s","country":"PAK","state":"SD"},{"id":54,"name":"Khairpur Nathan Shah","country":"PAK","state":"SD"},{"id":55,"name":"Khanpur Mahar","country":"PAK","state":"SD"},{"id":56,"name":"Kot Diji","country":"PAK","state":"SD"},{"id":57,"name":"Kotri","country":"PAK","state":"SD"},{"id":58,"name":"Kunri","country":"PAK","state":"SD"},{"id":59,"name":"Lakhi","country":"PAK","state":"SD"},{"id":60,"name":"Larkana","country":"PAK","state":"SD"},{"id":61,"name":"Madeji","country":"PAK","state":"SD"},{"id":62,"name":"Malir Cantonment","country":"PAK","state":"SD"},{"id":63,"name":"Matiari","country":"PAK","state":"SD"},{"id":64,"name":"Matli","country":"PAK","state":"SD"},{"id":65,"name":"Mehar","country":"PAK","state":"SD"},{"id":66,"name":"Miro Khan","country":"PAK","state":"SD"},{"id":67,"name":"Mirpur Bhtoro","country":"PAK","state":"SD"},{"id":68,"name":"Mirpur Khas","country":"PAK","state":"SD"},{"id":69,"name":"Mirpur Mathelo","country":"PAK","state":"SD"},{"id":70,"name":"Mirpur Sakro","country":"PAK","state":"SD"},{"id":71,"name":"Mirwah Gorchani","country":"PAK","state":"SD"},{"id":72,"name":"Mithi","country":"PAK","state":"SD"},{"id":73,"name":"Moro","country":"PAK","state":"SD"},{"id":74,"name":"Nabisar","country":"PAK","state":"SD"},{"id":75,"name":"Nasirabad","country":"PAK","state":"SD"},{"id":76,"name":"Naudero","country":"PAK","state":"SD"},{"id":77,"name":"Naukot","country":"PAK","state":"SD"},{"id":78,"name":"Naushahro Firoz","country":"PAK","state":"SD"},{"id":79,"name":"Nawabshah","country":"PAK","state":"SD"},{"id":80,"name":"New B\u0101d\u0101h","country":"PAK","state":"SD"},{"id":81,"name":"Pad Idan","country":"PAK","state":"SD"},{"id":82,"name":"Pano Aqil","country":"PAK","state":"SD"},{"id":83,"name":"Pir Jo Goth","country":"PAK","state":"SD"},{"id":84,"name":"Pithoro","country":"PAK","state":"SD"},{"id":85,"name":"Rajo Khanani","country":"PAK","state":"SD"},{"id":86,"name":"Ranipur","country":"PAK","state":"SD"},{"id":87,"name":"Ratodero","country":"PAK","state":"SD"},{"id":88,"name":"Rohri","country":"PAK","state":"SD"},{"id":89,"name":"Rustam","country":"PAK","state":"SD"},{"id":90,"name":"Sakrand","country":"PAK","state":"SD"},{"id":91,"name":"Samaro","country":"PAK","state":"SD"},{"id":92,"name":"Sanghar","country":"PAK","state":"SD"},{"id":93,"name":"Sann","country":"PAK","state":"SD"},{"id":94,"name":"Sehwan","country":"PAK","state":"SD"},{"id":95,"name":"Setharja Old","country":"PAK","state":"SD"},{"id":96,"name":"Shahdad Kot","country":"PAK","state":"SD"},{"id":97,"name":"Shahdadpur","country":"PAK","state":"SD"},{"id":98,"name":"Shahpur Chakar","country":"PAK","state":"SD"},{"id":99,"name":"Shikarpur","country":"PAK","state":"SD"},{"id":100,"name":"Sinjhoro","country":"PAK","state":"SD"},{"id":101,"name":"S\u012bta Road","country":"PAK","state":"SD"},{"id":102,"name":"Sobhodero","country":"PAK","state":"SD"},{"id":103,"name":"Sukkur","country":"PAK","state":"SD"},{"id":104,"name":"Talhar","country":"PAK","state":"SD"},{"id":105,"name":"Tando Adam","country":"PAK","state":"SD"},{"id":106,"name":"Tando Allahyar","country":"PAK","state":"SD"},{"id":107,"name":"Tando Bago","country":"PAK","state":"SD"},{"id":108,"name":"Tando Jam","country":"PAK","state":"SD"},{"id":109,"name":"Tando Mitha Khan","country":"PAK","state":"SD"},{"id":110,"name":"Tando Muhammad Khan","country":"PAK","state":"SD"},{"id":111,"name":"Tangwani","country":"PAK","state":"SD"},{"id":112,"name":"Tharu Shah","country":"PAK","state":"SD"},{"id":113,"name":"Thatta","country":"PAK","state":"SD"},{"id":114,"name":"Thul","country":"PAK","state":"SD"},{"id":115,"name":"Ubauro","country":"PAK","state":"SD"},{"id":116,"name":"Umarkot","country":"PAK","state":"SD"},{"id":117,"name":"Umerkot District","country":"PAK","state":"SD"},{"id":118,"name":"Warah","country":"PAK","state":"SD"}]
+[
+    {
+        "id": 85330,
+        "name": "Adilpur",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85344,
+        "name": "Badin",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85346,
+        "name": "Bagarji",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85350,
+        "name": "Bandhi",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85361,
+        "name": "Berani",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85365,
+        "name": "Bhan",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85369,
+        "name": "Bhiria",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85370,
+        "name": "Bhit Shah",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85372,
+        "name": "Bozdar Wada",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85373,
+        "name": "Bulri",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85377,
+        "name": "Chak",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85386,
+        "name": "Chamber",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85391,
+        "name": "Chhor",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85399,
+        "name": "Chuhar Jamali",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85403,
+        "name": "Dadu",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85408,
+        "name": "Daromehar",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85410,
+        "name": "Darya Khan Marri",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85413,
+        "name": "Daulatpur",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85415,
+        "name": "Daur",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85423,
+        "name": "Dhoro Naro",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85424,
+        "name": "Digri",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85429,
+        "name": "Diplo",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85431,
+        "name": "Dokri",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85443,
+        "name": "Gambat",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85446,
+        "name": "Garhiyasin",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85447,
+        "name": "Gharo",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85448,
+        "name": "Ghauspur",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85449,
+        "name": "Ghotki",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85452,
+        "name": "Goth Garelo",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85453,
+        "name": "Goth Phulji",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85454,
+        "name": "Goth Radhan",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85462,
+        "name": "Hala",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85472,
+        "name": "Hingorja",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85474,
+        "name": "Hyderabad",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85476,
+        "name": "Islamkot",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85477,
+        "name": "Jacobabad",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85498,
+        "name": "Jām Sāhib",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85482,
+        "name": "Jamshoro",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85486,
+        "name": "Jati",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85494,
+        "name": "Jhol",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85496,
+        "name": "Johi",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85500,
+        "name": "Kadhan",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85514,
+        "name": "Kambar",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85517,
+        "name": "Kandhkot",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85518,
+        "name": "Kandiari",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85519,
+        "name": "Kandiaro",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85521,
+        "name": "Karachi",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85523,
+        "name": "Karaundi",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85524,
+        "name": "Kario Ghanwar",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85526,
+        "name": "Kashmor",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85529,
+        "name": "Keti Bandar",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85531,
+        "name": "Khadro",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85532,
+        "name": "Khairpur",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85533,
+        "name": "Khairpur Mir’s",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85534,
+        "name": "Khairpur Nathan Shah",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85542,
+        "name": "Khanpur Mahar",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85554,
+        "name": "Kot Diji",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85565,
+        "name": "Kotri",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85569,
+        "name": "Kunri",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85573,
+        "name": "Lakhi",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85578,
+        "name": "Larkana",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85587,
+        "name": "Madeji",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85591,
+        "name": "Malir Cantonment",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85601,
+        "name": "Matiari",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85602,
+        "name": "Matli",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85603,
+        "name": "Mehar",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85612,
+        "name": "Miro Khan",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85613,
+        "name": "Mirpur Bhtoro",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85615,
+        "name": "Mirpur Khas",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85616,
+        "name": "Mirpur Mathelo",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85617,
+        "name": "Mirpur Sakro",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85618,
+        "name": "Mirwah Gorchani",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85620,
+        "name": "Mithi",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85621,
+        "name": "Moro",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85630,
+        "name": "Nabisar",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85634,
+        "name": "Nasirabad",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85636,
+        "name": "Naudero",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85637,
+        "name": "Naukot",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85639,
+        "name": "Naushahro Firoz",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85640,
+        "name": "Nawabshah",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85642,
+        "name": "New Bādāh",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85653,
+        "name": "Pad Idan",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85657,
+        "name": "Pano Aqil",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85666,
+        "name": "Pir Jo Goth",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85669,
+        "name": "Pithoro",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85678,
+        "name": "Rajo Khanani",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85679,
+        "name": "Ranipur",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85681,
+        "name": "Ratodero",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85687,
+        "name": "Rohri",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85689,
+        "name": "Rustam",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85692,
+        "name": "Sakrand",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85693,
+        "name": "Samaro",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85695,
+        "name": "Sanghar",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85698,
+        "name": "Sann",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85703,
+        "name": "Sehwan",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85704,
+        "name": "Setharja Old",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85706,
+        "name": "Shahdad Kot",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85707,
+        "name": "Shahdadpur",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85710,
+        "name": "Shahpur Chakar",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85715,
+        "name": "Shikarpur",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85723,
+        "name": "Sinjhoro",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85734,
+        "name": "Sīta Road",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85725,
+        "name": "Sobhodero",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85730,
+        "name": "Sukkur",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85737,
+        "name": "Talhar",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85739,
+        "name": "Tando Adam",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85740,
+        "name": "Tando Allahyar",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85741,
+        "name": "Tando Bago",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85742,
+        "name": "Tando Jam",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85743,
+        "name": "Tando Mitha Khan",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85744,
+        "name": "Tando Muhammad Khan",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85746,
+        "name": "Tangwani",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85750,
+        "name": "Tharu Shah",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85751,
+        "name": "Thatta",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85752,
+        "name": "Thul",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85756,
+        "name": "Ubauro",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85757,
+        "name": "Umarkot",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85758,
+        "name": "Umerkot District",
+        "country": "PAK",
+        "state": "SD"
+    },
+    {
+        "id": 85765,
+        "name": "Warah",
+        "country": "PAK",
+        "state": "SD"
+    }
+]

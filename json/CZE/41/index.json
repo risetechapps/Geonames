@@ -1,1 +1,278 @@
-[{"id":0,"name":"Abertamy","country":"CZE","state":"41"},{"id":1,"name":"A\u0161","country":"CZE","state":"41"},{"id":2,"name":"Bochov","country":"CZE","state":"41"},{"id":3,"name":"B\u0159ezov\u00e1","country":"CZE","state":"41"},{"id":4,"name":"Bukovany","country":"CZE","state":"41"},{"id":5,"name":"Cheb","country":"CZE","state":"41"},{"id":6,"name":"Chodov","country":"CZE","state":"41"},{"id":7,"name":"Dalovice","country":"CZE","state":"41"},{"id":8,"name":"Doln\u00ed Rychnov","country":"CZE","state":"41"},{"id":9,"name":"Doln\u00ed \u017dandov","country":"CZE","state":"41"},{"id":10,"name":"Franti\u0161kovy L\u00e1zn\u011b","country":"CZE","state":"41"},{"id":11,"name":"Habartov","country":"CZE","state":"41"},{"id":12,"name":"Hazlov","country":"CZE","state":"41"},{"id":13,"name":"Horn\u00ed Slavkov","country":"CZE","state":"41"},{"id":14,"name":"Hranice","country":"CZE","state":"41"},{"id":15,"name":"Hrozn\u011bt\u00edn","country":"CZE","state":"41"},{"id":16,"name":"J\u00e1chymov","country":"CZE","state":"41"},{"id":17,"name":"Karlovy Vary","country":"CZE","state":"41"},{"id":18,"name":"Kl\u00e1\u0161ter","country":"CZE","state":"41"},{"id":19,"name":"Kraslice","country":"CZE","state":"41"},{"id":20,"name":"Kyn\u0161perk nad Oh\u0159\u00ed","country":"CZE","state":"41"},{"id":21,"name":"L\u00e1zn\u011b Kyn\u017evart","country":"CZE","state":"41"},{"id":22,"name":"Loket","country":"CZE","state":"41"},{"id":23,"name":"Lomnice","country":"CZE","state":"41"},{"id":24,"name":"Luby","country":"CZE","state":"41"},{"id":25,"name":"Mari\u00e1nsk\u00e9 L\u00e1zn\u011b","country":"CZE","state":"41"},{"id":26,"name":"Merkl\u00edn","country":"CZE","state":"41"},{"id":27,"name":"M\u011bsto","country":"CZE","state":"41"},{"id":28,"name":"Nejdek","country":"CZE","state":"41"},{"id":29,"name":"Nov\u00e1 Role","country":"CZE","state":"41"},{"id":30,"name":"Nov\u00e9 Sedlo","country":"CZE","state":"41"},{"id":31,"name":"Okres Cheb","country":"CZE","state":"41"},{"id":32,"name":"Okres Karlovy Vary","country":"CZE","state":"41"},{"id":33,"name":"Okres Sokolov","country":"CZE","state":"41"},{"id":34,"name":"Olov\u00ed","country":"CZE","state":"41"},{"id":35,"name":"Ostrov","country":"CZE","state":"41"},{"id":36,"name":"Plesn\u00e1","country":"CZE","state":"41"},{"id":37,"name":"Rotava","country":"CZE","state":"41"},{"id":38,"name":"Sadov","country":"CZE","state":"41"},{"id":39,"name":"Skaln\u00e1","country":"CZE","state":"41"},{"id":40,"name":"Sokolov","country":"CZE","state":"41"},{"id":41,"name":"Svatava","country":"CZE","state":"41"},{"id":42,"name":"Tou\u017eim","country":"CZE","state":"41"},{"id":43,"name":"Velk\u00e1 Hle\u010fsebe","country":"CZE","state":"41"},{"id":44,"name":"Vint\u00ed\u0159ov","country":"CZE","state":"41"},{"id":45,"name":"\u017dlutice","country":"CZE","state":"41"}]
+[
+    {
+        "id": 22106,
+        "name": "Abertamy",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22110,
+        "name": "Aš",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22137,
+        "name": "Bochov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22209,
+        "name": "Březová",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22178,
+        "name": "Bukovany",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22217,
+        "name": "Cheb",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22224,
+        "name": "Chodov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22248,
+        "name": "Dalovice",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22292,
+        "name": "Dolní Rychnov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22299,
+        "name": "Dolní Žandov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22326,
+        "name": "Františkovy Lázně",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22337,
+        "name": "Habartov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22346,
+        "name": "Hazlov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22388,
+        "name": "Horní Slavkov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22416,
+        "name": "Hranice",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22425,
+        "name": "Hroznětín",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22484,
+        "name": "Jáchymov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22498,
+        "name": "Karlovy Vary",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22518,
+        "name": "Klášter",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22556,
+        "name": "Kraslice",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22581,
+        "name": "Kynšperk nad Ohří",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22664,
+        "name": "Lázně Kynžvart",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22630,
+        "name": "Loket",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22633,
+        "name": "Lomnice",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22644,
+        "name": "Luby",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22676,
+        "name": "Mariánské Lázně",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22681,
+        "name": "Merklín",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22740,
+        "name": "Město",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22757,
+        "name": "Nejdek",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22775,
+        "name": "Nová Role",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22781,
+        "name": "Nové Sedlo",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22812,
+        "name": "Okres Cheb",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22826,
+        "name": "Okres Karlovy Vary",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22861,
+        "name": "Okres Sokolov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22887,
+        "name": "Oloví",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22907,
+        "name": "Ostrov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 22940,
+        "name": "Plesná",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 23036,
+        "name": "Rotava",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 23058,
+        "name": "Sadov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 23073,
+        "name": "Skalná",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 23094,
+        "name": "Sokolov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 23147,
+        "name": "Svatava",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 23170,
+        "name": "Toužim",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 23233,
+        "name": "Velká Hleďsebe",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 23274,
+        "name": "Vintířov",
+        "country": "CZE",
+        "state": "41"
+    },
+    {
+        "id": 23456,
+        "name": "Žlutice",
+        "country": "CZE",
+        "state": "41"
+    }
+]

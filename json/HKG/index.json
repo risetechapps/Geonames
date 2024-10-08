@@ -1,1 +1,110 @@
-[{"id":0,"name":"Central and Western","iso3":"HCW","country":"HKG"},{"id":1,"name":"Eastern","iso3":"HEA","country":"HKG"},{"id":2,"name":"Islands","iso3":"NIS","country":"HKG"},{"id":3,"name":"Kowloon City","iso3":"KKC","country":"HKG"},{"id":4,"name":"Kwai Tsing","iso3":"NKT","country":"HKG"},{"id":5,"name":"Kwun Tong","iso3":"KKT","country":"HKG"},{"id":6,"name":"North","iso3":"NNO","country":"HKG"},{"id":7,"name":"Sai Kung","iso3":"NSK","country":"HKG"},{"id":8,"name":"Sha Tin","iso3":"NST","country":"HKG"},{"id":9,"name":"Sham Shui Po","iso3":"KSS","country":"HKG"},{"id":10,"name":"Southern","iso3":"HSO","country":"HKG"},{"id":11,"name":"Tai Po","iso3":"NTP","country":"HKG"},{"id":12,"name":"Tsuen Wan","iso3":"NTW","country":"HKG"},{"id":13,"name":"Tuen Mun","iso3":"NTM","country":"HKG"},{"id":14,"name":"Wan Chai","iso3":"HWC","country":"HKG"},{"id":15,"name":"Wong Tai Sin","iso3":"KWT","country":"HKG"},{"id":16,"name":"Yau Tsim Mong","iso3":"KYT","country":"HKG"},{"id":17,"name":"Yuen Long","iso3":"NYL","country":"HKG"}]
+[
+    {
+        "id": 4889,
+        "name": "Central and Western",
+        "country": "HKG",
+        "state_code": "HCW"
+    },
+    {
+        "id": 4891,
+        "name": "Eastern",
+        "country": "HKG",
+        "state_code": "HEA"
+    },
+    {
+        "id": 4888,
+        "name": "Islands",
+        "country": "HKG",
+        "state_code": "NIS"
+    },
+    {
+        "id": 4895,
+        "name": "Kowloon City",
+        "country": "HKG",
+        "state_code": "KKC"
+    },
+    {
+        "id": 4898,
+        "name": "Kwai Tsing",
+        "country": "HKG",
+        "state_code": "NKT"
+    },
+    {
+        "id": 4897,
+        "name": "Kwun Tong",
+        "country": "HKG",
+        "state_code": "KKT"
+    },
+    {
+        "id": 4900,
+        "name": "North",
+        "country": "HKG",
+        "state_code": "NNO"
+    },
+    {
+        "id": 4887,
+        "name": "Sai Kung",
+        "country": "HKG",
+        "state_code": "NSK"
+    },
+    {
+        "id": 4901,
+        "name": "Sha Tin",
+        "country": "HKG",
+        "state_code": "NST"
+    },
+    {
+        "id": 4894,
+        "name": "Sham Shui Po",
+        "country": "HKG",
+        "state_code": "KSS"
+    },
+    {
+        "id": 4892,
+        "name": "Southern",
+        "country": "HKG",
+        "state_code": "HSO"
+    },
+    {
+        "id": 4885,
+        "name": "Tai Po",
+        "country": "HKG",
+        "state_code": "NTP"
+    },
+    {
+        "id": 4884,
+        "name": "Tsuen Wan",
+        "country": "HKG",
+        "state_code": "NTW"
+    },
+    {
+        "id": 4899,
+        "name": "Tuen Mun",
+        "country": "HKG",
+        "state_code": "NTM"
+    },
+    {
+        "id": 4890,
+        "name": "Wan Chai",
+        "country": "HKG",
+        "state_code": "HWC"
+    },
+    {
+        "id": 4896,
+        "name": "Wong Tai Sin",
+        "country": "HKG",
+        "state_code": "KWT"
+    },
+    {
+        "id": 4893,
+        "name": "Yau Tsim Mong",
+        "country": "HKG",
+        "state_code": "KYT"
+    },
+    {
+        "id": 4883,
+        "name": "Yuen Long",
+        "country": "HKG",
+        "state_code": "NYL"
+    }
+]

@@ -1,1 +1,170 @@
-[{"id":0,"name":"Aire-la-Ville","country":"CHE","state":"GE"},{"id":1,"name":"Ani\u00e8res","country":"CHE","state":"GE"},{"id":2,"name":"Bellevue","country":"CHE","state":"GE"},{"id":3,"name":"Bernex","country":"CHE","state":"GE"},{"id":4,"name":"Carouge","country":"CHE","state":"GE"},{"id":5,"name":"Chancy","country":"CHE","state":"GE"},{"id":6,"name":"Ch\u00eane-Bougeries","country":"CHE","state":"GE"},{"id":7,"name":"Ch\u00eane-Bourg","country":"CHE","state":"GE"},{"id":8,"name":"Confignon","country":"CHE","state":"GE"},{"id":9,"name":"Corsier","country":"CHE","state":"GE"},{"id":10,"name":"Dardagny","country":"CHE","state":"GE"},{"id":11,"name":"Gen\u00e8ve","country":"CHE","state":"GE"},{"id":12,"name":"Jussy","country":"CHE","state":"GE"},{"id":13,"name":"Lancy","country":"CHE","state":"GE"},{"id":14,"name":"Le Grand-Saconnex","country":"CHE","state":"GE"},{"id":15,"name":"Les Avanchets","country":"CHE","state":"GE"},{"id":16,"name":"Meinier","country":"CHE","state":"GE"},{"id":17,"name":"Meyrin","country":"CHE","state":"GE"},{"id":18,"name":"Onex","country":"CHE","state":"GE"},{"id":19,"name":"Plan-les-Ouates","country":"CHE","state":"GE"},{"id":20,"name":"Puplinge","country":"CHE","state":"GE"},{"id":21,"name":"Satigny","country":"CHE","state":"GE"},{"id":22,"name":"Th\u00f4nex","country":"CHE","state":"GE"},{"id":23,"name":"Troinex","country":"CHE","state":"GE"},{"id":24,"name":"Vand\u0153uvres","country":"CHE","state":"GE"},{"id":25,"name":"Vernier","country":"CHE","state":"GE"},{"id":26,"name":"Versoix","country":"CHE","state":"GE"},{"id":27,"name":"Veyrier","country":"CHE","state":"GE"}]
+[
+    {
+        "id": 17383,
+        "name": "Aire-la-Ville",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 17399,
+        "name": "Anières",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 17451,
+        "name": "Bellevue",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 17464,
+        "name": "Bernex",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 17612,
+        "name": "Carouge",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 17625,
+        "name": "Chancy",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 17643,
+        "name": "Chêne-Bougeries",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 17644,
+        "name": "Chêne-Bourg",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 17649,
+        "name": "Confignon",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 17656,
+        "name": "Corsier",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 17676,
+        "name": "Dardagny",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 17827,
+        "name": "Genève",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 17965,
+        "name": "Jussy",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18032,
+        "name": "Lancy",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18055,
+        "name": "Le Grand-Saconnex",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18068,
+        "name": "Les Avanchets",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18141,
+        "name": "Meinier",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18158,
+        "name": "Meyrin",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18284,
+        "name": "Onex",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18316,
+        "name": "Plan-les-Ouates",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18330,
+        "name": "Puplinge",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18448,
+        "name": "Satigny",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18595,
+        "name": "Thônex",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18606,
+        "name": "Troinex",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18661,
+        "name": "Vandœuvres",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18670,
+        "name": "Vernier",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18672,
+        "name": "Versoix",
+        "country": "CHE",
+        "state": "GE"
+    },
+    {
+        "id": 18676,
+        "name": "Veyrier",
+        "country": "CHE",
+        "state": "GE"
+    }
+]

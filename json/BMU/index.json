@@ -1,1 +1,56 @@
-[{"id":0,"name":"Devonshire","iso3":"DEV","country":"BMU"},{"id":1,"name":"Hamilton","iso3":"HA","country":"BMU"},{"id":2,"name":"Paget","iso3":"PAG","country":"BMU"},{"id":3,"name":"Pembroke","iso3":"PEM","country":"BMU"},{"id":4,"name":"Saint George's","iso3":"SGE","country":"BMU"},{"id":5,"name":"Sandys","iso3":"SAN","country":"BMU"},{"id":6,"name":"Smith's","iso3":"SMI","country":"BMU"},{"id":7,"name":"Southampton","iso3":"SOU","country":"BMU"},{"id":8,"name":"Warwick","iso3":"WAR","country":"BMU"}]
+[
+    {
+        "id": 4860,
+        "name": "Devonshire",
+        "country": "BMU",
+        "state_code": "DEV"
+    },
+    {
+        "id": 4861,
+        "name": "Hamilton",
+        "country": "BMU",
+        "state_code": "HA"
+    },
+    {
+        "id": 4863,
+        "name": "Paget",
+        "country": "BMU",
+        "state_code": "PAG"
+    },
+    {
+        "id": 4864,
+        "name": "Pembroke",
+        "country": "BMU",
+        "state_code": "PEM"
+    },
+    {
+        "id": 4866,
+        "name": "Saint George's",
+        "country": "BMU",
+        "state_code": "SGE"
+    },
+    {
+        "id": 4867,
+        "name": "Sandys",
+        "country": "BMU",
+        "state_code": "SAN"
+    },
+    {
+        "id": 4868,
+        "name": "Smith's",
+        "country": "BMU",
+        "state_code": "SMI"
+    },
+    {
+        "id": 4869,
+        "name": "Southampton",
+        "country": "BMU",
+        "state_code": "SOU"
+    },
+    {
+        "id": 4870,
+        "name": "Warwick",
+        "country": "BMU",
+        "state_code": "WAR"
+    }
+]

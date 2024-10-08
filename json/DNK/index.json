@@ -1,1 +1,32 @@
-[{"id":0,"name":"Capital Region of Denmark","iso3":"84","country":"DNK"},{"id":1,"name":"Central Denmark Region","iso3":"82","country":"DNK"},{"id":2,"name":"North Denmark Region","iso3":"81","country":"DNK"},{"id":3,"name":"Region of Southern Denmark","iso3":"83","country":"DNK"},{"id":4,"name":"Region Zealand","iso3":"85","country":"DNK"}]
+[
+    {
+        "id": 1530,
+        "name": "Capital Region of Denmark",
+        "country": "DNK",
+        "state_code": "84"
+    },
+    {
+        "id": 1531,
+        "name": "Central Denmark Region",
+        "country": "DNK",
+        "state_code": "82"
+    },
+    {
+        "id": 1532,
+        "name": "North Denmark Region",
+        "country": "DNK",
+        "state_code": "81"
+    },
+    {
+        "id": 1529,
+        "name": "Region of Southern Denmark",
+        "country": "DNK",
+        "state_code": "83"
+    },
+    {
+        "id": 1528,
+        "name": "Region Zealand",
+        "country": "DNK",
+        "state_code": "85"
+    }
+]

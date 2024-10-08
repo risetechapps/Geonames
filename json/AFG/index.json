@@ -1,1 +1,200 @@
-[{"id":0,"name":"Badakhshan","iso3":"BDS","country":"AFG"},{"id":1,"name":"Badghis","iso3":"BDG","country":"AFG"},{"id":2,"name":"Baghlan","iso3":"BGL","country":"AFG"},{"id":3,"name":"Balkh","iso3":"BAL","country":"AFG"},{"id":4,"name":"Bamyan","iso3":"BAM","country":"AFG"},{"id":5,"name":"Daykundi","iso3":"DAY","country":"AFG"},{"id":6,"name":"Farah","iso3":"FRA","country":"AFG"},{"id":7,"name":"Faryab","iso3":"FYB","country":"AFG"},{"id":8,"name":"Ghazni","iso3":"GHA","country":"AFG"},{"id":9,"name":"Gh\u014dr","iso3":"GHO","country":"AFG"},{"id":10,"name":"Helmand","iso3":"HEL","country":"AFG"},{"id":11,"name":"Herat","iso3":"HER","country":"AFG"},{"id":12,"name":"Jowzjan","iso3":"JOW","country":"AFG"},{"id":13,"name":"Kabul","iso3":"KAB","country":"AFG"},{"id":14,"name":"Kandahar","iso3":"KAN","country":"AFG"},{"id":15,"name":"Kapisa","iso3":"KAP","country":"AFG"},{"id":16,"name":"Khost","iso3":"KHO","country":"AFG"},{"id":17,"name":"Kunar","iso3":"KNR","country":"AFG"},{"id":18,"name":"Kunduz Province","iso3":"KDZ","country":"AFG"},{"id":19,"name":"Laghman","iso3":"LAG","country":"AFG"},{"id":20,"name":"Logar","iso3":"LOG","country":"AFG"},{"id":21,"name":"Nangarhar","iso3":"NAN","country":"AFG"},{"id":22,"name":"Nimruz","iso3":"NIM","country":"AFG"},{"id":23,"name":"Nuristan","iso3":"NUR","country":"AFG"},{"id":24,"name":"Paktia","iso3":"PIA","country":"AFG"},{"id":25,"name":"Paktika","iso3":"PKA","country":"AFG"},{"id":26,"name":"Panjshir","iso3":"PAN","country":"AFG"},{"id":27,"name":"Parwan","iso3":"PAR","country":"AFG"},{"id":28,"name":"Samangan","iso3":"SAM","country":"AFG"},{"id":29,"name":"Sar-e Pol","iso3":"SAR","country":"AFG"},{"id":30,"name":"Takhar","iso3":"TAK","country":"AFG"},{"id":31,"name":"Urozgan","iso3":"URU","country":"AFG"},{"id":32,"name":"Zabul","iso3":"ZAB","country":"AFG"}]
+[
+    {
+        "id": 3901,
+        "name": "Badakhshan",
+        "country": "AFG",
+        "state_code": "BDS"
+    },
+    {
+        "id": 3871,
+        "name": "Badghis",
+        "country": "AFG",
+        "state_code": "BDG"
+    },
+    {
+        "id": 3875,
+        "name": "Baghlan",
+        "country": "AFG",
+        "state_code": "BGL"
+    },
+    {
+        "id": 3884,
+        "name": "Balkh",
+        "country": "AFG",
+        "state_code": "BAL"
+    },
+    {
+        "id": 3872,
+        "name": "Bamyan",
+        "country": "AFG",
+        "state_code": "BAM"
+    },
+    {
+        "id": 3892,
+        "name": "Daykundi",
+        "country": "AFG",
+        "state_code": "DAY"
+    },
+    {
+        "id": 3899,
+        "name": "Farah",
+        "country": "AFG",
+        "state_code": "FRA"
+    },
+    {
+        "id": 3889,
+        "name": "Faryab",
+        "country": "AFG",
+        "state_code": "FYB"
+    },
+    {
+        "id": 3870,
+        "name": "Ghazni",
+        "country": "AFG",
+        "state_code": "GHA"
+    },
+    {
+        "id": 3888,
+        "name": "Ghōr",
+        "country": "AFG",
+        "state_code": "GHO"
+    },
+    {
+        "id": 3873,
+        "name": "Helmand",
+        "country": "AFG",
+        "state_code": "HEL"
+    },
+    {
+        "id": 3887,
+        "name": "Herat",
+        "country": "AFG",
+        "state_code": "HER"
+    },
+    {
+        "id": 3886,
+        "name": "Jowzjan",
+        "country": "AFG",
+        "state_code": "JOW"
+    },
+    {
+        "id": 3902,
+        "name": "Kabul",
+        "country": "AFG",
+        "state_code": "KAB"
+    },
+    {
+        "id": 3890,
+        "name": "Kandahar",
+        "country": "AFG",
+        "state_code": "KAN"
+    },
+    {
+        "id": 3879,
+        "name": "Kapisa",
+        "country": "AFG",
+        "state_code": "KAP"
+    },
+    {
+        "id": 3878,
+        "name": "Khost",
+        "country": "AFG",
+        "state_code": "KHO"
+    },
+    {
+        "id": 3876,
+        "name": "Kunar",
+        "country": "AFG",
+        "state_code": "KNR"
+    },
+    {
+        "id": 3900,
+        "name": "Kunduz Province",
+        "country": "AFG",
+        "state_code": "KDZ"
+    },
+    {
+        "id": 3891,
+        "name": "Laghman",
+        "country": "AFG",
+        "state_code": "LAG"
+    },
+    {
+        "id": 3897,
+        "name": "Logar",
+        "country": "AFG",
+        "state_code": "LOG"
+    },
+    {
+        "id": 3882,
+        "name": "Nangarhar",
+        "country": "AFG",
+        "state_code": "NAN"
+    },
+    {
+        "id": 3896,
+        "name": "Nimruz",
+        "country": "AFG",
+        "state_code": "NIM"
+    },
+    {
+        "id": 3880,
+        "name": "Nuristan",
+        "country": "AFG",
+        "state_code": "NUR"
+    },
+    {
+        "id": 3894,
+        "name": "Paktia",
+        "country": "AFG",
+        "state_code": "PIA"
+    },
+    {
+        "id": 3877,
+        "name": "Paktika",
+        "country": "AFG",
+        "state_code": "PKA"
+    },
+    {
+        "id": 3881,
+        "name": "Panjshir",
+        "country": "AFG",
+        "state_code": "PAN"
+    },
+    {
+        "id": 3895,
+        "name": "Parwan",
+        "country": "AFG",
+        "state_code": "PAR"
+    },
+    {
+        "id": 3883,
+        "name": "Samangan",
+        "country": "AFG",
+        "state_code": "SAM"
+    },
+    {
+        "id": 3885,
+        "name": "Sar-e Pol",
+        "country": "AFG",
+        "state_code": "SAR"
+    },
+    {
+        "id": 3893,
+        "name": "Takhar",
+        "country": "AFG",
+        "state_code": "TAK"
+    },
+    {
+        "id": 3898,
+        "name": "Urozgan",
+        "country": "AFG",
+        "state_code": "URU"
+    },
+    {
+        "id": 3874,
+        "name": "Zabul",
+        "country": "AFG",
+        "state_code": "ZAB"
+    }
+]

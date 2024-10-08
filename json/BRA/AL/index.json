@@ -1,1 +1,614 @@
-[{"id":0,"name":"\u00c1gua Branca","country":"BRA","state":"AL"},{"id":1,"name":"Anadia","country":"BRA","state":"AL"},{"id":2,"name":"Arapiraca","country":"BRA","state":"AL"},{"id":3,"name":"Atalaia","country":"BRA","state":"AL"},{"id":4,"name":"Barra de Santo Ant\u00f4nio","country":"BRA","state":"AL"},{"id":5,"name":"Barra de S\u00e3o Miguel","country":"BRA","state":"AL"},{"id":6,"name":"Batalha","country":"BRA","state":"AL"},{"id":7,"name":"Bel\u00e9m","country":"BRA","state":"AL"},{"id":8,"name":"Belo Monte","country":"BRA","state":"AL"},{"id":9,"name":"Boca da Mata","country":"BRA","state":"AL"},{"id":10,"name":"Branquinha","country":"BRA","state":"AL"},{"id":11,"name":"Cacimbinhas","country":"BRA","state":"AL"},{"id":12,"name":"Cajueiro","country":"BRA","state":"AL"},{"id":13,"name":"Campestre","country":"BRA","state":"AL"},{"id":14,"name":"Campo Alegre","country":"BRA","state":"AL"},{"id":15,"name":"Campo Grande","country":"BRA","state":"AL"},{"id":16,"name":"Canapi","country":"BRA","state":"AL"},{"id":17,"name":"Capela","country":"BRA","state":"AL"},{"id":18,"name":"Carneiros","country":"BRA","state":"AL"},{"id":19,"name":"Ch\u00e3 Preta","country":"BRA","state":"AL"},{"id":20,"name":"Coit\u00e9 do N\u00f3ia","country":"BRA","state":"AL"},{"id":21,"name":"Col\u00f4nia Leopoldina","country":"BRA","state":"AL"},{"id":22,"name":"Coqueiro Seco","country":"BRA","state":"AL"},{"id":23,"name":"Coruripe","country":"BRA","state":"AL"},{"id":24,"name":"Cra\u00edbas","country":"BRA","state":"AL"},{"id":25,"name":"Delmiro Gouveia","country":"BRA","state":"AL"},{"id":26,"name":"Dois Riachos","country":"BRA","state":"AL"},{"id":27,"name":"Estrela de Alagoas","country":"BRA","state":"AL"},{"id":28,"name":"Feira Grande","country":"BRA","state":"AL"},{"id":29,"name":"Feliz Deserto","country":"BRA","state":"AL"},{"id":30,"name":"Flexeiras","country":"BRA","state":"AL"},{"id":31,"name":"Girau do Ponciano","country":"BRA","state":"AL"},{"id":32,"name":"Ibateguara","country":"BRA","state":"AL"},{"id":33,"name":"Igaci","country":"BRA","state":"AL"},{"id":34,"name":"Igreja Nova","country":"BRA","state":"AL"},{"id":35,"name":"Inhapi","country":"BRA","state":"AL"},{"id":36,"name":"Jacar\u00e9 dos Homens","country":"BRA","state":"AL"},{"id":37,"name":"Jacu\u00edpe","country":"BRA","state":"AL"},{"id":38,"name":"Japaratinga","country":"BRA","state":"AL"},{"id":39,"name":"Jaramataia","country":"BRA","state":"AL"},{"id":40,"name":"Jequi\u00e1 da Praia","country":"BRA","state":"AL"},{"id":41,"name":"Joaquim Gomes","country":"BRA","state":"AL"},{"id":42,"name":"Jundi\u00e1","country":"BRA","state":"AL"},{"id":43,"name":"Junqueiro","country":"BRA","state":"AL"},{"id":44,"name":"Lagoa da Canoa","country":"BRA","state":"AL"},{"id":45,"name":"Limoeiro de Anadia","country":"BRA","state":"AL"},{"id":46,"name":"Macei\u00f3","country":"BRA","state":"AL"},{"id":47,"name":"Major Isidoro","country":"BRA","state":"AL"},{"id":48,"name":"Mar Vermelho","country":"BRA","state":"AL"},{"id":49,"name":"Maragogi","country":"BRA","state":"AL"},{"id":50,"name":"Maravilha","country":"BRA","state":"AL"},{"id":51,"name":"Marechal Deodoro","country":"BRA","state":"AL"},{"id":52,"name":"Maribondo","country":"BRA","state":"AL"},{"id":53,"name":"Mata Grande","country":"BRA","state":"AL"},{"id":54,"name":"Matriz de Camaragibe","country":"BRA","state":"AL"},{"id":55,"name":"Messias","country":"BRA","state":"AL"},{"id":56,"name":"Minador do Negr\u00e3o","country":"BRA","state":"AL"},{"id":57,"name":"Monteir\u00f3polis","country":"BRA","state":"AL"},{"id":58,"name":"Murici","country":"BRA","state":"AL"},{"id":59,"name":"Novo Lino","country":"BRA","state":"AL"},{"id":60,"name":"Olho d'\u00c1gua das Flores","country":"BRA","state":"AL"},{"id":61,"name":"Olho d'\u00c1gua do Casado","country":"BRA","state":"AL"},{"id":62,"name":"Olho d'\u00c1gua Grande","country":"BRA","state":"AL"},{"id":63,"name":"Oliven\u00e7a","country":"BRA","state":"AL"},{"id":64,"name":"Ouro Branco","country":"BRA","state":"AL"},{"id":65,"name":"Palestina","country":"BRA","state":"AL"},{"id":66,"name":"Palmeira dos \u00cdndios","country":"BRA","state":"AL"},{"id":67,"name":"P\u00e3o de A\u00e7\u00facar","country":"BRA","state":"AL"},{"id":68,"name":"Pariconha","country":"BRA","state":"AL"},{"id":69,"name":"Paripueira","country":"BRA","state":"AL"},{"id":70,"name":"Passo de Camaragibe","country":"BRA","state":"AL"},{"id":71,"name":"Paulo Jacinto","country":"BRA","state":"AL"},{"id":72,"name":"Penedo","country":"BRA","state":"AL"},{"id":73,"name":"Pia\u00e7abu\u00e7u","country":"BRA","state":"AL"},{"id":74,"name":"Pilar","country":"BRA","state":"AL"},{"id":75,"name":"Pindoba","country":"BRA","state":"AL"},{"id":76,"name":"Piranhas","country":"BRA","state":"AL"},{"id":77,"name":"Po\u00e7o das Trincheiras","country":"BRA","state":"AL"},{"id":78,"name":"Porto Calvo","country":"BRA","state":"AL"},{"id":79,"name":"Porto de Pedras","country":"BRA","state":"AL"},{"id":80,"name":"Porto Real do Col\u00e9gio","country":"BRA","state":"AL"},{"id":81,"name":"Quebrangulo","country":"BRA","state":"AL"},{"id":82,"name":"Rio Largo","country":"BRA","state":"AL"},{"id":83,"name":"Roteiro","country":"BRA","state":"AL"},{"id":84,"name":"Santa Luzia do Norte","country":"BRA","state":"AL"},{"id":85,"name":"Santana do Ipanema","country":"BRA","state":"AL"},{"id":86,"name":"Santana do Munda\u00fa","country":"BRA","state":"AL"},{"id":87,"name":"S\u00e3o Br\u00e1s","country":"BRA","state":"AL"},{"id":88,"name":"S\u00e3o Jos\u00e9 da Laje","country":"BRA","state":"AL"},{"id":89,"name":"S\u00e3o Jos\u00e9 da Tapera","country":"BRA","state":"AL"},{"id":90,"name":"S\u00e3o Lu\u00eds do Quitunde","country":"BRA","state":"AL"},{"id":91,"name":"S\u00e3o Miguel dos Campos","country":"BRA","state":"AL"},{"id":92,"name":"S\u00e3o Miguel dos Milagres","country":"BRA","state":"AL"},{"id":93,"name":"S\u00e3o Sebasti\u00e3o","country":"BRA","state":"AL"},{"id":94,"name":"Satuba","country":"BRA","state":"AL"},{"id":95,"name":"Senador Rui Palmeira","country":"BRA","state":"AL"},{"id":96,"name":"Tanque d'Arca","country":"BRA","state":"AL"},{"id":97,"name":"Taquarana","country":"BRA","state":"AL"},{"id":98,"name":"Teot\u00f4nio Vilela","country":"BRA","state":"AL"},{"id":99,"name":"Traipu","country":"BRA","state":"AL"},{"id":100,"name":"Uni\u00e3o dos Palmares","country":"BRA","state":"AL"},{"id":101,"name":"Vi\u00e7osa","country":"BRA","state":"AL"}]
+[
+    {
+        "id": 15652,
+        "name": "Água Branca",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10227,
+        "name": "Anadia",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10337,
+        "name": "Arapiraca",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10434,
+        "name": "Atalaia",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10527,
+        "name": "Barra de Santo Antônio",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10529,
+        "name": "Barra de São Miguel",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10581,
+        "name": "Batalha",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10616,
+        "name": "Belém",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10609,
+        "name": "Belo Monte",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10677,
+        "name": "Boca da Mata",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10767,
+        "name": "Branquinha",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10883,
+        "name": "Cacimbinhas",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10919,
+        "name": "Cajueiro",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10957,
+        "name": "Campestre",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10976,
+        "name": "Campo Alegre",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 10990,
+        "name": "Campo Grande",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11024,
+        "name": "Canapi",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11066,
+        "name": "Capela",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11160,
+        "name": "Carneiros",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11287,
+        "name": "Chã Preta",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11317,
+        "name": "Coité do Nóia",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11336,
+        "name": "Colônia Leopoldina",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11394,
+        "name": "Coqueiro Seco",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11445,
+        "name": "Coruripe",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11464,
+        "name": "Craíbas",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11569,
+        "name": "Delmiro Gouveia",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11619,
+        "name": "Dois Riachos",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11752,
+        "name": "Estrela de Alagoas",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11789,
+        "name": "Feira Grande",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11799,
+        "name": "Feliz Deserto",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11824,
+        "name": "Flexeiras",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 11945,
+        "name": "Girau do Ponciano",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12123,
+        "name": "Ibateguara",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12177,
+        "name": "Igaci",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12193,
+        "name": "Igreja Nova",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12249,
+        "name": "Inhapi",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12522,
+        "name": "Jacaré dos Homens",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12535,
+        "name": "Jacuípe",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12566,
+        "name": "Japaratinga",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12582,
+        "name": "Jaramataia",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12618,
+        "name": "Jequiá da Praia",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12637,
+        "name": "Joaquim Gomes",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12686,
+        "name": "Jundiá",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12688,
+        "name": "Junqueiro",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12749,
+        "name": "Lagoa da Canoa",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12832,
+        "name": "Limoeiro de Anadia",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12896,
+        "name": "Maceió",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12921,
+        "name": "Major Isidoro",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12961,
+        "name": "Mar Vermelho",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12973,
+        "name": "Maragogi",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12985,
+        "name": "Maravilha",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 12999,
+        "name": "Marechal Deodoro",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13011,
+        "name": "Maribondo",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13046,
+        "name": "Mata Grande",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13073,
+        "name": "Matriz de Camaragibe",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13106,
+        "name": "Messias",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13121,
+        "name": "Minador do Negrão",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13217,
+        "name": "Monteirópolis",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13280,
+        "name": "Murici",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13468,
+        "name": "Novo Lino",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13497,
+        "name": "Olho d'Água das Flores",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13498,
+        "name": "Olho d'Água do Casado",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13495,
+        "name": "Olho d'Água Grande",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13510,
+        "name": "Olivença",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13539,
+        "name": "Ouro Branco",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13575,
+        "name": "Palestina",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13594,
+        "name": "Palmeira dos Índios",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14119,
+        "name": "Pão de Açúcar",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13671,
+        "name": "Pariconha",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13674,
+        "name": "Paripueira",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13697,
+        "name": "Passo de Camaragibe",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13734,
+        "name": "Paulo Jacinto",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13795,
+        "name": "Penedo",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13827,
+        "name": "Piaçabuçu",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13837,
+        "name": "Pilar",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13852,
+        "name": "Pindoba",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 13897,
+        "name": "Piranhas",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14051,
+        "name": "Poço das Trincheiras",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14001,
+        "name": "Porto Calvo",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14026,
+        "name": "Porto de Pedras",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14014,
+        "name": "Porto Real do Colégio",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14136,
+        "name": "Quebrangulo",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14279,
+        "name": "Rio Largo",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14356,
+        "name": "Roteiro",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14495,
+        "name": "Santa Luzia do Norte",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14582,
+        "name": "Santana do Ipanema",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14589,
+        "name": "Santana do Mundaú",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14850,
+        "name": "São Brás",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14944,
+        "name": "São José da Laje",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14947,
+        "name": "São José da Tapera",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 15067,
+        "name": "São Luís do Quitunde",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 15097,
+        "name": "São Miguel dos Campos",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 15098,
+        "name": "São Miguel dos Milagres",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 15136,
+        "name": "São Sebastião",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14673,
+        "name": "Satuba",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 14706,
+        "name": "Senador Rui Palmeira",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 15221,
+        "name": "Tanque d'Arca",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 15243,
+        "name": "Taquarana",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 15282,
+        "name": "Teotônio Vilela",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 15347,
+        "name": "Traipu",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 15463,
+        "name": "União dos Palmares",
+        "country": "BRA",
+        "state": "AL"
+    },
+    {
+        "id": 15606,
+        "name": "Viçosa",
+        "country": "BRA",
+        "state": "AL"
+    }
+]

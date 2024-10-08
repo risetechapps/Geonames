@@ -1,1 +1,260 @@
-[{"id":0,"name":"Amajuba District Municipality","country":"ZAF","state":"KZN"},{"id":1,"name":"Ballito","country":"ZAF","state":"KZN"},{"id":2,"name":"Berea","country":"ZAF","state":"KZN"},{"id":3,"name":"Dundee","country":"ZAF","state":"KZN"},{"id":4,"name":"Durban","country":"ZAF","state":"KZN"},{"id":5,"name":"Ekuvukeni","country":"ZAF","state":"KZN"},{"id":6,"name":"eMkhomazi","country":"ZAF","state":"KZN"},{"id":7,"name":"Empangeni","country":"ZAF","state":"KZN"},{"id":8,"name":"Eshowe","country":"ZAF","state":"KZN"},{"id":9,"name":"eSikhaleni","country":"ZAF","state":"KZN"},{"id":10,"name":"eThekwini Metropolitan Municipality","country":"ZAF","state":"KZN"},{"id":11,"name":"Glencoe","country":"ZAF","state":"KZN"},{"id":12,"name":"Greytown","country":"ZAF","state":"KZN"},{"id":13,"name":"Hluhluwe","country":"ZAF","state":"KZN"},{"id":14,"name":"Howick","country":"ZAF","state":"KZN"},{"id":15,"name":"iLembe District Municipality","country":"ZAF","state":"KZN"},{"id":16,"name":"Kokstad","country":"ZAF","state":"KZN"},{"id":17,"name":"KwaDukuza","country":"ZAF","state":"KZN"},{"id":18,"name":"Margate","country":"ZAF","state":"KZN"},{"id":19,"name":"Mondlo","country":"ZAF","state":"KZN"},{"id":20,"name":"Mooirivier","country":"ZAF","state":"KZN"},{"id":21,"name":"Mpophomeni","country":"ZAF","state":"KZN"},{"id":22,"name":"Mpumalanga","country":"ZAF","state":"KZN"},{"id":23,"name":"Mtubatuba","country":"ZAF","state":"KZN"},{"id":24,"name":"Ndwedwe","country":"ZAF","state":"KZN"},{"id":25,"name":"Newcastle","country":"ZAF","state":"KZN"},{"id":26,"name":"Pietermaritzburg","country":"ZAF","state":"KZN"},{"id":27,"name":"Port Shepstone","country":"ZAF","state":"KZN"},{"id":28,"name":"Richards Bay","country":"ZAF","state":"KZN"},{"id":29,"name":"Richmond","country":"ZAF","state":"KZN"},{"id":30,"name":"Scottburgh","country":"ZAF","state":"KZN"},{"id":31,"name":"Sisonke District Municipality","country":"ZAF","state":"KZN"},{"id":32,"name":"Sundumbili","country":"ZAF","state":"KZN"},{"id":33,"name":"Ugu District Municipality","country":"ZAF","state":"KZN"},{"id":34,"name":"Ulundi","country":"ZAF","state":"KZN"},{"id":35,"name":"uMgungundlovu","country":"ZAF","state":"KZN"},{"id":36,"name":"uMkhanyakude District Municipality","country":"ZAF","state":"KZN"},{"id":37,"name":"uMzinyathi District Municipality","country":"ZAF","state":"KZN"},{"id":38,"name":"uThukela District Municipality","country":"ZAF","state":"KZN"},{"id":39,"name":"uThungulu District Municipality","country":"ZAF","state":"KZN"},{"id":40,"name":"Utrecht","country":"ZAF","state":"KZN"},{"id":41,"name":"Vryheid","country":"ZAF","state":"KZN"},{"id":42,"name":"Zululand District Municipality","country":"ZAF","state":"KZN"}]
+[
+    {
+        "id": 131022,
+        "name": "Amajuba District Municipality",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131027,
+        "name": "Ballito",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131033,
+        "name": "Berea",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131091,
+        "name": "Dundee",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131092,
+        "name": "Durban",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131102,
+        "name": "Ekuvukeni",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131320,
+        "name": "eMkhomazi",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131104,
+        "name": "Empangeni",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131106,
+        "name": "Eshowe",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131321,
+        "name": "eSikhaleni",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131322,
+        "name": "eThekwini Metropolitan Municipality",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131118,
+        "name": "Glencoe",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131122,
+        "name": "Greytown",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131130,
+        "name": "Hluhluwe",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131132,
+        "name": "Howick",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131323,
+        "name": "iLembe District Municipality",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131144,
+        "name": "Kokstad",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131155,
+        "name": "KwaDukuza",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131172,
+        "name": "Margate",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131183,
+        "name": "Mondlo",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131185,
+        "name": "Mooirivier",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131189,
+        "name": "Mpophomeni",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131190,
+        "name": "Mpumalanga",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131192,
+        "name": "Mtubatuba",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131196,
+        "name": "Ndwedwe",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131199,
+        "name": "Newcastle",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131218,
+        "name": "Pietermaritzburg",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131227,
+        "name": "Port Shepstone",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131239,
+        "name": "Richards Bay",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131240,
+        "name": "Richmond",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131251,
+        "name": "Scottburgh",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131256,
+        "name": "Sisonke District Municipality",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131267,
+        "name": "Sundumbili",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131278,
+        "name": "Ugu District Municipality",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131280,
+        "name": "Ulundi",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131324,
+        "name": "uMgungundlovu",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131325,
+        "name": "uMkhanyakude District Municipality",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131326,
+        "name": "uMzinyathi District Municipality",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131327,
+        "name": "uThukela District Municipality",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131328,
+        "name": "uThungulu District Municipality",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131282,
+        "name": "Utrecht",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131297,
+        "name": "Vryheid",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 131318,
+        "name": "Zululand District Municipality",
+        "country": "ZAF",
+        "state": "KZN"
+    }
+]

@@ -1,1 +1,62 @@
-[{"id":0,"name":"Bulawayo Province","iso3":"BU","country":"ZWE"},{"id":1,"name":"Harare Province","iso3":"HA","country":"ZWE"},{"id":2,"name":"Manicaland","iso3":"MA","country":"ZWE"},{"id":3,"name":"Mashonaland Central Province","iso3":"MC","country":"ZWE"},{"id":4,"name":"Mashonaland East Province","iso3":"ME","country":"ZWE"},{"id":5,"name":"Mashonaland West Province","iso3":"MW","country":"ZWE"},{"id":6,"name":"Masvingo Province","iso3":"MV","country":"ZWE"},{"id":7,"name":"Matabeleland North Province","iso3":"MN","country":"ZWE"},{"id":8,"name":"Matabeleland South Province","iso3":"MS","country":"ZWE"},{"id":9,"name":"Midlands Province","iso3":"MI","country":"ZWE"}]
+[
+    {
+        "id": 1956,
+        "name": "Bulawayo Province",
+        "country": "ZWE",
+        "state_code": "BU"
+    },
+    {
+        "id": 1958,
+        "name": "Harare Province",
+        "country": "ZWE",
+        "state_code": "HA"
+    },
+    {
+        "id": 1959,
+        "name": "Manicaland",
+        "country": "ZWE",
+        "state_code": "MA"
+    },
+    {
+        "id": 1955,
+        "name": "Mashonaland Central Province",
+        "country": "ZWE",
+        "state_code": "MC"
+    },
+    {
+        "id": 1951,
+        "name": "Mashonaland East Province",
+        "country": "ZWE",
+        "state_code": "ME"
+    },
+    {
+        "id": 1953,
+        "name": "Mashonaland West Province",
+        "country": "ZWE",
+        "state_code": "MW"
+    },
+    {
+        "id": 1960,
+        "name": "Masvingo Province",
+        "country": "ZWE",
+        "state_code": "MV"
+    },
+    {
+        "id": 1954,
+        "name": "Matabeleland North Province",
+        "country": "ZWE",
+        "state_code": "MN"
+    },
+    {
+        "id": 1952,
+        "name": "Matabeleland South Province",
+        "country": "ZWE",
+        "state_code": "MS"
+    },
+    {
+        "id": 1957,
+        "name": "Midlands Province",
+        "country": "ZWE",
+        "state_code": "MI"
+    }
+]

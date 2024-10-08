@@ -1,1 +1,56 @@
-[{"id":0,"name":"Batken Region","iso3":"B","country":"KGZ"},{"id":1,"name":"Bishkek","iso3":"GB","country":"KGZ"},{"id":2,"name":"Chuy Region","iso3":"C","country":"KGZ"},{"id":3,"name":"Issyk-Kul Region","iso3":"Y","country":"KGZ"},{"id":4,"name":"Jalal-Abad Region","iso3":"J","country":"KGZ"},{"id":5,"name":"Naryn Region","iso3":"N","country":"KGZ"},{"id":6,"name":"Osh","iso3":"GO","country":"KGZ"},{"id":7,"name":"Osh Region","iso3":"O","country":"KGZ"},{"id":8,"name":"Talas Region","iso3":"T","country":"KGZ"}]
+[
+    {
+        "id": 998,
+        "name": "Batken Region",
+        "country": "KGZ",
+        "state_code": "B"
+    },
+    {
+        "id": 1001,
+        "name": "Bishkek",
+        "country": "KGZ",
+        "state_code": "GB"
+    },
+    {
+        "id": 1004,
+        "name": "Chuy Region",
+        "country": "KGZ",
+        "state_code": "C"
+    },
+    {
+        "id": 1002,
+        "name": "Issyk-Kul Region",
+        "country": "KGZ",
+        "state_code": "Y"
+    },
+    {
+        "id": 1000,
+        "name": "Jalal-Abad Region",
+        "country": "KGZ",
+        "state_code": "J"
+    },
+    {
+        "id": 999,
+        "name": "Naryn Region",
+        "country": "KGZ",
+        "state_code": "N"
+    },
+    {
+        "id": 1003,
+        "name": "Osh",
+        "country": "KGZ",
+        "state_code": "GO"
+    },
+    {
+        "id": 1005,
+        "name": "Osh Region",
+        "country": "KGZ",
+        "state_code": "O"
+    },
+    {
+        "id": 997,
+        "name": "Talas Region",
+        "country": "KGZ",
+        "state_code": "T"
+    }
+]

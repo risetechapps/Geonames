@@ -1,1 +1,134 @@
-[{"id":0,"name":"Departamento de Capital","country":"ARG","state":"M"},{"id":1,"name":"Departamento de General Alvear","country":"ARG","state":"M"},{"id":2,"name":"Departamento de Godoy Cruz","country":"ARG","state":"M"},{"id":3,"name":"Departamento de Guaymall\u00e9n","country":"ARG","state":"M"},{"id":4,"name":"Departamento de La Paz","country":"ARG","state":"M"},{"id":5,"name":"Departamento de Las Heras","country":"ARG","state":"M"},{"id":6,"name":"Departamento de Lavalle","country":"ARG","state":"M"},{"id":7,"name":"Departamento de Luj\u00e1n","country":"ARG","state":"M"},{"id":8,"name":"Departamento de Maip\u00fa","country":"ARG","state":"M"},{"id":9,"name":"Departamento de Malarg\u00fce","country":"ARG","state":"M"},{"id":10,"name":"Departamento de Rivadavia","country":"ARG","state":"M"},{"id":11,"name":"Departamento de San Carlos","country":"ARG","state":"M"},{"id":12,"name":"Departamento de San Mart\u00edn","country":"ARG","state":"M"},{"id":13,"name":"Departamento de San Rafael","country":"ARG","state":"M"},{"id":14,"name":"Departamento de Santa Rosa","country":"ARG","state":"M"},{"id":15,"name":"Departamento de Tunuy\u00e1n","country":"ARG","state":"M"},{"id":16,"name":"Departamento de Tupungato","country":"ARG","state":"M"},{"id":17,"name":"Godoy Cruz","country":"ARG","state":"M"},{"id":18,"name":"Las Heras","country":"ARG","state":"M"},{"id":19,"name":"Mendoza","country":"ARG","state":"M"},{"id":20,"name":"San Mart\u00edn","country":"ARG","state":"M"},{"id":21,"name":"San Rafael","country":"ARG","state":"M"}]
+[
+    {
+        "id": 850,
+        "name": "Departamento de Capital",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 889,
+        "name": "Departamento de General Alvear",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 898,
+        "name": "Departamento de Godoy Cruz",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 905,
+        "name": "Departamento de Guaymallén",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 919,
+        "name": "Departamento de La Paz",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 924,
+        "name": "Departamento de Las Heras",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 926,
+        "name": "Departamento de Lavalle",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 932,
+        "name": "Departamento de Luján",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 936,
+        "name": "Departamento de Maipú",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 938,
+        "name": "Departamento de Malargüe",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 967,
+        "name": "Departamento de Rivadavia",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 983,
+        "name": "Departamento de San Carlos",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 999,
+        "name": "Departamento de San Martín",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 1003,
+        "name": "Departamento de San Rafael",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 1008,
+        "name": "Departamento de Santa Rosa",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 1026,
+        "name": "Departamento de Tunuyán",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 1027,
+        "name": "Departamento de Tupungato",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 1122,
+        "name": "Godoy Cruz",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 1219,
+        "name": "Las Heras",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 1278,
+        "name": "Mendoza",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 1440,
+        "name": "San Martín",
+        "country": "ARG",
+        "state": "M"
+    },
+    {
+        "id": 1448,
+        "name": "San Rafael",
+        "country": "ARG",
+        "state": "M"
+    }
+]

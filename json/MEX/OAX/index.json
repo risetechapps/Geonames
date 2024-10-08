@@ -1,1 +1,4166 @@
-[{"id":0,"name":"Acatl\u00e1n de P\u00e9rez Figueroa","country":"MEX","state":"OAX"},{"id":1,"name":"Agua del Espino","country":"MEX","state":"OAX"},{"id":2,"name":"Ahuehuetitl\u00e1n","country":"MEX","state":"OAX"},{"id":3,"name":"Albarradas","country":"MEX","state":"OAX"},{"id":4,"name":"Almolonga","country":"MEX","state":"OAX"},{"id":5,"name":"\u00c1lvaro Obreg\u00f3n","country":"MEX","state":"OAX"},{"id":6,"name":"Animas Trujano","country":"MEX","state":"OAX"},{"id":7,"name":"Apoala","country":"MEX","state":"OAX"},{"id":8,"name":"Arroyo Chical (Nuevo Arroyo Chicali)","country":"MEX","state":"OAX"},{"id":9,"name":"Arroyo Cho\u00e1pam","country":"MEX","state":"OAX"},{"id":10,"name":"Arroyo de Banco","country":"MEX","state":"OAX"},{"id":11,"name":"Arroyo de Enmedio","country":"MEX","state":"OAX"},{"id":12,"name":"Arroyo Lim\u00f3n","country":"MEX","state":"OAX"},{"id":13,"name":"Arroyo Zapotillo","country":"MEX","state":"OAX"},{"id":14,"name":"Asunci\u00f3n Cacalotepec","country":"MEX","state":"OAX"},{"id":15,"name":"Asunci\u00f3n Ixtaltepec","country":"MEX","state":"OAX"},{"id":16,"name":"Asunci\u00f3n Nochixtl\u00e1n","country":"MEX","state":"OAX"},{"id":17,"name":"Asunci\u00f3n Ocotl\u00e1n","country":"MEX","state":"OAX"},{"id":18,"name":"Asunci\u00f3n Tlacolulita","country":"MEX","state":"OAX"},{"id":19,"name":"Ayoquezco de Aldama","country":"MEX","state":"OAX"},{"id":20,"name":"Ayotzintepec","country":"MEX","state":"OAX"},{"id":21,"name":"Ayutla","country":"MEX","state":"OAX"},{"id":22,"name":"Bajos de Chila","country":"MEX","state":"OAX"},{"id":23,"name":"Barrio San Diego","country":"MEX","state":"OAX"},{"id":24,"name":"Benem\u00e9rito Ju\u00e1rez","country":"MEX","state":"OAX"},{"id":25,"name":"Benito Ju\u00e1rez","country":"MEX","state":"OAX"},{"id":26,"name":"Benito Ju\u00e1rez II (San Mart\u00edn)","country":"MEX","state":"OAX"},{"id":27,"name":"Bethania","country":"MEX","state":"OAX"},{"id":28,"name":"Brisas de Zicatela","country":"MEX","state":"OAX"},{"id":29,"name":"Cajonos","country":"MEX","state":"OAX"},{"id":30,"name":"Calihual\u00e1","country":"MEX","state":"OAX"},{"id":31,"name":"Camelia Roja","country":"MEX","state":"OAX"},{"id":32,"name":"Camotinchan","country":"MEX","state":"OAX"},{"id":33,"name":"Candelaria Loxicha","country":"MEX","state":"OAX"},{"id":34,"name":"Capul\u00e1lpam de M\u00e9ndez","country":"MEX","state":"OAX"},{"id":35,"name":"Cerro Armadillo Grande","country":"MEX","state":"OAX"},{"id":36,"name":"Cerro del Aire","country":"MEX","state":"OAX"},{"id":37,"name":"Cerro Quemado","country":"MEX","state":"OAX"},{"id":38,"name":"Chahuite","country":"MEX","state":"OAX"},{"id":39,"name":"Chahuites","country":"MEX","state":"OAX"},{"id":40,"name":"Chicahua","country":"MEX","state":"OAX"},{"id":41,"name":"Chicapa de Castro","country":"MEX","state":"OAX"},{"id":42,"name":"Ci\u00e9nega de Zimatl\u00e1n","country":"MEX","state":"OAX"},{"id":43,"name":"Cieneguilla","country":"MEX","state":"OAX"},{"id":44,"name":"Ciudad de Huajuapan de Le\u00f3n","country":"MEX","state":"OAX"},{"id":45,"name":"Coatecas Altas","country":"MEX","state":"OAX"},{"id":46,"name":"Coixtlahuaca","country":"MEX","state":"OAX"},{"id":47,"name":"Collantes","country":"MEX","state":"OAX"},{"id":48,"name":"Colonia Jord\u00e1n","country":"MEX","state":"OAX"},{"id":49,"name":"Colonia Ju\u00e1rez","country":"MEX","state":"OAX"},{"id":50,"name":"Colonia la Central","country":"MEX","state":"OAX"},{"id":51,"name":"Colonia Progreso","country":"MEX","state":"OAX"},{"id":52,"name":"Colonia Rinc\u00f3n Viejo","country":"MEX","state":"OAX"},{"id":53,"name":"Colonia San Luis","country":"MEX","state":"OAX"},{"id":54,"name":"Concepci\u00f3n P\u00e1palo","country":"MEX","state":"OAX"},{"id":55,"name":"Constancia del Rosario","country":"MEX","state":"OAX"},{"id":56,"name":"Constituci\u00f3n Mexicana","country":"MEX","state":"OAX"},{"id":57,"name":"Corral de Piedra","country":"MEX","state":"OAX"},{"id":58,"name":"Corralero","country":"MEX","state":"OAX"},{"id":59,"name":"Cosoltepec","country":"MEX","state":"OAX"},{"id":60,"name":"Crucecita","country":"MEX","state":"OAX"},{"id":61,"name":"Cuapinolito (Azulillo)","country":"MEX","state":"OAX"},{"id":62,"name":"Cuauht\u00e9moc","country":"MEX","state":"OAX"},{"id":63,"name":"Cuicatlan","country":"MEX","state":"OAX"},{"id":64,"name":"Cuilapan de Guerrero","country":"MEX","state":"OAX"},{"id":65,"name":"Donaji","country":"MEX","state":"OAX"},{"id":66,"name":"Ejutla de Crespo","country":"MEX","state":"OAX"},{"id":67,"name":"El Arador","country":"MEX","state":"OAX"},{"id":68,"name":"El Baj\u00edo","country":"MEX","state":"OAX"},{"id":69,"name":"El Barrio de la Soledad","country":"MEX","state":"OAX"},{"id":70,"name":"El Camalote","country":"MEX","state":"OAX"},{"id":71,"name":"El Camar\u00f3n","country":"MEX","state":"OAX"},{"id":72,"name":"El Capul\u00edn (La Nueva Pochota)","country":"MEX","state":"OAX"},{"id":73,"name":"El Carrizal","country":"MEX","state":"OAX"},{"id":74,"name":"El Carrizo","country":"MEX","state":"OAX"},{"id":75,"name":"El Chocolate","country":"MEX","state":"OAX"},{"id":76,"name":"El Ciruelo","country":"MEX","state":"OAX"},{"id":77,"name":"El Coyul","country":"MEX","state":"OAX"},{"id":78,"name":"El Espinal","country":"MEX","state":"OAX"},{"id":79,"name":"El Molino","country":"MEX","state":"OAX"},{"id":80,"name":"El Morro","country":"MEX","state":"OAX"},{"id":81,"name":"El Porvenir","country":"MEX","state":"OAX"},{"id":82,"name":"El Rosario","country":"MEX","state":"OAX"},{"id":83,"name":"Eloxochitl\u00e1n de Flores Mag\u00f3n","country":"MEX","state":"OAX"},{"id":84,"name":"Encinal Colorado","country":"MEX","state":"OAX"},{"id":85,"name":"Estaci\u00f3n Mogo\u00f1\u00e9","country":"MEX","state":"OAX"},{"id":86,"name":"Flor Batavia","country":"MEX","state":"OAX"},{"id":87,"name":"Fraccionamiento Ciudad Yagul","country":"MEX","state":"OAX"},{"id":88,"name":"Fraccionamiento Ex-Hacienda Catano","country":"MEX","state":"OAX"},{"id":89,"name":"Fraccionamiento Real del Valle","country":"MEX","state":"OAX"},{"id":90,"name":"Fraccionamiento Riberas de San Jer\u00f3nimo","country":"MEX","state":"OAX"},{"id":91,"name":"Fraccionamiento San Miguel","country":"MEX","state":"OAX"},{"id":92,"name":"Francisco Ibarra Ramos","country":"MEX","state":"OAX"},{"id":93,"name":"General Pascual Fentes","country":"MEX","state":"OAX"},{"id":94,"name":"Guadalupe Etla","country":"MEX","state":"OAX"},{"id":95,"name":"Guadalupe Hidalgo","country":"MEX","state":"OAX"},{"id":96,"name":"Guadalupe Victoria","country":"MEX","state":"OAX"},{"id":97,"name":"Guam\u00fachil","country":"MEX","state":"OAX"},{"id":98,"name":"Guix\u00e9","country":"MEX","state":"OAX"},{"id":99,"name":"Hacienda Blanca","country":"MEX","state":"OAX"},{"id":100,"name":"Heroica Ciudad de Ejutla de Crespo","country":"MEX","state":"OAX"},{"id":101,"name":"Heroica Ciudad de Juchit\u00e1n de Zaragoza","country":"MEX","state":"OAX"},{"id":102,"name":"Heroica Ciudad de Tlaxiaco","country":"MEX","state":"OAX"},{"id":103,"name":"Huajintepec","country":"MEX","state":"OAX"},{"id":104,"name":"Huautepec","country":"MEX","state":"OAX"},{"id":105,"name":"Huazantl\u00e1n del R\u00edo","country":"MEX","state":"OAX"},{"id":106,"name":"Ignacio Zaragoza","country":"MEX","state":"OAX"},{"id":107,"name":"Isla Soyaltepec","country":"MEX","state":"OAX"},{"id":108,"name":"Ixpantepec Nieves","country":"MEX","state":"OAX"},{"id":109,"name":"Ixtepec","country":"MEX","state":"OAX"},{"id":110,"name":"Ixtl\u00e1n de Ju\u00e1rez","country":"MEX","state":"OAX"},{"id":111,"name":"Jalapa","country":"MEX","state":"OAX"},{"id":112,"name":"Jaltepec de Candayoc","country":"MEX","state":"OAX"},{"id":113,"name":"Jaltepetongo","country":"MEX","state":"OAX"},{"id":114,"name":"Jamiltepec","country":"MEX","state":"OAX"},{"id":115,"name":"Jos\u00e9 Mar\u00eda Morelos","country":"MEX","state":"OAX"},{"id":116,"name":"Juchit\u00e1n de Zaragoza","country":"MEX","state":"OAX"},{"id":117,"name":"La Barra de Colotepec","country":"MEX","state":"OAX"},{"id":118,"name":"La Blanca","country":"MEX","state":"OAX"},{"id":119,"name":"La Ca\u00f1ada","country":"MEX","state":"OAX"},{"id":120,"name":"La Candelaria","country":"MEX","state":"OAX"},{"id":121,"name":"La Erradura","country":"MEX","state":"OAX"},{"id":122,"name":"La Humedad","country":"MEX","state":"OAX"},{"id":123,"name":"La Junta","country":"MEX","state":"OAX"},{"id":124,"name":"La Luz","country":"MEX","state":"OAX"},{"id":125,"name":"La Mina","country":"MEX","state":"OAX"},{"id":126,"name":"La Noria","country":"MEX","state":"OAX"},{"id":127,"name":"La Pe","country":"MEX","state":"OAX"},{"id":128,"name":"La Reforma","country":"MEX","state":"OAX"},{"id":129,"name":"La Tabaquera","country":"MEX","state":"OAX"},{"id":130,"name":"La Venta","country":"MEX","state":"OAX"},{"id":131,"name":"La Ventosa","country":"MEX","state":"OAX"},{"id":132,"name":"Las Amilpas","country":"MEX","state":"OAX"},{"id":133,"name":"Las Margaritas","country":"MEX","state":"OAX"},{"id":134,"name":"L\u00e1zaro C\u00e1rdenas","country":"MEX","state":"OAX"},{"id":135,"name":"Llano de Agua","country":"MEX","state":"OAX"},{"id":136,"name":"Llano Suchiapa","country":"MEX","state":"OAX"},{"id":137,"name":"Loma Bonita","country":"MEX","state":"OAX"},{"id":138,"name":"Loma Chapultepec","country":"MEX","state":"OAX"},{"id":139,"name":"Los \u00c1ngeles","country":"MEX","state":"OAX"},{"id":140,"name":"Los Naranjos Esquipulas","country":"MEX","state":"OAX"},{"id":141,"name":"Mac\u00edn Chico","country":"MEX","state":"OAX"},{"id":142,"name":"Macuilx\u00f3chitl de Artigas Carranza","country":"MEX","state":"OAX"},{"id":143,"name":"Magdalena Apasco","country":"MEX","state":"OAX"},{"id":144,"name":"Magdalena Jaltepec","country":"MEX","state":"OAX"},{"id":145,"name":"Magdalena Mixtepec","country":"MEX","state":"OAX"},{"id":146,"name":"Magdalena Ocotl\u00e1n","country":"MEX","state":"OAX"},{"id":147,"name":"Magdalena Teitipac","country":"MEX","state":"OAX"},{"id":148,"name":"Magdalena Tequisistl\u00e1n","country":"MEX","state":"OAX"},{"id":149,"name":"Magdalena Tlacotepec","country":"MEX","state":"OAX"},{"id":150,"name":"Magdalena Yodocono de Porfirio D\u00edaz","country":"MEX","state":"OAX"},{"id":151,"name":"Magdalena Zahuatl\u00e1n","country":"MEX","state":"OAX"},{"id":152,"name":"Mancuernas","country":"MEX","state":"OAX"},{"id":153,"name":"Mar\u00eda Lombardo de Caso","country":"MEX","state":"OAX"},{"id":154,"name":"Mariscala de Ju\u00e1rez","country":"MEX","state":"OAX"},{"id":155,"name":"Mat\u00edas Romero","country":"MEX","state":"OAX"},{"id":156,"name":"Mazatl\u00e1n Villa de Flores","country":"MEX","state":"OAX"},{"id":157,"name":"Maz\u00edn Grande","country":"MEX","state":"OAX"},{"id":158,"name":"Merced del Potrero","country":"MEX","state":"OAX"},{"id":159,"name":"Mesones Hidalgo","country":"MEX","state":"OAX"},{"id":160,"name":"Miahuatl\u00e1n de Porfirio D\u00edaz","country":"MEX","state":"OAX"},{"id":161,"name":"Mixistl\u00e1n de la Reforma","country":"MEX","state":"OAX"},{"id":162,"name":"Montenegro la Lana","country":"MEX","state":"OAX"},{"id":163,"name":"Nanahuat\u00edpam","country":"MEX","state":"OAX"},{"id":164,"name":"Nativitas","country":"MEX","state":"OAX"},{"id":165,"name":"Nazareno Etla","country":"MEX","state":"OAX"},{"id":166,"name":"Nejapa de Madero","country":"MEX","state":"OAX"},{"id":167,"name":"Niltepec","country":"MEX","state":"OAX"},{"id":168,"name":"Nuevo Ixcatl\u00e1n","country":"MEX","state":"OAX"},{"id":169,"name":"Nuevo Paso Nazareno (Chichicazapa)","country":"MEX","state":"OAX"},{"id":170,"name":"Nuevo San Mart\u00edn","country":"MEX","state":"OAX"},{"id":171,"name":"Oaxaca","country":"MEX","state":"OAX"},{"id":172,"name":"Oaxaca de Ju\u00e1rez","country":"MEX","state":"OAX"},{"id":173,"name":"Ocotl\u00e1n de Morelos","country":"MEX","state":"OAX"},{"id":174,"name":"Palomares","country":"MEX","state":"OAX"},{"id":175,"name":"Papaloapan","country":"MEX","state":"OAX"},{"id":176,"name":"Paso Canoa","country":"MEX","state":"OAX"},{"id":177,"name":"Paso Real de Sarabia","country":"MEX","state":"OAX"},{"id":178,"name":"Pe\u00f1a Colorada","country":"MEX","state":"OAX"},{"id":179,"name":"Piedra Blanca","country":"MEX","state":"OAX"},{"id":180,"name":"Piedra de Amolar","country":"MEX","state":"OAX"},{"id":181,"name":"Pinotepa de Don Luis","country":"MEX","state":"OAX"},{"id":182,"name":"Pinotepa Nacional","country":"MEX","state":"OAX"},{"id":183,"name":"Playa Chica","country":"MEX","state":"OAX"},{"id":184,"name":"Pluma Hidalgo","country":"MEX","state":"OAX"},{"id":185,"name":"Praxedis de Guerrero","country":"MEX","state":"OAX"},{"id":186,"name":"Progreso","country":"MEX","state":"OAX"},{"id":187,"name":"Pueblo Viejo","country":"MEX","state":"OAX"},{"id":188,"name":"Puerto \u00c1ngel","country":"MEX","state":"OAX"},{"id":189,"name":"Puerto Escondido","country":"MEX","state":"OAX"},{"id":190,"name":"Putla Villa de Guerrero","country":"MEX","state":"OAX"},{"id":191,"name":"Quelov\u00e9","country":"MEX","state":"OAX"},{"id":192,"name":"Quinicuena","country":"MEX","state":"OAX"},{"id":193,"name":"Rancho Grande","country":"MEX","state":"OAX"},{"id":194,"name":"Rancho Viejo","country":"MEX","state":"OAX"},{"id":195,"name":"Reforma de Pineda","country":"MEX","state":"OAX"},{"id":196,"name":"Reyes Etla","country":"MEX","state":"OAX"},{"id":197,"name":"Reyes Mantec\u00f3n","country":"MEX","state":"OAX"},{"id":198,"name":"Rinc\u00f3n Moreno","country":"MEX","state":"OAX"},{"id":199,"name":"R\u00edo Chiquito","country":"MEX","state":"OAX"},{"id":200,"name":"R\u00edo Grande","country":"MEX","state":"OAX"},{"id":201,"name":"R\u00edo Pachi\u00f1e","country":"MEX","state":"OAX"},{"id":202,"name":"Rojas de Cuauht\u00e9moc","country":"MEX","state":"OAX"},{"id":203,"name":"Salina Cruz","country":"MEX","state":"OAX"},{"id":204,"name":"San Agust\u00edn Amatengo","country":"MEX","state":"OAX"},{"id":205,"name":"San Agust\u00edn Atenango","country":"MEX","state":"OAX"},{"id":206,"name":"San Agust\u00edn Chayuco","country":"MEX","state":"OAX"},{"id":207,"name":"San Agustin de las Juntas","country":"MEX","state":"OAX"},{"id":208,"name":"San Agust\u00edn Etla","country":"MEX","state":"OAX"},{"id":209,"name":"San Agust\u00edn Loxicha","country":"MEX","state":"OAX"},{"id":210,"name":"San Agust\u00edn Yatareni","country":"MEX","state":"OAX"},{"id":211,"name":"San Andr\u00e9s Chicahuaxtla","country":"MEX","state":"OAX"},{"id":212,"name":"San Andr\u00e9s Dinicuiti","country":"MEX","state":"OAX"},{"id":213,"name":"San Andr\u00e9s Hidalgo","country":"MEX","state":"OAX"},{"id":214,"name":"San Andr\u00e9s Huaxpaltepec","country":"MEX","state":"OAX"},{"id":215,"name":"San Andr\u00e9s Huay\u00e1pam","country":"MEX","state":"OAX"},{"id":216,"name":"San Andr\u00e9s Ixtlahuaca","country":"MEX","state":"OAX"},{"id":217,"name":"San Andr\u00e9s Paxtl\u00e1n","country":"MEX","state":"OAX"},{"id":218,"name":"San Andr\u00e9s Sinaxtla","country":"MEX","state":"OAX"},{"id":219,"name":"San Andr\u00e9s Solaga","country":"MEX","state":"OAX"},{"id":220,"name":"San Andr\u00e9s Teotilalpam","country":"MEX","state":"OAX"},{"id":221,"name":"San Andr\u00e9s Ya\u00e1","country":"MEX","state":"OAX"},{"id":222,"name":"San Andr\u00e9s Zabache","country":"MEX","state":"OAX"},{"id":223,"name":"San Andr\u00e9s Zautla","country":"MEX","state":"OAX"},{"id":224,"name":"San Antonino Castillo Velasco","country":"MEX","state":"OAX"},{"id":225,"name":"San Antonino el Alto","country":"MEX","state":"OAX"},{"id":226,"name":"San Antonino Monte Verde","country":"MEX","state":"OAX"},{"id":227,"name":"San Antonio Arrazola","country":"MEX","state":"OAX"},{"id":228,"name":"San Antonio de la Cal","country":"MEX","state":"OAX"},{"id":229,"name":"San Antonio Huitepec","country":"MEX","state":"OAX"},{"id":230,"name":"San Antonio las Palmas","country":"MEX","state":"OAX"},{"id":231,"name":"San Antonio Ocotl\u00e1n","country":"MEX","state":"OAX"},{"id":232,"name":"San Antonio Tepetlapa","country":"MEX","state":"OAX"},{"id":233,"name":"San Baltazar Chichicapam","country":"MEX","state":"OAX"},{"id":234,"name":"San Baltazar Guelavila","country":"MEX","state":"OAX"},{"id":235,"name":"San Baltazar Loxicha","country":"MEX","state":"OAX"},{"id":236,"name":"San Baltazar Yatzachi el Bajo","country":"MEX","state":"OAX"},{"id":237,"name":"San Bartolo","country":"MEX","state":"OAX"},{"id":238,"name":"San Bartolo Coyotepec","country":"MEX","state":"OAX"},{"id":239,"name":"San Bartolo Coyotespec","country":"MEX","state":"OAX"},{"id":240,"name":"San Bartolo Yautepec","country":"MEX","state":"OAX"},{"id":241,"name":"San Bartolom\u00e9 Ayautla","country":"MEX","state":"OAX"},{"id":242,"name":"San Bartolom\u00e9 Lox\u00edcha","country":"MEX","state":"OAX"},{"id":243,"name":"San Bartolom\u00e9 Quialana","country":"MEX","state":"OAX"},{"id":244,"name":"San Benito Encinal","country":"MEX","state":"OAX"},{"id":245,"name":"San Bernardo Mixtepec","country":"MEX","state":"OAX"},{"id":246,"name":"San Blas Atempa","country":"MEX","state":"OAX"},{"id":247,"name":"San Carlos Yautepec","country":"MEX","state":"OAX"},{"id":248,"name":"San Crist\u00f3bal Amatl\u00e1n","country":"MEX","state":"OAX"},{"id":249,"name":"San Crist\u00f3bal Amoltepec","country":"MEX","state":"OAX"},{"id":250,"name":"San Crist\u00f3bal Honduras","country":"MEX","state":"OAX"},{"id":251,"name":"San Crist\u00f3bal Lachirioag","country":"MEX","state":"OAX"},{"id":252,"name":"San Dionisio del Mar","country":"MEX","state":"OAX"},{"id":253,"name":"San Dionisio Ocotepec","country":"MEX","state":"OAX"},{"id":254,"name":"San Dionisio Ocotl\u00e1n","country":"MEX","state":"OAX"},{"id":255,"name":"San Esteban Atatlahuca","country":"MEX","state":"OAX"},{"id":256,"name":"San Felipe Cihualtepec","country":"MEX","state":"OAX"},{"id":257,"name":"San Felipe Jalapa de D\u00edaz","country":"MEX","state":"OAX"},{"id":258,"name":"San Felipe Tejal\u00e1pam","country":"MEX","state":"OAX"},{"id":259,"name":"San Felipe T\u00edlpam","country":"MEX","state":"OAX"},{"id":260,"name":"San Felipe Usila","country":"MEX","state":"OAX"},{"id":261,"name":"San Francisco Cajonos","country":"MEX","state":"OAX"},{"id":262,"name":"San Francisco Chind\u00faa","country":"MEX","state":"OAX"},{"id":263,"name":"San Francisco Coatl\u00e1n","country":"MEX","state":"OAX"},{"id":264,"name":"San Francisco Cozoaltepec","country":"MEX","state":"OAX"},{"id":265,"name":"San Francisco del Mar","country":"MEX","state":"OAX"},{"id":266,"name":"San Francisco del Mar Viejo","country":"MEX","state":"OAX"},{"id":267,"name":"San Francisco Huehuetl\u00e1n","country":"MEX","state":"OAX"},{"id":268,"name":"San Francisco Ixhuatan","country":"MEX","state":"OAX"},{"id":269,"name":"San Francisco Jaltepetongo","country":"MEX","state":"OAX"},{"id":270,"name":"San Francisco Javier","country":"MEX","state":"OAX"},{"id":271,"name":"San Francisco Lachigol\u00f3","country":"MEX","state":"OAX"},{"id":272,"name":"San Francisco Logueche","country":"MEX","state":"OAX"},{"id":273,"name":"San Francisco Loxicha","country":"MEX","state":"OAX"},{"id":274,"name":"San Francisco Nuxa\u00f1o","country":"MEX","state":"OAX"},{"id":275,"name":"San Francisco Ozolotepec","country":"MEX","state":"OAX"},{"id":276,"name":"San Francisco Sola","country":"MEX","state":"OAX"},{"id":277,"name":"San Francisco Telixtlahuaca","country":"MEX","state":"OAX"},{"id":278,"name":"San Francisco Tutla","country":"MEX","state":"OAX"},{"id":279,"name":"San Gabriel Mixtepec","country":"MEX","state":"OAX"},{"id":280,"name":"San Ildefonso Amatl\u00e1n","country":"MEX","state":"OAX"},{"id":281,"name":"San Ildefonso Villa Alta","country":"MEX","state":"OAX"},{"id":282,"name":"San Isidro Apango","country":"MEX","state":"OAX"},{"id":283,"name":"San Isidro Monjas","country":"MEX","state":"OAX"},{"id":284,"name":"San Jacinto Amilpas","country":"MEX","state":"OAX"},{"id":285,"name":"San Jer\u00f3nimo Coatl\u00e1n","country":"MEX","state":"OAX"},{"id":286,"name":"San Jer\u00f3nimo Silacayoapilla","country":"MEX","state":"OAX"},{"id":287,"name":"San Jer\u00f3nimo Sosola","country":"MEX","state":"OAX"},{"id":288,"name":"San Jer\u00f3nimo Taviche","country":"MEX","state":"OAX"},{"id":289,"name":"San Jer\u00f3nimo Tec\u00f3atl","country":"MEX","state":"OAX"},{"id":290,"name":"San Jer\u00f3nimo Tlacochahuaya","country":"MEX","state":"OAX"},{"id":291,"name":"San Jer\u00f3nimo Yahuiche","country":"MEX","state":"OAX"},{"id":292,"name":"San Jorge Nuchita","country":"MEX","state":"OAX"},{"id":293,"name":"San Jos\u00e9 Ayuquila","country":"MEX","state":"OAX"},{"id":294,"name":"San Jos\u00e9 Chacalapa","country":"MEX","state":"OAX"},{"id":295,"name":"San Jos\u00e9 Chiltepec","country":"MEX","state":"OAX"},{"id":296,"name":"San Jos\u00e9 de las Flores","country":"MEX","state":"OAX"},{"id":297,"name":"San Jos\u00e9 del Progreso","country":"MEX","state":"OAX"},{"id":298,"name":"San Jos\u00e9 Estancia Grande","country":"MEX","state":"OAX"},{"id":299,"name":"San Jos\u00e9 la Garzona","country":"MEX","state":"OAX"},{"id":300,"name":"San Jos\u00e9 Lachiguir\u00ed","country":"MEX","state":"OAX"},{"id":301,"name":"San Jos\u00e9 Piedras Negras","country":"MEX","state":"OAX"},{"id":302,"name":"San Jos\u00e9 R\u00edo Manzo","country":"MEX","state":"OAX"},{"id":303,"name":"San Jos\u00e9 Tenango","country":"MEX","state":"OAX"},{"id":304,"name":"San Juan Achiutla","country":"MEX","state":"OAX"},{"id":305,"name":"San Juan Atepec","country":"MEX","state":"OAX"},{"id":306,"name":"San Juan Bautista Jayacatl\u00e1n","country":"MEX","state":"OAX"},{"id":307,"name":"San Juan Bautista la Raya","country":"MEX","state":"OAX"},{"id":308,"name":"San Juan Bautista Lo de Soto","country":"MEX","state":"OAX"},{"id":309,"name":"San Juan Cabeza del R\u00edo","country":"MEX","state":"OAX"},{"id":310,"name":"San Juan Cacahuatepec","country":"MEX","state":"OAX"},{"id":311,"name":"San Juan Chilateca","country":"MEX","state":"OAX"},{"id":312,"name":"San Juan Coatzospam","country":"MEX","state":"OAX"},{"id":313,"name":"San Juan Colorado","country":"MEX","state":"OAX"},{"id":314,"name":"San Juan Cotzoc\u00f3n","country":"MEX","state":"OAX"},{"id":315,"name":"San Juan de los Cues","country":"MEX","state":"OAX"},{"id":316,"name":"San Juan del Estado","country":"MEX","state":"OAX"},{"id":317,"name":"San Juan del R\u00edo","country":"MEX","state":"OAX"},{"id":318,"name":"San Juan Diuxi","country":"MEX","state":"OAX"},{"id":319,"name":"San Juan Guelav\u00eda","country":"MEX","state":"OAX"},{"id":320,"name":"San Juan Guichicovi","country":"MEX","state":"OAX"},{"id":321,"name":"San Juan Ihualtepec","country":"MEX","state":"OAX"},{"id":322,"name":"San Juan Jaltepec","country":"MEX","state":"OAX"},{"id":323,"name":"San Juan Jicay\u00e1n","country":"MEX","state":"OAX"},{"id":324,"name":"San Juan Juquila","country":"MEX","state":"OAX"},{"id":325,"name":"San Juan Juquila Vijanos","country":"MEX","state":"OAX"},{"id":326,"name":"San Juan Lachao","country":"MEX","state":"OAX"},{"id":327,"name":"San Ju\u00e1n Lachigalla","country":"MEX","state":"OAX"},{"id":328,"name":"San Juan Lagunas","country":"MEX","state":"OAX"},{"id":329,"name":"San Juan Mazatl\u00e1n","country":"MEX","state":"OAX"},{"id":330,"name":"San Juan Metaltepec","country":"MEX","state":"OAX"},{"id":331,"name":"San Juan Mixtepec -Dto. 08 -","country":"MEX","state":"OAX"},{"id":332,"name":"San Juan Mixtepec -Dto. 26 -","country":"MEX","state":"OAX"},{"id":333,"name":"San Juan \u00d1um\u00ed","country":"MEX","state":"OAX"},{"id":334,"name":"San Juan Ozolotepec","country":"MEX","state":"OAX"},{"id":335,"name":"San Juan Petlapa","country":"MEX","state":"OAX"},{"id":336,"name":"San Juan Quiahue","country":"MEX","state":"OAX"},{"id":337,"name":"San Juan Quiotepec","country":"MEX","state":"OAX"},{"id":338,"name":"San Juan Sautla","country":"MEX","state":"OAX"},{"id":339,"name":"San Juan Sayultepec","country":"MEX","state":"OAX"},{"id":340,"name":"San Juan Taba\u00e1","country":"MEX","state":"OAX"},{"id":341,"name":"San Juan Teitipac","country":"MEX","state":"OAX"},{"id":342,"name":"San Juan Teposcolula","country":"MEX","state":"OAX"},{"id":343,"name":"San Juan Yaee","country":"MEX","state":"OAX"},{"id":344,"name":"San Juan Yatzona","country":"MEX","state":"OAX"},{"id":345,"name":"San Juan Zapotitl\u00e1n","country":"MEX","state":"OAX"},{"id":346,"name":"San Lorenzo","country":"MEX","state":"OAX"},{"id":347,"name":"San Lorenzo Albarradas","country":"MEX","state":"OAX"},{"id":348,"name":"San Lorenzo Cacaotepec","country":"MEX","state":"OAX"},{"id":349,"name":"San Lorenzo Cuaunecuiltitla","country":"MEX","state":"OAX"},{"id":350,"name":"San Lorenzo Victoria","country":"MEX","state":"OAX"},{"id":351,"name":"San Lorenzo Vista Hermosa","country":"MEX","state":"OAX"},{"id":352,"name":"San Lucas Camotl\u00e1n","country":"MEX","state":"OAX"},{"id":353,"name":"San Lucas Ojitl\u00e1n","country":"MEX","state":"OAX"},{"id":354,"name":"San Lucas Quiavini","country":"MEX","state":"OAX"},{"id":355,"name":"San Lucas Zoqui\u00e1pam","country":"MEX","state":"OAX"},{"id":356,"name":"San Luis Amatl\u00e1n","country":"MEX","state":"OAX"},{"id":357,"name":"San Marcial Ozolotepec","country":"MEX","state":"OAX"},{"id":358,"name":"San Marcos Arteaga","country":"MEX","state":"OAX"},{"id":359,"name":"San Marcos Zacatepec","country":"MEX","state":"OAX"},{"id":360,"name":"San Mart\u00edn de los Canseco","country":"MEX","state":"OAX"},{"id":361,"name":"San Mart\u00edn Itunyoso","country":"MEX","state":"OAX"},{"id":362,"name":"San Mart\u00edn Lachila","country":"MEX","state":"OAX"},{"id":363,"name":"San Mart\u00edn Tilcajete","country":"MEX","state":"OAX"},{"id":364,"name":"San Mateo Cajonos","country":"MEX","state":"OAX"},{"id":365,"name":"San Mateo del Mar","country":"MEX","state":"OAX"},{"id":366,"name":"San Mateo Etlatongo","country":"MEX","state":"OAX"},{"id":367,"name":"San Mateo Nej\u00e1pam","country":"MEX","state":"OAX"},{"id":368,"name":"San Mateo Pi\u00f1as","country":"MEX","state":"OAX"},{"id":369,"name":"San Mateo Sindihui","country":"MEX","state":"OAX"},{"id":370,"name":"San Mateo Yoloxochitl\u00e1n","country":"MEX","state":"OAX"},{"id":371,"name":"San Melchor Betaza","country":"MEX","state":"OAX"},{"id":372,"name":"San Miguel Abejones","country":"MEX","state":"OAX"},{"id":373,"name":"San Miguel Achiutla","country":"MEX","state":"OAX"},{"id":374,"name":"San Miguel Alo\u00e1pam","country":"MEX","state":"OAX"},{"id":375,"name":"San Miguel Chimalapa","country":"MEX","state":"OAX"},{"id":376,"name":"San Miguel Coatl\u00e1n","country":"MEX","state":"OAX"},{"id":377,"name":"San Miguel del Puerto","country":"MEX","state":"OAX"},{"id":378,"name":"San Miguel del Valle","country":"MEX","state":"OAX"},{"id":379,"name":"San Miguel Ejutla","country":"MEX","state":"OAX"},{"id":380,"name":"San Miguel el Grande","country":"MEX","state":"OAX"},{"id":381,"name":"San Miguel el Grande Villa Ju\u00e1rez","country":"MEX","state":"OAX"},{"id":382,"name":"San Miguel Figueroa","country":"MEX","state":"OAX"},{"id":383,"name":"San Miguel Mixtepec","country":"MEX","state":"OAX"},{"id":384,"name":"San Miguel Monteverde","country":"MEX","state":"OAX"},{"id":385,"name":"San Miguel Panixtlahuaca","country":"MEX","state":"OAX"},{"id":386,"name":"San Miguel Peras","country":"MEX","state":"OAX"},{"id":387,"name":"San Miguel Quetzaltepec","country":"MEX","state":"OAX"},{"id":388,"name":"San Miguel Suchixtepec","country":"MEX","state":"OAX"},{"id":389,"name":"San Miguel Tecomatl\u00e1n","country":"MEX","state":"OAX"},{"id":390,"name":"San Miguel Tenango","country":"MEX","state":"OAX"},{"id":391,"name":"San Miguel Tetepelcingo","country":"MEX","state":"OAX"},{"id":392,"name":"San Miguel Tilquiapam","country":"MEX","state":"OAX"},{"id":393,"name":"San Miguel Tlacamama","country":"MEX","state":"OAX"},{"id":394,"name":"San Miguel Tlacotepec","country":"MEX","state":"OAX"},{"id":395,"name":"San Nicol\u00e1s","country":"MEX","state":"OAX"},{"id":396,"name":"San Nicol\u00e1s Quialana","country":"MEX","state":"OAX"},{"id":397,"name":"San Pablo Coatl\u00e1n","country":"MEX","state":"OAX"},{"id":398,"name":"San Pablo Cuatro Venados","country":"MEX","state":"OAX"},{"id":399,"name":"San Pablo Etla","country":"MEX","state":"OAX"},{"id":400,"name":"San Pablo G\u00fcil\u00e1","country":"MEX","state":"OAX"},{"id":401,"name":"San Pablo Huitzo","country":"MEX","state":"OAX"},{"id":402,"name":"San Pablo Huixtepec","country":"MEX","state":"OAX"},{"id":403,"name":"San Pablo Macuiltianguis","country":"MEX","state":"OAX"},{"id":404,"name":"San Pablo Villa de Mitla","country":"MEX","state":"OAX"},{"id":405,"name":"San Pedro Amuzgos","country":"MEX","state":"OAX"},{"id":406,"name":"San Pedro Ap\u00f3stol","country":"MEX","state":"OAX"},{"id":407,"name":"San Pedro Atoyac","country":"MEX","state":"OAX"},{"id":408,"name":"San Pedro Comitancillo","country":"MEX","state":"OAX"},{"id":409,"name":"San Pedro Coxcaltepec C\u00e1ntaros","country":"MEX","state":"OAX"},{"id":410,"name":"San Pedro el Alto","country":"MEX","state":"OAX"},{"id":411,"name":"San Pedro Huamelula","country":"MEX","state":"OAX"},{"id":412,"name":"San Pedro Huilotepec","country":"MEX","state":"OAX"},{"id":413,"name":"San Pedro Ixcatl\u00e1n","country":"MEX","state":"OAX"},{"id":414,"name":"San Pedro Ixtlahuaca","country":"MEX","state":"OAX"},{"id":415,"name":"San Pedro Jicay\u00e1n","country":"MEX","state":"OAX"},{"id":416,"name":"San Pedro Juchaltengo","country":"MEX","state":"OAX"},{"id":417,"name":"San Pedro Martir","country":"MEX","state":"OAX"},{"id":418,"name":"San Pedro M\u00e1rtir Quiechapa","country":"MEX","state":"OAX"},{"id":419,"name":"San Pedro M\u00e1rtir Yucuxaco","country":"MEX","state":"OAX"},{"id":420,"name":"San Pedro Mixtepec","country":"MEX","state":"OAX"},{"id":421,"name":"San Pedro Ocopetatillo","country":"MEX","state":"OAX"},{"id":422,"name":"San Pedro Ocotepec","country":"MEX","state":"OAX"},{"id":423,"name":"San Pedro Ozumac\u00edn","country":"MEX","state":"OAX"},{"id":424,"name":"San Pedro Pochutla","country":"MEX","state":"OAX"},{"id":425,"name":"San Pedro Quiatoni","country":"MEX","state":"OAX"},{"id":426,"name":"San Pedro Sochi\u00e1pam","country":"MEX","state":"OAX"},{"id":427,"name":"San Pedro Tapanatepec","country":"MEX","state":"OAX"},{"id":428,"name":"San Pedro Taviche","country":"MEX","state":"OAX"},{"id":429,"name":"San Pedro Teutila","country":"MEX","state":"OAX"},{"id":430,"name":"San Pedro Tida\u00e1","country":"MEX","state":"OAX"},{"id":431,"name":"San Pedro Topiltepec","country":"MEX","state":"OAX"},{"id":432,"name":"San Pedro Totol\u00e1pam","country":"MEX","state":"OAX"},{"id":433,"name":"San Pedro Tulixtlahuaca","country":"MEX","state":"OAX"},{"id":434,"name":"San Pedro y San Pablo Teposcolula","country":"MEX","state":"OAX"},{"id":435,"name":"San Pedro y San Pablo Tequistepec","country":"MEX","state":"OAX"},{"id":436,"name":"San Pedro Y\u00f3lox","country":"MEX","state":"OAX"},{"id":437,"name":"San Raymundo Jalpam","country":"MEX","state":"OAX"},{"id":438,"name":"San Roque","country":"MEX","state":"OAX"},{"id":439,"name":"San Sebasti\u00e1n Abasolo","country":"MEX","state":"OAX"},{"id":440,"name":"San Sebasti\u00e1n Coatl\u00e1n","country":"MEX","state":"OAX"},{"id":441,"name":"San Sebasti\u00e1n del Monte","country":"MEX","state":"OAX"},{"id":442,"name":"San Sebasti\u00e1n Etla","country":"MEX","state":"OAX"},{"id":443,"name":"San Sebasti\u00e1n Ixcapa","country":"MEX","state":"OAX"},{"id":444,"name":"San Sebasti\u00e1n Nicananduta","country":"MEX","state":"OAX"},{"id":445,"name":"San Sebasti\u00e1n Nopalera","country":"MEX","state":"OAX"},{"id":446,"name":"San Sebasti\u00e1n R\u00edo Hondo","country":"MEX","state":"OAX"},{"id":447,"name":"San Sebasti\u00e1n Tecomaxtlahuaca","country":"MEX","state":"OAX"},{"id":448,"name":"San Sebastian Teitipac","country":"MEX","state":"OAX"},{"id":449,"name":"San Sebasti\u00e1n Tutla","country":"MEX","state":"OAX"},{"id":450,"name":"San Sim\u00f3n Almolongas","country":"MEX","state":"OAX"},{"id":451,"name":"San Vicente Coatl\u00e1n","country":"MEX","state":"OAX"},{"id":452,"name":"San Vicente Lachix\u00edo","country":"MEX","state":"OAX"},{"id":453,"name":"San Vicente Nu\u00f1u","country":"MEX","state":"OAX"},{"id":454,"name":"San Vicente Pi\u00f1as","country":"MEX","state":"OAX"},{"id":455,"name":"Santa Ana","country":"MEX","state":"OAX"},{"id":456,"name":"Santa Ana del Valle","country":"MEX","state":"OAX"},{"id":457,"name":"Santa Ana Tlapacoyan","country":"MEX","state":"OAX"},{"id":458,"name":"Santa Ana Zegache","country":"MEX","state":"OAX"},{"id":459,"name":"Santa Catalina Quier\u00ed","country":"MEX","state":"OAX"},{"id":460,"name":"Santa Catarina Cuixtla","country":"MEX","state":"OAX"},{"id":461,"name":"Santa Catarina Juquila","country":"MEX","state":"OAX"},{"id":462,"name":"Santa Catarina Loxicha","country":"MEX","state":"OAX"},{"id":463,"name":"Santa Catarina Mechoac\u00e1n","country":"MEX","state":"OAX"},{"id":464,"name":"Santa Catarina Minas","country":"MEX","state":"OAX"},{"id":465,"name":"Santa Catarina Quian\u00e9","country":"MEX","state":"OAX"},{"id":466,"name":"Santa Catarina Roatina","country":"MEX","state":"OAX"},{"id":467,"name":"Santa Catarina Tayata","country":"MEX","state":"OAX"},{"id":468,"name":"Santa Cecilia Jalieza","country":"MEX","state":"OAX"},{"id":469,"name":"Santa Cruz Acatepec","country":"MEX","state":"OAX"},{"id":470,"name":"Santa Cruz Amilpas","country":"MEX","state":"OAX"},{"id":471,"name":"Santa Cruz de Bravo","country":"MEX","state":"OAX"},{"id":472,"name":"Santa Cruz de Ju\u00e1rez","country":"MEX","state":"OAX"},{"id":473,"name":"Santa Cruz Lachixolana","country":"MEX","state":"OAX"},{"id":474,"name":"Santa Cruz Mixtepec","country":"MEX","state":"OAX"},{"id":475,"name":"Santa Cruz Nundaco","country":"MEX","state":"OAX"},{"id":476,"name":"Santa Cruz Ozolotepec","country":"MEX","state":"OAX"},{"id":477,"name":"Santa Cruz Papalutla","country":"MEX","state":"OAX"},{"id":478,"name":"Santa Cruz Tacache de Mina","country":"MEX","state":"OAX"},{"id":479,"name":"Santa Cruz Tayata","country":"MEX","state":"OAX"},{"id":480,"name":"Santa Cruz Xitla","country":"MEX","state":"OAX"},{"id":481,"name":"Santa Cruz Xoxocotl\u00e1n","country":"MEX","state":"OAX"},{"id":482,"name":"Santa Fe y la Mar","country":"MEX","state":"OAX"},{"id":483,"name":"Santa Gertrudis","country":"MEX","state":"OAX"},{"id":484,"name":"Santa In\u00e9s de Zaragoza","country":"MEX","state":"OAX"},{"id":485,"name":"Santa In\u00e9s del Monte","country":"MEX","state":"OAX"},{"id":486,"name":"Santa In\u00e9s Yatzeche","country":"MEX","state":"OAX"},{"id":487,"name":"Santa Luc\u00eda","country":"MEX","state":"OAX"},{"id":488,"name":"Santa Luc\u00eda del Camino","country":"MEX","state":"OAX"},{"id":489,"name":"Santa Luc\u00eda Ocotl\u00e1n","country":"MEX","state":"OAX"},{"id":490,"name":"Santa Luc\u00eda Teotepec","country":"MEX","state":"OAX"},{"id":491,"name":"Santa Magdalena Jicotl\u00e1n","country":"MEX","state":"OAX"},{"id":492,"name":"Santa Margarita Huitepec","country":"MEX","state":"OAX"},{"id":493,"name":"Santa Mar\u00eda Acatepec","country":"MEX","state":"OAX"},{"id":494,"name":"Santa Mar\u00eda Alotepec","country":"MEX","state":"OAX"},{"id":495,"name":"Santa Mar\u00eda Apazco","country":"MEX","state":"OAX"},{"id":496,"name":"Santa Mar\u00eda Atzompa","country":"MEX","state":"OAX"},{"id":497,"name":"Santa Mar\u00eda Camotl\u00e1n","country":"MEX","state":"OAX"},{"id":498,"name":"Santa Mar\u00eda Chacho\u00e1pam","country":"MEX","state":"OAX"},{"id":499,"name":"Santa Mar\u00eda Chico Ometepec","country":"MEX","state":"OAX"},{"id":500,"name":"Santa Mar\u00eda Chilapa de D\u00edaz","country":"MEX","state":"OAX"},{"id":501,"name":"Santa Mar\u00eda Chimalapa","country":"MEX","state":"OAX"},{"id":502,"name":"Santa Mar\u00eda Colotepec","country":"MEX","state":"OAX"},{"id":503,"name":"Santa Mar\u00eda Cortijo","country":"MEX","state":"OAX"},{"id":504,"name":"Santa Mar\u00eda Coyotepec","country":"MEX","state":"OAX"},{"id":505,"name":"Santa Mar\u00eda del Rosario","country":"MEX","state":"OAX"},{"id":506,"name":"Santa Mar\u00eda del Tule","country":"MEX","state":"OAX"},{"id":507,"name":"Santa Mar\u00eda Ecatepec","country":"MEX","state":"OAX"},{"id":508,"name":"Santa Mar\u00eda Guelac\u00e9","country":"MEX","state":"OAX"},{"id":509,"name":"Santa Mar\u00eda Guenagati","country":"MEX","state":"OAX"},{"id":510,"name":"Santa Mar\u00eda Huamelula","country":"MEX","state":"OAX"},{"id":511,"name":"Santa Mar\u00eda Huatulco","country":"MEX","state":"OAX"},{"id":512,"name":"Santa Mar\u00eda Huazolotitl\u00e1n","country":"MEX","state":"OAX"},{"id":513,"name":"Santa Mar\u00eda Ipalapa","country":"MEX","state":"OAX"},{"id":514,"name":"Santa Mar\u00eda Jacatepec","country":"MEX","state":"OAX"},{"id":515,"name":"Santa Mar\u00eda Jalapa del Marqu\u00e9s","country":"MEX","state":"OAX"},{"id":516,"name":"Santa Mar\u00eda Jicaltepec","country":"MEX","state":"OAX"},{"id":517,"name":"Santa Mar\u00eda la Asunci\u00f3n","country":"MEX","state":"OAX"},{"id":518,"name":"Santa Mar\u00eda Lachix\u00edo","country":"MEX","state":"OAX"},{"id":519,"name":"Santa Mar\u00eda Mixtequilla","country":"MEX","state":"OAX"},{"id":520,"name":"Santa Mar\u00eda Nativitas","country":"MEX","state":"OAX"},{"id":521,"name":"Santa Mar\u00eda Nduayaco","country":"MEX","state":"OAX"},{"id":522,"name":"Santa Mar\u00eda P\u00e1palo","country":"MEX","state":"OAX"},{"id":523,"name":"Santa Mar\u00eda Petapa","country":"MEX","state":"OAX"},{"id":524,"name":"Santa Mar\u00eda Puxmetac\u00e1n","country":"MEX","state":"OAX"},{"id":525,"name":"Santa Mar\u00eda Quiegolani","country":"MEX","state":"OAX"},{"id":526,"name":"Santa Mar\u00eda Sola","country":"MEX","state":"OAX"},{"id":527,"name":"Santa Mar\u00eda Temaxcalapa","country":"MEX","state":"OAX"},{"id":528,"name":"Santa Mar\u00eda Temaxcaltepec","country":"MEX","state":"OAX"},{"id":529,"name":"Santa Mar\u00eda Teopoxco","country":"MEX","state":"OAX"},{"id":530,"name":"Santa Mar\u00eda Tepantlali","country":"MEX","state":"OAX"},{"id":531,"name":"Santa Mar\u00eda Tiltepec","country":"MEX","state":"OAX"},{"id":532,"name":"Santa Mar\u00eda Tlalixtac","country":"MEX","state":"OAX"},{"id":533,"name":"Santa Mar\u00eda Tonameca","country":"MEX","state":"OAX"},{"id":534,"name":"Santa Mar\u00eda Velato","country":"MEX","state":"OAX"},{"id":535,"name":"Santa Mar\u00eda Xadani","country":"MEX","state":"OAX"},{"id":536,"name":"Santa Mar\u00eda Yaves\u00eda","country":"MEX","state":"OAX"},{"id":537,"name":"Santa Mar\u00eda Yolotepec","country":"MEX","state":"OAX"},{"id":538,"name":"Santa Mar\u00eda Yucuhiti","country":"MEX","state":"OAX"},{"id":539,"name":"Santa Mar\u00eda Yucunicoco","country":"MEX","state":"OAX"},{"id":540,"name":"Santa Mar\u00eda Zacatepec","country":"MEX","state":"OAX"},{"id":541,"name":"Santa Mar\u00eda Zaniza","country":"MEX","state":"OAX"},{"id":542,"name":"Santa Mar\u00eda Zapotitl\u00e1n","country":"MEX","state":"OAX"},{"id":543,"name":"Santa Mar\u00eda Zoquitl\u00e1n","country":"MEX","state":"OAX"},{"id":544,"name":"Santa Martha Chichihualtepec","country":"MEX","state":"OAX"},{"id":545,"name":"Santa Rosa","country":"MEX","state":"OAX"},{"id":546,"name":"Santa Rosa Caxtlahuaca","country":"MEX","state":"OAX"},{"id":547,"name":"Santa Rosa de Lima","country":"MEX","state":"OAX"},{"id":548,"name":"Santiago Amoltepec","country":"MEX","state":"OAX"},{"id":549,"name":"Santiago Apostol","country":"MEX","state":"OAX"},{"id":550,"name":"Santiago Astata","country":"MEX","state":"OAX"},{"id":551,"name":"Santiago Ayuquililla","country":"MEX","state":"OAX"},{"id":552,"name":"Santiago Cacaloxtepec","country":"MEX","state":"OAX"},{"id":553,"name":"Santiago Chazumba","country":"MEX","state":"OAX"},{"id":554,"name":"Santiago Chilixtlahuaca","country":"MEX","state":"OAX"},{"id":555,"name":"Santiago Cho\u00e1pam","country":"MEX","state":"OAX"},{"id":556,"name":"Santiago Comaltepec","country":"MEX","state":"OAX"},{"id":557,"name":"Santiago Cuixtla","country":"MEX","state":"OAX"},{"id":558,"name":"Santiago del R\u00edo","country":"MEX","state":"OAX"},{"id":559,"name":"Santiago Etla","country":"MEX","state":"OAX"},{"id":560,"name":"Santiago Huajolotitl\u00e1n","country":"MEX","state":"OAX"},{"id":561,"name":"Santiago Huauclilla","country":"MEX","state":"OAX"},{"id":562,"name":"Santiago Huaxolotipac","country":"MEX","state":"OAX"},{"id":563,"name":"Santiago Ihuitl\u00e1n Plumas","country":"MEX","state":"OAX"},{"id":564,"name":"Santiago Ixcuintepec","country":"MEX","state":"OAX"},{"id":565,"name":"Santiago Ixtaltepec","country":"MEX","state":"OAX"},{"id":566,"name":"Santiago Ixtayutla","country":"MEX","state":"OAX"},{"id":567,"name":"Santiago Jicay\u00e1n","country":"MEX","state":"OAX"},{"id":568,"name":"Santiago Jocotepec","country":"MEX","state":"OAX"},{"id":569,"name":"Santiago Juxtlahuaca","country":"MEX","state":"OAX"},{"id":570,"name":"Santiago Lachiguiri","country":"MEX","state":"OAX"},{"id":571,"name":"Santiago Lalopa","country":"MEX","state":"OAX"},{"id":572,"name":"Santiago Laollaga","country":"MEX","state":"OAX"},{"id":573,"name":"Santiago Laxopa","country":"MEX","state":"OAX"},{"id":574,"name":"Santiago Llano Grande","country":"MEX","state":"OAX"},{"id":575,"name":"Santiago Malacatepec","country":"MEX","state":"OAX"},{"id":576,"name":"Santiago Matatl\u00e1n","country":"MEX","state":"OAX"},{"id":577,"name":"Santiago Miltepec","country":"MEX","state":"OAX"},{"id":578,"name":"Santiago Nejapilla","country":"MEX","state":"OAX"},{"id":579,"name":"Santiago Niltepec","country":"MEX","state":"OAX"},{"id":580,"name":"Santiago Nundiche","country":"MEX","state":"OAX"},{"id":581,"name":"Santiago Nuyo\u00f3","country":"MEX","state":"OAX"},{"id":582,"name":"Santiago Quiavicuzas","country":"MEX","state":"OAX"},{"id":583,"name":"Santiago Suchilquitongo","country":"MEX","state":"OAX"},{"id":584,"name":"Santiago Tenango","country":"MEX","state":"OAX"},{"id":585,"name":"Santiago Tepextla","country":"MEX","state":"OAX"},{"id":586,"name":"Santiago Tetepec","country":"MEX","state":"OAX"},{"id":587,"name":"Santiago Texcalcingo","country":"MEX","state":"OAX"},{"id":588,"name":"Santiago Textitl\u00e1n","country":"MEX","state":"OAX"},{"id":589,"name":"Santiago Tilantongo","country":"MEX","state":"OAX"},{"id":590,"name":"Santiago Tillo","country":"MEX","state":"OAX"},{"id":591,"name":"Santiago Xanica","country":"MEX","state":"OAX"},{"id":592,"name":"Santiago Yaitepec","country":"MEX","state":"OAX"},{"id":593,"name":"Santiago Yogana","country":"MEX","state":"OAX"},{"id":594,"name":"Santiago Yolom\u00e9catl","country":"MEX","state":"OAX"},{"id":595,"name":"Santiago Yosond\u00faa","country":"MEX","state":"OAX"},{"id":596,"name":"Santiago Zacatepec","country":"MEX","state":"OAX"},{"id":597,"name":"Santiago Zoochila","country":"MEX","state":"OAX"},{"id":598,"name":"Santo Domingo Albarradas","country":"MEX","state":"OAX"},{"id":599,"name":"Santo Domingo Armenta","country":"MEX","state":"OAX"},{"id":600,"name":"Santo Domingo Chihuit\u00e1n","country":"MEX","state":"OAX"},{"id":601,"name":"Santo Domingo de Morelos","country":"MEX","state":"OAX"},{"id":602,"name":"Santo Domingo Jalieza","country":"MEX","state":"OAX"},{"id":603,"name":"Santo Domingo Ozolotepec","country":"MEX","state":"OAX"},{"id":604,"name":"Santo Domingo Petapa","country":"MEX","state":"OAX"},{"id":605,"name":"Santo Domingo Roayaga","country":"MEX","state":"OAX"},{"id":606,"name":"Santo Domingo Tehuantepec","country":"MEX","state":"OAX"},{"id":607,"name":"Santo Domingo Tepuxtepec","country":"MEX","state":"OAX"},{"id":608,"name":"Santo Domingo Tlatayapam","country":"MEX","state":"OAX"},{"id":609,"name":"Santo Domingo Tomaltepec","country":"MEX","state":"OAX"},{"id":610,"name":"Santo Domingo Tonal\u00e1","country":"MEX","state":"OAX"},{"id":611,"name":"Santo Domingo Yanhuitl\u00e1n","country":"MEX","state":"OAX"},{"id":612,"name":"Santo Domingo Yodohino","country":"MEX","state":"OAX"},{"id":613,"name":"Santo Domingo Zanatepec","country":"MEX","state":"OAX"},{"id":614,"name":"Santo Tom\u00e1s","country":"MEX","state":"OAX"},{"id":615,"name":"Santo Tom\u00e1s Jalieza","country":"MEX","state":"OAX"},{"id":616,"name":"Santo Tom\u00e1s Mazaltepec","country":"MEX","state":"OAX"},{"id":617,"name":"Santo Tom\u00e1s Ocotepec","country":"MEX","state":"OAX"},{"id":618,"name":"Santo Tom\u00e1s Tamazulapam","country":"MEX","state":"OAX"},{"id":619,"name":"Santos Reyes Nopala","country":"MEX","state":"OAX"},{"id":620,"name":"Santos Reyes P\u00e1palo","country":"MEX","state":"OAX"},{"id":621,"name":"Santos Reyes Tepejillo","country":"MEX","state":"OAX"},{"id":622,"name":"Santos Reyes Yucun\u00e1","country":"MEX","state":"OAX"},{"id":623,"name":"Sector H Tres","country":"MEX","state":"OAX"},{"id":624,"name":"Silacayo\u00e1pam","country":"MEX","state":"OAX"},{"id":625,"name":"Sitio de Xitlapehua","country":"MEX","state":"OAX"},{"id":626,"name":"Soledad Etla","country":"MEX","state":"OAX"},{"id":627,"name":"Soledad Salinas","country":"MEX","state":"OAX"},{"id":628,"name":"Tamazola","country":"MEX","state":"OAX"},{"id":629,"name":"Tamazul\u00e1pam del Esp\u00edritu Santo","country":"MEX","state":"OAX"},{"id":630,"name":"Tamazulapam Villa del Progreso","country":"MEX","state":"OAX"},{"id":631,"name":"Tanetze de Zaragoza","country":"MEX","state":"OAX"},{"id":632,"name":"Taniche","country":"MEX","state":"OAX"},{"id":633,"name":"Tapanal\u00e1","country":"MEX","state":"OAX"},{"id":634,"name":"Tatahuicap\u00e1","country":"MEX","state":"OAX"},{"id":635,"name":"Tataltepec de Vald\u00e9s","country":"MEX","state":"OAX"},{"id":636,"name":"Tecomavaca","country":"MEX","state":"OAX"},{"id":637,"name":"Temascal","country":"MEX","state":"OAX"},{"id":638,"name":"Teococuilco de Marcos P\u00e9rez","country":"MEX","state":"OAX"},{"id":639,"name":"Teojomulco","country":"MEX","state":"OAX"},{"id":640,"name":"Teotitl\u00e1n","country":"MEX","state":"OAX"},{"id":641,"name":"Teotitl\u00e1n del Valle","country":"MEX","state":"OAX"},{"id":642,"name":"Tepenixtlahuaca","country":"MEX","state":"OAX"},{"id":643,"name":"Tepetlapa","country":"MEX","state":"OAX"},{"id":644,"name":"Tetela","country":"MEX","state":"OAX"},{"id":645,"name":"Texcatitl\u00e1n","country":"MEX","state":"OAX"},{"id":646,"name":"Texmelucan","country":"MEX","state":"OAX"},{"id":647,"name":"Tezoatl\u00e1n de Segura y Luna","country":"MEX","state":"OAX"},{"id":648,"name":"Tlachichilco","country":"MEX","state":"OAX"},{"id":649,"name":"Tlacoatzintepec","country":"MEX","state":"OAX"},{"id":650,"name":"Tlacolula de Matamoros","country":"MEX","state":"OAX"},{"id":651,"name":"Tlahuitoltepec","country":"MEX","state":"OAX"},{"id":652,"name":"Tlalixtac de Cabrera","country":"MEX","state":"OAX"},{"id":653,"name":"Totontepec Villa de Morelos","country":"MEX","state":"OAX"},{"id":654,"name":"Toxpalan","country":"MEX","state":"OAX"},{"id":655,"name":"Trinidad de Viguera","country":"MEX","state":"OAX"},{"id":656,"name":"Trinidad Zaachila","country":"MEX","state":"OAX"},{"id":657,"name":"Tuxtepec","country":"MEX","state":"OAX"},{"id":658,"name":"Uni\u00f3n Hidalgo","country":"MEX","state":"OAX"},{"id":659,"name":"Valdeflores","country":"MEX","state":"OAX"},{"id":660,"name":"Valerio Trujano","country":"MEX","state":"OAX"},{"id":661,"name":"Valle Nacional","country":"MEX","state":"OAX"},{"id":662,"name":"Vega del Sol","country":"MEX","state":"OAX"},{"id":663,"name":"Vicente Camalote","country":"MEX","state":"OAX"},{"id":664,"name":"Vicente Guerrero","country":"MEX","state":"OAX"},{"id":665,"name":"Villa Chalcatongo de Hidalgo","country":"MEX","state":"OAX"},{"id":666,"name":"Villa de Etla","country":"MEX","state":"OAX"},{"id":667,"name":"Villa de Tamazul\u00e1pam del Progreso","country":"MEX","state":"OAX"},{"id":668,"name":"Villa de Tututepec de Melchor Ocampo","country":"MEX","state":"OAX"},{"id":669,"name":"Villa de Zaachila","country":"MEX","state":"OAX"},{"id":670,"name":"Villa D\u00edaz Ordaz","country":"MEX","state":"OAX"},{"id":671,"name":"Villa Hidalgo","country":"MEX","state":"OAX"},{"id":672,"name":"Villa Sola de Vega","country":"MEX","state":"OAX"},{"id":673,"name":"Villa Talea de Castro","country":"MEX","state":"OAX"},{"id":674,"name":"Villa Tej\u00fapam de la Uni\u00f3n","country":"MEX","state":"OAX"},{"id":675,"name":"Vista Hermosa","country":"MEX","state":"OAX"},{"id":676,"name":"Xaaga","country":"MEX","state":"OAX"},{"id":677,"name":"Xagac\u00eda","country":"MEX","state":"OAX"},{"id":678,"name":"Xochitonalco","country":"MEX","state":"OAX"},{"id":679,"name":"Yaganiza","country":"MEX","state":"OAX"},{"id":680,"name":"Yalina","country":"MEX","state":"OAX"},{"id":681,"name":"Yatzachi","country":"MEX","state":"OAX"},{"id":682,"name":"Yaxe","country":"MEX","state":"OAX"},{"id":683,"name":"Yetla de Ju\u00e1rez","country":"MEX","state":"OAX"},{"id":684,"name":"Yucuita","country":"MEX","state":"OAX"},{"id":685,"name":"Yutanduchi de Guerrero","country":"MEX","state":"OAX"},{"id":686,"name":"Zacatal","country":"MEX","state":"OAX"},{"id":687,"name":"Zapotitl\u00e1n Lagunas","country":"MEX","state":"OAX"},{"id":688,"name":"Zapotitl\u00e1n Palmas","country":"MEX","state":"OAX"},{"id":689,"name":"Zaragoza","country":"MEX","state":"OAX"},{"id":690,"name":"Zarzal","country":"MEX","state":"OAX"},{"id":691,"name":"Zimatl\u00e1n de \u00c1lvarez","country":"MEX","state":"OAX"},{"id":692,"name":"Zocoteaca de Le\u00f3n","country":"MEX","state":"OAX"},{"id":693,"name":"Zona Urbana Ejidal","country":"MEX","state":"OAX"}]
+[
+    {
+        "id": 68052,
+        "name": "Acatlán de Pérez Figueroa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68121,
+        "name": "Agua del Espino",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68155,
+        "name": "Ahuehuetitlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68173,
+        "name": "Albarradas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68212,
+        "name": "Almolonga",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76394,
+        "name": "Álvaro Obregón",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68275,
+        "name": "Animas Trujano",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68310,
+        "name": "Apoala",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68356,
+        "name": "Arroyo Chical (Nuevo Arroyo Chicali)",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68357,
+        "name": "Arroyo Choápam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68368,
+        "name": "Arroyo de Banco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68369,
+        "name": "Arroyo de Enmedio",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68362,
+        "name": "Arroyo Limón",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68367,
+        "name": "Arroyo Zapotillo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68383,
+        "name": "Asunción Cacalotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68384,
+        "name": "Asunción Ixtaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68385,
+        "name": "Asunción Nochixtlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68386,
+        "name": "Asunción Ocotlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68387,
+        "name": "Asunción Tlacolulita",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68463,
+        "name": "Ayoquezco de Aldama",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68468,
+        "name": "Ayotzintepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68469,
+        "name": "Ayutla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68502,
+        "name": "Bajos de Chila",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68530,
+        "name": "Barrio San Diego",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68584,
+        "name": "Benemérito Juárez",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68593,
+        "name": "Benito Juárez",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68605,
+        "name": "Benito Juárez II (San Martín)",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68614,
+        "name": "Bethania",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68650,
+        "name": "Brisas de Zicatela",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68723,
+        "name": "Cajonos",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68737,
+        "name": "Calihualá",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68762,
+        "name": "Camelia Roja",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68767,
+        "name": "Camotinchan",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68790,
+        "name": "Candelaria Loxicha",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68812,
+        "name": "Capulálpam de Méndez",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68921,
+        "name": "Cerro Armadillo Grande",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68938,
+        "name": "Cerro del Aire",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68932,
+        "name": "Cerro Quemado",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68952,
+        "name": "Chahuite",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 68953,
+        "name": "Chahuites",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69015,
+        "name": "Chicahua",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69017,
+        "name": "Chicapa de Castro",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69200,
+        "name": "Ciénega de Zimatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69128,
+        "name": "Cieneguilla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69189,
+        "name": "Ciudad de Huajuapan de León",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69223,
+        "name": "Coatecas Altas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69253,
+        "name": "Coixtlahuaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69262,
+        "name": "Collantes",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69315,
+        "name": "Colonia Jordán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69317,
+        "name": "Colonia Juárez",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69394,
+        "name": "Colonia la Central",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69352,
+        "name": "Colonia Progreso",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69358,
+        "name": "Colonia Rincón Viejo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69366,
+        "name": "Colonia San Luis",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69439,
+        "name": "Concepción Pápalo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69461,
+        "name": "Constancia del Rosario",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69466,
+        "name": "Constitución Mexicana",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69487,
+        "name": "Corral de Piedra",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69491,
+        "name": "Corralero",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69505,
+        "name": "Cosoltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69538,
+        "name": "Crucecita",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69563,
+        "name": "Cuapinolito (Azulillo)",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69579,
+        "name": "Cuauhtémoc",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69625,
+        "name": "Cuicatlan",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69627,
+        "name": "Cuilapan de Guerrero",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69714,
+        "name": "Donaji",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69819,
+        "name": "Ejutla de Crespo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69830,
+        "name": "El Arador",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69836,
+        "name": "El Bajío",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69842,
+        "name": "El Barrio de la Soledad",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69856,
+        "name": "El Camalote",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69857,
+        "name": "El Camarón",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69867,
+        "name": "El Capulín (La Nueva Pochota)",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69881,
+        "name": "El Carrizal",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69884,
+        "name": "El Carrizo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69902,
+        "name": "El Chocolate",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69906,
+        "name": "El Ciruelo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69933,
+        "name": "El Coyul",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 69963,
+        "name": "El Espinal",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70044,
+        "name": "El Molino",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70051,
+        "name": "El Morro",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70115,
+        "name": "El Porvenir",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70171,
+        "name": "El Rosario",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70274,
+        "name": "Eloxochitlán de Flores Magón",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70301,
+        "name": "Encinal Colorado",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70347,
+        "name": "Estación Mogoñé",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70404,
+        "name": "Flor Batavia",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70414,
+        "name": "Fraccionamiento Ciudad Yagul",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70419,
+        "name": "Fraccionamiento Ex-Hacienda Catano",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70437,
+        "name": "Fraccionamiento Real del Valle",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70438,
+        "name": "Fraccionamiento Riberas de San Jerónimo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70440,
+        "name": "Fraccionamiento San Miguel",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70470,
+        "name": "Francisco Ibarra Ramos",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70543,
+        "name": "General Pascual Fentes",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70582,
+        "name": "Guadalupe Etla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70584,
+        "name": "Guadalupe Hidalgo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70596,
+        "name": "Guadalupe Victoria",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70614,
+        "name": "Guamúchil",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70636,
+        "name": "Guixé",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70651,
+        "name": "Hacienda Blanca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70676,
+        "name": "Heroica Ciudad de Ejutla de Crespo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70677,
+        "name": "Heroica Ciudad de Juchitán de Zaragoza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70678,
+        "name": "Heroica Ciudad de Tlaxiaco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70720,
+        "name": "Huajintepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70745,
+        "name": "Huautepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70753,
+        "name": "Huazantlán del Río",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70853,
+        "name": "Ignacio Zaragoza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70886,
+        "name": "Isla Soyaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70919,
+        "name": "Ixpantepec Nieves",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70934,
+        "name": "Ixtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70944,
+        "name": "Ixtlán de Juárez",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70964,
+        "name": "Jalapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70987,
+        "name": "Jaltepec de Candayoc",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70988,
+        "name": "Jaltepetongo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 70998,
+        "name": "Jamiltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71095,
+        "name": "José María Morelos",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71133,
+        "name": "Juchitán de Zaragoza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71181,
+        "name": "La Barra de Colotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71183,
+        "name": "La Blanca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71208,
+        "name": "La Cañada",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71196,
+        "name": "La Candelaria",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71264,
+        "name": "La Erradura",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71321,
+        "name": "La Humedad",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71337,
+        "name": "La Junta",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71371,
+        "name": "La Luz",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71395,
+        "name": "La Mina",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71407,
+        "name": "La Noria",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71437,
+        "name": "La Pe",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71471,
+        "name": "La Reforma",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71500,
+        "name": "La Tabaquera",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71527,
+        "name": "La Venta",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71529,
+        "name": "La Ventosa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71574,
+        "name": "Las Amilpas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71618,
+        "name": "Las Margaritas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71887,
+        "name": "Lázaro Cárdenas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71690,
+        "name": "Llano de Agua",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71689,
+        "name": "Llano Suchiapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71714,
+        "name": "Loma Bonita",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71718,
+        "name": "Loma Chapultepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71870,
+        "name": "Los Ángeles",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71821,
+        "name": "Los Naranjos Esquipulas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71916,
+        "name": "Macín Chico",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71911,
+        "name": "Macuilxóchitl de Artigas Carranza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71921,
+        "name": "Magdalena Apasco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71925,
+        "name": "Magdalena Jaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71926,
+        "name": "Magdalena Mixtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71927,
+        "name": "Magdalena Ocotlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71928,
+        "name": "Magdalena Teitipac",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71929,
+        "name": "Magdalena Tequisistlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71930,
+        "name": "Magdalena Tlacotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71931,
+        "name": "Magdalena Yodocono de Porfirio Díaz",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71932,
+        "name": "Magdalena Zahuatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71954,
+        "name": "Mancuernas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72005,
+        "name": "María Lombardo de Caso",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 71996,
+        "name": "Mariscala de Juárez",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72024,
+        "name": "Matías Romero",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72048,
+        "name": "Mazatlán Villa de Flores",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72052,
+        "name": "Mazín Grande",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72077,
+        "name": "Merced del Potrero",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72085,
+        "name": "Mesones Hidalgo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72117,
+        "name": "Miahuatlán de Porfirio Díaz",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72165,
+        "name": "Mixistlán de la Reforma",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72217,
+        "name": "Montenegro la Lana",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72275,
+        "name": "Nanahuatípam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72288,
+        "name": "Nativitas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72300,
+        "name": "Nazareno Etla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72309,
+        "name": "Nejapa de Madero",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72332,
+        "name": "Niltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72388,
+        "name": "Nuevo Ixcatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72403,
+        "name": "Nuevo Paso Nazareno (Chichicazapa)",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72411,
+        "name": "Nuevo San Martín",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72432,
+        "name": "Oaxaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72433,
+        "name": "Oaxaca de Juárez",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72460,
+        "name": "Ocotlán de Morelos",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72612,
+        "name": "Palomares",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72631,
+        "name": "Papaloapan",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72678,
+        "name": "Paso Canoa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72685,
+        "name": "Paso Real de Sarabia",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72749,
+        "name": "Peña Colorada",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72764,
+        "name": "Piedra Blanca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72769,
+        "name": "Piedra de Amolar",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72782,
+        "name": "Pinotepa de Don Luis",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72781,
+        "name": "Pinotepa Nacional",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72810,
+        "name": "Playa Chica",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72818,
+        "name": "Pluma Hidalgo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72885,
+        "name": "Praxedis de Guerrero",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72915,
+        "name": "Progreso",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72948,
+        "name": "Pueblo Viejo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72981,
+        "name": "Puerto Ángel",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 72968,
+        "name": "Puerto Escondido",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73002,
+        "name": "Putla Villa de Guerrero",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73020,
+        "name": "Quelové",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73034,
+        "name": "Quinicuena",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73060,
+        "name": "Rancho Grande",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73072,
+        "name": "Rancho Viejo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73095,
+        "name": "Reforma de Pineda",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73102,
+        "name": "Reyes Etla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73103,
+        "name": "Reyes Mantecón",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73119,
+        "name": "Rincón Moreno",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73172,
+        "name": "Río Chiquito",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73175,
+        "name": "Río Grande",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73182,
+        "name": "Río Pachiñe",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73152,
+        "name": "Rojas de Cuauhtémoc",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73213,
+        "name": "Salina Cruz",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73240,
+        "name": "San Agustín Amatengo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73241,
+        "name": "San Agustín Atenango",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73245,
+        "name": "San Agustín Chayuco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73237,
+        "name": "San Agustin de las Juntas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73247,
+        "name": "San Agustín Etla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73250,
+        "name": "San Agustín Loxicha",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73256,
+        "name": "San Agustín Yatareni",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73273,
+        "name": "San Andrés Chicahuaxtla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73277,
+        "name": "San Andrés Dinicuiti",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73280,
+        "name": "San Andrés Hidalgo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73281,
+        "name": "San Andrés Huaxpaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73282,
+        "name": "San Andrés Huayápam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73284,
+        "name": "San Andrés Ixtlahuaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73290,
+        "name": "San Andrés Paxtlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73293,
+        "name": "San Andrés Sinaxtla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73294,
+        "name": "San Andrés Solaga",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73296,
+        "name": "San Andrés Teotilalpam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73302,
+        "name": "San Andrés Yaá",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73303,
+        "name": "San Andrés Zabache",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73304,
+        "name": "San Andrés Zautla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73311,
+        "name": "San Antonino Castillo Velasco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73313,
+        "name": "San Antonino el Alto",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73312,
+        "name": "San Antonino Monte Verde",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73321,
+        "name": "San Antonio Arrazola",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73368,
+        "name": "San Antonio de la Cal",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73336,
+        "name": "San Antonio Huitepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73391,
+        "name": "San Antonio las Palmas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73343,
+        "name": "San Antonio Ocotlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73354,
+        "name": "San Antonio Tepetlapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73394,
+        "name": "San Baltazar Chichicapam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73395,
+        "name": "San Baltazar Guelavila",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73396,
+        "name": "San Baltazar Loxicha",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73397,
+        "name": "San Baltazar Yatzachi el Bajo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73400,
+        "name": "San Bartolo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73401,
+        "name": "San Bartolo Coyotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73402,
+        "name": "San Bartolo Coyotespec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73410,
+        "name": "San Bartolo Yautepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73421,
+        "name": "San Bartolomé Ayautla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73425,
+        "name": "San Bartolomé Loxícha",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73426,
+        "name": "San Bartolomé Quialana",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73430,
+        "name": "San Benito Encinal",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73441,
+        "name": "San Bernardo Mixtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73447,
+        "name": "San Blas Atempa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73463,
+        "name": "San Carlos Yautepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73475,
+        "name": "San Cristóbal Amatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73476,
+        "name": "San Cristóbal Amoltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73479,
+        "name": "San Cristóbal Honduras",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73480,
+        "name": "San Cristóbal Lachirioag",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73504,
+        "name": "San Dionisio del Mar",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73502,
+        "name": "San Dionisio Ocotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73503,
+        "name": "San Dionisio Ocotlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73507,
+        "name": "San Esteban Atatlahuca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73514,
+        "name": "San Felipe Cihualtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73517,
+        "name": "San Felipe Jalapa de Díaz",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73524,
+        "name": "San Felipe Tejalápam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73528,
+        "name": "San Felipe Tílpam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73529,
+        "name": "San Felipe Usila",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73552,
+        "name": "San Francisco Cajonos",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73556,
+        "name": "San Francisco Chindúa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73557,
+        "name": "San Francisco Coatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73558,
+        "name": "San Francisco Cozoaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73617,
+        "name": "San Francisco del Mar",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73618,
+        "name": "San Francisco del Mar Viejo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73565,
+        "name": "San Francisco Huehuetlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73567,
+        "name": "San Francisco Ixhuatan",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73570,
+        "name": "San Francisco Jaltepetongo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73572,
+        "name": "San Francisco Javier",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73574,
+        "name": "San Francisco Lachigoló",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73575,
+        "name": "San Francisco Logueche",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73576,
+        "name": "San Francisco Loxicha",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73581,
+        "name": "San Francisco Nuxaño",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73585,
+        "name": "San Francisco Ozolotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73590,
+        "name": "San Francisco Sola",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73593,
+        "name": "San Francisco Telixtlahuaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73604,
+        "name": "San Francisco Tutla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73629,
+        "name": "San Gabriel Mixtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73660,
+        "name": "San Ildefonso Amatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73662,
+        "name": "San Ildefonso Villa Alta",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73674,
+        "name": "San Isidro Apango",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73681,
+        "name": "San Isidro Monjas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73695,
+        "name": "San Jacinto Amilpas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73708,
+        "name": "San Jerónimo Coatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73714,
+        "name": "San Jerónimo Silacayoapilla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73715,
+        "name": "San Jerónimo Sosola",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73716,
+        "name": "San Jerónimo Taviche",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73717,
+        "name": "San Jerónimo Tecóatl",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73718,
+        "name": "San Jerónimo Tlacochahuaya",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73722,
+        "name": "San Jerónimo Yahuiche",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73731,
+        "name": "San Jorge Nuchita",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73744,
+        "name": "San José Ayuquila",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73754,
+        "name": "San José Chacalapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73758,
+        "name": "San José Chiltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73832,
+        "name": "San José de las Flores",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73839,
+        "name": "San José del Progreso",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73764,
+        "name": "San José Estancia Grande",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73853,
+        "name": "San José la Garzona",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73772,
+        "name": "San José Lachiguirí",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73780,
+        "name": "San José Piedras Negras",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73782,
+        "name": "San José Río Manzo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73787,
+        "name": "San José Tenango",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73861,
+        "name": "San Juan Achiutla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73866,
+        "name": "San Juan Atepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73872,
+        "name": "San Juan Bautista Jayacatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73874,
+        "name": "San Juan Bautista la Raya",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73873,
+        "name": "San Juan Bautista Lo de Soto",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73876,
+        "name": "San Juan Cabeza del Río",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73877,
+        "name": "San Juan Cacahuatepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73878,
+        "name": "San Juan Chilateca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73880,
+        "name": "San Juan Coatzospam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73881,
+        "name": "San Juan Colorado",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73884,
+        "name": "San Juan Cotzocón",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73969,
+        "name": "San Juan de los Cues",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73973,
+        "name": "San Juan del Estado",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73977,
+        "name": "San Juan del Río",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73890,
+        "name": "San Juan Diuxi",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73894,
+        "name": "San Juan Guelavía",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73895,
+        "name": "San Juan Guichicovi",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73898,
+        "name": "San Juan Ihualtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73902,
+        "name": "San Juan Jaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73904,
+        "name": "San Juan Jicayán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73905,
+        "name": "San Juan Juquila",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73906,
+        "name": "San Juan Juquila Vijanos",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73907,
+        "name": "San Juan Lachao",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73986,
+        "name": "San Juán Lachigalla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73908,
+        "name": "San Juan Lagunas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73909,
+        "name": "San Juan Mazatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73910,
+        "name": "San Juan Metaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73911,
+        "name": "San Juan Mixtepec -Dto. 08 -",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73912,
+        "name": "San Juan Mixtepec -Dto. 26 -",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73980,
+        "name": "San Juan Ñumí",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73913,
+        "name": "San Juan Ozolotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73916,
+        "name": "San Juan Petlapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73919,
+        "name": "San Juan Quiahue",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73920,
+        "name": "San Juan Quiotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73922,
+        "name": "San Juan Sautla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73923,
+        "name": "San Juan Sayultepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73926,
+        "name": "San Juan Tabaá",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73929,
+        "name": "San Juan Teitipac",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73934,
+        "name": "San Juan Teposcolula",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73952,
+        "name": "San Juan Yaee",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73954,
+        "name": "San Juan Yatzona",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73956,
+        "name": "San Juan Zapotitlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73988,
+        "name": "San Lorenzo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73997,
+        "name": "San Lorenzo Albarradas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 73999,
+        "name": "San Lorenzo Cacaotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74002,
+        "name": "San Lorenzo Cuaunecuiltitla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74018,
+        "name": "San Lorenzo Victoria",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74019,
+        "name": "San Lorenzo Vista Hermosa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74027,
+        "name": "San Lucas Camotlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74031,
+        "name": "San Lucas Ojitlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74033,
+        "name": "San Lucas Quiavini",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74038,
+        "name": "San Lucas Zoquiápam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74045,
+        "name": "San Luis Amatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74062,
+        "name": "San Marcial Ozolotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74067,
+        "name": "San Marcos Arteaga",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74078,
+        "name": "San Marcos Zacatepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74114,
+        "name": "San Martín de los Canseco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74098,
+        "name": "San Martín Itunyoso",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74099,
+        "name": "San Martín Lachila",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74107,
+        "name": "San Martín Tilcajete",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74121,
+        "name": "San Mateo Cajonos",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74142,
+        "name": "San Mateo del Mar",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74125,
+        "name": "San Mateo Etlatongo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74130,
+        "name": "San Mateo Nejápam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74134,
+        "name": "San Mateo Piñas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74135,
+        "name": "San Mateo Sindihui",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74141,
+        "name": "San Mateo Yoloxochitlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74148,
+        "name": "San Melchor Betaza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74153,
+        "name": "San Miguel Abejones",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74154,
+        "name": "San Miguel Achiutla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74160,
+        "name": "San Miguel Aloápam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74171,
+        "name": "San Miguel Chimalapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74173,
+        "name": "San Miguel Coatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74237,
+        "name": "San Miguel del Puerto",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74238,
+        "name": "San Miguel del Valle",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74175,
+        "name": "San Miguel Ejutla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74240,
+        "name": "San Miguel el Grande",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74241,
+        "name": "San Miguel el Grande Villa Juárez",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74180,
+        "name": "San Miguel Figueroa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74188,
+        "name": "San Miguel Mixtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74189,
+        "name": "San Miguel Monteverde",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74193,
+        "name": "San Miguel Panixtlahuaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74195,
+        "name": "San Miguel Peras",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74196,
+        "name": "San Miguel Quetzaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74197,
+        "name": "San Miguel Suchixtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74198,
+        "name": "San Miguel Tecomatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74203,
+        "name": "San Miguel Tenango",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74207,
+        "name": "San Miguel Tetepelcingo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74210,
+        "name": "San Miguel Tilquiapam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74211,
+        "name": "San Miguel Tlacamama",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74212,
+        "name": "San Miguel Tlacotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74251,
+        "name": "San Nicolás",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74260,
+        "name": "San Nicolás Quialana",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74286,
+        "name": "San Pablo Coatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74287,
+        "name": "San Pablo Cuatro Venados",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74288,
+        "name": "San Pablo Etla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74289,
+        "name": "San Pablo Güilá",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74292,
+        "name": "San Pablo Huitzo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74293,
+        "name": "San Pablo Huixtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74296,
+        "name": "San Pablo Macuiltianguis",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74303,
+        "name": "San Pablo Villa de Mitla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74311,
+        "name": "San Pedro Amuzgos",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74313,
+        "name": "San Pedro Apóstol",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74319,
+        "name": "San Pedro Atoyac",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74328,
+        "name": "San Pedro Comitancillo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74329,
+        "name": "San Pedro Coxcaltepec Cántaros",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74415,
+        "name": "San Pedro el Alto",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74338,
+        "name": "San Pedro Huamelula",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74340,
+        "name": "San Pedro Huilotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74344,
+        "name": "San Pedro Ixcatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74345,
+        "name": "San Pedro Ixtlahuaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74346,
+        "name": "San Pedro Jicayán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74347,
+        "name": "San Pedro Juchaltengo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74352,
+        "name": "San Pedro Martir",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74359,
+        "name": "San Pedro Mártir Quiechapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74360,
+        "name": "San Pedro Mártir Yucuxaco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74354,
+        "name": "San Pedro Mixtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74363,
+        "name": "San Pedro Ocopetatillo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74364,
+        "name": "San Pedro Ocotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74365,
+        "name": "San Pedro Ozumacín",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74368,
+        "name": "San Pedro Pochutla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74369,
+        "name": "San Pedro Quiatoni",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74371,
+        "name": "San Pedro Sochiápam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74372,
+        "name": "San Pedro Tapanatepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74374,
+        "name": "San Pedro Taviche",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74382,
+        "name": "San Pedro Teutila",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74383,
+        "name": "San Pedro Tidaá",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74391,
+        "name": "San Pedro Topiltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74393,
+        "name": "San Pedro Totolápam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74394,
+        "name": "San Pedro Tulixtlahuaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74418,
+        "name": "San Pedro y San Pablo Teposcolula",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74419,
+        "name": "San Pedro y San Pablo Tequistepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74401,
+        "name": "San Pedro Yólox",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74438,
+        "name": "San Raymundo Jalpam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74439,
+        "name": "San Roque",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74458,
+        "name": "San Sebastián Abasolo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74462,
+        "name": "San Sebastián Coatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74479,
+        "name": "San Sebastián del Monte",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74463,
+        "name": "San Sebastián Etla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74464,
+        "name": "San Sebastián Ixcapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74465,
+        "name": "San Sebastián Nicananduta",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74466,
+        "name": "San Sebastián Nopalera",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74467,
+        "name": "San Sebastián Río Hondo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74468,
+        "name": "San Sebastián Tecomaxtlahuaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74452,
+        "name": "San Sebastian Teitipac",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74472,
+        "name": "San Sebastián Tutla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74484,
+        "name": "San Simón Almolongas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74498,
+        "name": "San Vicente Coatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74501,
+        "name": "San Vicente Lachixío",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74502,
+        "name": "San Vicente Nuñu",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74504,
+        "name": "San Vicente Piñas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74519,
+        "name": "Santa Ana",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74556,
+        "name": "Santa Ana del Valle",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74547,
+        "name": "Santa Ana Tlapacoyan",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74550,
+        "name": "Santa Ana Zegache",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74571,
+        "name": "Santa Catalina Quierí",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74582,
+        "name": "Santa Catarina Cuixtla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74583,
+        "name": "Santa Catarina Juquila",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74584,
+        "name": "Santa Catarina Loxicha",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74585,
+        "name": "Santa Catarina Mechoacán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74586,
+        "name": "Santa Catarina Minas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74587,
+        "name": "Santa Catarina Quiané",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74588,
+        "name": "Santa Catarina Roatina",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74589,
+        "name": "Santa Catarina Tayata",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74595,
+        "name": "Santa Cecilia Jalieza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74614,
+        "name": "Santa Cruz Acatepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74616,
+        "name": "Santa Cruz Amilpas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74647,
+        "name": "Santa Cruz de Bravo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74649,
+        "name": "Santa Cruz de Juárez",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74627,
+        "name": "Santa Cruz Lachixolana",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74630,
+        "name": "Santa Cruz Mixtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74631,
+        "name": "Santa Cruz Nundaco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74633,
+        "name": "Santa Cruz Ozolotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74634,
+        "name": "Santa Cruz Papalutla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74639,
+        "name": "Santa Cruz Tacache de Mina",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74640,
+        "name": "Santa Cruz Tayata",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74644,
+        "name": "Santa Cruz Xitla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74645,
+        "name": "Santa Cruz Xoxocotlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74661,
+        "name": "Santa Fe y la Mar",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74666,
+        "name": "Santa Gertrudis",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74670,
+        "name": "Santa Inés de Zaragoza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74671,
+        "name": "Santa Inés del Monte",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74669,
+        "name": "Santa Inés Yatzeche",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74685,
+        "name": "Santa Lucía",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74691,
+        "name": "Santa Lucía del Camino",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74688,
+        "name": "Santa Lucía Ocotlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74690,
+        "name": "Santa Lucía Teotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74692,
+        "name": "Santa Magdalena Jicotlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74693,
+        "name": "Santa Margarita Huitepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74705,
+        "name": "Santa María Acatepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74710,
+        "name": "Santa María Alotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74713,
+        "name": "Santa María Apazco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74719,
+        "name": "Santa María Atzompa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74722,
+        "name": "Santa María Camotlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74724,
+        "name": "Santa María Chachoápam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74725,
+        "name": "Santa María Chico Ometepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74726,
+        "name": "Santa María Chilapa de Díaz",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74727,
+        "name": "Santa María Chimalapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74730,
+        "name": "Santa María Colotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74731,
+        "name": "Santa María Cortijo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74732,
+        "name": "Santa María Coyotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74817,
+        "name": "Santa María del Rosario",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74819,
+        "name": "Santa María del Tule",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74734,
+        "name": "Santa María Ecatepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74737,
+        "name": "Santa María Guelacé",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74738,
+        "name": "Santa María Guenagati",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74739,
+        "name": "Santa María Huamelula",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74740,
+        "name": "Santa María Huatulco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74741,
+        "name": "Santa María Huazolotitlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74746,
+        "name": "Santa María Ipalapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74749,
+        "name": "Santa María Jacatepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74751,
+        "name": "Santa María Jalapa del Marqués",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74752,
+        "name": "Santa María Jicaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74821,
+        "name": "Santa María la Asunción",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74753,
+        "name": "Santa María Lachixío",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74760,
+        "name": "Santa María Mixtequilla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74763,
+        "name": "Santa María Nativitas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74764,
+        "name": "Santa María Nduayaco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74771,
+        "name": "Santa María Pápalo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74768,
+        "name": "Santa María Petapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74770,
+        "name": "Santa María Puxmetacán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74773,
+        "name": "Santa María Quiegolani",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74775,
+        "name": "Santa María Sola",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74779,
+        "name": "Santa María Temaxcalapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74780,
+        "name": "Santa María Temaxcaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74781,
+        "name": "Santa María Teopoxco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74782,
+        "name": "Santa María Tepantlali",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74785,
+        "name": "Santa María Tiltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74786,
+        "name": "Santa María Tlalixtac",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74788,
+        "name": "Santa María Tonameca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74791,
+        "name": "Santa María Velato",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74792,
+        "name": "Santa María Xadani",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74795,
+        "name": "Santa María Yavesía",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74796,
+        "name": "Santa María Yolotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74797,
+        "name": "Santa María Yucuhiti",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74798,
+        "name": "Santa María Yucunicoco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74799,
+        "name": "Santa María Zacatepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74801,
+        "name": "Santa María Zaniza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74802,
+        "name": "Santa María Zapotitlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74804,
+        "name": "Santa María Zoquitlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74700,
+        "name": "Santa Martha Chichihualtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74835,
+        "name": "Santa Rosa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74842,
+        "name": "Santa Rosa Caxtlahuaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74851,
+        "name": "Santa Rosa de Lima",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74876,
+        "name": "Santiago Amoltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74878,
+        "name": "Santiago Apostol",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74879,
+        "name": "Santiago Astata",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74881,
+        "name": "Santiago Ayuquililla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74884,
+        "name": "Santiago Cacaloxtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74888,
+        "name": "Santiago Chazumba",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74889,
+        "name": "Santiago Chilixtlahuaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74891,
+        "name": "Santiago Choápam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74895,
+        "name": "Santiago Comaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74899,
+        "name": "Santiago Cuixtla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74988,
+        "name": "Santiago del Río",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74900,
+        "name": "Santiago Etla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74901,
+        "name": "Santiago Huajolotitlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74902,
+        "name": "Santiago Huauclilla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74903,
+        "name": "Santiago Huaxolotipac",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74905,
+        "name": "Santiago Ihuitlán Plumas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74906,
+        "name": "Santiago Ixcuintepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74908,
+        "name": "Santiago Ixtaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74909,
+        "name": "Santiago Ixtayutla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74911,
+        "name": "Santiago Jicayán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74912,
+        "name": "Santiago Jocotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74913,
+        "name": "Santiago Juxtlahuaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74914,
+        "name": "Santiago Lachiguiri",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74915,
+        "name": "Santiago Lalopa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74916,
+        "name": "Santiago Laollaga",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74917,
+        "name": "Santiago Laxopa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74918,
+        "name": "Santiago Llano Grande",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74919,
+        "name": "Santiago Malacatepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74922,
+        "name": "Santiago Matatlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74925,
+        "name": "Santiago Miltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74927,
+        "name": "Santiago Nejapilla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74928,
+        "name": "Santiago Niltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74929,
+        "name": "Santiago Nundiche",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74931,
+        "name": "Santiago Nuyoó",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74938,
+        "name": "Santiago Quiavicuzas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74940,
+        "name": "Santiago Suchilquitongo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74944,
+        "name": "Santiago Tenango",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74948,
+        "name": "Santiago Tepextla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74951,
+        "name": "Santiago Tetepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74952,
+        "name": "Santiago Texcalcingo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74953,
+        "name": "Santiago Textitlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74957,
+        "name": "Santiago Tilantongo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74959,
+        "name": "Santiago Tillo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74971,
+        "name": "Santiago Xanica",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74972,
+        "name": "Santiago Yaitepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74976,
+        "name": "Santiago Yogana",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74977,
+        "name": "Santiago Yolomécatl",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74978,
+        "name": "Santiago Yosondúa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74979,
+        "name": "Santiago Zacatepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74981,
+        "name": "Santiago Zoochila",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74996,
+        "name": "Santo Domingo Albarradas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 74997,
+        "name": "Santo Domingo Armenta",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75000,
+        "name": "Santo Domingo Chihuitán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75018,
+        "name": "Santo Domingo de Morelos",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75002,
+        "name": "Santo Domingo Jalieza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75005,
+        "name": "Santo Domingo Ozolotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75006,
+        "name": "Santo Domingo Petapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75007,
+        "name": "Santo Domingo Roayaga",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75009,
+        "name": "Santo Domingo Tehuantepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75010,
+        "name": "Santo Domingo Tepuxtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75011,
+        "name": "Santo Domingo Tlatayapam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75012,
+        "name": "Santo Domingo Tomaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75013,
+        "name": "Santo Domingo Tonalá",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75014,
+        "name": "Santo Domingo Yanhuitlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75015,
+        "name": "Santo Domingo Yodohino",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75016,
+        "name": "Santo Domingo Zanatepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75024,
+        "name": "Santo Tomás",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75029,
+        "name": "Santo Tomás Jalieza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75030,
+        "name": "Santo Tomás Mazaltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75031,
+        "name": "Santo Tomás Ocotepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75032,
+        "name": "Santo Tomás Tamazulapam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75035,
+        "name": "Santos Reyes Nopala",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75036,
+        "name": "Santos Reyes Pápalo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75037,
+        "name": "Santos Reyes Tepejillo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75038,
+        "name": "Santos Reyes Yucuná",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75054,
+        "name": "Sector H Tres",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75078,
+        "name": "Silacayoápam",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75102,
+        "name": "Sitio de Xitlapehua",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75112,
+        "name": "Soledad Etla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75115,
+        "name": "Soledad Salinas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75177,
+        "name": "Tamazola",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75183,
+        "name": "Tamazulápam del Espíritu Santo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75182,
+        "name": "Tamazulapam Villa del Progreso",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75207,
+        "name": "Tanetze de Zaragoza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75213,
+        "name": "Taniche",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75224,
+        "name": "Tapanalá",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75238,
+        "name": "Tatahuicapá",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75239,
+        "name": "Tataltepec de Valdés",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75283,
+        "name": "Tecomavaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75329,
+        "name": "Temascal",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75374,
+        "name": "Teococuilco de Marcos Pérez",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75376,
+        "name": "Teojomulco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75384,
+        "name": "Teotitlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75385,
+        "name": "Teotitlán del Valle",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75412,
+        "name": "Tepenixtlahuaca",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75427,
+        "name": "Tepetlapa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75477,
+        "name": "Tetela",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75514,
+        "name": "Texcatitlán",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75519,
+        "name": "Texmelucan",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75526,
+        "name": "Tezoatlán de Segura y Luna",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75601,
+        "name": "Tlachichilco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75605,
+        "name": "Tlacoatzintepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75609,
+        "name": "Tlacolula de Matamoros",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75633,
+        "name": "Tlahuitoltepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75640,
+        "name": "Tlalixtac de Cabrera",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75757,
+        "name": "Totontepec Villa de Morelos",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75760,
+        "name": "Toxpalan",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75783,
+        "name": "Trinidad de Viguera",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75782,
+        "name": "Trinidad Zaachila",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75823,
+        "name": "Tuxtepec",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75884,
+        "name": "Unión Hidalgo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75906,
+        "name": "Valdeflores",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75911,
+        "name": "Valerio Trujano",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75917,
+        "name": "Valle Nacional",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75941,
+        "name": "Vega del Sol",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75970,
+        "name": "Vicente Camalote",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75978,
+        "name": "Vicente Guerrero",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75994,
+        "name": "Villa Chalcatongo de Hidalgo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76064,
+        "name": "Villa de Etla",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76068,
+        "name": "Villa de Tamazulápam del Progreso",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76069,
+        "name": "Villa de Tututepec de Melchor Ocampo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76070,
+        "name": "Villa de Zaachila",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 75999,
+        "name": "Villa Díaz Ordaz",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76009,
+        "name": "Villa Hidalgo",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76044,
+        "name": "Villa Sola de Vega",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76045,
+        "name": "Villa Talea de Castro",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76047,
+        "name": "Villa Tejúpam de la Unión",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76095,
+        "name": "Vista Hermosa",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76109,
+        "name": "Xaaga",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76111,
+        "name": "Xagacía",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76181,
+        "name": "Xochitonalco",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76208,
+        "name": "Yaganiza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76212,
+        "name": "Yalina",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76219,
+        "name": "Yatzachi",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76225,
+        "name": "Yaxe",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76235,
+        "name": "Yetla de Juárez",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76247,
+        "name": "Yucuita",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76251,
+        "name": "Yutanduchi de Guerrero",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76269,
+        "name": "Zacatal",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76308,
+        "name": "Zapotitlán Lagunas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76309,
+        "name": "Zapotitlán Palmas",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76316,
+        "name": "Zaragoza",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76324,
+        "name": "Zarzal",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76338,
+        "name": "Zimatlán de Álvarez",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76357,
+        "name": "Zocoteaca de León",
+        "country": "MEX",
+        "state": "OAX"
+    },
+    {
+        "id": 76360,
+        "name": "Zona Urbana Ejidal",
+        "country": "MEX",
+        "state": "OAX"
+    }
+]

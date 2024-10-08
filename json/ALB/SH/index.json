@@ -1,1 +1,68 @@
-[{"id":0,"name":"Bashkia Mal\u00ebsi e Madhe","country":"ALB","state":"SH"},{"id":1,"name":"Bashkia Puk\u00eb","country":"ALB","state":"SH"},{"id":2,"name":"Bashkia Vau i Dej\u00ebs","country":"ALB","state":"SH"},{"id":3,"name":"Fush\u00eb-Arr\u00ebz","country":"ALB","state":"SH"},{"id":4,"name":"Koplik","country":"ALB","state":"SH"},{"id":5,"name":"Puk\u00eb","country":"ALB","state":"SH"},{"id":6,"name":"Rrethi i Mal\u00ebsia e Madhe","country":"ALB","state":"SH"},{"id":7,"name":"Rrethi i Shkodr\u00ebs","country":"ALB","state":"SH"},{"id":8,"name":"Shkod\u00ebr","country":"ALB","state":"SH"},{"id":9,"name":"Vau i Dej\u00ebs","country":"ALB","state":"SH"},{"id":10,"name":"Vukatan\u00eb","country":"ALB","state":"SH"}]
+[
+    {
+        "id": 175,
+        "name": "Bashkia Malësi e Madhe",
+        "country": "ALB",
+        "state": "SH"
+    },
+    {
+        "id": 181,
+        "name": "Bashkia Pukë",
+        "country": "ALB",
+        "state": "SH"
+    },
+    {
+        "id": 188,
+        "name": "Bashkia Vau i Dejës",
+        "country": "ALB",
+        "state": "SH"
+    },
+    {
+        "id": 202,
+        "name": "Fushë-Arrëz",
+        "country": "ALB",
+        "state": "SH"
+    },
+    {
+        "id": 211,
+        "name": "Koplik",
+        "country": "ALB",
+        "state": "SH"
+    },
+    {
+        "id": 239,
+        "name": "Pukë",
+        "country": "ALB",
+        "state": "SH"
+    },
+    {
+        "id": 255,
+        "name": "Rrethi i Malësia e Madhe",
+        "country": "ALB",
+        "state": "SH"
+    },
+    {
+        "id": 257,
+        "name": "Rrethi i Shkodrës",
+        "country": "ALB",
+        "state": "SH"
+    },
+    {
+        "id": 266,
+        "name": "Shkodër",
+        "country": "ALB",
+        "state": "SH"
+    },
+    {
+        "id": 274,
+        "name": "Vau i Dejës",
+        "country": "ALB",
+        "state": "SH"
+    },
+    {
+        "id": 279,
+        "name": "Vukatanë",
+        "country": "ALB",
+        "state": "SH"
+    }
+]

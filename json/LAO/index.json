@@ -1,1 +1,116 @@
-[{"id":0,"name":"Attapeu Province","iso3":"AT","country":"LAO"},{"id":1,"name":"Bokeo Province","iso3":"BK","country":"LAO"},{"id":2,"name":"Bolikhamsai Province","iso3":"BL","country":"LAO"},{"id":3,"name":"Champasak Province","iso3":"CH","country":"LAO"},{"id":4,"name":"Houaphanh Province","iso3":"HO","country":"LAO"},{"id":5,"name":"Khammouane Province","iso3":"KH","country":"LAO"},{"id":6,"name":"Luang Namtha Province","iso3":"LM","country":"LAO"},{"id":7,"name":"Luang Prabang Province","iso3":"LP","country":"LAO"},{"id":8,"name":"Oudomxay Province","iso3":"OU","country":"LAO"},{"id":9,"name":"Phongsaly Province","iso3":"PH","country":"LAO"},{"id":10,"name":"Sainyabuli Province","iso3":"XA","country":"LAO"},{"id":11,"name":"Salavan Province","iso3":"SL","country":"LAO"},{"id":12,"name":"Savannakhet Province","iso3":"SV","country":"LAO"},{"id":13,"name":"Sekong Province","iso3":"XE","country":"LAO"},{"id":14,"name":"Vientiane Prefecture","iso3":"VT","country":"LAO"},{"id":15,"name":"Vientiane Province","iso3":"VI","country":"LAO"},{"id":16,"name":"Xaisomboun","iso3":"XN","country":"LAO"},{"id":17,"name":"Xaisomboun Province","iso3":"XS","country":"LAO"},{"id":18,"name":"Xiangkhouang Province","iso3":"XI","country":"LAO"}]
+[
+    {
+        "id": 982,
+        "name": "Attapeu Province",
+        "country": "LAO",
+        "state_code": "AT"
+    },
+    {
+        "id": 991,
+        "name": "Bokeo Province",
+        "country": "LAO",
+        "state_code": "BK"
+    },
+    {
+        "id": 985,
+        "name": "Bolikhamsai Province",
+        "country": "LAO",
+        "state_code": "BL"
+    },
+    {
+        "id": 996,
+        "name": "Champasak Province",
+        "country": "LAO",
+        "state_code": "CH"
+    },
+    {
+        "id": 989,
+        "name": "Houaphanh Province",
+        "country": "LAO",
+        "state_code": "HO"
+    },
+    {
+        "id": 986,
+        "name": "Khammouane Province",
+        "country": "LAO",
+        "state_code": "KH"
+    },
+    {
+        "id": 992,
+        "name": "Luang Namtha Province",
+        "country": "LAO",
+        "state_code": "LM"
+    },
+    {
+        "id": 978,
+        "name": "Luang Prabang Province",
+        "country": "LAO",
+        "state_code": "LP"
+    },
+    {
+        "id": 988,
+        "name": "Oudomxay Province",
+        "country": "LAO",
+        "state_code": "OU"
+    },
+    {
+        "id": 987,
+        "name": "Phongsaly Province",
+        "country": "LAO",
+        "state_code": "PH"
+    },
+    {
+        "id": 993,
+        "name": "Sainyabuli Province",
+        "country": "LAO",
+        "state_code": "XA"
+    },
+    {
+        "id": 981,
+        "name": "Salavan Province",
+        "country": "LAO",
+        "state_code": "SL"
+    },
+    {
+        "id": 990,
+        "name": "Savannakhet Province",
+        "country": "LAO",
+        "state_code": "SV"
+    },
+    {
+        "id": 984,
+        "name": "Sekong Province",
+        "country": "LAO",
+        "state_code": "XE"
+    },
+    {
+        "id": 979,
+        "name": "Vientiane Prefecture",
+        "country": "LAO",
+        "state_code": "VT"
+    },
+    {
+        "id": 980,
+        "name": "Vientiane Province",
+        "country": "LAO",
+        "state_code": "VI"
+    },
+    {
+        "id": 994,
+        "name": "Xaisomboun",
+        "country": "LAO",
+        "state_code": "XN"
+    },
+    {
+        "id": 983,
+        "name": "Xaisomboun Province",
+        "country": "LAO",
+        "state_code": "XS"
+    },
+    {
+        "id": 995,
+        "name": "Xiangkhouang Province",
+        "country": "LAO",
+        "state_code": "XI"
+    }
+]

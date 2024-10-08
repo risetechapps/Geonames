@@ -1,1 +1,44 @@
-[{"id":0,"name":"Abu Dhabi Emirate","iso3":"AZ","country":"ARE"},{"id":1,"name":"Ajman Emirate","iso3":"AJ","country":"ARE"},{"id":2,"name":"Dubai","iso3":"DU","country":"ARE"},{"id":3,"name":"Fujairah","iso3":"FU","country":"ARE"},{"id":4,"name":"Ras al-Khaimah","iso3":"RK","country":"ARE"},{"id":5,"name":"Sharjah Emirate","iso3":"SH","country":"ARE"},{"id":6,"name":"Umm al-Quwain","iso3":"UQ","country":"ARE"}]
+[
+    {
+        "id": 3396,
+        "name": "Abu Dhabi Emirate",
+        "country": "ARE",
+        "state_code": "AZ"
+    },
+    {
+        "id": 3395,
+        "name": "Ajman Emirate",
+        "country": "ARE",
+        "state_code": "AJ"
+    },
+    {
+        "id": 3391,
+        "name": "Dubai",
+        "country": "ARE",
+        "state_code": "DU"
+    },
+    {
+        "id": 3393,
+        "name": "Fujairah",
+        "country": "ARE",
+        "state_code": "FU"
+    },
+    {
+        "id": 3394,
+        "name": "Ras al-Khaimah",
+        "country": "ARE",
+        "state_code": "RK"
+    },
+    {
+        "id": 3390,
+        "name": "Sharjah Emirate",
+        "country": "ARE",
+        "state_code": "SH"
+    },
+    {
+        "id": 3392,
+        "name": "Umm al-Quwain",
+        "country": "ARE",
+        "state_code": "UQ"
+    }
+]

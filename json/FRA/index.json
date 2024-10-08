@@ -1,1 +1,740 @@
-[{"id":0,"name":"Ain","iso3":"01","country":"FRA"},{"id":1,"name":"Aisne","iso3":"02","country":"FRA"},{"id":2,"name":"Allier","iso3":"03","country":"FRA"},{"id":3,"name":"Alpes-de-Haute-Provence","iso3":"04","country":"FRA"},{"id":4,"name":"Alpes-Maritimes","iso3":"06","country":"FRA"},{"id":5,"name":"Alsace","iso3":"6AE","country":"FRA"},{"id":6,"name":"Ard\u00e8che","iso3":"07","country":"FRA"},{"id":7,"name":"Ardennes","iso3":"08","country":"FRA"},{"id":8,"name":"Ari\u00e8ge","iso3":"09","country":"FRA"},{"id":9,"name":"Aube","iso3":"10","country":"FRA"},{"id":10,"name":"Aude","iso3":"11","country":"FRA"},{"id":11,"name":"Auvergne-Rh\u00f4ne-Alpes","iso3":"ARA","country":"FRA"},{"id":12,"name":"Aveyron","iso3":"12","country":"FRA"},{"id":13,"name":"Bas-Rhin","iso3":"67","country":"FRA"},{"id":14,"name":"Bouches-du-Rh\u00f4ne","iso3":"13","country":"FRA"},{"id":15,"name":"Bourgogne-Franche-Comt\u00e9","iso3":"BFC","country":"FRA"},{"id":16,"name":"Bretagne","iso3":"BRE","country":"FRA"},{"id":17,"name":"Calvados","iso3":"14","country":"FRA"},{"id":18,"name":"Cantal","iso3":"15","country":"FRA"},{"id":19,"name":"Centre-Val de Loire","iso3":"CVL","country":"FRA"},{"id":20,"name":"Charente","iso3":"16","country":"FRA"},{"id":21,"name":"Charente-Maritime","iso3":"17","country":"FRA"},{"id":22,"name":"Cher","iso3":"18","country":"FRA"},{"id":23,"name":"Clipperton","iso3":"CP","country":"FRA"},{"id":24,"name":"Corr\u00e8ze","iso3":"19","country":"FRA"},{"id":25,"name":"Corse","iso3":"20R","country":"FRA"},{"id":26,"name":"Corse-du-Sud","iso3":"2A","country":"FRA"},{"id":27,"name":"C\u00f4te-d'Or","iso3":"21","country":"FRA"},{"id":28,"name":"C\u00f4tes-d'Armor","iso3":"22","country":"FRA"},{"id":29,"name":"Creuse","iso3":"23","country":"FRA"},{"id":30,"name":"Deux-S\u00e8vres","iso3":"79","country":"FRA"},{"id":31,"name":"Dordogne","iso3":"24","country":"FRA"},{"id":32,"name":"Doubs","iso3":"25","country":"FRA"},{"id":33,"name":"Dr\u00f4me","iso3":"26","country":"FRA"},{"id":34,"name":"Essonne","iso3":"91","country":"FRA"},{"id":35,"name":"Eure","iso3":"27","country":"FRA"},{"id":36,"name":"Eure-et-Loir","iso3":"28","country":"FRA"},{"id":37,"name":"Finist\u00e8re","iso3":"29","country":"FRA"},{"id":38,"name":"French Guiana","iso3":"973","country":"FRA"},{"id":39,"name":"French Polynesia","iso3":"PF","country":"FRA"},{"id":40,"name":"French Southern and Antarctic Lands","iso3":"TF","country":"FRA"},{"id":41,"name":"Gard","iso3":"30","country":"FRA"},{"id":42,"name":"Gers","iso3":"32","country":"FRA"},{"id":43,"name":"Gironde","iso3":"33","country":"FRA"},{"id":44,"name":"Grand-Est","iso3":"GES","country":"FRA"},{"id":45,"name":"Guadeloupe","iso3":"971","country":"FRA"},{"id":46,"name":"Haut-Rhin","iso3":"68","country":"FRA"},{"id":47,"name":"Haute-Corse","iso3":"2B","country":"FRA"},{"id":48,"name":"Haute-Garonne","iso3":"31","country":"FRA"},{"id":49,"name":"Haute-Loire","iso3":"43","country":"FRA"},{"id":50,"name":"Haute-Marne","iso3":"52","country":"FRA"},{"id":51,"name":"Haute-Sa\u00f4ne","iso3":"70","country":"FRA"},{"id":52,"name":"Haute-Savoie","iso3":"74","country":"FRA"},{"id":53,"name":"Haute-Vienne","iso3":"87","country":"FRA"},{"id":54,"name":"Hautes-Alpes","iso3":"05","country":"FRA"},{"id":55,"name":"Hautes-Pyr\u00e9n\u00e9es","iso3":"65","country":"FRA"},{"id":56,"name":"Hauts-de-France","iso3":"HDF","country":"FRA"},{"id":57,"name":"Hauts-de-Seine","iso3":"92","country":"FRA"},{"id":58,"name":"H\u00e9rault","iso3":"34","country":"FRA"},{"id":59,"name":"\u00cele-de-France","iso3":"IDF","country":"FRA"},{"id":60,"name":"Ille-et-Vilaine","iso3":"35","country":"FRA"},{"id":61,"name":"Indre","iso3":"36","country":"FRA"},{"id":62,"name":"Indre-et-Loire","iso3":"37","country":"FRA"},{"id":63,"name":"Is\u00e8re","iso3":"38","country":"FRA"},{"id":64,"name":"Jura","iso3":"39","country":"FRA"},{"id":65,"name":"La R\u00e9union","iso3":"974","country":"FRA"},{"id":66,"name":"Landes","iso3":"40","country":"FRA"},{"id":67,"name":"Loir-et-Cher","iso3":"41","country":"FRA"},{"id":68,"name":"Loire","iso3":"42","country":"FRA"},{"id":69,"name":"Loire-Atlantique","iso3":"44","country":"FRA"},{"id":70,"name":"Loiret","iso3":"45","country":"FRA"},{"id":71,"name":"Lot","iso3":"46","country":"FRA"},{"id":72,"name":"Lot-et-Garonne","iso3":"47","country":"FRA"},{"id":73,"name":"Loz\u00e8re","iso3":"48","country":"FRA"},{"id":74,"name":"Maine-et-Loire","iso3":"49","country":"FRA"},{"id":75,"name":"Manche","iso3":"50","country":"FRA"},{"id":76,"name":"Marne","iso3":"51","country":"FRA"},{"id":77,"name":"Martinique","iso3":"972","country":"FRA"},{"id":78,"name":"Mayenne","iso3":"53","country":"FRA"},{"id":79,"name":"Mayotte","iso3":"976","country":"FRA"},{"id":80,"name":"M\u00e9tropole de Lyon","iso3":"69M","country":"FRA"},{"id":81,"name":"Meurthe-et-Moselle","iso3":"54","country":"FRA"},{"id":82,"name":"Meuse","iso3":"55","country":"FRA"},{"id":83,"name":"Morbihan","iso3":"56","country":"FRA"},{"id":84,"name":"Moselle","iso3":"57","country":"FRA"},{"id":85,"name":"Ni\u00e8vre","iso3":"58","country":"FRA"},{"id":86,"name":"Nord","iso3":"59","country":"FRA"},{"id":87,"name":"Normandie","iso3":"NOR","country":"FRA"},{"id":88,"name":"Nouvelle-Aquitaine","iso3":"NAQ","country":"FRA"},{"id":89,"name":"Occitanie","iso3":"OCC","country":"FRA"},{"id":90,"name":"Oise","iso3":"60","country":"FRA"},{"id":91,"name":"Orne","iso3":"61","country":"FRA"},{"id":92,"name":"Paris","iso3":"75C","country":"FRA"},{"id":93,"name":"Pas-de-Calais","iso3":"62","country":"FRA"},{"id":94,"name":"Pays-de-la-Loire","iso3":"PDL","country":"FRA"},{"id":95,"name":"Provence-Alpes-C\u00f4te-d\u2019Azur","iso3":"PAC","country":"FRA"},{"id":96,"name":"Puy-de-D\u00f4me","iso3":"63","country":"FRA"},{"id":97,"name":"Pyr\u00e9n\u00e9es-Atlantiques","iso3":"64","country":"FRA"},{"id":98,"name":"Pyr\u00e9n\u00e9es-Orientales","iso3":"66","country":"FRA"},{"id":99,"name":"Rh\u00f4ne","iso3":"69","country":"FRA"},{"id":100,"name":"Saint Pierre and Miquelon","iso3":"PM","country":"FRA"},{"id":101,"name":"Saint-Barth\u00e9lemy","iso3":"BL","country":"FRA"},{"id":102,"name":"Saint-Martin","iso3":"MF","country":"FRA"},{"id":103,"name":"Sa\u00f4ne-et-Loire","iso3":"71","country":"FRA"},{"id":104,"name":"Sarthe","iso3":"72","country":"FRA"},{"id":105,"name":"Savoie","iso3":"73","country":"FRA"},{"id":106,"name":"Seine-et-Marne","iso3":"77","country":"FRA"},{"id":107,"name":"Seine-Maritime","iso3":"76","country":"FRA"},{"id":108,"name":"Seine-Saint-Denis","iso3":"93","country":"FRA"},{"id":109,"name":"Somme","iso3":"80","country":"FRA"},{"id":110,"name":"Tarn","iso3":"81","country":"FRA"},{"id":111,"name":"Tarn-et-Garonne","iso3":"82","country":"FRA"},{"id":112,"name":"Territoire de Belfort","iso3":"90","country":"FRA"},{"id":113,"name":"Val-d'Oise","iso3":"95","country":"FRA"},{"id":114,"name":"Val-de-Marne","iso3":"94","country":"FRA"},{"id":115,"name":"Var","iso3":"83","country":"FRA"},{"id":116,"name":"Vaucluse","iso3":"84","country":"FRA"},{"id":117,"name":"Vend\u00e9e","iso3":"85","country":"FRA"},{"id":118,"name":"Vienne","iso3":"86","country":"FRA"},{"id":119,"name":"Vosges","iso3":"88","country":"FRA"},{"id":120,"name":"Wallis and Futuna","iso3":"WF","country":"FRA"},{"id":121,"name":"Yonne","iso3":"89","country":"FRA"},{"id":122,"name":"Yvelines","iso3":"78","country":"FRA"}]
+[
+    {
+        "id": 4967,
+        "name": "Ain",
+        "country": "FRA",
+        "state_code": "01"
+    },
+    {
+        "id": 4968,
+        "name": "Aisne",
+        "country": "FRA",
+        "state_code": "02"
+    },
+    {
+        "id": 4969,
+        "name": "Allier",
+        "country": "FRA",
+        "state_code": "03"
+    },
+    {
+        "id": 4970,
+        "name": "Alpes-de-Haute-Provence",
+        "country": "FRA",
+        "state_code": "04"
+    },
+    {
+        "id": 4972,
+        "name": "Alpes-Maritimes",
+        "country": "FRA",
+        "state_code": "06"
+    },
+    {
+        "id": 4811,
+        "name": "Alsace",
+        "country": "FRA",
+        "state_code": "6AE"
+    },
+    {
+        "id": 4973,
+        "name": "Ardèche",
+        "country": "FRA",
+        "state_code": "07"
+    },
+    {
+        "id": 4974,
+        "name": "Ardennes",
+        "country": "FRA",
+        "state_code": "08"
+    },
+    {
+        "id": 4975,
+        "name": "Ariège",
+        "country": "FRA",
+        "state_code": "09"
+    },
+    {
+        "id": 4976,
+        "name": "Aube",
+        "country": "FRA",
+        "state_code": "10"
+    },
+    {
+        "id": 4977,
+        "name": "Aude",
+        "country": "FRA",
+        "state_code": "11"
+    },
+    {
+        "id": 4798,
+        "name": "Auvergne-Rhône-Alpes",
+        "country": "FRA",
+        "state_code": "ARA"
+    },
+    {
+        "id": 4978,
+        "name": "Aveyron",
+        "country": "FRA",
+        "state_code": "12"
+    },
+    {
+        "id": 5035,
+        "name": "Bas-Rhin",
+        "country": "FRA",
+        "state_code": "67"
+    },
+    {
+        "id": 4979,
+        "name": "Bouches-du-Rhône",
+        "country": "FRA",
+        "state_code": "13"
+    },
+    {
+        "id": 4825,
+        "name": "Bourgogne-Franche-Comté",
+        "country": "FRA",
+        "state_code": "BFC"
+    },
+    {
+        "id": 4807,
+        "name": "Bretagne",
+        "country": "FRA",
+        "state_code": "BRE"
+    },
+    {
+        "id": 4981,
+        "name": "Calvados",
+        "country": "FRA",
+        "state_code": "14"
+    },
+    {
+        "id": 4982,
+        "name": "Cantal",
+        "country": "FRA",
+        "state_code": "15"
+    },
+    {
+        "id": 4818,
+        "name": "Centre-Val de Loire",
+        "country": "FRA",
+        "state_code": "CVL"
+    },
+    {
+        "id": 4983,
+        "name": "Charente",
+        "country": "FRA",
+        "state_code": "16"
+    },
+    {
+        "id": 4984,
+        "name": "Charente-Maritime",
+        "country": "FRA",
+        "state_code": "17"
+    },
+    {
+        "id": 4985,
+        "name": "Cher",
+        "country": "FRA",
+        "state_code": "18"
+    },
+    {
+        "id": 5064,
+        "name": "Clipperton",
+        "country": "FRA",
+        "state_code": "CP"
+    },
+    {
+        "id": 4986,
+        "name": "Corrèze",
+        "country": "FRA",
+        "state_code": "19"
+    },
+    {
+        "id": 4806,
+        "name": "Corse",
+        "country": "FRA",
+        "state_code": "20R"
+    },
+    {
+        "id": 4996,
+        "name": "Corse-du-Sud",
+        "country": "FRA",
+        "state_code": "2A"
+    },
+    {
+        "id": 4987,
+        "name": "Côte-d'Or",
+        "country": "FRA",
+        "state_code": "21"
+    },
+    {
+        "id": 4988,
+        "name": "Côtes-d'Armor",
+        "country": "FRA",
+        "state_code": "22"
+    },
+    {
+        "id": 4989,
+        "name": "Creuse",
+        "country": "FRA",
+        "state_code": "23"
+    },
+    {
+        "id": 5047,
+        "name": "Deux-Sèvres",
+        "country": "FRA",
+        "state_code": "79"
+    },
+    {
+        "id": 4990,
+        "name": "Dordogne",
+        "country": "FRA",
+        "state_code": "24"
+    },
+    {
+        "id": 4991,
+        "name": "Doubs",
+        "country": "FRA",
+        "state_code": "25"
+    },
+    {
+        "id": 4992,
+        "name": "Drôme",
+        "country": "FRA",
+        "state_code": "26"
+    },
+    {
+        "id": 5059,
+        "name": "Essonne",
+        "country": "FRA",
+        "state_code": "91"
+    },
+    {
+        "id": 4993,
+        "name": "Eure",
+        "country": "FRA",
+        "state_code": "27"
+    },
+    {
+        "id": 4994,
+        "name": "Eure-et-Loir",
+        "country": "FRA",
+        "state_code": "28"
+    },
+    {
+        "id": 4995,
+        "name": "Finistère",
+        "country": "FRA",
+        "state_code": "29"
+    },
+    {
+        "id": 4822,
+        "name": "French Guiana",
+        "country": "FRA",
+        "state_code": "973"
+    },
+    {
+        "id": 4824,
+        "name": "French Polynesia",
+        "country": "FRA",
+        "state_code": "PF"
+    },
+    {
+        "id": 5065,
+        "name": "French Southern and Antarctic Lands",
+        "country": "FRA",
+        "state_code": "TF"
+    },
+    {
+        "id": 4998,
+        "name": "Gard",
+        "country": "FRA",
+        "state_code": "30"
+    },
+    {
+        "id": 5000,
+        "name": "Gers",
+        "country": "FRA",
+        "state_code": "32"
+    },
+    {
+        "id": 5001,
+        "name": "Gironde",
+        "country": "FRA",
+        "state_code": "33"
+    },
+    {
+        "id": 4820,
+        "name": "Grand-Est",
+        "country": "FRA",
+        "state_code": "GES"
+    },
+    {
+        "id": 4829,
+        "name": "Guadeloupe",
+        "country": "FRA",
+        "state_code": "971"
+    },
+    {
+        "id": 5036,
+        "name": "Haut-Rhin",
+        "country": "FRA",
+        "state_code": "68"
+    },
+    {
+        "id": 4997,
+        "name": "Haute-Corse",
+        "country": "FRA",
+        "state_code": "2B"
+    },
+    {
+        "id": 4999,
+        "name": "Haute-Garonne",
+        "country": "FRA",
+        "state_code": "31"
+    },
+    {
+        "id": 5011,
+        "name": "Haute-Loire",
+        "country": "FRA",
+        "state_code": "43"
+    },
+    {
+        "id": 5020,
+        "name": "Haute-Marne",
+        "country": "FRA",
+        "state_code": "52"
+    },
+    {
+        "id": 5039,
+        "name": "Haute-Saône",
+        "country": "FRA",
+        "state_code": "70"
+    },
+    {
+        "id": 5043,
+        "name": "Haute-Savoie",
+        "country": "FRA",
+        "state_code": "74"
+    },
+    {
+        "id": 5055,
+        "name": "Haute-Vienne",
+        "country": "FRA",
+        "state_code": "87"
+    },
+    {
+        "id": 4971,
+        "name": "Hautes-Alpes",
+        "country": "FRA",
+        "state_code": "05"
+    },
+    {
+        "id": 5033,
+        "name": "Hautes-Pyrénées",
+        "country": "FRA",
+        "state_code": "65"
+    },
+    {
+        "id": 4828,
+        "name": "Hauts-de-France",
+        "country": "FRA",
+        "state_code": "HDF"
+    },
+    {
+        "id": 5060,
+        "name": "Hauts-de-Seine",
+        "country": "FRA",
+        "state_code": "92"
+    },
+    {
+        "id": 5002,
+        "name": "Hérault",
+        "country": "FRA",
+        "state_code": "34"
+    },
+    {
+        "id": 4796,
+        "name": "Île-de-France",
+        "country": "FRA",
+        "state_code": "IDF"
+    },
+    {
+        "id": 5003,
+        "name": "Ille-et-Vilaine",
+        "country": "FRA",
+        "state_code": "35"
+    },
+    {
+        "id": 5004,
+        "name": "Indre",
+        "country": "FRA",
+        "state_code": "36"
+    },
+    {
+        "id": 5005,
+        "name": "Indre-et-Loire",
+        "country": "FRA",
+        "state_code": "37"
+    },
+    {
+        "id": 5006,
+        "name": "Isère",
+        "country": "FRA",
+        "state_code": "38"
+    },
+    {
+        "id": 5007,
+        "name": "Jura",
+        "country": "FRA",
+        "state_code": "39"
+    },
+    {
+        "id": 4823,
+        "name": "La Réunion",
+        "country": "FRA",
+        "state_code": "974"
+    },
+    {
+        "id": 5008,
+        "name": "Landes",
+        "country": "FRA",
+        "state_code": "40"
+    },
+    {
+        "id": 5009,
+        "name": "Loir-et-Cher",
+        "country": "FRA",
+        "state_code": "41"
+    },
+    {
+        "id": 5010,
+        "name": "Loire",
+        "country": "FRA",
+        "state_code": "42"
+    },
+    {
+        "id": 5012,
+        "name": "Loire-Atlantique",
+        "country": "FRA",
+        "state_code": "44"
+    },
+    {
+        "id": 5013,
+        "name": "Loiret",
+        "country": "FRA",
+        "state_code": "45"
+    },
+    {
+        "id": 5014,
+        "name": "Lot",
+        "country": "FRA",
+        "state_code": "46"
+    },
+    {
+        "id": 5015,
+        "name": "Lot-et-Garonne",
+        "country": "FRA",
+        "state_code": "47"
+    },
+    {
+        "id": 5016,
+        "name": "Lozère",
+        "country": "FRA",
+        "state_code": "48"
+    },
+    {
+        "id": 5017,
+        "name": "Maine-et-Loire",
+        "country": "FRA",
+        "state_code": "49"
+    },
+    {
+        "id": 5018,
+        "name": "Manche",
+        "country": "FRA",
+        "state_code": "50"
+    },
+    {
+        "id": 5019,
+        "name": "Marne",
+        "country": "FRA",
+        "state_code": "51"
+    },
+    {
+        "id": 4827,
+        "name": "Martinique",
+        "country": "FRA",
+        "state_code": "972"
+    },
+    {
+        "id": 5021,
+        "name": "Mayenne",
+        "country": "FRA",
+        "state_code": "53"
+    },
+    {
+        "id": 4797,
+        "name": "Mayotte",
+        "country": "FRA",
+        "state_code": "976"
+    },
+    {
+        "id": 5038,
+        "name": "Métropole de Lyon",
+        "country": "FRA",
+        "state_code": "69M"
+    },
+    {
+        "id": 5022,
+        "name": "Meurthe-et-Moselle",
+        "country": "FRA",
+        "state_code": "54"
+    },
+    {
+        "id": 5023,
+        "name": "Meuse",
+        "country": "FRA",
+        "state_code": "55"
+    },
+    {
+        "id": 5024,
+        "name": "Morbihan",
+        "country": "FRA",
+        "state_code": "56"
+    },
+    {
+        "id": 5025,
+        "name": "Moselle",
+        "country": "FRA",
+        "state_code": "57"
+    },
+    {
+        "id": 5026,
+        "name": "Nièvre",
+        "country": "FRA",
+        "state_code": "58"
+    },
+    {
+        "id": 5027,
+        "name": "Nord",
+        "country": "FRA",
+        "state_code": "59"
+    },
+    {
+        "id": 4804,
+        "name": "Normandie",
+        "country": "FRA",
+        "state_code": "NOR"
+    },
+    {
+        "id": 4795,
+        "name": "Nouvelle-Aquitaine",
+        "country": "FRA",
+        "state_code": "NAQ"
+    },
+    {
+        "id": 4799,
+        "name": "Occitanie",
+        "country": "FRA",
+        "state_code": "OCC"
+    },
+    {
+        "id": 5028,
+        "name": "Oise",
+        "country": "FRA",
+        "state_code": "60"
+    },
+    {
+        "id": 5029,
+        "name": "Orne",
+        "country": "FRA",
+        "state_code": "61"
+    },
+    {
+        "id": 4816,
+        "name": "Paris",
+        "country": "FRA",
+        "state_code": "75C"
+    },
+    {
+        "id": 5030,
+        "name": "Pas-de-Calais",
+        "country": "FRA",
+        "state_code": "62"
+    },
+    {
+        "id": 4802,
+        "name": "Pays-de-la-Loire",
+        "country": "FRA",
+        "state_code": "PDL"
+    },
+    {
+        "id": 4812,
+        "name": "Provence-Alpes-Côte-d’Azur",
+        "country": "FRA",
+        "state_code": "PAC"
+    },
+    {
+        "id": 5031,
+        "name": "Puy-de-Dôme",
+        "country": "FRA",
+        "state_code": "63"
+    },
+    {
+        "id": 5032,
+        "name": "Pyrénées-Atlantiques",
+        "country": "FRA",
+        "state_code": "64"
+    },
+    {
+        "id": 5034,
+        "name": "Pyrénées-Orientales",
+        "country": "FRA",
+        "state_code": "66"
+    },
+    {
+        "id": 5037,
+        "name": "Rhône",
+        "country": "FRA",
+        "state_code": "69"
+    },
+    {
+        "id": 4821,
+        "name": "Saint Pierre and Miquelon",
+        "country": "FRA",
+        "state_code": "PM"
+    },
+    {
+        "id": 4794,
+        "name": "Saint-Barthélemy",
+        "country": "FRA",
+        "state_code": "BL"
+    },
+    {
+        "id": 4809,
+        "name": "Saint-Martin",
+        "country": "FRA",
+        "state_code": "MF"
+    },
+    {
+        "id": 5040,
+        "name": "Saône-et-Loire",
+        "country": "FRA",
+        "state_code": "71"
+    },
+    {
+        "id": 5041,
+        "name": "Sarthe",
+        "country": "FRA",
+        "state_code": "72"
+    },
+    {
+        "id": 5042,
+        "name": "Savoie",
+        "country": "FRA",
+        "state_code": "73"
+    },
+    {
+        "id": 5045,
+        "name": "Seine-et-Marne",
+        "country": "FRA",
+        "state_code": "77"
+    },
+    {
+        "id": 5044,
+        "name": "Seine-Maritime",
+        "country": "FRA",
+        "state_code": "76"
+    },
+    {
+        "id": 5061,
+        "name": "Seine-Saint-Denis",
+        "country": "FRA",
+        "state_code": "93"
+    },
+    {
+        "id": 5048,
+        "name": "Somme",
+        "country": "FRA",
+        "state_code": "80"
+    },
+    {
+        "id": 5049,
+        "name": "Tarn",
+        "country": "FRA",
+        "state_code": "81"
+    },
+    {
+        "id": 5050,
+        "name": "Tarn-et-Garonne",
+        "country": "FRA",
+        "state_code": "82"
+    },
+    {
+        "id": 5058,
+        "name": "Territoire de Belfort",
+        "country": "FRA",
+        "state_code": "90"
+    },
+    {
+        "id": 5063,
+        "name": "Val-d'Oise",
+        "country": "FRA",
+        "state_code": "95"
+    },
+    {
+        "id": 5062,
+        "name": "Val-de-Marne",
+        "country": "FRA",
+        "state_code": "94"
+    },
+    {
+        "id": 5051,
+        "name": "Var",
+        "country": "FRA",
+        "state_code": "83"
+    },
+    {
+        "id": 5052,
+        "name": "Vaucluse",
+        "country": "FRA",
+        "state_code": "84"
+    },
+    {
+        "id": 5053,
+        "name": "Vendée",
+        "country": "FRA",
+        "state_code": "85"
+    },
+    {
+        "id": 5054,
+        "name": "Vienne",
+        "country": "FRA",
+        "state_code": "86"
+    },
+    {
+        "id": 5056,
+        "name": "Vosges",
+        "country": "FRA",
+        "state_code": "88"
+    },
+    {
+        "id": 4810,
+        "name": "Wallis and Futuna",
+        "country": "FRA",
+        "state_code": "WF"
+    },
+    {
+        "id": 5057,
+        "name": "Yonne",
+        "country": "FRA",
+        "state_code": "89"
+    },
+    {
+        "id": 5046,
+        "name": "Yvelines",
+        "country": "FRA",
+        "state_code": "78"
+    }
+]

@@ -1,1 +1,266 @@
-[{"id":0,"name":"Agirish","country":"RUS","state":"KHM"},{"id":1,"name":"Andra","country":"RUS","state":"KHM"},{"id":2,"name":"Barsovo","country":"RUS","state":"KHM"},{"id":3,"name":"Beloyarskiy","country":"RUS","state":"KHM"},{"id":4,"name":"Ber\u00ebzovo","country":"RUS","state":"KHM"},{"id":5,"name":"Fedorovskiy","country":"RUS","state":"KHM"},{"id":6,"name":"Gornopravdinsk","country":"RUS","state":"KHM"},{"id":7,"name":"Igrim","country":"RUS","state":"KHM"},{"id":8,"name":"Izluchinsk","country":"RUS","state":"KHM"},{"id":9,"name":"Khanty-Mansiysk","country":"RUS","state":"KHM"},{"id":10,"name":"Khulimsunt","country":"RUS","state":"KHM"},{"id":11,"name":"Kogalym","country":"RUS","state":"KHM"},{"id":12,"name":"Kommunisticheskiy","country":"RUS","state":"KHM"},{"id":13,"name":"Kondinskoye","country":"RUS","state":"KHM"},{"id":14,"name":"Kuminskiy","country":"RUS","state":"KHM"},{"id":15,"name":"Langepas","country":"RUS","state":"KHM"},{"id":16,"name":"Lokosovo","country":"RUS","state":"KHM"},{"id":17,"name":"Lyantor","country":"RUS","state":"KHM"},{"id":18,"name":"Malinovskiy","country":"RUS","state":"KHM"},{"id":19,"name":"Megion","country":"RUS","state":"KHM"},{"id":20,"name":"Mezhdurechenskiy","country":"RUS","state":"KHM"},{"id":21,"name":"Mortka","country":"RUS","state":"KHM"},{"id":22,"name":"Nefteyugansk","country":"RUS","state":"KHM"},{"id":23,"name":"Nizhnesortymskiy","country":"RUS","state":"KHM"},{"id":24,"name":"Nizhnevartovsk","country":"RUS","state":"KHM"},{"id":25,"name":"Novoagansk","country":"RUS","state":"KHM"},{"id":26,"name":"Nyagan","country":"RUS","state":"KHM"},{"id":27,"name":"Pionerskiy","country":"RUS","state":"KHM"},{"id":28,"name":"Pokachi","country":"RUS","state":"KHM"},{"id":29,"name":"Poykovskiy","country":"RUS","state":"KHM"},{"id":30,"name":"Priob\u2019ye","country":"RUS","state":"KHM"},{"id":31,"name":"Pyt-Yakh","country":"RUS","state":"KHM"},{"id":32,"name":"Raduzhny","country":"RUS","state":"KHM"},{"id":33,"name":"Russkinskiye","country":"RUS","state":"KHM"},{"id":34,"name":"Salym","country":"RUS","state":"KHM"},{"id":35,"name":"Saranpaul\u2019","country":"RUS","state":"KHM"},{"id":36,"name":"Sherkaly","country":"RUS","state":"KHM"},{"id":37,"name":"Singapay","country":"RUS","state":"KHM"},{"id":38,"name":"Solnechniy","country":"RUS","state":"KHM"},{"id":39,"name":"Sovetskiy","country":"RUS","state":"KHM"},{"id":40,"name":"Surgut","country":"RUS","state":"KHM"},{"id":41,"name":"Uray","country":"RUS","state":"KHM"},{"id":42,"name":"Yugorsk","country":"RUS","state":"KHM"},{"id":43,"name":"Zelenoborsk","country":"RUS","state":"KHM"}]
+[
+    {
+        "id": 97519,
+        "name": "Agirish",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 97625,
+        "name": "Andra",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 97797,
+        "name": "Barsovo",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 97869,
+        "name": "Beloyarskiy",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 97906,
+        "name": "Berëzovo",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 98417,
+        "name": "Fedorovskiy",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 98531,
+        "name": "Gornopravdinsk",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 98635,
+        "name": "Igrim",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 98750,
+        "name": "Izluchinsk",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 98962,
+        "name": "Khanty-Mansiysk",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 99017,
+        "name": "Khulimsunt",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 99128,
+        "name": "Kogalym",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 99167,
+        "name": "Kommunisticheskiy",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 99179,
+        "name": "Kondinskoye",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 99441,
+        "name": "Kuminskiy",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 99544,
+        "name": "Langepas",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 99653,
+        "name": "Lokosovo",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 99705,
+        "name": "Lyantor",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 99758,
+        "name": "Malinovskiy",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 99851,
+        "name": "Megion",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 99881,
+        "name": "Mezhdurechenskiy",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 99968,
+        "name": "Mortka",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 100088,
+        "name": "Nefteyugansk",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 100158,
+        "name": "Nizhnesortymskiy",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 100160,
+        "name": "Nizhnevartovsk",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 100221,
+        "name": "Novoagansk",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 100373,
+        "name": "Nyagan",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 100681,
+        "name": "Pionerskiy",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 100739,
+        "name": "Pokachi",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 100798,
+        "name": "Poykovskiy",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 100836,
+        "name": "Priob’ye",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 100917,
+        "name": "Pyt-Yakh",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 100927,
+        "name": "Raduzhny",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 101030,
+        "name": "Russkinskiye",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 101082,
+        "name": "Salym",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 101109,
+        "name": "Saranpaul’",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 101307,
+        "name": "Sherkaly",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 101375,
+        "name": "Singapay",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 101452,
+        "name": "Solnechniy",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 101511,
+        "name": "Sovetskiy",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 101676,
+        "name": "Surgut",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 102071,
+        "name": "Uray",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 102588,
+        "name": "Yugorsk",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 102691,
+        "name": "Zelenoborsk",
+        "country": "RUS",
+        "state": "KHM"
+    }
+]

@@ -1,1 +1,62 @@
-[{"id":0,"name":"Barima-Waini","iso3":"BA","country":"GUY"},{"id":1,"name":"Cuyuni-Mazaruni","iso3":"CU","country":"GUY"},{"id":2,"name":"Demerara-Mahaica","iso3":"DE","country":"GUY"},{"id":3,"name":"East Berbice-Corentyne","iso3":"EB","country":"GUY"},{"id":4,"name":"Essequibo Islands-West Demerara","iso3":"ES","country":"GUY"},{"id":5,"name":"Mahaica-Berbice","iso3":"MA","country":"GUY"},{"id":6,"name":"Pomeroon-Supenaam","iso3":"PM","country":"GUY"},{"id":7,"name":"Potaro-Siparuni","iso3":"PT","country":"GUY"},{"id":8,"name":"Upper Demerara-Berbice","iso3":"UD","country":"GUY"},{"id":9,"name":"Upper Takutu-Upper Essequibo","iso3":"UT","country":"GUY"}]
+[
+    {
+        "id": 2764,
+        "name": "Barima-Waini",
+        "country": "GUY",
+        "state_code": "BA"
+    },
+    {
+        "id": 2760,
+        "name": "Cuyuni-Mazaruni",
+        "country": "GUY",
+        "state_code": "CU"
+    },
+    {
+        "id": 2767,
+        "name": "Demerara-Mahaica",
+        "country": "GUY",
+        "state_code": "DE"
+    },
+    {
+        "id": 2766,
+        "name": "East Berbice-Corentyne",
+        "country": "GUY",
+        "state_code": "EB"
+    },
+    {
+        "id": 2768,
+        "name": "Essequibo Islands-West Demerara",
+        "country": "GUY",
+        "state_code": "ES"
+    },
+    {
+        "id": 2762,
+        "name": "Mahaica-Berbice",
+        "country": "GUY",
+        "state_code": "MA"
+    },
+    {
+        "id": 2765,
+        "name": "Pomeroon-Supenaam",
+        "country": "GUY",
+        "state_code": "PM"
+    },
+    {
+        "id": 2761,
+        "name": "Potaro-Siparuni",
+        "country": "GUY",
+        "state_code": "PT"
+    },
+    {
+        "id": 2763,
+        "name": "Upper Demerara-Berbice",
+        "country": "GUY",
+        "state_code": "UD"
+    },
+    {
+        "id": 2769,
+        "name": "Upper Takutu-Upper Essequibo",
+        "country": "GUY",
+        "state_code": "UT"
+    }
+]

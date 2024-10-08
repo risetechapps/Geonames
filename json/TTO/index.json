@@ -1,1 +1,98 @@
-[{"id":0,"name":"Arima","iso3":"ARI","country":"TTO"},{"id":1,"name":"Chaguanas","iso3":"CHA","country":"TTO"},{"id":2,"name":"Couva-Tabaquite-Talparo Regional Corporation","iso3":"CTT","country":"TTO"},{"id":3,"name":"Diego Martin Regional Corporation","iso3":"DMN","country":"TTO"},{"id":4,"name":"Eastern Tobago","iso3":"ETO","country":"TTO"},{"id":5,"name":"Penal-Debe Regional Corporation","iso3":"PED","country":"TTO"},{"id":6,"name":"Point Fortin","iso3":"PTF","country":"TTO"},{"id":7,"name":"Port of Spain","iso3":"POS","country":"TTO"},{"id":8,"name":"Princes Town Regional Corporation","iso3":"PRT","country":"TTO"},{"id":9,"name":"Rio Claro-Mayaro Regional Corporation","iso3":"MRC","country":"TTO"},{"id":10,"name":"San Fernando","iso3":"SFO","country":"TTO"},{"id":11,"name":"San Juan-Laventille Regional Corporation","iso3":"SJL","country":"TTO"},{"id":12,"name":"Sangre Grande Regional Corporation","iso3":"SGE","country":"TTO"},{"id":13,"name":"Siparia Regional Corporation","iso3":"SIP","country":"TTO"},{"id":14,"name":"Tunapuna-Piarco Regional Corporation","iso3":"TUP","country":"TTO"},{"id":15,"name":"Western Tobago","iso3":"WTO","country":"TTO"}]
+[
+    {
+        "id": 3362,
+        "name": "Arima",
+        "country": "TTO",
+        "state_code": "ARI"
+    },
+    {
+        "id": 3366,
+        "name": "Chaguanas",
+        "country": "TTO",
+        "state_code": "CHA"
+    },
+    {
+        "id": 3354,
+        "name": "Couva-Tabaquite-Talparo Regional Corporation",
+        "country": "TTO",
+        "state_code": "CTT"
+    },
+    {
+        "id": 3367,
+        "name": "Diego Martin Regional Corporation",
+        "country": "TTO",
+        "state_code": "DMN"
+    },
+    {
+        "id": 3355,
+        "name": "Eastern Tobago",
+        "country": "TTO",
+        "state_code": "ETO"
+    },
+    {
+        "id": 3365,
+        "name": "Penal-Debe Regional Corporation",
+        "country": "TTO",
+        "state_code": "PED"
+    },
+    {
+        "id": 3360,
+        "name": "Point Fortin",
+        "country": "TTO",
+        "state_code": "PTF"
+    },
+    {
+        "id": 3363,
+        "name": "Port of Spain",
+        "country": "TTO",
+        "state_code": "POS"
+    },
+    {
+        "id": 3368,
+        "name": "Princes Town Regional Corporation",
+        "country": "TTO",
+        "state_code": "PRT"
+    },
+    {
+        "id": 3356,
+        "name": "Rio Claro-Mayaro Regional Corporation",
+        "country": "TTO",
+        "state_code": "MRC"
+    },
+    {
+        "id": 3359,
+        "name": "San Fernando",
+        "country": "TTO",
+        "state_code": "SFO"
+    },
+    {
+        "id": 3357,
+        "name": "San Juan-Laventille Regional Corporation",
+        "country": "TTO",
+        "state_code": "SJL"
+    },
+    {
+        "id": 3361,
+        "name": "Sangre Grande Regional Corporation",
+        "country": "TTO",
+        "state_code": "SGE"
+    },
+    {
+        "id": 3364,
+        "name": "Siparia Regional Corporation",
+        "country": "TTO",
+        "state_code": "SIP"
+    },
+    {
+        "id": 3358,
+        "name": "Tunapuna-Piarco Regional Corporation",
+        "country": "TTO",
+        "state_code": "TUP"
+    },
+    {
+        "id": 3353,
+        "name": "Western Tobago",
+        "country": "TTO",
+        "state_code": "WTO"
+    }
+]

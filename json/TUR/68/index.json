@@ -1,1 +1,50 @@
-[{"id":0,"name":"A\u011fa\u00e7\u00f6ren","country":"TUR","state":"68"},{"id":1,"name":"Eskil","country":"TUR","state":"68"},{"id":2,"name":"G\u00fcla\u011fa\u00e7","country":"TUR","state":"68"},{"id":3,"name":"G\u00fczelyurt","country":"TUR","state":"68"},{"id":4,"name":"Merkez","country":"TUR","state":"68"},{"id":5,"name":"Ortak\u00f6y","country":"TUR","state":"68"},{"id":6,"name":"Sar\u0131yah\u015fi","country":"TUR","state":"68"},{"id":7,"name":"Sultanhan\u0131","country":"TUR","state":"68"}]
+[
+    {
+        "id": 107239,
+        "name": "Ağaçören",
+        "country": "TUR",
+        "state": "68"
+    },
+    {
+        "id": 107606,
+        "name": "Eskil",
+        "country": "TUR",
+        "state": "68"
+    },
+    {
+        "id": 107727,
+        "name": "Gülağaç",
+        "country": "TUR",
+        "state": "68"
+    },
+    {
+        "id": 107761,
+        "name": "Güzelyurt",
+        "country": "TUR",
+        "state": "68"
+    },
+    {
+        "id": 108178,
+        "name": "Merkez",
+        "country": "TUR",
+        "state": "68"
+    },
+    {
+        "id": 108283,
+        "name": "Ortaköy",
+        "country": "TUR",
+        "state": "68"
+    },
+    {
+        "id": 108409,
+        "name": "Sarıyahşi",
+        "country": "TUR",
+        "state": "68"
+    },
+    {
+        "id": 108496,
+        "name": "Sultanhanı",
+        "country": "TUR",
+        "state": "68"
+    }
+]

@@ -1,1 +1,32 @@
-[{"id":0,"name":"H\u00fasav\u00edk","country":"FRO","state":"SA"},{"id":1,"name":"Sandur","country":"FRO","state":"SA"},{"id":2,"name":"Sk\u00e1lav\u00edk","country":"FRO","state":"SA"},{"id":3,"name":"Skopun","country":"FRO","state":"SA"},{"id":4,"name":"Sk\u00favoy","country":"FRO","state":"SA"}]
+[
+    {
+        "id": 153769,
+        "name": "Húsavík",
+        "country": "FRO",
+        "state": "SA"
+    },
+    {
+        "id": 153761,
+        "name": "Sandur",
+        "country": "FRO",
+        "state": "SA"
+    },
+    {
+        "id": 153768,
+        "name": "Skálavík",
+        "country": "FRO",
+        "state": "SA"
+    },
+    {
+        "id": 153762,
+        "name": "Skopun",
+        "country": "FRO",
+        "state": "SA"
+    },
+    {
+        "id": 153772,
+        "name": "Skúvoy",
+        "country": "FRO",
+        "state": "SA"
+    }
+]

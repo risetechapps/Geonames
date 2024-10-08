@@ -1,1 +1,80 @@
-[{"id":0,"name":"Alberta","iso3":"AB","country":"CAN"},{"id":1,"name":"British Columbia","iso3":"BC","country":"CAN"},{"id":2,"name":"Manitoba","iso3":"MB","country":"CAN"},{"id":3,"name":"New Brunswick","iso3":"NB","country":"CAN"},{"id":4,"name":"Newfoundland and Labrador","iso3":"NL","country":"CAN"},{"id":5,"name":"Northwest Territories","iso3":"NT","country":"CAN"},{"id":6,"name":"Nova Scotia","iso3":"NS","country":"CAN"},{"id":7,"name":"Nunavut","iso3":"NU","country":"CAN"},{"id":8,"name":"Ontario","iso3":"ON","country":"CAN"},{"id":9,"name":"Prince Edward Island","iso3":"PE","country":"CAN"},{"id":10,"name":"Quebec","iso3":"QC","country":"CAN"},{"id":11,"name":"Saskatchewan","iso3":"SK","country":"CAN"},{"id":12,"name":"Yukon","iso3":"YT","country":"CAN"}]
+[
+    {
+        "id": 872,
+        "name": "Alberta",
+        "country": "CAN",
+        "state_code": "AB"
+    },
+    {
+        "id": 875,
+        "name": "British Columbia",
+        "country": "CAN",
+        "state_code": "BC"
+    },
+    {
+        "id": 867,
+        "name": "Manitoba",
+        "country": "CAN",
+        "state_code": "MB"
+    },
+    {
+        "id": 868,
+        "name": "New Brunswick",
+        "country": "CAN",
+        "state_code": "NB"
+    },
+    {
+        "id": 877,
+        "name": "Newfoundland and Labrador",
+        "country": "CAN",
+        "state_code": "NL"
+    },
+    {
+        "id": 878,
+        "name": "Northwest Territories",
+        "country": "CAN",
+        "state_code": "NT"
+    },
+    {
+        "id": 874,
+        "name": "Nova Scotia",
+        "country": "CAN",
+        "state_code": "NS"
+    },
+    {
+        "id": 876,
+        "name": "Nunavut",
+        "country": "CAN",
+        "state_code": "NU"
+    },
+    {
+        "id": 866,
+        "name": "Ontario",
+        "country": "CAN",
+        "state_code": "ON"
+    },
+    {
+        "id": 871,
+        "name": "Prince Edward Island",
+        "country": "CAN",
+        "state_code": "PE"
+    },
+    {
+        "id": 873,
+        "name": "Quebec",
+        "country": "CAN",
+        "state_code": "QC"
+    },
+    {
+        "id": 870,
+        "name": "Saskatchewan",
+        "country": "CAN",
+        "state_code": "SK"
+    },
+    {
+        "id": 869,
+        "name": "Yukon",
+        "country": "CAN",
+        "state_code": "YT"
+    }
+]

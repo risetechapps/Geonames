@@ -1,1 +1,344 @@
-[{"id":0,"name":"Dait\u014d Shi","country":"JPN","state":"27"},{"id":1,"name":"Dait\u014dch\u014d","country":"JPN","state":"27"},{"id":2,"name":"Fujiidera-shi","country":"JPN","state":"27"},{"id":3,"name":"Habikino-shi","country":"JPN","state":"27"},{"id":4,"name":"Hannan","country":"JPN","state":"27"},{"id":5,"name":"Hannan Shi","country":"JPN","state":"27"},{"id":6,"name":"Higashi\u014dsaka Shi","country":"JPN","state":"27"},{"id":7,"name":"Hirakata","country":"JPN","state":"27"},{"id":8,"name":"Hirakata Shi","country":"JPN","state":"27"},{"id":9,"name":"Ibaraki","country":"JPN","state":"27"},{"id":10,"name":"Ibaraki Shi","country":"JPN","state":"27"},{"id":11,"name":"Ikeda","country":"JPN","state":"27"},{"id":12,"name":"Ikeda Shi","country":"JPN","state":"27"},{"id":13,"name":"Izumi","country":"JPN","state":"27"},{"id":14,"name":"Izumi Shi","country":"JPN","state":"27"},{"id":15,"name":"Izumi\u014dtsu","country":"JPN","state":"27"},{"id":16,"name":"Izumi\u014dtsu Shi","country":"JPN","state":"27"},{"id":17,"name":"Izumisano","country":"JPN","state":"27"},{"id":18,"name":"Izumisano Shi","country":"JPN","state":"27"},{"id":19,"name":"Kadoma","country":"JPN","state":"27"},{"id":20,"name":"Kadoma Shi","country":"JPN","state":"27"},{"id":21,"name":"Kaizuka","country":"JPN","state":"27"},{"id":22,"name":"Kaizuka Shi","country":"JPN","state":"27"},{"id":23,"name":"Kashihara","country":"JPN","state":"27"},{"id":24,"name":"Kashiwara-shi","country":"JPN","state":"27"},{"id":25,"name":"Katano Shi","country":"JPN","state":"27"},{"id":26,"name":"Kawachi-nagano Shi","country":"JPN","state":"27"},{"id":27,"name":"Kishiwada","country":"JPN","state":"27"},{"id":28,"name":"Kishiwada Shi","country":"JPN","state":"27"},{"id":29,"name":"Matsubara","country":"JPN","state":"27"},{"id":30,"name":"Matsubara-shi","country":"JPN","state":"27"},{"id":31,"name":"Mino","country":"JPN","state":"27"},{"id":32,"name":"Minoo Shi","country":"JPN","state":"27"},{"id":33,"name":"Mishima-gun","country":"JPN","state":"27"},{"id":34,"name":"Moriguchi","country":"JPN","state":"27"},{"id":35,"name":"Neyagawa","country":"JPN","state":"27"},{"id":36,"name":"Neyagawa Shi","country":"JPN","state":"27"},{"id":37,"name":"Osaka","country":"JPN","state":"27"},{"id":38,"name":"\u014csaka-sayama Shi","country":"JPN","state":"27"},{"id":39,"name":"Sakai","country":"JPN","state":"27"},{"id":40,"name":"Sakai Shi","country":"JPN","state":"27"},{"id":41,"name":"Sennan Shi","country":"JPN","state":"27"},{"id":42,"name":"Settsu Shi","country":"JPN","state":"27"},{"id":43,"name":"Shijonawate Shi","country":"JPN","state":"27"},{"id":44,"name":"Suita","country":"JPN","state":"27"},{"id":45,"name":"Suita Shi","country":"JPN","state":"27"},{"id":46,"name":"Tajiri","country":"JPN","state":"27"},{"id":47,"name":"Takaishi","country":"JPN","state":"27"},{"id":48,"name":"Takaishi Shi","country":"JPN","state":"27"},{"id":49,"name":"Takatsuki","country":"JPN","state":"27"},{"id":50,"name":"Takatsuki Shi","country":"JPN","state":"27"},{"id":51,"name":"Tondabayashi Shi","country":"JPN","state":"27"},{"id":52,"name":"Tondabayashich\u014d","country":"JPN","state":"27"},{"id":53,"name":"Toyonaka","country":"JPN","state":"27"},{"id":54,"name":"Toyonaka Shi","country":"JPN","state":"27"},{"id":55,"name":"Yao","country":"JPN","state":"27"},{"id":56,"name":"Yao-shi","country":"JPN","state":"27"}]
+[
+    {
+        "id": 63320,
+        "name": "Daitō Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63321,
+        "name": "Daitōchō",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63343,
+        "name": "Fujiidera-shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63405,
+        "name": "Habikino-shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63435,
+        "name": "Hannan",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63436,
+        "name": "Hannan Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63471,
+        "name": "Higashiōsaka Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63489,
+        "name": "Hirakata",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63490,
+        "name": "Hirakata Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63533,
+        "name": "Ibaraki",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63534,
+        "name": "Ibaraki Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63554,
+        "name": "Ikeda",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63555,
+        "name": "Ikeda Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63640,
+        "name": "Izumi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63643,
+        "name": "Izumi Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63646,
+        "name": "Izumiōtsu",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63647,
+        "name": "Izumiōtsu Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63644,
+        "name": "Izumisano",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63645,
+        "name": "Izumisano Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63655,
+        "name": "Kadoma",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63656,
+        "name": "Kadoma Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63665,
+        "name": "Kaizuka",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63666,
+        "name": "Kaizuka Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63734,
+        "name": "Kashihara",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63741,
+        "name": "Kashiwara-shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63753,
+        "name": "Katano Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63766,
+        "name": "Kawachi-nagano Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63795,
+        "name": "Kishiwada",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63796,
+        "name": "Kishiwada Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63929,
+        "name": "Matsubara",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63930,
+        "name": "Matsubara-shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63976,
+        "name": "Mino",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63981,
+        "name": "Minoo Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 63987,
+        "name": "Mishima-gun",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64029,
+        "name": "Moriguchi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64123,
+        "name": "Neyagawa",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64124,
+        "name": "Neyagawa Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64214,
+        "name": "Osaka",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64751,
+        "name": "Ōsaka-sayama Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64256,
+        "name": "Sakai",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64257,
+        "name": "Sakai Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64301,
+        "name": "Sennan Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64307,
+        "name": "Settsu Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64319,
+        "name": "Shijonawate Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64379,
+        "name": "Suita",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64380,
+        "name": "Suita Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64417,
+        "name": "Tajiri",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64425,
+        "name": "Takaishi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64426,
+        "name": "Takaishi Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64440,
+        "name": "Takatsuki",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64441,
+        "name": "Takatsuki Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64512,
+        "name": "Tondabayashi Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64513,
+        "name": "Tondabayashichō",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64529,
+        "name": "Toyonaka",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64530,
+        "name": "Toyonaka Shi",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64654,
+        "name": "Yao",
+        "country": "JPN",
+        "state": "27"
+    },
+    {
+        "id": 64655,
+        "name": "Yao-shi",
+        "country": "JPN",
+        "state": "27"
+    }
+]

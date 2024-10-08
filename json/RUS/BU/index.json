@@ -1,1 +1,398 @@
-[{"id":0,"name":"Babushkin","country":"RUS","state":"BU"},{"id":1,"name":"Bagdarin","country":"RUS","state":"BU"},{"id":2,"name":"Barguzin","country":"RUS","state":"BU"},{"id":3,"name":"Bayangol","country":"RUS","state":"BU"},{"id":4,"name":"Bichura","country":"RUS","state":"BU"},{"id":5,"name":"Bol\u2019shoy Kunaley","country":"RUS","state":"BU"},{"id":6,"name":"Dzhida","country":"RUS","state":"BU"},{"id":7,"name":"Gusinoozyorsk","country":"RUS","state":"BU"},{"id":8,"name":"Gusinoye Ozero","country":"RUS","state":"BU"},{"id":9,"name":"Il\u2019inka","country":"RUS","state":"BU"},{"id":10,"name":"Il\u2019ka","country":"RUS","state":"BU"},{"id":11,"name":"Istok","country":"RUS","state":"BU"},{"id":12,"name":"Ivolginsk","country":"RUS","state":"BU"},{"id":13,"name":"Ivolginskiy Rayon","country":"RUS","state":"BU"},{"id":14,"name":"Kabansk","country":"RUS","state":"BU"},{"id":15,"name":"Kholtoson","country":"RUS","state":"BU"},{"id":16,"name":"Khonkholoy","country":"RUS","state":"BU"},{"id":17,"name":"Khorinsk","country":"RUS","state":"BU"},{"id":18,"name":"Kichera","country":"RUS","state":"BU"},{"id":19,"name":"Kizhinga","country":"RUS","state":"BU"},{"id":20,"name":"Kudara-Somon","country":"RUS","state":"BU"},{"id":21,"name":"Kurumkan","country":"RUS","state":"BU"},{"id":22,"name":"Kyakhta","country":"RUS","state":"BU"},{"id":23,"name":"Kyren","country":"RUS","state":"BU"},{"id":24,"name":"Mukhorshibir\u2019","country":"RUS","state":"BU"},{"id":25,"name":"Mukhorshibirskiy Rayon","country":"RUS","state":"BU"},{"id":26,"name":"Muyskiy Rayon","country":"RUS","state":"BU"},{"id":27,"name":"Naushki","country":"RUS","state":"BU"},{"id":28,"name":"Nikol\u2019sk","country":"RUS","state":"BU"},{"id":29,"name":"Nikolayevskiy","country":"RUS","state":"BU"},{"id":30,"name":"Nizhneangarsk","country":"RUS","state":"BU"},{"id":31,"name":"Nizhniy Sayantuy","country":"RUS","state":"BU"},{"id":32,"name":"Novaya Bryan\u2019","country":"RUS","state":"BU"},{"id":33,"name":"Novokizhinginsk","country":"RUS","state":"BU"},{"id":34,"name":"Novyy Uoyan","country":"RUS","state":"BU"},{"id":35,"name":"Novyy Zagan","country":"RUS","state":"BU"},{"id":36,"name":"Okino-Klyuchi","country":"RUS","state":"BU"},{"id":37,"name":"Okinskiy Rayon","country":"RUS","state":"BU"},{"id":38,"name":"Onokhoy","country":"RUS","state":"BU"},{"id":39,"name":"Orlik","country":"RUS","state":"BU"},{"id":40,"name":"Petropavlovka","country":"RUS","state":"BU"},{"id":41,"name":"Pribaykal\u2019skiy Rayon","country":"RUS","state":"BU"},{"id":42,"name":"Rechka-Vydrino","country":"RUS","state":"BU"},{"id":43,"name":"Sagan-Nur","country":"RUS","state":"BU"},{"id":44,"name":"Selenduma","country":"RUS","state":"BU"},{"id":45,"name":"Selenginskiy Rayon","country":"RUS","state":"BU"},{"id":46,"name":"Severo-Baykal\u2019skiy Rayon","country":"RUS","state":"BU"},{"id":47,"name":"Severobaykal\u2019sk","country":"RUS","state":"BU"},{"id":48,"name":"Severomuysk","country":"RUS","state":"BU"},{"id":49,"name":"Sharalday","country":"RUS","state":"BU"},{"id":50,"name":"Sokol","country":"RUS","state":"BU"},{"id":51,"name":"Sosnovo-Ozerskoye","country":"RUS","state":"BU"},{"id":52,"name":"Sotnikovo","country":"RUS","state":"BU"},{"id":53,"name":"Taksimo","country":"RUS","state":"BU"},{"id":54,"name":"Tankhoy","country":"RUS","state":"BU"},{"id":55,"name":"Tarbagatay","country":"RUS","state":"BU"},{"id":56,"name":"Tataurovo","country":"RUS","state":"BU"},{"id":57,"name":"Turka","country":"RUS","state":"BU"},{"id":58,"name":"Turuntayevo","country":"RUS","state":"BU"},{"id":59,"name":"Ulan-Ude","country":"RUS","state":"BU"},{"id":60,"name":"Ust\u2019-Barguzin","country":"RUS","state":"BU"},{"id":61,"name":"Vydrino","country":"RUS","state":"BU"},{"id":62,"name":"Zaigrayevo","country":"RUS","state":"BU"},{"id":63,"name":"Zakamensk","country":"RUS","state":"BU"},{"id":64,"name":"Zarechnyy","country":"RUS","state":"BU"},{"id":65,"name":"Zhemchug","country":"RUS","state":"BU"}]
+[
+    {
+        "id": 97745,
+        "name": "Babushkin",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 97753,
+        "name": "Bagdarin",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 97794,
+        "name": "Barguzin",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 97822,
+        "name": "Bayangol",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 97925,
+        "name": "Bichura",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 98011,
+        "name": "Bol’shoy Kunaley",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 98377,
+        "name": "Dzhida",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 98620,
+        "name": "Gusinoozyorsk",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 98621,
+        "name": "Gusinoye Ozero",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 98652,
+        "name": "Il’inka",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 98659,
+        "name": "Il’ka",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 98718,
+        "name": "Istok",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 98741,
+        "name": "Ivolginsk",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 98742,
+        "name": "Ivolginskiy Rayon",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 98764,
+        "name": "Kabansk",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 99000,
+        "name": "Kholtoson",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 99003,
+        "name": "Khonkholoy",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 99005,
+        "name": "Khorinsk",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 99031,
+        "name": "Kichera",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 99089,
+        "name": "Kizhinga",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 99418,
+        "name": "Kudara-Somon",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 99478,
+        "name": "Kurumkan",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 99516,
+        "name": "Kyakhta",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 99519,
+        "name": "Kyren",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 99998,
+        "name": "Mukhorshibir’",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 99997,
+        "name": "Mukhorshibirskiy Rayon",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100024,
+        "name": "Muyskiy Rayon",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100069,
+        "name": "Naushki",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100145,
+        "name": "Nikol’sk",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100138,
+        "name": "Nikolayevskiy",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100150,
+        "name": "Nizhneangarsk",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100175,
+        "name": "Nizhniy Sayantuy",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100200,
+        "name": "Novaya Bryan’",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100251,
+        "name": "Novokizhinginsk",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100351,
+        "name": "Novyy Uoyan",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100355,
+        "name": "Novyy Zagan",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100404,
+        "name": "Okino-Klyuchi",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100405,
+        "name": "Okinskiy Rayon",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100451,
+        "name": "Onokhoy",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100469,
+        "name": "Orlik",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100651,
+        "name": "Petropavlovka",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100816,
+        "name": "Pribaykal’skiy Rayon",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 100957,
+        "name": "Rechka-Vydrino",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101072,
+        "name": "Sagan-Nur",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101151,
+        "name": "Selenduma",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101152,
+        "name": "Selenginskiy Rayon",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101211,
+        "name": "Severo-Baykal’skiy Rayon",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101216,
+        "name": "Severobaykal’sk",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101220,
+        "name": "Severomuysk",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101257,
+        "name": "Sharalday",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101434,
+        "name": "Sokol",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101492,
+        "name": "Sosnovo-Ozerskoye",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101500,
+        "name": "Sotnikovo",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101745,
+        "name": "Taksimo",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101766,
+        "name": "Tankhoy",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101772,
+        "name": "Tarbagatay",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101796,
+        "name": "Tataurovo",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101978,
+        "name": "Turka",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 101983,
+        "name": "Turuntayevo",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 102044,
+        "name": "Ulan-Ude",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 102115,
+        "name": "Ust’-Barguzin",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 102428,
+        "name": "Vydrino",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 102630,
+        "name": "Zaigrayevo",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 102633,
+        "name": "Zakamensk",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 102655,
+        "name": "Zarechnyy",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 102723,
+        "name": "Zhemchug",
+        "country": "RUS",
+        "state": "BU"
+    }
+]

@@ -1,1 +1,104 @@
-[{"id":0,"name":"Boaco","iso3":"BO","country":"NIC"},{"id":1,"name":"Carazo","iso3":"CA","country":"NIC"},{"id":2,"name":"Chinandega","iso3":"CI","country":"NIC"},{"id":3,"name":"Chontales","iso3":"CO","country":"NIC"},{"id":4,"name":"Estel\u00ed","iso3":"ES","country":"NIC"},{"id":5,"name":"Granada","iso3":"GR","country":"NIC"},{"id":6,"name":"Jinotega","iso3":"JI","country":"NIC"},{"id":7,"name":"Le\u00f3n","iso3":"LE","country":"NIC"},{"id":8,"name":"Madriz","iso3":"MD","country":"NIC"},{"id":9,"name":"Managua","iso3":"MN","country":"NIC"},{"id":10,"name":"Masaya","iso3":"MS","country":"NIC"},{"id":11,"name":"Matagalpa","iso3":"MT","country":"NIC"},{"id":12,"name":"North Caribbean Coast","iso3":"AN","country":"NIC"},{"id":13,"name":"Nueva Segovia","iso3":"NS","country":"NIC"},{"id":14,"name":"R\u00edo San Juan","iso3":"SJ","country":"NIC"},{"id":15,"name":"Rivas","iso3":"RI","country":"NIC"},{"id":16,"name":"South Caribbean Coast","iso3":"AS","country":"NIC"}]
+[
+    {
+        "id": 946,
+        "name": "Boaco",
+        "country": "NIC",
+        "state_code": "BO"
+    },
+    {
+        "id": 950,
+        "name": "Carazo",
+        "country": "NIC",
+        "state_code": "CA"
+    },
+    {
+        "id": 954,
+        "name": "Chinandega",
+        "country": "NIC",
+        "state_code": "CI"
+    },
+    {
+        "id": 940,
+        "name": "Chontales",
+        "country": "NIC",
+        "state_code": "CO"
+    },
+    {
+        "id": 945,
+        "name": "Estelí",
+        "country": "NIC",
+        "state_code": "ES"
+    },
+    {
+        "id": 943,
+        "name": "Granada",
+        "country": "NIC",
+        "state_code": "GR"
+    },
+    {
+        "id": 955,
+        "name": "Jinotega",
+        "country": "NIC",
+        "state_code": "JI"
+    },
+    {
+        "id": 944,
+        "name": "León",
+        "country": "NIC",
+        "state_code": "LE"
+    },
+    {
+        "id": 948,
+        "name": "Madriz",
+        "country": "NIC",
+        "state_code": "MD"
+    },
+    {
+        "id": 941,
+        "name": "Managua",
+        "country": "NIC",
+        "state_code": "MN"
+    },
+    {
+        "id": 953,
+        "name": "Masaya",
+        "country": "NIC",
+        "state_code": "MS"
+    },
+    {
+        "id": 947,
+        "name": "Matagalpa",
+        "country": "NIC",
+        "state_code": "MT"
+    },
+    {
+        "id": 951,
+        "name": "North Caribbean Coast",
+        "country": "NIC",
+        "state_code": "AN"
+    },
+    {
+        "id": 4964,
+        "name": "Nueva Segovia",
+        "country": "NIC",
+        "state_code": "NS"
+    },
+    {
+        "id": 949,
+        "name": "Río San Juan",
+        "country": "NIC",
+        "state_code": "SJ"
+    },
+    {
+        "id": 942,
+        "name": "Rivas",
+        "country": "NIC",
+        "state_code": "RI"
+    },
+    {
+        "id": 952,
+        "name": "South Caribbean Coast",
+        "country": "NIC",
+        "state_code": "AS"
+    }
+]

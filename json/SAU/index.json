@@ -1,1 +1,80 @@
-[{"id":0,"name":"'Asir","iso3":"14","country":"SAU"},{"id":1,"name":"Al Bahah","iso3":"11","country":"SAU"},{"id":2,"name":"Al Jawf","iso3":"12","country":"SAU"},{"id":3,"name":"Al Madinah","iso3":"03","country":"SAU"},{"id":4,"name":"Al-Qassim","iso3":"05","country":"SAU"},{"id":5,"name":"Eastern Province","iso3":"04","country":"SAU"},{"id":6,"name":"Ha'il","iso3":"06","country":"SAU"},{"id":7,"name":"Jizan","iso3":"09","country":"SAU"},{"id":8,"name":"Makkah","iso3":"02","country":"SAU"},{"id":9,"name":"Najran","iso3":"10","country":"SAU"},{"id":10,"name":"Northern Borders","iso3":"08","country":"SAU"},{"id":11,"name":"Riyadh","iso3":"01","country":"SAU"},{"id":12,"name":"Tabuk","iso3":"07","country":"SAU"}]
+[
+    {
+        "id": 2853,
+        "name": "'Asir",
+        "country": "SAU",
+        "state_code": "14"
+    },
+    {
+        "id": 2859,
+        "name": "Al Bahah",
+        "country": "SAU",
+        "state_code": "11"
+    },
+    {
+        "id": 2857,
+        "name": "Al Jawf",
+        "country": "SAU",
+        "state_code": "12"
+    },
+    {
+        "id": 2851,
+        "name": "Al Madinah",
+        "country": "SAU",
+        "state_code": "03"
+    },
+    {
+        "id": 2861,
+        "name": "Al-Qassim",
+        "country": "SAU",
+        "state_code": "05"
+    },
+    {
+        "id": 2856,
+        "name": "Eastern Province",
+        "country": "SAU",
+        "state_code": "04"
+    },
+    {
+        "id": 2855,
+        "name": "Ha'il",
+        "country": "SAU",
+        "state_code": "06"
+    },
+    {
+        "id": 2858,
+        "name": "Jizan",
+        "country": "SAU",
+        "state_code": "09"
+    },
+    {
+        "id": 2850,
+        "name": "Makkah",
+        "country": "SAU",
+        "state_code": "02"
+    },
+    {
+        "id": 2860,
+        "name": "Najran",
+        "country": "SAU",
+        "state_code": "10"
+    },
+    {
+        "id": 2854,
+        "name": "Northern Borders",
+        "country": "SAU",
+        "state_code": "08"
+    },
+    {
+        "id": 2849,
+        "name": "Riyadh",
+        "country": "SAU",
+        "state_code": "01"
+    },
+    {
+        "id": 2852,
+        "name": "Tabuk",
+        "country": "SAU",
+        "state_code": "07"
+    }
+]

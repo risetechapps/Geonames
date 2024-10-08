@@ -1,1 +1,140 @@
-[{"id":0,"name":"Chiclayo","country":"PER","state":"LAM"},{"id":1,"name":"Chongoyape","country":"PER","state":"LAM"},{"id":2,"name":"Eten","country":"PER","state":"LAM"},{"id":3,"name":"Ferre\u00f1afe","country":"PER","state":"LAM"},{"id":4,"name":"Jayanca","country":"PER","state":"LAM"},{"id":5,"name":"Lambayeque","country":"PER","state":"LAM"},{"id":6,"name":"Mochum\u00ed","country":"PER","state":"LAM"},{"id":7,"name":"Monsef\u00fa","country":"PER","state":"LAM"},{"id":8,"name":"M\u00f3rrope","country":"PER","state":"LAM"},{"id":9,"name":"Motupe","country":"PER","state":"LAM"},{"id":10,"name":"Olmos","country":"PER","state":"LAM"},{"id":11,"name":"Oyot\u00fan","country":"PER","state":"LAM"},{"id":12,"name":"Picsi","country":"PER","state":"LAM"},{"id":13,"name":"Pimentel","country":"PER","state":"LAM"},{"id":14,"name":"Provincia de Chiclayo","country":"PER","state":"LAM"},{"id":15,"name":"Provincia de Ferre\u00f1afe","country":"PER","state":"LAM"},{"id":16,"name":"Provincia de Lambayeque","country":"PER","state":"LAM"},{"id":17,"name":"Pueblo Nuevo","country":"PER","state":"LAM"},{"id":18,"name":"Reque","country":"PER","state":"LAM"},{"id":19,"name":"San Jos\u00e9","country":"PER","state":"LAM"},{"id":20,"name":"Sa\u00f1a","country":"PER","state":"LAM"},{"id":21,"name":"Santa Rosa","country":"PER","state":"LAM"},{"id":22,"name":"T\u00facume","country":"PER","state":"LAM"}]
+[
+    {
+        "id": 80612,
+        "name": "Chiclayo",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80621,
+        "name": "Chongoyape",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80641,
+        "name": "Eten",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80642,
+        "name": "Ferreñafe",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80675,
+        "name": "Jayanca",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80694,
+        "name": "Lambayeque",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80716,
+        "name": "Mochumí",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80718,
+        "name": "Monsefú",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80728,
+        "name": "Mórrope",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80725,
+        "name": "Motupe",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80732,
+        "name": "Olmos",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80739,
+        "name": "Oyotún",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80760,
+        "name": "Picsi",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80762,
+        "name": "Pimentel",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80804,
+        "name": "Provincia de Chiclayo",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80823,
+        "name": "Provincia de Ferreñafe",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80853,
+        "name": "Provincia de Lambayeque",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80916,
+        "name": "Pueblo Nuevo",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80932,
+        "name": "Reque",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80948,
+        "name": "San José",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80972,
+        "name": "Saña",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 80963,
+        "name": "Santa Rosa",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 81001,
+        "name": "Túcume",
+        "country": "PER",
+        "state": "LAM"
+    }
+]

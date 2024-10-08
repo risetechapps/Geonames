@@ -1,1 +1,194 @@
-[{"id":0,"name":"Aguascalientes","iso3":"AGU","country":"MEX"},{"id":1,"name":"Baja California","iso3":"BCN","country":"MEX"},{"id":2,"name":"Baja California Sur","iso3":"BCS","country":"MEX"},{"id":3,"name":"Campeche","iso3":"CAM","country":"MEX"},{"id":4,"name":"Chiapas","iso3":"CHP","country":"MEX"},{"id":5,"name":"Chihuahua","iso3":"CHH","country":"MEX"},{"id":6,"name":"Ciudad de M\u00e9xico","iso3":"CMX","country":"MEX"},{"id":7,"name":"Coahuila de Zaragoza","iso3":"COA","country":"MEX"},{"id":8,"name":"Colima","iso3":"COL","country":"MEX"},{"id":9,"name":"Durango","iso3":"DUR","country":"MEX"},{"id":10,"name":"Estado de M\u00e9xico","iso3":"MEX","country":"MEX"},{"id":11,"name":"Guanajuato","iso3":"GUA","country":"MEX"},{"id":12,"name":"Guerrero","iso3":"GRO","country":"MEX"},{"id":13,"name":"Hidalgo","iso3":"HID","country":"MEX"},{"id":14,"name":"Jalisco","iso3":"JAL","country":"MEX"},{"id":15,"name":"Michoac\u00e1n de Ocampo","iso3":"MIC","country":"MEX"},{"id":16,"name":"Morelos","iso3":"MOR","country":"MEX"},{"id":17,"name":"Nayarit","iso3":"NAY","country":"MEX"},{"id":18,"name":"Nuevo Le\u00f3n","iso3":"NLE","country":"MEX"},{"id":19,"name":"Oaxaca","iso3":"OAX","country":"MEX"},{"id":20,"name":"Puebla","iso3":"PUE","country":"MEX"},{"id":21,"name":"Quer\u00e9taro","iso3":"QUE","country":"MEX"},{"id":22,"name":"Quintana Roo","iso3":"ROO","country":"MEX"},{"id":23,"name":"San Luis Potos\u00ed","iso3":"SLP","country":"MEX"},{"id":24,"name":"Sinaloa","iso3":"SIN","country":"MEX"},{"id":25,"name":"Sonora","iso3":"SON","country":"MEX"},{"id":26,"name":"Tabasco","iso3":"TAB","country":"MEX"},{"id":27,"name":"Tamaulipas","iso3":"TAM","country":"MEX"},{"id":28,"name":"Tlaxcala","iso3":"TLA","country":"MEX"},{"id":29,"name":"Veracruz de Ignacio de la Llave","iso3":"VER","country":"MEX"},{"id":30,"name":"Yucat\u00e1n","iso3":"YUC","country":"MEX"},{"id":31,"name":"Zacatecas","iso3":"ZAC","country":"MEX"}]
+[
+    {
+        "id": 3456,
+        "name": "Aguascalientes",
+        "country": "MEX",
+        "state_code": "AGU"
+    },
+    {
+        "id": 3457,
+        "name": "Baja California",
+        "country": "MEX",
+        "state_code": "BCN"
+    },
+    {
+        "id": 3460,
+        "name": "Baja California Sur",
+        "country": "MEX",
+        "state_code": "BCS"
+    },
+    {
+        "id": 3475,
+        "name": "Campeche",
+        "country": "MEX",
+        "state_code": "CAM"
+    },
+    {
+        "id": 3451,
+        "name": "Chiapas",
+        "country": "MEX",
+        "state_code": "CHP"
+    },
+    {
+        "id": 3447,
+        "name": "Chihuahua",
+        "country": "MEX",
+        "state_code": "CHH"
+    },
+    {
+        "id": 3473,
+        "name": "Ciudad de México",
+        "country": "MEX",
+        "state_code": "CMX"
+    },
+    {
+        "id": 3471,
+        "name": "Coahuila de Zaragoza",
+        "country": "MEX",
+        "state_code": "COA"
+    },
+    {
+        "id": 3472,
+        "name": "Colima",
+        "country": "MEX",
+        "state_code": "COL"
+    },
+    {
+        "id": 3453,
+        "name": "Durango",
+        "country": "MEX",
+        "state_code": "DUR"
+    },
+    {
+        "id": 3450,
+        "name": "Estado de México",
+        "country": "MEX",
+        "state_code": "MEX"
+    },
+    {
+        "id": 3469,
+        "name": "Guanajuato",
+        "country": "MEX",
+        "state_code": "GUA"
+    },
+    {
+        "id": 3459,
+        "name": "Guerrero",
+        "country": "MEX",
+        "state_code": "GRO"
+    },
+    {
+        "id": 3470,
+        "name": "Hidalgo",
+        "country": "MEX",
+        "state_code": "HID"
+    },
+    {
+        "id": 4857,
+        "name": "Jalisco",
+        "country": "MEX",
+        "state_code": "JAL"
+    },
+    {
+        "id": 3474,
+        "name": "Michoacán de Ocampo",
+        "country": "MEX",
+        "state_code": "MIC"
+    },
+    {
+        "id": 3465,
+        "name": "Morelos",
+        "country": "MEX",
+        "state_code": "MOR"
+    },
+    {
+        "id": 3477,
+        "name": "Nayarit",
+        "country": "MEX",
+        "state_code": "NAY"
+    },
+    {
+        "id": 3452,
+        "name": "Nuevo León",
+        "country": "MEX",
+        "state_code": "NLE"
+    },
+    {
+        "id": 3448,
+        "name": "Oaxaca",
+        "country": "MEX",
+        "state_code": "OAX"
+    },
+    {
+        "id": 3476,
+        "name": "Puebla",
+        "country": "MEX",
+        "state_code": "PUE"
+    },
+    {
+        "id": 3455,
+        "name": "Querétaro",
+        "country": "MEX",
+        "state_code": "QUE"
+    },
+    {
+        "id": 3467,
+        "name": "Quintana Roo",
+        "country": "MEX",
+        "state_code": "ROO"
+    },
+    {
+        "id": 3461,
+        "name": "San Luis Potosí",
+        "country": "MEX",
+        "state_code": "SLP"
+    },
+    {
+        "id": 3449,
+        "name": "Sinaloa",
+        "country": "MEX",
+        "state_code": "SIN"
+    },
+    {
+        "id": 3468,
+        "name": "Sonora",
+        "country": "MEX",
+        "state_code": "SON"
+    },
+    {
+        "id": 3454,
+        "name": "Tabasco",
+        "country": "MEX",
+        "state_code": "TAB"
+    },
+    {
+        "id": 3463,
+        "name": "Tamaulipas",
+        "country": "MEX",
+        "state_code": "TAM"
+    },
+    {
+        "id": 3458,
+        "name": "Tlaxcala",
+        "country": "MEX",
+        "state_code": "TLA"
+    },
+    {
+        "id": 3464,
+        "name": "Veracruz de Ignacio de la Llave",
+        "country": "MEX",
+        "state_code": "VER"
+    },
+    {
+        "id": 3466,
+        "name": "Yucatán",
+        "country": "MEX",
+        "state_code": "YUC"
+    },
+    {
+        "id": 3462,
+        "name": "Zacatecas",
+        "country": "MEX",
+        "state_code": "ZAC"
+    }
+]

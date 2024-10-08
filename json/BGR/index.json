@@ -1,1 +1,170 @@
-[{"id":0,"name":"Blagoevgrad Province","iso3":"01","country":"BGR"},{"id":1,"name":"Burgas Province","iso3":"02","country":"BGR"},{"id":2,"name":"Dobrich Province","iso3":"08","country":"BGR"},{"id":3,"name":"Gabrovo Province","iso3":"07","country":"BGR"},{"id":4,"name":"Haskovo Province","iso3":"26","country":"BGR"},{"id":5,"name":"Kardzhali Province","iso3":"09","country":"BGR"},{"id":6,"name":"Kyustendil Province","iso3":"10","country":"BGR"},{"id":7,"name":"Lovech Province","iso3":"11","country":"BGR"},{"id":8,"name":"Montana Province","iso3":"12","country":"BGR"},{"id":9,"name":"Pazardzhik Province","iso3":"13","country":"BGR"},{"id":10,"name":"Pernik Province","iso3":"14","country":"BGR"},{"id":11,"name":"Pleven Province","iso3":"15","country":"BGR"},{"id":12,"name":"Plovdiv Province","iso3":"16","country":"BGR"},{"id":13,"name":"Razgrad Province","iso3":"17","country":"BGR"},{"id":14,"name":"Ruse Province","iso3":"18","country":"BGR"},{"id":15,"name":"Shumen","iso3":"27","country":"BGR"},{"id":16,"name":"Silistra Province","iso3":"19","country":"BGR"},{"id":17,"name":"Sliven Province","iso3":"20","country":"BGR"},{"id":18,"name":"Smolyan Province","iso3":"21","country":"BGR"},{"id":19,"name":"Sofia City Province","iso3":"22","country":"BGR"},{"id":20,"name":"Sofia Province","iso3":"23","country":"BGR"},{"id":21,"name":"Stara Zagora Province","iso3":"24","country":"BGR"},{"id":22,"name":"Targovishte Province","iso3":"25","country":"BGR"},{"id":23,"name":"Varna Province","iso3":"03","country":"BGR"},{"id":24,"name":"Veliko Tarnovo Province","iso3":"04","country":"BGR"},{"id":25,"name":"Vidin Province","iso3":"05","country":"BGR"},{"id":26,"name":"Vratsa Province","iso3":"06","country":"BGR"},{"id":27,"name":"Yambol Province","iso3":"28","country":"BGR"}]
+[
+    {
+        "id": 4699,
+        "name": "Blagoevgrad Province",
+        "country": "BGR",
+        "state_code": "01"
+    },
+    {
+        "id": 4715,
+        "name": "Burgas Province",
+        "country": "BGR",
+        "state_code": "02"
+    },
+    {
+        "id": 4718,
+        "name": "Dobrich Province",
+        "country": "BGR",
+        "state_code": "08"
+    },
+    {
+        "id": 4693,
+        "name": "Gabrovo Province",
+        "country": "BGR",
+        "state_code": "07"
+    },
+    {
+        "id": 4704,
+        "name": "Haskovo Province",
+        "country": "BGR",
+        "state_code": "26"
+    },
+    {
+        "id": 4702,
+        "name": "Kardzhali Province",
+        "country": "BGR",
+        "state_code": "09"
+    },
+    {
+        "id": 4703,
+        "name": "Kyustendil Province",
+        "country": "BGR",
+        "state_code": "10"
+    },
+    {
+        "id": 4710,
+        "name": "Lovech Province",
+        "country": "BGR",
+        "state_code": "11"
+    },
+    {
+        "id": 4696,
+        "name": "Montana Province",
+        "country": "BGR",
+        "state_code": "12"
+    },
+    {
+        "id": 4712,
+        "name": "Pazardzhik Province",
+        "country": "BGR",
+        "state_code": "13"
+    },
+    {
+        "id": 4695,
+        "name": "Pernik Province",
+        "country": "BGR",
+        "state_code": "14"
+    },
+    {
+        "id": 4706,
+        "name": "Pleven Province",
+        "country": "BGR",
+        "state_code": "15"
+    },
+    {
+        "id": 4701,
+        "name": "Plovdiv Province",
+        "country": "BGR",
+        "state_code": "16"
+    },
+    {
+        "id": 4698,
+        "name": "Razgrad Province",
+        "country": "BGR",
+        "state_code": "17"
+    },
+    {
+        "id": 4713,
+        "name": "Ruse Province",
+        "country": "BGR",
+        "state_code": "18"
+    },
+    {
+        "id": 4882,
+        "name": "Shumen",
+        "country": "BGR",
+        "state_code": "27"
+    },
+    {
+        "id": 4708,
+        "name": "Silistra Province",
+        "country": "BGR",
+        "state_code": "19"
+    },
+    {
+        "id": 4700,
+        "name": "Sliven Province",
+        "country": "BGR",
+        "state_code": "20"
+    },
+    {
+        "id": 4694,
+        "name": "Smolyan Province",
+        "country": "BGR",
+        "state_code": "21"
+    },
+    {
+        "id": 4705,
+        "name": "Sofia City Province",
+        "country": "BGR",
+        "state_code": "22"
+    },
+    {
+        "id": 4719,
+        "name": "Sofia Province",
+        "country": "BGR",
+        "state_code": "23"
+    },
+    {
+        "id": 4707,
+        "name": "Stara Zagora Province",
+        "country": "BGR",
+        "state_code": "24"
+    },
+    {
+        "id": 4714,
+        "name": "Targovishte Province",
+        "country": "BGR",
+        "state_code": "25"
+    },
+    {
+        "id": 4717,
+        "name": "Varna Province",
+        "country": "BGR",
+        "state_code": "03"
+    },
+    {
+        "id": 4709,
+        "name": "Veliko Tarnovo Province",
+        "country": "BGR",
+        "state_code": "04"
+    },
+    {
+        "id": 4697,
+        "name": "Vidin Province",
+        "country": "BGR",
+        "state_code": "05"
+    },
+    {
+        "id": 4711,
+        "name": "Vratsa Province",
+        "country": "BGR",
+        "state_code": "06"
+    },
+    {
+        "id": 4716,
+        "name": "Yambol Province",
+        "country": "BGR",
+        "state_code": "28"
+    }
+]

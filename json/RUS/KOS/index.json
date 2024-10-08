@@ -1,1 +1,266 @@
-[{"id":0,"name":"Antropovo","country":"RUS","state":"KOS"},{"id":1,"name":"Antropovskiy Rayon","country":"RUS","state":"KOS"},{"id":2,"name":"Bogovarovo","country":"RUS","state":"KOS"},{"id":3,"name":"Buy","country":"RUS","state":"KOS"},{"id":4,"name":"Buyskiy Rayon","country":"RUS","state":"KOS"},{"id":5,"name":"Chistyye Bory","country":"RUS","state":"KOS"},{"id":6,"name":"Chukhloma","country":"RUS","state":"KOS"},{"id":7,"name":"Galich","country":"RUS","state":"KOS"},{"id":8,"name":"Galichskiy Rayon","country":"RUS","state":"KOS"},{"id":9,"name":"Georgiyevskoye","country":"RUS","state":"KOS"},{"id":10,"name":"Kadyy","country":"RUS","state":"KOS"},{"id":11,"name":"Kadyyskiy Rayon","country":"RUS","state":"KOS"},{"id":12,"name":"Kologriv","country":"RUS","state":"KOS"},{"id":13,"name":"Kosmynino","country":"RUS","state":"KOS"},{"id":14,"name":"Kostroma","country":"RUS","state":"KOS"},{"id":15,"name":"Kostromskoy Rayon","country":"RUS","state":"KOS"},{"id":16,"name":"Krasnosel\u2019skiy Rayon","country":"RUS","state":"KOS"},{"id":17,"name":"Krasnoye-na-Volge","country":"RUS","state":"KOS"},{"id":18,"name":"Makar\u2019yev","country":"RUS","state":"KOS"},{"id":19,"name":"Manturovo","country":"RUS","state":"KOS"},{"id":20,"name":"Manturovskiy Rayon","country":"RUS","state":"KOS"},{"id":21,"name":"Nerekhta","country":"RUS","state":"KOS"},{"id":22,"name":"Nerekhtskiy Rayon","country":"RUS","state":"KOS"},{"id":23,"name":"Neya","country":"RUS","state":"KOS"},{"id":24,"name":"Neyskiy Rayon","country":"RUS","state":"KOS"},{"id":25,"name":"Ostrovskiy Rayon","country":"RUS","state":"KOS"},{"id":26,"name":"Ostrovskoye","country":"RUS","state":"KOS"},{"id":27,"name":"Parfen\u2019yevo","country":"RUS","state":"KOS"},{"id":28,"name":"Parfen\u2019yevskiy Rayon","country":"RUS","state":"KOS"},{"id":29,"name":"Pavino","country":"RUS","state":"KOS"},{"id":30,"name":"Ponazyrevo","country":"RUS","state":"KOS"},{"id":31,"name":"Ponazyrevskiy Rayon","country":"RUS","state":"KOS"},{"id":32,"name":"Pyshchug","country":"RUS","state":"KOS"},{"id":33,"name":"Shar\u2019inskiy Rayon","country":"RUS","state":"KOS"},{"id":34,"name":"Shar\u2019ya","country":"RUS","state":"KOS"},{"id":35,"name":"Soligalich","country":"RUS","state":"KOS"},{"id":36,"name":"Soligalichskiy Rayon","country":"RUS","state":"KOS"},{"id":37,"name":"Sudislavl\u2019","country":"RUS","state":"KOS"},{"id":38,"name":"Sudislavskiy Rayon","country":"RUS","state":"KOS"},{"id":39,"name":"Susanino","country":"RUS","state":"KOS"},{"id":40,"name":"Vetluzhskiy","country":"RUS","state":"KOS"},{"id":41,"name":"Vokhma","country":"RUS","state":"KOS"},{"id":42,"name":"Vokhomskiy Rayon","country":"RUS","state":"KOS"},{"id":43,"name":"Volgorechensk","country":"RUS","state":"KOS"}]
+[
+    {
+        "id": 97642,
+        "name": "Antropovo",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 97643,
+        "name": "Antropovskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 97978,
+        "name": "Bogovarovo",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 98090,
+        "name": "Buy",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 98093,
+        "name": "Buyskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 98203,
+        "name": "Chistyye Bory",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 98218,
+        "name": "Chukhloma",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 98450,
+        "name": "Galich",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 98451,
+        "name": "Galichskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 98478,
+        "name": "Georgiyevskoye",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 98773,
+        "name": "Kadyy",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 98774,
+        "name": "Kadyyskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 99140,
+        "name": "Kologriv",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 99235,
+        "name": "Kosmynino",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 99241,
+        "name": "Kostroma",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 99242,
+        "name": "Kostromskoy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 99332,
+        "name": "Krasnosel’skiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 99354,
+        "name": "Krasnoye-na-Volge",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 99742,
+        "name": "Makar’yev",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 99785,
+        "name": "Manturovo",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 99786,
+        "name": "Manturovskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 100107,
+        "name": "Nerekhta",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 100108,
+        "name": "Nerekhtskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 100122,
+        "name": "Neya",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 100123,
+        "name": "Neyskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 100499,
+        "name": "Ostrovskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 100500,
+        "name": "Ostrovskoye",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 100545,
+        "name": "Parfen’yevo",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 100546,
+        "name": "Parfen’yevskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 100564,
+        "name": "Pavino",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 100766,
+        "name": "Ponazyrevo",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 100767,
+        "name": "Ponazyrevskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 100915,
+        "name": "Pyshchug",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 101265,
+        "name": "Shar’inskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 101266,
+        "name": "Shar’ya",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 101449,
+        "name": "Soligalich",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 101450,
+        "name": "Soligalichskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 101642,
+        "name": "Sudislavl’",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 101643,
+        "name": "Sudislavskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 101682,
+        "name": "Susanino",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 102296,
+        "name": "Vetluzhskiy",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 102335,
+        "name": "Vokhma",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 102336,
+        "name": "Vokhomskiy Rayon",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 102345,
+        "name": "Volgorechensk",
+        "country": "RUS",
+        "state": "KOS"
+    }
+]

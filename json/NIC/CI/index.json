@@ -1,1 +1,74 @@
-[{"id":0,"name":"Chichigalpa","country":"NIC","state":"CI"},{"id":1,"name":"Chinandega","country":"NIC","state":"CI"},{"id":2,"name":"Cinco Pinos","country":"NIC","state":"CI"},{"id":3,"name":"Corinto","country":"NIC","state":"CI"},{"id":4,"name":"El Realejo","country":"NIC","state":"CI"},{"id":5,"name":"El Viejo","country":"NIC","state":"CI"},{"id":6,"name":"Jiquilillo","country":"NIC","state":"CI"},{"id":7,"name":"Municipio de San Francisco del Norte","country":"NIC","state":"CI"},{"id":8,"name":"Posoltega","country":"NIC","state":"CI"},{"id":9,"name":"Puerto Moraz\u00e1n","country":"NIC","state":"CI"},{"id":10,"name":"Santo Tom\u00e1s del Norte","country":"NIC","state":"CI"},{"id":11,"name":"Somotillo","country":"NIC","state":"CI"}]
+[
+    {
+        "id": 77165,
+        "name": "Chichigalpa",
+        "country": "NIC",
+        "state": "CI"
+    },
+    {
+        "id": 77166,
+        "name": "Chinandega",
+        "country": "NIC",
+        "state": "CI"
+    },
+    {
+        "id": 77167,
+        "name": "Cinco Pinos",
+        "country": "NIC",
+        "state": "CI"
+    },
+    {
+        "id": 77172,
+        "name": "Corinto",
+        "country": "NIC",
+        "state": "CI"
+    },
+    {
+        "id": 77186,
+        "name": "El Realejo",
+        "country": "NIC",
+        "state": "CI"
+    },
+    {
+        "id": 77190,
+        "name": "El Viejo",
+        "country": "NIC",
+        "state": "CI"
+    },
+    {
+        "id": 77196,
+        "name": "Jiquilillo",
+        "country": "NIC",
+        "state": "CI"
+    },
+    {
+        "id": 77232,
+        "name": "Municipio de San Francisco del Norte",
+        "country": "NIC",
+        "state": "CI"
+    },
+    {
+        "id": 77246,
+        "name": "Posoltega",
+        "country": "NIC",
+        "state": "CI"
+    },
+    {
+        "id": 77251,
+        "name": "Puerto Morazán",
+        "country": "NIC",
+        "state": "CI"
+    },
+    {
+        "id": 77278,
+        "name": "Santo Tomás del Norte",
+        "country": "NIC",
+        "state": "CI"
+    },
+    {
+        "id": 77280,
+        "name": "Somotillo",
+        "country": "NIC",
+        "state": "CI"
+    }
+]

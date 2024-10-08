@@ -1,1 +1,2270 @@
-[{"id":0,"name":"Abbeville","country":"USA","state":"AL"},{"id":1,"name":"Adamsville","country":"USA","state":"AL"},{"id":2,"name":"Alabaster","country":"USA","state":"AL"},{"id":3,"name":"Albertville","country":"USA","state":"AL"},{"id":4,"name":"Alexander City","country":"USA","state":"AL"},{"id":5,"name":"Alexandria","country":"USA","state":"AL"},{"id":6,"name":"Aliceville","country":"USA","state":"AL"},{"id":7,"name":"Andalusia","country":"USA","state":"AL"},{"id":8,"name":"Anniston","country":"USA","state":"AL"},{"id":9,"name":"Arab","country":"USA","state":"AL"},{"id":10,"name":"Argo","country":"USA","state":"AL"},{"id":11,"name":"Ashford","country":"USA","state":"AL"},{"id":12,"name":"Ashland","country":"USA","state":"AL"},{"id":13,"name":"Ashville","country":"USA","state":"AL"},{"id":14,"name":"Athens","country":"USA","state":"AL"},{"id":15,"name":"Atmore","country":"USA","state":"AL"},{"id":16,"name":"Attalla","country":"USA","state":"AL"},{"id":17,"name":"Auburn","country":"USA","state":"AL"},{"id":18,"name":"Autauga County","country":"USA","state":"AL"},{"id":19,"name":"Baldwin County","country":"USA","state":"AL"},{"id":20,"name":"Ballplay","country":"USA","state":"AL"},{"id":21,"name":"Barbour County","country":"USA","state":"AL"},{"id":22,"name":"Bay Minette","country":"USA","state":"AL"},{"id":23,"name":"Bayou La Batre","country":"USA","state":"AL"},{"id":24,"name":"Bear Creek","country":"USA","state":"AL"},{"id":25,"name":"Berry","country":"USA","state":"AL"},{"id":26,"name":"Bessemer","country":"USA","state":"AL"},{"id":27,"name":"Bibb County","country":"USA","state":"AL"},{"id":28,"name":"Birmingham","country":"USA","state":"AL"},{"id":29,"name":"Blount County","country":"USA","state":"AL"},{"id":30,"name":"Blountsville","country":"USA","state":"AL"},{"id":31,"name":"Blue Ridge","country":"USA","state":"AL"},{"id":32,"name":"Boaz","country":"USA","state":"AL"},{"id":33,"name":"Brent","country":"USA","state":"AL"},{"id":34,"name":"Brewton","country":"USA","state":"AL"},{"id":35,"name":"Bridgeport","country":"USA","state":"AL"},{"id":36,"name":"Brighton","country":"USA","state":"AL"},{"id":37,"name":"Brook Highland","country":"USA","state":"AL"},{"id":38,"name":"Brookside","country":"USA","state":"AL"},{"id":39,"name":"Brookwood","country":"USA","state":"AL"},{"id":40,"name":"Brundidge","country":"USA","state":"AL"},{"id":41,"name":"Bullock County","country":"USA","state":"AL"},{"id":42,"name":"Butler","country":"USA","state":"AL"},{"id":43,"name":"Butler County","country":"USA","state":"AL"},{"id":44,"name":"Bynum","country":"USA","state":"AL"},{"id":45,"name":"Cahaba Heights","country":"USA","state":"AL"},{"id":46,"name":"Calera","country":"USA","state":"AL"},{"id":47,"name":"Calhoun County","country":"USA","state":"AL"},{"id":48,"name":"Camden","country":"USA","state":"AL"},{"id":49,"name":"Carbon Hill","country":"USA","state":"AL"},{"id":50,"name":"Carlisle-Rockledge","country":"USA","state":"AL"},{"id":51,"name":"Carrollton","country":"USA","state":"AL"},{"id":52,"name":"Cedar Bluff","country":"USA","state":"AL"},{"id":53,"name":"Center Point","country":"USA","state":"AL"},{"id":54,"name":"Centre","country":"USA","state":"AL"},{"id":55,"name":"Centreville","country":"USA","state":"AL"},{"id":56,"name":"Chalkville","country":"USA","state":"AL"},{"id":57,"name":"Chambers County","country":"USA","state":"AL"},{"id":58,"name":"Chatom","country":"USA","state":"AL"},{"id":59,"name":"Chelsea","country":"USA","state":"AL"},{"id":60,"name":"Cherokee","country":"USA","state":"AL"},{"id":61,"name":"Cherokee County","country":"USA","state":"AL"},{"id":62,"name":"Chickasaw","country":"USA","state":"AL"},{"id":63,"name":"Childersburg","country":"USA","state":"AL"},{"id":64,"name":"Chilton County","country":"USA","state":"AL"},{"id":65,"name":"Choccolocco","country":"USA","state":"AL"},{"id":66,"name":"Choctaw County","country":"USA","state":"AL"},{"id":67,"name":"Citronelle","country":"USA","state":"AL"},{"id":68,"name":"Clanton","country":"USA","state":"AL"},{"id":69,"name":"Clarke County","country":"USA","state":"AL"},{"id":70,"name":"Clay","country":"USA","state":"AL"},{"id":71,"name":"Clay County","country":"USA","state":"AL"},{"id":72,"name":"Clayton","country":"USA","state":"AL"},{"id":73,"name":"Cleburne County","country":"USA","state":"AL"},{"id":74,"name":"Cleveland","country":"USA","state":"AL"},{"id":75,"name":"Clio","country":"USA","state":"AL"},{"id":76,"name":"Coaling","country":"USA","state":"AL"},{"id":77,"name":"Coffee County","country":"USA","state":"AL"},{"id":78,"name":"Colbert County","country":"USA","state":"AL"},{"id":79,"name":"Collinsville","country":"USA","state":"AL"},{"id":80,"name":"Columbiana","country":"USA","state":"AL"},{"id":81,"name":"Concord","country":"USA","state":"AL"},{"id":82,"name":"Conecuh County","country":"USA","state":"AL"},{"id":83,"name":"Coosa County","country":"USA","state":"AL"},{"id":84,"name":"Coosada","country":"USA","state":"AL"},{"id":85,"name":"Cordova","country":"USA","state":"AL"},{"id":86,"name":"Cottonwood","country":"USA","state":"AL"},{"id":87,"name":"Covington County","country":"USA","state":"AL"},{"id":88,"name":"Cowarts","country":"USA","state":"AL"},{"id":89,"name":"Crenshaw County","country":"USA","state":"AL"},{"id":90,"name":"Creola","country":"USA","state":"AL"},{"id":91,"name":"Crossville","country":"USA","state":"AL"},{"id":92,"name":"Cullman","country":"USA","state":"AL"},{"id":93,"name":"Cullman County","country":"USA","state":"AL"},{"id":94,"name":"Dadeville","country":"USA","state":"AL"},{"id":95,"name":"Dale County","country":"USA","state":"AL"},{"id":96,"name":"Daleville","country":"USA","state":"AL"},{"id":97,"name":"Dallas County","country":"USA","state":"AL"},{"id":98,"name":"Danville","country":"USA","state":"AL"},{"id":99,"name":"Daphne","country":"USA","state":"AL"},{"id":100,"name":"Dauphin Island","country":"USA","state":"AL"},{"id":101,"name":"Deatsville","country":"USA","state":"AL"},{"id":102,"name":"Decatur","country":"USA","state":"AL"},{"id":103,"name":"DeKalb County","country":"USA","state":"AL"},{"id":104,"name":"Demopolis","country":"USA","state":"AL"},{"id":105,"name":"Dixiana","country":"USA","state":"AL"},{"id":106,"name":"Dora","country":"USA","state":"AL"},{"id":107,"name":"Dothan","country":"USA","state":"AL"},{"id":108,"name":"Double Springs","country":"USA","state":"AL"},{"id":109,"name":"East Brewton","country":"USA","state":"AL"},{"id":110,"name":"East Florence","country":"USA","state":"AL"},{"id":111,"name":"Eclectic","country":"USA","state":"AL"},{"id":112,"name":"Elba","country":"USA","state":"AL"},{"id":113,"name":"Elberta","country":"USA","state":"AL"},{"id":114,"name":"Elmore","country":"USA","state":"AL"},{"id":115,"name":"Elmore County","country":"USA","state":"AL"},{"id":116,"name":"Emerald Mountain","country":"USA","state":"AL"},{"id":117,"name":"Enterprise","country":"USA","state":"AL"},{"id":118,"name":"Escambia County","country":"USA","state":"AL"},{"id":119,"name":"Etowah County","country":"USA","state":"AL"},{"id":120,"name":"Eufaula","country":"USA","state":"AL"},{"id":121,"name":"Eutaw","country":"USA","state":"AL"},{"id":122,"name":"Evergreen","country":"USA","state":"AL"},{"id":123,"name":"Fairfield","country":"USA","state":"AL"},{"id":124,"name":"Fairhope","country":"USA","state":"AL"},{"id":125,"name":"Falkville","country":"USA","state":"AL"},{"id":126,"name":"Fayette","country":"USA","state":"AL"},{"id":127,"name":"Fayette County","country":"USA","state":"AL"},{"id":128,"name":"Fayetteville","country":"USA","state":"AL"},{"id":129,"name":"Flint City","country":"USA","state":"AL"},{"id":130,"name":"Flomaton","country":"USA","state":"AL"},{"id":131,"name":"Florala","country":"USA","state":"AL"},{"id":132,"name":"Florence","country":"USA","state":"AL"},{"id":133,"name":"Foley","country":"USA","state":"AL"},{"id":134,"name":"Forestdale","country":"USA","state":"AL"},{"id":135,"name":"Fort Deposit","country":"USA","state":"AL"},{"id":136,"name":"Fort Payne","country":"USA","state":"AL"},{"id":137,"name":"Fort Rucker","country":"USA","state":"AL"},{"id":138,"name":"Franklin County","country":"USA","state":"AL"},{"id":139,"name":"Frisco City","country":"USA","state":"AL"},{"id":140,"name":"Fultondale","country":"USA","state":"AL"},{"id":141,"name":"Fyffe","country":"USA","state":"AL"},{"id":142,"name":"Gadsden","country":"USA","state":"AL"},{"id":143,"name":"Gardendale","country":"USA","state":"AL"},{"id":144,"name":"Geneva","country":"USA","state":"AL"},{"id":145,"name":"Geneva County","country":"USA","state":"AL"},{"id":146,"name":"Georgiana","country":"USA","state":"AL"},{"id":147,"name":"Glencoe","country":"USA","state":"AL"},{"id":148,"name":"Good Hope","country":"USA","state":"AL"},{"id":149,"name":"Goodwater","country":"USA","state":"AL"},{"id":150,"name":"Gordo","country":"USA","state":"AL"},{"id":151,"name":"Grand Bay","country":"USA","state":"AL"},{"id":152,"name":"Grayson Valley","country":"USA","state":"AL"},{"id":153,"name":"Graysville","country":"USA","state":"AL"},{"id":154,"name":"Greene County","country":"USA","state":"AL"},{"id":155,"name":"Greensboro","country":"USA","state":"AL"},{"id":156,"name":"Greenville","country":"USA","state":"AL"},{"id":157,"name":"Grove Hill","country":"USA","state":"AL"},{"id":158,"name":"Guin","country":"USA","state":"AL"},{"id":159,"name":"Gulf Shores","country":"USA","state":"AL"},{"id":160,"name":"Guntersville","country":"USA","state":"AL"},{"id":161,"name":"Hackleburg","country":"USA","state":"AL"},{"id":162,"name":"Hale County","country":"USA","state":"AL"},{"id":163,"name":"Haleyville","country":"USA","state":"AL"},{"id":164,"name":"Hamilton","country":"USA","state":"AL"},{"id":165,"name":"Hanceville","country":"USA","state":"AL"},{"id":166,"name":"Harpersville","country":"USA","state":"AL"},{"id":167,"name":"Hartford","country":"USA","state":"AL"},{"id":168,"name":"Hartselle","country":"USA","state":"AL"},{"id":169,"name":"Harvest","country":"USA","state":"AL"},{"id":170,"name":"Hayden","country":"USA","state":"AL"},{"id":171,"name":"Hayneville","country":"USA","state":"AL"},{"id":172,"name":"Hazel Green","country":"USA","state":"AL"},{"id":173,"name":"Headland","country":"USA","state":"AL"},{"id":174,"name":"Heflin","country":"USA","state":"AL"},{"id":175,"name":"Helena","country":"USA","state":"AL"},{"id":176,"name":"Henagar","country":"USA","state":"AL"},{"id":177,"name":"Henry County","country":"USA","state":"AL"},{"id":178,"name":"Highland Lakes","country":"USA","state":"AL"},{"id":179,"name":"Hokes Bluff","country":"USA","state":"AL"},{"id":180,"name":"Holt","country":"USA","state":"AL"},{"id":181,"name":"Holtville","country":"USA","state":"AL"},{"id":182,"name":"Homewood","country":"USA","state":"AL"},{"id":183,"name":"Hoover","country":"USA","state":"AL"},{"id":184,"name":"Houston County","country":"USA","state":"AL"},{"id":185,"name":"Hueytown","country":"USA","state":"AL"},{"id":186,"name":"Huguley","country":"USA","state":"AL"},{"id":187,"name":"Huntsville","country":"USA","state":"AL"},{"id":188,"name":"Indian Springs Village","country":"USA","state":"AL"},{"id":189,"name":"Inverness","country":"USA","state":"AL"},{"id":190,"name":"Irondale","country":"USA","state":"AL"},{"id":191,"name":"Jackson","country":"USA","state":"AL"},{"id":192,"name":"Jackson County","country":"USA","state":"AL"},{"id":193,"name":"Jacksonville","country":"USA","state":"AL"},{"id":194,"name":"Jasper","country":"USA","state":"AL"},{"id":195,"name":"Jefferson County","country":"USA","state":"AL"},{"id":196,"name":"Jemison","country":"USA","state":"AL"},{"id":197,"name":"Kimberly","country":"USA","state":"AL"},{"id":198,"name":"Kinsey","country":"USA","state":"AL"},{"id":199,"name":"Ladonia","country":"USA","state":"AL"},{"id":200,"name":"Lafayette","country":"USA","state":"AL"},{"id":201,"name":"Lake Purdy","country":"USA","state":"AL"},{"id":202,"name":"Lake View","country":"USA","state":"AL"},{"id":203,"name":"Lamar County","country":"USA","state":"AL"},{"id":204,"name":"Lanett","country":"USA","state":"AL"},{"id":205,"name":"Lauderdale County","country":"USA","state":"AL"},{"id":206,"name":"Lawrence County","country":"USA","state":"AL"},{"id":207,"name":"Lee County","country":"USA","state":"AL"},{"id":208,"name":"Leeds","country":"USA","state":"AL"},{"id":209,"name":"Leesburg","country":"USA","state":"AL"},{"id":210,"name":"Level Plains","country":"USA","state":"AL"},{"id":211,"name":"Limestone County","country":"USA","state":"AL"},{"id":212,"name":"Lincoln","country":"USA","state":"AL"},{"id":213,"name":"Linden","country":"USA","state":"AL"},{"id":214,"name":"Lineville","country":"USA","state":"AL"},{"id":215,"name":"Lipscomb","country":"USA","state":"AL"},{"id":216,"name":"Livingston","country":"USA","state":"AL"},{"id":217,"name":"Locust Fork","country":"USA","state":"AL"},{"id":218,"name":"Lowndes County","country":"USA","state":"AL"},{"id":219,"name":"Loxley","country":"USA","state":"AL"},{"id":220,"name":"Luverne","country":"USA","state":"AL"},{"id":221,"name":"Macon County","country":"USA","state":"AL"},{"id":222,"name":"Madison","country":"USA","state":"AL"},{"id":223,"name":"Madison County","country":"USA","state":"AL"},{"id":224,"name":"Malvern","country":"USA","state":"AL"},{"id":225,"name":"Marbury","country":"USA","state":"AL"},{"id":226,"name":"Marengo County","country":"USA","state":"AL"},{"id":227,"name":"Margaret","country":"USA","state":"AL"},{"id":228,"name":"Marion","country":"USA","state":"AL"},{"id":229,"name":"Marion County","country":"USA","state":"AL"},{"id":230,"name":"Marshall County","country":"USA","state":"AL"},{"id":231,"name":"Meadowbrook","country":"USA","state":"AL"},{"id":232,"name":"Meridianville","country":"USA","state":"AL"},{"id":233,"name":"Midfield","country":"USA","state":"AL"},{"id":234,"name":"Midland City","country":"USA","state":"AL"},{"id":235,"name":"Mignon","country":"USA","state":"AL"},{"id":236,"name":"Millbrook","country":"USA","state":"AL"},{"id":237,"name":"Minor","country":"USA","state":"AL"},{"id":238,"name":"Mobile","country":"USA","state":"AL"},{"id":239,"name":"Mobile County","country":"USA","state":"AL"},{"id":240,"name":"Monroe County","country":"USA","state":"AL"},{"id":241,"name":"Monroeville","country":"USA","state":"AL"},{"id":242,"name":"Montevallo","country":"USA","state":"AL"},{"id":243,"name":"Montgomery","country":"USA","state":"AL"},{"id":244,"name":"Montgomery County","country":"USA","state":"AL"},{"id":245,"name":"Moody","country":"USA","state":"AL"},{"id":246,"name":"Moores Mill","country":"USA","state":"AL"},{"id":247,"name":"Morgan County","country":"USA","state":"AL"},{"id":248,"name":"Morris","country":"USA","state":"AL"},{"id":249,"name":"Moulton","country":"USA","state":"AL"},{"id":250,"name":"Moundville","country":"USA","state":"AL"},{"id":251,"name":"Mount Olive","country":"USA","state":"AL"},{"id":252,"name":"Mount Vernon","country":"USA","state":"AL"},{"id":253,"name":"Mountain Brook","country":"USA","state":"AL"},{"id":254,"name":"Munford","country":"USA","state":"AL"},{"id":255,"name":"Muscle Shoals","country":"USA","state":"AL"},{"id":256,"name":"New Brockton","country":"USA","state":"AL"},{"id":257,"name":"New Hope","country":"USA","state":"AL"},{"id":258,"name":"New Market","country":"USA","state":"AL"},{"id":259,"name":"Newton","country":"USA","state":"AL"},{"id":260,"name":"North Bibb","country":"USA","state":"AL"},{"id":261,"name":"Northport","country":"USA","state":"AL"},{"id":262,"name":"Odenville","country":"USA","state":"AL"},{"id":263,"name":"Ohatchee","country":"USA","state":"AL"},{"id":264,"name":"Oneonta","country":"USA","state":"AL"},{"id":265,"name":"Opelika","country":"USA","state":"AL"},{"id":266,"name":"Opp","country":"USA","state":"AL"},{"id":267,"name":"Orange Beach","country":"USA","state":"AL"},{"id":268,"name":"Owens Cross Roads","country":"USA","state":"AL"},{"id":269,"name":"Oxford","country":"USA","state":"AL"},{"id":270,"name":"Ozark","country":"USA","state":"AL"},{"id":271,"name":"Pelham","country":"USA","state":"AL"},{"id":272,"name":"Pell City","country":"USA","state":"AL"},{"id":273,"name":"Perry County","country":"USA","state":"AL"},{"id":274,"name":"Phenix City","country":"USA","state":"AL"},{"id":275,"name":"Phil Campbell","country":"USA","state":"AL"},{"id":276,"name":"Pickens County","country":"USA","state":"AL"},{"id":277,"name":"Piedmont","country":"USA","state":"AL"},{"id":278,"name":"Pike County","country":"USA","state":"AL"},{"id":279,"name":"Pike Road","country":"USA","state":"AL"},{"id":280,"name":"Pine Level","country":"USA","state":"AL"},{"id":281,"name":"Pinson","country":"USA","state":"AL"},{"id":282,"name":"Pleasant Grove","country":"USA","state":"AL"},{"id":283,"name":"Point Clear","country":"USA","state":"AL"},{"id":284,"name":"Prattville","country":"USA","state":"AL"},{"id":285,"name":"Priceville","country":"USA","state":"AL"},{"id":286,"name":"Prichard","country":"USA","state":"AL"},{"id":287,"name":"Ragland","country":"USA","state":"AL"},{"id":288,"name":"Rainbow City","country":"USA","state":"AL"},{"id":289,"name":"Rainsville","country":"USA","state":"AL"},{"id":290,"name":"Randolph County","country":"USA","state":"AL"},{"id":291,"name":"Red Bay","country":"USA","state":"AL"},{"id":292,"name":"Redstone Arsenal","country":"USA","state":"AL"},{"id":293,"name":"Reform","country":"USA","state":"AL"},{"id":294,"name":"Rehobeth","country":"USA","state":"AL"},{"id":295,"name":"Riverside","country":"USA","state":"AL"},{"id":296,"name":"Roanoke","country":"USA","state":"AL"},{"id":297,"name":"Robertsdale","country":"USA","state":"AL"},{"id":298,"name":"Rock Creek","country":"USA","state":"AL"},{"id":299,"name":"Rockford","country":"USA","state":"AL"},{"id":300,"name":"Rogersville","country":"USA","state":"AL"},{"id":301,"name":"Russell County","country":"USA","state":"AL"},{"id":302,"name":"Russellville","country":"USA","state":"AL"},{"id":303,"name":"Saint Clair County","country":"USA","state":"AL"},{"id":304,"name":"Saks","country":"USA","state":"AL"},{"id":305,"name":"Samson","country":"USA","state":"AL"},{"id":306,"name":"Saraland","country":"USA","state":"AL"},{"id":307,"name":"Sardis City","country":"USA","state":"AL"},{"id":308,"name":"Satsuma","country":"USA","state":"AL"},{"id":309,"name":"Scottsboro","country":"USA","state":"AL"},{"id":310,"name":"Selma","country":"USA","state":"AL"},{"id":311,"name":"Selmont-West Selmont","country":"USA","state":"AL"},{"id":312,"name":"Semmes","country":"USA","state":"AL"},{"id":313,"name":"Sheffield","country":"USA","state":"AL"},{"id":314,"name":"Shelby","country":"USA","state":"AL"},{"id":315,"name":"Shelby County","country":"USA","state":"AL"},{"id":316,"name":"Shoal Creek","country":"USA","state":"AL"},{"id":317,"name":"Slocomb","country":"USA","state":"AL"},{"id":318,"name":"Smiths Station","country":"USA","state":"AL"},{"id":319,"name":"Smoke Rise","country":"USA","state":"AL"},{"id":320,"name":"Southside","country":"USA","state":"AL"},{"id":321,"name":"Spanish Fort","country":"USA","state":"AL"},{"id":322,"name":"Springville","country":"USA","state":"AL"},{"id":323,"name":"Steele","country":"USA","state":"AL"},{"id":324,"name":"Stevenson","country":"USA","state":"AL"},{"id":325,"name":"Stewartville","country":"USA","state":"AL"},{"id":326,"name":"Sulligent","country":"USA","state":"AL"},{"id":327,"name":"Sumiton","country":"USA","state":"AL"},{"id":328,"name":"Summerdale","country":"USA","state":"AL"},{"id":329,"name":"Sumter County","country":"USA","state":"AL"},{"id":330,"name":"Sylacauga","country":"USA","state":"AL"},{"id":331,"name":"Sylvan Springs","country":"USA","state":"AL"},{"id":332,"name":"Sylvania","country":"USA","state":"AL"},{"id":333,"name":"Talladega","country":"USA","state":"AL"},{"id":334,"name":"Talladega County","country":"USA","state":"AL"},{"id":335,"name":"Tallapoosa County","country":"USA","state":"AL"},{"id":336,"name":"Tallassee","country":"USA","state":"AL"},{"id":337,"name":"Tarrant","country":"USA","state":"AL"},{"id":338,"name":"Taylor","country":"USA","state":"AL"},{"id":339,"name":"Theodore","country":"USA","state":"AL"},{"id":340,"name":"Thomasville","country":"USA","state":"AL"},{"id":341,"name":"Thorsby","country":"USA","state":"AL"},{"id":342,"name":"Tillmans Corner","country":"USA","state":"AL"},{"id":343,"name":"Town Creek","country":"USA","state":"AL"},{"id":344,"name":"Trinity","country":"USA","state":"AL"},{"id":345,"name":"Troy","country":"USA","state":"AL"},{"id":346,"name":"Trussville","country":"USA","state":"AL"},{"id":347,"name":"Tuscaloosa","country":"USA","state":"AL"},{"id":348,"name":"Tuscaloosa County","country":"USA","state":"AL"},{"id":349,"name":"Tuscumbia","country":"USA","state":"AL"},{"id":350,"name":"Tuskegee","country":"USA","state":"AL"},{"id":351,"name":"Underwood-Petersville","country":"USA","state":"AL"},{"id":352,"name":"Union Springs","country":"USA","state":"AL"},{"id":353,"name":"Uniontown","country":"USA","state":"AL"},{"id":354,"name":"Valley","country":"USA","state":"AL"},{"id":355,"name":"Valley Grande","country":"USA","state":"AL"},{"id":356,"name":"Vance","country":"USA","state":"AL"},{"id":357,"name":"Vandiver","country":"USA","state":"AL"},{"id":358,"name":"Vernon","country":"USA","state":"AL"},{"id":359,"name":"Vestavia Hills","country":"USA","state":"AL"},{"id":360,"name":"Vincent","country":"USA","state":"AL"},{"id":361,"name":"Walker County","country":"USA","state":"AL"},{"id":362,"name":"Warrior","country":"USA","state":"AL"},{"id":363,"name":"Washington County","country":"USA","state":"AL"},{"id":364,"name":"Weaver","country":"USA","state":"AL"},{"id":365,"name":"Webb","country":"USA","state":"AL"},{"id":366,"name":"Wedowee","country":"USA","state":"AL"},{"id":367,"name":"West Blocton","country":"USA","state":"AL"},{"id":368,"name":"West End-Cobb Town","country":"USA","state":"AL"},{"id":369,"name":"Westover","country":"USA","state":"AL"},{"id":370,"name":"Wetumpka","country":"USA","state":"AL"},{"id":371,"name":"Whitesboro","country":"USA","state":"AL"},{"id":372,"name":"Wilcox County","country":"USA","state":"AL"},{"id":373,"name":"Wilsonville","country":"USA","state":"AL"},{"id":374,"name":"Winfield","country":"USA","state":"AL"},{"id":375,"name":"Winston County","country":"USA","state":"AL"},{"id":376,"name":"Woodstock","country":"USA","state":"AL"},{"id":377,"name":"York","country":"USA","state":"AL"}]
+[
+    {
+        "id": 110968,
+        "name": "Abbeville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111032,
+        "name": "Adamsville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111083,
+        "name": "Alabaster",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111120,
+        "name": "Albertville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111146,
+        "name": "Alexander City",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111152,
+        "name": "Alexandria",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111172,
+        "name": "Aliceville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111309,
+        "name": "Andalusia",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111355,
+        "name": "Anniston",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111407,
+        "name": "Arab",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111448,
+        "name": "Argo",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111524,
+        "name": "Ashford",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111533,
+        "name": "Ashland",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111548,
+        "name": "Ashville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111577,
+        "name": "Athens",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111602,
+        "name": "Atmore",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111608,
+        "name": "Attalla",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111623,
+        "name": "Auburn",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111671,
+        "name": "Autauga County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111761,
+        "name": "Baldwin County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111774,
+        "name": "Ballplay",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111815,
+        "name": "Barbour County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111929,
+        "name": "Bay Minette",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111948,
+        "name": "Bayou La Batre",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 111975,
+        "name": "Bear Creek",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112252,
+        "name": "Berry",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112267,
+        "name": "Bessemer",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112309,
+        "name": "Bibb County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112358,
+        "name": "Birmingham",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112457,
+        "name": "Blount County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112460,
+        "name": "Blountsville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112474,
+        "name": "Blue Ridge",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112490,
+        "name": "Boaz",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112725,
+        "name": "Brent",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112747,
+        "name": "Brewton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112758,
+        "name": "Bridgeport",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112786,
+        "name": "Brighton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112848,
+        "name": "Brook Highland",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112886,
+        "name": "Brookside",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112897,
+        "name": "Brookwood",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 112946,
+        "name": "Brundidge",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113034,
+        "name": "Bullock County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113106,
+        "name": "Butler",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113114,
+        "name": "Butler County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113138,
+        "name": "Bynum",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113167,
+        "name": "Cahaba Heights",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113194,
+        "name": "Calera",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113200,
+        "name": "Calhoun County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113259,
+        "name": "Camden",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113386,
+        "name": "Carbon Hill",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113407,
+        "name": "Carlisle-Rockledge",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113463,
+        "name": "Carrollton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113601,
+        "name": "Cedar Bluff",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113646,
+        "name": "Center Point",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113688,
+        "name": "Centre",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113691,
+        "name": "Centreville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113713,
+        "name": "Chalkville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113720,
+        "name": "Chambers County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113804,
+        "name": "Chatom",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113829,
+        "name": "Chelsea",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113845,
+        "name": "Cherokee",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113849,
+        "name": "Cherokee County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113938,
+        "name": "Chickasaw",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113949,
+        "name": "Childersburg",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113957,
+        "name": "Chilton County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113984,
+        "name": "Choccolocco",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 113986,
+        "name": "Choctaw County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114033,
+        "name": "Citronelle",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114099,
+        "name": "Clanton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114134,
+        "name": "Clarke County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114165,
+        "name": "Clay",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114173,
+        "name": "Clay County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114196,
+        "name": "Clayton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114230,
+        "name": "Cleburne County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114240,
+        "name": "Cleveland",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114301,
+        "name": "Clio",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114337,
+        "name": "Coaling",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114367,
+        "name": "Coffee County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114379,
+        "name": "Colbert County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114433,
+        "name": "Collinsville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114487,
+        "name": "Columbiana",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114534,
+        "name": "Concord",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114550,
+        "name": "Conecuh County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114613,
+        "name": "Coosa County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114614,
+        "name": "Coosada",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114638,
+        "name": "Cordova",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114699,
+        "name": "Cottonwood",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114742,
+        "name": "Covington County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114745,
+        "name": "Cowarts",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114791,
+        "name": "Crenshaw County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114792,
+        "name": "Creola",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114855,
+        "name": "Crossville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114895,
+        "name": "Cullman",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114896,
+        "name": "Cullman County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114968,
+        "name": "Dadeville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114982,
+        "name": "Dale County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114983,
+        "name": "Daleville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 114994,
+        "name": "Dallas County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115032,
+        "name": "Danville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115040,
+        "name": "Daphne",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115057,
+        "name": "Dauphin Island",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115148,
+        "name": "Deatsville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115149,
+        "name": "Decatur",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115128,
+        "name": "DeKalb County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115232,
+        "name": "Demopolis",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115360,
+        "name": "Dixiana",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115407,
+        "name": "Dora",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115415,
+        "name": "Dothan",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115417,
+        "name": "Double Springs",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115636,
+        "name": "East Brewton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115662,
+        "name": "East Florence",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115816,
+        "name": "Eclectic",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115941,
+        "name": "Elba",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 115944,
+        "name": "Elberta",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116056,
+        "name": "Elmore",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116057,
+        "name": "Elmore County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116092,
+        "name": "Emerald Mountain",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116148,
+        "name": "Enterprise",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116179,
+        "name": "Escambia County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116219,
+        "name": "Etowah County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116224,
+        "name": "Eufaula",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116242,
+        "name": "Eutaw",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116261,
+        "name": "Evergreen",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116309,
+        "name": "Fairfield",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116326,
+        "name": "Fairhope",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116369,
+        "name": "Falkville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116438,
+        "name": "Fayette",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116443,
+        "name": "Fayette County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116453,
+        "name": "Fayetteville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116567,
+        "name": "Flint City",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116569,
+        "name": "Flomaton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116576,
+        "name": "Florala",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116577,
+        "name": "Florence",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116619,
+        "name": "Foley",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116669,
+        "name": "Forestdale",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116705,
+        "name": "Fort Deposit",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116738,
+        "name": "Fort Payne",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116747,
+        "name": "Fort Rucker",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116843,
+        "name": "Franklin County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116957,
+        "name": "Frisco City",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 116999,
+        "name": "Fultondale",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117003,
+        "name": "Fyffe",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117004,
+        "name": "Gadsden",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117070,
+        "name": "Gardendale",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117139,
+        "name": "Geneva",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117146,
+        "name": "Geneva County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117167,
+        "name": "Georgiana",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117276,
+        "name": "Glencoe",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117377,
+        "name": "Good Hope",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117391,
+        "name": "Goodwater",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117395,
+        "name": "Gordo",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117449,
+        "name": "Grand Bay",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117565,
+        "name": "Grayson Valley",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117566,
+        "name": "Graysville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117631,
+        "name": "Greene County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117664,
+        "name": "Greensboro",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117680,
+        "name": "Greenville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117757,
+        "name": "Grove Hill",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117789,
+        "name": "Guin",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117795,
+        "name": "Gulf Shores",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117806,
+        "name": "Guntersville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117830,
+        "name": "Hackleburg",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117848,
+        "name": "Hale County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117853,
+        "name": "Haleyville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117887,
+        "name": "Hamilton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 117946,
+        "name": "Hanceville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118036,
+        "name": "Harpersville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118084,
+        "name": "Hartford",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118102,
+        "name": "Hartselle",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118110,
+        "name": "Harvest",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118177,
+        "name": "Hayden",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118189,
+        "name": "Hayneville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118204,
+        "name": "Hazel Green",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118216,
+        "name": "Headland",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118243,
+        "name": "Heflin",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118246,
+        "name": "Helena",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118272,
+        "name": "Henagar",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118297,
+        "name": "Henry County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118408,
+        "name": "Highland Lakes",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118516,
+        "name": "Hokes Bluff",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118574,
+        "name": "Holt",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118581,
+        "name": "Holtville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118607,
+        "name": "Homewood",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118638,
+        "name": "Hoover",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118702,
+        "name": "Houston County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118756,
+        "name": "Hueytown",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118770,
+        "name": "Huguley",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118814,
+        "name": "Huntsville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118919,
+        "name": "Indian Springs Village",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118954,
+        "name": "Inverness",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 118994,
+        "name": "Irondale",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 119060,
+        "name": "Jackson",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 119075,
+        "name": "Jackson County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 119099,
+        "name": "Jacksonville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 119138,
+        "name": "Jasper",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 119175,
+        "name": "Jefferson County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 119211,
+        "name": "Jemison",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 119569,
+        "name": "Kimberly",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 119641,
+        "name": "Kinsey",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 119826,
+        "name": "Ladonia",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 119831,
+        "name": "Lafayette",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 119967,
+        "name": "Lake Purdy",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 119986,
+        "name": "Lake View",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120061,
+        "name": "Lamar County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120108,
+        "name": "Lanett",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120179,
+        "name": "Lauderdale County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120229,
+        "name": "Lawrence County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120306,
+        "name": "Lee County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120320,
+        "name": "Leeds",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120323,
+        "name": "Leesburg",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120404,
+        "name": "Level Plains",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120494,
+        "name": "Limestone County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120499,
+        "name": "Lincoln",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120560,
+        "name": "Linden",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120577,
+        "name": "Lineville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120595,
+        "name": "Lipscomb",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120647,
+        "name": "Livingston",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120685,
+        "name": "Locust Fork",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120846,
+        "name": "Lowndes County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120852,
+        "name": "Loxley",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120899,
+        "name": "Luverne",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120967,
+        "name": "Macon County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 120984,
+        "name": "Madison",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121002,
+        "name": "Madison County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121070,
+        "name": "Malvern",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121192,
+        "name": "Marbury",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121203,
+        "name": "Marengo County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121205,
+        "name": "Margaret",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121231,
+        "name": "Marion",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121247,
+        "name": "Marion County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121310,
+        "name": "Marshall County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121565,
+        "name": "Meadowbrook",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121698,
+        "name": "Meridianville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121796,
+        "name": "Midfield",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121803,
+        "name": "Midland City",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121829,
+        "name": "Mignon",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121872,
+        "name": "Millbrook",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 121963,
+        "name": "Minor",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122010,
+        "name": "Mobile",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122011,
+        "name": "Mobile County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122067,
+        "name": "Monroe County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122084,
+        "name": "Monroeville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122125,
+        "name": "Montevallo",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122130,
+        "name": "Montgomery",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122139,
+        "name": "Montgomery County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122195,
+        "name": "Moody",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122207,
+        "name": "Moores Mill",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122236,
+        "name": "Morgan County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122265,
+        "name": "Morris",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122314,
+        "name": "Moulton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122328,
+        "name": "Moundville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122367,
+        "name": "Mount Olive",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122393,
+        "name": "Mount Vernon",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122410,
+        "name": "Mountain Brook",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122470,
+        "name": "Munford",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122503,
+        "name": "Muscle Shoals",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122676,
+        "name": "New Brockton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122723,
+        "name": "New Hope",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122749,
+        "name": "New Market",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122857,
+        "name": "Newton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 122990,
+        "name": "North Bibb",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 123160,
+        "name": "Northport",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 123357,
+        "name": "Odenville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 123381,
+        "name": "Ohatchee",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 123478,
+        "name": "Oneonta",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 123496,
+        "name": "Opelika",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 123498,
+        "name": "Opp",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 123511,
+        "name": "Orange Beach",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 123663,
+        "name": "Owens Cross Roads",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 123675,
+        "name": "Oxford",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 123696,
+        "name": "Ozark",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 123988,
+        "name": "Pelham",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 123997,
+        "name": "Pell City",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124074,
+        "name": "Perry County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124123,
+        "name": "Phenix City",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124124,
+        "name": "Phil Campbell",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124156,
+        "name": "Pickens County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124164,
+        "name": "Piedmont",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124185,
+        "name": "Pike County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124196,
+        "name": "Pike Road",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124235,
+        "name": "Pine Level",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124272,
+        "name": "Pinson",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124366,
+        "name": "Pleasant Grove",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124427,
+        "name": "Point Clear",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124638,
+        "name": "Prattville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124666,
+        "name": "Priceville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124667,
+        "name": "Prichard",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124821,
+        "name": "Ragland",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124824,
+        "name": "Rainbow City",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124829,
+        "name": "Rainsville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124872,
+        "name": "Randolph County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124939,
+        "name": "Red Bay",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124981,
+        "name": "Redstone Arsenal",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 124999,
+        "name": "Reform",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125003,
+        "name": "Rehobeth",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125201,
+        "name": "Riverside",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125226,
+        "name": "Roanoke",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125244,
+        "name": "Robertsdale",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125275,
+        "name": "Rock Creek",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125299,
+        "name": "Rockford",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125354,
+        "name": "Rogersville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125536,
+        "name": "Russell County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125542,
+        "name": "Russellville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125621,
+        "name": "Saint Clair County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125721,
+        "name": "Saks",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125781,
+        "name": "Samson",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125934,
+        "name": "Saraland",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125949,
+        "name": "Sardis City",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 125957,
+        "name": "Satsuma",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126061,
+        "name": "Scottsboro",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126138,
+        "name": "Selma",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126143,
+        "name": "Selmont-West Selmont",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126151,
+        "name": "Semmes",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126259,
+        "name": "Sheffield",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126267,
+        "name": "Shelby",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126272,
+        "name": "Shelby County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126363,
+        "name": "Shoal Creek",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126506,
+        "name": "Slocomb",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126523,
+        "name": "Smiths Station",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126532,
+        "name": "Smoke Rise",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126786,
+        "name": "Southside",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126799,
+        "name": "Spanish Fort",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 126914,
+        "name": "Springville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127007,
+        "name": "Steele",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127044,
+        "name": "Stevenson",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127054,
+        "name": "Stewartville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127180,
+        "name": "Sulligent",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127200,
+        "name": "Sumiton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127201,
+        "name": "Summerdale",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127228,
+        "name": "Sumter County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127354,
+        "name": "Sylacauga",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127358,
+        "name": "Sylvan Springs",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127359,
+        "name": "Sylvania",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127389,
+        "name": "Talladega",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127390,
+        "name": "Talladega County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127394,
+        "name": "Tallapoosa County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127395,
+        "name": "Tallassee",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127434,
+        "name": "Tarrant",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127445,
+        "name": "Taylor",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127568,
+        "name": "Theodore",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127587,
+        "name": "Thomasville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127608,
+        "name": "Thorsby",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127651,
+        "name": "Tillmans Corner",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127757,
+        "name": "Town Creek",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127825,
+        "name": "Trinity",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127841,
+        "name": "Troy",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127860,
+        "name": "Trussville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127909,
+        "name": "Tuscaloosa",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127910,
+        "name": "Tuscaloosa County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127914,
+        "name": "Tuscumbia",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127916,
+        "name": "Tuskegee",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 127968,
+        "name": "Underwood-Petersville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128011,
+        "name": "Union Springs",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128015,
+        "name": "Uniontown",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128097,
+        "name": "Valley",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128110,
+        "name": "Valley Grande",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128140,
+        "name": "Vance",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128153,
+        "name": "Vandiver",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128188,
+        "name": "Vernon",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128212,
+        "name": "Vestavia Hills",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128264,
+        "name": "Vincent",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128386,
+        "name": "Walker County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128513,
+        "name": "Warrior",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128552,
+        "name": "Washington County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128721,
+        "name": "Weaver",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128724,
+        "name": "Webb",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128750,
+        "name": "Wedowee",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128827,
+        "name": "West Blocton",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 128864,
+        "name": "West End-Cobb Town",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 129067,
+        "name": "Westover",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 129092,
+        "name": "Wetumpka",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 129180,
+        "name": "Whitesboro",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 129228,
+        "name": "Wilcox County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 129340,
+        "name": "Wilsonville",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 129392,
+        "name": "Winfield",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 129434,
+        "name": "Winston County",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 129560,
+        "name": "Woodstock",
+        "country": "USA",
+        "state": "AL"
+    },
+    {
+        "id": 129690,
+        "name": "York",
+        "country": "USA",
+        "state": "AL"
+    }
+]

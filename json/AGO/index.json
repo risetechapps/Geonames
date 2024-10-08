@@ -1,1 +1,104 @@
-[{"id":0,"name":"Bengo Province","iso3":"BGO","country":"AGO"},{"id":1,"name":"Benguela Province","iso3":"BGU","country":"AGO"},{"id":2,"name":"Bi\u00e9 Province","iso3":"BIE","country":"AGO"},{"id":3,"name":"Cabinda Province","iso3":"CAB","country":"AGO"},{"id":4,"name":"Cuando Cubango Province","iso3":"CCU","country":"AGO"},{"id":5,"name":"Cuanza Norte Province","iso3":"CNO","country":"AGO"},{"id":6,"name":"Cuanza Sul","iso3":"CUS","country":"AGO"},{"id":7,"name":"Cunene Province","iso3":"CNN","country":"AGO"},{"id":8,"name":"Huambo Province","iso3":"HUA","country":"AGO"},{"id":9,"name":"Hu\u00edla Province","iso3":"HUI","country":"AGO"},{"id":10,"name":"Luanda Province","iso3":"LUA","country":"AGO"},{"id":11,"name":"Lunda Norte Province","iso3":"LNO","country":"AGO"},{"id":12,"name":"Lunda Sul Province","iso3":"LSU","country":"AGO"},{"id":13,"name":"Malanje Province","iso3":"MAL","country":"AGO"},{"id":14,"name":"Moxico Province","iso3":"MOX","country":"AGO"},{"id":15,"name":"U\u00edge Province","iso3":"UIG","country":"AGO"},{"id":16,"name":"Zaire Province","iso3":"ZAI","country":"AGO"}]
+[
+    {
+        "id": 221,
+        "name": "Bengo Province",
+        "country": "AGO",
+        "state_code": "BGO"
+    },
+    {
+        "id": 218,
+        "name": "Benguela Province",
+        "country": "AGO",
+        "state_code": "BGU"
+    },
+    {
+        "id": 212,
+        "name": "Bié Province",
+        "country": "AGO",
+        "state_code": "BIE"
+    },
+    {
+        "id": 228,
+        "name": "Cabinda Province",
+        "country": "AGO",
+        "state_code": "CAB"
+    },
+    {
+        "id": 226,
+        "name": "Cuando Cubango Province",
+        "country": "AGO",
+        "state_code": "CCU"
+    },
+    {
+        "id": 217,
+        "name": "Cuanza Norte Province",
+        "country": "AGO",
+        "state_code": "CNO"
+    },
+    {
+        "id": 216,
+        "name": "Cuanza Sul",
+        "country": "AGO",
+        "state_code": "CUS"
+    },
+    {
+        "id": 215,
+        "name": "Cunene Province",
+        "country": "AGO",
+        "state_code": "CNN"
+    },
+    {
+        "id": 213,
+        "name": "Huambo Province",
+        "country": "AGO",
+        "state_code": "HUA"
+    },
+    {
+        "id": 225,
+        "name": "Huíla Province",
+        "country": "AGO",
+        "state_code": "HUI"
+    },
+    {
+        "id": 222,
+        "name": "Luanda Province",
+        "country": "AGO",
+        "state_code": "LUA"
+    },
+    {
+        "id": 223,
+        "name": "Lunda Norte Province",
+        "country": "AGO",
+        "state_code": "LNO"
+    },
+    {
+        "id": 220,
+        "name": "Lunda Sul Province",
+        "country": "AGO",
+        "state_code": "LSU"
+    },
+    {
+        "id": 227,
+        "name": "Malanje Province",
+        "country": "AGO",
+        "state_code": "MAL"
+    },
+    {
+        "id": 219,
+        "name": "Moxico Province",
+        "country": "AGO",
+        "state_code": "MOX"
+    },
+    {
+        "id": 224,
+        "name": "Uíge Province",
+        "country": "AGO",
+        "state_code": "UIG"
+    },
+    {
+        "id": 214,
+        "name": "Zaire Province",
+        "country": "AGO",
+        "state_code": "ZAI"
+    }
+]

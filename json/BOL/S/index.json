@@ -1,1 +1,326 @@
-[{"id":0,"name":"Abap\u00f3","country":"BOL","state":"S"},{"id":1,"name":"Ascenci\u00f3n de Guarayos","country":"BOL","state":"S"},{"id":2,"name":"Ascensi\u00f3n","country":"BOL","state":"S"},{"id":3,"name":"Boyuibe","country":"BOL","state":"S"},{"id":4,"name":"Buena Vista","country":"BOL","state":"S"},{"id":5,"name":"Camiri","country":"BOL","state":"S"},{"id":6,"name":"Charagua","country":"BOL","state":"S"},{"id":7,"name":"Comarapa","country":"BOL","state":"S"},{"id":8,"name":"Concepci\u00f3n","country":"BOL","state":"S"},{"id":9,"name":"Cotoca","country":"BOL","state":"S"},{"id":10,"name":"German Busch","country":"BOL","state":"S"},{"id":11,"name":"Guarayos","country":"BOL","state":"S"},{"id":12,"name":"Jorochito","country":"BOL","state":"S"},{"id":13,"name":"La B\u00e9lgica","country":"BOL","state":"S"},{"id":14,"name":"Limoncito","country":"BOL","state":"S"},{"id":15,"name":"Los Negros","country":"BOL","state":"S"},{"id":16,"name":"Mairana","country":"BOL","state":"S"},{"id":17,"name":"Mineros","country":"BOL","state":"S"},{"id":18,"name":"Montero","country":"BOL","state":"S"},{"id":19,"name":"Okinawa N\u00famero Uno","country":"BOL","state":"S"},{"id":20,"name":"Pail\u00f3n","country":"BOL","state":"S"},{"id":21,"name":"Paurito","country":"BOL","state":"S"},{"id":22,"name":"Portachuelo","country":"BOL","state":"S"},{"id":23,"name":"Provincia Andr\u00e9s Ib\u00e1\u00f1ez","country":"BOL","state":"S"},{"id":24,"name":"Provincia \u00c1ngel Sandoval","country":"BOL","state":"S"},{"id":25,"name":"Provincia Chiquitos","country":"BOL","state":"S"},{"id":26,"name":"Provincia Cordillera","country":"BOL","state":"S"},{"id":27,"name":"Provincia Florida","country":"BOL","state":"S"},{"id":28,"name":"Provincia Ichilo","country":"BOL","state":"S"},{"id":29,"name":"Provincia Manuel Mar\u00eda Caballero","country":"BOL","state":"S"},{"id":30,"name":"Provincia \u00d1uflo de Ch\u00e1vez","country":"BOL","state":"S"},{"id":31,"name":"Provincia Santiesteban","country":"BOL","state":"S"},{"id":32,"name":"Provincia Sara","country":"BOL","state":"S"},{"id":33,"name":"Provincia Vallegrande","country":"BOL","state":"S"},{"id":34,"name":"Provincia Velasco","country":"BOL","state":"S"},{"id":35,"name":"Provincia Warnes","country":"BOL","state":"S"},{"id":36,"name":"Puerto Quijarro","country":"BOL","state":"S"},{"id":37,"name":"Puesto de Pailas","country":"BOL","state":"S"},{"id":38,"name":"Robor\u00e9","country":"BOL","state":"S"},{"id":39,"name":"Samaipata","country":"BOL","state":"S"},{"id":40,"name":"San Carlos","country":"BOL","state":"S"},{"id":41,"name":"San Ignacio de Velasco","country":"BOL","state":"S"},{"id":42,"name":"San Juan del Surut\u00fa","country":"BOL","state":"S"},{"id":43,"name":"San Julian","country":"BOL","state":"S"},{"id":44,"name":"San Mat\u00edas","country":"BOL","state":"S"},{"id":45,"name":"San Pedro","country":"BOL","state":"S"},{"id":46,"name":"Santa Cruz de la Sierra","country":"BOL","state":"S"},{"id":47,"name":"Santa Rita","country":"BOL","state":"S"},{"id":48,"name":"Santa Rosa del Sara","country":"BOL","state":"S"},{"id":49,"name":"Santiago del Torno","country":"BOL","state":"S"},{"id":50,"name":"Urubich\u00e1","country":"BOL","state":"S"},{"id":51,"name":"Vallegrande","country":"BOL","state":"S"},{"id":52,"name":"Villa Yapacan\u00ed","country":"BOL","state":"S"},{"id":53,"name":"Warnes","country":"BOL","state":"S"}]
+[
+    {
+        "id": 9825,
+        "name": "Abapó",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9830,
+        "name": "Ascención de Guarayos",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9831,
+        "name": "Ascensión",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9837,
+        "name": "Boyuibe",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9838,
+        "name": "Buena Vista",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9840,
+        "name": "Camiri",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9844,
+        "name": "Charagua",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9855,
+        "name": "Comarapa",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9856,
+        "name": "Concepción",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9859,
+        "name": "Cotoca",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9864,
+        "name": "German Busch",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9866,
+        "name": "Guarayos",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9873,
+        "name": "Jorochito",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9875,
+        "name": "La Bélgica",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9878,
+        "name": "Limoncito",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9881,
+        "name": "Los Negros",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9883,
+        "name": "Mairana",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9885,
+        "name": "Mineros",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9888,
+        "name": "Montero",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9890,
+        "name": "Okinawa Número Uno",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9893,
+        "name": "Pailón",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9895,
+        "name": "Paurito",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9897,
+        "name": "Portachuelo",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9901,
+        "name": "Provincia Andrés Ibáñez",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9997,
+        "name": "Provincia Ángel Sandoval",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9924,
+        "name": "Provincia Chiquitos",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9925,
+        "name": "Provincia Cordillera",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9928,
+        "name": "Provincia Florida",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9937,
+        "name": "Provincia Ichilo",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9951,
+        "name": "Provincia Manuel María Caballero",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9998,
+        "name": "Provincia Ñuflo de Chávez",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9979,
+        "name": "Provincia Santiesteban",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9980,
+        "name": "Provincia Sara",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9991,
+        "name": "Provincia Vallegrande",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9992,
+        "name": "Provincia Velasco",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9993,
+        "name": "Provincia Warnes",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 9999,
+        "name": "Puerto Quijarro",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10001,
+        "name": "Puesto de Pailas",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10007,
+        "name": "Roboré",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10010,
+        "name": "Samaipata",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10012,
+        "name": "San Carlos",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10013,
+        "name": "San Ignacio de Velasco",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10014,
+        "name": "San Juan del Surutú",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10015,
+        "name": "San Julian",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10016,
+        "name": "San Matías",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10018,
+        "name": "San Pedro",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10023,
+        "name": "Santa Cruz de la Sierra",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10024,
+        "name": "Santa Rita",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10026,
+        "name": "Santa Rosa del Sara",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10027,
+        "name": "Santiago del Torno",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10043,
+        "name": "Urubichá",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10045,
+        "name": "Vallegrande",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10046,
+        "name": "Villa Yapacaní",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 10050,
+        "name": "Warnes",
+        "country": "BOL",
+        "state": "S"
+    }
+]

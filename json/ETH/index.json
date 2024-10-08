@@ -1,1 +1,68 @@
-[{"id":0,"name":"Addis Ababa","iso3":"AA","country":"ETH"},{"id":1,"name":"Afar Region","iso3":"AF","country":"ETH"},{"id":2,"name":"Amhara Region","iso3":"AM","country":"ETH"},{"id":3,"name":"Benishangul-Gumuz Region","iso3":"BE","country":"ETH"},{"id":4,"name":"Dire Dawa","iso3":"DD","country":"ETH"},{"id":5,"name":"Gambela Region","iso3":"GA","country":"ETH"},{"id":6,"name":"Harari Region","iso3":"HA","country":"ETH"},{"id":7,"name":"Oromia Region","iso3":"OR","country":"ETH"},{"id":8,"name":"Somali Region","iso3":"SO","country":"ETH"},{"id":9,"name":"Southern Nations, Nationalities, and Peoples' Region","iso3":"SN","country":"ETH"},{"id":10,"name":"Tigray Region","iso3":"TI","country":"ETH"}]
+[
+    {
+        "id": 11,
+        "name": "Addis Ababa",
+        "country": "ETH",
+        "state_code": "AA"
+    },
+    {
+        "id": 6,
+        "name": "Afar Region",
+        "country": "ETH",
+        "state_code": "AF"
+    },
+    {
+        "id": 3,
+        "name": "Amhara Region",
+        "country": "ETH",
+        "state_code": "AM"
+    },
+    {
+        "id": 9,
+        "name": "Benishangul-Gumuz Region",
+        "country": "ETH",
+        "state_code": "BE"
+    },
+    {
+        "id": 8,
+        "name": "Dire Dawa",
+        "country": "ETH",
+        "state_code": "DD"
+    },
+    {
+        "id": 10,
+        "name": "Gambela Region",
+        "country": "ETH",
+        "state_code": "GA"
+    },
+    {
+        "id": 7,
+        "name": "Harari Region",
+        "country": "ETH",
+        "state_code": "HA"
+    },
+    {
+        "id": 5,
+        "name": "Oromia Region",
+        "country": "ETH",
+        "state_code": "OR"
+    },
+    {
+        "id": 2,
+        "name": "Somali Region",
+        "country": "ETH",
+        "state_code": "SO"
+    },
+    {
+        "id": 1,
+        "name": "Southern Nations, Nationalities, and Peoples' Region",
+        "country": "ETH",
+        "state_code": "SN"
+    },
+    {
+        "id": 4,
+        "name": "Tigray Region",
+        "country": "ETH",
+        "state_code": "TI"
+    }
+]

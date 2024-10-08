@@ -1,1 +1,1304 @@
-[{"id":0,"name":"Aborlan","country":"PHL","state":"MDR"},{"id":1,"name":"Abra de Ilog","country":"PHL","state":"MDR"},{"id":2,"name":"Adela","country":"PHL","state":"MDR"},{"id":3,"name":"Agcogon","country":"PHL","state":"MDR"},{"id":4,"name":"Agutaya","country":"PHL","state":"MDR"},{"id":5,"name":"Alad","country":"PHL","state":"MDR"},{"id":6,"name":"Alcantara","country":"PHL","state":"MDR"},{"id":7,"name":"Alemanguan","country":"PHL","state":"MDR"},{"id":8,"name":"Algeciras","country":"PHL","state":"MDR"},{"id":9,"name":"Alibug","country":"PHL","state":"MDR"},{"id":10,"name":"Anilao","country":"PHL","state":"MDR"},{"id":11,"name":"Apitong","country":"PHL","state":"MDR"},{"id":12,"name":"Apurawan","country":"PHL","state":"MDR"},{"id":13,"name":"Araceli","country":"PHL","state":"MDR"},{"id":14,"name":"Aramawayan","country":"PHL","state":"MDR"},{"id":15,"name":"Aramayuan","country":"PHL","state":"MDR"},{"id":16,"name":"Aurora","country":"PHL","state":"MDR"},{"id":17,"name":"Babug","country":"PHL","state":"MDR"},{"id":18,"name":"Baco","country":"PHL","state":"MDR"},{"id":19,"name":"Bacungan","country":"PHL","state":"MDR"},{"id":20,"name":"Bagong Sikat","country":"PHL","state":"MDR"},{"id":21,"name":"Baheli","country":"PHL","state":"MDR"},{"id":22,"name":"Balabac","country":"PHL","state":"MDR"},{"id":23,"name":"Balanacan","country":"PHL","state":"MDR"},{"id":24,"name":"Balatero","country":"PHL","state":"MDR"},{"id":25,"name":"Balugo","country":"PHL","state":"MDR"},{"id":26,"name":"Banos","country":"PHL","state":"MDR"},{"id":27,"name":"Bansud","country":"PHL","state":"MDR"},{"id":28,"name":"Barahan","country":"PHL","state":"MDR"},{"id":29,"name":"Barong Barong","country":"PHL","state":"MDR"},{"id":30,"name":"Batarasa","country":"PHL","state":"MDR"},{"id":31,"name":"Batasan","country":"PHL","state":"MDR"},{"id":32,"name":"Bato","country":"PHL","state":"MDR"},{"id":33,"name":"Bayuin","country":"PHL","state":"MDR"},{"id":34,"name":"Bintacay","country":"PHL","state":"MDR"},{"id":35,"name":"Boac","country":"PHL","state":"MDR"},{"id":36,"name":"Buenavista","country":"PHL","state":"MDR"},{"id":37,"name":"Bulalacao","country":"PHL","state":"MDR"},{"id":38,"name":"Buluang","country":"PHL","state":"MDR"},{"id":39,"name":"Bunog","country":"PHL","state":"MDR"},{"id":40,"name":"Burirao","country":"PHL","state":"MDR"},{"id":41,"name":"Buyabod","country":"PHL","state":"MDR"},{"id":42,"name":"Cabacao","country":"PHL","state":"MDR"},{"id":43,"name":"Cabra","country":"PHL","state":"MDR"},{"id":44,"name":"Cagayan","country":"PHL","state":"MDR"},{"id":45,"name":"Cagayancillo","country":"PHL","state":"MDR"},{"id":46,"name":"Caigangan","country":"PHL","state":"MDR"},{"id":47,"name":"Cajidiocan","country":"PHL","state":"MDR"},{"id":48,"name":"Cajimos","country":"PHL","state":"MDR"},{"id":49,"name":"Calamundingan","country":"PHL","state":"MDR"},{"id":50,"name":"Calapan","country":"PHL","state":"MDR"},{"id":51,"name":"Calatrava","country":"PHL","state":"MDR"},{"id":52,"name":"Calatugas","country":"PHL","state":"MDR"},{"id":53,"name":"Calauag","country":"PHL","state":"MDR"},{"id":54,"name":"Calintaan","country":"PHL","state":"MDR"},{"id":55,"name":"Caminauit","country":"PHL","state":"MDR"},{"id":56,"name":"Cantel","country":"PHL","state":"MDR"},{"id":57,"name":"Canubing No 2","country":"PHL","state":"MDR"},{"id":58,"name":"Caramay","country":"PHL","state":"MDR"},{"id":59,"name":"Carmen","country":"PHL","state":"MDR"},{"id":60,"name":"Caruray","country":"PHL","state":"MDR"},{"id":61,"name":"Casian","country":"PHL","state":"MDR"},{"id":62,"name":"Cawayan","country":"PHL","state":"MDR"},{"id":63,"name":"Concepcion","country":"PHL","state":"MDR"},{"id":64,"name":"Conduaga","country":"PHL","state":"MDR"},{"id":65,"name":"Corcuera","country":"PHL","state":"MDR"},{"id":66,"name":"Coron","country":"PHL","state":"MDR"},{"id":67,"name":"Cuyo","country":"PHL","state":"MDR"},{"id":68,"name":"Dapawan","country":"PHL","state":"MDR"},{"id":69,"name":"Daykitin","country":"PHL","state":"MDR"},{"id":70,"name":"Dobdoban","country":"PHL","state":"MDR"},{"id":71,"name":"Dulangan","country":"PHL","state":"MDR"},{"id":72,"name":"Dumaran","country":"PHL","state":"MDR"},{"id":73,"name":"El Nido","country":"PHL","state":"MDR"},{"id":74,"name":"Eraan","country":"PHL","state":"MDR"},{"id":75,"name":"Espa\u00f1a","country":"PHL","state":"MDR"},{"id":76,"name":"Estrella","country":"PHL","state":"MDR"},{"id":77,"name":"Evangelista","country":"PHL","state":"MDR"},{"id":78,"name":"Ferrol","country":"PHL","state":"MDR"},{"id":79,"name":"Gabawan","country":"PHL","state":"MDR"},{"id":80,"name":"Gasan","country":"PHL","state":"MDR"},{"id":81,"name":"Gloria","country":"PHL","state":"MDR"},{"id":82,"name":"Guinlo","country":"PHL","state":"MDR"},{"id":83,"name":"Harrison","country":"PHL","state":"MDR"},{"id":84,"name":"Ipil","country":"PHL","state":"MDR"},{"id":85,"name":"Ipilan","country":"PHL","state":"MDR"},{"id":86,"name":"Irahuan","country":"PHL","state":"MDR"},{"id":87,"name":"Iraray","country":"PHL","state":"MDR"},{"id":88,"name":"Irirum","country":"PHL","state":"MDR"},{"id":89,"name":"Isugod","country":"PHL","state":"MDR"},{"id":90,"name":"La Curva","country":"PHL","state":"MDR"},{"id":91,"name":"Labasan","country":"PHL","state":"MDR"},{"id":92,"name":"Labog","country":"PHL","state":"MDR"},{"id":93,"name":"Lanas","country":"PHL","state":"MDR"},{"id":94,"name":"Laylay","country":"PHL","state":"MDR"},{"id":95,"name":"Leuteboro","country":"PHL","state":"MDR"},{"id":96,"name":"Libas","country":"PHL","state":"MDR"},{"id":97,"name":"Libertad","country":"PHL","state":"MDR"},{"id":98,"name":"Ligaya","country":"PHL","state":"MDR"},{"id":99,"name":"Limanancong","country":"PHL","state":"MDR"},{"id":100,"name":"Limon","country":"PHL","state":"MDR"},{"id":101,"name":"Looc","country":"PHL","state":"MDR"},{"id":102,"name":"Lubang","country":"PHL","state":"MDR"},{"id":103,"name":"Lumangbayan","country":"PHL","state":"MDR"},{"id":104,"name":"Magbay","country":"PHL","state":"MDR"},{"id":105,"name":"Magdiwang","country":"PHL","state":"MDR"},{"id":106,"name":"Magsaysay","country":"PHL","state":"MDR"},{"id":107,"name":"Mainit","country":"PHL","state":"MDR"},{"id":108,"name":"Malamig","country":"PHL","state":"MDR"},{"id":109,"name":"Malibago","country":"PHL","state":"MDR"},{"id":110,"name":"Maliig","country":"PHL","state":"MDR"},{"id":111,"name":"Malitbog","country":"PHL","state":"MDR"},{"id":112,"name":"Maluanluan","country":"PHL","state":"MDR"},{"id":113,"name":"Mamburao","country":"PHL","state":"MDR"},{"id":114,"name":"Manaul","country":"PHL","state":"MDR"},{"id":115,"name":"Mangarine","country":"PHL","state":"MDR"},{"id":116,"name":"Mansalay","country":"PHL","state":"MDR"},{"id":117,"name":"Masaguisi","country":"PHL","state":"MDR"},{"id":118,"name":"Masiga","country":"PHL","state":"MDR"},{"id":119,"name":"Mauhao","country":"PHL","state":"MDR"},{"id":120,"name":"Mogpog","country":"PHL","state":"MDR"},{"id":121,"name":"Nagiba","country":"PHL","state":"MDR"},{"id":122,"name":"Narra","country":"PHL","state":"MDR"},{"id":123,"name":"Naujan","country":"PHL","state":"MDR"},{"id":124,"name":"New Agutaya","country":"PHL","state":"MDR"},{"id":125,"name":"Odala","country":"PHL","state":"MDR"},{"id":126,"name":"Odiong","country":"PHL","state":"MDR"},{"id":127,"name":"Odiongan","country":"PHL","state":"MDR"},{"id":128,"name":"Osme\u00f1a","country":"PHL","state":"MDR"},{"id":129,"name":"Paclolo","country":"PHL","state":"MDR"},{"id":130,"name":"Paluan","country":"PHL","state":"MDR"},{"id":131,"name":"Pambisan","country":"PHL","state":"MDR"},{"id":132,"name":"Panacan","country":"PHL","state":"MDR"},{"id":133,"name":"Panalingaan","country":"PHL","state":"MDR"},{"id":134,"name":"Pancol","country":"PHL","state":"MDR"},{"id":135,"name":"Pa\u00f1gobilian","country":"PHL","state":"MDR"},{"id":136,"name":"Pangulayan","country":"PHL","state":"MDR"},{"id":137,"name":"Panique","country":"PHL","state":"MDR"},{"id":138,"name":"Panitian","country":"PHL","state":"MDR"},{"id":139,"name":"Panlaitan","country":"PHL","state":"MDR"},{"id":140,"name":"Pato-o","country":"PHL","state":"MDR"},{"id":141,"name":"Pili","country":"PHL","state":"MDR"},{"id":142,"name":"Pinagsabangan","country":"PHL","state":"MDR"},{"id":143,"name":"Pinamalayan","country":"PHL","state":"MDR"},{"id":144,"name":"Pitogo","country":"PHL","state":"MDR"},{"id":145,"name":"Plaridel","country":"PHL","state":"MDR"},{"id":146,"name":"Pola","country":"PHL","state":"MDR"},{"id":147,"name":"Port Barton","country":"PHL","state":"MDR"},{"id":148,"name":"Province of Marinduque","country":"PHL","state":"MDR"},{"id":149,"name":"Province of Mindoro Occidental","country":"PHL","state":"MDR"},{"id":150,"name":"Province of Mindoro Oriental","country":"PHL","state":"MDR"},{"id":151,"name":"Province of Palawan","country":"PHL","state":"MDR"},{"id":152,"name":"Province of Romblon","country":"PHL","state":"MDR"},{"id":153,"name":"Puerto Galera","country":"PHL","state":"MDR"},{"id":154,"name":"Puerto Princesa","country":"PHL","state":"MDR"},{"id":155,"name":"Punang","country":"PHL","state":"MDR"},{"id":156,"name":"Punta","country":"PHL","state":"MDR"},{"id":157,"name":"Quezon","country":"PHL","state":"MDR"},{"id":158,"name":"Quinabigan","country":"PHL","state":"MDR"},{"id":159,"name":"Ransang","country":"PHL","state":"MDR"},{"id":160,"name":"Rio Tuba","country":"PHL","state":"MDR"},{"id":161,"name":"Rizal","country":"PHL","state":"MDR"},{"id":162,"name":"Romblon","country":"PHL","state":"MDR"},{"id":163,"name":"Roxas","country":"PHL","state":"MDR"},{"id":164,"name":"Saaban","country":"PHL","state":"MDR"},{"id":165,"name":"Sabang","country":"PHL","state":"MDR"},{"id":166,"name":"Sablayan","country":"PHL","state":"MDR"},{"id":167,"name":"Sagana","country":"PHL","state":"MDR"},{"id":168,"name":"Salcedo","country":"PHL","state":"MDR"},{"id":169,"name":"Salvacion","country":"PHL","state":"MDR"},{"id":170,"name":"San Agustin","country":"PHL","state":"MDR"},{"id":171,"name":"San Aquilino","country":"PHL","state":"MDR"},{"id":172,"name":"San Fernando","country":"PHL","state":"MDR"},{"id":173,"name":"San Jose","country":"PHL","state":"MDR"},{"id":174,"name":"San Mariano","country":"PHL","state":"MDR"},{"id":175,"name":"San Miguel","country":"PHL","state":"MDR"},{"id":176,"name":"San Pedro","country":"PHL","state":"MDR"},{"id":177,"name":"San Teodoro","country":"PHL","state":"MDR"},{"id":178,"name":"San Vicente","country":"PHL","state":"MDR"},{"id":179,"name":"Santa Brigida","country":"PHL","state":"MDR"},{"id":180,"name":"Santa Cruz","country":"PHL","state":"MDR"},{"id":181,"name":"Santa Fe","country":"PHL","state":"MDR"},{"id":182,"name":"Santa Maria","country":"PHL","state":"MDR"},{"id":183,"name":"Santa Teresa","country":"PHL","state":"MDR"},{"id":184,"name":"Saraza","country":"PHL","state":"MDR"},{"id":185,"name":"Socorro","country":"PHL","state":"MDR"},{"id":186,"name":"Sogod","country":"PHL","state":"MDR"},{"id":187,"name":"Suba","country":"PHL","state":"MDR"},{"id":188,"name":"Sumagui","country":"PHL","state":"MDR"},{"id":189,"name":"Tabinay","country":"PHL","state":"MDR"},{"id":190,"name":"Tabon","country":"PHL","state":"MDR"},{"id":191,"name":"Tacligan","country":"PHL","state":"MDR"},{"id":192,"name":"Taclobo","country":"PHL","state":"MDR"},{"id":193,"name":"Tagbak","country":"PHL","state":"MDR"},{"id":194,"name":"Tagbita","country":"PHL","state":"MDR"},{"id":195,"name":"Tagburos","country":"PHL","state":"MDR"},{"id":196,"name":"Tagusao","country":"PHL","state":"MDR"},{"id":197,"name":"Tambong","country":"PHL","state":"MDR"},{"id":198,"name":"Tampayan","country":"PHL","state":"MDR"},{"id":199,"name":"Tangal","country":"PHL","state":"MDR"},{"id":200,"name":"Tarusan","country":"PHL","state":"MDR"},{"id":201,"name":"Tayaman","country":"PHL","state":"MDR"},{"id":202,"name":"Taytay","country":"PHL","state":"MDR"},{"id":203,"name":"Tigui","country":"PHL","state":"MDR"},{"id":204,"name":"Tiguion","country":"PHL","state":"MDR"},{"id":205,"name":"Tiguisan","country":"PHL","state":"MDR"},{"id":206,"name":"Tilik","country":"PHL","state":"MDR"},{"id":207,"name":"Tiniguiban","country":"PHL","state":"MDR"},{"id":208,"name":"Tomingad","country":"PHL","state":"MDR"},{"id":209,"name":"Torrijos","country":"PHL","state":"MDR"},{"id":210,"name":"Tuban","country":"PHL","state":"MDR"},{"id":211,"name":"Tugdan","country":"PHL","state":"MDR"},{"id":212,"name":"Tumarbong","country":"PHL","state":"MDR"},{"id":213,"name":"Victoria","country":"PHL","state":"MDR"},{"id":214,"name":"Vigo","country":"PHL","state":"MDR"},{"id":215,"name":"Wawa","country":"PHL","state":"MDR"},{"id":216,"name":"Yook","country":"PHL","state":"MDR"}]
+[
+    {
+        "id": 81132,
+        "name": "Aborlan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81133,
+        "name": "Abra de Ilog",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81145,
+        "name": "Adela",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81156,
+        "name": "Agcogon",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81173,
+        "name": "Agutaya",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81181,
+        "name": "Alad",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81197,
+        "name": "Alcantara",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81204,
+        "name": "Alemanguan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81206,
+        "name": "Algeciras",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81210,
+        "name": "Alibug",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81272,
+        "name": "Anilao",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81295,
+        "name": "Apitong",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81300,
+        "name": "Apurawan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81303,
+        "name": "Araceli",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81304,
+        "name": "Aramawayan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81305,
+        "name": "Aramayuan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81333,
+        "name": "Aurora",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81350,
+        "name": "Babug",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81362,
+        "name": "Baco",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81377,
+        "name": "Bacungan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81400,
+        "name": "Bagong Sikat",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81418,
+        "name": "Baheli",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81429,
+        "name": "Balabac",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81440,
+        "name": "Balanacan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81454,
+        "name": "Balatero",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81504,
+        "name": "Balugo",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81545,
+        "name": "Banos",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81548,
+        "name": "Bansud",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81564,
+        "name": "Barahan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81581,
+        "name": "Barong Barong",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81617,
+        "name": "Batarasa",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81620,
+        "name": "Batasan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81627,
+        "name": "Bato",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81669,
+        "name": "Bayuin",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81728,
+        "name": "Bintacay",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81752,
+        "name": "Boac",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81828,
+        "name": "Buenavista",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81865,
+        "name": "Bulalacao",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81888,
+        "name": "Buluang",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81900,
+        "name": "Bunog",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81913,
+        "name": "Burirao",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81929,
+        "name": "Buyabod",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81934,
+        "name": "Cabacao",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81976,
+        "name": "Cabra",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81993,
+        "name": "Cagayan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 81995,
+        "name": "Cagayancillo",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82002,
+        "name": "Caigangan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82004,
+        "name": "Cajidiocan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82005,
+        "name": "Cajimos",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82020,
+        "name": "Calamundingan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82029,
+        "name": "Calapan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82038,
+        "name": "Calatrava",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82039,
+        "name": "Calatugas",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82040,
+        "name": "Calauag",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82056,
+        "name": "Calintaan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82090,
+        "name": "Caminauit",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82127,
+        "name": "Cantel",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82131,
+        "name": "Canubing No 2",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82149,
+        "name": "Caramay",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82168,
+        "name": "Carmen",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82185,
+        "name": "Caruray",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82191,
+        "name": "Casian",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82230,
+        "name": "Cawayan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82271,
+        "name": "Concepcion",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82278,
+        "name": "Conduaga",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82289,
+        "name": "Corcuera",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82295,
+        "name": "Coron",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82325,
+        "name": "Cuyo",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82376,
+        "name": "Dapawan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82401,
+        "name": "Daykitin",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82447,
+        "name": "Dobdoban",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82476,
+        "name": "Dulangan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82490,
+        "name": "Dumaran",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82505,
+        "name": "El Nido",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82511,
+        "name": "Eraan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82516,
+        "name": "España",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82532,
+        "name": "Estrella",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82534,
+        "name": "Evangelista",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82538,
+        "name": "Ferrol",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82546,
+        "name": "Gabawan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82571,
+        "name": "Gasan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82603,
+        "name": "Gloria",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82636,
+        "name": "Guinlo",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82679,
+        "name": "Harrison",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82757,
+        "name": "Ipil",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82759,
+        "name": "Ipilan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82761,
+        "name": "Irahuan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82762,
+        "name": "Iraray",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82766,
+        "name": "Irirum",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82772,
+        "name": "Isugod",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82938,
+        "name": "La Curva",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82957,
+        "name": "Labasan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 82963,
+        "name": "Labog",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83008,
+        "name": "Lanas",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83056,
+        "name": "Laylay",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83071,
+        "name": "Leuteboro",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83079,
+        "name": "Libas",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83085,
+        "name": "Libertad",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83105,
+        "name": "Ligaya",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83115,
+        "name": "Limanancong",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83124,
+        "name": "Limon",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83171,
+        "name": "Looc",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83192,
+        "name": "Lubang",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83213,
+        "name": "Lumangbayan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83330,
+        "name": "Magbay",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83334,
+        "name": "Magdiwang",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83341,
+        "name": "Magsaysay",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83371,
+        "name": "Mainit",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83398,
+        "name": "Malamig",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83424,
+        "name": "Malibago",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83429,
+        "name": "Maliig",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83447,
+        "name": "Malitbog",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83457,
+        "name": "Maluanluan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83477,
+        "name": "Mamburao",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83497,
+        "name": "Manaul",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83511,
+        "name": "Mangarine",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83534,
+        "name": "Mansalay",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83591,
+        "name": "Masaguisi",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83602,
+        "name": "Masiga",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83638,
+        "name": "Mauhao",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83693,
+        "name": "Mogpog",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83747,
+        "name": "Nagiba",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83781,
+        "name": "Narra",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83792,
+        "name": "Naujan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83800,
+        "name": "New Agutaya",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83841,
+        "name": "Odala",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83844,
+        "name": "Odiong",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83845,
+        "name": "Odiongan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83866,
+        "name": "Osmeña",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83873,
+        "name": "Paclolo",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83931,
+        "name": "Paluan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83935,
+        "name": "Pambisan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83945,
+        "name": "Panacan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83948,
+        "name": "Panalingaan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83957,
+        "name": "Pancol",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84072,
+        "name": "Pañgobilian",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83983,
+        "name": "Pangulayan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83988,
+        "name": "Panique",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83992,
+        "name": "Panitian",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 83993,
+        "name": "Panlaitan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84048,
+        "name": "Pato-o",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84096,
+        "name": "Pili",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84101,
+        "name": "Pinagsabangan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84103,
+        "name": "Pinamalayan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84124,
+        "name": "Pitogo",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84135,
+        "name": "Plaridel",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84140,
+        "name": "Pola",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84167,
+        "name": "Port Barton",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84220,
+        "name": "Province of Marinduque",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84222,
+        "name": "Province of Mindoro Occidental",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84223,
+        "name": "Province of Mindoro Oriental",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84231,
+        "name": "Province of Palawan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84237,
+        "name": "Province of Romblon",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84259,
+        "name": "Puerto Galera",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84260,
+        "name": "Puerto Princesa",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84273,
+        "name": "Punang",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84281,
+        "name": "Punta",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84300,
+        "name": "Quezon",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84306,
+        "name": "Quinabigan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84329,
+        "name": "Ransang",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84339,
+        "name": "Rio Tuba",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84343,
+        "name": "Rizal",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84352,
+        "name": "Romblon",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84362,
+        "name": "Roxas",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84364,
+        "name": "Saaban",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84370,
+        "name": "Sabang",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84373,
+        "name": "Sablayan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84382,
+        "name": "Sagana",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84405,
+        "name": "Salcedo",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84418,
+        "name": "Salvacion",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84437,
+        "name": "San Agustin",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84453,
+        "name": "San Aquilino",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84479,
+        "name": "San Fernando",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84519,
+        "name": "San Jose",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84549,
+        "name": "San Mariano",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84567,
+        "name": "San Miguel",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84588,
+        "name": "San Pedro",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84616,
+        "name": "San Teodoro",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84620,
+        "name": "San Vicente",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84646,
+        "name": "Santa Brigida",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84661,
+        "name": "Santa Cruz",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84670,
+        "name": "Santa Fe",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84687,
+        "name": "Santa Maria",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84702,
+        "name": "Santa Teresa",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84751,
+        "name": "Saraza",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84834,
+        "name": "Socorro",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84839,
+        "name": "Sogod",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84853,
+        "name": "Suba",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84875,
+        "name": "Sumagui",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84897,
+        "name": "Tabinay",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84905,
+        "name": "Tabon",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84919,
+        "name": "Tacligan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84921,
+        "name": "Taclobo",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84934,
+        "name": "Tagbak",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84937,
+        "name": "Tagbita",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84939,
+        "name": "Tagburos",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 84953,
+        "name": "Tagusao",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85012,
+        "name": "Tambong",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85024,
+        "name": "Tampayan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85034,
+        "name": "Tangal",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85062,
+        "name": "Tarusan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85071,
+        "name": "Tayaman",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85076,
+        "name": "Taytay",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85114,
+        "name": "Tigui",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85116,
+        "name": "Tiguion",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85117,
+        "name": "Tiguisan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85120,
+        "name": "Tilik",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85137,
+        "name": "Tiniguiban",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85164,
+        "name": "Tomingad",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85172,
+        "name": "Torrijos",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85183,
+        "name": "Tuban",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85210,
+        "name": "Tugdan",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85221,
+        "name": "Tumarbong",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85285,
+        "name": "Victoria",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85291,
+        "name": "Vigo",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85313,
+        "name": "Wawa",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 85320,
+        "name": "Yook",
+        "country": "PHL",
+        "state": "MDR"
+    }
+]

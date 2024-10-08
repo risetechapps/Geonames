@@ -1,1 +1,50 @@
-[{"id":0,"name":"Azad Kashmir","iso3":"JK","country":"PAK"},{"id":1,"name":"Balochistan","iso3":"BA","country":"PAK"},{"id":2,"name":"Federally Administered Tribal Areas","iso3":"TA","country":"PAK"},{"id":3,"name":"Gilgit-Baltistan","iso3":"GB","country":"PAK"},{"id":4,"name":"Islamabad Capital Territory","iso3":"IS","country":"PAK"},{"id":5,"name":"Khyber Pakhtunkhwa","iso3":"KP","country":"PAK"},{"id":6,"name":"Punjab","iso3":"PB","country":"PAK"},{"id":7,"name":"Sindh","iso3":"SD","country":"PAK"}]
+[
+    {
+        "id": 3172,
+        "name": "Azad Kashmir",
+        "country": "PAK",
+        "state_code": "JK"
+    },
+    {
+        "id": 3174,
+        "name": "Balochistan",
+        "country": "PAK",
+        "state_code": "BA"
+    },
+    {
+        "id": 3173,
+        "name": "Federally Administered Tribal Areas",
+        "country": "PAK",
+        "state_code": "TA"
+    },
+    {
+        "id": 3170,
+        "name": "Gilgit-Baltistan",
+        "country": "PAK",
+        "state_code": "GB"
+    },
+    {
+        "id": 3169,
+        "name": "Islamabad Capital Territory",
+        "country": "PAK",
+        "state_code": "IS"
+    },
+    {
+        "id": 3171,
+        "name": "Khyber Pakhtunkhwa",
+        "country": "PAK",
+        "state_code": "KP"
+    },
+    {
+        "id": 3176,
+        "name": "Punjab",
+        "country": "PAK",
+        "state_code": "PB"
+    },
+    {
+        "id": 3175,
+        "name": "Sindh",
+        "country": "PAK",
+        "state_code": "SD"
+    }
+]

@@ -1,1 +1,50 @@
-[{"id":0,"name":"Al Daayen","iso3":"ZA","country":"QAT"},{"id":1,"name":"Al Khor","iso3":"KH","country":"QAT"},{"id":2,"name":"Al Rayyan Municipality","iso3":"RA","country":"QAT"},{"id":3,"name":"Al Wakrah","iso3":"WA","country":"QAT"},{"id":4,"name":"Al-Shahaniya","iso3":"SH","country":"QAT"},{"id":5,"name":"Doha","iso3":"DA","country":"QAT"},{"id":6,"name":"Madinat ash Shamal","iso3":"MS","country":"QAT"},{"id":7,"name":"Umm Salal Municipality","iso3":"US","country":"QAT"}]
+[
+    {
+        "id": 3182,
+        "name": "Al Daayen",
+        "country": "QAT",
+        "state_code": "ZA"
+    },
+    {
+        "id": 3183,
+        "name": "Al Khor",
+        "country": "QAT",
+        "state_code": "KH"
+    },
+    {
+        "id": 3177,
+        "name": "Al Rayyan Municipality",
+        "country": "QAT",
+        "state_code": "RA"
+    },
+    {
+        "id": 3179,
+        "name": "Al Wakrah",
+        "country": "QAT",
+        "state_code": "WA"
+    },
+    {
+        "id": 3178,
+        "name": "Al-Shahaniya",
+        "country": "QAT",
+        "state_code": "SH"
+    },
+    {
+        "id": 3181,
+        "name": "Doha",
+        "country": "QAT",
+        "state_code": "DA"
+    },
+    {
+        "id": 3180,
+        "name": "Madinat ash Shamal",
+        "country": "QAT",
+        "state_code": "MS"
+    },
+    {
+        "id": 3184,
+        "name": "Umm Salal Municipality",
+        "country": "QAT",
+        "state_code": "US"
+    }
+]

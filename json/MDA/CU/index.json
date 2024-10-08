@@ -1,1 +1,44 @@
-[{"id":0,"name":"Chisinau","country":"MDA","state":"CU"},{"id":1,"name":"Ciorescu","country":"MDA","state":"CU"},{"id":2,"name":"Cricova","country":"MDA","state":"CU"},{"id":3,"name":"S\u00eengera","country":"MDA","state":"CU"},{"id":4,"name":"St\u0103uceni","country":"MDA","state":"CU"},{"id":5,"name":"Vadul lui Vod\u0103","country":"MDA","state":"CU"},{"id":6,"name":"Vatra","country":"MDA","state":"CU"}]
+[
+    {
+        "id": 67285,
+        "name": "Chisinau",
+        "country": "MDA",
+        "state": "CU"
+    },
+    {
+        "id": 67288,
+        "name": "Ciorescu",
+        "country": "MDA",
+        "state": "CU"
+    },
+    {
+        "id": 67292,
+        "name": "Cricova",
+        "country": "MDA",
+        "state": "CU"
+    },
+    {
+        "id": 67327,
+        "name": "Sîngera",
+        "country": "MDA",
+        "state": "CU"
+    },
+    {
+        "id": 67326,
+        "name": "Stăuceni",
+        "country": "MDA",
+        "state": "CU"
+    },
+    {
+        "id": 67336,
+        "name": "Vadul lui Vodă",
+        "country": "MDA",
+        "state": "CU"
+    },
+    {
+        "id": 67338,
+        "name": "Vatra",
+        "country": "MDA",
+        "state": "CU"
+    }
+]

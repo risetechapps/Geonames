@@ -1,1 +1,134 @@
-[{"id":0,"name":"B\u00fck","country":"HUN","state":"VA"},{"id":1,"name":"Celld\u00f6m\u00f6lk","country":"HUN","state":"VA"},{"id":2,"name":"Celld\u00f6m\u00f6lki J\u00e1r\u00e1s","country":"HUN","state":"VA"},{"id":3,"name":"Csepreg","country":"HUN","state":"VA"},{"id":4,"name":"Gencsap\u00e1ti","country":"HUN","state":"VA"},{"id":5,"name":"J\u00e1k","country":"HUN","state":"VA"},{"id":6,"name":"J\u00e1nosh\u00e1za","country":"HUN","state":"VA"},{"id":7,"name":"K\u00f6rmend","country":"HUN","state":"VA"},{"id":8,"name":"K\u00f6rmendi J\u00e1r\u00e1s","country":"HUN","state":"VA"},{"id":9,"name":"K\u0151szeg","country":"HUN","state":"VA"},{"id":10,"name":"K\u0151szegi J\u00e1r\u00e1s","country":"HUN","state":"VA"},{"id":11,"name":"R\u00e9pcelak","country":"HUN","state":"VA"},{"id":12,"name":"S\u00e1rv\u00e1r","country":"HUN","state":"VA"},{"id":13,"name":"S\u00e1rv\u00e1ri J\u00e1r\u00e1s","country":"HUN","state":"VA"},{"id":14,"name":"Szentgotth\u00e1rd","country":"HUN","state":"VA"},{"id":15,"name":"Szentgotth\u00e1rdi J\u00e1r\u00e1s","country":"HUN","state":"VA"},{"id":16,"name":"Szombathely","country":"HUN","state":"VA"},{"id":17,"name":"Szombathelyi J\u00e1r\u00e1s","country":"HUN","state":"VA"},{"id":18,"name":"T\u00e1pl\u00e1nszentkereszt","country":"HUN","state":"VA"},{"id":19,"name":"Vasv\u00e1r","country":"HUN","state":"VA"},{"id":20,"name":"Vasv\u00e1ri J\u00e1r\u00e1s","country":"HUN","state":"VA"},{"id":21,"name":"V\u00e9p","country":"HUN","state":"VA"}]
+[
+    {
+        "id": 55309,
+        "name": "Bük",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55318,
+        "name": "Celldömölk",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55319,
+        "name": "Celldömölki Járás",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55332,
+        "name": "Csepreg",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55447,
+        "name": "Gencsapáti",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55534,
+        "name": "Ják",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55538,
+        "name": "Jánosháza",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55647,
+        "name": "Körmend",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55648,
+        "name": "Körmendi Járás",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55651,
+        "name": "Kőszeg",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55652,
+        "name": "Kőszegi Járás",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55876,
+        "name": "Répcelak",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55990,
+        "name": "Sárvár",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55991,
+        "name": "Sárvári Járás",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55938,
+        "name": "Szentgotthárd",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55939,
+        "name": "Szentgotthárdi Járás",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55966,
+        "name": "Szombathely",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 55967,
+        "name": "Szombathelyi Járás",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 56070,
+        "name": "Táplánszentkereszt",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 56092,
+        "name": "Vasvár",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 56093,
+        "name": "Vasvári Járás",
+        "country": "HUN",
+        "state": "VA"
+    },
+    {
+        "id": 56116,
+        "name": "Vép",
+        "country": "HUN",
+        "state": "VA"
+    }
+]

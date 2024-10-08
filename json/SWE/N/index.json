@@ -1,1 +1,206 @@
-[{"id":0,"name":"\u00c5led","country":"SWE","state":"N"},{"id":1,"name":"\u00c5sa","country":"SWE","state":"N"},{"id":2,"name":"Bua","country":"SWE","state":"N"},{"id":3,"name":"Falkenberg","country":"SWE","state":"N"},{"id":4,"name":"Fj\u00e4r\u00e5s kyrkby","country":"SWE","state":"N"},{"id":5,"name":"Frilles\u00e5s","country":"SWE","state":"N"},{"id":6,"name":"Fr\u00f6sakull","country":"SWE","state":"N"},{"id":7,"name":"Fyllinge","country":"SWE","state":"N"},{"id":8,"name":"Getinge","country":"SWE","state":"N"},{"id":9,"name":"Glommen","country":"SWE","state":"N"},{"id":10,"name":"Gullbrandstorp","country":"SWE","state":"N"},{"id":11,"name":"Halmstad","country":"SWE","state":"N"},{"id":12,"name":"Harplinge","country":"SWE","state":"N"},{"id":13,"name":"Haverdal","country":"SWE","state":"N"},{"id":14,"name":"Hyltebruk","country":"SWE","state":"N"},{"id":15,"name":"Kn\u00e4red","country":"SWE","state":"N"},{"id":16,"name":"Kungsbacka","country":"SWE","state":"N"},{"id":17,"name":"Laholm","country":"SWE","state":"N"},{"id":18,"name":"Mellbystrand","country":"SWE","state":"N"},{"id":19,"name":"Mj\u00e4llby","country":"SWE","state":"N"},{"id":20,"name":"Onsala","country":"SWE","state":"N"},{"id":21,"name":"Oskarstr\u00f6m","country":"SWE","state":"N"},{"id":22,"name":"S\u00e4r\u00f6","country":"SWE","state":"N"},{"id":23,"name":"Skrea","country":"SWE","state":"N"},{"id":24,"name":"Steninge","country":"SWE","state":"N"},{"id":25,"name":"Torup","country":"SWE","state":"N"},{"id":26,"name":"Tr\u00e4sl\u00f6vsl\u00e4ge","country":"SWE","state":"N"},{"id":27,"name":"Tr\u00f6nninge","country":"SWE","state":"N"},{"id":28,"name":"Tv\u00e5\u00e5ker","country":"SWE","state":"N"},{"id":29,"name":"Vallda","country":"SWE","state":"N"},{"id":30,"name":"Varberg","country":"SWE","state":"N"},{"id":31,"name":"V\u00e4stra Hagen","country":"SWE","state":"N"},{"id":32,"name":"Veddige","country":"SWE","state":"N"},{"id":33,"name":"Veinge","country":"SWE","state":"N"}]
+[
+    {
+        "id": 104005,
+        "name": "Åled",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 104016,
+        "name": "Åsa",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103096,
+        "name": "Bua",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103157,
+        "name": "Falkenberg",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103172,
+        "name": "Fjärås kyrkby",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103182,
+        "name": "Frillesås",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103186,
+        "name": "Frösakull",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103190,
+        "name": "Fyllinge",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103207,
+        "name": "Getinge",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103212,
+        "name": "Glommen",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103231,
+        "name": "Gullbrandstorp",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103258,
+        "name": "Halmstad",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103269,
+        "name": "Harplinge",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103271,
+        "name": "Haverdal",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103314,
+        "name": "Hyltebruk",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103405,
+        "name": "Knäred",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103423,
+        "name": "Kungsbacka",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103447,
+        "name": "Laholm",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103535,
+        "name": "Mellbystrand",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103538,
+        "name": "Mjällby",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103616,
+        "name": "Onsala",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103625,
+        "name": "Oskarström",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103806,
+        "name": "Särö",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103711,
+        "name": "Skrea",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103750,
+        "name": "Steninge",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103868,
+        "name": "Torup",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103879,
+        "name": "Träslövsläge",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103880,
+        "name": "Trönninge",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103883,
+        "name": "Tvååker",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103917,
+        "name": "Vallda",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103924,
+        "name": "Varberg",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103974,
+        "name": "Västra Hagen",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103932,
+        "name": "Veddige",
+        "country": "SWE",
+        "state": "N"
+    },
+    {
+        "id": 103933,
+        "name": "Veinge",
+        "country": "SWE",
+        "state": "N"
+    }
+]

@@ -1,1 +1,38 @@
-[{"id":0,"name":"Banjul","iso3":"B","country":"GMB"},{"id":1,"name":"Central River Division","iso3":"M","country":"GMB"},{"id":2,"name":"Lower River Division","iso3":"L","country":"GMB"},{"id":3,"name":"North Bank Division","iso3":"N","country":"GMB"},{"id":4,"name":"Upper River Division","iso3":"U","country":"GMB"},{"id":5,"name":"West Coast Division","iso3":"W","country":"GMB"}]
+[
+    {
+        "id": 2666,
+        "name": "Banjul",
+        "country": "GMB",
+        "state_code": "B"
+    },
+    {
+        "id": 2669,
+        "name": "Central River Division",
+        "country": "GMB",
+        "state_code": "M"
+    },
+    {
+        "id": 2670,
+        "name": "Lower River Division",
+        "country": "GMB",
+        "state_code": "L"
+    },
+    {
+        "id": 2671,
+        "name": "North Bank Division",
+        "country": "GMB",
+        "state_code": "N"
+    },
+    {
+        "id": 2668,
+        "name": "Upper River Division",
+        "country": "GMB",
+        "state_code": "U"
+    },
+    {
+        "id": 2667,
+        "name": "West Coast Division",
+        "country": "GMB",
+        "state_code": "W"
+    }
+]

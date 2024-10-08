@@ -1,1 +1,86 @@
-[{"id":0,"name":"Aiwo District","iso3":"01","country":"NRU"},{"id":1,"name":"Anabar District","iso3":"02","country":"NRU"},{"id":2,"name":"Anetan District","iso3":"03","country":"NRU"},{"id":3,"name":"Anibare District","iso3":"04","country":"NRU"},{"id":4,"name":"Baiti District","iso3":"05","country":"NRU"},{"id":5,"name":"Boe District","iso3":"06","country":"NRU"},{"id":6,"name":"Buada District","iso3":"07","country":"NRU"},{"id":7,"name":"Denigomodu District","iso3":"08","country":"NRU"},{"id":8,"name":"Ewa District","iso3":"09","country":"NRU"},{"id":9,"name":"Ijuw District","iso3":"10","country":"NRU"},{"id":10,"name":"Meneng District","iso3":"11","country":"NRU"},{"id":11,"name":"Nibok District","iso3":"12","country":"NRU"},{"id":12,"name":"Uaboe District","iso3":"13","country":"NRU"},{"id":13,"name":"Yaren District","iso3":"14","country":"NRU"}]
+[
+    {
+        "id": 4656,
+        "name": "Aiwo District",
+        "country": "NRU",
+        "state_code": "01"
+    },
+    {
+        "id": 4658,
+        "name": "Anabar District",
+        "country": "NRU",
+        "state_code": "02"
+    },
+    {
+        "id": 4667,
+        "name": "Anetan District",
+        "country": "NRU",
+        "state_code": "03"
+    },
+    {
+        "id": 4663,
+        "name": "Anibare District",
+        "country": "NRU",
+        "state_code": "04"
+    },
+    {
+        "id": 4660,
+        "name": "Baiti District",
+        "country": "NRU",
+        "state_code": "05"
+    },
+    {
+        "id": 4665,
+        "name": "Boe District",
+        "country": "NRU",
+        "state_code": "06"
+    },
+    {
+        "id": 4662,
+        "name": "Buada District",
+        "country": "NRU",
+        "state_code": "07"
+    },
+    {
+        "id": 4666,
+        "name": "Denigomodu District",
+        "country": "NRU",
+        "state_code": "08"
+    },
+    {
+        "id": 4654,
+        "name": "Ewa District",
+        "country": "NRU",
+        "state_code": "09"
+    },
+    {
+        "id": 4661,
+        "name": "Ijuw District",
+        "country": "NRU",
+        "state_code": "10"
+    },
+    {
+        "id": 4657,
+        "name": "Meneng District",
+        "country": "NRU",
+        "state_code": "11"
+    },
+    {
+        "id": 4659,
+        "name": "Nibok District",
+        "country": "NRU",
+        "state_code": "12"
+    },
+    {
+        "id": 4655,
+        "name": "Uaboe District",
+        "country": "NRU",
+        "state_code": "13"
+    },
+    {
+        "id": 4664,
+        "name": "Yaren District",
+        "country": "NRU",
+        "state_code": "14"
+    }
+]

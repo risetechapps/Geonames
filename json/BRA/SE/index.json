@@ -1,1 +1,452 @@
-[{"id":0,"name":"Amparo de S\u00e3o Francisco","country":"BRA","state":"SE"},{"id":1,"name":"Aquidab\u00e3","country":"BRA","state":"SE"},{"id":2,"name":"Aracaju","country":"BRA","state":"SE"},{"id":3,"name":"Arau\u00e1","country":"BRA","state":"SE"},{"id":4,"name":"Areia Branca","country":"BRA","state":"SE"},{"id":5,"name":"Barra dos Coqueiros","country":"BRA","state":"SE"},{"id":6,"name":"Boquim","country":"BRA","state":"SE"},{"id":7,"name":"Brejo Grande","country":"BRA","state":"SE"},{"id":8,"name":"Campo do Brito","country":"BRA","state":"SE"},{"id":9,"name":"Canhoba","country":"BRA","state":"SE"},{"id":10,"name":"Canind\u00e9 de S\u00e3o Francisco","country":"BRA","state":"SE"},{"id":11,"name":"Capela","country":"BRA","state":"SE"},{"id":12,"name":"Carira","country":"BRA","state":"SE"},{"id":13,"name":"Carm\u00f3polis","country":"BRA","state":"SE"},{"id":14,"name":"Cedro de S\u00e3o Jo\u00e3o","country":"BRA","state":"SE"},{"id":15,"name":"Cristin\u00e1polis","country":"BRA","state":"SE"},{"id":16,"name":"Cumbe","country":"BRA","state":"SE"},{"id":17,"name":"Divina Pastora","country":"BRA","state":"SE"},{"id":18,"name":"Est\u00e2ncia","country":"BRA","state":"SE"},{"id":19,"name":"Feira Nova","country":"BRA","state":"SE"},{"id":20,"name":"Frei Paulo","country":"BRA","state":"SE"},{"id":21,"name":"Gararu","country":"BRA","state":"SE"},{"id":22,"name":"General Maynard","country":"BRA","state":"SE"},{"id":23,"name":"Gracho Cardoso","country":"BRA","state":"SE"},{"id":24,"name":"Ilha das Flores","country":"BRA","state":"SE"},{"id":25,"name":"Indiaroba","country":"BRA","state":"SE"},{"id":26,"name":"Itabaiana","country":"BRA","state":"SE"},{"id":27,"name":"Itabaianinha","country":"BRA","state":"SE"},{"id":28,"name":"Itabi","country":"BRA","state":"SE"},{"id":29,"name":"Itaporanga d'Ajuda","country":"BRA","state":"SE"},{"id":30,"name":"Japaratuba","country":"BRA","state":"SE"},{"id":31,"name":"Japoat\u00e3","country":"BRA","state":"SE"},{"id":32,"name":"Lagarto","country":"BRA","state":"SE"},{"id":33,"name":"Laranjeiras","country":"BRA","state":"SE"},{"id":34,"name":"Macambira","country":"BRA","state":"SE"},{"id":35,"name":"Malhada dos Bois","country":"BRA","state":"SE"},{"id":36,"name":"Malhador","country":"BRA","state":"SE"},{"id":37,"name":"Maruim","country":"BRA","state":"SE"},{"id":38,"name":"Moita Bonita","country":"BRA","state":"SE"},{"id":39,"name":"Monte Alegre de Sergipe","country":"BRA","state":"SE"},{"id":40,"name":"Muribeca","country":"BRA","state":"SE"},{"id":41,"name":"Ne\u00f3polis","country":"BRA","state":"SE"},{"id":42,"name":"Nossa Senhora Aparecida","country":"BRA","state":"SE"},{"id":43,"name":"Nossa Senhora da Gl\u00f3ria","country":"BRA","state":"SE"},{"id":44,"name":"Nossa Senhora das Dores","country":"BRA","state":"SE"},{"id":45,"name":"Nossa Senhora de Lourdes","country":"BRA","state":"SE"},{"id":46,"name":"Nossa Senhora do Socorro","country":"BRA","state":"SE"},{"id":47,"name":"Pacatuba","country":"BRA","state":"SE"},{"id":48,"name":"Pedra Mole","country":"BRA","state":"SE"},{"id":49,"name":"Pedrinhas","country":"BRA","state":"SE"},{"id":50,"name":"Pinh\u00e3o","country":"BRA","state":"SE"},{"id":51,"name":"Pirambu","country":"BRA","state":"SE"},{"id":52,"name":"Po\u00e7o Redondo","country":"BRA","state":"SE"},{"id":53,"name":"Po\u00e7o Verde","country":"BRA","state":"SE"},{"id":54,"name":"Porto da Folha","country":"BRA","state":"SE"},{"id":55,"name":"Propri\u00e1","country":"BRA","state":"SE"},{"id":56,"name":"Riach\u00e3o do Dantas","country":"BRA","state":"SE"},{"id":57,"name":"Riachuelo","country":"BRA","state":"SE"},{"id":58,"name":"Ribeir\u00f3polis","country":"BRA","state":"SE"},{"id":59,"name":"Ros\u00e1rio do Catete","country":"BRA","state":"SE"},{"id":60,"name":"Salgado","country":"BRA","state":"SE"},{"id":61,"name":"Santa Luzia do Itanhy","country":"BRA","state":"SE"},{"id":62,"name":"Santa Rosa de Lima","country":"BRA","state":"SE"},{"id":63,"name":"Santana do S\u00e3o Francisco","country":"BRA","state":"SE"},{"id":64,"name":"Santo Amaro das Brotas","country":"BRA","state":"SE"},{"id":65,"name":"S\u00e3o Crist\u00f3v\u00e3o","country":"BRA","state":"SE"},{"id":66,"name":"S\u00e3o Domingos","country":"BRA","state":"SE"},{"id":67,"name":"S\u00e3o Francisco","country":"BRA","state":"SE"},{"id":68,"name":"S\u00e3o Miguel do Aleixo","country":"BRA","state":"SE"},{"id":69,"name":"Sim\u00e3o Dias","country":"BRA","state":"SE"},{"id":70,"name":"Siriri","country":"BRA","state":"SE"},{"id":71,"name":"Telha","country":"BRA","state":"SE"},{"id":72,"name":"Tobias Barreto","country":"BRA","state":"SE"},{"id":73,"name":"Tomar do Geru","country":"BRA","state":"SE"},{"id":74,"name":"Umba\u00faba","country":"BRA","state":"SE"}]
+[
+    {
+        "id": 10221,
+        "name": "Amparo de São Francisco",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 10304,
+        "name": "Aquidabã",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 10308,
+        "name": "Aracaju",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 10364,
+        "name": "Arauá",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 10385,
+        "name": "Areia Branca",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 10546,
+        "name": "Barra dos Coqueiros",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 10746,
+        "name": "Boquim",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 10790,
+        "name": "Brejo Grande",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11005,
+        "name": "Campo do Brito",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11044,
+        "name": "Canhoba",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11047,
+        "name": "Canindé de São Francisco",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11065,
+        "name": "Capela",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11132,
+        "name": "Carira",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11152,
+        "name": "Carmópolis",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11232,
+        "name": "Cedro de São João",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11478,
+        "name": "Cristinápolis",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11515,
+        "name": "Cumbe",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11599,
+        "name": "Divina Pastora",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11757,
+        "name": "Estância",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11791,
+        "name": "Feira Nova",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11896,
+        "name": "Frei Paulo",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11920,
+        "name": "Gararu",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11937,
+        "name": "General Maynard",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 11991,
+        "name": "Gracho Cardoso",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12210,
+        "name": "Ilha das Flores",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12241,
+        "name": "Indiaroba",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12326,
+        "name": "Itabaiana",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12327,
+        "name": "Itabaianinha",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12332,
+        "name": "Itabi",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12431,
+        "name": "Itaporanga d'Ajuda",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12567,
+        "name": "Japaratuba",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12572,
+        "name": "Japoatã",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12726,
+        "name": "Lagarto",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12799,
+        "name": "Laranjeiras",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12885,
+        "name": "Macambira",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12927,
+        "name": "Malhada dos Bois",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 12928,
+        "name": "Malhador",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13036,
+        "name": "Maruim",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13169,
+        "name": "Moita Bonita",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13190,
+        "name": "Monte Alegre de Sergipe",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13279,
+        "name": "Muribeca",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13320,
+        "name": "Neópolis",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13336,
+        "name": "Nossa Senhora Aparecida",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13337,
+        "name": "Nossa Senhora da Glória",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13338,
+        "name": "Nossa Senhora das Dores",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13340,
+        "name": "Nossa Senhora de Lourdes",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13343,
+        "name": "Nossa Senhora do Socorro",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13558,
+        "name": "Pacatuba",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13755,
+        "name": "Pedra Mole",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13769,
+        "name": "Pedrinhas",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13874,
+        "name": "Pinhão",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 13891,
+        "name": "Pirambu",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14048,
+        "name": "Poço Redondo",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14049,
+        "name": "Poço Verde",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14024,
+        "name": "Porto da Folha",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14111,
+        "name": "Propriá",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14224,
+        "name": "Riachão do Dantas",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14218,
+        "name": "Riachuelo",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14253,
+        "name": "Ribeirópolis",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14353,
+        "name": "Rosário do Catete",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14383,
+        "name": "Salgado",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14494,
+        "name": "Santa Luzia do Itanhy",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14543,
+        "name": "Santa Rosa de Lima",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14594,
+        "name": "Santana do São Francisco",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14605,
+        "name": "Santo Amaro das Brotas",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14858,
+        "name": "São Cristóvão",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14865,
+        "name": "São Domingos",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14880,
+        "name": "São Francisco",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 15085,
+        "name": "São Miguel do Aleixo",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14786,
+        "name": "Simão Dias",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 14794,
+        "name": "Siriri",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 15272,
+        "name": "Telha",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 15324,
+        "name": "Tobias Barreto",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 15331,
+        "name": "Tomar do Geru",
+        "country": "BRA",
+        "state": "SE"
+    },
+    {
+        "id": 15446,
+        "name": "Umbaúba",
+        "country": "BRA",
+        "state": "SE"
+    }
+]

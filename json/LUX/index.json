@@ -1,1 +1,92 @@
-[{"id":0,"name":"Canton of Capellen","iso3":"CA","country":"LUX"},{"id":1,"name":"Canton of Clervaux","iso3":"CL","country":"LUX"},{"id":2,"name":"Canton of Diekirch","iso3":"DI","country":"LUX"},{"id":3,"name":"Canton of Echternach","iso3":"EC","country":"LUX"},{"id":4,"name":"Canton of Esch-sur-Alzette","iso3":"ES","country":"LUX"},{"id":5,"name":"Canton of Grevenmacher","iso3":"GR","country":"LUX"},{"id":6,"name":"Canton of Luxembourg","iso3":"LU","country":"LUX"},{"id":7,"name":"Canton of Mersch","iso3":"ME","country":"LUX"},{"id":8,"name":"Canton of Redange","iso3":"RD","country":"LUX"},{"id":9,"name":"Canton of Remich","iso3":"RM","country":"LUX"},{"id":10,"name":"Canton of Vianden","iso3":"VD","country":"LUX"},{"id":11,"name":"Canton of Wiltz","iso3":"WI","country":"LUX"},{"id":12,"name":"Diekirch District","iso3":"D","country":"LUX"},{"id":13,"name":"Grevenmacher District","iso3":"G","country":"LUX"},{"id":14,"name":"Luxembourg District","iso3":"L","country":"LUX"}]
+[
+    {
+        "id": 1518,
+        "name": "Canton of Capellen",
+        "country": "LUX",
+        "state_code": "CA"
+    },
+    {
+        "id": 1521,
+        "name": "Canton of Clervaux",
+        "country": "LUX",
+        "state_code": "CL"
+    },
+    {
+        "id": 1513,
+        "name": "Canton of Diekirch",
+        "country": "LUX",
+        "state_code": "DI"
+    },
+    {
+        "id": 1515,
+        "name": "Canton of Echternach",
+        "country": "LUX",
+        "state_code": "EC"
+    },
+    {
+        "id": 1517,
+        "name": "Canton of Esch-sur-Alzette",
+        "country": "LUX",
+        "state_code": "ES"
+    },
+    {
+        "id": 1525,
+        "name": "Canton of Grevenmacher",
+        "country": "LUX",
+        "state_code": "GR"
+    },
+    {
+        "id": 1527,
+        "name": "Canton of Luxembourg",
+        "country": "LUX",
+        "state_code": "LU"
+    },
+    {
+        "id": 1522,
+        "name": "Canton of Mersch",
+        "country": "LUX",
+        "state_code": "ME"
+    },
+    {
+        "id": 1516,
+        "name": "Canton of Redange",
+        "country": "LUX",
+        "state_code": "RD"
+    },
+    {
+        "id": 1519,
+        "name": "Canton of Remich",
+        "country": "LUX",
+        "state_code": "RM"
+    },
+    {
+        "id": 1523,
+        "name": "Canton of Vianden",
+        "country": "LUX",
+        "state_code": "VD"
+    },
+    {
+        "id": 1526,
+        "name": "Canton of Wiltz",
+        "country": "LUX",
+        "state_code": "WI"
+    },
+    {
+        "id": 1524,
+        "name": "Diekirch District",
+        "country": "LUX",
+        "state_code": "D"
+    },
+    {
+        "id": 1520,
+        "name": "Grevenmacher District",
+        "country": "LUX",
+        "state_code": "G"
+    },
+    {
+        "id": 1514,
+        "name": "Luxembourg District",
+        "country": "LUX",
+        "state_code": "L"
+    }
+]

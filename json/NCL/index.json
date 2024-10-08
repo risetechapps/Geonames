@@ -1,1 +1,20 @@
-[{"id":0,"name":"Loyalty Islands Province","iso3":"03","country":"NCL"},{"id":1,"name":"North Province","iso3":"02","country":"NCL"},{"id":2,"name":"South Province","iso3":"01","country":"NCL"}]
+[
+    {
+        "id": 5227,
+        "name": "Loyalty Islands Province",
+        "country": "NCL",
+        "state_code": "03"
+    },
+    {
+        "id": 5226,
+        "name": "North Province",
+        "country": "NCL",
+        "state_code": "02"
+    },
+    {
+        "id": 5225,
+        "name": "South Province",
+        "country": "NCL",
+        "state_code": "01"
+    }
+]

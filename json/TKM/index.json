@@ -1,1 +1,38 @@
-[{"id":0,"name":"Ahal Region","iso3":"A","country":"TKM"},{"id":1,"name":"Ashgabat","iso3":"S","country":"TKM"},{"id":2,"name":"Balkan Region","iso3":"B","country":"TKM"},{"id":3,"name":"Da\u015foguz Region","iso3":"D","country":"TKM"},{"id":4,"name":"Lebap Region","iso3":"L","country":"TKM"},{"id":5,"name":"Mary Region","iso3":"M","country":"TKM"}]
+[
+    {
+        "id": 3374,
+        "name": "Ahal Region",
+        "country": "TKM",
+        "state_code": "A"
+    },
+    {
+        "id": 3371,
+        "name": "Ashgabat",
+        "country": "TKM",
+        "state_code": "S"
+    },
+    {
+        "id": 3372,
+        "name": "Balkan Region",
+        "country": "TKM",
+        "state_code": "B"
+    },
+    {
+        "id": 3373,
+        "name": "Daşoguz Region",
+        "country": "TKM",
+        "state_code": "D"
+    },
+    {
+        "id": 3370,
+        "name": "Lebap Region",
+        "country": "TKM",
+        "state_code": "L"
+    },
+    {
+        "id": 3369,
+        "name": "Mary Region",
+        "country": "TKM",
+        "state_code": "M"
+    }
+]

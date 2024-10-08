@@ -1,1 +1,80 @@
-[{"id":0,"name":"Antwerp","iso3":"VAN","country":"BEL"},{"id":1,"name":"Brussels-Capital Region","iso3":"BRU","country":"BEL"},{"id":2,"name":"East Flanders","iso3":"VOV","country":"BEL"},{"id":3,"name":"Flanders","iso3":"VLG","country":"BEL"},{"id":4,"name":"Flemish Brabant","iso3":"VBR","country":"BEL"},{"id":5,"name":"Hainaut","iso3":"WHT","country":"BEL"},{"id":6,"name":"Li\u00e8ge","iso3":"WLG","country":"BEL"},{"id":7,"name":"Limburg","iso3":"VLI","country":"BEL"},{"id":8,"name":"Luxembourg","iso3":"WLX","country":"BEL"},{"id":9,"name":"Namur","iso3":"WNA","country":"BEL"},{"id":10,"name":"Wallonia","iso3":"WAL","country":"BEL"},{"id":11,"name":"Walloon Brabant","iso3":"WBR","country":"BEL"},{"id":12,"name":"West Flanders","iso3":"VWV","country":"BEL"}]
+[
+    {
+        "id": 1381,
+        "name": "Antwerp",
+        "country": "BEL",
+        "state_code": "VAN"
+    },
+    {
+        "id": 1376,
+        "name": "Brussels-Capital Region",
+        "country": "BEL",
+        "state_code": "BRU"
+    },
+    {
+        "id": 1377,
+        "name": "East Flanders",
+        "country": "BEL",
+        "state_code": "VOV"
+    },
+    {
+        "id": 1373,
+        "name": "Flanders",
+        "country": "BEL",
+        "state_code": "VLG"
+    },
+    {
+        "id": 1374,
+        "name": "Flemish Brabant",
+        "country": "BEL",
+        "state_code": "VBR"
+    },
+    {
+        "id": 1375,
+        "name": "Hainaut",
+        "country": "BEL",
+        "state_code": "WHT"
+    },
+    {
+        "id": 1384,
+        "name": "Liège",
+        "country": "BEL",
+        "state_code": "WLG"
+    },
+    {
+        "id": 1372,
+        "name": "Limburg",
+        "country": "BEL",
+        "state_code": "VLI"
+    },
+    {
+        "id": 1379,
+        "name": "Luxembourg",
+        "country": "BEL",
+        "state_code": "WLX"
+    },
+    {
+        "id": 1378,
+        "name": "Namur",
+        "country": "BEL",
+        "state_code": "WNA"
+    },
+    {
+        "id": 1380,
+        "name": "Wallonia",
+        "country": "BEL",
+        "state_code": "WAL"
+    },
+    {
+        "id": 1382,
+        "name": "Walloon Brabant",
+        "country": "BEL",
+        "state_code": "WBR"
+    },
+    {
+        "id": 1383,
+        "name": "West Flanders",
+        "country": "BEL",
+        "state_code": "VWV"
+    }
+]

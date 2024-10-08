@@ -1,1 +1,194 @@
-[{"id":0,"name":"Aheloy","country":"BGR","state":"02"},{"id":1,"name":"Ahtopol","country":"BGR","state":"02"},{"id":2,"name":"Aytos","country":"BGR","state":"02"},{"id":3,"name":"Bata","country":"BGR","state":"02"},{"id":4,"name":"Burgas","country":"BGR","state":"02"},{"id":5,"name":"Chernomorets","country":"BGR","state":"02"},{"id":6,"name":"Kameno","country":"BGR","state":"02"},{"id":7,"name":"Karnobat","country":"BGR","state":"02"},{"id":8,"name":"Kiten","country":"BGR","state":"02"},{"id":9,"name":"Malko Tarnovo","country":"BGR","state":"02"},{"id":10,"name":"Nesebar","country":"BGR","state":"02"},{"id":11,"name":"Obshtina Aytos","country":"BGR","state":"02"},{"id":12,"name":"Obshtina Burgas","country":"BGR","state":"02"},{"id":13,"name":"Obshtina Kameno","country":"BGR","state":"02"},{"id":14,"name":"Obshtina Karnobat","country":"BGR","state":"02"},{"id":15,"name":"Obshtina Malko Tarnovo","country":"BGR","state":"02"},{"id":16,"name":"Obshtina Nesebar","country":"BGR","state":"02"},{"id":17,"name":"Obshtina Pomorie","country":"BGR","state":"02"},{"id":18,"name":"Obshtina Primorsko","country":"BGR","state":"02"},{"id":19,"name":"Obshtina Sozopol","country":"BGR","state":"02"},{"id":20,"name":"Obshtina Sungurlare","country":"BGR","state":"02"},{"id":21,"name":"Obzor","country":"BGR","state":"02"},{"id":22,"name":"Pomorie","country":"BGR","state":"02"},{"id":23,"name":"Primorsko","country":"BGR","state":"02"},{"id":24,"name":"Ravda","country":"BGR","state":"02"},{"id":25,"name":"Ruen","country":"BGR","state":"02"},{"id":26,"name":"Sarafovo","country":"BGR","state":"02"},{"id":27,"name":"Sozopol","country":"BGR","state":"02"},{"id":28,"name":"Sredets","country":"BGR","state":"02"},{"id":29,"name":"Sungurlare","country":"BGR","state":"02"},{"id":30,"name":"Sveti Vlas","country":"BGR","state":"02"},{"id":31,"name":"Tsarevo","country":"BGR","state":"02"}]
+[
+    {
+        "id": 9250,
+        "name": "Aheloy",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9251,
+        "name": "Ahtopol",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9261,
+        "name": "Aytos",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9266,
+        "name": "Bata",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9292,
+        "name": "Burgas",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9299,
+        "name": "Chernomorets",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9353,
+        "name": "Kameno",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9356,
+        "name": "Karnobat",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9363,
+        "name": "Kiten",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9397,
+        "name": "Malko Tarnovo",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9406,
+        "name": "Nesebar",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9419,
+        "name": "Obshtina Aytos",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9442,
+        "name": "Obshtina Burgas",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9495,
+        "name": "Obshtina Kameno",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9498,
+        "name": "Obshtina Karnobat",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9529,
+        "name": "Obshtina Malko Tarnovo",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9538,
+        "name": "Obshtina Nesebar",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9560,
+        "name": "Obshtina Pomorie",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9564,
+        "name": "Obshtina Primorsko",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9596,
+        "name": "Obshtina Sozopol",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9605,
+        "name": "Obshtina Sungurlare",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9640,
+        "name": "Obzor",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9658,
+        "name": "Pomorie",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9662,
+        "name": "Primorsko",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9668,
+        "name": "Ravda",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9674,
+        "name": "Ruen",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9683,
+        "name": "Sarafovo",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9702,
+        "name": "Sozopol",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9703,
+        "name": "Sredets",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9713,
+        "name": "Sungurlare",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9715,
+        "name": "Sveti Vlas",
+        "country": "BGR",
+        "state": "02"
+    },
+    {
+        "id": 9728,
+        "name": "Tsarevo",
+        "country": "BGR",
+        "state": "02"
+    }
+]

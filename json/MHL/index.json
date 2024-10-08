@@ -1,1 +1,14 @@
-[{"id":0,"name":"Ralik Chain","iso3":"L","country":"MHL"},{"id":1,"name":"Ratak Chain","iso3":"T","country":"MHL"}]
+[
+    {
+        "id": 2574,
+        "name": "Ralik Chain",
+        "country": "MHL",
+        "state_code": "L"
+    },
+    {
+        "id": 2573,
+        "name": "Ratak Chain",
+        "country": "MHL",
+        "state_code": "T"
+    }
+]

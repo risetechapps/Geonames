@@ -1,1 +1,62 @@
-[{"id":0,"name":"Central Province","iso3":"02","country":"ZMB"},{"id":1,"name":"Copperbelt Province","iso3":"08","country":"ZMB"},{"id":2,"name":"Eastern Province","iso3":"03","country":"ZMB"},{"id":3,"name":"Luapula Province","iso3":"04","country":"ZMB"},{"id":4,"name":"Lusaka Province","iso3":"09","country":"ZMB"},{"id":5,"name":"Muchinga Province","iso3":"10","country":"ZMB"},{"id":6,"name":"Northern Province","iso3":"05","country":"ZMB"},{"id":7,"name":"Northwestern Province","iso3":"06","country":"ZMB"},{"id":8,"name":"Southern Province","iso3":"07","country":"ZMB"},{"id":9,"name":"Western Province","iso3":"01","country":"ZMB"}]
+[
+    {
+        "id": 1986,
+        "name": "Central Province",
+        "country": "ZMB",
+        "state_code": "02"
+    },
+    {
+        "id": 1984,
+        "name": "Copperbelt Province",
+        "country": "ZMB",
+        "state_code": "08"
+    },
+    {
+        "id": 1991,
+        "name": "Eastern Province",
+        "country": "ZMB",
+        "state_code": "03"
+    },
+    {
+        "id": 1987,
+        "name": "Luapula Province",
+        "country": "ZMB",
+        "state_code": "04"
+    },
+    {
+        "id": 1988,
+        "name": "Lusaka Province",
+        "country": "ZMB",
+        "state_code": "09"
+    },
+    {
+        "id": 1989,
+        "name": "Muchinga Province",
+        "country": "ZMB",
+        "state_code": "10"
+    },
+    {
+        "id": 1982,
+        "name": "Northern Province",
+        "country": "ZMB",
+        "state_code": "05"
+    },
+    {
+        "id": 1985,
+        "name": "Northwestern Province",
+        "country": "ZMB",
+        "state_code": "06"
+    },
+    {
+        "id": 1990,
+        "name": "Southern Province",
+        "country": "ZMB",
+        "state_code": "07"
+    },
+    {
+        "id": 1983,
+        "name": "Western Province",
+        "country": "ZMB",
+        "state_code": "01"
+    }
+]

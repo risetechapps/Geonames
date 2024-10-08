@@ -1,1 +1,848 @@
-[{"id":0,"name":"Acharn\u00e9s","country":"GRC","state":"I"},{"id":1,"name":"Aegina","country":"GRC","state":"I"},{"id":2,"name":"Afidn\u00e9s","country":"GRC","state":"I"},{"id":3,"name":"Aghios Pantele\u00edmon","country":"GRC","state":"I"},{"id":4,"name":"Ag\u00eda Mar\u00edna","country":"GRC","state":"I"},{"id":5,"name":"Ag\u00eda Paraskev\u00ed","country":"GRC","state":"I"},{"id":6,"name":"Ag\u00eda Varv\u00e1ra","country":"GRC","state":"I"},{"id":7,"name":"\u00c1gioi An\u00e1rgyroi","country":"GRC","state":"I"},{"id":8,"name":"Agios Dimitrios","country":"GRC","state":"I"},{"id":9,"name":"Agios Dim\u00edtrios Kropi\u00e1s","country":"GRC","state":"I"},{"id":10,"name":"Agios Ioannis Rentis","country":"GRC","state":"I"},{"id":11,"name":"\u00c1gios St\u00e9fanos","country":"GRC","state":"I"},{"id":12,"name":"Ai\u00e1nteio","country":"GRC","state":"I"},{"id":13,"name":"Aig\u00e1leo","country":"GRC","state":"I"},{"id":14,"name":"\u00c1limos","country":"GRC","state":"I"},{"id":15,"name":"Ampel\u00e1kia","country":"GRC","state":"I"},{"id":16,"name":"An\u00e1vyssos","country":"GRC","state":"I"},{"id":17,"name":"\u00c1no Li\u00f3sia","country":"GRC","state":"I"},{"id":18,"name":"Anoixi","country":"GRC","state":"I"},{"id":19,"name":"Antho\u00fasa","country":"GRC","state":"I"},{"id":20,"name":"Argith\u00e9a","country":"GRC","state":"I"},{"id":21,"name":"Argyro\u00fapoli","country":"GRC","state":"I"},{"id":22,"name":"Art\u00e9mida","country":"GRC","state":"I"},{"id":23,"name":"Aspr\u00f3pyrgos","country":"GRC","state":"I"},{"id":24,"name":"Athens","country":"GRC","state":"I"},{"id":25,"name":"Avl\u00f3nas","country":"GRC","state":"I"},{"id":26,"name":"\u00c1yioi Ap\u00f3stoloi","country":"GRC","state":"I"},{"id":27,"name":"Cha\u00efd\u00e1ri","country":"GRC","state":"I"},{"id":28,"name":"Cholarg\u00f3s","country":"GRC","state":"I"},{"id":29,"name":"Dhafn\u00ed","country":"GRC","state":"I"},{"id":30,"name":"Dhr\u00e1fi","country":"GRC","state":"I"},{"id":31,"name":"Di\u00f3ni","country":"GRC","state":"I"},{"id":32,"name":"Di\u00f3nysos","country":"GRC","state":"I"},{"id":33,"name":"Drapets\u00f3na","country":"GRC","state":"I"},{"id":34,"name":"Drosi\u00e1","country":"GRC","state":"I"},{"id":35,"name":"Ek\u00e1li","country":"GRC","state":"I"},{"id":36,"name":"Elefs\u00edna","country":"GRC","state":"I"},{"id":37,"name":"Ellinik\u00f3","country":"GRC","state":"I"},{"id":38,"name":"Erythr\u00e9s","country":"GRC","state":"I"},{"id":39,"name":"Filoth\u00e9i","country":"GRC","state":"I"},{"id":40,"name":"Fyl\u00ed","country":"GRC","state":"I"},{"id":41,"name":"Galat\u00e1s","country":"GRC","state":"I"},{"id":42,"name":"Gal\u00e1tsi","country":"GRC","state":"I"},{"id":43,"name":"G\u00e9rakas","country":"GRC","state":"I"},{"id":44,"name":"Glyf\u00e1da","country":"GRC","state":"I"},{"id":45,"name":"Grammatik\u00f3","country":"GRC","state":"I"},{"id":46,"name":"\u00cdlion","country":"GRC","state":"I"},{"id":47,"name":"Ilio\u00fapoli","country":"GRC","state":"I"},{"id":48,"name":"Ir\u00e1kleio","country":"GRC","state":"I"},{"id":49,"name":"Kaisarian\u00ed","country":"GRC","state":"I"},{"id":50,"name":"K\u00e1lamos","country":"GRC","state":"I"},{"id":51,"name":"Kallith\u00e9a","country":"GRC","state":"I"},{"id":52,"name":"Kal\u00fdvia Thoriko\u00fa","country":"GRC","state":"I"},{"id":53,"name":"Kamater\u00f3n","country":"GRC","state":"I"},{"id":54,"name":"Kapandr\u00edti","country":"GRC","state":"I"},{"id":55,"name":"Karell\u00e1s","country":"GRC","state":"I"},{"id":56,"name":"K\u00e1to So\u00falion","country":"GRC","state":"I"},{"id":57,"name":"Kerat\u00e9a","country":"GRC","state":"I"},{"id":58,"name":"Kerats\u00edni","country":"GRC","state":"I"},{"id":59,"name":"Khal\u00e1ndrion","country":"GRC","state":"I"},{"id":60,"name":"Khalko\u00fatsion","country":"GRC","state":"I"},{"id":61,"name":"Kifisi\u00e1","country":"GRC","state":"I"},{"id":62,"name":"Kin\u00e9ta","country":"GRC","state":"I"},{"id":63,"name":"Kips\u00e9li","country":"GRC","state":"I"},{"id":64,"name":"K\u00edtsi","country":"GRC","state":"I"},{"id":65,"name":"Korop\u00ed","country":"GRC","state":"I"},{"id":66,"name":"Korydall\u00f3s","country":"GRC","state":"I"},{"id":67,"name":"Kouvar\u00e1s","country":"GRC","state":"I"},{"id":68,"name":"Kryon\u00e9ri","country":"GRC","state":"I"},{"id":69,"name":"Kyps\u00e9li","country":"GRC","state":"I"},{"id":70,"name":"K\u00fdthira","country":"GRC","state":"I"},{"id":71,"name":"L\u00e1vrio","country":"GRC","state":"I"},{"id":72,"name":"Leond\u00e1rion","country":"GRC","state":"I"},{"id":73,"name":"Lim\u00edn Mesoya\u00edas","country":"GRC","state":"I"},{"id":74,"name":"Lyk\u00f3vrysi","country":"GRC","state":"I"},{"id":75,"name":"Mago\u00fala","country":"GRC","state":"I"},{"id":76,"name":"M\u00e1ndra","country":"GRC","state":"I"},{"id":77,"name":"Marath\u00f3nas","country":"GRC","state":"I"},{"id":78,"name":"Mark\u00f3poulo","country":"GRC","state":"I"},{"id":79,"name":"Mark\u00f3poulo Oropo\u00fa","country":"GRC","state":"I"},{"id":80,"name":"Maro\u00fasi","country":"GRC","state":"I"},{"id":81,"name":"Megaloch\u00f3ri","country":"GRC","state":"I"},{"id":82,"name":"M\u00e9gara","country":"GRC","state":"I"},{"id":83,"name":"Mel\u00edssia","country":"GRC","state":"I"},{"id":84,"name":"Metam\u00f3rfosi","country":"GRC","state":"I"},{"id":85,"name":"Moskh\u00e1ton","country":"GRC","state":"I"},{"id":86,"name":"N\u00e9a Chalkid\u00f3na","country":"GRC","state":"I"},{"id":87,"name":"N\u00e9a Erythra\u00eda","country":"GRC","state":"I"},{"id":88,"name":"N\u00e9a Filad\u00e9lfeia","country":"GRC","state":"I"},{"id":89,"name":"N\u00e9a Ion\u00eda","country":"GRC","state":"I"},{"id":90,"name":"N\u00e9a M\u00e1kri","country":"GRC","state":"I"},{"id":91,"name":"N\u00e9a Pal\u00e1tia","country":"GRC","state":"I"},{"id":92,"name":"N\u00e9a Pent\u00e9li","country":"GRC","state":"I"},{"id":93,"name":"N\u00e9a P\u00e9ramos","country":"GRC","state":"I"},{"id":94,"name":"N\u00e9a Sm\u00fdrni","country":"GRC","state":"I"},{"id":95,"name":"N\u00e9o Psychik\u00f3","country":"GRC","state":"I"},{"id":96,"name":"Neos Voutz\u00e1s","country":"GRC","state":"I"},{"id":97,"name":"N\u00edkaia","country":"GRC","state":"I"},{"id":98,"name":"Orop\u00f3s","country":"GRC","state":"I"},{"id":99,"name":"Paian\u00eda","country":"GRC","state":"I"},{"id":100,"name":"Palai\u00e1 F\u00f3kaia","country":"GRC","state":"I"},{"id":101,"name":"Palai\u00f3 F\u00e1liro","country":"GRC","state":"I"},{"id":102,"name":"Pall\u00edni","country":"GRC","state":"I"},{"id":103,"name":"Pap\u00e1gou","country":"GRC","state":"I"},{"id":104,"name":"P\u00e9fki","country":"GRC","state":"I"},{"id":105,"name":"Pent\u00e9li","country":"GRC","state":"I"},{"id":106,"name":"P\u00e9rama","country":"GRC","state":"I"},{"id":107,"name":"Perist\u00e9ri","country":"GRC","state":"I"},{"id":108,"name":"Petro\u00fapolis","country":"GRC","state":"I"},{"id":109,"name":"Pik\u00e9rmi","country":"GRC","state":"I"},{"id":110,"name":"Piraeus","country":"GRC","state":"I"},{"id":111,"name":"Polyd\u00e9ndri","country":"GRC","state":"I"},{"id":112,"name":"P\u00f3ros","country":"GRC","state":"I"},{"id":113,"name":"Psychik\u00f3","country":"GRC","state":"I"},{"id":114,"name":"Raf\u00edna","country":"GRC","state":"I"},{"id":115,"name":"Rod\u00f3poli","country":"GRC","state":"I"},{"id":116,"name":"Salam\u00edna","country":"GRC","state":"I"},{"id":117,"name":"Saron\u00edda","country":"GRC","state":"I"},{"id":118,"name":"Sel\u00ednia","country":"GRC","state":"I"},{"id":119,"name":"Sk\u00e1la Oropo\u00fa","country":"GRC","state":"I"},{"id":120,"name":"Skarmagk\u00e1s","country":"GRC","state":"I"},{"id":121,"name":"Sp\u00e1ta","country":"GRC","state":"I"},{"id":122,"name":"Sp\u00e9tses","country":"GRC","state":"I"},{"id":123,"name":"Stam\u00e1ta","country":"GRC","state":"I"},{"id":124,"name":"T\u00e1vros","country":"GRC","state":"I"},{"id":125,"name":"Thrakomaked\u00f3nes","country":"GRC","state":"I"},{"id":126,"name":"V\u00e1ri","country":"GRC","state":"I"},{"id":127,"name":"Varn\u00e1vas","country":"GRC","state":"I"},{"id":128,"name":"Varyb\u00f3bi","country":"GRC","state":"I"},{"id":129,"name":"Vath\u00fd","country":"GRC","state":"I"},{"id":130,"name":"V\u00edlia","country":"GRC","state":"I"},{"id":131,"name":"Vlych\u00e1da","country":"GRC","state":"I"},{"id":132,"name":"Vo\u00fala","country":"GRC","state":"I"},{"id":133,"name":"Vouliagm\u00e9ni","country":"GRC","state":"I"},{"id":134,"name":"Vran\u00e1","country":"GRC","state":"I"},{"id":135,"name":"Vrilissia","country":"GRC","state":"I"},{"id":136,"name":"V\u00fdronas","country":"GRC","state":"I"},{"id":137,"name":"\u00dddra","country":"GRC","state":"I"},{"id":138,"name":"Ymittos","country":"GRC","state":"I"},{"id":139,"name":"Zefyri","country":"GRC","state":"I"},{"id":140,"name":"Zogr\u00e1fos","country":"GRC","state":"I"}]
+[
+    {
+        "id": 52399,
+        "name": "Acharnés",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52402,
+        "name": "Aegina",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52403,
+        "name": "Afidnés",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52406,
+        "name": "Aghios Panteleímon",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52420,
+        "name": "Agía Marína",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52421,
+        "name": "Agía Paraskeví",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52426,
+        "name": "Agía Varvára",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53370,
+        "name": "Ágioi Anárgyroi",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52407,
+        "name": "Agios Dimitrios",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52408,
+        "name": "Agios Dimítrios Kropiás",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52410,
+        "name": "Agios Ioannis Rentis",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53385,
+        "name": "Ágios Stéfanos",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52433,
+        "name": "Aiánteio",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52430,
+        "name": "Aigáleo",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53387,
+        "name": "Álimos",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52454,
+        "name": "Ampelákia",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52478,
+        "name": "Anávyssos",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53394,
+        "name": "Áno Liósia",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52468,
+        "name": "Anoixi",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52470,
+        "name": "Anthoúsa",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52487,
+        "name": "Argithéa",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52490,
+        "name": "Argyroúpoli",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52500,
+        "name": "Artémida",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52508,
+        "name": "Asprópyrgos",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52515,
+        "name": "Athens",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52518,
+        "name": "Avlónas",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53409,
+        "name": "Áyioi Apóstoloi",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52532,
+        "name": "Chaïdári",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52534,
+        "name": "Cholargós",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52549,
+        "name": "Dhafní",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52552,
+        "name": "Dhráfi",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52557,
+        "name": "Dióni",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52558,
+        "name": "Diónysos",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52561,
+        "name": "Drapetsóna",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52563,
+        "name": "Drosiá",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52575,
+        "name": "Ekáli",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52577,
+        "name": "Elefsína",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52581,
+        "name": "Ellinikó",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52591,
+        "name": "Erythrés",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52604,
+        "name": "Filothéi",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52613,
+        "name": "Fylí",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52624,
+        "name": "Galatás",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52627,
+        "name": "Galátsi",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52653,
+        "name": "Gérakas",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52638,
+        "name": "Glyfáda",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52644,
+        "name": "Grammatikó",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53421,
+        "name": "Ílion",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52662,
+        "name": "Ilioúpoli",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52665,
+        "name": "Irákleio",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52674,
+        "name": "Kaisarianí",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52802,
+        "name": "Kálamos",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52681,
+        "name": "Kallithéa",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52695,
+        "name": "Kalývia Thorikoú",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52697,
+        "name": "Kamaterón",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52705,
+        "name": "Kapandríti",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52714,
+        "name": "Karellás",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52817,
+        "name": "Káto Soúlion",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52742,
+        "name": "Keratéa",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52741,
+        "name": "Keratsíni",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52744,
+        "name": "Khalándrion",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52743,
+        "name": "Khalkoútsion",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52746,
+        "name": "Kifisiá",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52749,
+        "name": "Kinéta",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52750,
+        "name": "Kipséli",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52824,
+        "name": "Kítsi",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52769,
+        "name": "Koropí",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52770,
+        "name": "Korydallós",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52779,
+        "name": "Kouvarás",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52790,
+        "name": "Kryonéri",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52799,
+        "name": "Kypséli",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52830,
+        "name": "Kýthira",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52877,
+        "name": "Lávrio",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52844,
+        "name": "Leondárion",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52856,
+        "name": "Limín Mesoyaías",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52871,
+        "name": "Lykóvrysi",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52885,
+        "name": "Magoúla",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52955,
+        "name": "Mándra",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52898,
+        "name": "Marathónas",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52899,
+        "name": "Markópoulo",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52900,
+        "name": "Markópoulo Oropoú",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52902,
+        "name": "Maroúsi",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52911,
+        "name": "Megalochóri",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52956,
+        "name": "Mégara",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52922,
+        "name": "Melíssia",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52931,
+        "name": "Metamórfosi",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52943,
+        "name": "Moskháton",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53004,
+        "name": "Néa Chalkidóna",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53005,
+        "name": "Néa Erythraía",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53006,
+        "name": "Néa Filadélfeia",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53009,
+        "name": "Néa Ionía",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53022,
+        "name": "Néa Mákri",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53024,
+        "name": "Néa Palátia",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53025,
+        "name": "Néa Pentéli",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53030,
+        "name": "Néa Péramos",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53034,
+        "name": "Néa Smýrni",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53045,
+        "name": "Néo Psychikó",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 52970,
+        "name": "Neos Voutzás",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53054,
+        "name": "Níkaia",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53065,
+        "name": "Oropós",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53070,
+        "name": "Paianía",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53076,
+        "name": "Palaiá Fókaia",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53077,
+        "name": "Palaió Fáliro",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53084,
+        "name": "Pallíni",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53089,
+        "name": "Papágou",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53171,
+        "name": "Péfki",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53107,
+        "name": "Pentéli",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53175,
+        "name": "Pérama",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53112,
+        "name": "Peristéri",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53119,
+        "name": "Petroúpolis",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53122,
+        "name": "Pikérmi",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53123,
+        "name": "Piraeus",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53132,
+        "name": "Polydéndri",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53180,
+        "name": "Póros",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53155,
+        "name": "Psychikó",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53186,
+        "name": "Rafína",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53197,
+        "name": "Rodópoli",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53204,
+        "name": "Salamína",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53207,
+        "name": "Saronída",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53211,
+        "name": "Selínia",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53226,
+        "name": "Skála Oropoú",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53220,
+        "name": "Skarmagkás",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53242,
+        "name": "Spáta",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53243,
+        "name": "Spétses",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53245,
+        "name": "Stamáta",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53300,
+        "name": "Távros",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53280,
+        "name": "Thrakomakedónes",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53340,
+        "name": "Vári",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53308,
+        "name": "Varnávas",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53311,
+        "name": "Varybóbi",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53316,
+        "name": "Vathý",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53344,
+        "name": "Vília",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53325,
+        "name": "Vlycháda",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53331,
+        "name": "Voúla",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53329,
+        "name": "Vouliagméni",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53334,
+        "name": "Vraná",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53335,
+        "name": "Vrilissia",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53347,
+        "name": "Výronas",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53424,
+        "name": "Ýdra",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53355,
+        "name": "Ymittos",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53360,
+        "name": "Zefyri",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 53363,
+        "name": "Zográfos",
+        "country": "GRC",
+        "state": "I"
+    }
+]

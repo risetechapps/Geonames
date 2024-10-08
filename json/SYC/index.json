@@ -1,1 +1,146 @@
-[{"id":0,"name":"Anse Boileau","iso3":"02","country":"SYC"},{"id":1,"name":"Anse Royale","iso3":"05","country":"SYC"},{"id":2,"name":"Anse-aux-Pins","iso3":"01","country":"SYC"},{"id":3,"name":"Au Cap","iso3":"04","country":"SYC"},{"id":4,"name":"Baie Lazare","iso3":"06","country":"SYC"},{"id":5,"name":"Baie Sainte Anne","iso3":"07","country":"SYC"},{"id":6,"name":"Beau Vallon","iso3":"08","country":"SYC"},{"id":7,"name":"Bel Air","iso3":"09","country":"SYC"},{"id":8,"name":"Bel Ombre","iso3":"10","country":"SYC"},{"id":9,"name":"Cascade","iso3":"11","country":"SYC"},{"id":10,"name":"Glacis","iso3":"12","country":"SYC"},{"id":11,"name":"Grand'Anse Mah\u00e9","iso3":"13","country":"SYC"},{"id":12,"name":"Grand'Anse Praslin","iso3":"14","country":"SYC"},{"id":13,"name":"La Digue","iso3":"15","country":"SYC"},{"id":14,"name":"La Rivi\u00e8re Anglaise","iso3":"16","country":"SYC"},{"id":15,"name":"Les Mamelles","iso3":"24","country":"SYC"},{"id":16,"name":"Mont Buxton","iso3":"17","country":"SYC"},{"id":17,"name":"Mont Fleuri","iso3":"18","country":"SYC"},{"id":18,"name":"Plaisance","iso3":"19","country":"SYC"},{"id":19,"name":"Pointe La Rue","iso3":"20","country":"SYC"},{"id":20,"name":"Port Glaud","iso3":"21","country":"SYC"},{"id":21,"name":"Roche Caiman","iso3":"25","country":"SYC"},{"id":22,"name":"Saint Louis","iso3":"22","country":"SYC"},{"id":23,"name":"Takamaka","iso3":"23","country":"SYC"}]
+[
+    {
+        "id": 513,
+        "name": "Anse Boileau",
+        "country": "SYC",
+        "state_code": "02"
+    },
+    {
+        "id": 502,
+        "name": "Anse Royale",
+        "country": "SYC",
+        "state_code": "05"
+    },
+    {
+        "id": 506,
+        "name": "Anse-aux-Pins",
+        "country": "SYC",
+        "state_code": "01"
+    },
+    {
+        "id": 508,
+        "name": "Au Cap",
+        "country": "SYC",
+        "state_code": "04"
+    },
+    {
+        "id": 497,
+        "name": "Baie Lazare",
+        "country": "SYC",
+        "state_code": "06"
+    },
+    {
+        "id": 514,
+        "name": "Baie Sainte Anne",
+        "country": "SYC",
+        "state_code": "07"
+    },
+    {
+        "id": 512,
+        "name": "Beau Vallon",
+        "country": "SYC",
+        "state_code": "08"
+    },
+    {
+        "id": 515,
+        "name": "Bel Air",
+        "country": "SYC",
+        "state_code": "09"
+    },
+    {
+        "id": 505,
+        "name": "Bel Ombre",
+        "country": "SYC",
+        "state_code": "10"
+    },
+    {
+        "id": 517,
+        "name": "Cascade",
+        "country": "SYC",
+        "state_code": "11"
+    },
+    {
+        "id": 503,
+        "name": "Glacis",
+        "country": "SYC",
+        "state_code": "12"
+    },
+    {
+        "id": 500,
+        "name": "Grand'Anse Mahé",
+        "country": "SYC",
+        "state_code": "13"
+    },
+    {
+        "id": 504,
+        "name": "Grand'Anse Praslin",
+        "country": "SYC",
+        "state_code": "14"
+    },
+    {
+        "id": 495,
+        "name": "La Digue",
+        "country": "SYC",
+        "state_code": "15"
+    },
+    {
+        "id": 516,
+        "name": "La Rivière Anglaise",
+        "country": "SYC",
+        "state_code": "16"
+    },
+    {
+        "id": 499,
+        "name": "Les Mamelles",
+        "country": "SYC",
+        "state_code": "24"
+    },
+    {
+        "id": 494,
+        "name": "Mont Buxton",
+        "country": "SYC",
+        "state_code": "17"
+    },
+    {
+        "id": 498,
+        "name": "Mont Fleuri",
+        "country": "SYC",
+        "state_code": "18"
+    },
+    {
+        "id": 511,
+        "name": "Plaisance",
+        "country": "SYC",
+        "state_code": "19"
+    },
+    {
+        "id": 510,
+        "name": "Pointe La Rue",
+        "country": "SYC",
+        "state_code": "20"
+    },
+    {
+        "id": 507,
+        "name": "Port Glaud",
+        "country": "SYC",
+        "state_code": "21"
+    },
+    {
+        "id": 501,
+        "name": "Roche Caiman",
+        "country": "SYC",
+        "state_code": "25"
+    },
+    {
+        "id": 496,
+        "name": "Saint Louis",
+        "country": "SYC",
+        "state_code": "22"
+    },
+    {
+        "id": 509,
+        "name": "Takamaka",
+        "country": "SYC",
+        "state_code": "23"
+    }
+]

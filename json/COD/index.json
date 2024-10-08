@@ -1,1 +1,158 @@
-[{"id":0,"name":"Bas-U\u00e9l\u00e9","iso3":"BU","country":"COD"},{"id":1,"name":"\u00c9quateur","iso3":"EQ","country":"COD"},{"id":2,"name":"Haut-Katanga","iso3":"HK","country":"COD"},{"id":3,"name":"Haut-Lomami","iso3":"HL","country":"COD"},{"id":4,"name":"Haut-U\u00e9l\u00e9","iso3":"HU","country":"COD"},{"id":5,"name":"Ituri","iso3":"IT","country":"COD"},{"id":6,"name":"Kasa\u00ef","iso3":"KS","country":"COD"},{"id":7,"name":"Kasa\u00ef Central","iso3":"KC","country":"COD"},{"id":8,"name":"Kasa\u00ef Oriental","iso3":"KE","country":"COD"},{"id":9,"name":"Kinshasa","iso3":"KN","country":"COD"},{"id":10,"name":"Kongo Central","iso3":"BC","country":"COD"},{"id":11,"name":"Kwango","iso3":"KG","country":"COD"},{"id":12,"name":"Kwilu","iso3":"KL","country":"COD"},{"id":13,"name":"Lomami","iso3":"LO","country":"COD"},{"id":14,"name":"Lualaba","iso3":"LU","country":"COD"},{"id":15,"name":"Mai-Ndombe","iso3":"MN","country":"COD"},{"id":16,"name":"Maniema","iso3":"MA","country":"COD"},{"id":17,"name":"Mongala","iso3":"MO","country":"COD"},{"id":18,"name":"Nord-Kivu","iso3":"NK","country":"COD"},{"id":19,"name":"Nord-Ubangi","iso3":"NU","country":"COD"},{"id":20,"name":"Sankuru","iso3":"SA","country":"COD"},{"id":21,"name":"Sud-Kivu","iso3":"SK","country":"COD"},{"id":22,"name":"Sud-Ubangi","iso3":"SU","country":"COD"},{"id":23,"name":"Tanganyika","iso3":"TA","country":"COD"},{"id":24,"name":"Tshopo","iso3":"TO","country":"COD"},{"id":25,"name":"Tshuapa","iso3":"TU","country":"COD"}]
+[
+    {
+        "id": 2753,
+        "name": "Bas-Uélé",
+        "country": "COD",
+        "state_code": "BU"
+    },
+    {
+        "id": 2744,
+        "name": "Équateur",
+        "country": "COD",
+        "state_code": "EQ"
+    },
+    {
+        "id": 2750,
+        "name": "Haut-Katanga",
+        "country": "COD",
+        "state_code": "HK"
+    },
+    {
+        "id": 2758,
+        "name": "Haut-Lomami",
+        "country": "COD",
+        "state_code": "HL"
+    },
+    {
+        "id": 2734,
+        "name": "Haut-Uélé",
+        "country": "COD",
+        "state_code": "HU"
+    },
+    {
+        "id": 2751,
+        "name": "Ituri",
+        "country": "COD",
+        "state_code": "IT"
+    },
+    {
+        "id": 2757,
+        "name": "Kasaï",
+        "country": "COD",
+        "state_code": "KS"
+    },
+    {
+        "id": 2742,
+        "name": "Kasaï Central",
+        "country": "COD",
+        "state_code": "KC"
+    },
+    {
+        "id": 2735,
+        "name": "Kasaï Oriental",
+        "country": "COD",
+        "state_code": "KE"
+    },
+    {
+        "id": 2741,
+        "name": "Kinshasa",
+        "country": "COD",
+        "state_code": "KN"
+    },
+    {
+        "id": 2746,
+        "name": "Kongo Central",
+        "country": "COD",
+        "state_code": "BC"
+    },
+    {
+        "id": 2740,
+        "name": "Kwango",
+        "country": "COD",
+        "state_code": "KG"
+    },
+    {
+        "id": 2759,
+        "name": "Kwilu",
+        "country": "COD",
+        "state_code": "KL"
+    },
+    {
+        "id": 2747,
+        "name": "Lomami",
+        "country": "COD",
+        "state_code": "LO"
+    },
+    {
+        "id": 4953,
+        "name": "Lualaba",
+        "country": "COD",
+        "state_code": "LU"
+    },
+    {
+        "id": 2755,
+        "name": "Mai-Ndombe",
+        "country": "COD",
+        "state_code": "MN"
+    },
+    {
+        "id": 2745,
+        "name": "Maniema",
+        "country": "COD",
+        "state_code": "MA"
+    },
+    {
+        "id": 2752,
+        "name": "Mongala",
+        "country": "COD",
+        "state_code": "MO"
+    },
+    {
+        "id": 2749,
+        "name": "Nord-Kivu",
+        "country": "COD",
+        "state_code": "NK"
+    },
+    {
+        "id": 2739,
+        "name": "Nord-Ubangi",
+        "country": "COD",
+        "state_code": "NU"
+    },
+    {
+        "id": 2743,
+        "name": "Sankuru",
+        "country": "COD",
+        "state_code": "SA"
+    },
+    {
+        "id": 2738,
+        "name": "Sud-Kivu",
+        "country": "COD",
+        "state_code": "SK"
+    },
+    {
+        "id": 2748,
+        "name": "Sud-Ubangi",
+        "country": "COD",
+        "state_code": "SU"
+    },
+    {
+        "id": 2733,
+        "name": "Tanganyika",
+        "country": "COD",
+        "state_code": "TA"
+    },
+    {
+        "id": 2756,
+        "name": "Tshopo",
+        "country": "COD",
+        "state_code": "TO"
+    },
+    {
+        "id": 2732,
+        "name": "Tshuapa",
+        "country": "COD",
+        "state_code": "TU"
+    }
+]

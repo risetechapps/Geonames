@@ -1,1 +1,338 @@
-[{"id":0,"name":"\u2018Eilabun","country":"ISR","state":"Z"},{"id":1,"name":"\u2018Uzeir","country":"ISR","state":"Z"},{"id":2,"name":"Acre","country":"ISR","state":"Z"},{"id":3,"name":"Afula","country":"ISR","state":"Z"},{"id":4,"name":"Basmat \u1e6cab\u2018\u016bn","country":"ISR","state":"Z"},{"id":5,"name":"Beit Jann","country":"ISR","state":"Z"},{"id":6,"name":"Bet She\u2019an","country":"ISR","state":"Z"},{"id":7,"name":"B\u012br el Maks\u016br","country":"ISR","state":"Z"},{"id":8,"name":"Bu\u2018eina","country":"ISR","state":"Z"},{"id":9,"name":"Buqei\u2018a","country":"ISR","state":"Z"},{"id":10,"name":"Dabb\u016br\u012bya","country":"ISR","state":"Z"},{"id":11,"name":"Deir \u1e24ann\u0101","country":"ISR","state":"Z"},{"id":12,"name":"El Mazra\u2018a","country":"ISR","state":"Z"},{"id":13,"name":"Er Reina","country":"ISR","state":"Z"},{"id":14,"name":"Esh Sheikh Dann\u016bn","country":"ISR","state":"Z"},{"id":15,"name":"\u1e24urfeish","country":"ISR","state":"Z"},{"id":16,"name":"Iks\u0101l","country":"ISR","state":"Z"},{"id":17,"name":"J\u012bsh","country":"ISR","state":"Z"},{"id":18,"name":"Judeida Makr","country":"ISR","state":"Z"},{"id":19,"name":"K\u0101b\u016bl","country":"ISR","state":"Z"},{"id":20,"name":"Kafr Kamm\u0101","country":"ISR","state":"Z"},{"id":21,"name":"Kafr Kann\u0101","country":"ISR","state":"Z"},{"id":22,"name":"Kafr Mand\u0101","country":"ISR","state":"Z"},{"id":23,"name":"Kafr Mi\u1e63r","country":"ISR","state":"Z"},{"id":24,"name":"Karmi\u2019el","country":"ISR","state":"Z"},{"id":25,"name":"Kaukab Ab\u016b el H\u012bj\u0101","country":"ISR","state":"Z"},{"id":26,"name":"Kefar Rosh HaNiqra","country":"ISR","state":"Z"},{"id":27,"name":"Kefar Tavor","country":"ISR","state":"Z"},{"id":28,"name":"Kefar Weradim","country":"ISR","state":"Z"},{"id":29,"name":"Kfar Yasif","country":"ISR","state":"Z"},{"id":30,"name":"maalot Tarsh\u012bh\u0101","country":"ISR","state":"Z"},{"id":31,"name":"Magh\u0101r","country":"ISR","state":"Z"},{"id":32,"name":"Metulla","country":"ISR","state":"Z"},{"id":33,"name":"Mi\u2018ily\u0101","country":"ISR","state":"Z"},{"id":34,"name":"Migdal Ha\u2018Emeq","country":"ISR","state":"Z"},{"id":35,"name":"Nahariyya","country":"ISR","state":"Z"},{"id":36,"name":"Na\u1e25f","country":"ISR","state":"Z"},{"id":37,"name":"Nazareth","country":"ISR","state":"Z"},{"id":38,"name":"Nefat \u2018Akko","country":"ISR","state":"Z"},{"id":39,"name":"Nein","country":"ISR","state":"Z"},{"id":40,"name":"Pasuta","country":"ISR","state":"Z"},{"id":41,"name":"Qiryat Shemona","country":"ISR","state":"Z"},{"id":42,"name":"Ramat Yishay","country":"ISR","state":"Z"},{"id":43,"name":"Rosh Pinna","country":"ISR","state":"Z"},{"id":44,"name":"Rumat Heib","country":"ISR","state":"Z"},{"id":45,"name":"Safed","country":"ISR","state":"Z"},{"id":46,"name":"S\u0101j\u016br","country":"ISR","state":"Z"},{"id":47,"name":"Sakhn\u012bn","country":"ISR","state":"Z"},{"id":48,"name":"Sallama","country":"ISR","state":"Z"},{"id":49,"name":"Shelomi","country":"ISR","state":"Z"},{"id":50,"name":"Shibli","country":"ISR","state":"Z"},{"id":51,"name":"S\u016blam","country":"ISR","state":"Z"},{"id":52,"name":"Tamra","country":"ISR","state":"Z"},{"id":53,"name":"Tiberias","country":"ISR","state":"Z"},{"id":54,"name":"Timrat","country":"ISR","state":"Z"},{"id":55,"name":"Yavne\u2019el","country":"ISR","state":"Z"}]
+[
+    {
+        "id": 57581,
+        "name": "‘Eilabun",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57583,
+        "name": "‘Uzeir",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57435,
+        "name": "Acre",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57436,
+        "name": "Afula",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57442,
+        "name": "Basmat Ṭab‘ūn",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57445,
+        "name": "Beit Jann",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57448,
+        "name": "Bet She’an",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57454,
+        "name": "Bīr el Maksūr",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57453,
+        "name": "Bu‘eina",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57452,
+        "name": "Buqei‘a",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57456,
+        "name": "Dabbūrīya",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57458,
+        "name": "Deir Ḥannā",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57462,
+        "name": "El Mazra‘a",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57464,
+        "name": "Er Reina",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57465,
+        "name": "Esh Sheikh Dannūn",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57578,
+        "name": "Ḥurfeish",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57481,
+        "name": "Iksāl",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57486,
+        "name": "Jīsh",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57485,
+        "name": "Judeida Makr",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57502,
+        "name": "Kābūl",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57487,
+        "name": "Kafr Kammā",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57488,
+        "name": "Kafr Kannā",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57489,
+        "name": "Kafr Mandā",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57490,
+        "name": "Kafr Miṣr",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57492,
+        "name": "Karmi’el",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57493,
+        "name": "Kaukab Abū el Hījā",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57495,
+        "name": "Kefar Rosh HaNiqra",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57497,
+        "name": "Kefar Tavor",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57498,
+        "name": "Kefar Weradim",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57501,
+        "name": "Kfar Yasif",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57577,
+        "name": "maalot Tarshīhā",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57506,
+        "name": "Maghār",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57508,
+        "name": "Metulla",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57513,
+        "name": "Mi‘ilyā",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57511,
+        "name": "Migdal Ha‘Emeq",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57516,
+        "name": "Nahariyya",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57518,
+        "name": "Naḥf",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57517,
+        "name": "Nazareth",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57519,
+        "name": "Nefat ‘Akko",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57520,
+        "name": "Nein",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57532,
+        "name": "Pasuta",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57539,
+        "name": "Qiryat Shemona",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57545,
+        "name": "Ramat Yishay",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57551,
+        "name": "Rosh Pinna",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57552,
+        "name": "Rumat Heib",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57553,
+        "name": "Safed",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57561,
+        "name": "Sājūr",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57554,
+        "name": "Sakhnīn",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57555,
+        "name": "Sallama",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57558,
+        "name": "Shelomi",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57559,
+        "name": "Shibli",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57562,
+        "name": "Sūlam",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57563,
+        "name": "Tamra",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57566,
+        "name": "Tiberias",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57567,
+        "name": "Timrat",
+        "country": "ISR",
+        "state": "Z"
+    },
+    {
+        "id": 57572,
+        "name": "Yavne’el",
+        "country": "ISR",
+        "state": "Z"
+    }
+]

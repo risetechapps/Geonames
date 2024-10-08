@@ -1,1 +1,212 @@
-[{"id":0,"name":"Caloocan","country":"PHL","state":"NCR"},{"id":1,"name":"Calumpang","country":"PHL","state":"NCR"},{"id":2,"name":"Dasmari\u00f1as Village","country":"PHL","state":"NCR"},{"id":3,"name":"Ermita","country":"PHL","state":"NCR"},{"id":4,"name":"Intramuros","country":"PHL","state":"NCR"},{"id":5,"name":"Las Pi\u00f1as","country":"PHL","state":"NCR"},{"id":6,"name":"Makati","country":"PHL","state":"NCR"},{"id":7,"name":"Malabon","country":"PHL","state":"NCR"},{"id":8,"name":"Malate","country":"PHL","state":"NCR"},{"id":9,"name":"Mandaluyong","country":"PHL","state":"NCR"},{"id":10,"name":"Manila","country":"PHL","state":"NCR"},{"id":11,"name":"Marikina","country":"PHL","state":"NCR"},{"id":12,"name":"Muntinlupa","country":"PHL","state":"NCR"},{"id":13,"name":"National Capital Region","country":"PHL","state":"NCR"},{"id":14,"name":"Navotas","country":"PHL","state":"NCR"},{"id":15,"name":"Niugan","country":"PHL","state":"NCR"},{"id":16,"name":"Paco","country":"PHL","state":"NCR"},{"id":17,"name":"Pandacan","country":"PHL","state":"NCR"},{"id":18,"name":"Para\u00f1aque","country":"PHL","state":"NCR"},{"id":19,"name":"Pasay","country":"PHL","state":"NCR"},{"id":20,"name":"Pasig","country":"PHL","state":"NCR"},{"id":21,"name":"Pateros","country":"PHL","state":"NCR"},{"id":22,"name":"Port Area","country":"PHL","state":"NCR"},{"id":23,"name":"Quezon City","country":"PHL","state":"NCR"},{"id":24,"name":"Quiapo","country":"PHL","state":"NCR"},{"id":25,"name":"Sambayanihan People's Village","country":"PHL","state":"NCR"},{"id":26,"name":"San Juan","country":"PHL","state":"NCR"},{"id":27,"name":"San Miguel","country":"PHL","state":"NCR"},{"id":28,"name":"Santa Ana","country":"PHL","state":"NCR"},{"id":29,"name":"Santa Cruz","country":"PHL","state":"NCR"},{"id":30,"name":"Singkamas","country":"PHL","state":"NCR"},{"id":31,"name":"Taguig","country":"PHL","state":"NCR"},{"id":32,"name":"Tanza","country":"PHL","state":"NCR"},{"id":33,"name":"Tondo","country":"PHL","state":"NCR"},{"id":34,"name":"Valenzuela","country":"PHL","state":"NCR"}]
+[
+    {
+        "id": 82065,
+        "name": "Caloocan",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 82071,
+        "name": "Calumpang",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143914,
+        "name": "Dasmariñas Village",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143915,
+        "name": "Ermita",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143916,
+        "name": "Intramuros",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 83045,
+        "name": "Las Piñas",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 83375,
+        "name": "Makati",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143917,
+        "name": "Malabon",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143918,
+        "name": "Malate",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 83501,
+        "name": "Mandaluyong",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 83524,
+        "name": "Manila",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143919,
+        "name": "Marikina",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143920,
+        "name": "Muntinlupa",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143921,
+        "name": "National Capital Region",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 83795,
+        "name": "Navotas",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 83818,
+        "name": "Niugan",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143922,
+        "name": "Paco",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143923,
+        "name": "Pandacan",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143924,
+        "name": "Parañaque",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 84027,
+        "name": "Pasay",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 84030,
+        "name": "Pasig",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143925,
+        "name": "Pateros",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 84166,
+        "name": "Port Area",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 84301,
+        "name": "Quezon City",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 84302,
+        "name": "Quiapo",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 84426,
+        "name": "Sambayanihan People's Village",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 84530,
+        "name": "San Juan",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143926,
+        "name": "San Miguel",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143927,
+        "name": "Santa Ana",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143928,
+        "name": "Santa Cruz",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143929,
+        "name": "Singkamas",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 84948,
+        "name": "Taguig",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 85046,
+        "name": "Tanza",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143931,
+        "name": "Tondo",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 143932,
+        "name": "Valenzuela",
+        "country": "PHL",
+        "state": "NCR"
+    }
+]

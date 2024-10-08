@@ -1,1 +1,230 @@
-[{"id":0,"name":"Azovo","country":"RUS","state":"OMS"},{"id":1,"name":"Beregovoy","country":"RUS","state":"OMS"},{"id":2,"name":"Bol\u2019sherech\u2019ye","country":"RUS","state":"OMS"},{"id":3,"name":"Cherlak","country":"RUS","state":"OMS"},{"id":4,"name":"Irtyshskiy","country":"RUS","state":"OMS"},{"id":5,"name":"Kalachinsk","country":"RUS","state":"OMS"},{"id":6,"name":"Kolosovka","country":"RUS","state":"OMS"},{"id":7,"name":"Kormilovka","country":"RUS","state":"OMS"},{"id":8,"name":"Krasnoyarka","country":"RUS","state":"OMS"},{"id":9,"name":"Krasnyy Yar","country":"RUS","state":"OMS"},{"id":10,"name":"Krutaya Gorka","country":"RUS","state":"OMS"},{"id":11,"name":"Krutinka","country":"RUS","state":"OMS"},{"id":12,"name":"Luzino","country":"RUS","state":"OMS"},{"id":13,"name":"Lyubinskiy","country":"RUS","state":"OMS"},{"id":14,"name":"Muromtsevo","country":"RUS","state":"OMS"},{"id":15,"name":"Muromtsevskiy Rayon","country":"RUS","state":"OMS"},{"id":16,"name":"Nazyvayevsk","country":"RUS","state":"OMS"},{"id":17,"name":"Nizhnyaya Omka","country":"RUS","state":"OMS"},{"id":18,"name":"Novoomskiy","country":"RUS","state":"OMS"},{"id":19,"name":"Novovarshavka","country":"RUS","state":"OMS"},{"id":20,"name":"Odesskoye","country":"RUS","state":"OMS"},{"id":21,"name":"Okoneshnikovo","country":"RUS","state":"OMS"},{"id":22,"name":"Omsk","country":"RUS","state":"OMS"},{"id":23,"name":"Pavlogradka","country":"RUS","state":"OMS"},{"id":24,"name":"Poltavka","country":"RUS","state":"OMS"},{"id":25,"name":"Rostovka","country":"RUS","state":"OMS"},{"id":26,"name":"Russkaya Polyana","country":"RUS","state":"OMS"},{"id":27,"name":"Sargatskoye","country":"RUS","state":"OMS"},{"id":28,"name":"Sedel\u2019nikovskiy Rayon","country":"RUS","state":"OMS"},{"id":29,"name":"Sherbakul\u2019","country":"RUS","state":"OMS"},{"id":30,"name":"Tara","country":"RUS","state":"OMS"},{"id":31,"name":"Tavricheskoye","country":"RUS","state":"OMS"},{"id":32,"name":"Tevriz","country":"RUS","state":"OMS"},{"id":33,"name":"Troitsk","country":"RUS","state":"OMS"},{"id":34,"name":"Tyukalinsk","country":"RUS","state":"OMS"},{"id":35,"name":"Ust\u2019-Ishim","country":"RUS","state":"OMS"},{"id":36,"name":"Vkhodnoy","country":"RUS","state":"OMS"},{"id":37,"name":"Znamenskoye","country":"RUS","state":"OMS"}]
+[
+    {
+        "id": 97735,
+        "name": "Azovo",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 97891,
+        "name": "Beregovoy",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 98005,
+        "name": "Bol’sherech’ye",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 98162,
+        "name": "Cherlak",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 98694,
+        "name": "Irtyshskiy",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 98779,
+        "name": "Kalachinsk",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 99145,
+        "name": "Kolosovka",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 99209,
+        "name": "Kormilovka",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 99342,
+        "name": "Krasnoyarka",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 99380,
+        "name": "Krasnyy Yar",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 99402,
+        "name": "Krutaya Gorka",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 99404,
+        "name": "Krutinka",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 99698,
+        "name": "Luzino",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 99717,
+        "name": "Lyubinskiy",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 100014,
+        "name": "Muromtsevo",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 100016,
+        "name": "Muromtsevskiy Rayon",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 100079,
+        "name": "Nazyvayevsk",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 100184,
+        "name": "Nizhnyaya Omka",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 100272,
+        "name": "Novoomskiy",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 100326,
+        "name": "Novovarshavka",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 100397,
+        "name": "Odesskoye",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 100406,
+        "name": "Okoneshnikovo",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 100440,
+        "name": "Omsk",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 100566,
+        "name": "Pavlogradka",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 100759,
+        "name": "Poltavka",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 101008,
+        "name": "Rostovka",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 101029,
+        "name": "Russkaya Polyana",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 101117,
+        "name": "Sargatskoye",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 101147,
+        "name": "Sedel’nikovskiy Rayon",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 101304,
+        "name": "Sherbakul’",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 101768,
+        "name": "Tara",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 101801,
+        "name": "Tavricheskoye",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 101845,
+        "name": "Tevriz",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 101913,
+        "name": "Troitsk",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 102000,
+        "name": "Tyukalinsk",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 102121,
+        "name": "Ust’-Ishim",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 102324,
+        "name": "Vkhodnoy",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 102763,
+        "name": "Znamenskoye",
+        "country": "RUS",
+        "state": "OMS"
+    }
+]

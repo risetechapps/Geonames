@@ -1,1 +1,326 @@
-[{"id":0,"name":"Aghavnatun","country":"ARM","state":"AV"},{"id":1,"name":"Aknalich","country":"ARM","state":"AV"},{"id":2,"name":"Aknashen","country":"ARM","state":"AV"},{"id":3,"name":"Alashkert","country":"ARM","state":"AV"},{"id":4,"name":"Apaga","country":"ARM","state":"AV"},{"id":5,"name":"Arak\u2019s","country":"ARM","state":"AV"},{"id":6,"name":"Arazap\u2019","country":"ARM","state":"AV"},{"id":7,"name":"Arbat\u2019","country":"ARM","state":"AV"},{"id":8,"name":"Arevashat","country":"ARM","state":"AV"},{"id":9,"name":"Arevik","country":"ARM","state":"AV"},{"id":10,"name":"Argavand","country":"ARM","state":"AV"},{"id":11,"name":"Armavir","country":"ARM","state":"AV"},{"id":12,"name":"Arshaluys","country":"ARM","state":"AV"},{"id":13,"name":"Artimet","country":"ARM","state":"AV"},{"id":14,"name":"Aygek","country":"ARM","state":"AV"},{"id":15,"name":"Aygeshat","country":"ARM","state":"AV"},{"id":16,"name":"Baghramyan","country":"ARM","state":"AV"},{"id":17,"name":"Bambakashat","country":"ARM","state":"AV"},{"id":18,"name":"Dalarik","country":"ARM","state":"AV"},{"id":19,"name":"Doghs","country":"ARM","state":"AV"},{"id":20,"name":"Gay","country":"ARM","state":"AV"},{"id":21,"name":"Geghakert","country":"ARM","state":"AV"},{"id":22,"name":"Geghanist","country":"ARM","state":"AV"},{"id":23,"name":"Getashen","country":"ARM","state":"AV"},{"id":24,"name":"Gmbet\u2019","country":"ARM","state":"AV"},{"id":25,"name":"Griboyedov","country":"ARM","state":"AV"},{"id":26,"name":"Haykashen","country":"ARM","state":"AV"},{"id":27,"name":"Hovtamej","country":"ARM","state":"AV"},{"id":28,"name":"Janfida","country":"ARM","state":"AV"},{"id":29,"name":"Khoronk\u2019","country":"ARM","state":"AV"},{"id":30,"name":"Lenughi","country":"ARM","state":"AV"},{"id":31,"name":"Lukashin","country":"ARM","state":"AV"},{"id":32,"name":"Margara","country":"ARM","state":"AV"},{"id":33,"name":"Mayisyan","country":"ARM","state":"AV"},{"id":34,"name":"Merdzavan","country":"ARM","state":"AV"},{"id":35,"name":"Metsamor","country":"ARM","state":"AV"},{"id":36,"name":"Mrgashat","country":"ARM","state":"AV"},{"id":37,"name":"Musalerr","country":"ARM","state":"AV"},{"id":38,"name":"Myasnikyan","country":"ARM","state":"AV"},{"id":39,"name":"Nalbandyan","country":"ARM","state":"AV"},{"id":40,"name":"Nor Armavir","country":"ARM","state":"AV"},{"id":41,"name":"Norakert","country":"ARM","state":"AV"},{"id":42,"name":"P\u2019shatavan","country":"ARM","state":"AV"},{"id":43,"name":"Ptghunk\u2019","country":"ARM","state":"AV"},{"id":44,"name":"Sardarapat","country":"ARM","state":"AV"},{"id":45,"name":"Shenavan","country":"ARM","state":"AV"},{"id":46,"name":"Tandzut","country":"ARM","state":"AV"},{"id":47,"name":"Taronik","country":"ARM","state":"AV"},{"id":48,"name":"Tsaghkunk\u2019","country":"ARM","state":"AV"},{"id":49,"name":"Tsiatsan","country":"ARM","state":"AV"},{"id":50,"name":"Vagharshapat","country":"ARM","state":"AV"},{"id":51,"name":"Voskehat","country":"ARM","state":"AV"},{"id":52,"name":"Yeghegnut","country":"ARM","state":"AV"},{"id":53,"name":"Yeraskhahun","country":"ARM","state":"AV"}]
+[
+    {
+        "id": 289,
+        "name": "Aghavnatun",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 292,
+        "name": "Aknalich",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 293,
+        "name": "Aknashen",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 297,
+        "name": "Alashkert",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 302,
+        "name": "Apaga",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 306,
+        "name": "Arak’s",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 310,
+        "name": "Arazap’",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 311,
+        "name": "Arbat’",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 315,
+        "name": "Arevashat",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 317,
+        "name": "Arevik",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 322,
+        "name": "Argavand",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 325,
+        "name": "Armavir",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 327,
+        "name": "Arshaluys",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 330,
+        "name": "Artimet",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 340,
+        "name": "Aygek",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 342,
+        "name": "Aygeshat",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 347,
+        "name": "Baghramyan",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 350,
+        "name": "Bambakashat",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 367,
+        "name": "Dalarik",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 374,
+        "name": "Doghs",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 388,
+        "name": "Gay",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 389,
+        "name": "Geghakert",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 392,
+        "name": "Geghanist",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 394,
+        "name": "Getashen",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 398,
+        "name": "Gmbet’",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 403,
+        "name": "Griboyedov",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 410,
+        "name": "Haykashen",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 414,
+        "name": "Hovtamej",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 419,
+        "name": "Janfida",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 433,
+        "name": "Khoronk’",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 440,
+        "name": "Lenughi",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 448,
+        "name": "Lukashin",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 454,
+        "name": "Margara",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 461,
+        "name": "Mayisyan",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 465,
+        "name": "Merdzavan",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 469,
+        "name": "Metsamor",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 473,
+        "name": "Mrgashat",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 477,
+        "name": "Musalerr",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 478,
+        "name": "Myasnikyan",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 479,
+        "name": "Nalbandyan",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 483,
+        "name": "Nor Armavir",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 488,
+        "name": "Norakert",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 504,
+        "name": "P’shatavan",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 502,
+        "name": "Ptghunk’",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 509,
+        "name": "Sardarapat",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 519,
+        "name": "Shenavan",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 532,
+        "name": "Tandzut",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 533,
+        "name": "Taronik",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 539,
+        "name": "Tsaghkunk’",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 540,
+        "name": "Tsiatsan",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 549,
+        "name": "Vagharshapat",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 567,
+        "name": "Voskehat",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 575,
+        "name": "Yeghegnut",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 579,
+        "name": "Yeraskhahun",
+        "country": "ARM",
+        "state": "AV"
+    }
+]

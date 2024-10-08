@@ -1,1 +1,194 @@
-[{"id":0,"name":"Atambua","country":"IDN","state":"NT"},{"id":1,"name":"Ende","country":"IDN","state":"NT"},{"id":2,"name":"Kabupaten Alor","country":"IDN","state":"NT"},{"id":3,"name":"Kabupaten Belu","country":"IDN","state":"NT"},{"id":4,"name":"Kabupaten Ende","country":"IDN","state":"NT"},{"id":5,"name":"Kabupaten Flores Timur","country":"IDN","state":"NT"},{"id":6,"name":"Kabupaten Kupang","country":"IDN","state":"NT"},{"id":7,"name":"Kabupaten Lembata","country":"IDN","state":"NT"},{"id":8,"name":"Kabupaten Malaka","country":"IDN","state":"NT"},{"id":9,"name":"Kabupaten Manggarai","country":"IDN","state":"NT"},{"id":10,"name":"Kabupaten Manggarai Barat","country":"IDN","state":"NT"},{"id":11,"name":"Kabupaten Manggarai Timur","country":"IDN","state":"NT"},{"id":12,"name":"Kabupaten Nagekeo","country":"IDN","state":"NT"},{"id":13,"name":"Kabupaten Ngada","country":"IDN","state":"NT"},{"id":14,"name":"Kabupaten Rote Ndao","country":"IDN","state":"NT"},{"id":15,"name":"Kabupaten Sabu Raijua","country":"IDN","state":"NT"},{"id":16,"name":"Kabupaten Sikka","country":"IDN","state":"NT"},{"id":17,"name":"Kabupaten Sumba Barat","country":"IDN","state":"NT"},{"id":18,"name":"Kabupaten Sumba Barat Daya","country":"IDN","state":"NT"},{"id":19,"name":"Kabupaten Sumba Tengah","country":"IDN","state":"NT"},{"id":20,"name":"Kabupaten Sumba Timur","country":"IDN","state":"NT"},{"id":21,"name":"Kabupaten Timor Tengah Selatan","country":"IDN","state":"NT"},{"id":22,"name":"Kabupaten Timor Tengah Utara","country":"IDN","state":"NT"},{"id":23,"name":"Kefamenanu","country":"IDN","state":"NT"},{"id":24,"name":"Komodo","country":"IDN","state":"NT"},{"id":25,"name":"Kota Kupang","country":"IDN","state":"NT"},{"id":26,"name":"Kupang","country":"IDN","state":"NT"},{"id":27,"name":"Labuan Bajo","country":"IDN","state":"NT"},{"id":28,"name":"Maumere","country":"IDN","state":"NT"},{"id":29,"name":"Naisano Dua","country":"IDN","state":"NT"},{"id":30,"name":"Ruteng","country":"IDN","state":"NT"},{"id":31,"name":"Soe","country":"IDN","state":"NT"},{"id":32,"name":"Waingapu","country":"IDN","state":"NT"}]
+[
+    {
+        "id": 56184,
+        "name": "Atambua",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56272,
+        "name": "Ende",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56319,
+        "name": "Kabupaten Alor",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56352,
+        "name": "Kabupaten Belu",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56403,
+        "name": "Kabupaten Ende",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56406,
+        "name": "Kabupaten Flores Timur",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56475,
+        "name": "Kabupaten Kupang",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56493,
+        "name": "Kabupaten Lembata",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56510,
+        "name": "Kabupaten Malaka",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56524,
+        "name": "Kabupaten Manggarai",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56525,
+        "name": "Kabupaten Manggarai Barat",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56526,
+        "name": "Kabupaten Manggarai Timur",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56553,
+        "name": "Kabupaten Nagekeo",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56556,
+        "name": "Kabupaten Ngada",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56613,
+        "name": "Kabupaten Rote Ndao",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56614,
+        "name": "Kabupaten Sabu Raijua",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56632,
+        "name": "Kabupaten Sikka",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56648,
+        "name": "Kabupaten Sumba Barat",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56649,
+        "name": "Kabupaten Sumba Barat Daya",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56650,
+        "name": "Kabupaten Sumba Tengah",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56651,
+        "name": "Kabupaten Sumba Timur",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56680,
+        "name": "Kabupaten Timor Tengah Selatan",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56681,
+        "name": "Kabupaten Timor Tengah Utara",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56710,
+        "name": "Kefamenanu",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56721,
+        "name": "Komodo",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56826,
+        "name": "Kupang",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56830,
+        "name": "Labuan Bajo",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56866,
+        "name": "Maumere",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56883,
+        "name": "Naisano Dua",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56956,
+        "name": "Ruteng",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 56989,
+        "name": "Soe",
+        "country": "IDN",
+        "state": "NT"
+    },
+    {
+        "id": 57048,
+        "name": "Waingapu",
+        "country": "IDN",
+        "state": "NT"
+    }
+]

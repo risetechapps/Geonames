@@ -1,1 +1,260 @@
-[{"id":0,"name":"B\u00e1cs-Kiskun","iso3":"BK","country":"HUN"},{"id":1,"name":"Baranya","iso3":"BA","country":"HUN"},{"id":2,"name":"B\u00e9k\u00e9s","iso3":"BE","country":"HUN"},{"id":3,"name":"B\u00e9k\u00e9scsaba","iso3":"BC","country":"HUN"},{"id":4,"name":"Borsod-Aba\u00faj-Zempl\u00e9n","iso3":"BZ","country":"HUN"},{"id":5,"name":"Budapest","iso3":"BU","country":"HUN"},{"id":6,"name":"Csongr\u00e1d County","iso3":"CS","country":"HUN"},{"id":7,"name":"Debrecen","iso3":"DE","country":"HUN"},{"id":8,"name":"Duna\u00fajv\u00e1ros","iso3":"DU","country":"HUN"},{"id":9,"name":"Eger","iso3":"EG","country":"HUN"},{"id":10,"name":"\u00c9rd","iso3":"ER","country":"HUN"},{"id":11,"name":"Fej\u00e9r County","iso3":"FE","country":"HUN"},{"id":12,"name":"Gy\u0151r","iso3":"GY","country":"HUN"},{"id":13,"name":"Gy\u0151r-Moson-Sopron County","iso3":"GS","country":"HUN"},{"id":14,"name":"Hajd\u00fa-Bihar County","iso3":"HB","country":"HUN"},{"id":15,"name":"Heves County","iso3":"HE","country":"HUN"},{"id":16,"name":"H\u00f3dmez\u0151v\u00e1s\u00e1rhely","iso3":"HV","country":"HUN"},{"id":17,"name":"J\u00e1sz-Nagykun-Szolnok County","iso3":"JN","country":"HUN"},{"id":18,"name":"Kaposv\u00e1r","iso3":"KV","country":"HUN"},{"id":19,"name":"Kecskem\u00e9t","iso3":"KM","country":"HUN"},{"id":20,"name":"Kom\u00e1rom-Esztergom","iso3":"KE","country":"HUN"},{"id":21,"name":"Miskolc","iso3":"MI","country":"HUN"},{"id":22,"name":"Nagykanizsa","iso3":"NK","country":"HUN"},{"id":23,"name":"N\u00f3gr\u00e1d County","iso3":"NO","country":"HUN"},{"id":24,"name":"Ny\u00edregyh\u00e1za","iso3":"NY","country":"HUN"},{"id":25,"name":"P\u00e9cs","iso3":"PS","country":"HUN"},{"id":26,"name":"Pest County","iso3":"PE","country":"HUN"},{"id":27,"name":"Salg\u00f3tarj\u00e1n","iso3":"ST","country":"HUN"},{"id":28,"name":"Somogy County","iso3":"SO","country":"HUN"},{"id":29,"name":"Sopron","iso3":"SN","country":"HUN"},{"id":30,"name":"Szabolcs-Szatm\u00e1r-Bereg County","iso3":"SZ","country":"HUN"},{"id":31,"name":"Szeged","iso3":"SD","country":"HUN"},{"id":32,"name":"Sz\u00e9kesfeh\u00e9rv\u00e1r","iso3":"SF","country":"HUN"},{"id":33,"name":"Szeksz\u00e1rd","iso3":"SS","country":"HUN"},{"id":34,"name":"Szolnok","iso3":"SK","country":"HUN"},{"id":35,"name":"Szombathely","iso3":"SH","country":"HUN"},{"id":36,"name":"Tatab\u00e1nya","iso3":"TB","country":"HUN"},{"id":37,"name":"Tolna County","iso3":"TO","country":"HUN"},{"id":38,"name":"Vas County","iso3":"VA","country":"HUN"},{"id":39,"name":"Veszpr\u00e9m","iso3":"VM","country":"HUN"},{"id":40,"name":"Veszpr\u00e9m County","iso3":"VE","country":"HUN"},{"id":41,"name":"Zala County","iso3":"ZA","country":"HUN"},{"id":42,"name":"Zalaegerszeg","iso3":"ZE","country":"HUN"}]
+[
+    {
+        "id": 1048,
+        "name": "Bács-Kiskun",
+        "country": "HUN",
+        "state_code": "BK"
+    },
+    {
+        "id": 1055,
+        "name": "Baranya",
+        "country": "HUN",
+        "state_code": "BA"
+    },
+    {
+        "id": 1060,
+        "name": "Békés",
+        "country": "HUN",
+        "state_code": "BE"
+    },
+    {
+        "id": 1036,
+        "name": "Békéscsaba",
+        "country": "HUN",
+        "state_code": "BC"
+    },
+    {
+        "id": 1058,
+        "name": "Borsod-Abaúj-Zemplén",
+        "country": "HUN",
+        "state_code": "BZ"
+    },
+    {
+        "id": 1064,
+        "name": "Budapest",
+        "country": "HUN",
+        "state_code": "BU"
+    },
+    {
+        "id": 1031,
+        "name": "Csongrád County",
+        "country": "HUN",
+        "state_code": "CS"
+    },
+    {
+        "id": 1032,
+        "name": "Debrecen",
+        "country": "HUN",
+        "state_code": "DE"
+    },
+    {
+        "id": 1049,
+        "name": "Dunaújváros",
+        "country": "HUN",
+        "state_code": "DU"
+    },
+    {
+        "id": 1037,
+        "name": "Eger",
+        "country": "HUN",
+        "state_code": "EG"
+    },
+    {
+        "id": 1028,
+        "name": "Érd",
+        "country": "HUN",
+        "state_code": "ER"
+    },
+    {
+        "id": 1044,
+        "name": "Fejér County",
+        "country": "HUN",
+        "state_code": "FE"
+    },
+    {
+        "id": 1041,
+        "name": "Győr",
+        "country": "HUN",
+        "state_code": "GY"
+    },
+    {
+        "id": 1042,
+        "name": "Győr-Moson-Sopron County",
+        "country": "HUN",
+        "state_code": "GS"
+    },
+    {
+        "id": 1063,
+        "name": "Hajdú-Bihar County",
+        "country": "HUN",
+        "state_code": "HB"
+    },
+    {
+        "id": 1040,
+        "name": "Heves County",
+        "country": "HUN",
+        "state_code": "HE"
+    },
+    {
+        "id": 1027,
+        "name": "Hódmezővásárhely",
+        "country": "HUN",
+        "state_code": "HV"
+    },
+    {
+        "id": 1043,
+        "name": "Jász-Nagykun-Szolnok County",
+        "country": "HUN",
+        "state_code": "JN"
+    },
+    {
+        "id": 1067,
+        "name": "Kaposvár",
+        "country": "HUN",
+        "state_code": "KV"
+    },
+    {
+        "id": 1056,
+        "name": "Kecskemét",
+        "country": "HUN",
+        "state_code": "KM"
+    },
+    {
+        "id": 5085,
+        "name": "Komárom-Esztergom",
+        "country": "HUN",
+        "state_code": "KE"
+    },
+    {
+        "id": 1065,
+        "name": "Miskolc",
+        "country": "HUN",
+        "state_code": "MI"
+    },
+    {
+        "id": 1030,
+        "name": "Nagykanizsa",
+        "country": "HUN",
+        "state_code": "NK"
+    },
+    {
+        "id": 1051,
+        "name": "Nógrád County",
+        "country": "HUN",
+        "state_code": "NO"
+    },
+    {
+        "id": 1034,
+        "name": "Nyíregyháza",
+        "country": "HUN",
+        "state_code": "NY"
+    },
+    {
+        "id": 1053,
+        "name": "Pécs",
+        "country": "HUN",
+        "state_code": "PS"
+    },
+    {
+        "id": 1059,
+        "name": "Pest County",
+        "country": "HUN",
+        "state_code": "PE"
+    },
+    {
+        "id": 1068,
+        "name": "Salgótarján",
+        "country": "HUN",
+        "state_code": "ST"
+    },
+    {
+        "id": 1035,
+        "name": "Somogy County",
+        "country": "HUN",
+        "state_code": "SO"
+    },
+    {
+        "id": 1057,
+        "name": "Sopron",
+        "country": "HUN",
+        "state_code": "SN"
+    },
+    {
+        "id": 1045,
+        "name": "Szabolcs-Szatmár-Bereg County",
+        "country": "HUN",
+        "state_code": "SZ"
+    },
+    {
+        "id": 1029,
+        "name": "Szeged",
+        "country": "HUN",
+        "state_code": "SD"
+    },
+    {
+        "id": 1033,
+        "name": "Székesfehérvár",
+        "country": "HUN",
+        "state_code": "SF"
+    },
+    {
+        "id": 1061,
+        "name": "Szekszárd",
+        "country": "HUN",
+        "state_code": "SS"
+    },
+    {
+        "id": 1047,
+        "name": "Szolnok",
+        "country": "HUN",
+        "state_code": "SK"
+    },
+    {
+        "id": 1052,
+        "name": "Szombathely",
+        "country": "HUN",
+        "state_code": "SH"
+    },
+    {
+        "id": 1066,
+        "name": "Tatabánya",
+        "country": "HUN",
+        "state_code": "TB"
+    },
+    {
+        "id": 1038,
+        "name": "Tolna County",
+        "country": "HUN",
+        "state_code": "TO"
+    },
+    {
+        "id": 1039,
+        "name": "Vas County",
+        "country": "HUN",
+        "state_code": "VA"
+    },
+    {
+        "id": 1062,
+        "name": "Veszprém",
+        "country": "HUN",
+        "state_code": "VM"
+    },
+    {
+        "id": 1054,
+        "name": "Veszprém County",
+        "country": "HUN",
+        "state_code": "VE"
+    },
+    {
+        "id": 1046,
+        "name": "Zala County",
+        "country": "HUN",
+        "state_code": "ZA"
+    },
+    {
+        "id": 1050,
+        "name": "Zalaegerszeg",
+        "country": "HUN",
+        "state_code": "ZE"
+    }
+]

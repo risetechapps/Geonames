@@ -1,1 +1,1322 @@
-[{"id":0,"name":"Agullana","country":"ESP","state":"GI"},{"id":1,"name":"Aiguaviva","country":"ESP","state":"GI"},{"id":2,"name":"Albany\u00e0","country":"ESP","state":"GI"},{"id":3,"name":"Albons","country":"ESP","state":"GI"},{"id":4,"name":"Alp","country":"ESP","state":"GI"},{"id":5,"name":"Amer","country":"ESP","state":"GI"},{"id":6,"name":"Angl\u00e8s","country":"ESP","state":"GI"},{"id":7,"name":"Arb\u00facies","country":"ESP","state":"GI"},{"id":8,"name":"Argelaguer","country":"ESP","state":"GI"},{"id":9,"name":"Armentera L","country":"ESP","state":"GI"},{"id":10,"name":"Avinyonet de Puigvent\u00f3s","country":"ESP","state":"GI"},{"id":11,"name":"Banyoles","country":"ESP","state":"GI"},{"id":12,"name":"B\u00e0scara","country":"ESP","state":"GI"},{"id":13,"name":"Begur","country":"ESP","state":"GI"},{"id":14,"name":"Bellcaire dEmpord\u00e0","country":"ESP","state":"GI"},{"id":15,"name":"Besal\u00fa","country":"ESP","state":"GI"},{"id":16,"name":"Bescan\u00f3","country":"ESP","state":"GI"},{"id":17,"name":"Beuda","country":"ESP","state":"GI"},{"id":18,"name":"Bisbal dEmpord\u00e0 La","country":"ESP","state":"GI"},{"id":19,"name":"Biure","country":"ESP","state":"GI"},{"id":20,"name":"Blanes","country":"ESP","state":"GI"},{"id":21,"name":"Boadella i les Escaules","country":"ESP","state":"GI"},{"id":22,"name":"Bolvir","country":"ESP","state":"GI"},{"id":23,"name":"Bordils","country":"ESP","state":"GI"},{"id":24,"name":"Borrass\u00e0","country":"ESP","state":"GI"},{"id":25,"name":"Breda","country":"ESP","state":"GI"},{"id":26,"name":"Brunyola","country":"ESP","state":"GI"},{"id":27,"name":"Cabanelles","country":"ESP","state":"GI"},{"id":28,"name":"Cadaqu\u00e9s","country":"ESP","state":"GI"},{"id":29,"name":"Caldes de Malavella","country":"ESP","state":"GI"},{"id":30,"name":"Calonge","country":"ESP","state":"GI"},{"id":31,"name":"Cam\u00f3s","country":"ESP","state":"GI"},{"id":32,"name":"Campdev\u00e0nol","country":"ESP","state":"GI"},{"id":33,"name":"Campelles","country":"ESP","state":"GI"},{"id":34,"name":"Campllong","country":"ESP","state":"GI"},{"id":35,"name":"Camprodon","country":"ESP","state":"GI"},{"id":36,"name":"Canet dAdri","country":"ESP","state":"GI"},{"id":37,"name":"Cantallops","country":"ESP","state":"GI"},{"id":38,"name":"Capmany","country":"ESP","state":"GI"},{"id":39,"name":"Cass\u00e0 de la Selva","country":"ESP","state":"GI"},{"id":40,"name":"Castell-Platja dAro","country":"ESP","state":"GI"},{"id":41,"name":"Castellfollit de la Roca","country":"ESP","state":"GI"},{"id":42,"name":"Castell\u00f3 dEmp\u00faries","country":"ESP","state":"GI"},{"id":43,"name":"Cellera de Ter La","country":"ESP","state":"GI"},{"id":44,"name":"Celr\u00e0","country":"ESP","state":"GI"},{"id":45,"name":"Cervi\u00e0 de Ter","country":"ESP","state":"GI"},{"id":46,"name":"Cistella","country":"ESP","state":"GI"},{"id":47,"name":"Colera","country":"ESP","state":"GI"},{"id":48,"name":"Colomers","country":"ESP","state":"GI"},{"id":49,"name":"Cor\u00e7\u00e0","country":"ESP","state":"GI"},{"id":50,"name":"Cornell\u00e0 del Terri","country":"ESP","state":"GI"},{"id":51,"name":"Crespi\u00e0","country":"ESP","state":"GI"},{"id":52,"name":"Cru\u00eflles  Monells i Sant Sadurn\u00ed de lHeura","country":"ESP","state":"GI"},{"id":53,"name":"Darnius","country":"ESP","state":"GI"},{"id":54,"name":"Das","country":"ESP","state":"GI"},{"id":55,"name":"Escala L","country":"ESP","state":"GI"},{"id":56,"name":"Espinelves","country":"ESP","state":"GI"},{"id":57,"name":"Espolla","country":"ESP","state":"GI"},{"id":58,"name":"Esponell\u00e0","country":"ESP","state":"GI"},{"id":59,"name":"Far dEmpord\u00e0 El","country":"ESP","state":"GI"},{"id":60,"name":"Figueres","country":"ESP","state":"GI"},{"id":61,"name":"Fla\u00e7\u00e0","country":"ESP","state":"GI"},{"id":62,"name":"Foix\u00e0","country":"ESP","state":"GI"},{"id":63,"name":"Fontanals de Cerdanya","country":"ESP","state":"GI"},{"id":64,"name":"Fontanilles","country":"ESP","state":"GI"},{"id":65,"name":"Fontcoberta","country":"ESP","state":"GI"},{"id":66,"name":"Forallac","country":"ESP","state":"GI"},{"id":67,"name":"Fornells de la Selva","country":"ESP","state":"GI"},{"id":68,"name":"Forti\u00e0","country":"ESP","state":"GI"},{"id":69,"name":"Garrig\u00e0s","country":"ESP","state":"GI"},{"id":70,"name":"Garrigoles","country":"ESP","state":"GI"},{"id":71,"name":"Garriguella","country":"ESP","state":"GI"},{"id":72,"name":"Ger","country":"ESP","state":"GI"},{"id":73,"name":"Girona","country":"ESP","state":"GI"},{"id":74,"name":"Gombr\u00e8n","country":"ESP","state":"GI"},{"id":75,"name":"Gualta","country":"ESP","state":"GI"},{"id":76,"name":"Guils de Cerdanya","country":"ESP","state":"GI"},{"id":77,"name":"Hostalric","country":"ESP","state":"GI"},{"id":78,"name":"Is\u00f2vol","country":"ESP","state":"GI"},{"id":79,"name":"Jafre","country":"ESP","state":"GI"},{"id":80,"name":"Jonquera La","country":"ESP","state":"GI"},{"id":81,"name":"Jui\u00e0","country":"ESP","state":"GI"},{"id":82,"name":"Llad\u00f3","country":"ESP","state":"GI"},{"id":83,"name":"Llagostera","country":"ESP","state":"GI"},{"id":84,"name":"Llambilles","country":"ESP","state":"GI"},{"id":85,"name":"Llanars","country":"ESP","state":"GI"},{"id":86,"name":"Llan\u00e7\u00e0","country":"ESP","state":"GI"},{"id":87,"name":"Llers","country":"ESP","state":"GI"},{"id":88,"name":"Ll\u00edvia","country":"ESP","state":"GI"},{"id":89,"name":"Lloret de Mar","country":"ESP","state":"GI"},{"id":90,"name":"Llosses Les","country":"ESP","state":"GI"},{"id":91,"name":"Ma\u00e7anet de Cabrenys","country":"ESP","state":"GI"},{"id":92,"name":"Ma\u00e7anet de la Selva","country":"ESP","state":"GI"},{"id":93,"name":"Madremanya","country":"ESP","state":"GI"},{"id":94,"name":"Mai\u00e0 de Montcal","country":"ESP","state":"GI"},{"id":95,"name":"Masarac","country":"ESP","state":"GI"},{"id":96,"name":"Massanes","country":"ESP","state":"GI"},{"id":97,"name":"Meranges","country":"ESP","state":"GI"},{"id":98,"name":"Mieres","country":"ESP","state":"GI"},{"id":99,"name":"Mollet de Peralada","country":"ESP","state":"GI"},{"id":100,"name":"Moll\u00f3","country":"ESP","state":"GI"},{"id":101,"name":"Mont-ras","country":"ESP","state":"GI"},{"id":102,"name":"Montagut i Oix","country":"ESP","state":"GI"},{"id":103,"name":"Navata","country":"ESP","state":"GI"},{"id":104,"name":"Ogassa","country":"ESP","state":"GI"},{"id":105,"name":"Olot","country":"ESP","state":"GI"},{"id":106,"name":"Ordis","country":"ESP","state":"GI"},{"id":107,"name":"Osor","country":"ESP","state":"GI"},{"id":108,"name":"Palafrugell","country":"ESP","state":"GI"},{"id":109,"name":"Palam\u00f3s","country":"ESP","state":"GI"},{"id":110,"name":"Palau de Santa Eul\u00e0lia","country":"ESP","state":"GI"},{"id":111,"name":"Palau-sator","country":"ESP","state":"GI"},{"id":112,"name":"Palau-saverdera","country":"ESP","state":"GI"},{"id":113,"name":"Palol de Revardit","country":"ESP","state":"GI"},{"id":114,"name":"Pals","country":"ESP","state":"GI"},{"id":115,"name":"Pardines","country":"ESP","state":"GI"},{"id":116,"name":"Parlav\u00e0","country":"ESP","state":"GI"},{"id":117,"name":"Pau","country":"ESP","state":"GI"},{"id":118,"name":"Pedret i Marz\u00e0","country":"ESP","state":"GI"},{"id":119,"name":"Pera La","country":"ESP","state":"GI"},{"id":120,"name":"Peralada","country":"ESP","state":"GI"},{"id":121,"name":"Planes dHostoles Les","country":"ESP","state":"GI"},{"id":122,"name":"Planoles","country":"ESP","state":"GI"},{"id":123,"name":"Pont de Molins","country":"ESP","state":"GI"},{"id":124,"name":"Pont\u00f3s","country":"ESP","state":"GI"},{"id":125,"name":"Porqueres","country":"ESP","state":"GI"},{"id":126,"name":"Port de la Selva El","country":"ESP","state":"GI"},{"id":127,"name":"Portbou","country":"ESP","state":"GI"},{"id":128,"name":"Preses Les","country":"ESP","state":"GI"},{"id":129,"name":"Puigcerd\u00e0","country":"ESP","state":"GI"},{"id":130,"name":"Quart","country":"ESP","state":"GI"},{"id":131,"name":"Queralbs","country":"ESP","state":"GI"},{"id":132,"name":"Rab\u00f3s","country":"ESP","state":"GI"},{"id":133,"name":"Regenc\u00f3s","country":"ESP","state":"GI"},{"id":134,"name":"Ribes de Freser","country":"ESP","state":"GI"},{"id":135,"name":"Riells i Viabrea","country":"ESP","state":"GI"},{"id":136,"name":"Ripoll","country":"ESP","state":"GI"},{"id":137,"name":"Riudarenes","country":"ESP","state":"GI"},{"id":138,"name":"Riudaura","country":"ESP","state":"GI"},{"id":139,"name":"Riudellots de la Selva","country":"ESP","state":"GI"},{"id":140,"name":"Riumors","country":"ESP","state":"GI"},{"id":141,"name":"Roses","country":"ESP","state":"GI"},{"id":142,"name":"Rupi\u00e0","country":"ESP","state":"GI"},{"id":143,"name":"Sales de Llierca","country":"ESP","state":"GI"},{"id":144,"name":"Salt","country":"ESP","state":"GI"},{"id":145,"name":"Sant Andreu Salou","country":"ESP","state":"GI"},{"id":146,"name":"Sant Aniol de Finestres","country":"ESP","state":"GI"},{"id":147,"name":"Sant Climent Sescebes","country":"ESP","state":"GI"},{"id":148,"name":"Sant Feliu de Buixalleu","country":"ESP","state":"GI"},{"id":149,"name":"Sant Feliu de Gu\u00edxols","country":"ESP","state":"GI"},{"id":150,"name":"Sant Feliu de Pallerols","country":"ESP","state":"GI"},{"id":151,"name":"Sant Ferriol","country":"ESP","state":"GI"},{"id":152,"name":"Sant Gregori","country":"ESP","state":"GI"},{"id":153,"name":"Sant Hilari Sacalm","country":"ESP","state":"GI"},{"id":154,"name":"Sant Jaume de Llierca","country":"ESP","state":"GI"},{"id":155,"name":"Sant Joan de les Abadesses","country":"ESP","state":"GI"},{"id":156,"name":"Sant Joan de Mollet","country":"ESP","state":"GI"},{"id":157,"name":"Sant Joan les Fonts","country":"ESP","state":"GI"},{"id":158,"name":"Sant Jordi Desvalls","country":"ESP","state":"GI"},{"id":159,"name":"Sant Juli\u00e0 de Ramis","country":"ESP","state":"GI"},{"id":160,"name":"Sant Juli\u00e0 del Llor i Bonmat\u00ed","country":"ESP","state":"GI"},{"id":161,"name":"Sant Lloren\u00e7 de la Muga","country":"ESP","state":"GI"},{"id":162,"name":"Sant Mart\u00ed de Ll\u00e9mena","country":"ESP","state":"GI"},{"id":163,"name":"Sant Mart\u00ed Vell","country":"ESP","state":"GI"},{"id":164,"name":"Sant Miquel de Campmajor","country":"ESP","state":"GI"},{"id":165,"name":"Sant Miquel de Fluvi\u00e0","country":"ESP","state":"GI"},{"id":166,"name":"Sant Mori","country":"ESP","state":"GI"},{"id":167,"name":"Sant Pau de Seg\u00faries","country":"ESP","state":"GI"},{"id":168,"name":"Sant Pere Pescador","country":"ESP","state":"GI"},{"id":169,"name":"Santa Coloma de Farners","country":"ESP","state":"GI"},{"id":170,"name":"Santa Cristina dAro","country":"ESP","state":"GI"},{"id":171,"name":"Santa Llogaia d\u00c0lguema","country":"ESP","state":"GI"},{"id":172,"name":"Santa Pau","country":"ESP","state":"GI"},{"id":173,"name":"Sarri\u00e0 de Ter","country":"ESP","state":"GI"},{"id":174,"name":"Saus  Camallera i Llampaies","country":"ESP","state":"GI"},{"id":175,"name":"Selva de Mar La","country":"ESP","state":"GI"},{"id":176,"name":"Seriny\u00e0","country":"ESP","state":"GI"},{"id":177,"name":"Serra de Dar\u00f3","country":"ESP","state":"GI"},{"id":178,"name":"Setcases","country":"ESP","state":"GI"},{"id":179,"name":"Sils","country":"ESP","state":"GI"},{"id":180,"name":"Siurana","country":"ESP","state":"GI"},{"id":181,"name":"Susqueda","country":"ESP","state":"GI"},{"id":182,"name":"Tallada dEmpord\u00e0 La","country":"ESP","state":"GI"},{"id":183,"name":"Terrades","country":"ESP","state":"GI"},{"id":184,"name":"Torrent","country":"ESP","state":"GI"},{"id":185,"name":"Torroella de Fluvi\u00e0","country":"ESP","state":"GI"},{"id":186,"name":"Torroella de Montgr\u00ed","country":"ESP","state":"GI"},{"id":187,"name":"Tortell\u00e0","country":"ESP","state":"GI"},{"id":188,"name":"Toses","country":"ESP","state":"GI"},{"id":189,"name":"Tossa de Mar","country":"ESP","state":"GI"},{"id":190,"name":"Ull\u00e0","country":"ESP","state":"GI"},{"id":191,"name":"Ullastret","country":"ESP","state":"GI"},{"id":192,"name":"Ultramort","country":"ESP","state":"GI"},{"id":193,"name":"Ur\u00fas","country":"ESP","state":"GI"},{"id":194,"name":"Vajol La","country":"ESP","state":"GI"},{"id":195,"name":"Vall de Bianya La","country":"ESP","state":"GI"},{"id":196,"name":"Vall den Bas La","country":"ESP","state":"GI"},{"id":197,"name":"Vall-llobrega","country":"ESP","state":"GI"},{"id":198,"name":"Vallfogona de Ripoll\u00e8s","country":"ESP","state":"GI"},{"id":199,"name":"Ventall\u00f3","country":"ESP","state":"GI"},{"id":200,"name":"Verges","country":"ESP","state":"GI"},{"id":201,"name":"Vidr\u00e0","country":"ESP","state":"GI"},{"id":202,"name":"Vidreres","country":"ESP","state":"GI"},{"id":203,"name":"Vila-sacra","country":"ESP","state":"GI"},{"id":204,"name":"Vilabertran","country":"ESP","state":"GI"},{"id":205,"name":"Vilablareix","country":"ESP","state":"GI"},{"id":206,"name":"Viladamat","country":"ESP","state":"GI"},{"id":207,"name":"Viladasens","country":"ESP","state":"GI"},{"id":208,"name":"Vilademuls","country":"ESP","state":"GI"},{"id":209,"name":"Viladrau","country":"ESP","state":"GI"},{"id":210,"name":"Vilafant","country":"ESP","state":"GI"},{"id":211,"name":"Vilaju\u00efga","country":"ESP","state":"GI"},{"id":212,"name":"Vilallonga de Ter","country":"ESP","state":"GI"},{"id":213,"name":"Vilamacolum","country":"ESP","state":"GI"},{"id":214,"name":"Vilamalla","country":"ESP","state":"GI"},{"id":215,"name":"Vilamaniscle","country":"ESP","state":"GI"},{"id":216,"name":"Vilanant","country":"ESP","state":"GI"},{"id":217,"name":"Vila\u00fcr","country":"ESP","state":"GI"},{"id":218,"name":"Vilob\u00ed dOnyar","country":"ESP","state":"GI"},{"id":219,"name":"Vilopriu","country":"ESP","state":"GI"}]
+[
+    {
+        "id": 31967,
+        "name": "Agullana",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 31981,
+        "name": "Aiguaviva",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151631,
+        "name": "Albanyà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32050,
+        "name": "Albons",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151633,
+        "name": "Alp",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151634,
+        "name": "Amer",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32379,
+        "name": "Anglès",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32427,
+        "name": "Arbúcies",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32468,
+        "name": "Argelaguer",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151635,
+        "name": "Armentera L",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151636,
+        "name": "Avinyonet de Puigventós",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32634,
+        "name": "Banyoles",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33047,
+        "name": "Bàscara",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32729,
+        "name": "Begur",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151638,
+        "name": "Bellcaire dEmpordà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32877,
+        "name": "Besalú",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32878,
+        "name": "Bescanó",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32883,
+        "name": "Beuda",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151639,
+        "name": "Bisbal dEmpordà La",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151728,
+        "name": "Biure",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32909,
+        "name": "Blanes",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151641,
+        "name": "Boadella i les Escaules",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32942,
+        "name": "Bolvir",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32952,
+        "name": "Bordils",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32960,
+        "name": "Borrassà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 32976,
+        "name": "Breda",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151640,
+        "name": "Brunyola",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33066,
+        "name": "Cabanelles",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33116,
+        "name": "Cadaqués",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151642,
+        "name": "Caldes de Malavella",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33150,
+        "name": "Calonge",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33215,
+        "name": "Camós",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33185,
+        "name": "Campdevànol",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151643,
+        "name": "Campelles",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151644,
+        "name": "Campllong",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33213,
+        "name": "Camprodon",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151645,
+        "name": "Canet dAdri",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33252,
+        "name": "Cantallops",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33271,
+        "name": "Capmany",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33395,
+        "name": "Cassà de la Selva",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151649,
+        "name": "Castell-Platja dAro",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151647,
+        "name": "Castellfollit de la Roca",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151648,
+        "name": "Castelló dEmpúries",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151712,
+        "name": "Cellera de Ter La",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33566,
+        "name": "Celrà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33605,
+        "name": "Cervià de Ter",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33692,
+        "name": "Cistella",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33726,
+        "name": "Colera",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151650,
+        "name": "Colomers",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151651,
+        "name": "Corçà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33795,
+        "name": "Cornellà del Terri",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33833,
+        "name": "Crespià",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151729,
+        "name": "Cruïlles  Monells i Sant Sadurní de lHeura",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 33912,
+        "name": "Darnius",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151652,
+        "name": "Das",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151653,
+        "name": "Escala L",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151654,
+        "name": "Espinelves",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34129,
+        "name": "Espolla",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34130,
+        "name": "Esponellà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151632,
+        "name": "Far dEmpordà El",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34184,
+        "name": "Figueres",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151655,
+        "name": "Flaçà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34199,
+        "name": "Foixà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151656,
+        "name": "Fontanals de Cerdanya",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151657,
+        "name": "Fontanilles",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151658,
+        "name": "Fontcoberta",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151730,
+        "name": "Forallac",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34225,
+        "name": "Fornells de la Selva",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34230,
+        "name": "Fortià",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34425,
+        "name": "Garrigàs",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151659,
+        "name": "Garrigoles",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34424,
+        "name": "Garriguella",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151660,
+        "name": "Ger",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34470,
+        "name": "Girona",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151661,
+        "name": "Gombrèn",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34534,
+        "name": "Gualta",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151662,
+        "name": "Guils de Cerdanya",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34671,
+        "name": "Hostalric",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151663,
+        "name": "Isòvol",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34790,
+        "name": "Jafre",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151664,
+        "name": "Jonquera La",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 34827,
+        "name": "Juià",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 35063,
+        "name": "Lladó",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 35064,
+        "name": "Llagostera",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 35066,
+        "name": "Llambilles",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151665,
+        "name": "Llanars",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 35070,
+        "name": "Llançà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 35077,
+        "name": "Llers",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151666,
+        "name": "Llívia",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 35084,
+        "name": "Lloret de Mar",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151667,
+        "name": "Llosses Les",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151671,
+        "name": "Maçanet de Cabrenys",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151672,
+        "name": "Maçanet de la Selva",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 35185,
+        "name": "Madremanya",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151668,
+        "name": "Maià de Montcal",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151670,
+        "name": "Masarac",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 35327,
+        "name": "Massanes",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151669,
+        "name": "Meranges",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151673,
+        "name": "Mieres",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 35487,
+        "name": "Mollet de Peralada",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151674,
+        "name": "Molló",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151676,
+        "name": "Mont-ras",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151675,
+        "name": "Montagut i Oix",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 35786,
+        "name": "Navata",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151677,
+        "name": "Ogassa",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 35912,
+        "name": "Olot",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 35940,
+        "name": "Ordis",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151678,
+        "name": "Osor",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36014,
+        "name": "Palafrugell",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36015,
+        "name": "Palamós",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151679,
+        "name": "Palau de Santa Eulàlia",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36017,
+        "name": "Palau-sator",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151680,
+        "name": "Palau-saverdera",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36034,
+        "name": "Palol de Revardit",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36042,
+        "name": "Pals",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151681,
+        "name": "Pardines",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151682,
+        "name": "Parlavà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36083,
+        "name": "Pau",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151683,
+        "name": "Pedret i Marzà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151684,
+        "name": "Pera La",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151685,
+        "name": "Peralada",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151686,
+        "name": "Planes dHostoles Les",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36235,
+        "name": "Planoles",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36271,
+        "name": "Pont de Molins",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36276,
+        "name": "Pontós",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151687,
+        "name": "Porqueres",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151689,
+        "name": "Port de la Selva El",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36287,
+        "name": "Portbou",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151688,
+        "name": "Preses Les",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36462,
+        "name": "Puigcerdà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151690,
+        "name": "Quart",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151646,
+        "name": "Queralbs",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36537,
+        "name": "Rabós",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36564,
+        "name": "Regencós",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36617,
+        "name": "Ribes de Freser",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151691,
+        "name": "Riells i Viabrea",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36632,
+        "name": "Ripoll",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151692,
+        "name": "Riudarenes",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151693,
+        "name": "Riudaura",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36636,
+        "name": "Riudellots de la Selva",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36638,
+        "name": "Riumors",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36679,
+        "name": "Roses",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36704,
+        "name": "Rupià",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36760,
+        "name": "Sales de Llierca",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36778,
+        "name": "Salt",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36953,
+        "name": "Sant Andreu Salou",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151709,
+        "name": "Sant Aniol de Finestres",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151694,
+        "name": "Sant Climent Sescebes",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151695,
+        "name": "Sant Feliu de Buixalleu",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36964,
+        "name": "Sant Feliu de Guíxols",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151696,
+        "name": "Sant Feliu de Pallerols",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36966,
+        "name": "Sant Ferriol",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151697,
+        "name": "Sant Gregori",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36970,
+        "name": "Sant Hilari Sacalm",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151698,
+        "name": "Sant Jaume de Llierca",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36976,
+        "name": "Sant Joan de les Abadesses",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151699,
+        "name": "Sant Joan de Mollet",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36977,
+        "name": "Sant Joan les Fonts",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36979,
+        "name": "Sant Jordi Desvalls",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151700,
+        "name": "Sant Julià de Ramis",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151731,
+        "name": "Sant Julià del Llor i Bonmatí",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151702,
+        "name": "Sant Llorenç de la Muga",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151703,
+        "name": "Sant Martí de Llémena",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36987,
+        "name": "Sant Martí Vell",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36991,
+        "name": "Sant Miquel de Campmajor",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151704,
+        "name": "Sant Miquel de Fluvià",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151705,
+        "name": "Sant Mori",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151706,
+        "name": "Sant Pau de Segúries",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 36992,
+        "name": "Sant Pere Pescador",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37016,
+        "name": "Santa Coloma de Farners",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151707,
+        "name": "Santa Cristina dAro",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151708,
+        "name": "Santa Llogaia dÀlguema",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37096,
+        "name": "Santa Pau",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37171,
+        "name": "Sarrià de Ter",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151710,
+        "name": "Saus  Camallera i Llampaies",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151711,
+        "name": "Selva de Mar La",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151713,
+        "name": "Serinyà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37219,
+        "name": "Serra de Daró",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151714,
+        "name": "Setcases",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37257,
+        "name": "Sils",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37268,
+        "name": "Siurana",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37334,
+        "name": "Susqueda",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151715,
+        "name": "Tallada dEmpordà La",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151716,
+        "name": "Terrades",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37565,
+        "name": "Torrent",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37590,
+        "name": "Torroella de Fluvià",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37591,
+        "name": "Torroella de Montgrí",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151717,
+        "name": "Tortellà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151718,
+        "name": "Toses",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37604,
+        "name": "Tossa de Mar",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37683,
+        "name": "Ullà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151719,
+        "name": "Ullastret",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37684,
+        "name": "Ultramort",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37702,
+        "name": "Urús",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151637,
+        "name": "Vajol La",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151721,
+        "name": "Vall de Bianya La",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151720,
+        "name": "Vall den Bas La",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151722,
+        "name": "Vall-llobrega",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151701,
+        "name": "Vallfogona de Ripollès",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37939,
+        "name": "Ventalló",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37953,
+        "name": "Verges",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37967,
+        "name": "Vidrà",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37966,
+        "name": "Vidreres",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151726,
+        "name": "Vila-sacra",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37975,
+        "name": "Vilabertran",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37976,
+        "name": "Vilablareix",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151723,
+        "name": "Viladamat",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37977,
+        "name": "Viladasens",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37979,
+        "name": "Vilademuls",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37980,
+        "name": "Viladrau",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37981,
+        "name": "Vilafant",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37986,
+        "name": "Vilajuïga",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151725,
+        "name": "Vilallonga de Ter",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37988,
+        "name": "Vilamacolum",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37989,
+        "name": "Vilamalla",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37990,
+        "name": "Vilamaniscle",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 37992,
+        "name": "Vilanant",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151724,
+        "name": "Vilaür",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 151727,
+        "name": "Vilobí dOnyar",
+        "country": "ESP",
+        "state": "GI"
+    },
+    {
+        "id": 38382,
+        "name": "Vilopriu",
+        "country": "ESP",
+        "state": "GI"
+    }
+]

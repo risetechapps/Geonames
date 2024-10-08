@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
     {
         "id": 2092,
@@ -60,67 +59,4 @@
         "country": "SSD",
         "state_code": "EW"
     }
-=======
-[
-    {
-        "id": 2092,
-        "name": "Central Equatoria",
-        "country": "SSD",
-        "state": "EC"
-    },
-    {
-        "id": 2093,
-        "name": "Eastern Equatoria",
-        "country": "SSD",
-        "state": "EE"
-    },
-    {
-        "id": 2094,
-        "name": "Jonglei State",
-        "country": "SSD",
-        "state": "JG"
-    },
-    {
-        "id": 2090,
-        "name": "Lakes",
-        "country": "SSD",
-        "state": "LK"
-    },
-    {
-        "id": 2088,
-        "name": "Northern Bahr el Ghazal",
-        "country": "SSD",
-        "state": "BN"
-    },
-    {
-        "id": 2085,
-        "name": "Unity",
-        "country": "SSD",
-        "state": "UY"
-    },
-    {
-        "id": 2086,
-        "name": "Upper Nile",
-        "country": "SSD",
-        "state": "NU"
-    },
-    {
-        "id": 2087,
-        "name": "Warrap",
-        "country": "SSD",
-        "state": "WR"
-    },
-    {
-        "id": 2091,
-        "name": "Western Bahr el Ghazal",
-        "country": "SSD",
-        "state": "BW"
-    },
-    {
-        "id": 2089,
-        "name": "Western Equatoria",
-        "country": "SSD",
-        "state": "EW"
-    }
->>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

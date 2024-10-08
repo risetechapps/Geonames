@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
     {
         "id": 3067,
@@ -60,67 +59,4 @@
         "country": "BWA",
         "state_code": "SO"
     }
-=======
-[
-    {
-        "id": 3067,
-        "name": "Central District",
-        "country": "BWA",
-        "state": "CE"
-    },
-    {
-        "id": 3061,
-        "name": "Ghanzi District",
-        "country": "BWA",
-        "state": "GH"
-    },
-    {
-        "id": 3066,
-        "name": "Kgalagadi District",
-        "country": "BWA",
-        "state": "KG"
-    },
-    {
-        "id": 3062,
-        "name": "Kgatleng District",
-        "country": "BWA",
-        "state": "KL"
-    },
-    {
-        "id": 3069,
-        "name": "Kweneng District",
-        "country": "BWA",
-        "state": "KW"
-    },
-    {
-        "id": 3060,
-        "name": "Ngamiland",
-        "country": "BWA",
-        "state": "NG"
-    },
-    {
-        "id": 3068,
-        "name": "North-East District",
-        "country": "BWA",
-        "state": "NE"
-    },
-    {
-        "id": 3065,
-        "name": "North-West District",
-        "country": "BWA",
-        "state": "NW"
-    },
-    {
-        "id": 3064,
-        "name": "South-East District",
-        "country": "BWA",
-        "state": "SE"
-    },
-    {
-        "id": 3063,
-        "name": "Southern District",
-        "country": "BWA",
-        "state": "SO"
-    }
->>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

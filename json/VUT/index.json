@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
     {
         "id": 4775,
@@ -36,43 +35,4 @@
         "country": "VUT",
         "state_code": "TOB"
     }
-=======
-[
-    {
-        "id": 4775,
-        "name": "Malampa",
-        "country": "VUT",
-        "state": "MAP"
-    },
-    {
-        "id": 4773,
-        "name": "Penama",
-        "country": "VUT",
-        "state": "PAM"
-    },
-    {
-        "id": 4776,
-        "name": "Sanma",
-        "country": "VUT",
-        "state": "SAM"
-    },
-    {
-        "id": 4774,
-        "name": "Shefa",
-        "country": "VUT",
-        "state": "SEE"
-    },
-    {
-        "id": 4777,
-        "name": "Tafea",
-        "country": "VUT",
-        "state": "TAE"
-    },
-    {
-        "id": 4772,
-        "name": "Torba",
-        "country": "VUT",
-        "state": "TOB"
-    }
->>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

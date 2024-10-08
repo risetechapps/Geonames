@@ -1,1 +1,86 @@
-[{"id":0,"name":"Ahuachap\u00e1n Department","iso3":"AH","country":"SLV"},{"id":1,"name":"Caba\u00f1as Department","iso3":"CA","country":"SLV"},{"id":2,"name":"Chalatenango Department","iso3":"CH","country":"SLV"},{"id":3,"name":"Cuscatl\u00e1n Department","iso3":"CU","country":"SLV"},{"id":4,"name":"La Libertad Department","iso3":"LI","country":"SLV"},{"id":5,"name":"La Paz Department","iso3":"PA","country":"SLV"},{"id":6,"name":"La Uni\u00f3n Department","iso3":"UN","country":"SLV"},{"id":7,"name":"Moraz\u00e1n Department","iso3":"MO","country":"SLV"},{"id":8,"name":"San Miguel Department","iso3":"SM","country":"SLV"},{"id":9,"name":"San Salvador Department","iso3":"SS","country":"SLV"},{"id":10,"name":"San Vicente Department","iso3":"SV","country":"SLV"},{"id":11,"name":"Santa Ana Department","iso3":"SA","country":"SLV"},{"id":12,"name":"Sonsonate Department","iso3":"SO","country":"SLV"},{"id":13,"name":"Usulut\u00e1n Department","iso3":"US","country":"SLV"}]
+[
+    {
+        "id": 4139,
+        "name": "Ahuachapán Department",
+        "country": "SLV",
+        "state": "AH"
+    },
+    {
+        "id": 4132,
+        "name": "Cabañas Department",
+        "country": "SLV",
+        "state": "CA"
+    },
+    {
+        "id": 4131,
+        "name": "Chalatenango Department",
+        "country": "SLV",
+        "state": "CH"
+    },
+    {
+        "id": 4137,
+        "name": "Cuscatlán Department",
+        "country": "SLV",
+        "state": "CU"
+    },
+    {
+        "id": 4134,
+        "name": "La Libertad Department",
+        "country": "SLV",
+        "state": "LI"
+    },
+    {
+        "id": 4136,
+        "name": "La Paz Department",
+        "country": "SLV",
+        "state": "PA"
+    },
+    {
+        "id": 4138,
+        "name": "La Unión Department",
+        "country": "SLV",
+        "state": "UN"
+    },
+    {
+        "id": 4130,
+        "name": "Morazán Department",
+        "country": "SLV",
+        "state": "MO"
+    },
+    {
+        "id": 4135,
+        "name": "San Miguel Department",
+        "country": "SLV",
+        "state": "SM"
+    },
+    {
+        "id": 4133,
+        "name": "San Salvador Department",
+        "country": "SLV",
+        "state": "SS"
+    },
+    {
+        "id": 4127,
+        "name": "San Vicente Department",
+        "country": "SLV",
+        "state": "SV"
+    },
+    {
+        "id": 4128,
+        "name": "Santa Ana Department",
+        "country": "SLV",
+        "state": "SA"
+    },
+    {
+        "id": 4140,
+        "name": "Sonsonate Department",
+        "country": "SLV",
+        "state": "SO"
+    },
+    {
+        "id": 4129,
+        "name": "Usulután Department",
+        "country": "SLV",
+        "state": "US"
+    }
+]

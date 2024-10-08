@@ -1,1 +1,50 @@
-[{"id":0,"name":"Funafuti","iso3":"FUN","country":"TUV"},{"id":1,"name":"Nanumanga","iso3":"NMG","country":"TUV"},{"id":2,"name":"Nanumea","iso3":"NMA","country":"TUV"},{"id":3,"name":"Niutao Island Council","iso3":"NIT","country":"TUV"},{"id":4,"name":"Nui","iso3":"NUI","country":"TUV"},{"id":5,"name":"Nukufetau","iso3":"NKF","country":"TUV"},{"id":6,"name":"Nukulaelae","iso3":"NKL","country":"TUV"},{"id":7,"name":"Vaitupu","iso3":"VAI","country":"TUV"}]
+[
+    {
+        "id": 3951,
+        "name": "Funafuti",
+        "country": "TUV",
+        "state": "FUN"
+    },
+    {
+        "id": 3947,
+        "name": "Nanumanga",
+        "country": "TUV",
+        "state": "NMG"
+    },
+    {
+        "id": 3949,
+        "name": "Nanumea",
+        "country": "TUV",
+        "state": "NMA"
+    },
+    {
+        "id": 3946,
+        "name": "Niutao Island Council",
+        "country": "TUV",
+        "state": "NIT"
+    },
+    {
+        "id": 3948,
+        "name": "Nui",
+        "country": "TUV",
+        "state": "NUI"
+    },
+    {
+        "id": 3952,
+        "name": "Nukufetau",
+        "country": "TUV",
+        "state": "NKF"
+    },
+    {
+        "id": 3953,
+        "name": "Nukulaelae",
+        "country": "TUV",
+        "state": "NKL"
+    },
+    {
+        "id": 3950,
+        "name": "Vaitupu",
+        "country": "TUV",
+        "state": "VAI"
+    }
+]

@@ -1,1 +1,416 @@
-[{"id":0,"name":"Akmen\u0117 District Municipality","iso3":"01","country":"LTU"},{"id":1,"name":"Alytus City Municipality","iso3":"02","country":"LTU"},{"id":2,"name":"Alytus County","iso3":"AL","country":"LTU"},{"id":3,"name":"Alytus District Municipality","iso3":"03","country":"LTU"},{"id":4,"name":"Bir\u0161tonas Municipality","iso3":"05","country":"LTU"},{"id":5,"name":"Bir\u017eai District Municipality","iso3":"06","country":"LTU"},{"id":6,"name":"Druskininkai municipality","iso3":"07","country":"LTU"},{"id":7,"name":"Elektr\u0117nai municipality","iso3":"08","country":"LTU"},{"id":8,"name":"Ignalina District Municipality","iso3":"09","country":"LTU"},{"id":9,"name":"Jonava District Municipality","iso3":"10","country":"LTU"},{"id":10,"name":"Joni\u0161kis District Municipality","iso3":"11","country":"LTU"},{"id":11,"name":"Jurbarkas District Municipality","iso3":"12","country":"LTU"},{"id":12,"name":"Kai\u0161iadorys District Municipality","iso3":"13","country":"LTU"},{"id":13,"name":"Kalvarija municipality","iso3":"14","country":"LTU"},{"id":14,"name":"Kaunas City Municipality","iso3":"15","country":"LTU"},{"id":15,"name":"Kaunas County","iso3":"KU","country":"LTU"},{"id":16,"name":"Kaunas District Municipality","iso3":"16","country":"LTU"},{"id":17,"name":"Kazl\u0173 R\u016bda municipality","iso3":"17","country":"LTU"},{"id":18,"name":"K\u0117dainiai District Municipality","iso3":"18","country":"LTU"},{"id":19,"name":"Kelm\u0117 District Municipality","iso3":"19","country":"LTU"},{"id":20,"name":"Klaipeda City Municipality","iso3":"20","country":"LTU"},{"id":21,"name":"Klaip\u0117da County","iso3":"KL","country":"LTU"},{"id":22,"name":"Klaip\u0117da District Municipality","iso3":"21","country":"LTU"},{"id":23,"name":"Kretinga District Municipality","iso3":"22","country":"LTU"},{"id":24,"name":"Kupi\u0161kis District Municipality","iso3":"23","country":"LTU"},{"id":25,"name":"Lazdijai District Municipality","iso3":"24","country":"LTU"},{"id":26,"name":"Marijampol\u0117 County","iso3":"MR","country":"LTU"},{"id":27,"name":"Marijampol\u0117 Municipality","iso3":"25","country":"LTU"},{"id":28,"name":"Ma\u017eeikiai District Municipality","iso3":"26","country":"LTU"},{"id":29,"name":"Mol\u0117tai District Municipality","iso3":"27","country":"LTU"},{"id":30,"name":"Neringa Municipality","iso3":"28","country":"LTU"},{"id":31,"name":"Pag\u0117giai municipality","iso3":"29","country":"LTU"},{"id":32,"name":"Pakruojis District Municipality","iso3":"30","country":"LTU"},{"id":33,"name":"Palanga City Municipality","iso3":"31","country":"LTU"},{"id":34,"name":"Panev\u0117\u017eys City Municipality","iso3":"32","country":"LTU"},{"id":35,"name":"Panev\u0117\u017eys County","iso3":"PN","country":"LTU"},{"id":36,"name":"Panev\u0117\u017eys District Municipality","iso3":"33","country":"LTU"},{"id":37,"name":"Pasvalys District Municipality","iso3":"34","country":"LTU"},{"id":38,"name":"Plung\u0117 District Municipality","iso3":"35","country":"LTU"},{"id":39,"name":"Prienai District Municipality","iso3":"36","country":"LTU"},{"id":40,"name":"Radvili\u0161kis District Municipality","iso3":"37","country":"LTU"},{"id":41,"name":"Raseiniai District Municipality","iso3":"38","country":"LTU"},{"id":42,"name":"Rietavas municipality","iso3":"39","country":"LTU"},{"id":43,"name":"Roki\u0161kis District Municipality","iso3":"40","country":"LTU"},{"id":44,"name":"\u0160akiai District Municipality","iso3":"41","country":"LTU"},{"id":45,"name":"\u0160al\u010dininkai District Municipality","iso3":"42","country":"LTU"},{"id":46,"name":"\u0160iauliai City Municipality","iso3":"43","country":"LTU"},{"id":47,"name":"\u0160iauliai County","iso3":"SA","country":"LTU"},{"id":48,"name":"\u0160iauliai District Municipality","iso3":"44","country":"LTU"},{"id":49,"name":"\u0160ilal\u0117 District Municipality","iso3":"45","country":"LTU"},{"id":50,"name":"\u0160ilut\u0117 District Municipality","iso3":"46","country":"LTU"},{"id":51,"name":"\u0160irvintos District Municipality","iso3":"47","country":"LTU"},{"id":52,"name":"Skuodas District Municipality","iso3":"48","country":"LTU"},{"id":53,"name":"\u0160ven\u010dionys District Municipality","iso3":"49","country":"LTU"},{"id":54,"name":"Taurag\u0117 County","iso3":"TA","country":"LTU"},{"id":55,"name":"Taurag\u0117 District Municipality","iso3":"50","country":"LTU"},{"id":56,"name":"Tel\u0161iai County","iso3":"TE","country":"LTU"},{"id":57,"name":"Tel\u0161iai District Municipality","iso3":"51","country":"LTU"},{"id":58,"name":"Trakai District Municipality","iso3":"52","country":"LTU"},{"id":59,"name":"Ukmerg\u0117 District Municipality","iso3":"53","country":"LTU"},{"id":60,"name":"Utena County","iso3":"UT","country":"LTU"},{"id":61,"name":"Utena District Municipality","iso3":"54","country":"LTU"},{"id":62,"name":"Var\u0117na District Municipality","iso3":"55","country":"LTU"},{"id":63,"name":"Vilkavi\u0161kis District Municipality","iso3":"56","country":"LTU"},{"id":64,"name":"Vilnius City Municipality","iso3":"57","country":"LTU"},{"id":65,"name":"Vilnius County","iso3":"VL","country":"LTU"},{"id":66,"name":"Vilnius District Municipality","iso3":"58","country":"LTU"},{"id":67,"name":"Visaginas Municipality","iso3":"59","country":"LTU"},{"id":68,"name":"Zarasai District Municipality","iso3":"60","country":"LTU"}]
+[
+    {
+        "id": 1561,
+        "name": "Akmenė District Municipality",
+        "country": "LTU",
+        "state": "01"
+    },
+    {
+        "id": 1605,
+        "name": "Alytus City Municipality",
+        "country": "LTU",
+        "state": "02"
+    },
+    {
+        "id": 1574,
+        "name": "Alytus County",
+        "country": "LTU",
+        "state": "AL"
+    },
+    {
+        "id": 1599,
+        "name": "Alytus District Municipality",
+        "country": "LTU",
+        "state": "03"
+    },
+    {
+        "id": 1603,
+        "name": "Birštonas Municipality",
+        "country": "LTU",
+        "state": "05"
+    },
+    {
+        "id": 1566,
+        "name": "Biržai District Municipality",
+        "country": "LTU",
+        "state": "06"
+    },
+    {
+        "id": 1579,
+        "name": "Druskininkai municipality",
+        "country": "LTU",
+        "state": "07"
+    },
+    {
+        "id": 1559,
+        "name": "Elektrėnai municipality",
+        "country": "LTU",
+        "state": "08"
+    },
+    {
+        "id": 1562,
+        "name": "Ignalina District Municipality",
+        "country": "LTU",
+        "state": "09"
+    },
+    {
+        "id": 1567,
+        "name": "Jonava District Municipality",
+        "country": "LTU",
+        "state": "10"
+    },
+    {
+        "id": 1581,
+        "name": "Joniškis District Municipality",
+        "country": "LTU",
+        "state": "11"
+    },
+    {
+        "id": 1555,
+        "name": "Jurbarkas District Municipality",
+        "country": "LTU",
+        "state": "12"
+    },
+    {
+        "id": 1583,
+        "name": "Kaišiadorys District Municipality",
+        "country": "LTU",
+        "state": "13"
+    },
+    {
+        "id": 1591,
+        "name": "Kalvarija municipality",
+        "country": "LTU",
+        "state": "14"
+    },
+    {
+        "id": 1580,
+        "name": "Kaunas City Municipality",
+        "country": "LTU",
+        "state": "15"
+    },
+    {
+        "id": 1556,
+        "name": "Kaunas County",
+        "country": "LTU",
+        "state": "KU"
+    },
+    {
+        "id": 1565,
+        "name": "Kaunas District Municipality",
+        "country": "LTU",
+        "state": "16"
+    },
+    {
+        "id": 1575,
+        "name": "Kazlų Rūda municipality",
+        "country": "LTU",
+        "state": "17"
+    },
+    {
+        "id": 1584,
+        "name": "Kėdainiai District Municipality",
+        "country": "LTU",
+        "state": "18"
+    },
+    {
+        "id": 1618,
+        "name": "Kelmė District Municipality",
+        "country": "LTU",
+        "state": "19"
+    },
+    {
+        "id": 1597,
+        "name": "Klaipeda City Municipality",
+        "country": "LTU",
+        "state": "20"
+    },
+    {
+        "id": 1600,
+        "name": "Klaipėda County",
+        "country": "LTU",
+        "state": "KL"
+    },
+    {
+        "id": 1604,
+        "name": "Klaipėda District Municipality",
+        "country": "LTU",
+        "state": "21"
+    },
+    {
+        "id": 1571,
+        "name": "Kretinga District Municipality",
+        "country": "LTU",
+        "state": "22"
+    },
+    {
+        "id": 1585,
+        "name": "Kupiškis District Municipality",
+        "country": "LTU",
+        "state": "23"
+    },
+    {
+        "id": 1611,
+        "name": "Lazdijai District Municipality",
+        "country": "LTU",
+        "state": "24"
+    },
+    {
+        "id": 1570,
+        "name": "Marijampolė County",
+        "country": "LTU",
+        "state": "MR"
+    },
+    {
+        "id": 1610,
+        "name": "Marijampolė Municipality",
+        "country": "LTU",
+        "state": "25"
+    },
+    {
+        "id": 1557,
+        "name": "Mažeikiai District Municipality",
+        "country": "LTU",
+        "state": "26"
+    },
+    {
+        "id": 1582,
+        "name": "Molėtai District Municipality",
+        "country": "LTU",
+        "state": "27"
+    },
+    {
+        "id": 1563,
+        "name": "Neringa Municipality",
+        "country": "LTU",
+        "state": "28"
+    },
+    {
+        "id": 1612,
+        "name": "Pagėgiai municipality",
+        "country": "LTU",
+        "state": "29"
+    },
+    {
+        "id": 1595,
+        "name": "Pakruojis District Municipality",
+        "country": "LTU",
+        "state": "30"
+    },
+    {
+        "id": 1588,
+        "name": "Palanga City Municipality",
+        "country": "LTU",
+        "state": "31"
+    },
+    {
+        "id": 1589,
+        "name": "Panevėžys City Municipality",
+        "country": "LTU",
+        "state": "32"
+    },
+    {
+        "id": 1558,
+        "name": "Panevėžys County",
+        "country": "LTU",
+        "state": "PN"
+    },
+    {
+        "id": 1614,
+        "name": "Panevėžys District Municipality",
+        "country": "LTU",
+        "state": "33"
+    },
+    {
+        "id": 1616,
+        "name": "Pasvalys District Municipality",
+        "country": "LTU",
+        "state": "34"
+    },
+    {
+        "id": 1553,
+        "name": "Plungė District Municipality",
+        "country": "LTU",
+        "state": "35"
+    },
+    {
+        "id": 1578,
+        "name": "Prienai District Municipality",
+        "country": "LTU",
+        "state": "36"
+    },
+    {
+        "id": 1568,
+        "name": "Radviliškis District Municipality",
+        "country": "LTU",
+        "state": "37"
+    },
+    {
+        "id": 1587,
+        "name": "Raseiniai District Municipality",
+        "country": "LTU",
+        "state": "38"
+    },
+    {
+        "id": 1590,
+        "name": "Rietavas municipality",
+        "country": "LTU",
+        "state": "39"
+    },
+    {
+        "id": 1615,
+        "name": "Rokiškis District Municipality",
+        "country": "LTU",
+        "state": "40"
+    },
+    {
+        "id": 1576,
+        "name": "Šakiai District Municipality",
+        "country": "LTU",
+        "state": "41"
+    },
+    {
+        "id": 1577,
+        "name": "Šalčininkai District Municipality",
+        "country": "LTU",
+        "state": "42"
+    },
+    {
+        "id": 1609,
+        "name": "Šiauliai City Municipality",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 1586,
+        "name": "Šiauliai County",
+        "country": "LTU",
+        "state": "SA"
+    },
+    {
+        "id": 1554,
+        "name": "Šiauliai District Municipality",
+        "country": "LTU",
+        "state": "44"
+    },
+    {
+        "id": 1613,
+        "name": "Šilalė District Municipality",
+        "country": "LTU",
+        "state": "45"
+    },
+    {
+        "id": 1607,
+        "name": "Šilutė District Municipality",
+        "country": "LTU",
+        "state": "46"
+    },
+    {
+        "id": 1594,
+        "name": "Širvintos District Municipality",
+        "country": "LTU",
+        "state": "47"
+    },
+    {
+        "id": 1617,
+        "name": "Skuodas District Municipality",
+        "country": "LTU",
+        "state": "48"
+    },
+    {
+        "id": 1560,
+        "name": "Švenčionys District Municipality",
+        "country": "LTU",
+        "state": "49"
+    },
+    {
+        "id": 1573,
+        "name": "Tauragė County",
+        "country": "LTU",
+        "state": "TA"
+    },
+    {
+        "id": 1572,
+        "name": "Tauragė District Municipality",
+        "country": "LTU",
+        "state": "50"
+    },
+    {
+        "id": 1569,
+        "name": "Telšiai County",
+        "country": "LTU",
+        "state": "TE"
+    },
+    {
+        "id": 1608,
+        "name": "Telšiai District Municipality",
+        "country": "LTU",
+        "state": "51"
+    },
+    {
+        "id": 1593,
+        "name": "Trakai District Municipality",
+        "country": "LTU",
+        "state": "52"
+    },
+    {
+        "id": 1596,
+        "name": "Ukmergė District Municipality",
+        "country": "LTU",
+        "state": "53"
+    },
+    {
+        "id": 1621,
+        "name": "Utena County",
+        "country": "LTU",
+        "state": "UT"
+    },
+    {
+        "id": 1598,
+        "name": "Utena District Municipality",
+        "country": "LTU",
+        "state": "54"
+    },
+    {
+        "id": 1602,
+        "name": "Varėna District Municipality",
+        "country": "LTU",
+        "state": "55"
+    },
+    {
+        "id": 1620,
+        "name": "Vilkaviškis District Municipality",
+        "country": "LTU",
+        "state": "56"
+    },
+    {
+        "id": 1606,
+        "name": "Vilnius City Municipality",
+        "country": "LTU",
+        "state": "57"
+    },
+    {
+        "id": 1601,
+        "name": "Vilnius County",
+        "country": "LTU",
+        "state": "VL"
+    },
+    {
+        "id": 1592,
+        "name": "Vilnius District Municipality",
+        "country": "LTU",
+        "state": "58"
+    },
+    {
+        "id": 1564,
+        "name": "Visaginas Municipality",
+        "country": "LTU",
+        "state": "59"
+    },
+    {
+        "id": 1619,
+        "name": "Zarasai District Municipality",
+        "country": "LTU",
+        "state": "60"
+    }
+]

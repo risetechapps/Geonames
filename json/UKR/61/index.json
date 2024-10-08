@@ -1,1 +1,194 @@
-[{"id":0,"name":"Belaya","country":"UKR","state":"61"},{"id":1,"name":"Borshchiv","country":"UKR","state":"61"},{"id":2,"name":"Buchach","country":"UKR","state":"61"},{"id":3,"name":"Chortkiv","country":"UKR","state":"61"},{"id":4,"name":"Druzhba","country":"UKR","state":"61"},{"id":5,"name":"Hrymayliv","country":"UKR","state":"61"},{"id":6,"name":"Husiatyn","country":"UKR","state":"61"},{"id":7,"name":"Khorostkiv","country":"UKR","state":"61"},{"id":8,"name":"Kopychyntsi","country":"UKR","state":"61"},{"id":9,"name":"Kozova","country":"UKR","state":"61"},{"id":10,"name":"Kremenets","country":"UKR","state":"61"},{"id":11,"name":"Lanivtsi","country":"UKR","state":"61"},{"id":12,"name":"Mikulintsy","country":"UKR","state":"61"},{"id":13,"name":"Nyrkiv","country":"UKR","state":"61"},{"id":14,"name":"Ozerna","country":"UKR","state":"61"},{"id":15,"name":"Petrikov","country":"UKR","state":"61"},{"id":16,"name":"Pidhaytsi","country":"UKR","state":"61"},{"id":17,"name":"Pidvolochysk","country":"UKR","state":"61"},{"id":18,"name":"Pochaiv","country":"UKR","state":"61"},{"id":19,"name":"Skala-Podil\u2019s\u2019ka","country":"UKR","state":"61"},{"id":20,"name":"Skalat","country":"UKR","state":"61"},{"id":21,"name":"Terebovlya","country":"UKR","state":"61"},{"id":22,"name":"Ternopil","country":"UKR","state":"61"},{"id":23,"name":"Tovste","country":"UKR","state":"61"},{"id":24,"name":"Velikiye Borki","country":"UKR","state":"61"},{"id":25,"name":"Yahil\u2019nytsya","country":"UKR","state":"61"},{"id":26,"name":"Zalishchyky","country":"UKR","state":"61"},{"id":27,"name":"Zaliztsi","country":"UKR","state":"61"},{"id":28,"name":"Zbarazh","country":"UKR","state":"61"},{"id":29,"name":"Zboriv","country":"UKR","state":"61"},{"id":30,"name":"Zolotyy Potik","country":"UKR","state":"61"},{"id":31,"name":"\u0411\u0435\u0440\u0435\u0436\u0430\u043d\u0438","country":"UKR","state":"61"}]
+[
+    {
+        "id": 109362,
+        "name": "Belaya",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 109434,
+        "name": "Borshchiv",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 109457,
+        "name": "Buchach",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 109517,
+        "name": "Chortkiv",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 109579,
+        "name": "Druzhba",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 109657,
+        "name": "Hrymayliv",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 109662,
+        "name": "Husiatyn",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 109738,
+        "name": "Khorostkiv",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 109793,
+        "name": "Kopychyntsi",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 109826,
+        "name": "Kozova",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 109858,
+        "name": "Kremenets",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 109904,
+        "name": "Lanivtsi",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110029,
+        "name": "Mikulintsy",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110163,
+        "name": "Nyrkiv",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110216,
+        "name": "Ozerna",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110256,
+        "name": "Petrikov",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110265,
+        "name": "Pidhaytsi",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110270,
+        "name": "Pidvolochysk",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110282,
+        "name": "Pochaiv",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110467,
+        "name": "Skala-Podil’s’ka",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110468,
+        "name": "Skalat",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110601,
+        "name": "Terebovlya",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110602,
+        "name": "Ternopil",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110619,
+        "name": "Tovste",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110682,
+        "name": "Velikiye Borki",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110772,
+        "name": "Yahil’nytsya",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110814,
+        "name": "Zalishchyky",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110818,
+        "name": "Zaliztsi",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110831,
+        "name": "Zbarazh",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110832,
+        "name": "Zboriv",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110863,
+        "name": "Zolotyy Potik",
+        "country": "UKR",
+        "state": "61"
+    },
+    {
+        "id": 110873,
+        "name": "Бережани",
+        "country": "UKR",
+        "state": "61"
+    }
+]

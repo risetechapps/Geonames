@@ -1,1 +1,86 @@
-[{"id":0,"name":"Andijan Region","iso3":"AN","country":"UZB"},{"id":1,"name":"Bukhara Region","iso3":"BU","country":"UZB"},{"id":2,"name":"Fergana Region","iso3":"FA","country":"UZB"},{"id":3,"name":"Jizzakh Region","iso3":"JI","country":"UZB"},{"id":4,"name":"Karakalpakstan","iso3":"QR","country":"UZB"},{"id":5,"name":"Namangan Region","iso3":"NG","country":"UZB"},{"id":6,"name":"Navoiy Region","iso3":"NW","country":"UZB"},{"id":7,"name":"Qashqadaryo Region","iso3":"QA","country":"UZB"},{"id":8,"name":"Samarqand Region","iso3":"SA","country":"UZB"},{"id":9,"name":"Sirdaryo Region","iso3":"SI","country":"UZB"},{"id":10,"name":"Surxondaryo Region","iso3":"SU","country":"UZB"},{"id":11,"name":"Tashkent","iso3":"TK","country":"UZB"},{"id":12,"name":"Tashkent Region","iso3":"TO","country":"UZB"},{"id":13,"name":"Xorazm Region","iso3":"XO","country":"UZB"}]
+[
+    {
+        "id": 2540,
+        "name": "Andijan Region",
+        "country": "UZB",
+        "state": "AN"
+    },
+    {
+        "id": 2541,
+        "name": "Bukhara Region",
+        "country": "UZB",
+        "state": "BU"
+    },
+    {
+        "id": 2538,
+        "name": "Fergana Region",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 2545,
+        "name": "Jizzakh Region",
+        "country": "UZB",
+        "state": "JI"
+    },
+    {
+        "id": 2548,
+        "name": "Karakalpakstan",
+        "country": "UZB",
+        "state": "QR"
+    },
+    {
+        "id": 2537,
+        "name": "Namangan Region",
+        "country": "UZB",
+        "state": "NG"
+    },
+    {
+        "id": 2542,
+        "name": "Navoiy Region",
+        "country": "UZB",
+        "state": "NW"
+    },
+    {
+        "id": 2543,
+        "name": "Qashqadaryo Region",
+        "country": "UZB",
+        "state": "QA"
+    },
+    {
+        "id": 2544,
+        "name": "Samarqand Region",
+        "country": "UZB",
+        "state": "SA"
+    },
+    {
+        "id": 2547,
+        "name": "Sirdaryo Region",
+        "country": "UZB",
+        "state": "SI"
+    },
+    {
+        "id": 2546,
+        "name": "Surxondaryo Region",
+        "country": "UZB",
+        "state": "SU"
+    },
+    {
+        "id": 2536,
+        "name": "Tashkent",
+        "country": "UZB",
+        "state": "TK"
+    },
+    {
+        "id": 2549,
+        "name": "Tashkent Region",
+        "country": "UZB",
+        "state": "TO"
+    },
+    {
+        "id": 2539,
+        "name": "Xorazm Region",
+        "country": "UZB",
+        "state": "XO"
+    }
+]

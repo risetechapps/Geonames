@@ -1,1 +1,968 @@
-[{"id":0,"name":"Albeni","country":"ROU","state":"GJ"},{"id":1,"name":"Alimpe\u015fti","country":"ROU","state":"GJ"},{"id":2,"name":"Andree\u0219ti","country":"ROU","state":"GJ"},{"id":3,"name":"Aninoasa","country":"ROU","state":"GJ"},{"id":4,"name":"Arcani","country":"ROU","state":"GJ"},{"id":5,"name":"Baia de Fier","country":"ROU","state":"GJ"},{"id":6,"name":"B\u0103lce\u0219ti","country":"ROU","state":"GJ"},{"id":7,"name":"B\u0103le\u015fti","country":"ROU","state":"GJ"},{"id":8,"name":"B\u00e2lta","country":"ROU","state":"GJ"},{"id":9,"name":"B\u00e2lteni","country":"ROU","state":"GJ"},{"id":10,"name":"B\u0103rb\u0103te\u015fti","country":"ROU","state":"GJ"},{"id":11,"name":"Benge\u0219ti","country":"ROU","state":"GJ"},{"id":12,"name":"Berle\u015fti","country":"ROU","state":"GJ"},{"id":13,"name":"Bolbo\u015fi","country":"ROU","state":"GJ"},{"id":14,"name":"Bor\u0103scu","country":"ROU","state":"GJ"},{"id":15,"name":"Br\u0103ne\u015fti","country":"ROU","state":"GJ"},{"id":16,"name":"Bumbe\u015fti-Jiu","country":"ROU","state":"GJ"},{"id":17,"name":"Bustuchin","country":"ROU","state":"GJ"},{"id":18,"name":"C\u00e2lnic","country":"ROU","state":"GJ"},{"id":19,"name":"C\u0103preni","country":"ROU","state":"GJ"},{"id":20,"name":"C\u0103rpini\u0219","country":"ROU","state":"GJ"},{"id":21,"name":"C\u0103tunele","country":"ROU","state":"GJ"},{"id":22,"name":"Ceauru","country":"ROU","state":"GJ"},{"id":23,"name":"Ciuperceni","country":"ROU","state":"GJ"},{"id":24,"name":"Clo\u0219ani","country":"ROU","state":"GJ"},{"id":25,"name":"Cocoreni","country":"ROU","state":"GJ"},{"id":26,"name":"Comuna Albeni","country":"ROU","state":"GJ"},{"id":27,"name":"Comuna Alimpe\u015fti","country":"ROU","state":"GJ"},{"id":28,"name":"Comuna Aninoasa","country":"ROU","state":"GJ"},{"id":29,"name":"Comuna Arcani","country":"ROU","state":"GJ"},{"id":30,"name":"Comuna Baia de Fier","country":"ROU","state":"GJ"},{"id":31,"name":"Comuna B\u0103l\u0103ne\u015fti","country":"ROU","state":"GJ"},{"id":32,"name":"Comuna B\u0103le\u015fti","country":"ROU","state":"GJ"},{"id":33,"name":"Comuna B\u00e2lteni","country":"ROU","state":"GJ"},{"id":34,"name":"Comuna B\u0103rb\u0103te\u015fti","country":"ROU","state":"GJ"},{"id":35,"name":"Comuna Benge\u015fti-Ciocadia","country":"ROU","state":"GJ"},{"id":36,"name":"Comuna Bolbo\u015fi","country":"ROU","state":"GJ"},{"id":37,"name":"Comuna Bor\u0103scu","country":"ROU","state":"GJ"},{"id":38,"name":"Comuna Br\u0103ne\u015fti","country":"ROU","state":"GJ"},{"id":39,"name":"Comuna Bumbe\u015fti-Pi\u0163ic","country":"ROU","state":"GJ"},{"id":40,"name":"Comuna Bustuchin","country":"ROU","state":"GJ"},{"id":41,"name":"Comuna C\u00e2lnic","country":"ROU","state":"GJ"},{"id":42,"name":"Comuna C\u0103preni","country":"ROU","state":"GJ"},{"id":43,"name":"Comuna C\u0103tunele","country":"ROU","state":"GJ"},{"id":44,"name":"Comuna Ciuperceni","country":"ROU","state":"GJ"},{"id":45,"name":"Comuna Crasna","country":"ROU","state":"GJ"},{"id":46,"name":"Comuna Cru\u0219e\u021b","country":"ROU","state":"GJ"},{"id":47,"name":"Comuna D\u0103nciule\u015fti","country":"ROU","state":"GJ"},{"id":48,"name":"Comuna D\u0103ne\u015fti","country":"ROU","state":"GJ"},{"id":49,"name":"Comuna Dr\u0103gote\u015fti","country":"ROU","state":"GJ"},{"id":50,"name":"Comuna Dr\u00e3gu\u0163e\u015fti","country":"ROU","state":"GJ"},{"id":51,"name":"Comuna F\u00e3rc\u00e3\u015fe\u015fti","country":"ROU","state":"GJ"},{"id":52,"name":"Comuna Glogova","country":"ROU","state":"GJ"},{"id":53,"name":"Comuna Godine\u015fti","country":"ROU","state":"GJ"},{"id":54,"name":"Comuna Hurezani","country":"ROU","state":"GJ"},{"id":55,"name":"Comuna Ione\u015fti","country":"ROU","state":"GJ"},{"id":56,"name":"Comuna Jup\u00e2ne\u015fti","country":"ROU","state":"GJ"},{"id":57,"name":"Comuna Lele\u015fti","country":"ROU","state":"GJ"},{"id":58,"name":"Comuna Licurici","country":"ROU","state":"GJ"},{"id":59,"name":"Comuna Logre\u015fti-Mo\u015fteni","country":"ROU","state":"GJ"},{"id":60,"name":"Comuna M\u0103t\u0103sari","country":"ROU","state":"GJ"},{"id":61,"name":"Comuna Mu\u015fete\u015fti","country":"ROU","state":"GJ"},{"id":62,"name":"Comuna Negomir","country":"ROU","state":"GJ"},{"id":63,"name":"Comuna Pade\u015f","country":"ROU","state":"GJ"},{"id":64,"name":"Comuna Pe\u015fti\u015fani","country":"ROU","state":"GJ"},{"id":65,"name":"Comuna Plop\u015foru","country":"ROU","state":"GJ"},{"id":66,"name":"Comuna Polovragi","country":"ROU","state":"GJ"},{"id":67,"name":"Comuna Prigoria","country":"ROU","state":"GJ"},{"id":68,"name":"Comuna Ro\u015fia De Amaradia","country":"ROU","state":"GJ"},{"id":69,"name":"Comuna Runcu","country":"ROU","state":"GJ"},{"id":70,"name":"Comuna S\u0103celu","country":"ROU","state":"GJ"},{"id":71,"name":"Comuna Samarine\u015fti","country":"ROU","state":"GJ"},{"id":72,"name":"Comuna S\u0103ule\u015fti","country":"ROU","state":"GJ"},{"id":73,"name":"Comuna Schela","country":"ROU","state":"GJ"},{"id":74,"name":"Comuna Scoar\u0163a","country":"ROU","state":"GJ"},{"id":75,"name":"Comuna Slivile\u015fti","country":"ROU","state":"GJ"},{"id":76,"name":"Comuna St\u0103ne\u015fti","country":"ROU","state":"GJ"},{"id":77,"name":"Comuna Stejari","country":"ROU","state":"GJ"},{"id":78,"name":"Comuna Stoina","country":"ROU","state":"GJ"},{"id":79,"name":"Comuna \u0162\u00e2n\u0163\u0103reni","country":"ROU","state":"GJ"},{"id":80,"name":"Comuna Tele\u015fti","country":"ROU","state":"GJ"},{"id":81,"name":"Comuna Turburea","country":"ROU","state":"GJ"},{"id":82,"name":"Comuna Turcine\u015fti","country":"ROU","state":"GJ"},{"id":83,"name":"Comuna Urdari","country":"ROU","state":"GJ"},{"id":84,"name":"Comuna V\u0103giule\u015fti","country":"ROU","state":"GJ"},{"id":85,"name":"Comuna Vladimir","country":"ROU","state":"GJ"},{"id":86,"name":"Coste\u0219ti","country":"ROU","state":"GJ"},{"id":87,"name":"Covrigi","country":"ROU","state":"GJ"},{"id":88,"name":"Crasna","country":"ROU","state":"GJ"},{"id":89,"name":"Cru\u0219e\u021b","country":"ROU","state":"GJ"},{"id":90,"name":"D\u0103nciule\u015fti","country":"ROU","state":"GJ"},{"id":91,"name":"D\u0103ne\u015fti","country":"ROU","state":"GJ"},{"id":92,"name":"Dobri\u021ba","country":"ROU","state":"GJ"},{"id":93,"name":"Dr\u0103gote\u015fti","country":"ROU","state":"GJ"},{"id":94,"name":"Dr\u0103gu\u0163e\u015fti","country":"ROU","state":"GJ"},{"id":95,"name":"F\u0103rc\u0103\u015fe\u015fti","country":"ROU","state":"GJ"},{"id":96,"name":"Flore\u0219ti","country":"ROU","state":"GJ"},{"id":97,"name":"Glogova","country":"ROU","state":"GJ"},{"id":98,"name":"Godine\u015fti","country":"ROU","state":"GJ"},{"id":99,"name":"Hurezani","country":"ROU","state":"GJ"},{"id":100,"name":"Ione\u015fti","country":"ROU","state":"GJ"},{"id":101,"name":"Jup\u00e2ne\u015fti","country":"ROU","state":"GJ"},{"id":102,"name":"Lele\u015fti","country":"ROU","state":"GJ"},{"id":103,"name":"Licurici","country":"ROU","state":"GJ"},{"id":104,"name":"Logre\u015fti","country":"ROU","state":"GJ"},{"id":105,"name":"Logre\u0219ti Mo\u0219teni","country":"ROU","state":"GJ"},{"id":106,"name":"M\u0103t\u0103sari","country":"ROU","state":"GJ"},{"id":107,"name":"Motru","country":"ROU","state":"GJ"},{"id":108,"name":"Municipiul Motru","country":"ROU","state":"GJ"},{"id":109,"name":"Municipiul T\u00e2rgu Jiu","country":"ROU","state":"GJ"},{"id":110,"name":"Mu\u015fete\u015fti","country":"ROU","state":"GJ"},{"id":111,"name":"Negomir","country":"ROU","state":"GJ"},{"id":112,"name":"Novaci","country":"ROU","state":"GJ"},{"id":113,"name":"Ora\u015f Bumbe\u015fti-Jiu","country":"ROU","state":"GJ"},{"id":114,"name":"Ora\u015f Rovinari","country":"ROU","state":"GJ"},{"id":115,"name":"Ora\u015f T\u00e2rgu C\u00e3rbune\u015fti","country":"ROU","state":"GJ"},{"id":116,"name":"Ora\u015f \u0162icleni","country":"ROU","state":"GJ"},{"id":117,"name":"Ora\u015f Tismana","country":"ROU","state":"GJ"},{"id":118,"name":"Ora\u015f Turceni","country":"ROU","state":"GJ"},{"id":119,"name":"Pade\u015f","country":"ROU","state":"GJ"},{"id":120,"name":"Pe\u0219teana de Jos","country":"ROU","state":"GJ"},{"id":121,"name":"Pe\u0219teana Jiu","country":"ROU","state":"GJ"},{"id":122,"name":"Pe\u015fti\u015fani","country":"ROU","state":"GJ"},{"id":123,"name":"Piscoiu","country":"ROU","state":"GJ"},{"id":124,"name":"Plop\u015foru","country":"ROU","state":"GJ"},{"id":125,"name":"Plo\u0219tina","country":"ROU","state":"GJ"},{"id":126,"name":"Pociovali\u0219tea","country":"ROU","state":"GJ"},{"id":127,"name":"Pocruia","country":"ROU","state":"GJ"},{"id":128,"name":"Poiana","country":"ROU","state":"GJ"},{"id":129,"name":"Pojogeni","country":"ROU","state":"GJ"},{"id":130,"name":"Polovragi","country":"ROU","state":"GJ"},{"id":131,"name":"Prigoria","country":"ROU","state":"GJ"},{"id":132,"name":"Ro\u015fia de Amaradia","country":"ROU","state":"GJ"},{"id":133,"name":"Rovinari","country":"ROU","state":"GJ"},{"id":134,"name":"Runcu","country":"ROU","state":"GJ"},{"id":135,"name":"S\u0103celu","country":"ROU","state":"GJ"},{"id":136,"name":"Samarine\u015fti","country":"ROU","state":"GJ"},{"id":137,"name":"S\u00e2mbotin","country":"ROU","state":"GJ"},{"id":138,"name":"S\u0103ule\u015fti","country":"ROU","state":"GJ"},{"id":139,"name":"Scoar\u0163a","country":"ROU","state":"GJ"},{"id":140,"name":"Slivile\u015fti","country":"ROU","state":"GJ"},{"id":141,"name":"Sohodol","country":"ROU","state":"GJ"},{"id":142,"name":"St\u0103ne\u015fti","country":"ROU","state":"GJ"},{"id":143,"name":"Stejari","country":"ROU","state":"GJ"},{"id":144,"name":"Sterpoaia","country":"ROU","state":"GJ"},{"id":145,"name":"Stoina","country":"ROU","state":"GJ"},{"id":146,"name":"\u0162\u00e2n\u0163\u0103reni","country":"ROU","state":"GJ"},{"id":147,"name":"T\u00e2rgu C\u0103rbune\u015fti","country":"ROU","state":"GJ"},{"id":148,"name":"T\u00e2rgu Jiu","country":"ROU","state":"GJ"},{"id":149,"name":"Tele\u015fti","country":"ROU","state":"GJ"},{"id":150,"name":"\u0162icleni","country":"ROU","state":"GJ"},{"id":151,"name":"Tismana","country":"ROU","state":"GJ"},{"id":152,"name":"Turburea","country":"ROU","state":"GJ"},{"id":153,"name":"Turceni","country":"ROU","state":"GJ"},{"id":154,"name":"Turcine\u015fti","country":"ROU","state":"GJ"},{"id":155,"name":"Urdari","country":"ROU","state":"GJ"},{"id":156,"name":"V\u0103giule\u015fti","country":"ROU","state":"GJ"},{"id":157,"name":"Valea Mare","country":"ROU","state":"GJ"},{"id":158,"name":"Vier\u0219ani","country":"ROU","state":"GJ"},{"id":159,"name":"Vl\u0103duleni","country":"ROU","state":"GJ"},{"id":160,"name":"Voite\u0219tii din Vale","country":"ROU","state":"GJ"}]
+[
+    {
+        "id": 89912,
+        "name": "Albeni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 89932,
+        "name": "Alimpeşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 89954,
+        "name": "Andreești",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 89963,
+        "name": "Aninoasa",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 89979,
+        "name": "Arcani",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90034,
+        "name": "Baia de Fier",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90506,
+        "name": "Bălcești",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90510,
+        "name": "Băleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90441,
+        "name": "Bâlta",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90443,
+        "name": "Bâlteni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90541,
+        "name": "Bărbăteşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90094,
+        "name": "Bengești",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90112,
+        "name": "Berleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90208,
+        "name": "Bolboşi",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90236,
+        "name": "Borăscu",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90336,
+        "name": "Brăneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90407,
+        "name": "Bumbeşti-Jiu",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90424,
+        "name": "Bustuchin",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93793,
+        "name": "Câlnic",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93859,
+        "name": "Căpreni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93871,
+        "name": "Cărpiniș",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93880,
+        "name": "Cătunele",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90605,
+        "name": "Ceauru",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90753,
+        "name": "Ciuperceni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90770,
+        "name": "Cloșani",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90781,
+        "name": "Cocoreni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90838,
+        "name": "Comuna Albeni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90853,
+        "name": "Comuna Alimpeşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90873,
+        "name": "Comuna Aninoasa",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90883,
+        "name": "Comuna Arcani",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90919,
+        "name": "Comuna Baia de Fier",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91225,
+        "name": "Comuna Bălăneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91216,
+        "name": "Comuna Băleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91182,
+        "name": "Comuna Bâlteni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91238,
+        "name": "Comuna Bărbăteşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 90958,
+        "name": "Comuna Bengeşti-Ciocadia",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91037,
+        "name": "Comuna Bolboşi",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91055,
+        "name": "Comuna Borăscu",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91121,
+        "name": "Comuna Brăneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91162,
+        "name": "Comuna Bumbeşti-Piţic",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91172,
+        "name": "Comuna Bustuchin",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91541,
+        "name": "Comuna Câlnic",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91584,
+        "name": "Comuna Căpreni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91595,
+        "name": "Comuna Cătunele",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91372,
+        "name": "Comuna Ciuperceni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91486,
+        "name": "Comuna Crasna",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91511,
+        "name": "Comuna Crușeț",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91736,
+        "name": "Comuna Dănciuleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91739,
+        "name": "Comuna Dăneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91691,
+        "name": "Comuna Drăgoteşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91684,
+        "name": "Comuna Drãguţeşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91816,
+        "name": "Comuna Fãrcãşeşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91884,
+        "name": "Comuna Glogova",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 91889,
+        "name": "Comuna Godineşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92028,
+        "name": "Comuna Hurezani",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92086,
+        "name": "Comuna Ioneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92134,
+        "name": "Comuna Jupâneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92147,
+        "name": "Comuna Leleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92162,
+        "name": "Comuna Licurici",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92182,
+        "name": "Comuna Logreşti-Moşteni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92419,
+        "name": "Comuna Mătăsari",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92364,
+        "name": "Comuna Muşeteşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92429,
+        "name": "Comuna Negomir",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92527,
+        "name": "Comuna Padeş",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92571,
+        "name": "Comuna Peştişani",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92600,
+        "name": "Comuna Plopşoru",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92646,
+        "name": "Comuna Polovragi",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92675,
+        "name": "Comuna Prigoria",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92797,
+        "name": "Comuna Roşia De Amaradia",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92810,
+        "name": "Comuna Runcu",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93083,
+        "name": "Comuna Săcelu",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92869,
+        "name": "Comuna Samarineşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93115,
+        "name": "Comuna Săuleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92886,
+        "name": "Comuna Schela",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92891,
+        "name": "Comuna Scoarţa",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92951,
+        "name": "Comuna Slivileşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93017,
+        "name": "Comuna Stăneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92987,
+        "name": "Comuna Stejari",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 92997,
+        "name": "Comuna Stoina",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93579,
+        "name": "Comuna Ţânţăreni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93137,
+        "name": "Comuna Teleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93209,
+        "name": "Comuna Turburea",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93210,
+        "name": "Comuna Turcineşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93279,
+        "name": "Comuna Urdari",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93456,
+        "name": "Comuna Văgiuleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93382,
+        "name": "Comuna Vladimir",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93664,
+        "name": "Costești",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93681,
+        "name": "Covrigi",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93706,
+        "name": "Crasna",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93744,
+        "name": "Crușeț",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94124,
+        "name": "Dănciuleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94127,
+        "name": "Dăneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 93960,
+        "name": "Dobrița",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94046,
+        "name": "Drăgoteşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94051,
+        "name": "Drăguţeşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94265,
+        "name": "Fărcăşeşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94188,
+        "name": "Florești",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94364,
+        "name": "Glogova",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94369,
+        "name": "Godineşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94581,
+        "name": "Hurezani",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94677,
+        "name": "Ioneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94753,
+        "name": "Jupâneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94774,
+        "name": "Leleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94793,
+        "name": "Licurici",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94829,
+        "name": "Logreşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 94830,
+        "name": "Logrești Moșteni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95290,
+        "name": "Mătăsari",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95078,
+        "name": "Motru",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95159,
+        "name": "Municipiul Motru",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95192,
+        "name": "Municipiul Târgu Jiu",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95210,
+        "name": "Muşeteşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95311,
+        "name": "Negomir",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95357,
+        "name": "Novaci",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95477,
+        "name": "Oraş Bumbeşti-Jiu",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95578,
+        "name": "Oraş Rovinari",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95606,
+        "name": "Oraş Târgu Cãrbuneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95632,
+        "name": "Oraş Ţicleni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95603,
+        "name": "Oraş Tismana",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95605,
+        "name": "Oraş Turceni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95693,
+        "name": "Padeş",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95763,
+        "name": "Peșteana de Jos",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95762,
+        "name": "Peșteana Jiu",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95760,
+        "name": "Peştişani",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95796,
+        "name": "Piscoiu",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95825,
+        "name": "Plopşoru",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95830,
+        "name": "Ploștina",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95839,
+        "name": "Pociovaliștea",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95841,
+        "name": "Pocruia",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95861,
+        "name": "Poiana",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95898,
+        "name": "Pojogeni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95901,
+        "name": "Polovragi",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 95952,
+        "name": "Prigoria",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96128,
+        "name": "Roşia de Amaradia",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96122,
+        "name": "Rovinari",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96154,
+        "name": "Runcu",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 105994,
+        "name": "Săcelu",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96238,
+        "name": "Samarineşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96517,
+        "name": "Sâmbotin",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 106044,
+        "name": "Săuleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96276,
+        "name": "Scoarţa",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96367,
+        "name": "Slivileşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96402,
+        "name": "Sohodol",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96478,
+        "name": "Stăneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96425,
+        "name": "Stejari",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96430,
+        "name": "Sterpoaia",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96440,
+        "name": "Stoina",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 97111,
+        "name": "Ţânţăreni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96582,
+        "name": "Târgu Cărbuneşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96584,
+        "name": "Târgu Jiu",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 106080,
+        "name": "Teleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 97104,
+        "name": "Ţicleni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 106107,
+        "name": "Tismana",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96552,
+        "name": "Turburea",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96553,
+        "name": "Turceni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96555,
+        "name": "Turcineşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96673,
+        "name": "Urdari",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96957,
+        "name": "Văgiuleşti",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96737,
+        "name": "Valea Mare",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96812,
+        "name": "Vierșani",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96869,
+        "name": "Vlăduleni",
+        "country": "ROU",
+        "state": "GJ"
+    },
+    {
+        "id": 96884,
+        "name": "Voiteștii din Vale",
+        "country": "ROU",
+        "state": "GJ"
+    }
+]

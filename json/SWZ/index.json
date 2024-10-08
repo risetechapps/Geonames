@@ -1,1 +1,26 @@
-[{"id":0,"name":"Hhohho District","iso3":"HH","country":"SWZ"},{"id":1,"name":"Lubombo District","iso3":"LU","country":"SWZ"},{"id":2,"name":"Manzini District","iso3":"MA","country":"SWZ"},{"id":3,"name":"Shiselweni District","iso3":"SH","country":"SWZ"}]
+[
+    {
+        "id": 969,
+        "name": "Hhohho District",
+        "country": "SWZ",
+        "state": "HH"
+    },
+    {
+        "id": 970,
+        "name": "Lubombo District",
+        "country": "SWZ",
+        "state": "LU"
+    },
+    {
+        "id": 968,
+        "name": "Manzini District",
+        "country": "SWZ",
+        "state": "MA"
+    },
+    {
+        "id": 971,
+        "name": "Shiselweni District",
+        "country": "SWZ",
+        "state": "SH"
+    }
+]

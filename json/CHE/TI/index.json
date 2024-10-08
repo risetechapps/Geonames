@@ -1,1 +1,380 @@
-[{"id":0,"name":"Acquarossa","country":"CHE","state":"TI"},{"id":1,"name":"Agno","country":"CHE","state":"TI"},{"id":2,"name":"Airolo","country":"CHE","state":"TI"},{"id":3,"name":"Arzo","country":"CHE","state":"TI"},{"id":4,"name":"Ascona","country":"CHE","state":"TI"},{"id":5,"name":"Balerna","country":"CHE","state":"TI"},{"id":6,"name":"Bellinzona","country":"CHE","state":"TI"},{"id":7,"name":"Bellinzona District","country":"CHE","state":"TI"},{"id":8,"name":"Biasca","country":"CHE","state":"TI"},{"id":9,"name":"Bioggio","country":"CHE","state":"TI"},{"id":10,"name":"Blenio District","country":"CHE","state":"TI"},{"id":11,"name":"Bodio","country":"CHE","state":"TI"},{"id":12,"name":"Brissago","country":"CHE","state":"TI"},{"id":13,"name":"Cadempino","country":"CHE","state":"TI"},{"id":14,"name":"Cadenazzo","country":"CHE","state":"TI"},{"id":15,"name":"Cadro","country":"CHE","state":"TI"},{"id":16,"name":"Camorino","country":"CHE","state":"TI"},{"id":17,"name":"Canobbio","country":"CHE","state":"TI"},{"id":18,"name":"Caslano","country":"CHE","state":"TI"},{"id":19,"name":"Castel San Pietro","country":"CHE","state":"TI"},{"id":20,"name":"Cevio","country":"CHE","state":"TI"},{"id":21,"name":"Chiasso","country":"CHE","state":"TI"},{"id":22,"name":"Claro","country":"CHE","state":"TI"},{"id":23,"name":"Comano","country":"CHE","state":"TI"},{"id":24,"name":"Cugnasco","country":"CHE","state":"TI"},{"id":25,"name":"Faido","country":"CHE","state":"TI"},{"id":26,"name":"Giubiasco","country":"CHE","state":"TI"},{"id":27,"name":"Gordola","country":"CHE","state":"TI"},{"id":28,"name":"Gravesano","country":"CHE","state":"TI"},{"id":29,"name":"Lavertezzo","country":"CHE","state":"TI"},{"id":30,"name":"Leventina District","country":"CHE","state":"TI"},{"id":31,"name":"Ligornetto","country":"CHE","state":"TI"},{"id":32,"name":"Locarno","country":"CHE","state":"TI"},{"id":33,"name":"Locarno District","country":"CHE","state":"TI"},{"id":34,"name":"Lodrino","country":"CHE","state":"TI"},{"id":35,"name":"Losone","country":"CHE","state":"TI"},{"id":36,"name":"Lugano","country":"CHE","state":"TI"},{"id":37,"name":"Lugano District","country":"CHE","state":"TI"},{"id":38,"name":"Lumino","country":"CHE","state":"TI"},{"id":39,"name":"Magadino","country":"CHE","state":"TI"},{"id":40,"name":"Malvaglia","country":"CHE","state":"TI"},{"id":41,"name":"Massagno","country":"CHE","state":"TI"},{"id":42,"name":"Melano","country":"CHE","state":"TI"},{"id":43,"name":"Melide","country":"CHE","state":"TI"},{"id":44,"name":"Mendrisio","country":"CHE","state":"TI"},{"id":45,"name":"Mendrisio District","country":"CHE","state":"TI"},{"id":46,"name":"Minusio","country":"CHE","state":"TI"},{"id":47,"name":"Montagnola","country":"CHE","state":"TI"},{"id":48,"name":"Monte Carasso","country":"CHE","state":"TI"},{"id":49,"name":"Morbio Inferiore","country":"CHE","state":"TI"},{"id":50,"name":"Muralto","country":"CHE","state":"TI"},{"id":51,"name":"Novazzano","country":"CHE","state":"TI"},{"id":52,"name":"Pregassona","country":"CHE","state":"TI"},{"id":53,"name":"Pura","country":"CHE","state":"TI"},{"id":54,"name":"Riva San Vitale","country":"CHE","state":"TI"},{"id":55,"name":"Riviera District","country":"CHE","state":"TI"},{"id":56,"name":"Sementina","country":"CHE","state":"TI"},{"id":57,"name":"Sorengo","country":"CHE","state":"TI"},{"id":58,"name":"Stabio","country":"CHE","state":"TI"},{"id":59,"name":"Tesserete","country":"CHE","state":"TI"},{"id":60,"name":"Vallemaggia District","country":"CHE","state":"TI"},{"id":61,"name":"Verscio","country":"CHE","state":"TI"},{"id":62,"name":"Viganello","country":"CHE","state":"TI"}]
+[
+    {
+        "id": 17361,
+        "name": "Acquarossa",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17380,
+        "name": "Agno",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17384,
+        "name": "Airolo",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17413,
+        "name": "Arzo",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17414,
+        "name": "Ascona",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17434,
+        "name": "Balerna",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17452,
+        "name": "Bellinzona",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17453,
+        "name": "Bellinzona District",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17524,
+        "name": "Biasca",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17533,
+        "name": "Bioggio",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17540,
+        "name": "Blenio District",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17544,
+        "name": "Bodio",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17564,
+        "name": "Brissago",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17607,
+        "name": "Cadempino",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17608,
+        "name": "Cadenazzo",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17609,
+        "name": "Cadro",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17610,
+        "name": "Camorino",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17611,
+        "name": "Canobbio",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17613,
+        "name": "Caslano",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17614,
+        "name": "Castel San Pietro",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17620,
+        "name": "Cevio",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17636,
+        "name": "Chiasso",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17645,
+        "name": "Claro",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17648,
+        "name": "Comano",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17670,
+        "name": "Cugnasco",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17780,
+        "name": "Faido",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17836,
+        "name": "Giubiasco",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17854,
+        "name": "Gordola",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 17863,
+        "name": "Gravesano",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18053,
+        "name": "Lavertezzo",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18078,
+        "name": "Leventina District",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18084,
+        "name": "Ligornetto",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18088,
+        "name": "Locarno",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18089,
+        "name": "Locarno District",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18090,
+        "name": "Lodrino",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18091,
+        "name": "Losone",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18098,
+        "name": "Lugano",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18099,
+        "name": "Lugano District",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18100,
+        "name": "Lumino",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18114,
+        "name": "Magadino",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18120,
+        "name": "Malvaglia",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18128,
+        "name": "Massagno",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18145,
+        "name": "Melano",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18147,
+        "name": "Melide",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18149,
+        "name": "Mendrisio",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18150,
+        "name": "Mendrisio District",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18159,
+        "name": "Minusio",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18163,
+        "name": "Montagnola",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18166,
+        "name": "Monte Carasso",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18170,
+        "name": "Morbio Inferiore",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18180,
+        "name": "Muralto",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18231,
+        "name": "Novazzano",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18325,
+        "name": "Pregassona",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18331,
+        "name": "Pura",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18378,
+        "name": "Riva San Vitale",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18379,
+        "name": "Riviera District",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18507,
+        "name": "Sementina",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18530,
+        "name": "Sorengo",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18536,
+        "name": "Stabio",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18578,
+        "name": "Tesserete",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18658,
+        "name": "Vallemaggia District",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18671,
+        "name": "Verscio",
+        "country": "CHE",
+        "state": "TI"
+    },
+    {
+        "id": 18678,
+        "name": "Viganello",
+        "country": "CHE",
+        "state": "TI"
+    }
+]

@@ -1,1 +1,392 @@
-[{"id":0,"name":"Alta","country":"NOR","state":"54"},{"id":1,"name":"\u00c1vanuorri","country":"NOR","state":"54"},{"id":2,"name":"Balsfjord","country":"NOR","state":"54"},{"id":3,"name":"Bardu","country":"NOR","state":"54"},{"id":4,"name":"B\u00e5tsfjord","country":"NOR","state":"54"},{"id":5,"name":"Berg","country":"NOR","state":"54"},{"id":6,"name":"Berlev\u00e5g","country":"NOR","state":"54"},{"id":7,"name":"Bj\u00f8rnevatn","country":"NOR","state":"54"},{"id":8,"name":"Borkenes","country":"NOR","state":"54"},{"id":9,"name":"Dyr\u00f8y","country":"NOR","state":"54"},{"id":10,"name":"Evenskjer","country":"NOR","state":"54"},{"id":11,"name":"Finnsnes","country":"NOR","state":"54"},{"id":12,"name":"Gamvik","country":"NOR","state":"54"},{"id":13,"name":"Gratangen","country":"NOR","state":"54"},{"id":14,"name":"Gryllefjord","country":"NOR","state":"54"},{"id":15,"name":"Hammerfest","country":"NOR","state":"54"},{"id":16,"name":"Hansnes","country":"NOR","state":"54"},{"id":17,"name":"Harstad","country":"NOR","state":"54"},{"id":18,"name":"Hasvik","country":"NOR","state":"54"},{"id":19,"name":"Honningsv\u00e5g","country":"NOR","state":"54"},{"id":20,"name":"Ibestad","country":"NOR","state":"54"},{"id":21,"name":"K\u00e5fjord","country":"NOR","state":"54"},{"id":22,"name":"K\u00e1r\u00e1\u0161johka","country":"NOR","state":"54"},{"id":23,"name":"Karasjok","country":"NOR","state":"54"},{"id":24,"name":"Karls\u00f8y","country":"NOR","state":"54"},{"id":25,"name":"Kautokeino","country":"NOR","state":"54"},{"id":26,"name":"Kirkenes","country":"NOR","state":"54"},{"id":27,"name":"Kj\u00f8llefjord","country":"NOR","state":"54"},{"id":28,"name":"Kvalsund","country":"NOR","state":"54"},{"id":29,"name":"Kv\u00e6fjord","country":"NOR","state":"54"},{"id":30,"name":"Kv\u00e6nangen","country":"NOR","state":"54"},{"id":31,"name":"Lakselv","country":"NOR","state":"54"},{"id":32,"name":"Lavangen","country":"NOR","state":"54"},{"id":33,"name":"Lebesby","country":"NOR","state":"54"},{"id":34,"name":"Lenvik","country":"NOR","state":"54"},{"id":35,"name":"Loppa","country":"NOR","state":"54"},{"id":36,"name":"Lyngen","country":"NOR","state":"54"},{"id":37,"name":"Lyngseidet","country":"NOR","state":"54"},{"id":38,"name":"M\u00e5lselv","country":"NOR","state":"54"},{"id":39,"name":"M\u00e5s\u00f8y","country":"NOR","state":"54"},{"id":40,"name":"Mehamn","country":"NOR","state":"54"},{"id":41,"name":"Moen","country":"NOR","state":"54"},{"id":42,"name":"Nesseby","country":"NOR","state":"54"},{"id":43,"name":"Nordkapp","country":"NOR","state":"54"},{"id":44,"name":"Nordreisa","country":"NOR","state":"54"},{"id":45,"name":"Olderdalen","country":"NOR","state":"54"},{"id":46,"name":"\u00d8ksfjord","country":"NOR","state":"54"},{"id":47,"name":"Porsanger","country":"NOR","state":"54"},{"id":48,"name":"Rypefjord","country":"NOR","state":"54"},{"id":49,"name":"Salangen","country":"NOR","state":"54"},{"id":50,"name":"Setermoen","country":"NOR","state":"54"},{"id":51,"name":"Sj\u00f8vegan","country":"NOR","state":"54"},{"id":52,"name":"Sk\u00e5nland","country":"NOR","state":"54"},{"id":53,"name":"Skjerv\u00f8y","country":"NOR","state":"54"},{"id":54,"name":"S\u00f8r-Varanger","country":"NOR","state":"54"},{"id":55,"name":"S\u00f8rreisa","country":"NOR","state":"54"},{"id":56,"name":"Storfjord","country":"NOR","state":"54"},{"id":57,"name":"Storslett","country":"NOR","state":"54"},{"id":58,"name":"Storsteinnes","country":"NOR","state":"54"},{"id":59,"name":"Tana","country":"NOR","state":"54"},{"id":60,"name":"Torsken","country":"NOR","state":"54"},{"id":61,"name":"Tran\u00f8y","country":"NOR","state":"54"},{"id":62,"name":"Troms\u00f8","country":"NOR","state":"54"},{"id":63,"name":"Vads\u00f8","country":"NOR","state":"54"},{"id":64,"name":"Vard\u00f8","country":"NOR","state":"54"}]
+[
+    {
+        "id": 79039,
+        "name": "Alta",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79672,
+        "name": "Ávanuorri",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79062,
+        "name": "Balsfjord",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79064,
+        "name": "Bardu",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79093,
+        "name": "Båtsfjord",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79068,
+        "name": "Berg",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79072,
+        "name": "Berlevåg",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79079,
+        "name": "Bjørnevatn",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79084,
+        "name": "Borkenes",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79107,
+        "name": "Dyrøy",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79129,
+        "name": "Evenskjer",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79140,
+        "name": "Finnsnes",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79170,
+        "name": "Gamvik",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79188,
+        "name": "Gratangen",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79193,
+        "name": "Gryllefjord",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79203,
+        "name": "Hammerfest",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79204,
+        "name": "Hansnes",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79208,
+        "name": "Harstad",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79209,
+        "name": "Hasvik",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79233,
+        "name": "Honningsvåg",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79250,
+        "name": "Ibestad",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79300,
+        "name": "Kåfjord",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79299,
+        "name": "Kárášjohka",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79264,
+        "name": "Karasjok",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79266,
+        "name": "Karlsøy",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79268,
+        "name": "Kautokeino",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79270,
+        "name": "Kirkenes",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79272,
+        "name": "Kjøllefjord",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79290,
+        "name": "Kvalsund",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79296,
+        "name": "Kvæfjord",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79297,
+        "name": "Kvænangen",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79301,
+        "name": "Lakselv",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79306,
+        "name": "Lavangen",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79307,
+        "name": "Lebesby",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79316,
+        "name": "Lenvik",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79329,
+        "name": "Loppa",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79338,
+        "name": "Lyngen",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79339,
+        "name": "Lyngseidet",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79379,
+        "name": "Målselv",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79381,
+        "name": "Måsøy",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79356,
+        "name": "Mehamn",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79370,
+        "name": "Moen",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79396,
+        "name": "Nesseby",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79407,
+        "name": "Nordkapp",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79409,
+        "name": "Nordreisa",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79418,
+        "name": "Olderdalen",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79691,
+        "name": "Øksfjord",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79429,
+        "name": "Porsanger",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79462,
+        "name": "Rypefjord",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79474,
+        "name": "Salangen",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79496,
+        "name": "Setermoen",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79503,
+        "name": "Sjøvegan",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79524,
+        "name": "Skånland",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79511,
+        "name": "Skjervøy",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79582,
+        "name": "Sør-Varanger",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79585,
+        "name": "Sørreisa",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79551,
+        "name": "Storfjord",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79552,
+        "name": "Storslett",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79553,
+        "name": "Storsteinnes",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79588,
+        "name": "Tana",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79603,
+        "name": "Torsken",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79605,
+        "name": "Tranøy",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79608,
+        "name": "Tromsø",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79628,
+        "name": "Vadsø",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 79633,
+        "name": "Vardø",
+        "country": "NOR",
+        "state": "54"
+    }
+]

@@ -1,1 +1,314 @@
-[{"id":0,"name":"\u00c5lesund","country":"NOR","state":"15"},{"id":1,"name":"\u00c5ndalsnes","country":"NOR","state":"15"},{"id":2,"name":"Aukra","country":"NOR","state":"15"},{"id":3,"name":"Aure","country":"NOR","state":"15"},{"id":4,"name":"Aver\u00f8y","country":"NOR","state":"15"},{"id":5,"name":"Batnfjords\u00f8ra","country":"NOR","state":"15"},{"id":6,"name":"Brattv\u00e5g","country":"NOR","state":"15"},{"id":7,"name":"Eide","country":"NOR","state":"15"},{"id":8,"name":"Eidsv\u00e5g","country":"NOR","state":"15"},{"id":9,"name":"Elnesv\u00e5gen","country":"NOR","state":"15"},{"id":10,"name":"Fr\u00e6na","country":"NOR","state":"15"},{"id":11,"name":"Giske","country":"NOR","state":"15"},{"id":12,"name":"Gjemnes","country":"NOR","state":"15"},{"id":13,"name":"Halsa","country":"NOR","state":"15"},{"id":14,"name":"Haram","country":"NOR","state":"15"},{"id":15,"name":"Hareid","country":"NOR","state":"15"},{"id":16,"name":"Her\u00f8y","country":"NOR","state":"15"},{"id":17,"name":"Hjelset","country":"NOR","state":"15"},{"id":18,"name":"Hopen","country":"NOR","state":"15"},{"id":19,"name":"Kristiansund","country":"NOR","state":"15"},{"id":20,"name":"Larsnes","country":"NOR","state":"15"},{"id":21,"name":"Midsund","country":"NOR","state":"15"},{"id":22,"name":"Molde","country":"NOR","state":"15"},{"id":23,"name":"Nesset","country":"NOR","state":"15"},{"id":24,"name":"Norddal","country":"NOR","state":"15"},{"id":25,"name":"Nordstranda","country":"NOR","state":"15"},{"id":26,"name":"\u00d8rskog","country":"NOR","state":"15"},{"id":27,"name":"\u00d8rsta","country":"NOR","state":"15"},{"id":28,"name":"Rauma","country":"NOR","state":"15"},{"id":29,"name":"Rensvik","country":"NOR","state":"15"},{"id":30,"name":"Sande","country":"NOR","state":"15"},{"id":31,"name":"Sand\u00f8y","country":"NOR","state":"15"},{"id":32,"name":"Sj\u00f8holt","country":"NOR","state":"15"},{"id":33,"name":"Skodje","country":"NOR","state":"15"},{"id":34,"name":"Sm\u00f8la","country":"NOR","state":"15"},{"id":35,"name":"Steinshamn","country":"NOR","state":"15"},{"id":36,"name":"Stordal","country":"NOR","state":"15"},{"id":37,"name":"Stranda","country":"NOR","state":"15"},{"id":38,"name":"Sula","country":"NOR","state":"15"},{"id":39,"name":"Sunndal","country":"NOR","state":"15"},{"id":40,"name":"Sunndals\u00f8ra","country":"NOR","state":"15"},{"id":41,"name":"Surnadal","country":"NOR","state":"15"},{"id":42,"name":"Sykkylven","country":"NOR","state":"15"},{"id":43,"name":"Tingvoll","country":"NOR","state":"15"},{"id":44,"name":"Tomra","country":"NOR","state":"15"},{"id":45,"name":"Ulstein","country":"NOR","state":"15"},{"id":46,"name":"Ulsteinvik","country":"NOR","state":"15"},{"id":47,"name":"Ulsteinvik weather pws station","country":"NOR","state":"15"},{"id":48,"name":"Vanylven","country":"NOR","state":"15"},{"id":49,"name":"Vatne","country":"NOR","state":"15"},{"id":50,"name":"Vestnes","country":"NOR","state":"15"},{"id":51,"name":"Volda","country":"NOR","state":"15"}]
+[
+    {
+        "id": 79678,
+        "name": "Ålesund",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79680,
+        "name": "Åndalsnes",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79050,
+        "name": "Aukra",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79052,
+        "name": "Aure",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79058,
+        "name": "Averøy",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79066,
+        "name": "Batnfjordsøra",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79086,
+        "name": "Brattvåg",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79111,
+        "name": "Eide",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79116,
+        "name": "Eidsvåg",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79121,
+        "name": "Elnesvågen",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79164,
+        "name": "Fræna",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79176,
+        "name": "Giske",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79177,
+        "name": "Gjemnes",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79200,
+        "name": "Halsa",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79205,
+        "name": "Haram",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79207,
+        "name": "Hareid",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79221,
+        "name": "Herøy",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79225,
+        "name": "Hjelset",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79234,
+        "name": "Hopen",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79288,
+        "name": "Kristiansund",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79303,
+        "name": "Larsnes",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79364,
+        "name": "Midsund",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79372,
+        "name": "Molde",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79397,
+        "name": "Nesset",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79405,
+        "name": "Norddal",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79410,
+        "name": "Nordstranda",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79697,
+        "name": "Ørskog",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79698,
+        "name": "Ørsta",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79440,
+        "name": "Rauma",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79448,
+        "name": "Rensvik",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79481,
+        "name": "Sande",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79486,
+        "name": "Sandøy",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79501,
+        "name": "Sjøholt",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79514,
+        "name": "Skodje",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79525,
+        "name": "Smøla",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79542,
+        "name": "Steinshamn",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79549,
+        "name": "Stordal",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79556,
+        "name": "Stranda",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79562,
+        "name": "Sula",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79565,
+        "name": "Sunndal",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79566,
+        "name": "Sunndalsøra",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79567,
+        "name": "Surnadal",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79573,
+        "name": "Sykkylven",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79593,
+        "name": "Tingvoll",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79600,
+        "name": "Tomra",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79623,
+        "name": "Ulstein",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79624,
+        "name": "Ulsteinvik",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79625,
+        "name": "Ulsteinvik weather pws station",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79632,
+        "name": "Vanylven",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79635,
+        "name": "Vatne",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79644,
+        "name": "Vestnes",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 79660,
+        "name": "Volda",
+        "country": "NOR",
+        "state": "15"
+    }
+]

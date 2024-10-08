@@ -1,1 +1,56 @@
-[{"id":0,"name":"Annob\u00f3n Province","iso3":"AN","country":"GNQ"},{"id":1,"name":"Bioko Norte Province","iso3":"BN","country":"GNQ"},{"id":2,"name":"Bioko Sur Province","iso3":"BS","country":"GNQ"},{"id":3,"name":"Centro Sur Province","iso3":"CS","country":"GNQ"},{"id":4,"name":"Insular Region","iso3":"I","country":"GNQ"},{"id":5,"name":"Ki\u00e9-Ntem Province","iso3":"KN","country":"GNQ"},{"id":6,"name":"Litoral Province","iso3":"LI","country":"GNQ"},{"id":7,"name":"R\u00edo Muni","iso3":"C","country":"GNQ"},{"id":8,"name":"Wele-Nzas Province","iso3":"WN","country":"GNQ"}]
+[
+    {
+        "id": 3444,
+        "name": "Annobón Province",
+        "country": "GNQ",
+        "state": "AN"
+    },
+    {
+        "id": 3446,
+        "name": "Bioko Norte Province",
+        "country": "GNQ",
+        "state": "BN"
+    },
+    {
+        "id": 3443,
+        "name": "Bioko Sur Province",
+        "country": "GNQ",
+        "state": "BS"
+    },
+    {
+        "id": 3445,
+        "name": "Centro Sur Province",
+        "country": "GNQ",
+        "state": "CS"
+    },
+    {
+        "id": 3442,
+        "name": "Insular Region",
+        "country": "GNQ",
+        "state": "I"
+    },
+    {
+        "id": 3439,
+        "name": "Kié-Ntem Province",
+        "country": "GNQ",
+        "state": "KN"
+    },
+    {
+        "id": 3441,
+        "name": "Litoral Province",
+        "country": "GNQ",
+        "state": "LI"
+    },
+    {
+        "id": 3438,
+        "name": "Río Muni",
+        "country": "GNQ",
+        "state": "C"
+    },
+    {
+        "id": 3440,
+        "name": "Wele-Nzas Province",
+        "country": "GNQ",
+        "state": "WN"
+    }
+]

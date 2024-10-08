@@ -1,1 +1,80 @@
-[{"id":0,"name":"Col\u00f3n","country":"COL","state":"PUT"},{"id":1,"name":"Mocoa","country":"COL","state":"PUT"},{"id":2,"name":"Orito","country":"COL","state":"PUT"},{"id":3,"name":"Puerto As\u00eds","country":"COL","state":"PUT"},{"id":4,"name":"Puerto Caicedo","country":"COL","state":"PUT"},{"id":5,"name":"Puerto Guzm\u00e1n","country":"COL","state":"PUT"},{"id":6,"name":"Puerto Legu\u00edzamo","country":"COL","state":"PUT"},{"id":7,"name":"San Francisco","country":"COL","state":"PUT"},{"id":8,"name":"San Miguel","country":"COL","state":"PUT"},{"id":9,"name":"Santiago","country":"COL","state":"PUT"},{"id":10,"name":"Sibundoy","country":"COL","state":"PUT"},{"id":11,"name":"Valle del Guamuez","country":"COL","state":"PUT"},{"id":12,"name":"Villagarz\u00f3n","country":"COL","state":"PUT"}]
+[
+    {
+        "id": 20721,
+        "name": "Colón",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 21089,
+        "name": "Mocoa",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 21152,
+        "name": "Orito",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 21233,
+        "name": "Puerto Asís",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 149248,
+        "name": "Puerto Caicedo",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 21243,
+        "name": "Puerto Guzmán",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 21244,
+        "name": "Puerto Leguízamo",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 21356,
+        "name": "San Francisco",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 21389,
+        "name": "San Miguel",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 21435,
+        "name": "Santiago",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 21454,
+        "name": "Sibundoy",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 21581,
+        "name": "Valle del Guamuez",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 21602,
+        "name": "Villagarzón",
+        "country": "COL",
+        "state": "PUT"
+    }
+]

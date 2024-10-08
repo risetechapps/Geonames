@@ -1,1 +1,38 @@
-[{"id":0,"name":"Balkh","country":"AFG","state":"BAL"},{"id":1,"name":"Dowlat\u0101b\u0101d","country":"AFG","state":"BAL"},{"id":2,"name":"Khulm","country":"AFG","state":"BAL"},{"id":3,"name":"Lab-Sar","country":"AFG","state":"BAL"},{"id":4,"name":"Maz\u0101r-e Shar\u012bf","country":"AFG","state":"BAL"},{"id":5,"name":"Qarch\u012b Gak","country":"AFG","state":"BAL"}]
+[
+    {
+        "id": 55,
+        "name": "Balkh",
+        "country": "AFG",
+        "state": "BAL"
+    },
+    {
+        "id": 65,
+        "name": "Dowlatābād",
+        "country": "AFG",
+        "state": "BAL"
+    },
+    {
+        "id": 85,
+        "name": "Khulm",
+        "country": "AFG",
+        "state": "BAL"
+    },
+    {
+        "id": 91,
+        "name": "Lab-Sar",
+        "country": "AFG",
+        "state": "BAL"
+    },
+    {
+        "id": 97,
+        "name": "Mazār-e Sharīf",
+        "country": "AFG",
+        "state": "BAL"
+    },
+    {
+        "id": 112,
+        "name": "Qarchī Gak",
+        "country": "AFG",
+        "state": "BAL"
+    }
+]

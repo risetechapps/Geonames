@@ -1,1 +1,80 @@
-[{"id":0,"name":"Bosnian Podrinje Canton","iso3":"05","country":"BIH"},{"id":1,"name":"Br\u010dko District","iso3":"BRC","country":"BIH"},{"id":2,"name":"Canton 10","iso3":"10","country":"BIH"},{"id":3,"name":"Central Bosnia Canton","iso3":"06","country":"BIH"},{"id":4,"name":"Federation of Bosnia and Herzegovina","iso3":"BIH","country":"BIH"},{"id":5,"name":"Herzegovina-Neretva Canton","iso3":"07","country":"BIH"},{"id":6,"name":"Posavina Canton","iso3":"02","country":"BIH"},{"id":7,"name":"Republika Srpska","iso3":"SRP","country":"BIH"},{"id":8,"name":"Sarajevo Canton","iso3":"09","country":"BIH"},{"id":9,"name":"Tuzla Canton","iso3":"03","country":"BIH"},{"id":10,"name":"Una-Sana Canton","iso3":"01","country":"BIH"},{"id":11,"name":"West Herzegovina Canton","iso3":"08","country":"BIH"},{"id":12,"name":"Zenica-Doboj Canton","iso3":"04","country":"BIH"}]
+[
+    {
+        "id": 472,
+        "name": "Bosnian Podrinje Canton",
+        "country": "BIH",
+        "state": "05"
+    },
+    {
+        "id": 460,
+        "name": "Brčko District",
+        "country": "BIH",
+        "state": "BRC"
+    },
+    {
+        "id": 471,
+        "name": "Canton 10",
+        "country": "BIH",
+        "state": "10"
+    },
+    {
+        "id": 462,
+        "name": "Central Bosnia Canton",
+        "country": "BIH",
+        "state": "06"
+    },
+    {
+        "id": 467,
+        "name": "Federation of Bosnia and Herzegovina",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 463,
+        "name": "Herzegovina-Neretva Canton",
+        "country": "BIH",
+        "state": "07"
+    },
+    {
+        "id": 464,
+        "name": "Posavina Canton",
+        "country": "BIH",
+        "state": "02"
+    },
+    {
+        "id": 470,
+        "name": "Republika Srpska",
+        "country": "BIH",
+        "state": "SRP"
+    },
+    {
+        "id": 466,
+        "name": "Sarajevo Canton",
+        "country": "BIH",
+        "state": "09"
+    },
+    {
+        "id": 461,
+        "name": "Tuzla Canton",
+        "country": "BIH",
+        "state": "03"
+    },
+    {
+        "id": 465,
+        "name": "Una-Sana Canton",
+        "country": "BIH",
+        "state": "01"
+    },
+    {
+        "id": 469,
+        "name": "West Herzegovina Canton",
+        "country": "BIH",
+        "state": "08"
+    },
+    {
+        "id": 468,
+        "name": "Zenica-Doboj Canton",
+        "country": "BIH",
+        "state": "04"
+    }
+]

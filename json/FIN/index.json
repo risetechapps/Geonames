@@ -1,1 +1,116 @@
-[{"id":0,"name":"\u00c5land Islands","iso3":"01","country":"FIN"},{"id":1,"name":"Central Finland","iso3":"08","country":"FIN"},{"id":2,"name":"Central Ostrobothnia","iso3":"07","country":"FIN"},{"id":3,"name":"Finland Proper","iso3":"19","country":"FIN"},{"id":4,"name":"Kainuu","iso3":"05","country":"FIN"},{"id":5,"name":"Kymenlaakso","iso3":"09","country":"FIN"},{"id":6,"name":"Lapland","iso3":"10","country":"FIN"},{"id":7,"name":"North Karelia","iso3":"13","country":"FIN"},{"id":8,"name":"Northern Ostrobothnia","iso3":"14","country":"FIN"},{"id":9,"name":"Northern Savonia","iso3":"15","country":"FIN"},{"id":10,"name":"Ostrobothnia","iso3":"12","country":"FIN"},{"id":11,"name":"P\u00e4ij\u00e4nne Tavastia","iso3":"16","country":"FIN"},{"id":12,"name":"Pirkanmaa","iso3":"11","country":"FIN"},{"id":13,"name":"Satakunta","iso3":"17","country":"FIN"},{"id":14,"name":"South Karelia","iso3":"02","country":"FIN"},{"id":15,"name":"Southern Ostrobothnia","iso3":"03","country":"FIN"},{"id":16,"name":"Southern Savonia","iso3":"04","country":"FIN"},{"id":17,"name":"Tavastia Proper","iso3":"06","country":"FIN"},{"id":18,"name":"Uusimaa","iso3":"18","country":"FIN"}]
+[
+    {
+        "id": 1509,
+        "name": "Åland Islands",
+        "country": "FIN",
+        "state": "01"
+    },
+    {
+        "id": 1511,
+        "name": "Central Finland",
+        "country": "FIN",
+        "state": "08"
+    },
+    {
+        "id": 1494,
+        "name": "Central Ostrobothnia",
+        "country": "FIN",
+        "state": "07"
+    },
+    {
+        "id": 1507,
+        "name": "Finland Proper",
+        "country": "FIN",
+        "state": "19"
+    },
+    {
+        "id": 1496,
+        "name": "Kainuu",
+        "country": "FIN",
+        "state": "05"
+    },
+    {
+        "id": 1512,
+        "name": "Kymenlaakso",
+        "country": "FIN",
+        "state": "09"
+    },
+    {
+        "id": 1500,
+        "name": "Lapland",
+        "country": "FIN",
+        "state": "10"
+    },
+    {
+        "id": 1504,
+        "name": "North Karelia",
+        "country": "FIN",
+        "state": "13"
+    },
+    {
+        "id": 1505,
+        "name": "Northern Ostrobothnia",
+        "country": "FIN",
+        "state": "14"
+    },
+    {
+        "id": 1503,
+        "name": "Northern Savonia",
+        "country": "FIN",
+        "state": "15"
+    },
+    {
+        "id": 1508,
+        "name": "Ostrobothnia",
+        "country": "FIN",
+        "state": "12"
+    },
+    {
+        "id": 1502,
+        "name": "Päijänne Tavastia",
+        "country": "FIN",
+        "state": "16"
+    },
+    {
+        "id": 1506,
+        "name": "Pirkanmaa",
+        "country": "FIN",
+        "state": "11"
+    },
+    {
+        "id": 1501,
+        "name": "Satakunta",
+        "country": "FIN",
+        "state": "17"
+    },
+    {
+        "id": 1497,
+        "name": "South Karelia",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 1498,
+        "name": "Southern Ostrobothnia",
+        "country": "FIN",
+        "state": "03"
+    },
+    {
+        "id": 1495,
+        "name": "Southern Savonia",
+        "country": "FIN",
+        "state": "04"
+    },
+    {
+        "id": 1493,
+        "name": "Tavastia Proper",
+        "country": "FIN",
+        "state": "06"
+    },
+    {
+        "id": 1510,
+        "name": "Uusimaa",
+        "country": "FIN",
+        "state": "18"
+    }
+]

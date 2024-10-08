@@ -1,1 +1,92 @@
-[{"id":0,"name":"Ayeyarwady Region","iso3":"07","country":"MMR"},{"id":1,"name":"Bago","iso3":"02","country":"MMR"},{"id":2,"name":"Chin State","iso3":"14","country":"MMR"},{"id":3,"name":"Kachin State","iso3":"11","country":"MMR"},{"id":4,"name":"Kayah State","iso3":"12","country":"MMR"},{"id":5,"name":"Kayin State","iso3":"13","country":"MMR"},{"id":6,"name":"Magway Region","iso3":"03","country":"MMR"},{"id":7,"name":"Mandalay Region","iso3":"04","country":"MMR"},{"id":8,"name":"Mon State","iso3":"15","country":"MMR"},{"id":9,"name":"Naypyidaw Union Territory","iso3":"18","country":"MMR"},{"id":10,"name":"Rakhine State","iso3":"16","country":"MMR"},{"id":11,"name":"Sagaing Region","iso3":"01","country":"MMR"},{"id":12,"name":"Shan State","iso3":"17","country":"MMR"},{"id":13,"name":"Tanintharyi Region","iso3":"05","country":"MMR"},{"id":14,"name":"Yangon Region","iso3":"06","country":"MMR"}]
+[
+    {
+        "id": 2142,
+        "name": "Ayeyarwady Region",
+        "country": "MMR",
+        "state": "07"
+    },
+    {
+        "id": 2141,
+        "name": "Bago",
+        "country": "MMR",
+        "state": "02"
+    },
+    {
+        "id": 2137,
+        "name": "Chin State",
+        "country": "MMR",
+        "state": "14"
+    },
+    {
+        "id": 2143,
+        "name": "Kachin State",
+        "country": "MMR",
+        "state": "11"
+    },
+    {
+        "id": 2144,
+        "name": "Kayah State",
+        "country": "MMR",
+        "state": "12"
+    },
+    {
+        "id": 2133,
+        "name": "Kayin State",
+        "country": "MMR",
+        "state": "13"
+    },
+    {
+        "id": 2136,
+        "name": "Magway Region",
+        "country": "MMR",
+        "state": "03"
+    },
+    {
+        "id": 2134,
+        "name": "Mandalay Region",
+        "country": "MMR",
+        "state": "04"
+    },
+    {
+        "id": 2147,
+        "name": "Mon State",
+        "country": "MMR",
+        "state": "15"
+    },
+    {
+        "id": 2146,
+        "name": "Naypyidaw Union Territory",
+        "country": "MMR",
+        "state": "18"
+    },
+    {
+        "id": 2138,
+        "name": "Rakhine State",
+        "country": "MMR",
+        "state": "16"
+    },
+    {
+        "id": 2145,
+        "name": "Sagaing Region",
+        "country": "MMR",
+        "state": "01"
+    },
+    {
+        "id": 2139,
+        "name": "Shan State",
+        "country": "MMR",
+        "state": "17"
+    },
+    {
+        "id": 2140,
+        "name": "Tanintharyi Region",
+        "country": "MMR",
+        "state": "05"
+    },
+    {
+        "id": 2135,
+        "name": "Yangon Region",
+        "country": "MMR",
+        "state": "06"
+    }
+]

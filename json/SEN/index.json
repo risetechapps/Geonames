@@ -1,1 +1,86 @@
-[{"id":0,"name":"Dakar","iso3":"DK","country":"SEN"},{"id":1,"name":"Diourbel Region","iso3":"DB","country":"SEN"},{"id":2,"name":"Fatick","iso3":"FK","country":"SEN"},{"id":3,"name":"Kaffrine","iso3":"KA","country":"SEN"},{"id":4,"name":"Kaolack","iso3":"KL","country":"SEN"},{"id":5,"name":"K\u00e9dougou","iso3":"KE","country":"SEN"},{"id":6,"name":"Kolda","iso3":"KD","country":"SEN"},{"id":7,"name":"Louga","iso3":"LG","country":"SEN"},{"id":8,"name":"Matam","iso3":"MT","country":"SEN"},{"id":9,"name":"Saint-Louis","iso3":"SL","country":"SEN"},{"id":10,"name":"S\u00e9dhiou","iso3":"SE","country":"SEN"},{"id":11,"name":"Tambacounda Region","iso3":"TC","country":"SEN"},{"id":12,"name":"Thi\u00e8s Region","iso3":"TH","country":"SEN"},{"id":13,"name":"Ziguinchor","iso3":"ZG","country":"SEN"}]
+[
+    {
+        "id": 473,
+        "name": "Dakar",
+        "country": "SEN",
+        "state": "DK"
+    },
+    {
+        "id": 480,
+        "name": "Diourbel Region",
+        "country": "SEN",
+        "state": "DB"
+    },
+    {
+        "id": 479,
+        "name": "Fatick",
+        "country": "SEN",
+        "state": "FK"
+    },
+    {
+        "id": 475,
+        "name": "Kaffrine",
+        "country": "SEN",
+        "state": "KA"
+    },
+    {
+        "id": 483,
+        "name": "Kaolack",
+        "country": "SEN",
+        "state": "KL"
+    },
+    {
+        "id": 481,
+        "name": "Kédougou",
+        "country": "SEN",
+        "state": "KE"
+    },
+    {
+        "id": 474,
+        "name": "Kolda",
+        "country": "SEN",
+        "state": "KD"
+    },
+    {
+        "id": 485,
+        "name": "Louga",
+        "country": "SEN",
+        "state": "LG"
+    },
+    {
+        "id": 476,
+        "name": "Matam",
+        "country": "SEN",
+        "state": "MT"
+    },
+    {
+        "id": 477,
+        "name": "Saint-Louis",
+        "country": "SEN",
+        "state": "SL"
+    },
+    {
+        "id": 482,
+        "name": "Sédhiou",
+        "country": "SEN",
+        "state": "SE"
+    },
+    {
+        "id": 486,
+        "name": "Tambacounda Region",
+        "country": "SEN",
+        "state": "TC"
+    },
+    {
+        "id": 484,
+        "name": "Thiès Region",
+        "country": "SEN",
+        "state": "TH"
+    },
+    {
+        "id": 478,
+        "name": "Ziguinchor",
+        "country": "SEN",
+        "state": "ZG"
+    }
+]

@@ -1,1 +1,224 @@
-[{"id":0,"name":"Bagrationovsk","country":"RUS","state":"KGD"},{"id":1,"name":"Baltiysk","country":"RUS","state":"KGD"},{"id":2,"name":"Bol'shoe Isakovo","country":"RUS","state":"KGD"},{"id":3,"name":"Chernyakhovsk","country":"RUS","state":"KGD"},{"id":4,"name":"Donskoye","country":"RUS","state":"KGD"},{"id":5,"name":"Gur\u2019yevsk","country":"RUS","state":"KGD"},{"id":6,"name":"Gusev","country":"RUS","state":"KGD"},{"id":7,"name":"Gvardeysk","country":"RUS","state":"KGD"},{"id":8,"name":"Kaliningrad","country":"RUS","state":"KGD"},{"id":9,"name":"Khrabrovo","country":"RUS","state":"KGD"},{"id":10,"name":"Krasnoznamensk","country":"RUS","state":"KGD"},{"id":11,"name":"Ladushkin","country":"RUS","state":"KGD"},{"id":12,"name":"Maloye Isakovo","country":"RUS","state":"KGD"},{"id":13,"name":"Mamonovo","country":"RUS","state":"KGD"},{"id":14,"name":"Neman","country":"RUS","state":"KGD"},{"id":15,"name":"Nemanskiy Rayon","country":"RUS","state":"KGD"},{"id":16,"name":"Nesterov","country":"RUS","state":"KGD"},{"id":17,"name":"Nesterovskiy Rayon","country":"RUS","state":"KGD"},{"id":18,"name":"Otradnoye","country":"RUS","state":"KGD"},{"id":19,"name":"Oz\u00ebrsk","country":"RUS","state":"KGD"},{"id":20,"name":"Ozerskiy Rayon","country":"RUS","state":"KGD"},{"id":21,"name":"Pionerskiy","country":"RUS","state":"KGD"},{"id":22,"name":"Polessk","country":"RUS","state":"KGD"},{"id":23,"name":"Pravdinsk","country":"RUS","state":"KGD"},{"id":24,"name":"Primorsk","country":"RUS","state":"KGD"},{"id":25,"name":"Slavsk","country":"RUS","state":"KGD"},{"id":26,"name":"Slavskiy Rayon","country":"RUS","state":"KGD"},{"id":27,"name":"Sovetsk","country":"RUS","state":"KGD"},{"id":28,"name":"Svetlogorsk","country":"RUS","state":"KGD"},{"id":29,"name":"Svetlyy","country":"RUS","state":"KGD"},{"id":30,"name":"Volochayevskoye","country":"RUS","state":"KGD"},{"id":31,"name":"Vzmorye","country":"RUS","state":"KGD"},{"id":32,"name":"Yantarnyy","country":"RUS","state":"KGD"},{"id":33,"name":"Yuzhnyy","country":"RUS","state":"KGD"},{"id":34,"name":"Zelenogradsk","country":"RUS","state":"KGD"},{"id":35,"name":"Zheleznodorozhnyy","country":"RUS","state":"KGD"},{"id":36,"name":"Znamensk","country":"RUS","state":"KGD"}]
+[
+    {
+        "id": 97755,
+        "name": "Bagrationovsk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 97784,
+        "name": "Baltiysk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 97989,
+        "name": "Bol'shoe Isakovo",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 98177,
+        "name": "Chernyakhovsk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 98316,
+        "name": "Donskoye",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 98616,
+        "name": "Gur’yevsk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 98618,
+        "name": "Gusev",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 98624,
+        "name": "Gvardeysk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 98787,
+        "name": "Kaliningrad",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 99013,
+        "name": "Khrabrovo",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 99356,
+        "name": "Krasnoznamensk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 99534,
+        "name": "Ladushkin",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 99769,
+        "name": "Maloye Isakovo",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 99777,
+        "name": "Mamonovo",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 100100,
+        "name": "Neman",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 100101,
+        "name": "Nemanskiy Rayon",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 100111,
+        "name": "Nesterov",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 100113,
+        "name": "Nesterovskiy Rayon",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 100507,
+        "name": "Otradnoye",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 100524,
+        "name": "Ozërsk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 100520,
+        "name": "Ozerskiy Rayon",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 100680,
+        "name": "Pionerskiy",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 100753,
+        "name": "Polessk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 100802,
+        "name": "Pravdinsk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 100830,
+        "name": "Primorsk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 101402,
+        "name": "Slavsk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 101403,
+        "name": "Slavskiy Rayon",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 101504,
+        "name": "Sovetsk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 101701,
+        "name": "Svetlogorsk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 101705,
+        "name": "Svetlyy",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 102350,
+        "name": "Volochayevskoye",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 102456,
+        "name": "Vzmorye",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 102486,
+        "name": "Yantarnyy",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 102619,
+        "name": "Yuzhnyy",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 102699,
+        "name": "Zelenogradsk",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 102718,
+        "name": "Zheleznodorozhnyy",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 102758,
+        "name": "Znamensk",
+        "country": "RUS",
+        "state": "KGD"
+    }
+]

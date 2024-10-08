@@ -1,1 +1,32 @@
-[{"id":0,"name":"Dasht-e Arch\u012b","country":"AFG","state":"KDZ"},{"id":1,"name":"Im\u0101m \u015e\u0101\u1e29ib","country":"AFG","state":"KDZ"},{"id":2,"name":"Khanabad","country":"AFG","state":"KDZ"},{"id":3,"name":"Kunduz","country":"AFG","state":"KDZ"},{"id":4,"name":"Qar\u0101wul","country":"AFG","state":"KDZ"}]
+[
+    {
+        "id": 64,
+        "name": "Dasht-e Archī",
+        "country": "AFG",
+        "state": "KDZ"
+    },
+    {
+        "id": 75,
+        "name": "Imām Şāḩib",
+        "country": "AFG",
+        "state": "KDZ"
+    },
+    {
+        "id": 83,
+        "name": "Khanabad",
+        "country": "AFG",
+        "state": "KDZ"
+    },
+    {
+        "id": 89,
+        "name": "Kunduz",
+        "country": "AFG",
+        "state": "KDZ"
+    },
+    {
+        "id": 114,
+        "name": "Qarāwul",
+        "country": "AFG",
+        "state": "KDZ"
+    }
+]

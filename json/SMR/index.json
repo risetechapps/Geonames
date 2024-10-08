@@ -1,1 +1,56 @@
-[{"id":0,"name":"Acquaviva","iso3":"01","country":"SMR"},{"id":1,"name":"Borgo Maggiore","iso3":"06","country":"SMR"},{"id":2,"name":"Chiesanuova","iso3":"02","country":"SMR"},{"id":3,"name":"Domagnano","iso3":"03","country":"SMR"},{"id":4,"name":"Faetano","iso3":"04","country":"SMR"},{"id":5,"name":"Fiorentino","iso3":"05","country":"SMR"},{"id":6,"name":"Montegiardino","iso3":"08","country":"SMR"},{"id":7,"name":"San Marino","iso3":"07","country":"SMR"},{"id":8,"name":"Serravalle","iso3":"09","country":"SMR"}]
+[
+    {
+        "id": 59,
+        "name": "Acquaviva",
+        "country": "SMR",
+        "state": "01"
+    },
+    {
+        "id": 61,
+        "name": "Borgo Maggiore",
+        "country": "SMR",
+        "state": "06"
+    },
+    {
+        "id": 60,
+        "name": "Chiesanuova",
+        "country": "SMR",
+        "state": "02"
+    },
+    {
+        "id": 64,
+        "name": "Domagnano",
+        "country": "SMR",
+        "state": "03"
+    },
+    {
+        "id": 62,
+        "name": "Faetano",
+        "country": "SMR",
+        "state": "04"
+    },
+    {
+        "id": 66,
+        "name": "Fiorentino",
+        "country": "SMR",
+        "state": "05"
+    },
+    {
+        "id": 63,
+        "name": "Montegiardino",
+        "country": "SMR",
+        "state": "08"
+    },
+    {
+        "id": 58,
+        "name": "San Marino",
+        "country": "SMR",
+        "state": "07"
+    },
+    {
+        "id": 65,
+        "name": "Serravalle",
+        "country": "SMR",
+        "state": "09"
+    }
+]

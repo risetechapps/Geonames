@@ -1,1 +1,86 @@
-[{"id":0,"name":"Al-Hasakah","iso3":"HA","country":"SYR"},{"id":1,"name":"Al-Raqqah","iso3":"RA","country":"SYR"},{"id":2,"name":"Aleppo","iso3":"HL","country":"SYR"},{"id":3,"name":"As-Suwayda","iso3":"SU","country":"SYR"},{"id":4,"name":"Damascus","iso3":"DI","country":"SYR"},{"id":5,"name":"Daraa","iso3":"DR","country":"SYR"},{"id":6,"name":"Deir ez-Zor","iso3":"DY","country":"SYR"},{"id":7,"name":"Hama","iso3":"HM","country":"SYR"},{"id":8,"name":"Homs","iso3":"HI","country":"SYR"},{"id":9,"name":"Idlib","iso3":"ID","country":"SYR"},{"id":10,"name":"Latakia","iso3":"LA","country":"SYR"},{"id":11,"name":"Quneitra","iso3":"QU","country":"SYR"},{"id":12,"name":"Rif Dimashq","iso3":"RD","country":"SYR"},{"id":13,"name":"Tartus","iso3":"TA","country":"SYR"}]
+[
+    {
+        "id": 2941,
+        "name": "Al-Hasakah",
+        "country": "SYR",
+        "state": "HA"
+    },
+    {
+        "id": 2944,
+        "name": "Al-Raqqah",
+        "country": "SYR",
+        "state": "RA"
+    },
+    {
+        "id": 2946,
+        "name": "Aleppo",
+        "country": "SYR",
+        "state": "HL"
+    },
+    {
+        "id": 2936,
+        "name": "As-Suwayda",
+        "country": "SYR",
+        "state": "SU"
+    },
+    {
+        "id": 2939,
+        "name": "Damascus",
+        "country": "SYR",
+        "state": "DI"
+    },
+    {
+        "id": 2945,
+        "name": "Daraa",
+        "country": "SYR",
+        "state": "DR"
+    },
+    {
+        "id": 2937,
+        "name": "Deir ez-Zor",
+        "country": "SYR",
+        "state": "DY"
+    },
+    {
+        "id": 2934,
+        "name": "Hama",
+        "country": "SYR",
+        "state": "HM"
+    },
+    {
+        "id": 2942,
+        "name": "Homs",
+        "country": "SYR",
+        "state": "HI"
+    },
+    {
+        "id": 2940,
+        "name": "Idlib",
+        "country": "SYR",
+        "state": "ID"
+    },
+    {
+        "id": 2938,
+        "name": "Latakia",
+        "country": "SYR",
+        "state": "LA"
+    },
+    {
+        "id": 2943,
+        "name": "Quneitra",
+        "country": "SYR",
+        "state": "QU"
+    },
+    {
+        "id": 2935,
+        "name": "Rif Dimashq",
+        "country": "SYR",
+        "state": "RD"
+    },
+    {
+        "id": 2947,
+        "name": "Tartus",
+        "country": "SYR",
+        "state": "TA"
+    }
+]

@@ -1,1 +1,662 @@
-[{"id":0,"name":"Ambuclao","country":"PHL","state":"CAN"},{"id":1,"name":"Amlimay","country":"PHL","state":"CAN"},{"id":2,"name":"Ampusungan","country":"PHL","state":"CAN"},{"id":3,"name":"Angad","country":"PHL","state":"CAN"},{"id":4,"name":"Atok","country":"PHL","state":"CAN"},{"id":5,"name":"Baculongan","country":"PHL","state":"CAN"},{"id":6,"name":"Baguinge","country":"PHL","state":"CAN"},{"id":7,"name":"Baguio","country":"PHL","state":"CAN"},{"id":8,"name":"Bakun","country":"PHL","state":"CAN"},{"id":9,"name":"Balbalan","country":"PHL","state":"CAN"},{"id":10,"name":"Banaue","country":"PHL","state":"CAN"},{"id":11,"name":"Bangao","country":"PHL","state":"CAN"},{"id":12,"name":"Bangued","country":"PHL","state":"CAN"},{"id":13,"name":"Bantay","country":"PHL","state":"CAN"},{"id":14,"name":"Barlig","country":"PHL","state":"CAN"},{"id":15,"name":"Bauko","country":"PHL","state":"CAN"},{"id":16,"name":"Bayabas","country":"PHL","state":"CAN"},{"id":17,"name":"Besao","country":"PHL","state":"CAN"},{"id":18,"name":"Betwagan","country":"PHL","state":"CAN"},{"id":19,"name":"Bocos","country":"PHL","state":"CAN"},{"id":20,"name":"Bokod","country":"PHL","state":"CAN"},{"id":21,"name":"Boliney","country":"PHL","state":"CAN"},{"id":22,"name":"Bontoc","country":"PHL","state":"CAN"},{"id":23,"name":"Bucay","country":"PHL","state":"CAN"},{"id":24,"name":"Bucloc","country":"PHL","state":"CAN"},{"id":25,"name":"Buguias","country":"PHL","state":"CAN"},{"id":26,"name":"Bulalacao","country":"PHL","state":"CAN"},{"id":27,"name":"Butigui","country":"PHL","state":"CAN"},{"id":28,"name":"Calaba","country":"PHL","state":"CAN"},{"id":29,"name":"Calanasan","country":"PHL","state":"CAN"},{"id":30,"name":"Conner","country":"PHL","state":"CAN"},{"id":31,"name":"Daguioman","country":"PHL","state":"CAN"},{"id":32,"name":"Dalipey","country":"PHL","state":"CAN"},{"id":33,"name":"Dalupirip","country":"PHL","state":"CAN"},{"id":34,"name":"Danglas","country":"PHL","state":"CAN"},{"id":35,"name":"Dolores","country":"PHL","state":"CAN"},{"id":36,"name":"Flora","country":"PHL","state":"CAN"},{"id":37,"name":"Gambang","country":"PHL","state":"CAN"},{"id":38,"name":"Guinsadan","country":"PHL","state":"CAN"},{"id":39,"name":"Hapao","country":"PHL","state":"CAN"},{"id":40,"name":"Hingyon","country":"PHL","state":"CAN"},{"id":41,"name":"Hungduan","country":"PHL","state":"CAN"},{"id":42,"name":"Itogon","country":"PHL","state":"CAN"},{"id":43,"name":"Kabayan","country":"PHL","state":"CAN"},{"id":44,"name":"Kabugao","country":"PHL","state":"CAN"},{"id":45,"name":"Kapangan","country":"PHL","state":"CAN"},{"id":46,"name":"Kiangan","country":"PHL","state":"CAN"},{"id":47,"name":"Kibungan","country":"PHL","state":"CAN"},{"id":48,"name":"La Paz","country":"PHL","state":"CAN"},{"id":49,"name":"La Trinidad","country":"PHL","state":"CAN"},{"id":50,"name":"Lacub","country":"PHL","state":"CAN"},{"id":51,"name":"Lagangilang","country":"PHL","state":"CAN"},{"id":52,"name":"Lagawe","country":"PHL","state":"CAN"},{"id":53,"name":"Lagayan","country":"PHL","state":"CAN"},{"id":54,"name":"Lamut","country":"PHL","state":"CAN"},{"id":55,"name":"Langiden","country":"PHL","state":"CAN"},{"id":56,"name":"Laya","country":"PHL","state":"CAN"},{"id":57,"name":"Licuan","country":"PHL","state":"CAN"},{"id":58,"name":"Licuan-Baay","country":"PHL","state":"CAN"},{"id":59,"name":"Liwan","country":"PHL","state":"CAN"},{"id":60,"name":"Loacan","country":"PHL","state":"CAN"},{"id":61,"name":"Luba","country":"PHL","state":"CAN"},{"id":62,"name":"Lubuagan","country":"PHL","state":"CAN"},{"id":63,"name":"Luna","country":"PHL","state":"CAN"},{"id":64,"name":"Malibcong","country":"PHL","state":"CAN"},{"id":65,"name":"Manabo","country":"PHL","state":"CAN"},{"id":66,"name":"Mankayan","country":"PHL","state":"CAN"},{"id":67,"name":"Mayoyao","country":"PHL","state":"CAN"},{"id":68,"name":"Monamon","country":"PHL","state":"CAN"},{"id":69,"name":"Nangalisan","country":"PHL","state":"CAN"},{"id":70,"name":"Natonin","country":"PHL","state":"CAN"},{"id":71,"name":"Natubleng","country":"PHL","state":"CAN"},{"id":72,"name":"Paracelis","country":"PHL","state":"CAN"},{"id":73,"name":"Pasil","country":"PHL","state":"CAN"},{"id":74,"name":"Pe\u00f1arrubia","country":"PHL","state":"CAN"},{"id":75,"name":"Pidigan","country":"PHL","state":"CAN"},{"id":76,"name":"Pilar","country":"PHL","state":"CAN"},{"id":77,"name":"Pinukpuk","country":"PHL","state":"CAN"},{"id":78,"name":"Potia","country":"PHL","state":"CAN"},{"id":79,"name":"Pudtol","country":"PHL","state":"CAN"},{"id":80,"name":"Rizal","country":"PHL","state":"CAN"},{"id":81,"name":"Sabangan","country":"PHL","state":"CAN"},{"id":82,"name":"Sablan","country":"PHL","state":"CAN"},{"id":83,"name":"Sadanga","country":"PHL","state":"CAN"},{"id":84,"name":"Sadsadan","country":"PHL","state":"CAN"},{"id":85,"name":"Sagada","country":"PHL","state":"CAN"},{"id":86,"name":"Sal-Lapadan","country":"PHL","state":"CAN"},{"id":87,"name":"San Isidro","country":"PHL","state":"CAN"},{"id":88,"name":"San Juan","country":"PHL","state":"CAN"},{"id":89,"name":"San Quintin","country":"PHL","state":"CAN"},{"id":90,"name":"San Ramon","country":"PHL","state":"CAN"},{"id":91,"name":"Santa Marcela","country":"PHL","state":"CAN"},{"id":92,"name":"Tabaan","country":"PHL","state":"CAN"},{"id":93,"name":"Tabio","country":"PHL","state":"CAN"},{"id":94,"name":"Tabuk","country":"PHL","state":"CAN"},{"id":95,"name":"Tacadang","country":"PHL","state":"CAN"},{"id":96,"name":"Tadian","country":"PHL","state":"CAN"},{"id":97,"name":"Taloy","country":"PHL","state":"CAN"},{"id":98,"name":"Tanudan","country":"PHL","state":"CAN"},{"id":99,"name":"Tayum","country":"PHL","state":"CAN"},{"id":100,"name":"Tineg","country":"PHL","state":"CAN"},{"id":101,"name":"Tinglayan","country":"PHL","state":"CAN"},{"id":102,"name":"Tinoc","country":"PHL","state":"CAN"},{"id":103,"name":"Topdac","country":"PHL","state":"CAN"},{"id":104,"name":"Tuba","country":"PHL","state":"CAN"},{"id":105,"name":"Tublay","country":"PHL","state":"CAN"},{"id":106,"name":"Tubo","country":"PHL","state":"CAN"},{"id":107,"name":"Tuding","country":"PHL","state":"CAN"},{"id":108,"name":"Villarosa","country":"PHL","state":"CAN"},{"id":109,"name":"Villaviciosa","country":"PHL","state":"CAN"}]
+[
+    {
+        "id": 144764,
+        "name": "Ambuclao",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144765,
+        "name": "Amlimay",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144766,
+        "name": "Ampusungan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144767,
+        "name": "Angad",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144768,
+        "name": "Atok",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144769,
+        "name": "Baculongan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144770,
+        "name": "Baguinge",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144771,
+        "name": "Baguio",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144772,
+        "name": "Bakun",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144773,
+        "name": "Balbalan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144774,
+        "name": "Banaue",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144775,
+        "name": "Bangao",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144776,
+        "name": "Bangued",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144777,
+        "name": "Bantay",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144778,
+        "name": "Barlig",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144779,
+        "name": "Bauko",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144780,
+        "name": "Bayabas",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144781,
+        "name": "Besao",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144782,
+        "name": "Betwagan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144783,
+        "name": "Bocos",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144784,
+        "name": "Bokod",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144785,
+        "name": "Boliney",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144786,
+        "name": "Bontoc",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144787,
+        "name": "Bucay",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144788,
+        "name": "Bucloc",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144789,
+        "name": "Buguias",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144790,
+        "name": "Bulalacao",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144791,
+        "name": "Butigui",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144792,
+        "name": "Calaba",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144793,
+        "name": "Calanasan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144795,
+        "name": "Conner",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144796,
+        "name": "Daguioman",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144797,
+        "name": "Dalipey",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144798,
+        "name": "Dalupirip",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144799,
+        "name": "Danglas",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144800,
+        "name": "Dolores",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144801,
+        "name": "Flora",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144802,
+        "name": "Gambang",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144803,
+        "name": "Guinsadan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144804,
+        "name": "Hapao",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144805,
+        "name": "Hingyon",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144806,
+        "name": "Hungduan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144808,
+        "name": "Itogon",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144809,
+        "name": "Kabayan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144810,
+        "name": "Kabugao",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144811,
+        "name": "Kapangan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144812,
+        "name": "Kiangan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144813,
+        "name": "Kibungan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144814,
+        "name": "La Paz",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144815,
+        "name": "La Trinidad",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144816,
+        "name": "Lacub",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144817,
+        "name": "Lagangilang",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144818,
+        "name": "Lagawe",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144819,
+        "name": "Lagayan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144820,
+        "name": "Lamut",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144821,
+        "name": "Langiden",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144822,
+        "name": "Laya",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144823,
+        "name": "Licuan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144824,
+        "name": "Licuan-Baay",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144825,
+        "name": "Liwan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144826,
+        "name": "Loacan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144827,
+        "name": "Luba",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144828,
+        "name": "Lubuagan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144829,
+        "name": "Luna",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144830,
+        "name": "Malibcong",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144831,
+        "name": "Manabo",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144832,
+        "name": "Mankayan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144833,
+        "name": "Mayoyao",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144834,
+        "name": "Monamon",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144835,
+        "name": "Nangalisan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144836,
+        "name": "Natonin",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144837,
+        "name": "Natubleng",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144838,
+        "name": "Paracelis",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144839,
+        "name": "Pasil",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144840,
+        "name": "Peñarrubia",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144841,
+        "name": "Pidigan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144842,
+        "name": "Pilar",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144843,
+        "name": "Pinukpuk",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144844,
+        "name": "Potia",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144845,
+        "name": "Pudtol",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144846,
+        "name": "Rizal",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144847,
+        "name": "Sabangan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144848,
+        "name": "Sablan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144849,
+        "name": "Sadanga",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144850,
+        "name": "Sadsadan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144851,
+        "name": "Sagada",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144852,
+        "name": "Sal-Lapadan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144853,
+        "name": "San Isidro",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144854,
+        "name": "San Juan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144855,
+        "name": "San Quintin",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144856,
+        "name": "San Ramon",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144857,
+        "name": "Santa Marcela",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144858,
+        "name": "Tabaan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144859,
+        "name": "Tabio",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144860,
+        "name": "Tabuk",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144862,
+        "name": "Tacadang",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144863,
+        "name": "Tadian",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144864,
+        "name": "Taloy",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144865,
+        "name": "Tanudan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144866,
+        "name": "Tayum",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144867,
+        "name": "Tineg",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144868,
+        "name": "Tinglayan",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144869,
+        "name": "Tinoc",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144870,
+        "name": "Topdac",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144871,
+        "name": "Tuba",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144872,
+        "name": "Tublay",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144873,
+        "name": "Tubo",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144874,
+        "name": "Tuding",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144875,
+        "name": "Villarosa",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 144876,
+        "name": "Villaviciosa",
+        "country": "PHL",
+        "state": "CAN"
+    }
+]

@@ -1,1 +1,38 @@
-[{"id":0,"name":"Aigu\u00e1","country":"URY","state":"MA"},{"id":1,"name":"Maldonado","country":"URY","state":"MA"},{"id":2,"name":"Pan de Az\u00facar","country":"URY","state":"MA"},{"id":3,"name":"Piri\u00e1polis","country":"URY","state":"MA"},{"id":4,"name":"Punta del Este","country":"URY","state":"MA"},{"id":5,"name":"San Carlos","country":"URY","state":"MA"}]
+[
+    {
+        "id": 129775,
+        "name": "Aiguá",
+        "country": "URY",
+        "state": "MA"
+    },
+    {
+        "id": 129825,
+        "name": "Maldonado",
+        "country": "URY",
+        "state": "MA"
+    },
+    {
+        "id": 129840,
+        "name": "Pan de Azúcar",
+        "country": "URY",
+        "state": "MA"
+    },
+    {
+        "id": 129846,
+        "name": "Piriápolis",
+        "country": "URY",
+        "state": "MA"
+    },
+    {
+        "id": 129848,
+        "name": "Punta del Este",
+        "country": "URY",
+        "state": "MA"
+    },
+    {
+        "id": 129860,
+        "name": "San Carlos",
+        "country": "URY",
+        "state": "MA"
+    }
+]

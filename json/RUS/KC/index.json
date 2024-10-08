@@ -1,1 +1,206 @@
-[{"id":0,"name":"Adyge-Khabl\u2019","country":"RUS","state":"KC"},{"id":1,"name":"Ali-Berdukovskiy","country":"RUS","state":"KC"},{"id":2,"name":"Besleney","country":"RUS","state":"KC"},{"id":3,"name":"Cherkessk","country":"RUS","state":"KC"},{"id":4,"name":"Druzhba","country":"RUS","state":"KC"},{"id":5,"name":"Ikon-Khalk","country":"RUS","state":"KC"},{"id":6,"name":"Ispravnaya","country":"RUS","state":"KC"},{"id":7,"name":"Karachayevsk","country":"RUS","state":"KC"},{"id":8,"name":"Karachayevskiy Rayon","country":"RUS","state":"KC"},{"id":9,"name":"Kardonikskaya","country":"RUS","state":"KC"},{"id":10,"name":"Kavkazskiy","country":"RUS","state":"KC"},{"id":11,"name":"Khabez","country":"RUS","state":"KC"},{"id":12,"name":"Krasnyy Kurgan","country":"RUS","state":"KC"},{"id":13,"name":"Kumysh","country":"RUS","state":"KC"},{"id":14,"name":"Kurdzhinovo","country":"RUS","state":"KC"},{"id":15,"name":"Kyzyl-Oktyabr\u2019skiy","country":"RUS","state":"KC"},{"id":16,"name":"Malokarachayevskiy Rayon","country":"RUS","state":"KC"},{"id":17,"name":"Mednogorskiy","country":"RUS","state":"KC"},{"id":18,"name":"Nizhniy Arkhyz","country":"RUS","state":"KC"},{"id":19,"name":"Novyy Karachay","country":"RUS","state":"KC"},{"id":20,"name":"Ordzhonikidzevskiy","country":"RUS","state":"KC"},{"id":21,"name":"Pervomayskoye","country":"RUS","state":"KC"},{"id":22,"name":"Pravokubanskiy","country":"RUS","state":"KC"},{"id":23,"name":"Pregradnaya","country":"RUS","state":"KC"},{"id":24,"name":"Prikubanskiy Rayon","country":"RUS","state":"KC"},{"id":25,"name":"Psyzh","country":"RUS","state":"KC"},{"id":26,"name":"Sary-Tyuz","country":"RUS","state":"KC"},{"id":27,"name":"Storozhevaya","country":"RUS","state":"KC"},{"id":28,"name":"Tereze","country":"RUS","state":"KC"},{"id":29,"name":"Uchkeken","country":"RUS","state":"KC"},{"id":30,"name":"Uchkulan","country":"RUS","state":"KC"},{"id":31,"name":"Udarnyy","country":"RUS","state":"KC"},{"id":32,"name":"Ust\u2019-Dzheguta","country":"RUS","state":"KC"},{"id":33,"name":"Zelenchukskaya","country":"RUS","state":"KC"}]
+[
+    {
+        "id": 97505,
+        "name": "Adyge-Khabl’",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 97588,
+        "name": "Ali-Berdukovskiy",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 97911,
+        "name": "Besleney",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 98160,
+        "name": "Cherkessk",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 98328,
+        "name": "Druzhba",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 98638,
+        "name": "Ikon-Khalk",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 98714,
+        "name": "Ispravnaya",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 98857,
+        "name": "Karachayevsk",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 98858,
+        "name": "Karachayevskiy Rayon",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 98873,
+        "name": "Kardonikskaya",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 98914,
+        "name": "Kavkazskiy",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 98952,
+        "name": "Khabez",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 99366,
+        "name": "Krasnyy Kurgan",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 99443,
+        "name": "Kumysh",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 99458,
+        "name": "Kurdzhinovo",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 99528,
+        "name": "Kyzyl-Oktyabr’skiy",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 99763,
+        "name": "Malokarachayevskiy Rayon",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 99841,
+        "name": "Mednogorskiy",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 100162,
+        "name": "Nizhniy Arkhyz",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 100344,
+        "name": "Novyy Karachay",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 100460,
+        "name": "Ordzhonikidzevskiy",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 100624,
+        "name": "Pervomayskoye",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 100805,
+        "name": "Pravokubanskiy",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 100809,
+        "name": "Pregradnaya",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 100825,
+        "name": "Prikubanskiy Rayon",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 100884,
+        "name": "Psyzh",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 101125,
+        "name": "Sary-Tyuz",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 101623,
+        "name": "Storozhevaya",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 101830,
+        "name": "Tereze",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 102014,
+        "name": "Uchkeken",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 102016,
+        "name": "Uchkulan",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 102019,
+        "name": "Udarnyy",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 102119,
+        "name": "Ust’-Dzheguta",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 102689,
+        "name": "Zelenchukskaya",
+        "country": "RUS",
+        "state": "KC"
+    }
+]

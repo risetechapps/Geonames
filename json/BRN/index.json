@@ -1,1 +1,26 @@
-[{"id":0,"name":"Belait District","iso3":"BE","country":"BRN"},{"id":1,"name":"Brunei-Muara District","iso3":"BM","country":"BRN"},{"id":2,"name":"Temburong District","iso3":"TE","country":"BRN"},{"id":3,"name":"Tutong District","iso3":"TU","country":"BRN"}]
+[
+    {
+        "id": 1217,
+        "name": "Belait District",
+        "country": "BRN",
+        "state": "BE"
+    },
+    {
+        "id": 1216,
+        "name": "Brunei-Muara District",
+        "country": "BRN",
+        "state": "BM"
+    },
+    {
+        "id": 1218,
+        "name": "Temburong District",
+        "country": "BRN",
+        "state": "TE"
+    },
+    {
+        "id": 1219,
+        "name": "Tutong District",
+        "country": "BRN",
+        "state": "TU"
+    }
+]

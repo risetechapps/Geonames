@@ -1,1 +1,74 @@
-[{"id":0,"name":"Bouenza Department","iso3":"11","country":"COG"},{"id":1,"name":"Brazzaville","iso3":"BZV","country":"COG"},{"id":2,"name":"Cuvette Department","iso3":"8","country":"COG"},{"id":3,"name":"Cuvette-Ouest Department","iso3":"15","country":"COG"},{"id":4,"name":"Kouilou Department","iso3":"5","country":"COG"},{"id":5,"name":"L\u00e9koumou Department","iso3":"2","country":"COG"},{"id":6,"name":"Likouala Department","iso3":"7","country":"COG"},{"id":7,"name":"Niari Department","iso3":"9","country":"COG"},{"id":8,"name":"Plateaux Department","iso3":"14","country":"COG"},{"id":9,"name":"Pointe-Noire","iso3":"16","country":"COG"},{"id":10,"name":"Pool Department","iso3":"12","country":"COG"},{"id":11,"name":"Sangha Department","iso3":"13","country":"COG"}]
+[
+    {
+        "id": 2866,
+        "name": "Bouenza Department",
+        "country": "COG",
+        "state": "11"
+    },
+    {
+        "id": 2870,
+        "name": "Brazzaville",
+        "country": "COG",
+        "state": "BZV"
+    },
+    {
+        "id": 2864,
+        "name": "Cuvette Department",
+        "country": "COG",
+        "state": "8"
+    },
+    {
+        "id": 2869,
+        "name": "Cuvette-Ouest Department",
+        "country": "COG",
+        "state": "15"
+    },
+    {
+        "id": 2867,
+        "name": "Kouilou Department",
+        "country": "COG",
+        "state": "5"
+    },
+    {
+        "id": 2868,
+        "name": "Lékoumou Department",
+        "country": "COG",
+        "state": "2"
+    },
+    {
+        "id": 2865,
+        "name": "Likouala Department",
+        "country": "COG",
+        "state": "7"
+    },
+    {
+        "id": 2872,
+        "name": "Niari Department",
+        "country": "COG",
+        "state": "9"
+    },
+    {
+        "id": 2862,
+        "name": "Plateaux Department",
+        "country": "COG",
+        "state": "14"
+    },
+    {
+        "id": 2863,
+        "name": "Pointe-Noire",
+        "country": "COG",
+        "state": "16"
+    },
+    {
+        "id": 2873,
+        "name": "Pool Department",
+        "country": "COG",
+        "state": "12"
+    },
+    {
+        "id": 2871,
+        "name": "Sangha Department",
+        "country": "COG",
+        "state": "13"
+    }
+]

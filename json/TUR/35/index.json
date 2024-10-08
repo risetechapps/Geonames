@@ -1,1 +1,188 @@
-[{"id":0,"name":"Alia\u011fa","country":"TUR","state":"35"},{"id":1,"name":"Bal\u00e7ova","country":"TUR","state":"35"},{"id":2,"name":"Bay\u0131nd\u0131r","country":"TUR","state":"35"},{"id":3,"name":"Bayrakl\u0131","country":"TUR","state":"35"},{"id":4,"name":"Bergama","country":"TUR","state":"35"},{"id":5,"name":"Beyda\u011f","country":"TUR","state":"35"},{"id":6,"name":"Bornova","country":"TUR","state":"35"},{"id":7,"name":"Buca","country":"TUR","state":"35"},{"id":8,"name":"\u00c7e\u015fme","country":"TUR","state":"35"},{"id":9,"name":"\u00c7i\u011fli","country":"TUR","state":"35"},{"id":10,"name":"Dikili","country":"TUR","state":"35"},{"id":11,"name":"Fo\u00e7a","country":"TUR","state":"35"},{"id":12,"name":"Gaziemir","country":"TUR","state":"35"},{"id":13,"name":"G\u00fczelbah\u00e7e","country":"TUR","state":"35"},{"id":14,"name":"\u0130zmir","country":"TUR","state":"35"},{"id":15,"name":"Karaba\u011flar","country":"TUR","state":"35"},{"id":16,"name":"Karaburun","country":"TUR","state":"35"},{"id":17,"name":"Kar\u015f\u0131yaka","country":"TUR","state":"35"},{"id":18,"name":"Kemalpa\u015fa","country":"TUR","state":"35"},{"id":19,"name":"Kiraz","country":"TUR","state":"35"},{"id":20,"name":"K\u0131n\u0131k","country":"TUR","state":"35"},{"id":21,"name":"Konak","country":"TUR","state":"35"},{"id":22,"name":"Menderes","country":"TUR","state":"35"},{"id":23,"name":"Menemen","country":"TUR","state":"35"},{"id":24,"name":"Narl\u0131dere","country":"TUR","state":"35"},{"id":25,"name":"\u00d6demi\u015f","country":"TUR","state":"35"},{"id":26,"name":"Seferihisar","country":"TUR","state":"35"},{"id":27,"name":"Sel\u00e7uk","country":"TUR","state":"35"},{"id":28,"name":"Tire","country":"TUR","state":"35"},{"id":29,"name":"Torbal\u0131","country":"TUR","state":"35"},{"id":30,"name":"Urla","country":"TUR","state":"35"}]
+[
+    {
+        "id": 107130,
+        "name": "Aliağa",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107275,
+        "name": "Balçova",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107305,
+        "name": "Bayındır",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107300,
+        "name": "Bayraklı",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107331,
+        "name": "Bergama",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107335,
+        "name": "Beydağ",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107370,
+        "name": "Bornova",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107399,
+        "name": "Buca",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108825,
+        "name": "Çeşme",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108840,
+        "name": "Çiğli",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107495,
+        "name": "Dikili",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107642,
+        "name": "Foça",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107646,
+        "name": "Gaziemir",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107760,
+        "name": "Güzelbahçe",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 153785,
+        "name": "İzmir",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107886,
+        "name": "Karabağlar",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107887,
+        "name": "Karaburun",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107937,
+        "name": "Karşıyaka",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107976,
+        "name": "Kemalpaşa",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 107999,
+        "name": "Kiraz",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108101,
+        "name": "Kınık",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108013,
+        "name": "Konak",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108170,
+        "name": "Menderes",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108171,
+        "name": "Menemen",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108240,
+        "name": "Narlıdere",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108860,
+        "name": "Ödemiş",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108423,
+        "name": "Seferihisar",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108434,
+        "name": "Selçuk",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108578,
+        "name": "Tire",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108587,
+        "name": "Torbalı",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 108633,
+        "name": "Urla",
+        "country": "TUR",
+        "state": "35"
+    }
+]

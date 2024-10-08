@@ -1,1 +1,500 @@
-[{"id":0,"name":"Altai Krai","iso3":"ALT","country":"RUS"},{"id":1,"name":"Altai Republic","iso3":"AL","country":"RUS"},{"id":2,"name":"Amur Oblast","iso3":"AMU","country":"RUS"},{"id":3,"name":"Arkhangelsk","iso3":"ARK","country":"RUS"},{"id":4,"name":"Astrakhan Oblast","iso3":"AST","country":"RUS"},{"id":5,"name":"Belgorod Oblast","iso3":"BEL","country":"RUS"},{"id":6,"name":"Bryansk Oblast","iso3":"BRY","country":"RUS"},{"id":7,"name":"Chechen Republic","iso3":"CE","country":"RUS"},{"id":8,"name":"Chelyabinsk Oblast","iso3":"CHE","country":"RUS"},{"id":9,"name":"Chukotka Autonomous Okrug","iso3":"CHU","country":"RUS"},{"id":10,"name":"Chuvash Republic","iso3":"CU","country":"RUS"},{"id":11,"name":"Irkutsk","iso3":"IRK","country":"RUS"},{"id":12,"name":"Ivanovo Oblast","iso3":"IVA","country":"RUS"},{"id":13,"name":"Jewish Autonomous Oblast","iso3":"YEV","country":"RUS"},{"id":14,"name":"Kabardino-Balkar Republic","iso3":"KB","country":"RUS"},{"id":15,"name":"Kaliningrad","iso3":"KGD","country":"RUS"},{"id":16,"name":"Kaluga Oblast","iso3":"KLU","country":"RUS"},{"id":17,"name":"Kamchatka Krai","iso3":"KAM","country":"RUS"},{"id":18,"name":"Karachay-Cherkess Republic","iso3":"KC","country":"RUS"},{"id":19,"name":"Kemerovo Oblast","iso3":"KEM","country":"RUS"},{"id":20,"name":"Khabarovsk Krai","iso3":"KHA","country":"RUS"},{"id":21,"name":"Khanty-Mansi Autonomous Okrug","iso3":"KHM","country":"RUS"},{"id":22,"name":"Kirov Oblast","iso3":"KIR","country":"RUS"},{"id":23,"name":"Komi Republic","iso3":"KO","country":"RUS"},{"id":24,"name":"Kostroma Oblast","iso3":"KOS","country":"RUS"},{"id":25,"name":"Krasnodar Krai","iso3":"KDA","country":"RUS"},{"id":26,"name":"Krasnoyarsk Krai","iso3":"KYA","country":"RUS"},{"id":27,"name":"Kurgan Oblast","iso3":"KGN","country":"RUS"},{"id":28,"name":"Kursk Oblast","iso3":"KRS","country":"RUS"},{"id":29,"name":"Leningrad Oblast","iso3":"LEN","country":"RUS"},{"id":30,"name":"Lipetsk Oblast","iso3":"LIP","country":"RUS"},{"id":31,"name":"Magadan Oblast","iso3":"MAG","country":"RUS"},{"id":32,"name":"Mari El Republic","iso3":"ME","country":"RUS"},{"id":33,"name":"Moscow","iso3":"MOW","country":"RUS"},{"id":34,"name":"Moscow Oblast","iso3":"MOS","country":"RUS"},{"id":35,"name":"Murmansk Oblast","iso3":"MUR","country":"RUS"},{"id":36,"name":"Nenets Autonomous Okrug","iso3":"NEN","country":"RUS"},{"id":37,"name":"Nizhny Novgorod Oblast","iso3":"NIZ","country":"RUS"},{"id":38,"name":"Novgorod Oblast","iso3":"NGR","country":"RUS"},{"id":39,"name":"Novosibirsk","iso3":"NVS","country":"RUS"},{"id":40,"name":"Omsk Oblast","iso3":"OMS","country":"RUS"},{"id":41,"name":"Orenburg Oblast","iso3":"ORE","country":"RUS"},{"id":42,"name":"Oryol Oblast","iso3":"ORL","country":"RUS"},{"id":43,"name":"Penza Oblast","iso3":"PNZ","country":"RUS"},{"id":44,"name":"Perm Krai","iso3":"PER","country":"RUS"},{"id":45,"name":"Primorsky Krai","iso3":"PRI","country":"RUS"},{"id":46,"name":"Pskov Oblast","iso3":"PSK","country":"RUS"},{"id":47,"name":"Republic of Adygea","iso3":"AD","country":"RUS"},{"id":48,"name":"Republic of Bashkortostan","iso3":"BA","country":"RUS"},{"id":49,"name":"Republic of Buryatia","iso3":"BU","country":"RUS"},{"id":50,"name":"Republic of Dagestan","iso3":"DA","country":"RUS"},{"id":51,"name":"Republic of Ingushetia","iso3":"IN","country":"RUS"},{"id":52,"name":"Republic of Kalmykia","iso3":"KL","country":"RUS"},{"id":53,"name":"Republic of Karelia","iso3":"KR","country":"RUS"},{"id":54,"name":"Republic of Khakassia","iso3":"KK","country":"RUS"},{"id":55,"name":"Republic of Mordovia","iso3":"MO","country":"RUS"},{"id":56,"name":"Republic of North Ossetia-Alania","iso3":"SE","country":"RUS"},{"id":57,"name":"Republic of Tatarstan","iso3":"TA","country":"RUS"},{"id":58,"name":"Rostov Oblast","iso3":"ROS","country":"RUS"},{"id":59,"name":"Ryazan Oblast","iso3":"RYA","country":"RUS"},{"id":60,"name":"Saint Petersburg","iso3":"SPE","country":"RUS"},{"id":61,"name":"Sakha Republic","iso3":"SA","country":"RUS"},{"id":62,"name":"Sakhalin","iso3":"SAK","country":"RUS"},{"id":63,"name":"Samara Oblast","iso3":"SAM","country":"RUS"},{"id":64,"name":"Saratov Oblast","iso3":"SAR","country":"RUS"},{"id":65,"name":"Smolensk Oblast","iso3":"SMO","country":"RUS"},{"id":66,"name":"Stavropol Krai","iso3":"STA","country":"RUS"},{"id":67,"name":"Sverdlovsk","iso3":"SVE","country":"RUS"},{"id":68,"name":"Tambov Oblast","iso3":"TAM","country":"RUS"},{"id":69,"name":"Tomsk Oblast","iso3":"TOM","country":"RUS"},{"id":70,"name":"Tula Oblast","iso3":"TUL","country":"RUS"},{"id":71,"name":"Tuva Republic","iso3":"TY","country":"RUS"},{"id":72,"name":"Tver Oblast","iso3":"TVE","country":"RUS"},{"id":73,"name":"Tyumen Oblast","iso3":"TYU","country":"RUS"},{"id":74,"name":"Udmurt Republic","iso3":"UD","country":"RUS"},{"id":75,"name":"Ulyanovsk Oblast","iso3":"ULY","country":"RUS"},{"id":76,"name":"Vladimir Oblast","iso3":"VLA","country":"RUS"},{"id":77,"name":"Volgograd Oblast","iso3":"VGG","country":"RUS"},{"id":78,"name":"Vologda Oblast","iso3":"VLG","country":"RUS"},{"id":79,"name":"Voronezh Oblast","iso3":"VOR","country":"RUS"},{"id":80,"name":"Yamalo-Nenets Autonomous Okrug","iso3":"YAN","country":"RUS"},{"id":81,"name":"Yaroslavl Oblast","iso3":"YAR","country":"RUS"},{"id":82,"name":"Zabaykalsky Krai","iso3":"ZAB","country":"RUS"}]
+[
+    {
+        "id": 1911,
+        "name": "Altai Krai",
+        "country": "RUS",
+        "state": "ALT"
+    },
+    {
+        "id": 1876,
+        "name": "Altai Republic",
+        "country": "RUS",
+        "state": "AL"
+    },
+    {
+        "id": 1858,
+        "name": "Amur Oblast",
+        "country": "RUS",
+        "state": "AMU"
+    },
+    {
+        "id": 1849,
+        "name": "Arkhangelsk",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 1866,
+        "name": "Astrakhan Oblast",
+        "country": "RUS",
+        "state": "AST"
+    },
+    {
+        "id": 1903,
+        "name": "Belgorod Oblast",
+        "country": "RUS",
+        "state": "BEL"
+    },
+    {
+        "id": 1867,
+        "name": "Bryansk Oblast",
+        "country": "RUS",
+        "state": "BRY"
+    },
+    {
+        "id": 1893,
+        "name": "Chechen Republic",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 1845,
+        "name": "Chelyabinsk Oblast",
+        "country": "RUS",
+        "state": "CHE"
+    },
+    {
+        "id": 1859,
+        "name": "Chukotka Autonomous Okrug",
+        "country": "RUS",
+        "state": "CHU"
+    },
+    {
+        "id": 1914,
+        "name": "Chuvash Republic",
+        "country": "RUS",
+        "state": "CU"
+    },
+    {
+        "id": 1880,
+        "name": "Irkutsk",
+        "country": "RUS",
+        "state": "IRK"
+    },
+    {
+        "id": 1864,
+        "name": "Ivanovo Oblast",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 1835,
+        "name": "Jewish Autonomous Oblast",
+        "country": "RUS",
+        "state": "YEV"
+    },
+    {
+        "id": 1892,
+        "name": "Kabardino-Balkar Republic",
+        "country": "RUS",
+        "state": "KB"
+    },
+    {
+        "id": 1902,
+        "name": "Kaliningrad",
+        "country": "RUS",
+        "state": "KGD"
+    },
+    {
+        "id": 1844,
+        "name": "Kaluga Oblast",
+        "country": "RUS",
+        "state": "KLU"
+    },
+    {
+        "id": 1865,
+        "name": "Kamchatka Krai",
+        "country": "RUS",
+        "state": "KAM"
+    },
+    {
+        "id": 1869,
+        "name": "Karachay-Cherkess Republic",
+        "country": "RUS",
+        "state": "KC"
+    },
+    {
+        "id": 1897,
+        "name": "Kemerovo Oblast",
+        "country": "RUS",
+        "state": "KEM"
+    },
+    {
+        "id": 1873,
+        "name": "Khabarovsk Krai",
+        "country": "RUS",
+        "state": "KHA"
+    },
+    {
+        "id": 1838,
+        "name": "Khanty-Mansi Autonomous Okrug",
+        "country": "RUS",
+        "state": "KHM"
+    },
+    {
+        "id": 1890,
+        "name": "Kirov Oblast",
+        "country": "RUS",
+        "state": "KIR"
+    },
+    {
+        "id": 1899,
+        "name": "Komi Republic",
+        "country": "RUS",
+        "state": "KO"
+    },
+    {
+        "id": 1910,
+        "name": "Kostroma Oblast",
+        "country": "RUS",
+        "state": "KOS"
+    },
+    {
+        "id": 1891,
+        "name": "Krasnodar Krai",
+        "country": "RUS",
+        "state": "KDA"
+    },
+    {
+        "id": 1840,
+        "name": "Krasnoyarsk Krai",
+        "country": "RUS",
+        "state": "KYA"
+    },
+    {
+        "id": 1915,
+        "name": "Kurgan Oblast",
+        "country": "RUS",
+        "state": "KGN"
+    },
+    {
+        "id": 1855,
+        "name": "Kursk Oblast",
+        "country": "RUS",
+        "state": "KRS"
+    },
+    {
+        "id": 1896,
+        "name": "Leningrad Oblast",
+        "country": "RUS",
+        "state": "LEN"
+    },
+    {
+        "id": 1889,
+        "name": "Lipetsk Oblast",
+        "country": "RUS",
+        "state": "LIP"
+    },
+    {
+        "id": 1839,
+        "name": "Magadan Oblast",
+        "country": "RUS",
+        "state": "MAG"
+    },
+    {
+        "id": 1870,
+        "name": "Mari El Republic",
+        "country": "RUS",
+        "state": "ME"
+    },
+    {
+        "id": 1901,
+        "name": "Moscow",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 1882,
+        "name": "Moscow Oblast",
+        "country": "RUS",
+        "state": "MOS"
+    },
+    {
+        "id": 1843,
+        "name": "Murmansk Oblast",
+        "country": "RUS",
+        "state": "MUR"
+    },
+    {
+        "id": 1836,
+        "name": "Nenets Autonomous Okrug",
+        "country": "RUS",
+        "state": "NEN"
+    },
+    {
+        "id": 1857,
+        "name": "Nizhny Novgorod Oblast",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 1834,
+        "name": "Novgorod Oblast",
+        "country": "RUS",
+        "state": "NGR"
+    },
+    {
+        "id": 1888,
+        "name": "Novosibirsk",
+        "country": "RUS",
+        "state": "NVS"
+    },
+    {
+        "id": 1846,
+        "name": "Omsk Oblast",
+        "country": "RUS",
+        "state": "OMS"
+    },
+    {
+        "id": 1886,
+        "name": "Orenburg Oblast",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 1908,
+        "name": "Oryol Oblast",
+        "country": "RUS",
+        "state": "ORL"
+    },
+    {
+        "id": 1909,
+        "name": "Penza Oblast",
+        "country": "RUS",
+        "state": "PNZ"
+    },
+    {
+        "id": 1871,
+        "name": "Perm Krai",
+        "country": "RUS",
+        "state": "PER"
+    },
+    {
+        "id": 1833,
+        "name": "Primorsky Krai",
+        "country": "RUS",
+        "state": "PRI"
+    },
+    {
+        "id": 1863,
+        "name": "Pskov Oblast",
+        "country": "RUS",
+        "state": "PSK"
+    },
+    {
+        "id": 1852,
+        "name": "Republic of Adygea",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 1854,
+        "name": "Republic of Bashkortostan",
+        "country": "RUS",
+        "state": "BA"
+    },
+    {
+        "id": 1842,
+        "name": "Republic of Buryatia",
+        "country": "RUS",
+        "state": "BU"
+    },
+    {
+        "id": 1850,
+        "name": "Republic of Dagestan",
+        "country": "RUS",
+        "state": "DA"
+    },
+    {
+        "id": 1884,
+        "name": "Republic of Ingushetia",
+        "country": "RUS",
+        "state": "IN"
+    },
+    {
+        "id": 1883,
+        "name": "Republic of Kalmykia",
+        "country": "RUS",
+        "state": "KL"
+    },
+    {
+        "id": 1841,
+        "name": "Republic of Karelia",
+        "country": "RUS",
+        "state": "KR"
+    },
+    {
+        "id": 1877,
+        "name": "Republic of Khakassia",
+        "country": "RUS",
+        "state": "KK"
+    },
+    {
+        "id": 1898,
+        "name": "Republic of Mordovia",
+        "country": "RUS",
+        "state": "MO"
+    },
+    {
+        "id": 1853,
+        "name": "Republic of North Ossetia-Alania",
+        "country": "RUS",
+        "state": "SE"
+    },
+    {
+        "id": 1861,
+        "name": "Republic of Tatarstan",
+        "country": "RUS",
+        "state": "TA"
+    },
+    {
+        "id": 1837,
+        "name": "Rostov Oblast",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 1905,
+        "name": "Ryazan Oblast",
+        "country": "RUS",
+        "state": "RYA"
+    },
+    {
+        "id": 1879,
+        "name": "Saint Petersburg",
+        "country": "RUS",
+        "state": "SPE"
+    },
+    {
+        "id": 1848,
+        "name": "Sakha Republic",
+        "country": "RUS",
+        "state": "SA"
+    },
+    {
+        "id": 1875,
+        "name": "Sakhalin",
+        "country": "RUS",
+        "state": "SAK"
+    },
+    {
+        "id": 1862,
+        "name": "Samara Oblast",
+        "country": "RUS",
+        "state": "SAM"
+    },
+    {
+        "id": 1887,
+        "name": "Saratov Oblast",
+        "country": "RUS",
+        "state": "SAR"
+    },
+    {
+        "id": 1885,
+        "name": "Smolensk Oblast",
+        "country": "RUS",
+        "state": "SMO"
+    },
+    {
+        "id": 1868,
+        "name": "Stavropol Krai",
+        "country": "RUS",
+        "state": "STA"
+    },
+    {
+        "id": 1894,
+        "name": "Sverdlovsk",
+        "country": "RUS",
+        "state": "SVE"
+    },
+    {
+        "id": 1878,
+        "name": "Tambov Oblast",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 1872,
+        "name": "Tomsk Oblast",
+        "country": "RUS",
+        "state": "TOM"
+    },
+    {
+        "id": 1895,
+        "name": "Tula Oblast",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 1900,
+        "name": "Tuva Republic",
+        "country": "RUS",
+        "state": "TY"
+    },
+    {
+        "id": 1860,
+        "name": "Tver Oblast",
+        "country": "RUS",
+        "state": "TVE"
+    },
+    {
+        "id": 1907,
+        "name": "Tyumen Oblast",
+        "country": "RUS",
+        "state": "TYU"
+    },
+    {
+        "id": 1913,
+        "name": "Udmurt Republic",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 1856,
+        "name": "Ulyanovsk Oblast",
+        "country": "RUS",
+        "state": "ULY"
+    },
+    {
+        "id": 1881,
+        "name": "Vladimir Oblast",
+        "country": "RUS",
+        "state": "VLA"
+    },
+    {
+        "id": 4916,
+        "name": "Volgograd Oblast",
+        "country": "RUS",
+        "state": "VGG"
+    },
+    {
+        "id": 1874,
+        "name": "Vologda Oblast",
+        "country": "RUS",
+        "state": "VLG"
+    },
+    {
+        "id": 1906,
+        "name": "Voronezh Oblast",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 1847,
+        "name": "Yamalo-Nenets Autonomous Okrug",
+        "country": "RUS",
+        "state": "YAN"
+    },
+    {
+        "id": 1851,
+        "name": "Yaroslavl Oblast",
+        "country": "RUS",
+        "state": "YAR"
+    },
+    {
+        "id": 1904,
+        "name": "Zabaykalsky Krai",
+        "country": "RUS",
+        "state": "ZAB"
+    }
+]

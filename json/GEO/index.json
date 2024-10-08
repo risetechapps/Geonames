@@ -1,1 +1,86 @@
-[{"id":0,"name":"Abkhazia","iso3":"AB","country":"GEO"},{"id":1,"name":"Adjara","iso3":"AJ","country":"GEO"},{"id":2,"name":"Guria","iso3":"GU","country":"GEO"},{"id":3,"name":"Imereti","iso3":"IM","country":"GEO"},{"id":4,"name":"Kakheti","iso3":"KA","country":"GEO"},{"id":5,"name":"Khelvachauri Municipality","iso3":"29","country":"GEO"},{"id":6,"name":"Kvemo Kartli","iso3":"KK","country":"GEO"},{"id":7,"name":"Mtskheta-Mtianeti","iso3":"MM","country":"GEO"},{"id":8,"name":"Racha-Lechkhumi and Kvemo Svaneti","iso3":"RL","country":"GEO"},{"id":9,"name":"Samegrelo-Zemo Svaneti","iso3":"SZ","country":"GEO"},{"id":10,"name":"Samtskhe-Javakheti","iso3":"SJ","country":"GEO"},{"id":11,"name":"Senaki Municipality","iso3":"50","country":"GEO"},{"id":12,"name":"Shida Kartli","iso3":"SK","country":"GEO"},{"id":13,"name":"Tbilisi","iso3":"TB","country":"GEO"}]
+[
+    {
+        "id": 901,
+        "name": "Abkhazia",
+        "country": "GEO",
+        "state": "AB"
+    },
+    {
+        "id": 900,
+        "name": "Adjara",
+        "country": "GEO",
+        "state": "AJ"
+    },
+    {
+        "id": 907,
+        "name": "Guria",
+        "country": "GEO",
+        "state": "GU"
+    },
+    {
+        "id": 905,
+        "name": "Imereti",
+        "country": "GEO",
+        "state": "IM"
+    },
+    {
+        "id": 910,
+        "name": "Kakheti",
+        "country": "GEO",
+        "state": "KA"
+    },
+    {
+        "id": 897,
+        "name": "Khelvachauri Municipality",
+        "country": "GEO",
+        "state": "29"
+    },
+    {
+        "id": 904,
+        "name": "Kvemo Kartli",
+        "country": "GEO",
+        "state": "KK"
+    },
+    {
+        "id": 902,
+        "name": "Mtskheta-Mtianeti",
+        "country": "GEO",
+        "state": "MM"
+    },
+    {
+        "id": 909,
+        "name": "Racha-Lechkhumi and Kvemo Svaneti",
+        "country": "GEO",
+        "state": "RL"
+    },
+    {
+        "id": 908,
+        "name": "Samegrelo-Zemo Svaneti",
+        "country": "GEO",
+        "state": "SZ"
+    },
+    {
+        "id": 906,
+        "name": "Samtskhe-Javakheti",
+        "country": "GEO",
+        "state": "SJ"
+    },
+    {
+        "id": 898,
+        "name": "Senaki Municipality",
+        "country": "GEO",
+        "state": "50"
+    },
+    {
+        "id": 903,
+        "name": "Shida Kartli",
+        "country": "GEO",
+        "state": "SK"
+    },
+    {
+        "id": 899,
+        "name": "Tbilisi",
+        "country": "GEO",
+        "state": "TB"
+    }
+]

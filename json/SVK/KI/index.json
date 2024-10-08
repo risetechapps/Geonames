@@ -1,1 +1,170 @@
-[{"id":0,"name":"\u010cierna nad Tisou","country":"SVK","state":"KI"},{"id":1,"name":"Dob\u0161in\u00e1","country":"SVK","state":"KI"},{"id":2,"name":"Gelnica","country":"SVK","state":"KI"},{"id":3,"name":"Kave\u010dany","country":"SVK","state":"KI"},{"id":4,"name":"Ko\u0161ice","country":"SVK","state":"KI"},{"id":5,"name":"Ko\u0161ice I","country":"SVK","state":"KI"},{"id":6,"name":"Ko\u0161ice II","country":"SVK","state":"KI"},{"id":7,"name":"Ko\u0161ice III","country":"SVK","state":"KI"},{"id":8,"name":"Ko\u0161ice IV","country":"SVK","state":"KI"},{"id":9,"name":"Krompachy","country":"SVK","state":"KI"},{"id":10,"name":"Medzev","country":"SVK","state":"KI"},{"id":11,"name":"Michalovce","country":"SVK","state":"KI"},{"id":12,"name":"Moldava nad Bodvou","country":"SVK","state":"KI"},{"id":13,"name":"Okres Gelnica","country":"SVK","state":"KI"},{"id":14,"name":"Okres Kosice-okolie","country":"SVK","state":"KI"},{"id":15,"name":"Okres Michalovce","country":"SVK","state":"KI"},{"id":16,"name":"Okres Ro\u017e\u0148ava","country":"SVK","state":"KI"},{"id":17,"name":"Okres Sobrance","country":"SVK","state":"KI"},{"id":18,"name":"Okres Spi\u0161sk\u00e1 Nov\u00e1 Ves","country":"SVK","state":"KI"},{"id":19,"name":"Okres Trebi\u0161ov","country":"SVK","state":"KI"},{"id":20,"name":"Ro\u017e\u0148ava","country":"SVK","state":"KI"},{"id":21,"name":"Se\u010dovce","country":"SVK","state":"KI"},{"id":22,"name":"Sobrance","country":"SVK","state":"KI"},{"id":23,"name":"Spi\u0161sk\u00e1 Nov\u00e1 Ves","country":"SVK","state":"KI"},{"id":24,"name":"Str\u00e1\u017eske","country":"SVK","state":"KI"},{"id":25,"name":"Trebi\u0161ov","country":"SVK","state":"KI"},{"id":26,"name":"Vinn\u00e9","country":"SVK","state":"KI"},{"id":27,"name":"\u017dehra","country":"SVK","state":"KI"}]
+[
+    {
+        "id": 104588,
+        "name": "Čierna nad Tisou",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104382,
+        "name": "Dobšiná",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104392,
+        "name": "Gelnica",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104404,
+        "name": "Kavečany",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104409,
+        "name": "Košice",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104410,
+        "name": "Košice I",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104411,
+        "name": "Košice II",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104412,
+        "name": "Košice III",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104413,
+        "name": "Košice IV",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104416,
+        "name": "Krompachy",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104431,
+        "name": "Medzev",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104433,
+        "name": "Michalovce",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104435,
+        "name": "Moldava nad Bodvou",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104462,
+        "name": "Okres Gelnica",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104468,
+        "name": "Okres Kosice-okolie",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104478,
+        "name": "Okres Michalovce",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104494,
+        "name": "Okres Rožňava",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104501,
+        "name": "Okres Sobrance",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104502,
+        "name": "Okres Spišská Nová Ves",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104507,
+        "name": "Okres Trebišov",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104537,
+        "name": "Rožňava",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104542,
+        "name": "Sečovce",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104547,
+        "name": "Sobrance",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104549,
+        "name": "Spišská Nová Ves",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104554,
+        "name": "Strážske",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104565,
+        "name": "Trebišov",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104575,
+        "name": "Vinné",
+        "country": "SVK",
+        "state": "KI"
+    },
+    {
+        "id": 104599,
+        "name": "Žehra",
+        "country": "SVK",
+        "state": "KI"
+    }
+]

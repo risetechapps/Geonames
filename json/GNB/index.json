@@ -1,1 +1,68 @@
-[{"id":0,"name":"Bafat\u00e1","iso3":"BA","country":"GNB"},{"id":1,"name":"Biombo Region","iso3":"BM","country":"GNB"},{"id":2,"name":"Bolama Region","iso3":"BL","country":"GNB"},{"id":3,"name":"Cacheu Region","iso3":"CA","country":"GNB"},{"id":4,"name":"Gab\u00fa Region","iso3":"GA","country":"GNB"},{"id":5,"name":"Leste Province","iso3":"L","country":"GNB"},{"id":6,"name":"Norte Province","iso3":"N","country":"GNB"},{"id":7,"name":"Oio Region","iso3":"OI","country":"GNB"},{"id":8,"name":"Quinara Region","iso3":"QU","country":"GNB"},{"id":9,"name":"Sul Province","iso3":"S","country":"GNB"},{"id":10,"name":"Tombali Region","iso3":"TO","country":"GNB"}]
+[
+    {
+        "id": 2720,
+        "name": "Bafatá",
+        "country": "GNB",
+        "state": "BA"
+    },
+    {
+        "id": 2714,
+        "name": "Biombo Region",
+        "country": "GNB",
+        "state": "BM"
+    },
+    {
+        "id": 2722,
+        "name": "Bolama Region",
+        "country": "GNB",
+        "state": "BL"
+    },
+    {
+        "id": 2713,
+        "name": "Cacheu Region",
+        "country": "GNB",
+        "state": "CA"
+    },
+    {
+        "id": 2719,
+        "name": "Gabú Region",
+        "country": "GNB",
+        "state": "GA"
+    },
+    {
+        "id": 2721,
+        "name": "Leste Province",
+        "country": "GNB",
+        "state": "L"
+    },
+    {
+        "id": 2717,
+        "name": "Norte Province",
+        "country": "GNB",
+        "state": "N"
+    },
+    {
+        "id": 2718,
+        "name": "Oio Region",
+        "country": "GNB",
+        "state": "OI"
+    },
+    {
+        "id": 2715,
+        "name": "Quinara Region",
+        "country": "GNB",
+        "state": "QU"
+    },
+    {
+        "id": 2716,
+        "name": "Sul Province",
+        "country": "GNB",
+        "state": "S"
+    },
+    {
+        "id": 2712,
+        "name": "Tombali Region",
+        "country": "GNB",
+        "state": "TO"
+    }
+]

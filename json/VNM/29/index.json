@@ -1,1 +1,80 @@
-[{"id":0,"name":"Huy\u1ec7n Ba T\u01a1","country":"VNM","state":"29"},{"id":1,"name":"Huy\u1ec7n B\u00ecnh S\u01a1n","country":"VNM","state":"29"},{"id":2,"name":"Huy\u1ec7n \u0110\u1ee9c Ph\u1ed5","country":"VNM","state":"29"},{"id":3,"name":"Huy\u1ec7n L\u00fd S\u01a1n","country":"VNM","state":"29"},{"id":4,"name":"Huy\u1ec7n Minh Long","country":"VNM","state":"29"},{"id":5,"name":"Huy\u1ec7n M\u1ed9 \u0110\u1ee9c","country":"VNM","state":"29"},{"id":6,"name":"Huy\u1ec7n Ngh\u0129a H\u00e0nh","country":"VNM","state":"29"},{"id":7,"name":"Huy\u1ec7n S\u01a1n H\u00e0","country":"VNM","state":"29"},{"id":8,"name":"Huy\u1ec7n S\u01a1n T\u00e2y","country":"VNM","state":"29"},{"id":9,"name":"Huy\u1ec7n S\u01a1n T\u1ecbnh","country":"VNM","state":"29"},{"id":10,"name":"Huy\u1ec7n Tr\u00e0 B\u1ed3ng","country":"VNM","state":"29"},{"id":11,"name":"Huy\u1ec7n T\u01b0 Ngh\u0129a","country":"VNM","state":"29"},{"id":12,"name":"Qu\u1ea3ng Ng\u00e3i","country":"VNM","state":"29"}]
+[
+    {
+        "id": 130216,
+        "name": "Huyện Ba Tơ",
+        "country": "VNM",
+        "state": "29"
+    },
+    {
+        "id": 130224,
+        "name": "Huyện Bình Sơn",
+        "country": "VNM",
+        "state": "29"
+    },
+    {
+        "id": 130552,
+        "name": "Huyện Đức Phổ",
+        "country": "VNM",
+        "state": "29"
+    },
+    {
+        "id": 130348,
+        "name": "Huyện Lý Sơn",
+        "country": "VNM",
+        "state": "29"
+    },
+    {
+        "id": 130359,
+        "name": "Huyện Minh Long",
+        "country": "VNM",
+        "state": "29"
+    },
+    {
+        "id": 130366,
+        "name": "Huyện Mộ Đức",
+        "country": "VNM",
+        "state": "29"
+    },
+    {
+        "id": 130383,
+        "name": "Huyện Nghĩa Hành",
+        "country": "VNM",
+        "state": "29"
+    },
+    {
+        "id": 130424,
+        "name": "Huyện Sơn Hà",
+        "country": "VNM",
+        "state": "29"
+    },
+    {
+        "id": 130426,
+        "name": "Huyện Sơn Tây",
+        "country": "VNM",
+        "state": "29"
+    },
+    {
+        "id": 130427,
+        "name": "Huyện Sơn Tịnh",
+        "country": "VNM",
+        "state": "29"
+    },
+    {
+        "id": 130464,
+        "name": "Huyện Trà Bồng",
+        "country": "VNM",
+        "state": "29"
+    },
+    {
+        "id": 130491,
+        "name": "Huyện Tư Nghĩa",
+        "country": "VNM",
+        "state": "29"
+    },
+    {
+        "id": 130585,
+        "name": "Quảng Ngãi",
+        "country": "VNM",
+        "state": "29"
+    }
+]

@@ -1,1 +1,296 @@
-[{"id":0,"name":"Acosta","country":"CRI","state":"SJ"},{"id":1,"name":"Alajuelita","country":"CRI","state":"SJ"},{"id":2,"name":"Aserr\u00ed","country":"CRI","state":"SJ"},{"id":3,"name":"Calle Blancos","country":"CRI","state":"SJ"},{"id":4,"name":"Colima","country":"CRI","state":"SJ"},{"id":5,"name":"Col\u00f3n","country":"CRI","state":"SJ"},{"id":6,"name":"Curridabat","country":"CRI","state":"SJ"},{"id":7,"name":"Daniel Flores","country":"CRI","state":"SJ"},{"id":8,"name":"Desamparados","country":"CRI","state":"SJ"},{"id":9,"name":"Dota","country":"CRI","state":"SJ"},{"id":10,"name":"Escaz\u00fa","country":"CRI","state":"SJ"},{"id":11,"name":"Goicoechea","country":"CRI","state":"SJ"},{"id":12,"name":"Granadilla","country":"CRI","state":"SJ"},{"id":13,"name":"Guadalupe","country":"CRI","state":"SJ"},{"id":14,"name":"Ip\u00eds","country":"CRI","state":"SJ"},{"id":15,"name":"Le\u00f3n Cort\u00e9s","country":"CRI","state":"SJ"},{"id":16,"name":"Mercedes","country":"CRI","state":"SJ"},{"id":17,"name":"Montes de Oca","country":"CRI","state":"SJ"},{"id":18,"name":"Mora","country":"CRI","state":"SJ"},{"id":19,"name":"Moravia","country":"CRI","state":"SJ"},{"id":20,"name":"Palmichal","country":"CRI","state":"SJ"},{"id":21,"name":"Patarr\u00e1","country":"CRI","state":"SJ"},{"id":22,"name":"P\u00e9rez Zeled\u00f3n","country":"CRI","state":"SJ"},{"id":23,"name":"Puriscal","country":"CRI","state":"SJ"},{"id":24,"name":"Purral","country":"CRI","state":"SJ"},{"id":25,"name":"Sabanilla","country":"CRI","state":"SJ"},{"id":26,"name":"Salitral","country":"CRI","state":"SJ"},{"id":27,"name":"Salitrillos","country":"CRI","state":"SJ"},{"id":28,"name":"San Felipe","country":"CRI","state":"SJ"},{"id":29,"name":"San Ignacio","country":"CRI","state":"SJ"},{"id":30,"name":"San Isidro","country":"CRI","state":"SJ"},{"id":31,"name":"San Jos\u00e9","country":"CRI","state":"SJ"},{"id":32,"name":"San Juan","country":"CRI","state":"SJ"},{"id":33,"name":"San Juan de Dios","country":"CRI","state":"SJ"},{"id":34,"name":"San Marcos","country":"CRI","state":"SJ"},{"id":35,"name":"San Miguel","country":"CRI","state":"SJ"},{"id":36,"name":"San Pedro","country":"CRI","state":"SJ"},{"id":37,"name":"San Rafael","country":"CRI","state":"SJ"},{"id":38,"name":"San Rafael Abajo","country":"CRI","state":"SJ"},{"id":39,"name":"San Rafael Arriba","country":"CRI","state":"SJ"},{"id":40,"name":"San Vicente","country":"CRI","state":"SJ"},{"id":41,"name":"San Vicente de Moravia","country":"CRI","state":"SJ"},{"id":42,"name":"Santa Ana","country":"CRI","state":"SJ"},{"id":43,"name":"Santiago","country":"CRI","state":"SJ"},{"id":44,"name":"Tarraz\u00fa","country":"CRI","state":"SJ"},{"id":45,"name":"Tejar","country":"CRI","state":"SJ"},{"id":46,"name":"Tib\u00e1s","country":"CRI","state":"SJ"},{"id":47,"name":"Turrubares","country":"CRI","state":"SJ"},{"id":48,"name":"V\u00e1zquez de Coronado","country":"CRI","state":"SJ"}]
+[
+    {
+        "id": 21642,
+        "name": "Acosta",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21644,
+        "name": "Alajuelita",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21646,
+        "name": "Aserrí",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21655,
+        "name": "Calle Blancos",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21663,
+        "name": "Colima",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21664,
+        "name": "Colón",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21670,
+        "name": "Curridabat",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21671,
+        "name": "Daniel Flores",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21673,
+        "name": "Desamparados",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21674,
+        "name": "Dota",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21676,
+        "name": "Escazú",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21682,
+        "name": "Goicoechea",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21684,
+        "name": "Granadilla",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21686,
+        "name": "Guadalupe",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21692,
+        "name": "Ipís",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21701,
+        "name": "León Cortés",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21707,
+        "name": "Mercedes",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21710,
+        "name": "Montes de Oca",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21712,
+        "name": "Mora",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21713,
+        "name": "Moravia",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21723,
+        "name": "Palmichal",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21727,
+        "name": "Patarrá",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21737,
+        "name": "Pérez Zeledón",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21735,
+        "name": "Puriscal",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21736,
+        "name": "Purral",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21743,
+        "name": "Sabanilla",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21744,
+        "name": "Salitral",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21745,
+        "name": "Salitrillos",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21749,
+        "name": "San Felipe",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21751,
+        "name": "San Ignacio",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21752,
+        "name": "San Isidro",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21756,
+        "name": "San José",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21757,
+        "name": "San Juan",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21759,
+        "name": "San Juan de Dios",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21760,
+        "name": "San Marcos",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21762,
+        "name": "San Miguel",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21764,
+        "name": "San Pedro",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21765,
+        "name": "San Rafael",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21768,
+        "name": "San Rafael Abajo",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21769,
+        "name": "San Rafael Arriba",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21771,
+        "name": "San Vicente",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21772,
+        "name": "San Vicente de Moravia",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21774,
+        "name": "Santa Ana",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21778,
+        "name": "Santiago",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21786,
+        "name": "Tarrazú",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21787,
+        "name": "Tejar",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21788,
+        "name": "Tibás",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21794,
+        "name": "Turrubares",
+        "country": "CRI",
+        "state": "SJ"
+    },
+    {
+        "id": 21797,
+        "name": "Vázquez de Coronado",
+        "country": "CRI",
+        "state": "SJ"
+    }
+]

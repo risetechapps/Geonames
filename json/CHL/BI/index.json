@@ -1,1 +1,200 @@
-[{"id":0,"name":"Alto Biob\u00edo","country":"CHL","state":"BI"},{"id":1,"name":"Antuco","country":"CHL","state":"BI"},{"id":2,"name":"Arauco","country":"CHL","state":"BI"},{"id":3,"name":"Cabrero","country":"CHL","state":"BI"},{"id":4,"name":"Ca\u00f1ete","country":"CHL","state":"BI"},{"id":5,"name":"Chiguayante","country":"CHL","state":"BI"},{"id":6,"name":"Concepci\u00f3n","country":"CHL","state":"BI"},{"id":7,"name":"Contulmo","country":"CHL","state":"BI"},{"id":8,"name":"Coronel","country":"CHL","state":"BI"},{"id":9,"name":"Curanilahue","country":"CHL","state":"BI"},{"id":10,"name":"Florida","country":"CHL","state":"BI"},{"id":11,"name":"Hualp\u00e9n","country":"CHL","state":"BI"},{"id":12,"name":"Hualqui","country":"CHL","state":"BI"},{"id":13,"name":"Laja","country":"CHL","state":"BI"},{"id":14,"name":"Lebu","country":"CHL","state":"BI"},{"id":15,"name":"Los \u00c1lamos","country":"CHL","state":"BI"},{"id":16,"name":"Los \u00c1ngeles","country":"CHL","state":"BI"},{"id":17,"name":"Lota","country":"CHL","state":"BI"},{"id":18,"name":"Mulch\u00e9n","country":"CHL","state":"BI"},{"id":19,"name":"Nacimiento","country":"CHL","state":"BI"},{"id":20,"name":"Negrete","country":"CHL","state":"BI"},{"id":21,"name":"Penco","country":"CHL","state":"BI"},{"id":22,"name":"Quilaco","country":"CHL","state":"BI"},{"id":23,"name":"Quilleco","country":"CHL","state":"BI"},{"id":24,"name":"San Pedro de la Paz","country":"CHL","state":"BI"},{"id":25,"name":"San Rosendo","country":"CHL","state":"BI"},{"id":26,"name":"Santa B\u00e1rbara","country":"CHL","state":"BI"},{"id":27,"name":"Santa Juana","country":"CHL","state":"BI"},{"id":28,"name":"Talcahuano","country":"CHL","state":"BI"},{"id":29,"name":"Tir\u00faa","country":"CHL","state":"BI"},{"id":30,"name":"Tom\u00e9","country":"CHL","state":"BI"},{"id":31,"name":"Tucapel","country":"CHL","state":"BI"},{"id":32,"name":"Yumbel","country":"CHL","state":"BI"}]
+[
+    {
+        "id": 19036,
+        "name": "Alto Biobío",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148337,
+        "name": "Antuco",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 18947,
+        "name": "Arauco",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 18951,
+        "name": "Cabrero",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 18958,
+        "name": "Cañete",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 18961,
+        "name": "Chiguayante",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 18970,
+        "name": "Concepción",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148338,
+        "name": "Contulmo",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 18974,
+        "name": "Coronel",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 18977,
+        "name": "Curanilahue",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148339,
+        "name": "Florida",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148340,
+        "name": "Hualpén",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148341,
+        "name": "Hualqui",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 18996,
+        "name": "Laja",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 19001,
+        "name": "Lebu",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148342,
+        "name": "Los Álamos",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 19009,
+        "name": "Los Ángeles",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 19010,
+        "name": "Lota",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 19015,
+        "name": "Mulchén",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 19016,
+        "name": "Nacimiento",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148343,
+        "name": "Negrete",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 19024,
+        "name": "Penco",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148344,
+        "name": "Quilaco",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148345,
+        "name": "Quilleco",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148346,
+        "name": "San Pedro de la Paz",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148347,
+        "name": "San Rosendo",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148348,
+        "name": "Santa Bárbara",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148349,
+        "name": "Santa Juana",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 19114,
+        "name": "Talcahuano",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148350,
+        "name": "Tirúa",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 19119,
+        "name": "Tomé",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 148351,
+        "name": "Tucapel",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 19131,
+        "name": "Yumbel",
+        "country": "CHL",
+        "state": "BI"
+    }
+]

@@ -1,1 +1,44 @@
-[{"id":0,"name":"Bagmati","iso3":"P3","country":"NPL"},{"id":1,"name":"Gandaki","iso3":"P4","country":"NPL"},{"id":2,"name":"Karnali","iso3":"P6","country":"NPL"},{"id":3,"name":"Koshi","iso3":"P1","country":"NPL"},{"id":4,"name":"Lumbini","iso3":"P5","country":"NPL"},{"id":5,"name":"Madhesh","iso3":"P2","country":"NPL"},{"id":6,"name":"Sudurpashchim","iso3":"P7","country":"NPL"}]
+[
+    {
+        "id": 2073,
+        "name": "Bagmati",
+        "country": "NPL",
+        "state": "P3"
+    },
+    {
+        "id": 2069,
+        "name": "Gandaki",
+        "country": "NPL",
+        "state": "P4"
+    },
+    {
+        "id": 2068,
+        "name": "Karnali",
+        "country": "NPL",
+        "state": "P6"
+    },
+    {
+        "id": 2066,
+        "name": "Koshi",
+        "country": "NPL",
+        "state": "P1"
+    },
+    {
+        "id": 2067,
+        "name": "Lumbini",
+        "country": "NPL",
+        "state": "P5"
+    },
+    {
+        "id": 5240,
+        "name": "Madhesh",
+        "country": "NPL",
+        "state": "P2"
+    },
+    {
+        "id": 5241,
+        "name": "Sudurpashchim",
+        "country": "NPL",
+        "state": "P7"
+    }
+]

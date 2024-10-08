@@ -1,1 +1,218 @@
-[{"id":0,"name":"Alnashi","country":"RUS","state":"UD"},{"id":1,"name":"Balezino","country":"RUS","state":"UD"},{"id":2,"name":"Debesy","country":"RUS","state":"UD"},{"id":3,"name":"Fakel","country":"RUS","state":"UD"},{"id":4,"name":"Glazov","country":"RUS","state":"UD"},{"id":5,"name":"Grakhovo","country":"RUS","state":"UD"},{"id":6,"name":"Igra","country":"RUS","state":"UD"},{"id":7,"name":"Izhevsk","country":"RUS","state":"UD"},{"id":8,"name":"Kama","country":"RUS","state":"UD"},{"id":9,"name":"Kambarka","country":"RUS","state":"UD"},{"id":10,"name":"Karakulino","country":"RUS","state":"UD"},{"id":11,"name":"Karakulinskiy Rayon","country":"RUS","state":"UD"},{"id":12,"name":"Kez","country":"RUS","state":"UD"},{"id":13,"name":"Khokhryaki","country":"RUS","state":"UD"},{"id":14,"name":"Kiyasovo","country":"RUS","state":"UD"},{"id":15,"name":"Kiyasovskiy Rayon","country":"RUS","state":"UD"},{"id":16,"name":"Kizner","country":"RUS","state":"UD"},{"id":17,"name":"Krasnogorskoye","country":"RUS","state":"UD"},{"id":18,"name":"Malaya Purga","country":"RUS","state":"UD"},{"id":19,"name":"Malopurginskiy Rayon","country":"RUS","state":"UD"},{"id":20,"name":"Mozhga","country":"RUS","state":"UD"},{"id":21,"name":"Pirogovo","country":"RUS","state":"UD"},{"id":22,"name":"Pudem","country":"RUS","state":"UD"},{"id":23,"name":"Pychas","country":"RUS","state":"UD"},{"id":24,"name":"Sarapul","country":"RUS","state":"UD"},{"id":25,"name":"Sarapul\u2019skiy Rayon","country":"RUS","state":"UD"},{"id":26,"name":"Selty","country":"RUS","state":"UD"},{"id":27,"name":"Sharkan","country":"RUS","state":"UD"},{"id":28,"name":"Sigayevo","country":"RUS","state":"UD"},{"id":29,"name":"Syumsi","country":"RUS","state":"UD"},{"id":30,"name":"Uva","country":"RUS","state":"UD"},{"id":31,"name":"Vavozh","country":"RUS","state":"UD"},{"id":32,"name":"Votkinsk","country":"RUS","state":"UD"},{"id":33,"name":"Yar","country":"RUS","state":"UD"},{"id":34,"name":"Yukamenskoye","country":"RUS","state":"UD"},{"id":35,"name":"Zav\u2019yalovskiy Rayon","country":"RUS","state":"UD"}]
+[
+    {
+        "id": 97600,
+        "name": "Alnashi",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 97778,
+        "name": "Balezino",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 98254,
+        "name": "Debesy",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 98411,
+        "name": "Fakel",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 98495,
+        "name": "Glazov",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 98575,
+        "name": "Grakhovo",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 98634,
+        "name": "Igra",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 98746,
+        "name": "Izhevsk",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 98805,
+        "name": "Kama",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 98806,
+        "name": "Kambarka",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 98865,
+        "name": "Karakulino",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 98866,
+        "name": "Karakulinskiy Rayon",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 98947,
+        "name": "Kez",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 98990,
+        "name": "Khokhryaki",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 99084,
+        "name": "Kiyasovo",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 99085,
+        "name": "Kiyasovskiy Rayon",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 99096,
+        "name": "Kizner",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 99310,
+        "name": "Krasnogorskoye",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 99751,
+        "name": "Malaya Purga",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 99764,
+        "name": "Malopurginskiy Rayon",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 99987,
+        "name": "Mozhga",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 100682,
+        "name": "Pirogovo",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 100887,
+        "name": "Pudem",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 100913,
+        "name": "Pychas",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 101112,
+        "name": "Sarapul",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 101113,
+        "name": "Sarapul’skiy Rayon",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 101159,
+        "name": "Selty",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 101261,
+        "name": "Sharkan",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 101368,
+        "name": "Sigayevo",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 101734,
+        "name": "Syumsi",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 102153,
+        "name": "Uva",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 102206,
+        "name": "Vavozh",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 102403,
+        "name": "Votkinsk",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 102489,
+        "name": "Yar",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 102589,
+        "name": "Yukamenskoye",
+        "country": "RUS",
+        "state": "UD"
+    },
+    {
+        "id": 102683,
+        "name": "Zav’yalovskiy Rayon",
+        "country": "RUS",
+        "state": "UD"
+    }
+]

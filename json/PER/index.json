@@ -1,1 +1,152 @@
-[{"id":0,"name":"Amazonas","iso3":"AMA","country":"PER"},{"id":1,"name":"\u00c1ncash","iso3":"ANC","country":"PER"},{"id":2,"name":"Apur\u00edmac","iso3":"APU","country":"PER"},{"id":3,"name":"Arequipa","iso3":"ARE","country":"PER"},{"id":4,"name":"Ayacucho","iso3":"AYA","country":"PER"},{"id":5,"name":"Cajamarca","iso3":"CAJ","country":"PER"},{"id":6,"name":"Callao","iso3":"CAL","country":"PER"},{"id":7,"name":"Cusco","iso3":"CUS","country":"PER"},{"id":8,"name":"Huancavelica","iso3":"HUV","country":"PER"},{"id":9,"name":"Huanuco","iso3":"HUC","country":"PER"},{"id":10,"name":"Ica","iso3":"ICA","country":"PER"},{"id":11,"name":"Jun\u00edn","iso3":"JUN","country":"PER"},{"id":12,"name":"La Libertad","iso3":"LAL","country":"PER"},{"id":13,"name":"Lambayeque","iso3":"LAM","country":"PER"},{"id":14,"name":"Lima","iso3":"LIM","country":"PER"},{"id":15,"name":"Loreto","iso3":"LOR","country":"PER"},{"id":16,"name":"Madre de Dios","iso3":"MDD","country":"PER"},{"id":17,"name":"Moquegua","iso3":"MOQ","country":"PER"},{"id":18,"name":"Pasco","iso3":"PAS","country":"PER"},{"id":19,"name":"Piura","iso3":"PIU","country":"PER"},{"id":20,"name":"Puno","iso3":"PUN","country":"PER"},{"id":21,"name":"San Mart\u00edn","iso3":"SAM","country":"PER"},{"id":22,"name":"Tacna","iso3":"TAC","country":"PER"},{"id":23,"name":"Tumbes","iso3":"TUM","country":"PER"},{"id":24,"name":"Ucayali","iso3":"UCA","country":"PER"}]
+[
+    {
+        "id": 3685,
+        "name": "Amazonas",
+        "country": "PER",
+        "state": "AMA"
+    },
+    {
+        "id": 3680,
+        "name": "Áncash",
+        "country": "PER",
+        "state": "ANC"
+    },
+    {
+        "id": 3699,
+        "name": "Apurímac",
+        "country": "PER",
+        "state": "APU"
+    },
+    {
+        "id": 3681,
+        "name": "Arequipa",
+        "country": "PER",
+        "state": "ARE"
+    },
+    {
+        "id": 3692,
+        "name": "Ayacucho",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 3688,
+        "name": "Cajamarca",
+        "country": "PER",
+        "state": "CAJ"
+    },
+    {
+        "id": 3701,
+        "name": "Callao",
+        "country": "PER",
+        "state": "CAL"
+    },
+    {
+        "id": 3691,
+        "name": "Cusco",
+        "country": "PER",
+        "state": "CUS"
+    },
+    {
+        "id": 3679,
+        "name": "Huancavelica",
+        "country": "PER",
+        "state": "HUV"
+    },
+    {
+        "id": 3687,
+        "name": "Huanuco",
+        "country": "PER",
+        "state": "HUC"
+    },
+    {
+        "id": 3700,
+        "name": "Ica",
+        "country": "PER",
+        "state": "ICA"
+    },
+    {
+        "id": 3693,
+        "name": "Junín",
+        "country": "PER",
+        "state": "JUN"
+    },
+    {
+        "id": 3683,
+        "name": "La Libertad",
+        "country": "PER",
+        "state": "LAL"
+    },
+    {
+        "id": 3702,
+        "name": "Lambayeque",
+        "country": "PER",
+        "state": "LAM"
+    },
+    {
+        "id": 3695,
+        "name": "Lima",
+        "country": "PER",
+        "state": "LIM"
+    },
+    {
+        "id": 4922,
+        "name": "Loreto",
+        "country": "PER",
+        "state": "LOR"
+    },
+    {
+        "id": 3678,
+        "name": "Madre de Dios",
+        "country": "PER",
+        "state": "MDD"
+    },
+    {
+        "id": 3698,
+        "name": "Moquegua",
+        "country": "PER",
+        "state": "MOQ"
+    },
+    {
+        "id": 3686,
+        "name": "Pasco",
+        "country": "PER",
+        "state": "PAS"
+    },
+    {
+        "id": 3697,
+        "name": "Piura",
+        "country": "PER",
+        "state": "PIU"
+    },
+    {
+        "id": 3682,
+        "name": "Puno",
+        "country": "PER",
+        "state": "PUN"
+    },
+    {
+        "id": 3694,
+        "name": "San Martín",
+        "country": "PER",
+        "state": "SAM"
+    },
+    {
+        "id": 3696,
+        "name": "Tacna",
+        "country": "PER",
+        "state": "TAC"
+    },
+    {
+        "id": 3689,
+        "name": "Tumbes",
+        "country": "PER",
+        "state": "TUM"
+    },
+    {
+        "id": 3684,
+        "name": "Ucayali",
+        "country": "PER",
+        "state": "UCA"
+    }
+]

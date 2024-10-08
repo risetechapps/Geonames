@@ -1,1 +1,44 @@
-[{"id":0,"name":"Drugovo","country":"MKD","state":"40"},{"id":1,"name":"Ki\u010devo","country":"MKD","state":"40"},{"id":2,"name":"Srbica","country":"MKD","state":"40"},{"id":3,"name":"Strelci","country":"MKD","state":"40"},{"id":4,"name":"Tuin","country":"MKD","state":"40"},{"id":5,"name":"Vrane\u0161tica","country":"MKD","state":"40"},{"id":6,"name":"Zajas","country":"MKD","state":"40"}]
+[
+    {
+        "id": 67424,
+        "name": "Drugovo",
+        "country": "MKD",
+        "state": "40"
+    },
+    {
+        "id": 67452,
+        "name": "Kičevo",
+        "country": "MKD",
+        "state": "40"
+    },
+    {
+        "id": 67530,
+        "name": "Srbica",
+        "country": "MKD",
+        "state": "40"
+    },
+    {
+        "id": 67535,
+        "name": "Strelci",
+        "country": "MKD",
+        "state": "40"
+    },
+    {
+        "id": 67545,
+        "name": "Tuin",
+        "country": "MKD",
+        "state": "40"
+    },
+    {
+        "id": 67557,
+        "name": "Vraneštica",
+        "country": "MKD",
+        "state": "40"
+    },
+    {
+        "id": 67561,
+        "name": "Zajas",
+        "country": "MKD",
+        "state": "40"
+    }
+]

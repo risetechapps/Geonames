@@ -1,1 +1,20 @@
-[{"id":0,"name":"La Colle","iso3":"CL","country":"MCO"},{"id":1,"name":"La Condamine","iso3":"CO","country":"MCO"},{"id":2,"name":"Moneghetti","iso3":"MG","country":"MCO"}]
+[
+    {
+        "id": 4917,
+        "name": "La Colle",
+        "country": "MCO",
+        "state": "CL"
+    },
+    {
+        "id": 4918,
+        "name": "La Condamine",
+        "country": "MCO",
+        "state": "CO"
+    },
+    {
+        "id": 4919,
+        "name": "Moneghetti",
+        "country": "MCO",
+        "state": "MG"
+    }
+]

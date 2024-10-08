@@ -1,1 +1,278 @@
-[{"id":0,"name":"Aesch","country":"CHE","state":"BL"},{"id":1,"name":"Allschwil","country":"CHE","state":"BL"},{"id":2,"name":"Arisdorf","country":"CHE","state":"BL"},{"id":3,"name":"Arlesheim","country":"CHE","state":"BL"},{"id":4,"name":"Bezirk Arlesheim","country":"CHE","state":"BL"},{"id":5,"name":"Bezirk Laufen","country":"CHE","state":"BL"},{"id":6,"name":"Bezirk Liestal","country":"CHE","state":"BL"},{"id":7,"name":"Bezirk Sissach","country":"CHE","state":"BL"},{"id":8,"name":"Bezirk Waldenburg","country":"CHE","state":"BL"},{"id":9,"name":"Binningen","country":"CHE","state":"BL"},{"id":10,"name":"Birsfelden","country":"CHE","state":"BL"},{"id":11,"name":"Bottmingen","country":"CHE","state":"BL"},{"id":12,"name":"Brislach","country":"CHE","state":"BL"},{"id":13,"name":"Bubendorf","country":"CHE","state":"BL"},{"id":14,"name":"Buus","country":"CHE","state":"BL"},{"id":15,"name":"Diegten","country":"CHE","state":"BL"},{"id":16,"name":"Ettingen","country":"CHE","state":"BL"},{"id":17,"name":"Frenkendorf","country":"CHE","state":"BL"},{"id":18,"name":"F\u00fcllinsdorf","country":"CHE","state":"BL"},{"id":19,"name":"Gelterkinden","country":"CHE","state":"BL"},{"id":20,"name":"Grellingen","country":"CHE","state":"BL"},{"id":21,"name":"H\u00f6lstein","country":"CHE","state":"BL"},{"id":22,"name":"Itingen","country":"CHE","state":"BL"},{"id":23,"name":"Langenbruck","country":"CHE","state":"BL"},{"id":24,"name":"L\u00e4ufelfingen","country":"CHE","state":"BL"},{"id":25,"name":"Laufen","country":"CHE","state":"BL"},{"id":26,"name":"Lausen","country":"CHE","state":"BL"},{"id":27,"name":"Liesberg","country":"CHE","state":"BL"},{"id":28,"name":"Liestal","country":"CHE","state":"BL"},{"id":29,"name":"M\u00fcnchenstein","country":"CHE","state":"BL"},{"id":30,"name":"Muttenz","country":"CHE","state":"BL"},{"id":31,"name":"Oberdorf","country":"CHE","state":"BL"},{"id":32,"name":"Oberwil","country":"CHE","state":"BL"},{"id":33,"name":"Ormalingen","country":"CHE","state":"BL"},{"id":34,"name":"Pfeffingen","country":"CHE","state":"BL"},{"id":35,"name":"Pratteln","country":"CHE","state":"BL"},{"id":36,"name":"Reigoldswil","country":"CHE","state":"BL"},{"id":37,"name":"R\u00f6schenz","country":"CHE","state":"BL"},{"id":38,"name":"Sch\u00f6nenbuch","country":"CHE","state":"BL"},{"id":39,"name":"Seltisberg","country":"CHE","state":"BL"},{"id":40,"name":"Sissach","country":"CHE","state":"BL"},{"id":41,"name":"Therwil","country":"CHE","state":"BL"},{"id":42,"name":"Wahlen","country":"CHE","state":"BL"},{"id":43,"name":"Waldenburg","country":"CHE","state":"BL"},{"id":44,"name":"Zunzgen","country":"CHE","state":"BL"},{"id":45,"name":"Zwingen","country":"CHE","state":"BL"}]
+[
+    {
+        "id": 17371,
+        "name": "Aesch",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17386,
+        "name": "Allschwil",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17406,
+        "name": "Arisdorf",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17408,
+        "name": "Arlesheim",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17474,
+        "name": "Bezirk Arlesheim",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17493,
+        "name": "Bezirk Laufen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17497,
+        "name": "Bezirk Liestal",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17510,
+        "name": "Bezirk Sissach",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17518,
+        "name": "Bezirk Waldenburg",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17530,
+        "name": "Binningen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17538,
+        "name": "Birsfelden",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17553,
+        "name": "Bottmingen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17563,
+        "name": "Brislach",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17575,
+        "name": "Bubendorf",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17589,
+        "name": "Buus",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17684,
+        "name": "Diegten",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17775,
+        "name": "Ettingen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17808,
+        "name": "Frenkendorf",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17817,
+        "name": "Füllinsdorf",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17825,
+        "name": "Gelterkinden",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17867,
+        "name": "Grellingen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17942,
+        "name": "Hölstein",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 17956,
+        "name": "Itingen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18034,
+        "name": "Langenbruck",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18109,
+        "name": "Läufelfingen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18042,
+        "name": "Laufen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18050,
+        "name": "Lausen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18082,
+        "name": "Liesberg",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18083,
+        "name": "Liestal",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18200,
+        "name": "Münchenstein",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18185,
+        "name": "Muttenz",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18244,
+        "name": "Oberdorf",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18270,
+        "name": "Oberwil",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18287,
+        "name": "Ormalingen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18307,
+        "name": "Pfeffingen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18324,
+        "name": "Pratteln",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18362,
+        "name": "Reigoldswil",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18403,
+        "name": "Röschenz",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18484,
+        "name": "Schönenbuch",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18505,
+        "name": "Seltisberg",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18526,
+        "name": "Sissach",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18589,
+        "name": "Therwil",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18699,
+        "name": "Wahlen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18710,
+        "name": "Waldenburg",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18803,
+        "name": "Zunzgen",
+        "country": "CHE",
+        "state": "BL"
+    },
+    {
+        "id": 18807,
+        "name": "Zwingen",
+        "country": "CHE",
+        "state": "BL"
+    }
+]

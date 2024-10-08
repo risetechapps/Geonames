@@ -1,1 +1,56 @@
-[{"id":0,"name":"D\u00e9partement de Gour\u00e9","country":"NER","state":"7"},{"id":1,"name":"D\u00e9partement de Kantch\u00e9","country":"NER","state":"7"},{"id":2,"name":"D\u00e9partement de T\u00e2nout","country":"NER","state":"7"},{"id":3,"name":"Gour\u00e9","country":"NER","state":"7"},{"id":4,"name":"Magaria","country":"NER","state":"7"},{"id":5,"name":"Matamey","country":"NER","state":"7"},{"id":6,"name":"Mirriah","country":"NER","state":"7"},{"id":7,"name":"Tanout","country":"NER","state":"7"},{"id":8,"name":"Zinder","country":"NER","state":"7"}]
+[
+    {
+        "id": 76699,
+        "name": "Département de Gouré",
+        "country": "NER",
+        "state": "7"
+    },
+    {
+        "id": 76700,
+        "name": "Département de Kantché",
+        "country": "NER",
+        "state": "7"
+    },
+    {
+        "id": 76713,
+        "name": "Département de Tânout",
+        "country": "NER",
+        "state": "7"
+    },
+    {
+        "id": 76717,
+        "name": "Gouré",
+        "country": "NER",
+        "state": "7"
+    },
+    {
+        "id": 76725,
+        "name": "Magaria",
+        "country": "NER",
+        "state": "7"
+    },
+    {
+        "id": 76727,
+        "name": "Matamey",
+        "country": "NER",
+        "state": "7"
+    },
+    {
+        "id": 76730,
+        "name": "Mirriah",
+        "country": "NER",
+        "state": "7"
+    },
+    {
+        "id": 76735,
+        "name": "Tanout",
+        "country": "NER",
+        "state": "7"
+    },
+    {
+        "id": 76743,
+        "name": "Zinder",
+        "country": "NER",
+        "state": "7"
+    }
+]

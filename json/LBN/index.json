@@ -1,1 +1,50 @@
-[{"id":0,"name":"Akkar","iso3":"AK","country":"LBN"},{"id":1,"name":"Baalbek-Hermel","iso3":"BH","country":"LBN"},{"id":2,"name":"Beirut","iso3":"BA","country":"LBN"},{"id":3,"name":"Beqaa","iso3":"BI","country":"LBN"},{"id":4,"name":"Mount Lebanon","iso3":"JL","country":"LBN"},{"id":5,"name":"Nabatieh","iso3":"NA","country":"LBN"},{"id":6,"name":"North","iso3":"AS","country":"LBN"},{"id":7,"name":"South","iso3":"JA","country":"LBN"}]
+[
+    {
+        "id": 2285,
+        "name": "Akkar",
+        "country": "LBN",
+        "state": "AK"
+    },
+    {
+        "id": 2283,
+        "name": "Baalbek-Hermel",
+        "country": "LBN",
+        "state": "BH"
+    },
+    {
+        "id": 2286,
+        "name": "Beirut",
+        "country": "LBN",
+        "state": "BA"
+    },
+    {
+        "id": 2287,
+        "name": "Beqaa",
+        "country": "LBN",
+        "state": "BI"
+    },
+    {
+        "id": 2282,
+        "name": "Mount Lebanon",
+        "country": "LBN",
+        "state": "JL"
+    },
+    {
+        "id": 2288,
+        "name": "Nabatieh",
+        "country": "LBN",
+        "state": "NA"
+    },
+    {
+        "id": 2284,
+        "name": "North",
+        "country": "LBN",
+        "state": "AS"
+    },
+    {
+        "id": 2281,
+        "name": "South",
+        "country": "LBN",
+        "state": "JA"
+    }
+]

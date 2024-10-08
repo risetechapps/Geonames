@@ -1,1 +1,3158 @@
-[{"id":0,"name":"Ablon","country":"FRA","state":"NOR"},{"id":1,"name":"Acquigny","country":"FRA","state":"NOR"},{"id":2,"name":"Agneaux","country":"FRA","state":"NOR"},{"id":3,"name":"Agon-Coutainville","country":"FRA","state":"NOR"},{"id":4,"name":"Alen\u00e7on","country":"FRA","state":"NOR"},{"id":5,"name":"Alizay","country":"FRA","state":"NOR"},{"id":6,"name":"Amfreville","country":"FRA","state":"NOR"},{"id":7,"name":"Amfreville-la-Mi-Voie","country":"FRA","state":"NOR"},{"id":8,"name":"And\u00e9","country":"FRA","state":"NOR"},{"id":9,"name":"Angerville-l\u2019Orcher","country":"FRA","state":"NOR"},{"id":10,"name":"Argences","country":"FRA","state":"NOR"},{"id":11,"name":"Argentan","country":"FRA","state":"NOR"},{"id":12,"name":"Arni\u00e8res-sur-Iton","country":"FRA","state":"NOR"},{"id":13,"name":"Arques-la-Bataille","country":"FRA","state":"NOR"},{"id":14,"name":"Athis-de-l'Orne","country":"FRA","state":"NOR"},{"id":15,"name":"Aube-sur-R\u00eele","country":"FRA","state":"NOR"},{"id":16,"name":"Aubevoye","country":"FRA","state":"NOR"},{"id":17,"name":"Auffay","country":"FRA","state":"NOR"},{"id":18,"name":"Aumale","country":"FRA","state":"NOR"},{"id":19,"name":"Aunay-sur-Odon","country":"FRA","state":"NOR"},{"id":20,"name":"Authie","country":"FRA","state":"NOR"},{"id":21,"name":"Auzebosc","country":"FRA","state":"NOR"},{"id":22,"name":"Aviron","country":"FRA","state":"NOR"},{"id":23,"name":"Avranches","country":"FRA","state":"NOR"},{"id":24,"name":"Bacqueville-en-Caux","country":"FRA","state":"NOR"},{"id":25,"name":"Bagnoles-de-l'Orne","country":"FRA","state":"NOR"},{"id":26,"name":"Barentin","country":"FRA","state":"NOR"},{"id":27,"name":"Barenton","country":"FRA","state":"NOR"},{"id":28,"name":"Barneville-Carteret","country":"FRA","state":"NOR"},{"id":29,"name":"Barneville-Plage","country":"FRA","state":"NOR"},{"id":30,"name":"Bavent","country":"FRA","state":"NOR"},{"id":31,"name":"Bayeux","country":"FRA","state":"NOR"},{"id":32,"name":"Beaumont-Hague","country":"FRA","state":"NOR"},{"id":33,"name":"Beaumont-le-Roger","country":"FRA","state":"NOR"},{"id":34,"name":"Belbeuf","country":"FRA","state":"NOR"},{"id":35,"name":"Bell\u00eame","country":"FRA","state":"NOR"},{"id":36,"name":"Bellengreville","country":"FRA","state":"NOR"},{"id":37,"name":"B\u00e9nouville","country":"FRA","state":"NOR"},{"id":38,"name":"Bernay","country":"FRA","state":"NOR"},{"id":39,"name":"Berneval-le-Grand","country":"FRA","state":"NOR"},{"id":40,"name":"Berni\u00e8res-sur-Mer","country":"FRA","state":"NOR"},{"id":41,"name":"Beuville","country":"FRA","state":"NOR"},{"id":42,"name":"Beuvillers","country":"FRA","state":"NOR"},{"id":43,"name":"Beuzeville","country":"FRA","state":"NOR"},{"id":44,"name":"Beuzeville-la-Grenier","country":"FRA","state":"NOR"},{"id":45,"name":"B\u00e9zu-Saint-\u00c9loi","country":"FRA","state":"NOR"},{"id":46,"name":"Bi\u00e9ville-Beuville","country":"FRA","state":"NOR"},{"id":47,"name":"Bihorel","country":"FRA","state":"NOR"},{"id":48,"name":"Blainville-Crevon","country":"FRA","state":"NOR"},{"id":49,"name":"Blainville-sur-Mer","country":"FRA","state":"NOR"},{"id":50,"name":"Blainville-sur-Orne","country":"FRA","state":"NOR"},{"id":51,"name":"Blangy-sur-Bresle","country":"FRA","state":"NOR"},{"id":52,"name":"Blonville-sur-Mer","country":"FRA","state":"NOR"},{"id":53,"name":"Bois-Guillaume","country":"FRA","state":"NOR"},{"id":54,"name":"Bolbec","country":"FRA","state":"NOR"},{"id":55,"name":"Boos","country":"FRA","state":"NOR"},{"id":56,"name":"Bosc-le-Hard","country":"FRA","state":"NOR"},{"id":57,"name":"Bourg-Achard","country":"FRA","state":"NOR"},{"id":58,"name":"Bourgtheroulde-Infreville","country":"FRA","state":"NOR"},{"id":59,"name":"Bourgu\u00e9bus","country":"FRA","state":"NOR"},{"id":60,"name":"Bourth","country":"FRA","state":"NOR"},{"id":61,"name":"Bouville","country":"FRA","state":"NOR"},{"id":62,"name":"Br\u00e9aut\u00e9","country":"FRA","state":"NOR"},{"id":63,"name":"Br\u00e9cey","country":"FRA","state":"NOR"},{"id":64,"name":"Br\u00e9hal","country":"FRA","state":"NOR"},{"id":65,"name":"Breteuil","country":"FRA","state":"NOR"},{"id":66,"name":"Bretoncelles","country":"FRA","state":"NOR"},{"id":67,"name":"Bretteville","country":"FRA","state":"NOR"},{"id":68,"name":"Bretteville-du-Grand-Caux","country":"FRA","state":"NOR"},{"id":69,"name":"Bretteville-l\u2019Orgueilleuse","country":"FRA","state":"NOR"},{"id":70,"name":"Bretteville-sur-Laize","country":"FRA","state":"NOR"},{"id":71,"name":"Bretteville-sur-Odon","country":"FRA","state":"NOR"},{"id":72,"name":"Breuilpont","country":"FRA","state":"NOR"},{"id":73,"name":"Bricquebec","country":"FRA","state":"NOR"},{"id":74,"name":"Brionne","country":"FRA","state":"NOR"},{"id":75,"name":"Briouze","country":"FRA","state":"NOR"},{"id":76,"name":"Brix","country":"FRA","state":"NOR"},{"id":77,"name":"Broglie","country":"FRA","state":"NOR"},{"id":78,"name":"Buchy","country":"FRA","state":"NOR"},{"id":79,"name":"Bueil","country":"FRA","state":"NOR"},{"id":80,"name":"Bully","country":"FRA","state":"NOR"},{"id":81,"name":"Cabourg","country":"FRA","state":"NOR"},{"id":82,"name":"Caen","country":"FRA","state":"NOR"},{"id":83,"name":"Cagny","country":"FRA","state":"NOR"},{"id":84,"name":"Cahagnes","country":"FRA","state":"NOR"},{"id":85,"name":"Cairon","country":"FRA","state":"NOR"},{"id":86,"name":"Calvados","country":"FRA","state":"NOR"},{"id":87,"name":"Cambes-en-Plaine","country":"FRA","state":"NOR"},{"id":88,"name":"Cambremer","country":"FRA","state":"NOR"},{"id":89,"name":"Canon","country":"FRA","state":"NOR"},{"id":90,"name":"Canteleu","country":"FRA","state":"NOR"},{"id":91,"name":"Cany-Barville","country":"FRA","state":"NOR"},{"id":92,"name":"Carentan","country":"FRA","state":"NOR"},{"id":93,"name":"Carpiquet","country":"FRA","state":"NOR"},{"id":94,"name":"Caudebec-en-Caux","country":"FRA","state":"NOR"},{"id":95,"name":"Caudebec-l\u00e8s-Elbeuf","country":"FRA","state":"NOR"},{"id":96,"name":"Caumont","country":"FRA","state":"NOR"},{"id":97,"name":"Caumont-l'\u00c9vent\u00e9","country":"FRA","state":"NOR"},{"id":98,"name":"Cauville-sur-Mer","country":"FRA","state":"NOR"},{"id":99,"name":"Ceauc\u00e9","country":"FRA","state":"NOR"},{"id":100,"name":"C\u00e9rences","country":"FRA","state":"NOR"},{"id":101,"name":"Cerisy-la-Salle","country":"FRA","state":"NOR"},{"id":102,"name":"Ceton","country":"FRA","state":"NOR"},{"id":103,"name":"Champsecret","country":"FRA","state":"NOR"},{"id":104,"name":"Chanu","country":"FRA","state":"NOR"},{"id":105,"name":"Charleval","country":"FRA","state":"NOR"},{"id":106,"name":"Cherbourg-Octeville","country":"FRA","state":"NOR"},{"id":107,"name":"Cheux","country":"FRA","state":"NOR"},{"id":108,"name":"Claville","country":"FRA","state":"NOR"},{"id":109,"name":"Cl\u00e9cy","country":"FRA","state":"NOR"},{"id":110,"name":"Cl\u00e9on","country":"FRA","state":"NOR"},{"id":111,"name":"Cl\u00e8res","country":"FRA","state":"NOR"},{"id":112,"name":"Clinchamps-sur-Orne","country":"FRA","state":"NOR"},{"id":113,"name":"Colleville-Montgomery","country":"FRA","state":"NOR"},{"id":114,"name":"Colombelles","country":"FRA","state":"NOR"},{"id":115,"name":"Conches-en-Ouche","country":"FRA","state":"NOR"},{"id":116,"name":"Cond\u00e9-sur-Huisne","country":"FRA","state":"NOR"},{"id":117,"name":"Cond\u00e9-sur-Noireau","country":"FRA","state":"NOR"},{"id":118,"name":"Cond\u00e9-sur-Sarthe","country":"FRA","state":"NOR"},{"id":119,"name":"Cond\u00e9-sur-Vire","country":"FRA","state":"NOR"},{"id":120,"name":"Cormeilles","country":"FRA","state":"NOR"},{"id":121,"name":"Cormelles-le-Royal","country":"FRA","state":"NOR"},{"id":122,"name":"Corneville-sur-Risle","country":"FRA","state":"NOR"},{"id":123,"name":"Courcelles-sur-Seine","country":"FRA","state":"NOR"},{"id":124,"name":"Courseulles-sur-Mer","country":"FRA","state":"NOR"},{"id":125,"name":"Courteilles","country":"FRA","state":"NOR"},{"id":126,"name":"Coutances","country":"FRA","state":"NOR"},{"id":127,"name":"Couterne","country":"FRA","state":"NOR"},{"id":128,"name":"Cr\u00e9ances","country":"FRA","state":"NOR"},{"id":129,"name":"Cresserons","country":"FRA","state":"NOR"},{"id":130,"name":"Creully","country":"FRA","state":"NOR"},{"id":131,"name":"Criel-sur-Mer","country":"FRA","state":"NOR"},{"id":132,"name":"Criquebeuf-sur-Seine","country":"FRA","state":"NOR"},{"id":133,"name":"Criquetot-l\u2019Esneval","country":"FRA","state":"NOR"},{"id":134,"name":"Croth","country":"FRA","state":"NOR"},{"id":135,"name":"Cuverville","country":"FRA","state":"NOR"},{"id":136,"name":"Damigny","country":"FRA","state":"NOR"},{"id":137,"name":"Damville","country":"FRA","state":"NOR"},{"id":138,"name":"Darn\u00e9tal","country":"FRA","state":"NOR"},{"id":139,"name":"Deauville","country":"FRA","state":"NOR"},{"id":140,"name":"D\u00e9mouville","country":"FRA","state":"NOR"},{"id":141,"name":"D\u00e9partement de l'Eure","country":"FRA","state":"NOR"},{"id":142,"name":"D\u00e9partement de l'Orne","country":"FRA","state":"NOR"},{"id":143,"name":"D\u00e9ville-l\u00e8s-Rouen","country":"FRA","state":"NOR"},{"id":144,"name":"Dieppe","country":"FRA","state":"NOR"},{"id":145,"name":"Digosville","country":"FRA","state":"NOR"},{"id":146,"name":"Dives-sur-Mer","country":"FRA","state":"NOR"},{"id":147,"name":"Domfront","country":"FRA","state":"NOR"},{"id":148,"name":"Donville-les-Bains","country":"FRA","state":"NOR"},{"id":149,"name":"Doudeville","country":"FRA","state":"NOR"},{"id":150,"name":"Douvres-la-D\u00e9livrande","country":"FRA","state":"NOR"},{"id":151,"name":"Dozul\u00e9","country":"FRA","state":"NOR"},{"id":152,"name":"Ducey","country":"FRA","state":"NOR"},{"id":153,"name":"Duclair","country":"FRA","state":"NOR"},{"id":154,"name":"\u00c9couch\u00e9","country":"FRA","state":"NOR"},{"id":155,"name":"\u00c9crainville","country":"FRA","state":"NOR"},{"id":156,"name":"Elbeuf","country":"FRA","state":"NOR"},{"id":157,"name":"Envermeu","country":"FRA","state":"NOR"},{"id":158,"name":"\u00c9paignes","country":"FRA","state":"NOR"},{"id":159,"name":"\u00c9pouville","country":"FRA","state":"NOR"},{"id":160,"name":"\u00c9pron","country":"FRA","state":"NOR"},{"id":161,"name":"\u00c9quemauville","country":"FRA","state":"NOR"},{"id":162,"name":"\u00c9queurdreville-Hainneville","country":"FRA","state":"NOR"},{"id":163,"name":"Eslettes","country":"FRA","state":"NOR"},{"id":164,"name":"\u00c9tainhus","country":"FRA","state":"NOR"},{"id":165,"name":"\u00c9terville","country":"FRA","state":"NOR"},{"id":166,"name":"\u00c9tr\u00e9pagny","country":"FRA","state":"NOR"},{"id":167,"name":"\u00c9tretat","country":"FRA","state":"NOR"},{"id":168,"name":"Eu","country":"FRA","state":"NOR"},{"id":169,"name":"\u00c9vrecy","country":"FRA","state":"NOR"},{"id":170,"name":"\u00c9vreux","country":"FRA","state":"NOR"},{"id":171,"name":"\u00c9zy-sur-Eure","country":"FRA","state":"NOR"},{"id":172,"name":"Falaise","country":"FRA","state":"NOR"},{"id":173,"name":"Fauville-en-Caux","country":"FRA","state":"NOR"},{"id":174,"name":"F\u00e9camp","country":"FRA","state":"NOR"},{"id":175,"name":"Fermanville","country":"FRA","state":"NOR"},{"id":176,"name":"Flamanville","country":"FRA","state":"NOR"},{"id":177,"name":"Flers","country":"FRA","state":"NOR"},{"id":178,"name":"Fleury-sur-Andelle","country":"FRA","state":"NOR"},{"id":179,"name":"Fleury-sur-Orne","country":"FRA","state":"NOR"},{"id":180,"name":"Fontaine-\u00c9toupefour","country":"FRA","state":"NOR"},{"id":181,"name":"Fontaine-la-Mallet","country":"FRA","state":"NOR"},{"id":182,"name":"Fontaine-le-Bourg","country":"FRA","state":"NOR"},{"id":183,"name":"Fontaine-le-Dun","country":"FRA","state":"NOR"},{"id":184,"name":"Fontenay","country":"FRA","state":"NOR"},{"id":185,"name":"Fontenay-le-Marmion","country":"FRA","state":"NOR"},{"id":186,"name":"Forges-les-Eaux","country":"FRA","state":"NOR"},{"id":187,"name":"Foucarmont","country":"FRA","state":"NOR"},{"id":188,"name":"Francheville","country":"FRA","state":"NOR"},{"id":189,"name":"Gac\u00e9","country":"FRA","state":"NOR"},{"id":190,"name":"Gaillefontaine","country":"FRA","state":"NOR"},{"id":191,"name":"Gaillon","country":"FRA","state":"NOR"},{"id":192,"name":"Gainneville","country":"FRA","state":"NOR"},{"id":193,"name":"Garennes-sur-Eure","country":"FRA","state":"NOR"},{"id":194,"name":"Gasny","country":"FRA","state":"NOR"},{"id":195,"name":"Gavray","country":"FRA","state":"NOR"},{"id":196,"name":"Giberville","country":"FRA","state":"NOR"},{"id":197,"name":"Gisors","country":"FRA","state":"NOR"},{"id":198,"name":"Goderville","country":"FRA","state":"NOR"},{"id":199,"name":"Gonneville-la-Mallet","country":"FRA","state":"NOR"},{"id":200,"name":"Gournay-en-Bray","country":"FRA","state":"NOR"},{"id":201,"name":"Gouville-sur-Mer","country":"FRA","state":"NOR"},{"id":202,"name":"Grainville-la-Teinturi\u00e8re","country":"FRA","state":"NOR"},{"id":203,"name":"Grainville-sur-Odon","country":"FRA","state":"NOR"},{"id":204,"name":"Grand-Couronne","country":"FRA","state":"NOR"},{"id":205,"name":"Grandcamp-Maisy","country":"FRA","state":"NOR"},{"id":206,"name":"Granville","country":"FRA","state":"NOR"},{"id":207,"name":"Gravigny","country":"FRA","state":"NOR"},{"id":208,"name":"Gruchet-le-Valasse","country":"FRA","state":"NOR"},{"id":209,"name":"Guichainville","country":"FRA","state":"NOR"},{"id":210,"name":"Hambye","country":"FRA","state":"NOR"},{"id":211,"name":"Harfleur","country":"FRA","state":"NOR"},{"id":212,"name":"Hautot-sur-Mer","country":"FRA","state":"NOR"},{"id":213,"name":"Hauville","country":"FRA","state":"NOR"},{"id":214,"name":"H\u00e9nouville","country":"FRA","state":"NOR"},{"id":215,"name":"Hermanville-sur-Mer","country":"FRA","state":"NOR"},{"id":216,"name":"H\u00e9rouville-Saint-Clair","country":"FRA","state":"NOR"},{"id":217,"name":"H\u00e9rouvillette","country":"FRA","state":"NOR"},{"id":218,"name":"Heudreville-sur-Eure","country":"FRA","state":"NOR"},{"id":219,"name":"Honfleur","country":"FRA","state":"NOR"},{"id":220,"name":"Houlbec-Cocherel","country":"FRA","state":"NOR"},{"id":221,"name":"Houlgate","country":"FRA","state":"NOR"},{"id":222,"name":"Houppeville","country":"FRA","state":"NOR"},{"id":223,"name":"Ifs","country":"FRA","state":"NOR"},{"id":224,"name":"Igoville","country":"FRA","state":"NOR"},{"id":225,"name":"Incheville","country":"FRA","state":"NOR"},{"id":226,"name":"Isigny-le-Buat","country":"FRA","state":"NOR"},{"id":227,"name":"Isigny-sur-Mer","country":"FRA","state":"NOR"},{"id":228,"name":"Isneauville","country":"FRA","state":"NOR"},{"id":229,"name":"Ivry-la-Bataille","country":"FRA","state":"NOR"},{"id":230,"name":"Jullouville","country":"FRA","state":"NOR"},{"id":231,"name":"Jumi\u00e8ges","country":"FRA","state":"NOR"},{"id":232,"name":"Juvigny-sous-Andaine","country":"FRA","state":"NOR"},{"id":233,"name":"La Bonneville-sur-Iton","country":"FRA","state":"NOR"},{"id":234,"name":"La Cerlangue","country":"FRA","state":"NOR"},{"id":235,"name":"La Chapelle-R\u00e9anville","country":"FRA","state":"NOR"},{"id":236,"name":"La Couture-Boussey","country":"FRA","state":"NOR"},{"id":237,"name":"La Ferri\u00e8re-aux-\u00c9tangs","country":"FRA","state":"NOR"},{"id":238,"name":"La Fert\u00e9-Mac\u00e9","country":"FRA","state":"NOR"},{"id":239,"name":"La Feuillie","country":"FRA","state":"NOR"},{"id":240,"name":"La Glacerie","country":"FRA","state":"NOR"},{"id":241,"name":"La Haye-du-Puits","country":"FRA","state":"NOR"},{"id":242,"name":"La Haye-Malherbe","country":"FRA","state":"NOR"},{"id":243,"name":"La Haye-Pesnel","country":"FRA","state":"NOR"},{"id":244,"name":"La Lande-Patry","country":"FRA","state":"NOR"},{"id":245,"name":"La Madeleine-de-Nonancourt","country":"FRA","state":"NOR"},{"id":246,"name":"La Mailleraye-sur-Seine","country":"FRA","state":"NOR"},{"id":247,"name":"La Meauffe","country":"FRA","state":"NOR"},{"id":248,"name":"La Remu\u00e9e","country":"FRA","state":"NOR"},{"id":249,"name":"La Rivi\u00e8re-Saint-Sauveur","country":"FRA","state":"NOR"},{"id":250,"name":"La Saussaye","country":"FRA","state":"NOR"},{"id":251,"name":"La Selle-la-Forge","country":"FRA","state":"NOR"},{"id":252,"name":"La Vaupali\u00e8re","country":"FRA","state":"NOR"},{"id":253,"name":"La Vespi\u00e8re","country":"FRA","state":"NOR"},{"id":254,"name":"Langrune-sur-Mer","country":"FRA","state":"NOR"},{"id":255,"name":"Lanquetot","country":"FRA","state":"NOR"},{"id":256,"name":"Le Bosc-Roger-en-Roumois","country":"FRA","state":"NOR"},{"id":257,"name":"Le Grand-Quevilly","country":"FRA","state":"NOR"},{"id":258,"name":"Le Havre","country":"FRA","state":"NOR"},{"id":259,"name":"Le Houlme","country":"FRA","state":"NOR"},{"id":260,"name":"Le Manoir","country":"FRA","state":"NOR"},{"id":261,"name":"Le Mesnil-Esnard","country":"FRA","state":"NOR"},{"id":262,"name":"Le Molay-Littry","country":"FRA","state":"NOR"},{"id":263,"name":"Le Neubourg","country":"FRA","state":"NOR"},{"id":264,"name":"Le Petit-Quevilly","country":"FRA","state":"NOR"},{"id":265,"name":"Le Teilleul","country":"FRA","state":"NOR"},{"id":266,"name":"Le Theil-Bocage","country":"FRA","state":"NOR"},{"id":267,"name":"Le Thuit-Signol","country":"FRA","state":"NOR"},{"id":268,"name":"Le Trait","country":"FRA","state":"NOR"},{"id":269,"name":"Le Tr\u00e9port","country":"FRA","state":"NOR"},{"id":270,"name":"Le Val-Saint-P\u00e8re","country":"FRA","state":"NOR"},{"id":271,"name":"Le Vaudreuil","country":"FRA","state":"NOR"},{"id":272,"name":"L\u00e9ry","country":"FRA","state":"NOR"},{"id":273,"name":"Les Andelys","country":"FRA","state":"NOR"},{"id":274,"name":"Les Authieux-sur-le-Port-Saint-Ouen","country":"FRA","state":"NOR"},{"id":275,"name":"Les Grandes-Ventes","country":"FRA","state":"NOR"},{"id":276,"name":"Les Loges","country":"FRA","state":"NOR"},{"id":277,"name":"Les Loges-Marchis","country":"FRA","state":"NOR"},{"id":278,"name":"Les Pieux","country":"FRA","state":"NOR"},{"id":279,"name":"Lessay","country":"FRA","state":"NOR"},{"id":280,"name":"Lieurey","country":"FRA","state":"NOR"},{"id":281,"name":"Lillebonne","country":"FRA","state":"NOR"},{"id":282,"name":"Lim\u00e9sy","country":"FRA","state":"NOR"},{"id":283,"name":"Lion-sur-Mer","country":"FRA","state":"NOR"},{"id":284,"name":"Lisieux","country":"FRA","state":"NOR"},{"id":285,"name":"Livarot","country":"FRA","state":"NOR"},{"id":286,"name":"Londini\u00e8res","country":"FRA","state":"NOR"},{"id":287,"name":"Longny-au-Perche","country":"FRA","state":"NOR"},{"id":288,"name":"Louviers","country":"FRA","state":"NOR"},{"id":289,"name":"Louvigny","country":"FRA","state":"NOR"},{"id":290,"name":"Luc-sur-Mer","country":"FRA","state":"NOR"},{"id":291,"name":"Luneray","country":"FRA","state":"NOR"},{"id":292,"name":"Magny-le-D\u00e9sert","country":"FRA","state":"NOR"},{"id":293,"name":"Malaunay","country":"FRA","state":"NOR"},{"id":294,"name":"Manche","country":"FRA","state":"NOR"},{"id":295,"name":"Man\u00e9glise","country":"FRA","state":"NOR"},{"id":296,"name":"Manneville-sur-Risle","country":"FRA","state":"NOR"},{"id":297,"name":"Marcey-les-Gr\u00e8ves","country":"FRA","state":"NOR"},{"id":298,"name":"Marcilly-sur-Eure","country":"FRA","state":"NOR"},{"id":299,"name":"Marigny","country":"FRA","state":"NOR"},{"id":300,"name":"Maromme","country":"FRA","state":"NOR"},{"id":301,"name":"Martin-\u00c9glise","country":"FRA","state":"NOR"},{"id":302,"name":"Martinvast","country":"FRA","state":"NOR"},{"id":303,"name":"Mathieu","country":"FRA","state":"NOR"},{"id":304,"name":"May-sur-Orne","country":"FRA","state":"NOR"},{"id":305,"name":"M\u00e9nilles","country":"FRA","state":"NOR"},{"id":306,"name":"Menneval","country":"FRA","state":"NOR"},{"id":307,"name":"Merville-Franceville-Plage","country":"FRA","state":"NOR"},{"id":308,"name":"Mesni\u00e8res-en-Bray","country":"FRA","state":"NOR"},{"id":309,"name":"Messei","country":"FRA","state":"NOR"},{"id":310,"name":"Mondeville","country":"FRA","state":"NOR"},{"id":311,"name":"Mont-Saint-Aignan","country":"FRA","state":"NOR"},{"id":312,"name":"Montaure","country":"FRA","state":"NOR"},{"id":313,"name":"Montebourg","country":"FRA","state":"NOR"},{"id":314,"name":"Montigny","country":"FRA","state":"NOR"},{"id":315,"name":"Montivilliers","country":"FRA","state":"NOR"},{"id":316,"name":"Montmain","country":"FRA","state":"NOR"},{"id":317,"name":"Montmartin-sur-Mer","country":"FRA","state":"NOR"},{"id":318,"name":"Mortagne-au-Perche","country":"FRA","state":"NOR"},{"id":319,"name":"Mortain","country":"FRA","state":"NOR"},{"id":320,"name":"Mortr\u00e9e","country":"FRA","state":"NOR"},{"id":321,"name":"Mouen","country":"FRA","state":"NOR"},{"id":322,"name":"Moult","country":"FRA","state":"NOR"},{"id":323,"name":"Moyaux","country":"FRA","state":"NOR"},{"id":324,"name":"Nassandres","country":"FRA","state":"NOR"},{"id":325,"name":"Neaufles-Saint-Martin","country":"FRA","state":"NOR"},{"id":326,"name":"Neufch\u00e2tel-en-Bray","country":"FRA","state":"NOR"},{"id":327,"name":"N\u00e9ville","country":"FRA","state":"NOR"},{"id":328,"name":"Nointot","country":"FRA","state":"NOR"},{"id":329,"name":"Nonancourt","country":"FRA","state":"NOR"},{"id":330,"name":"Normanville","country":"FRA","state":"NOR"},{"id":331,"name":"Notre-Dame-de-Bondeville","country":"FRA","state":"NOR"},{"id":332,"name":"Notre-Dame-de-Gravenchon","country":"FRA","state":"NOR"},{"id":333,"name":"Octeville","country":"FRA","state":"NOR"},{"id":334,"name":"Octeville-sur-Mer","country":"FRA","state":"NOR"},{"id":335,"name":"Offranville","country":"FRA","state":"NOR"},{"id":336,"name":"Oissel","country":"FRA","state":"NOR"},{"id":337,"name":"Orbec","country":"FRA","state":"NOR"},{"id":338,"name":"Orival","country":"FRA","state":"NOR"},{"id":339,"name":"Ouistreham","country":"FRA","state":"NOR"},{"id":340,"name":"Ourville-en-Caux","country":"FRA","state":"NOR"},{"id":341,"name":"Pacy-sur-Eure","country":"FRA","state":"NOR"},{"id":342,"name":"Parigny","country":"FRA","state":"NOR"},{"id":343,"name":"Pavilly","country":"FRA","state":"NOR"},{"id":344,"name":"Percy","country":"FRA","state":"NOR"},{"id":345,"name":"P\u00e9riers","country":"FRA","state":"NOR"},{"id":346,"name":"Perriers-sur-Andelle","country":"FRA","state":"NOR"},{"id":347,"name":"Petit-Couronne","country":"FRA","state":"NOR"},{"id":348,"name":"Petiville","country":"FRA","state":"NOR"},{"id":349,"name":"Picauville","country":"FRA","state":"NOR"},{"id":350,"name":"Pirou","country":"FRA","state":"NOR"},{"id":351,"name":"Pissy-P\u00f4ville","country":"FRA","state":"NOR"},{"id":352,"name":"P\u00eetres","country":"FRA","state":"NOR"},{"id":353,"name":"Pont-Audemer","country":"FRA","state":"NOR"},{"id":354,"name":"Pont-d'Ouilly","country":"FRA","state":"NOR"},{"id":355,"name":"Pont-\u00c9crepin","country":"FRA","state":"NOR"},{"id":356,"name":"Pont-H\u00e9bert","country":"FRA","state":"NOR"},{"id":357,"name":"Pont-l\u2019\u00c9v\u00eaque","country":"FRA","state":"NOR"},{"id":358,"name":"Pont-Saint-Pierre","country":"FRA","state":"NOR"},{"id":359,"name":"Pontorson","country":"FRA","state":"NOR"},{"id":360,"name":"Port-en-Bessin-Huppain","country":"FRA","state":"NOR"},{"id":361,"name":"Portbail","country":"FRA","state":"NOR"},{"id":362,"name":"Poses","country":"FRA","state":"NOR"},{"id":363,"name":"Potigny","country":"FRA","state":"NOR"},{"id":364,"name":"Pr\u00e9aux","country":"FRA","state":"NOR"},{"id":365,"name":"Putanges-Pont-\u00c9crepin","country":"FRA","state":"NOR"},{"id":366,"name":"Querqueville","country":"FRA","state":"NOR"},{"id":367,"name":"Quettehou","country":"FRA","state":"NOR"},{"id":368,"name":"Quettreville-sur-Sienne","country":"FRA","state":"NOR"},{"id":369,"name":"Quillebeuf-sur-Seine","country":"FRA","state":"NOR"},{"id":370,"name":"Quincampoix","country":"FRA","state":"NOR"},{"id":371,"name":"Radon","country":"FRA","state":"NOR"},{"id":372,"name":"Rai","country":"FRA","state":"NOR"},{"id":373,"name":"Ranville","country":"FRA","state":"NOR"},{"id":374,"name":"R\u00e9malard","country":"FRA","state":"NOR"},{"id":375,"name":"R\u00e9ville","country":"FRA","state":"NOR"},{"id":376,"name":"Rogerville","country":"FRA","state":"NOR"},{"id":377,"name":"Rolleville","country":"FRA","state":"NOR"},{"id":378,"name":"Romagny","country":"FRA","state":"NOR"},{"id":379,"name":"Romilly-sur-Andelle","country":"FRA","state":"NOR"},{"id":380,"name":"Roncherolles-sur-le-Vivier","country":"FRA","state":"NOR"},{"id":381,"name":"Rots","country":"FRA","state":"NOR"},{"id":382,"name":"Rouen","country":"FRA","state":"NOR"},{"id":383,"name":"Roumare","country":"FRA","state":"NOR"},{"id":384,"name":"Routot","country":"FRA","state":"NOR"},{"id":385,"name":"Rouxmesnil-Bouteilles","country":"FRA","state":"NOR"},{"id":386,"name":"Rugles","country":"FRA","state":"NOR"},{"id":387,"name":"Sahurs","country":"FRA","state":"NOR"},{"id":388,"name":"Saint-Amand","country":"FRA","state":"NOR"},{"id":389,"name":"Saint-Andr\u00e9-sur-Orne","country":"FRA","state":"NOR"},{"id":390,"name":"Saint-Arnoult","country":"FRA","state":"NOR"},{"id":391,"name":"Saint-Aubin-l\u00e8s-Elbeuf","country":"FRA","state":"NOR"},{"id":392,"name":"Saint-Aubin-Routot","country":"FRA","state":"NOR"},{"id":393,"name":"Saint-Aubin-sur-Gaillon","country":"FRA","state":"NOR"},{"id":394,"name":"Saint-Aubin-sur-Mer","country":"FRA","state":"NOR"},{"id":395,"name":"Saint-Aubin-sur-Scie","country":"FRA","state":"NOR"},{"id":396,"name":"Saint-Contest","country":"FRA","state":"NOR"},{"id":397,"name":"Saint-Denis-sur-Sarthon","country":"FRA","state":"NOR"},{"id":398,"name":"Saint-D\u00e9sir","country":"FRA","state":"NOR"},{"id":399,"name":"Saint-\u00c9tienne-du-Rouvray","country":"FRA","state":"NOR"},{"id":400,"name":"Saint-Eustache-la-For\u00eat","country":"FRA","state":"NOR"},{"id":401,"name":"Saint-Gatien-des-Bois","country":"FRA","state":"NOR"},{"id":402,"name":"Saint-Georges-des-Groseillers","country":"FRA","state":"NOR"},{"id":403,"name":"Saint-Germain-du-Corb\u00e9is","country":"FRA","state":"NOR"},{"id":404,"name":"Saint-Germain-la-Blanche-Herbe","country":"FRA","state":"NOR"},{"id":405,"name":"Saint-Germain-sur-Avre","country":"FRA","state":"NOR"},{"id":406,"name":"Saint-Germain-Village","country":"FRA","state":"NOR"},{"id":407,"name":"Saint-Hilaire-du-Harcou\u00ebt","country":"FRA","state":"NOR"},{"id":408,"name":"Saint-Hilaire-Petitville","country":"FRA","state":"NOR"},{"id":409,"name":"Saint-Jacques-sur-Darn\u00e9tal","country":"FRA","state":"NOR"},{"id":410,"name":"Saint-James","country":"FRA","state":"NOR"},{"id":411,"name":"Saint-Jean-des-Baisants","country":"FRA","state":"NOR"},{"id":412,"name":"Saint-Jean-des-Champs","country":"FRA","state":"NOR"},{"id":413,"name":"Saint-Jean-du-Cardonnay","country":"FRA","state":"NOR"},{"id":414,"name":"Saint-Jouin-Bruneval","country":"FRA","state":"NOR"},{"id":415,"name":"Saint-Just","country":"FRA","state":"NOR"},{"id":416,"name":"Saint-Laurent-de-Br\u00e9vedent","country":"FRA","state":"NOR"},{"id":417,"name":"Saint-L\u00e9ger-du-Bourg-Denis","country":"FRA","state":"NOR"},{"id":418,"name":"Saint-L\u00e9onard","country":"FRA","state":"NOR"},{"id":419,"name":"Saint-L\u00f4","country":"FRA","state":"NOR"},{"id":420,"name":"Saint-Manvieu","country":"FRA","state":"NOR"},{"id":421,"name":"Saint-Manvieu-Norrey","country":"FRA","state":"NOR"},{"id":422,"name":"Saint-Marcel","country":"FRA","state":"NOR"},{"id":423,"name":"Saint-Martin-de-Boscherville","country":"FRA","state":"NOR"},{"id":424,"name":"Saint-Martin-de-Fontenay","country":"FRA","state":"NOR"},{"id":425,"name":"Saint-Martin-de-Landelles","country":"FRA","state":"NOR"},{"id":426,"name":"Saint-Martin-des-Besaces","country":"FRA","state":"NOR"},{"id":427,"name":"Saint-Martin-des-Champs","country":"FRA","state":"NOR"},{"id":428,"name":"Saint-Martin-du-Manoir","country":"FRA","state":"NOR"},{"id":429,"name":"Saint-Martin-du-Vivier","country":"FRA","state":"NOR"},{"id":430,"name":"Saint-Martin-en-Campagne","country":"FRA","state":"NOR"},{"id":431,"name":"Saint-Martin-Osmonville","country":"FRA","state":"NOR"},{"id":432,"name":"Saint-Nicolas-d\u2019Aliermont","country":"FRA","state":"NOR"},{"id":433,"name":"Saint-Nicolas-de-la-Taille","country":"FRA","state":"NOR"},{"id":434,"name":"Saint-Ouen-de-Thouberville","country":"FRA","state":"NOR"},{"id":435,"name":"Saint-Ouen-du-Tilleul","country":"FRA","state":"NOR"},{"id":436,"name":"Saint-Pa\u00ebr","country":"FRA","state":"NOR"},{"id":437,"name":"Saint-Pair-sur-Mer","country":"FRA","state":"NOR"},{"id":438,"name":"Saint-Pierre-de-Varengeville","country":"FRA","state":"NOR"},{"id":439,"name":"Saint-Pierre-des-Fleurs","country":"FRA","state":"NOR"},{"id":440,"name":"Saint-Pierre-du-Regard","country":"FRA","state":"NOR"},{"id":441,"name":"Saint-Pierre-du-Vauvray","country":"FRA","state":"NOR"},{"id":442,"name":"Saint-Pierre-\u00c9glise","country":"FRA","state":"NOR"},{"id":443,"name":"Saint-Pierre-en-Val","country":"FRA","state":"NOR"},{"id":444,"name":"Saint-Pierre-l\u00e8s-Elbeuf","country":"FRA","state":"NOR"},{"id":445,"name":"Saint-Pierre-sur-Dives","country":"FRA","state":"NOR"},{"id":446,"name":"Saint-Planchers","country":"FRA","state":"NOR"},{"id":447,"name":"Saint-Quentin-sur-le-Homme","country":"FRA","state":"NOR"},{"id":448,"name":"Saint-R\u00e9my","country":"FRA","state":"NOR"},{"id":449,"name":"Saint-Romain-de-Colbosc","country":"FRA","state":"NOR"},{"id":450,"name":"Saint-Sa\u00ebns","country":"FRA","state":"NOR"},{"id":451,"name":"Saint-Sauveur-le-Vicomte","country":"FRA","state":"NOR"},{"id":452,"name":"Saint-Sauveur-Lendelin","country":"FRA","state":"NOR"},{"id":453,"name":"Saint-S\u00e9bastien-de-Morsent","country":"FRA","state":"NOR"},{"id":454,"name":"Saint-Senier-sous-Avranches","country":"FRA","state":"NOR"},{"id":455,"name":"Saint-Sever-Calvados","country":"FRA","state":"NOR"},{"id":456,"name":"Saint-Sulpice-sur-Risle","country":"FRA","state":"NOR"},{"id":457,"name":"Saint-Sylvain","country":"FRA","state":"NOR"},{"id":458,"name":"Saint-Vaast-la-Hougue","country":"FRA","state":"NOR"},{"id":459,"name":"Saint-Valery-en-Caux","country":"FRA","state":"NOR"},{"id":460,"name":"Saint-Vigor-le-Grand","country":"FRA","state":"NOR"},{"id":461,"name":"Saint-Wandrille-Ran\u00e7on","country":"FRA","state":"NOR"},{"id":462,"name":"Sainte-Adresse","country":"FRA","state":"NOR"},{"id":463,"name":"Sainte-Gauburge-Sainte-Colombe","country":"FRA","state":"NOR"},{"id":464,"name":"Sainte-Honorine-du-Fay","country":"FRA","state":"NOR"},{"id":465,"name":"Sainte-Marguerite-sur-Duclair","country":"FRA","state":"NOR"},{"id":466,"name":"Sainte-Marie-des-Champs","country":"FRA","state":"NOR"},{"id":467,"name":"Sainte-M\u00e8re-\u00c9glise","country":"FRA","state":"NOR"},{"id":468,"name":"Sannerville","country":"FRA","state":"NOR"},{"id":469,"name":"Sartilly","country":"FRA","state":"NOR"},{"id":470,"name":"S\u00e9es","country":"FRA","state":"NOR"},{"id":471,"name":"Seine-Maritime","country":"FRA","state":"NOR"},{"id":472,"name":"Serqueux","country":"FRA","state":"NOR"},{"id":473,"name":"Serquigny","country":"FRA","state":"NOR"},{"id":474,"name":"Soliers","country":"FRA","state":"NOR"},{"id":475,"name":"Sottevast","country":"FRA","state":"NOR"},{"id":476,"name":"Sotteville-l\u00e8s-Rouen","country":"FRA","state":"NOR"},{"id":477,"name":"Sourdeval","country":"FRA","state":"NOR"},{"id":478,"name":"Surtainville","country":"FRA","state":"NOR"},{"id":479,"name":"Tancarville","country":"FRA","state":"NOR"},{"id":480,"name":"Tess\u00e9-la-Madeleine","country":"FRA","state":"NOR"},{"id":481,"name":"Tessy-sur-Vire","country":"FRA","state":"NOR"},{"id":482,"name":"Thaon","country":"FRA","state":"NOR"},{"id":483,"name":"Thiberville","country":"FRA","state":"NOR"},{"id":484,"name":"Thury-Harcourt","country":"FRA","state":"NOR"},{"id":485,"name":"Tilli\u00e8res-sur-Avre","country":"FRA","state":"NOR"},{"id":486,"name":"Tilly-sur-Seulles","country":"FRA","state":"NOR"},{"id":487,"name":"Tinchebray","country":"FRA","state":"NOR"},{"id":488,"name":"Tollevast","country":"FRA","state":"NOR"},{"id":489,"name":"Torigni-sur-Vire","country":"FRA","state":"NOR"},{"id":490,"name":"T\u00f4tes","country":"FRA","state":"NOR"},{"id":491,"name":"Touques","country":"FRA","state":"NOR"},{"id":492,"name":"Tourlaville","country":"FRA","state":"NOR"},{"id":493,"name":"Tourouvre","country":"FRA","state":"NOR"},{"id":494,"name":"Tourville-la-Rivi\u00e8re","country":"FRA","state":"NOR"},{"id":495,"name":"Tourville-sur-Arques","country":"FRA","state":"NOR"},{"id":496,"name":"Tourville-sur-Odon","country":"FRA","state":"NOR"},{"id":497,"name":"Toutainville","country":"FRA","state":"NOR"},{"id":498,"name":"Troarn","country":"FRA","state":"NOR"},{"id":499,"name":"Trouville-sur-Mer","country":"FRA","state":"NOR"},{"id":500,"name":"Trun","country":"FRA","state":"NOR"},{"id":501,"name":"Turretot","country":"FRA","state":"NOR"},{"id":502,"name":"Urville-Nacqueville","country":"FRA","state":"NOR"},{"id":503,"name":"Val-de-Reuil","country":"FRA","state":"NOR"},{"id":504,"name":"Valframbert","country":"FRA","state":"NOR"},{"id":505,"name":"Valliquerville","country":"FRA","state":"NOR"},{"id":506,"name":"Valognes","country":"FRA","state":"NOR"},{"id":507,"name":"Varengeville-sur-Mer","country":"FRA","state":"NOR"},{"id":508,"name":"Vassy","country":"FRA","state":"NOR"},{"id":509,"name":"Vaudry","country":"FRA","state":"NOR"},{"id":510,"name":"Ver-sur-Mer","country":"FRA","state":"NOR"},{"id":511,"name":"Verneuil-sur-Avre","country":"FRA","state":"NOR"},{"id":512,"name":"Vernon","country":"FRA","state":"NOR"},{"id":513,"name":"Verson","country":"FRA","state":"NOR"},{"id":514,"name":"Villedieu-les-Po\u00eales","country":"FRA","state":"NOR"},{"id":515,"name":"Villers-Bocage","country":"FRA","state":"NOR"},{"id":516,"name":"Villers-\u00c9calles","country":"FRA","state":"NOR"},{"id":517,"name":"Villers-sur-Mer","country":"FRA","state":"NOR"},{"id":518,"name":"Vimoutiers","country":"FRA","state":"NOR"},{"id":519,"name":"Vire","country":"FRA","state":"NOR"},{"id":520,"name":"Yainville","country":"FRA","state":"NOR"},{"id":521,"name":"Y\u00e9bleron","country":"FRA","state":"NOR"},{"id":522,"name":"Yerville","country":"FRA","state":"NOR"},{"id":523,"name":"Ymare","country":"FRA","state":"NOR"},{"id":524,"name":"Yport","country":"FRA","state":"NOR"},{"id":525,"name":"Yvetot","country":"FRA","state":"NOR"}]
+[
+    {
+        "id": 39241,
+        "name": "Ablon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39255,
+        "name": "Acquigny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39259,
+        "name": "Agneaux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39262,
+        "name": "Agon-Coutainville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39310,
+        "name": "Alençon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39317,
+        "name": "Alizay",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39362,
+        "name": "Amfreville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39363,
+        "name": "Amfreville-la-Mi-Voie",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39393,
+        "name": "Andé",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39398,
+        "name": "Angerville-l’Orcher",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39477,
+        "name": "Argences",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39479,
+        "name": "Argentan",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39502,
+        "name": "Arnières-sur-Iton",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39509,
+        "name": "Arques-la-Bataille",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39558,
+        "name": "Athis-de-l'Orne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39568,
+        "name": "Aube-sur-Rîle",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39575,
+        "name": "Aubevoye",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39603,
+        "name": "Auffay",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39615,
+        "name": "Aumale",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39619,
+        "name": "Aunay-sur-Odon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39635,
+        "name": "Authie",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39651,
+        "name": "Auzebosc",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39673,
+        "name": "Aviron",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39678,
+        "name": "Avranches",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39702,
+        "name": "Bacqueville-en-Caux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39710,
+        "name": "Bagnoles-de-l'Orne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39781,
+        "name": "Barentin",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39782,
+        "name": "Barenton",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39788,
+        "name": "Barneville-Carteret",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39789,
+        "name": "Barneville-Plage",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39819,
+        "name": "Bavent",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39822,
+        "name": "Bayeux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39861,
+        "name": "Beaumont-Hague",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39869,
+        "name": "Beaumont-le-Roger",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39902,
+        "name": "Belbeuf",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39931,
+        "name": "Bellême",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39918,
+        "name": "Bellengreville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40426,
+        "name": "Bénouville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39952,
+        "name": "Bernay",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39954,
+        "name": "Berneval-le-Grand",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39957,
+        "name": "Bernières-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39990,
+        "name": "Beuville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39991,
+        "name": "Beuvillers",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39995,
+        "name": "Beuzeville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 39996,
+        "name": "Beuzeville-la-Grenier",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40437,
+        "name": "Bézu-Saint-Éloi",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40041,
+        "name": "Biéville-Beuville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40019,
+        "name": "Bihorel",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40048,
+        "name": "Blainville-Crevon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40049,
+        "name": "Blainville-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40050,
+        "name": "Blainville-sur-Orne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40054,
+        "name": "Blangy-sur-Bresle",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40070,
+        "name": "Blonville-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40086,
+        "name": "Bois-Guillaume",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40102,
+        "name": "Bolbec",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40134,
+        "name": "Boos",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40144,
+        "name": "Bosc-le-Hard",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40186,
+        "name": "Bourg-Achard",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40205,
+        "name": "Bourgtheroulde-Infreville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40207,
+        "name": "Bourguébus",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40213,
+        "name": "Bourth",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40229,
+        "name": "Bouville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40355,
+        "name": "Bréauté",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40356,
+        "name": "Brécey",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40358,
+        "name": "Bréhal",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40282,
+        "name": "Breteuil",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40285,
+        "name": "Bretoncelles",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40287,
+        "name": "Bretteville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40288,
+        "name": "Bretteville-du-Grand-Caux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40289,
+        "name": "Bretteville-l’Orgueilleuse",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40290,
+        "name": "Bretteville-sur-Laize",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40291,
+        "name": "Bretteville-sur-Odon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40297,
+        "name": "Breuilpont",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40303,
+        "name": "Bricquebec",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40320,
+        "name": "Brionne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40323,
+        "name": "Briouze",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40329,
+        "name": "Brix",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40331,
+        "name": "Broglie",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40370,
+        "name": "Buchy",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40374,
+        "name": "Bueil",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40382,
+        "name": "Bully",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40445,
+        "name": "Cabourg",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40457,
+        "name": "Caen",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40461,
+        "name": "Cagny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40462,
+        "name": "Cahagnes",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40466,
+        "name": "Cairon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40478,
+        "name": "Calvados",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40485,
+        "name": "Cambes-en-Plaine",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40490,
+        "name": "Cambremer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40515,
+        "name": "Canon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40518,
+        "name": "Canteleu",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40522,
+        "name": "Cany-Barville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40541,
+        "name": "Carentan",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40556,
+        "name": "Carpiquet",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40602,
+        "name": "Caudebec-en-Caux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40603,
+        "name": "Caudebec-lès-Elbeuf",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40607,
+        "name": "Caumont",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40608,
+        "name": "Caumont-l'Éventé",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40615,
+        "name": "Cauville-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40631,
+        "name": "Ceaucé",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41395,
+        "name": "Cérences",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40648,
+        "name": "Cerisy-la-Salle",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40664,
+        "name": "Ceton",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40751,
+        "name": "Champsecret",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40779,
+        "name": "Chanu",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40801,
+        "name": "Charleval",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40881,
+        "name": "Cherbourg-Octeville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 40890,
+        "name": "Cheux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41045,
+        "name": "Claville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41066,
+        "name": "Clécy",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41071,
+        "name": "Cléon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41065,
+        "name": "Clères",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41054,
+        "name": "Clinchamps-sur-Orne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41090,
+        "name": "Colleville-Montgomery",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41099,
+        "name": "Colombelles",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41128,
+        "name": "Conches-en-Ouche",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41136,
+        "name": "Condé-sur-Huisne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41137,
+        "name": "Condé-sur-Noireau",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41138,
+        "name": "Condé-sur-Sarthe",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41140,
+        "name": "Condé-sur-Vire",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41179,
+        "name": "Cormeilles",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41181,
+        "name": "Cormelles-le-Royal",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41191,
+        "name": "Corneville-sur-Risle",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41245,
+        "name": "Courcelles-sur-Seine",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41266,
+        "name": "Courseulles-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41267,
+        "name": "Courteilles",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41278,
+        "name": "Coutances",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41279,
+        "name": "Couterne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41340,
+        "name": "Créances",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41308,
+        "name": "Cresserons",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41310,
+        "name": "Creully",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41317,
+        "name": "Criel-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41318,
+        "name": "Criquebeuf-sur-Seine",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41319,
+        "name": "Criquetot-l’Esneval",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41329,
+        "name": "Croth",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41385,
+        "name": "Cuverville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41413,
+        "name": "Damigny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41425,
+        "name": "Damville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41436,
+        "name": "Darnétal",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41444,
+        "name": "Deauville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41601,
+        "name": "Démouville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41617,
+        "name": "Département de l'Eure",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41622,
+        "name": "Département de l'Orne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41650,
+        "name": "Déville-lès-Rouen",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41469,
+        "name": "Dieppe",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41480,
+        "name": "Digosville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41495,
+        "name": "Dives-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41516,
+        "name": "Domfront",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41534,
+        "name": "Donville-les-Bains",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41550,
+        "name": "Doudeville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41559,
+        "name": "Douvres-la-Délivrande",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41564,
+        "name": "Dozulé",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41584,
+        "name": "Ducey",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41585,
+        "name": "Duclair",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48046,
+        "name": "Écouché",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48051,
+        "name": "Écrainville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41662,
+        "name": "Elbeuf",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41685,
+        "name": "Envermeu",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48070,
+        "name": "Épaignes",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48083,
+        "name": "Épouville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48084,
+        "name": "Épron",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48086,
+        "name": "Équemauville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48087,
+        "name": "Équeurdreville-Hainneville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41714,
+        "name": "Eslettes",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48093,
+        "name": "Étainhus",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48102,
+        "name": "Éterville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48114,
+        "name": "Étrépagny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48110,
+        "name": "Étretat",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41742,
+        "name": "Eu",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48122,
+        "name": "Évrecy",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48123,
+        "name": "Évreux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48127,
+        "name": "Ézy-sur-Eure",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41765,
+        "name": "Falaise",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41781,
+        "name": "Fauville-en-Caux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41999,
+        "name": "Fécamp",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41800,
+        "name": "Fermanville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41828,
+        "name": "Flamanville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41836,
+        "name": "Flers",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41850,
+        "name": "Fleury-sur-Andelle",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41851,
+        "name": "Fleury-sur-Orne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41886,
+        "name": "Fontaine-Étoupefour",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41880,
+        "name": "Fontaine-la-Mallet",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41881,
+        "name": "Fontaine-le-Bourg",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41883,
+        "name": "Fontaine-le-Dun",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41894,
+        "name": "Fontenay",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41900,
+        "name": "Fontenay-le-Marmion",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41913,
+        "name": "Forges-les-Eaux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41921,
+        "name": "Foucarmont",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 41948,
+        "name": "Francheville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42010,
+        "name": "Gacé",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42017,
+        "name": "Gaillefontaine",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42018,
+        "name": "Gaillon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42019,
+        "name": "Gainneville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42040,
+        "name": "Garennes-sur-Eure",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42049,
+        "name": "Gasny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42055,
+        "name": "Gavray",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42086,
+        "name": "Giberville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42105,
+        "name": "Gisors",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42115,
+        "name": "Goderville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42132,
+        "name": "Gonneville-la-Mallet",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42152,
+        "name": "Gournay-en-Bray",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42157,
+        "name": "Gouville-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42166,
+        "name": "Grainville-la-Teinturière",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42167,
+        "name": "Grainville-sur-Odon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42172,
+        "name": "Grand-Couronne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42175,
+        "name": "Grandcamp-Maisy",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42185,
+        "name": "Granville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42191,
+        "name": "Gravigny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42228,
+        "name": "Gruchet-le-Valasse",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42251,
+        "name": "Guichainville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42320,
+        "name": "Hambye",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42328,
+        "name": "Harfleur",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42355,
+        "name": "Hautot-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42357,
+        "name": "Hauville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42455,
+        "name": "Hénouville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42378,
+        "name": "Hermanville-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42461,
+        "name": "Hérouville-Saint-Clair",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42462,
+        "name": "Hérouvillette",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42390,
+        "name": "Heudreville-sur-Eure",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42417,
+        "name": "Honfleur",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42427,
+        "name": "Houlbec-Cocherel",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42428,
+        "name": "Houlgate",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42431,
+        "name": "Houppeville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42472,
+        "name": "Ifs",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42476,
+        "name": "Igoville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42485,
+        "name": "Incheville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42499,
+        "name": "Isigny-le-Buat",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42500,
+        "name": "Isigny-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42502,
+        "name": "Isneauville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42516,
+        "name": "Ivry-la-Bataille",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42589,
+        "name": "Jullouville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42592,
+        "name": "Jumièges",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42599,
+        "name": "Juvigny-sous-Andaine",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42648,
+        "name": "La Bonneville-sur-Iton",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42674,
+        "name": "La Cerlangue",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42683,
+        "name": "La Chapelle-Réanville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42720,
+        "name": "La Couture-Boussey",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42735,
+        "name": "La Ferrière-aux-Étangs",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42740,
+        "name": "La Ferté-Macé",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42744,
+        "name": "La Feuillie",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42768,
+        "name": "La Glacerie",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42782,
+        "name": "La Haye-du-Puits",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42780,
+        "name": "La Haye-Malherbe",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42781,
+        "name": "La Haye-Pesnel",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42789,
+        "name": "La Lande-Patry",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42798,
+        "name": "La Madeleine-de-Nonancourt",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42799,
+        "name": "La Mailleraye-sur-Seine",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42800,
+        "name": "La Meauffe",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42844,
+        "name": "La Remuée",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42848,
+        "name": "La Rivière-Saint-Sauveur",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42874,
+        "name": "La Saussaye",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42876,
+        "name": "La Selle-la-Forge",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42907,
+        "name": "La Vaupalière",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 42911,
+        "name": "La Vespière",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43031,
+        "name": "Langrune-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43042,
+        "name": "Lanquetot",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43135,
+        "name": "Le Bosc-Roger-en-Roumois",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43199,
+        "name": "Le Grand-Quevilly",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43205,
+        "name": "Le Havre",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43207,
+        "name": "Le Houlme",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43220,
+        "name": "Le Manoir",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43226,
+        "name": "Le Mesnil-Esnard",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43234,
+        "name": "Le Molay-Littry",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43241,
+        "name": "Le Neubourg",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43254,
+        "name": "Le Petit-Quevilly",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43308,
+        "name": "Le Teilleul",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43310,
+        "name": "Le Theil-Bocage",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43319,
+        "name": "Le Thuit-Signol",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43323,
+        "name": "Le Trait",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43324,
+        "name": "Le Tréport",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43328,
+        "name": "Le Val-Saint-Père",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43329,
+        "name": "Le Vaudreuil",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43690,
+        "name": "Léry",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43362,
+        "name": "Les Andelys",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43368,
+        "name": "Les Authieux-sur-le-Port-Saint-Ouen",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43392,
+        "name": "Les Grandes-Ventes",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43399,
+        "name": "Les Loges",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43400,
+        "name": "Les Loges-Marchis",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43421,
+        "name": "Les Pieux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43442,
+        "name": "Lessay",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43471,
+        "name": "Lieurey",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43486,
+        "name": "Lillebonne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43497,
+        "name": "Limésy",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43505,
+        "name": "Lion-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43508,
+        "name": "Lisieux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43514,
+        "name": "Livarot",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43551,
+        "name": "Londinières",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43564,
+        "name": "Longny-au-Perche",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43614,
+        "name": "Louviers",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43615,
+        "name": "Louvigny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43630,
+        "name": "Luc-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43654,
+        "name": "Luneray",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43727,
+        "name": "Magny-le-Désert",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43752,
+        "name": "Malaunay",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43771,
+        "name": "Manche",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43789,
+        "name": "Manéglise",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43778,
+        "name": "Manneville-sur-Risle",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43798,
+        "name": "Marcey-les-Grèves",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43807,
+        "name": "Marcilly-sur-Eure",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43840,
+        "name": "Marigny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43869,
+        "name": "Maromme",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43918,
+        "name": "Martin-Église",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43919,
+        "name": "Martinvast",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43939,
+        "name": "Mathieu",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 43968,
+        "name": "May-sur-Orne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44465,
+        "name": "Ménilles",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44002,
+        "name": "Menneval",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44025,
+        "name": "Merville-Franceville-Plage",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44030,
+        "name": "Mesnières-en-Bray",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44033,
+        "name": "Messei",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44136,
+        "name": "Mondeville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44156,
+        "name": "Mont-Saint-Aignan",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44185,
+        "name": "Montaure",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44215,
+        "name": "Montebourg",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44256,
+        "name": "Montigny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44265,
+        "name": "Montivilliers",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44280,
+        "name": "Montmain",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44282,
+        "name": "Montmartin-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44368,
+        "name": "Mortagne-au-Perche",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44372,
+        "name": "Mortain",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44375,
+        "name": "Mortrée",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44385,
+        "name": "Mouen",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44398,
+        "name": "Moult",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44420,
+        "name": "Moyaux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44517,
+        "name": "Nassandres",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44527,
+        "name": "Neaufles-Saint-Martin",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44542,
+        "name": "Neufchâtel-en-Bray",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44699,
+        "name": "Néville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44623,
+        "name": "Nointot",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44638,
+        "name": "Nonancourt",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44642,
+        "name": "Normanville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44650,
+        "name": "Notre-Dame-de-Bondeville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44651,
+        "name": "Notre-Dame-de-Gravenchon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44712,
+        "name": "Octeville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44713,
+        "name": "Octeville-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44720,
+        "name": "Offranville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44728,
+        "name": "Oissel",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44754,
+        "name": "Orbec",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44770,
+        "name": "Orival",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44805,
+        "name": "Ouistreham",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44810,
+        "name": "Ourville-en-Caux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44824,
+        "name": "Pacy-sur-Eure",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44853,
+        "name": "Parigny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44874,
+        "name": "Pavilly",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44895,
+        "name": "Percy",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45352,
+        "name": "Périers",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44902,
+        "name": "Perriers-sur-Andelle",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44915,
+        "name": "Petit-Couronne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44921,
+        "name": "Petiville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44946,
+        "name": "Picauville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44979,
+        "name": "Pirou",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 44983,
+        "name": "Pissy-Pôville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45368,
+        "name": "Pîtres",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45164,
+        "name": "Pont-Audemer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45177,
+        "name": "Pont-d'Ouilly",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45194,
+        "name": "Pont-Écrepin",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45167,
+        "name": "Pont-Hébert",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45191,
+        "name": "Pont-l’Évêque",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45171,
+        "name": "Pont-Saint-Pierre",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45215,
+        "name": "Pontorson",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45235,
+        "name": "Port-en-Bessin-Huppain",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45238,
+        "name": "Portbail",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45247,
+        "name": "Poses",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45248,
+        "name": "Potigny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45303,
+        "name": "Préaux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45333,
+        "name": "Putanges-Pont-Écrepin",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45375,
+        "name": "Querqueville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45381,
+        "name": "Quettehou",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45382,
+        "name": "Quettreville-sur-Sienne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45387,
+        "name": "Quillebeuf-sur-Seine",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45391,
+        "name": "Quincampoix",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45415,
+        "name": "Radon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45417,
+        "name": "Rai",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45431,
+        "name": "Ranville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45692,
+        "name": "Rémalard",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45696,
+        "name": "Réville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45557,
+        "name": "Rogerville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45568,
+        "name": "Rolleville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45571,
+        "name": "Romagny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45579,
+        "name": "Romilly-sur-Andelle",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45584,
+        "name": "Roncherolles-sur-le-Vivier",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45614,
+        "name": "Rots",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45617,
+        "name": "Rouen",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45633,
+        "name": "Roumare",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45641,
+        "name": "Routot",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45643,
+        "name": "Rouxmesnil-Bouteilles",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45666,
+        "name": "Rugles",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45714,
+        "name": "Sahurs",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45740,
+        "name": "Saint-Amand",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45767,
+        "name": "Saint-André-sur-Orne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45776,
+        "name": "Saint-Arnoult",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45789,
+        "name": "Saint-Aubin-lès-Elbeuf",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45781,
+        "name": "Saint-Aubin-Routot",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45790,
+        "name": "Saint-Aubin-sur-Gaillon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45791,
+        "name": "Saint-Aubin-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45792,
+        "name": "Saint-Aubin-sur-Scie",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45874,
+        "name": "Saint-Contest",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45904,
+        "name": "Saint-Denis-sur-Sarthon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45920,
+        "name": "Saint-Désir",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46655,
+        "name": "Saint-Étienne-du-Rouvray",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45927,
+        "name": "Saint-Eustache-la-Forêt",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45950,
+        "name": "Saint-Gatien-des-Bois",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 45982,
+        "name": "Saint-Georges-des-Groseillers",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46010,
+        "name": "Saint-Germain-du-Corbéis",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46016,
+        "name": "Saint-Germain-la-Blanche-Herbe",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46020,
+        "name": "Saint-Germain-sur-Avre",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46001,
+        "name": "Saint-Germain-Village",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46063,
+        "name": "Saint-Hilaire-du-Harcouët",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46052,
+        "name": "Saint-Hilaire-Petitville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46076,
+        "name": "Saint-Jacques-sur-Darnétal",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46078,
+        "name": "Saint-James",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46106,
+        "name": "Saint-Jean-des-Baisants",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46107,
+        "name": "Saint-Jean-des-Champs",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46109,
+        "name": "Saint-Jean-du-Cardonnay",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46132,
+        "name": "Saint-Jouin-Bruneval",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46153,
+        "name": "Saint-Just",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46175,
+        "name": "Saint-Laurent-de-Brévedent",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46213,
+        "name": "Saint-Léger-du-Bourg-Denis",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46222,
+        "name": "Saint-Léonard",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46225,
+        "name": "Saint-Lô",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46237,
+        "name": "Saint-Manvieu",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46238,
+        "name": "Saint-Manvieu-Norrey",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46241,
+        "name": "Saint-Marcel",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46269,
+        "name": "Saint-Martin-de-Boscherville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46271,
+        "name": "Saint-Martin-de-Fontenay",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46273,
+        "name": "Saint-Martin-de-Landelles",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46282,
+        "name": "Saint-Martin-des-Besaces",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46283,
+        "name": "Saint-Martin-des-Champs",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46288,
+        "name": "Saint-Martin-du-Manoir",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46293,
+        "name": "Saint-Martin-du-Vivier",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46297,
+        "name": "Saint-Martin-en-Campagne",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46265,
+        "name": "Saint-Martin-Osmonville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46369,
+        "name": "Saint-Nicolas-d’Aliermont",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46367,
+        "name": "Saint-Nicolas-de-la-Taille",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46379,
+        "name": "Saint-Ouen-de-Thouberville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46381,
+        "name": "Saint-Ouen-du-Tilleul",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46420,
+        "name": "Saint-Paër",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46387,
+        "name": "Saint-Pair-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46434,
+        "name": "Saint-Pierre-de-Varengeville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46436,
+        "name": "Saint-Pierre-des-Fleurs",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46442,
+        "name": "Saint-Pierre-du-Regard",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46443,
+        "name": "Saint-Pierre-du-Vauvray",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46453,
+        "name": "Saint-Pierre-Église",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46446,
+        "name": "Saint-Pierre-en-Val",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46450,
+        "name": "Saint-Pierre-lès-Elbeuf",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46452,
+        "name": "Saint-Pierre-sur-Dives",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46454,
+        "name": "Saint-Planchers",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46492,
+        "name": "Saint-Quentin-sur-le-Homme",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46509,
+        "name": "Saint-Rémy",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46500,
+        "name": "Saint-Romain-de-Colbosc",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46544,
+        "name": "Saint-Saëns",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46538,
+        "name": "Saint-Sauveur-le-Vicomte",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46533,
+        "name": "Saint-Sauveur-Lendelin",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46577,
+        "name": "Saint-Sébastien-de-Morsent",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46546,
+        "name": "Saint-Senier-sous-Avranches",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46552,
+        "name": "Saint-Sever-Calvados",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46570,
+        "name": "Saint-Sulpice-sur-Risle",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46571,
+        "name": "Saint-Sylvain",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46595,
+        "name": "Saint-Vaast-la-Hougue",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46596,
+        "name": "Saint-Valery-en-Caux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46612,
+        "name": "Saint-Vigor-le-Grand",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46625,
+        "name": "Saint-Wandrille-Rançon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46660,
+        "name": "Sainte-Adresse",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46688,
+        "name": "Sainte-Gauburge-Sainte-Colombe",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46696,
+        "name": "Sainte-Honorine-du-Fay",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46706,
+        "name": "Sainte-Marguerite-sur-Duclair",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46714,
+        "name": "Sainte-Marie-des-Champs",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46720,
+        "name": "Sainte-Mère-Église",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46789,
+        "name": "Sannerville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46821,
+        "name": "Sartilly",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47133,
+        "name": "Sées",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46924,
+        "name": "Seine-Maritime",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46963,
+        "name": "Serqueux",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 46964,
+        "name": "Serquigny",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47027,
+        "name": "Soliers",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47053,
+        "name": "Sottevast",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47054,
+        "name": "Sotteville-lès-Rouen",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47083,
+        "name": "Sourdeval",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47122,
+        "name": "Surtainville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47169,
+        "name": "Tancarville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47213,
+        "name": "Tessé-la-Madeleine",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47212,
+        "name": "Tessy-sur-Vire",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47218,
+        "name": "Thaon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47227,
+        "name": "Thiberville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47263,
+        "name": "Thury-Harcourt",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47283,
+        "name": "Tillières-sur-Avre",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47285,
+        "name": "Tilly-sur-Seulles",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47288,
+        "name": "Tinchebray",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47292,
+        "name": "Tollevast",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47303,
+        "name": "Torigni-sur-Vire",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47418,
+        "name": "Tôtes",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47317,
+        "name": "Touques",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47321,
+        "name": "Tourlaville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47330,
+        "name": "Tourouvre",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47336,
+        "name": "Tourville-la-Rivière",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47337,
+        "name": "Tourville-sur-Arques",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47338,
+        "name": "Tourville-sur-Odon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47341,
+        "name": "Toutainville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47378,
+        "name": "Troarn",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47383,
+        "name": "Trouville-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47387,
+        "name": "Trun",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47416,
+        "name": "Turretot",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47435,
+        "name": "Urville-Nacqueville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47464,
+        "name": "Val-de-Reuil",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47483,
+        "name": "Valframbert",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47490,
+        "name": "Valliquerville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47497,
+        "name": "Valognes",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47509,
+        "name": "Varengeville-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47526,
+        "name": "Vassy",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47532,
+        "name": "Vaudry",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47590,
+        "name": "Ver-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47613,
+        "name": "Verneuil-sur-Avre",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47619,
+        "name": "Vernon",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47633,
+        "name": "Verson",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47730,
+        "name": "Villedieu-les-Poêles",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47796,
+        "name": "Villers-Bocage",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47810,
+        "name": "Villers-Écalles",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47809,
+        "name": "Villers-sur-Mer",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47840,
+        "name": "Vimoutiers",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 47857,
+        "name": "Vire",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48000,
+        "name": "Yainville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48024,
+        "name": "Yébleron",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48005,
+        "name": "Yerville",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48008,
+        "name": "Ymare",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48010,
+        "name": "Yport",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 48016,
+        "name": "Yvetot",
+        "country": "FRA",
+        "state": "NOR"
+    }
+]

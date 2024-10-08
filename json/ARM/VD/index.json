@@ -1,1 +1,86 @@
-[{"id":0,"name":"Agarakadzor","country":"ARM","state":"VD"},{"id":1,"name":"Aghavnadzor","country":"ARM","state":"VD"},{"id":2,"name":"Areni","country":"ARM","state":"VD"},{"id":3,"name":"Getap\u2019","country":"ARM","state":"VD"},{"id":4,"name":"Gladzor","country":"ARM","state":"VD"},{"id":5,"name":"Jermuk","country":"ARM","state":"VD"},{"id":6,"name":"Malishka","country":"ARM","state":"VD"},{"id":7,"name":"Rrind","country":"ARM","state":"VD"},{"id":8,"name":"Shatin","country":"ARM","state":"VD"},{"id":9,"name":"Vayk\u2019","country":"ARM","state":"VD"},{"id":10,"name":"Vernashen","country":"ARM","state":"VD"},{"id":11,"name":"Yeghegis","country":"ARM","state":"VD"},{"id":12,"name":"Yeghegnadzor","country":"ARM","state":"VD"},{"id":13,"name":"Zarrit\u2019ap\u2019","country":"ARM","state":"VD"}]
+[
+    {
+        "id": 285,
+        "name": "Agarakadzor",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 288,
+        "name": "Aghavnadzor",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 313,
+        "name": "Areni",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 393,
+        "name": "Getap’",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 397,
+        "name": "Gladzor",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 420,
+        "name": "Jermuk",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 451,
+        "name": "Malishka",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 505,
+        "name": "Rrind",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 518,
+        "name": "Shatin",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 559,
+        "name": "Vayk’",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 565,
+        "name": "Vernashen",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 572,
+        "name": "Yeghegis",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 573,
+        "name": "Yeghegnadzor",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 584,
+        "name": "Zarrit’ap’",
+        "country": "ARM",
+        "state": "VD"
+    }
+]

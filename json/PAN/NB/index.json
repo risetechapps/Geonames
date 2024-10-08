@@ -1,1 +1,182 @@
-[{"id":0,"name":"Bah\u00eda Azul","country":"PAN","state":"NB"},{"id":1,"name":"Besiko","country":"PAN","state":"NB"},{"id":2,"name":"Bisira","country":"PAN","state":"NB"},{"id":3,"name":"Boca de Balsa","country":"PAN","state":"NB"},{"id":4,"name":"Buenos Aires","country":"PAN","state":"NB"},{"id":5,"name":"Camar\u00f3n Arriba","country":"PAN","state":"NB"},{"id":6,"name":"Cerro Banco","country":"PAN","state":"NB"},{"id":7,"name":"Cerro Ca\u00f1a","country":"PAN","state":"NB"},{"id":8,"name":"Cerro Plata","country":"PAN","state":"NB"},{"id":9,"name":"Chichica","country":"PAN","state":"NB"},{"id":10,"name":"Guayabito","country":"PAN","state":"NB"},{"id":11,"name":"Hato Chami","country":"PAN","state":"NB"},{"id":12,"name":"Hato Corot\u00fa","country":"PAN","state":"NB"},{"id":13,"name":"Kankint\u00fa","country":"PAN","state":"NB"},{"id":14,"name":"Kusap\u00edn","country":"PAN","state":"NB"},{"id":15,"name":"Lajero Arriba","country":"PAN","state":"NB"},{"id":16,"name":"Llano \u00d1opo","country":"PAN","state":"NB"},{"id":17,"name":"Loma Yuca","country":"PAN","state":"NB"},{"id":18,"name":"Mirono","country":"PAN","state":"NB"},{"id":19,"name":"M\u00fcna","country":"PAN","state":"NB"},{"id":20,"name":"Nole D\u00fcima","country":"PAN","state":"NB"},{"id":21,"name":"Nurun","country":"PAN","state":"NB"},{"id":22,"name":"Oma","country":"PAN","state":"NB"},{"id":23,"name":"Pared\u00f3n Arriba","country":"PAN","state":"NB"},{"id":24,"name":"Plan de Chorcha","country":"PAN","state":"NB"},{"id":25,"name":"Pueblo Nuevo","country":"PAN","state":"NB"},{"id":26,"name":"Quebrada Canoa","country":"PAN","state":"NB"},{"id":27,"name":"Quebrada Tula","country":"PAN","state":"NB"},{"id":28,"name":"Sitio Prado","country":"PAN","state":"NB"},{"id":29,"name":"Tobobe","country":"PAN","state":"NB"}]
+[
+    {
+        "id": 79977,
+        "name": "Bahía Azul",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 79991,
+        "name": "Besiko",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 79993,
+        "name": "Bisira",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 79996,
+        "name": "Boca de Balsa",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80009,
+        "name": "Buenos Aires",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80028,
+        "name": "Camarón Arriba",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80046,
+        "name": "Cerro Banco",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80048,
+        "name": "Cerro Caña",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80050,
+        "name": "Cerro Plata",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80057,
+        "name": "Chichica",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80226,
+        "name": "Guayabito",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80230,
+        "name": "Hato Chami",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80231,
+        "name": "Hato Corotú",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80239,
+        "name": "Kankintú",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80240,
+        "name": "Kusapín",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80285,
+        "name": "Lajero Arriba",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80323,
+        "name": "Llano Ñopo",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80325,
+        "name": "Loma Yuca",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80356,
+        "name": "Mirono",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80364,
+        "name": "Müna",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80367,
+        "name": "Nole Düima",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80381,
+        "name": "Nurun",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80384,
+        "name": "Oma",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80397,
+        "name": "Paredón Arriba",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80414,
+        "name": "Plan de Chorcha",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80429,
+        "name": "Pueblo Nuevo",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80444,
+        "name": "Quebrada Canoa",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80445,
+        "name": "Quebrada Tula",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80515,
+        "name": "Sitio Prado",
+        "country": "PAN",
+        "state": "NB"
+    },
+    {
+        "id": 80523,
+        "name": "Tobobe",
+        "country": "PAN",
+        "state": "NB"
+    }
+]

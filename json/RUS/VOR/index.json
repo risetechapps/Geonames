@@ -1,1 +1,554 @@
-[{"id":0,"name":"Abramovka","country":"RUS","state":"VOR"},{"id":1,"name":"Anna","country":"RUS","state":"VOR"},{"id":2,"name":"Anninskiy Rayon","country":"RUS","state":"VOR"},{"id":3,"name":"Belogor\u2019ye","country":"RUS","state":"VOR"},{"id":4,"name":"Bobrov","country":"RUS","state":"VOR"},{"id":5,"name":"Bobrovskiy Rayon","country":"RUS","state":"VOR"},{"id":6,"name":"Boguchar","country":"RUS","state":"VOR"},{"id":7,"name":"Borisoglebsk","country":"RUS","state":"VOR"},{"id":8,"name":"Buturlinovka","country":"RUS","state":"VOR"},{"id":9,"name":"Buturlinovskiy Rayon","country":"RUS","state":"VOR"},{"id":10,"name":"Davydovka","country":"RUS","state":"VOR"},{"id":11,"name":"Devitsa","country":"RUS","state":"VOR"},{"id":12,"name":"Drakino","country":"RUS","state":"VOR"},{"id":13,"name":"Ertil\u2019","country":"RUS","state":"VOR"},{"id":14,"name":"Ertil\u2019skiy Rayon","country":"RUS","state":"VOR"},{"id":15,"name":"Gribanovskiy","country":"RUS","state":"VOR"},{"id":16,"name":"Gribanovskiy Rayon","country":"RUS","state":"VOR"},{"id":17,"name":"Imeni Pervogo Maya","country":"RUS","state":"VOR"},{"id":18,"name":"Kalach","country":"RUS","state":"VOR"},{"id":19,"name":"Kamenka","country":"RUS","state":"VOR"},{"id":20,"name":"Kamenskiy Rayon","country":"RUS","state":"VOR"},{"id":21,"name":"Kantemirovka","country":"RUS","state":"VOR"},{"id":22,"name":"Kashirskiy Rayon","country":"RUS","state":"VOR"},{"id":23,"name":"Kashirskoye","country":"RUS","state":"VOR"},{"id":24,"name":"Khrenovoye","country":"RUS","state":"VOR"},{"id":25,"name":"Kolodeznyy","country":"RUS","state":"VOR"},{"id":26,"name":"Korotoyak","country":"RUS","state":"VOR"},{"id":27,"name":"Kozlovka","country":"RUS","state":"VOR"},{"id":28,"name":"Krasnolesnyy","country":"RUS","state":"VOR"},{"id":29,"name":"Latnaya","country":"RUS","state":"VOR"},{"id":30,"name":"Liski","country":"RUS","state":"VOR"},{"id":31,"name":"Liskinskiy Rayon","country":"RUS","state":"VOR"},{"id":32,"name":"Losevo","country":"RUS","state":"VOR"},{"id":33,"name":"Maslovka","country":"RUS","state":"VOR"},{"id":34,"name":"Mitrofanovka","country":"RUS","state":"VOR"},{"id":35,"name":"Nizhnedevitsk","country":"RUS","state":"VOR"},{"id":36,"name":"Nizhnedevitskiy Rayon","country":"RUS","state":"VOR"},{"id":37,"name":"Nizhniy Kislyay","country":"RUS","state":"VOR"},{"id":38,"name":"Nizhniy Mamon","country":"RUS","state":"VOR"},{"id":39,"name":"Novaya Chigla","country":"RUS","state":"VOR"},{"id":40,"name":"Novaya Usman\u2019","country":"RUS","state":"VOR"},{"id":41,"name":"Novokhop\u00ebrsk","country":"RUS","state":"VOR"},{"id":42,"name":"Novokhoperskiy Rayon","country":"RUS","state":"VOR"},{"id":43,"name":"Novousmanskiy Rayon","country":"RUS","state":"VOR"},{"id":44,"name":"Novovoronezh","country":"RUS","state":"VOR"},{"id":45,"name":"Novozhivotinnoye","country":"RUS","state":"VOR"},{"id":46,"name":"Ol\u2019khovatka","country":"RUS","state":"VOR"},{"id":47,"name":"Ol\u2019khovatskiy Rayon","country":"RUS","state":"VOR"},{"id":48,"name":"Orlovo","country":"RUS","state":"VOR"},{"id":49,"name":"Ostrogozhsk","country":"RUS","state":"VOR"},{"id":50,"name":"Panino","country":"RUS","state":"VOR"},{"id":51,"name":"Paninskiy Rayon","country":"RUS","state":"VOR"},{"id":52,"name":"Pavlovsk","country":"RUS","state":"VOR"},{"id":53,"name":"Pavlovskiy Rayon","country":"RUS","state":"VOR"},{"id":54,"name":"Pereleshino","country":"RUS","state":"VOR"},{"id":55,"name":"Pereleshinskiy","country":"RUS","state":"VOR"},{"id":56,"name":"Podgorenskiy","country":"RUS","state":"VOR"},{"id":57,"name":"Podgorenskiy Rayon","country":"RUS","state":"VOR"},{"id":58,"name":"Podgornoye","country":"RUS","state":"VOR"},{"id":59,"name":"Podkletnoye","country":"RUS","state":"VOR"},{"id":60,"name":"Povorino","country":"RUS","state":"VOR"},{"id":61,"name":"Povorinskiy Rayon","country":"RUS","state":"VOR"},{"id":62,"name":"Pridonskoy","country":"RUS","state":"VOR"},{"id":63,"name":"Ramon\u2019","country":"RUS","state":"VOR"},{"id":64,"name":"Ramonskiy Rayon","country":"RUS","state":"VOR"},{"id":65,"name":"Rep\u2019yevskiy Rayon","country":"RUS","state":"VOR"},{"id":66,"name":"Rossosh\u2019","country":"RUS","state":"VOR"},{"id":67,"name":"Rossoshanskiy Rayon","country":"RUS","state":"VOR"},{"id":68,"name":"Sadovoye","country":"RUS","state":"VOR"},{"id":69,"name":"Semiluki","country":"RUS","state":"VOR"},{"id":70,"name":"Semilukskiy Rayon","country":"RUS","state":"VOR"},{"id":71,"name":"Shilovo","country":"RUS","state":"VOR"},{"id":72,"name":"Sloboda","country":"RUS","state":"VOR"},{"id":73,"name":"Somovo","country":"RUS","state":"VOR"},{"id":74,"name":"Sredniy Ikorets","country":"RUS","state":"VOR"},{"id":75,"name":"Strelitsa","country":"RUS","state":"VOR"},{"id":76,"name":"Talovaya","country":"RUS","state":"VOR"},{"id":77,"name":"Ternovka","country":"RUS","state":"VOR"},{"id":78,"name":"Ternovskiy Rayon","country":"RUS","state":"VOR"},{"id":79,"name":"Uglyanets","country":"RUS","state":"VOR"},{"id":80,"name":"Uryv-Pokrovka","country":"RUS","state":"VOR"},{"id":81,"name":"Verkhniy Mamon","country":"RUS","state":"VOR"},{"id":82,"name":"Verkhnyaya Khava","country":"RUS","state":"VOR"},{"id":83,"name":"Verkhnyaya Tishanka","country":"RUS","state":"VOR"},{"id":84,"name":"Volya","country":"RUS","state":"VOR"},{"id":85,"name":"Vorob\u2019yevskiy Rayon","country":"RUS","state":"VOR"},{"id":86,"name":"Voronezh","country":"RUS","state":"VOR"},{"id":87,"name":"Vorontsovka","country":"RUS","state":"VOR"},{"id":88,"name":"Yelan\u2019-Koleno","country":"RUS","state":"VOR"},{"id":89,"name":"Yelan\u2019-Kolenovskiy","country":"RUS","state":"VOR"},{"id":90,"name":"Zabolotovka","country":"RUS","state":"VOR"},{"id":91,"name":"Zemlyansk","country":"RUS","state":"VOR"}]
+[
+    {
+        "id": 97489,
+        "name": "Abramovka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 97633,
+        "name": "Anna",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 97637,
+        "name": "Anninskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 97855,
+        "name": "Belogor’ye",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 97955,
+        "name": "Bobrov",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 97959,
+        "name": "Bobrovskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 97983,
+        "name": "Boguchar",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98024,
+        "name": "Borisoglebsk",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98088,
+        "name": "Buturlinovka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98089,
+        "name": "Buturlinovskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98251,
+        "name": "Davydovka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98271,
+        "name": "Devitsa",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98324,
+        "name": "Drakino",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98401,
+        "name": "Ertil’",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98402,
+        "name": "Ertil’skiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98587,
+        "name": "Gribanovskiy",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98588,
+        "name": "Gribanovskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98664,
+        "name": "Imeni Pervogo Maya",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98778,
+        "name": "Kalach",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98810,
+        "name": "Kamenka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98822,
+        "name": "Kamenskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98846,
+        "name": "Kantemirovka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98894,
+        "name": "Kashirskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 98895,
+        "name": "Kashirskoye",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 99014,
+        "name": "Khrenovoye",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 99139,
+        "name": "Kolodeznyy",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 99217,
+        "name": "Korotoyak",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 99267,
+        "name": "Kozlovka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 99327,
+        "name": "Krasnolesnyy",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 99546,
+        "name": "Latnaya",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 99637,
+        "name": "Liski",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 99638,
+        "name": "Liskinskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 99665,
+        "name": "Losevo",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 99811,
+        "name": "Maslovka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 99932,
+        "name": "Mitrofanovka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100151,
+        "name": "Nizhnedevitsk",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100152,
+        "name": "Nizhnedevitskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100168,
+        "name": "Nizhniy Kislyay",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100172,
+        "name": "Nizhniy Mamon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100202,
+        "name": "Novaya Chigla",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100211,
+        "name": "Novaya Usman’",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100249,
+        "name": "Novokhopërsk",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100248,
+        "name": "Novokhoperskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100323,
+        "name": "Novousmanskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100329,
+        "name": "Novovoronezh",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100336,
+        "name": "Novozhivotinnoye",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100437,
+        "name": "Ol’khovatka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100438,
+        "name": "Ol’khovatskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100472,
+        "name": "Orlovo",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100495,
+        "name": "Ostrogozhsk",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100535,
+        "name": "Panino",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100536,
+        "name": "Paninskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100572,
+        "name": "Pavlovsk",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100580,
+        "name": "Pavlovskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100598,
+        "name": "Pereleshino",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100599,
+        "name": "Pereleshinskiy",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100713,
+        "name": "Podgorenskiy",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100714,
+        "name": "Podgorenskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100716,
+        "name": "Podgornoye",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100719,
+        "name": "Podkletnoye",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100794,
+        "name": "Povorino",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100795,
+        "name": "Povorinskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100818,
+        "name": "Pridonskoy",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100940,
+        "name": "Ramon’",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100939,
+        "name": "Ramonskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 100963,
+        "name": "Rep’yevskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101004,
+        "name": "Rossosh’",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101003,
+        "name": "Rossoshanskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101064,
+        "name": "Sadovoye",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101165,
+        "name": "Semiluki",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101166,
+        "name": "Semilukskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101316,
+        "name": "Shilovo",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101407,
+        "name": "Sloboda",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101475,
+        "name": "Somovo",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101546,
+        "name": "Sredniy Ikorets",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101625,
+        "name": "Strelitsa",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101755,
+        "name": "Talovaya",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101834,
+        "name": "Ternovka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 101835,
+        "name": "Ternovskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102039,
+        "name": "Uglyanets",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102093,
+        "name": "Uryv-Pokrovka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102256,
+        "name": "Verkhniy Mamon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102267,
+        "name": "Verkhnyaya Khava",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102273,
+        "name": "Verkhnyaya Tishanka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102368,
+        "name": "Volya",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102378,
+        "name": "Vorob’yevskiy Rayon",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102380,
+        "name": "Voronezh",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102381,
+        "name": "Vorontsovka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102535,
+        "name": "Yelan’-Koleno",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102536,
+        "name": "Yelan’-Kolenovskiy",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102625,
+        "name": "Zabolotovka",
+        "country": "RUS",
+        "state": "VOR"
+    },
+    {
+        "id": 102705,
+        "name": "Zemlyansk",
+        "country": "RUS",
+        "state": "VOR"
+    }
+]

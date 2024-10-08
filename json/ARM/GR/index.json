@@ -1,1 +1,218 @@
-[{"id":0,"name":"Akunk\u2019","country":"ARM","state":"GR"},{"id":1,"name":"Astghadzor","country":"ARM","state":"GR"},{"id":2,"name":"Chambarak","country":"ARM","state":"GR"},{"id":3,"name":"Ddmashen","country":"ARM","state":"GR"},{"id":4,"name":"Drakhtik","country":"ARM","state":"GR"},{"id":5,"name":"Dzoragyugh","country":"ARM","state":"GR"},{"id":6,"name":"Gagarin","country":"ARM","state":"GR"},{"id":7,"name":"Gandzak","country":"ARM","state":"GR"},{"id":8,"name":"Gavarr","country":"ARM","state":"GR"},{"id":9,"name":"Geghamasar","country":"ARM","state":"GR"},{"id":10,"name":"Geghamavan","country":"ARM","state":"GR"},{"id":11,"name":"Karanlukh","country":"ARM","state":"GR"},{"id":12,"name":"Karchaghbyur","country":"ARM","state":"GR"},{"id":13,"name":"Lanjaghbyur","country":"ARM","state":"GR"},{"id":14,"name":"Lchap\u2019","country":"ARM","state":"GR"},{"id":15,"name":"Lchashen","country":"ARM","state":"GR"},{"id":16,"name":"Lichk\u2019","country":"ARM","state":"GR"},{"id":17,"name":"Madina","country":"ARM","state":"GR"},{"id":18,"name":"Martuni","country":"ARM","state":"GR"},{"id":19,"name":"Mets Masrik","country":"ARM","state":"GR"},{"id":20,"name":"Nerk\u2019in Getashen","country":"ARM","state":"GR"},{"id":21,"name":"Noratus","country":"ARM","state":"GR"},{"id":22,"name":"Sarukhan","country":"ARM","state":"GR"},{"id":23,"name":"Sevan","country":"ARM","state":"GR"},{"id":24,"name":"Tsovagyugh","country":"ARM","state":"GR"},{"id":25,"name":"Tsovak","country":"ARM","state":"GR"},{"id":26,"name":"Tsovasar","country":"ARM","state":"GR"},{"id":27,"name":"Tsovazard","country":"ARM","state":"GR"},{"id":28,"name":"Tsovinar","country":"ARM","state":"GR"},{"id":29,"name":"Vaghashen","country":"ARM","state":"GR"},{"id":30,"name":"Vahan","country":"ARM","state":"GR"},{"id":31,"name":"Vardenik","country":"ARM","state":"GR"},{"id":32,"name":"Vardenis","country":"ARM","state":"GR"},{"id":33,"name":"Varser","country":"ARM","state":"GR"},{"id":34,"name":"Verin Getashen","country":"ARM","state":"GR"},{"id":35,"name":"Yeranos","country":"ARM","state":"GR"}]
+[
+    {
+        "id": 296,
+        "name": "Akunk’",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 336,
+        "name": "Astghadzor",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 364,
+        "name": "Chambarak",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 371,
+        "name": "Ddmashen",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 375,
+        "name": "Drakhtik",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 380,
+        "name": "Dzoragyugh",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 384,
+        "name": "Gagarin",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 385,
+        "name": "Gandzak",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 387,
+        "name": "Gavarr",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 390,
+        "name": "Geghamasar",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 391,
+        "name": "Geghamavan",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 427,
+        "name": "Karanlukh",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 429,
+        "name": "Karchaghbyur",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 437,
+        "name": "Lanjaghbyur",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 438,
+        "name": "Lchap’",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 439,
+        "name": "Lchashen",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 446,
+        "name": "Lichk’",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 450,
+        "name": "Madina",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 457,
+        "name": "Martuni",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 467,
+        "name": "Mets Masrik",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 481,
+        "name": "Nerk’in Getashen",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 492,
+        "name": "Noratus",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 511,
+        "name": "Sarukhan",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 514,
+        "name": "Sevan",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 541,
+        "name": "Tsovagyugh",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 542,
+        "name": "Tsovak",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 543,
+        "name": "Tsovasar",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 544,
+        "name": "Tsovazard",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 545,
+        "name": "Tsovinar",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 550,
+        "name": "Vaghashen",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 552,
+        "name": "Vahan",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 556,
+        "name": "Vardenik",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 557,
+        "name": "Vardenis",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 558,
+        "name": "Varser",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 563,
+        "name": "Verin Getashen",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 578,
+        "name": "Yeranos",
+        "country": "ARM",
+        "state": "GR"
+    }
+]

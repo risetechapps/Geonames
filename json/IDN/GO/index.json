@@ -1,1 +1,38 @@
-[{"id":0,"name":"Gorontalo","country":"IDN","state":"GO"},{"id":1,"name":"Kabupaten Boalemo","country":"IDN","state":"GO"},{"id":2,"name":"Kabupaten Bone Bolango","country":"IDN","state":"GO"},{"id":3,"name":"Kabupaten Gorontalo","country":"IDN","state":"GO"},{"id":4,"name":"Kabupaten Gorontalo Utara","country":"IDN","state":"GO"},{"id":5,"name":"Kabupaten Pohuwato","country":"IDN","state":"GO"},{"id":6,"name":"Kota Gorontalo","country":"IDN","state":"GO"}]
+[
+    {
+        "id": 56285,
+        "name": "Gorontalo",
+        "country": "IDN",
+        "state": "GO"
+    },
+    {
+        "id": 56365,
+        "name": "Kabupaten Boalemo",
+        "country": "IDN",
+        "state": "GO"
+    },
+    {
+        "id": 56375,
+        "name": "Kabupaten Bone Bolango",
+        "country": "IDN",
+        "state": "GO"
+    },
+    {
+        "id": 56410,
+        "name": "Kabupaten Gorontalo",
+        "country": "IDN",
+        "state": "GO"
+    },
+    {
+        "id": 56411,
+        "name": "Kabupaten Gorontalo Utara",
+        "country": "IDN",
+        "state": "GO"
+    },
+    {
+        "id": 56595,
+        "name": "Kabupaten Pohuwato",
+        "country": "IDN",
+        "state": "GO"
+    }
+]

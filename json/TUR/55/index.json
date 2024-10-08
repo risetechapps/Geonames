@@ -1,1 +1,104 @@
-[{"id":0,"name":"Ala\u00e7am","country":"TUR","state":"55"},{"id":1,"name":"Asarc\u0131k","country":"TUR","state":"55"},{"id":2,"name":"Atakum","country":"TUR","state":"55"},{"id":3,"name":"Ayvac\u0131k","country":"TUR","state":"55"},{"id":4,"name":"Bafra","country":"TUR","state":"55"},{"id":5,"name":"Canik","country":"TUR","state":"55"},{"id":6,"name":"\u00c7ar\u015famba","country":"TUR","state":"55"},{"id":7,"name":"Havza","country":"TUR","state":"55"},{"id":8,"name":"\u0130lkad\u0131m","country":"TUR","state":"55"},{"id":9,"name":"Kavak","country":"TUR","state":"55"},{"id":10,"name":"Ladik","country":"TUR","state":"55"},{"id":11,"name":"Ondokuzmay\u0131s","country":"TUR","state":"55"},{"id":12,"name":"Sal\u0131pazar\u0131","country":"TUR","state":"55"},{"id":13,"name":"Tekkek\u00f6y","country":"TUR","state":"55"},{"id":14,"name":"Terme","country":"TUR","state":"55"},{"id":15,"name":"Vezirk\u00f6pr\u00fc","country":"TUR","state":"55"},{"id":16,"name":"Yakakent","country":"TUR","state":"55"}]
+[
+    {
+        "id": 107126,
+        "name": "Alaçam",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 107200,
+        "name": "Asarcık",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 107206,
+        "name": "Atakum",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 107230,
+        "name": "Ayvacık",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 107257,
+        "name": "Bafra",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 107423,
+        "name": "Canik",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 108783,
+        "name": "Çarşamba",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 107809,
+        "name": "Havza",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 108891,
+        "name": "İlkadım",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 107940,
+        "name": "Kavak",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 108125,
+        "name": "Ladik",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 108269,
+        "name": "Ondokuzmayıs",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 108377,
+        "name": "Salıpazarı",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 108561,
+        "name": "Tekkeköy",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 108573,
+        "name": "Terme",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 108651,
+        "name": "Vezirköprü",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 108660,
+        "name": "Yakakent",
+        "country": "TUR",
+        "state": "55"
+    }
+]

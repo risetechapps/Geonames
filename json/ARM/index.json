@@ -1,1 +1,68 @@
-[{"id":0,"name":"Aragatsotn Region","iso3":"AG","country":"ARM"},{"id":1,"name":"Ararat Province","iso3":"AR","country":"ARM"},{"id":2,"name":"Armavir Region","iso3":"AV","country":"ARM"},{"id":3,"name":"Gegharkunik Province","iso3":"GR","country":"ARM"},{"id":4,"name":"Kotayk Region","iso3":"KT","country":"ARM"},{"id":5,"name":"Lori Region","iso3":"LO","country":"ARM"},{"id":6,"name":"Shirak Region","iso3":"SH","country":"ARM"},{"id":7,"name":"Syunik Province","iso3":"SU","country":"ARM"},{"id":8,"name":"Tavush Region","iso3":"TV","country":"ARM"},{"id":9,"name":"Vayots Dzor Region","iso3":"VD","country":"ARM"},{"id":10,"name":"Yerevan","iso3":"ER","country":"ARM"}]
+[
+    {
+        "id": 2023,
+        "name": "Aragatsotn Region",
+        "country": "ARM",
+        "state": "AG"
+    },
+    {
+        "id": 2024,
+        "name": "Ararat Province",
+        "country": "ARM",
+        "state": "AR"
+    },
+    {
+        "id": 2026,
+        "name": "Armavir Region",
+        "country": "ARM",
+        "state": "AV"
+    },
+    {
+        "id": 2028,
+        "name": "Gegharkunik Province",
+        "country": "ARM",
+        "state": "GR"
+    },
+    {
+        "id": 2033,
+        "name": "Kotayk Region",
+        "country": "ARM",
+        "state": "KT"
+    },
+    {
+        "id": 2029,
+        "name": "Lori Region",
+        "country": "ARM",
+        "state": "LO"
+    },
+    {
+        "id": 2031,
+        "name": "Shirak Region",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 2027,
+        "name": "Syunik Province",
+        "country": "ARM",
+        "state": "SU"
+    },
+    {
+        "id": 2032,
+        "name": "Tavush Region",
+        "country": "ARM",
+        "state": "TV"
+    },
+    {
+        "id": 2025,
+        "name": "Vayots Dzor Region",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 2030,
+        "name": "Yerevan",
+        "country": "ARM",
+        "state": "ER"
+    }
+]

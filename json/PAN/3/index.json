@@ -1,1 +1,230 @@
-[{"id":0,"name":"Buena Vista","country":"PAN","state":"3"},{"id":1,"name":"Cativ\u00e1","country":"PAN","state":"3"},{"id":2,"name":"Cocl\u00e9 del Norte","country":"PAN","state":"3"},{"id":3,"name":"Col\u00f3n","country":"PAN","state":"3"},{"id":4,"name":"Crist\u00f3bal","country":"PAN","state":"3"},{"id":5,"name":"Distrito de Chagres","country":"PAN","state":"3"},{"id":6,"name":"Distrito de Col\u00f3n","country":"PAN","state":"3"},{"id":7,"name":"Distrito de Donoso","country":"PAN","state":"3"},{"id":8,"name":"Distrito de Portobelo","country":"PAN","state":"3"},{"id":9,"name":"Distrito de Santa Isabel","country":"PAN","state":"3"},{"id":10,"name":"El Giral","country":"PAN","state":"3"},{"id":11,"name":"El Guabo","country":"PAN","state":"3"},{"id":12,"name":"El Valle de la Uni\u00f3n","country":"PAN","state":"3"},{"id":13,"name":"Escobal","country":"PAN","state":"3"},{"id":14,"name":"Gat\u00fan","country":"PAN","state":"3"},{"id":15,"name":"Gatuncillo","country":"PAN","state":"3"},{"id":16,"name":"Las Margaritas","country":"PAN","state":"3"},{"id":17,"name":"Mar\u00eda Chiquita","country":"PAN","state":"3"},{"id":18,"name":"Miramar","country":"PAN","state":"3"},{"id":19,"name":"Nombre de Dios","country":"PAN","state":"3"},{"id":20,"name":"Nuevo Chagres","country":"PAN","state":"3"},{"id":21,"name":"Nuevo San Juan","country":"PAN","state":"3"},{"id":22,"name":"Nuevo Vig\u00eda","country":"PAN","state":"3"},{"id":23,"name":"Palenque","country":"PAN","state":"3"},{"id":24,"name":"Palmas Bellas","country":"PAN","state":"3"},{"id":25,"name":"Palmira","country":"PAN","state":"3"},{"id":26,"name":"Playa Chiquita","country":"PAN","state":"3"},{"id":27,"name":"Portobelo","country":"PAN","state":"3"},{"id":28,"name":"Puerto Escondido","country":"PAN","state":"3"},{"id":29,"name":"Puerto Pil\u00f3n","country":"PAN","state":"3"},{"id":30,"name":"Quebrada Bonita Adentro","country":"PAN","state":"3"},{"id":31,"name":"R\u00edo Alejandro","country":"PAN","state":"3"},{"id":32,"name":"R\u00edo Duque","country":"PAN","state":"3"},{"id":33,"name":"R\u00edo Rita","country":"PAN","state":"3"},{"id":34,"name":"Sabanitas","country":"PAN","state":"3"},{"id":35,"name":"Santa Isabel","country":"PAN","state":"3"},{"id":36,"name":"Santa Rita Arriba","country":"PAN","state":"3"},{"id":37,"name":"Viento Fr\u00edo","country":"PAN","state":"3"}]
+[
+    {
+        "id": 80007,
+        "name": "Buena Vista",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80035,
+        "name": "Cativá",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80072,
+        "name": "Coclé del Norte",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80073,
+        "name": "Colón",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80078,
+        "name": "Cristóbal",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80099,
+        "name": "Distrito de Chagres",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80106,
+        "name": "Distrito de Colón",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80109,
+        "name": "Distrito de Donoso",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80131,
+        "name": "Distrito de Portobelo",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80140,
+        "name": "Distrito de Santa Isabel",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80174,
+        "name": "El Giral",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80175,
+        "name": "El Guabo",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80206,
+        "name": "El Valle de la Unión",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80208,
+        "name": "Escobal",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80214,
+        "name": "Gatún",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80213,
+        "name": "Gatuncillo",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80298,
+        "name": "Las Margaritas",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80350,
+        "name": "María Chiquita",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80354,
+        "name": "Miramar",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80368,
+        "name": "Nombre de Dios",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80376,
+        "name": "Nuevo Chagres",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80379,
+        "name": "Nuevo San Juan",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80380,
+        "name": "Nuevo Vigía",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80388,
+        "name": "Palenque",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80389,
+        "name": "Palmas Bellas",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80391,
+        "name": "Palmira",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80415,
+        "name": "Playa Chiquita",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80423,
+        "name": "Portobelo",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80433,
+        "name": "Puerto Escondido",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80435,
+        "name": "Puerto Pilón",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80443,
+        "name": "Quebrada Bonita Adentro",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80457,
+        "name": "Río Alejandro",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80459,
+        "name": "Río Duque",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80464,
+        "name": "Río Rita",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80469,
+        "name": "Sabanitas",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80502,
+        "name": "Santa Isabel",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80506,
+        "name": "Santa Rita Arriba",
+        "country": "PAN",
+        "state": "3"
+    },
+    {
+        "id": 80541,
+        "name": "Viento Frío",
+        "country": "PAN",
+        "state": "3"
+    }
+]

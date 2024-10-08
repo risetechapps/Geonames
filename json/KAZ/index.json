@@ -1,1 +1,104 @@
-[{"id":0,"name":"Akmola Region","iso3":"AKM","country":"KAZ"},{"id":1,"name":"Aktobe Region","iso3":"AKT","country":"KAZ"},{"id":2,"name":"Almaty","iso3":"ALA","country":"KAZ"},{"id":3,"name":"Almaty Region","iso3":"ALM","country":"KAZ"},{"id":4,"name":"Atyrau Region","iso3":"ATY","country":"KAZ"},{"id":5,"name":"Baikonur","iso3":"BAY","country":"KAZ"},{"id":6,"name":"East Kazakhstan Region","iso3":"VOS","country":"KAZ"},{"id":7,"name":"Jambyl Region","iso3":"ZHA","country":"KAZ"},{"id":8,"name":"Karaganda Region","iso3":"KAR","country":"KAZ"},{"id":9,"name":"Kostanay Region","iso3":"KUS","country":"KAZ"},{"id":10,"name":"Kyzylorda Region","iso3":"KZY","country":"KAZ"},{"id":11,"name":"Mangystau Region","iso3":"MAN","country":"KAZ"},{"id":12,"name":"North Kazakhstan Region","iso3":"SEV","country":"KAZ"},{"id":13,"name":"Nur-Sultan","iso3":"AST","country":"KAZ"},{"id":14,"name":"Pavlodar Region","iso3":"PAV","country":"KAZ"},{"id":15,"name":"Turkestan Region","iso3":"YUZ","country":"KAZ"},{"id":16,"name":"West Kazakhstan Province","iso3":"ZAP","country":"KAZ"}]
+[
+    {
+        "id": 145,
+        "name": "Akmola Region",
+        "country": "KAZ",
+        "state": "AKM"
+    },
+    {
+        "id": 151,
+        "name": "Aktobe Region",
+        "country": "KAZ",
+        "state": "AKT"
+    },
+    {
+        "id": 152,
+        "name": "Almaty",
+        "country": "KAZ",
+        "state": "ALA"
+    },
+    {
+        "id": 143,
+        "name": "Almaty Region",
+        "country": "KAZ",
+        "state": "ALM"
+    },
+    {
+        "id": 153,
+        "name": "Atyrau Region",
+        "country": "KAZ",
+        "state": "ATY"
+    },
+    {
+        "id": 155,
+        "name": "Baikonur",
+        "country": "KAZ",
+        "state": "BAY"
+    },
+    {
+        "id": 154,
+        "name": "East Kazakhstan Region",
+        "country": "KAZ",
+        "state": "VOS"
+    },
+    {
+        "id": 147,
+        "name": "Jambyl Region",
+        "country": "KAZ",
+        "state": "ZHA"
+    },
+    {
+        "id": 150,
+        "name": "Karaganda Region",
+        "country": "KAZ",
+        "state": "KAR"
+    },
+    {
+        "id": 157,
+        "name": "Kostanay Region",
+        "country": "KAZ",
+        "state": "KUS"
+    },
+    {
+        "id": 142,
+        "name": "Kyzylorda Region",
+        "country": "KAZ",
+        "state": "KZY"
+    },
+    {
+        "id": 141,
+        "name": "Mangystau Region",
+        "country": "KAZ",
+        "state": "MAN"
+    },
+    {
+        "id": 144,
+        "name": "North Kazakhstan Region",
+        "country": "KAZ",
+        "state": "SEV"
+    },
+    {
+        "id": 156,
+        "name": "Nur-Sultan",
+        "country": "KAZ",
+        "state": "AST"
+    },
+    {
+        "id": 146,
+        "name": "Pavlodar Region",
+        "country": "KAZ",
+        "state": "PAV"
+    },
+    {
+        "id": 149,
+        "name": "Turkestan Region",
+        "country": "KAZ",
+        "state": "YUZ"
+    },
+    {
+        "id": 148,
+        "name": "West Kazakhstan Province",
+        "country": "KAZ",
+        "state": "ZAP"
+    }
+]

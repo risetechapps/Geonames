@@ -1,1 +1,1340 @@
-[{"id":0,"name":"Ampatuan","country":"PHL","state":"CAG"},{"id":1,"name":"Andalan","country":"PHL","state":"CAG"},{"id":2,"name":"Anuling","country":"PHL","state":"CAG"},{"id":3,"name":"Awang","country":"PHL","state":"CAG"},{"id":4,"name":"Bacayawan","country":"PHL","state":"CAG"},{"id":5,"name":"Bacolod Grande","country":"PHL","state":"CAG"},{"id":6,"name":"Bacolod-Kalawi","country":"PHL","state":"CAG"},{"id":7,"name":"Badak","country":"PHL","state":"CAG"},{"id":8,"name":"Bagan","country":"PHL","state":"CAG"},{"id":9,"name":"Baka","country":"PHL","state":"CAG"},{"id":10,"name":"Bakung","country":"PHL","state":"CAG"},{"id":11,"name":"Balabagan","country":"PHL","state":"CAG"},{"id":12,"name":"Balas","country":"PHL","state":"CAG"},{"id":13,"name":"Balindong","country":"PHL","state":"CAG"},{"id":14,"name":"Bangkal","country":"PHL","state":"CAG"},{"id":15,"name":"Banguingui","country":"PHL","state":"CAG"},{"id":16,"name":"Bankaw","country":"PHL","state":"CAG"},{"id":17,"name":"Barira","country":"PHL","state":"CAG"},{"id":18,"name":"Barurao","country":"PHL","state":"CAG"},{"id":19,"name":"Bato Bato","country":"PHL","state":"CAG"},{"id":20,"name":"Baunu-Timbangan","country":"PHL","state":"CAG"},{"id":21,"name":"Bawison","country":"PHL","state":"CAG"},{"id":22,"name":"Bayang","country":"PHL","state":"CAG"},{"id":23,"name":"Bayanga","country":"PHL","state":"CAG"},{"id":24,"name":"Begang","country":"PHL","state":"CAG"},{"id":25,"name":"Binidayan","country":"PHL","state":"CAG"},{"id":26,"name":"Binuang","country":"PHL","state":"CAG"},{"id":27,"name":"Blinsung","country":"PHL","state":"CAG"},{"id":28,"name":"Bongao","country":"PHL","state":"CAG"},{"id":29,"name":"Bongued","country":"PHL","state":"CAG"},{"id":30,"name":"Buadiposo-Buntong","country":"PHL","state":"CAG"},{"id":31,"name":"Bualan","country":"PHL","state":"CAG"},{"id":32,"name":"Buan","country":"PHL","state":"CAG"},{"id":33,"name":"Buansa","country":"PHL","state":"CAG"},{"id":34,"name":"Bubong","country":"PHL","state":"CAG"},{"id":35,"name":"Budta","country":"PHL","state":"CAG"},{"id":36,"name":"Bugasan","country":"PHL","state":"CAG"},{"id":37,"name":"Buldon","country":"PHL","state":"CAG"},{"id":38,"name":"Buliok","country":"PHL","state":"CAG"},{"id":39,"name":"Bulit","country":"PHL","state":"CAG"},{"id":40,"name":"Buluan","country":"PHL","state":"CAG"},{"id":41,"name":"Butig","country":"PHL","state":"CAG"},{"id":42,"name":"Cagayan de Tawi-Tawi","country":"PHL","state":"CAG"},{"id":43,"name":"Calanogas","country":"PHL","state":"CAG"},{"id":44,"name":"Colonia","country":"PHL","state":"CAG"},{"id":45,"name":"Dado","country":"PHL","state":"CAG"},{"id":46,"name":"Dadus","country":"PHL","state":"CAG"},{"id":47,"name":"Dalican","country":"PHL","state":"CAG"},{"id":48,"name":"Dalumangcob","country":"PHL","state":"CAG"},{"id":49,"name":"Damabalas","country":"PHL","state":"CAG"},{"id":50,"name":"Damatulan","country":"PHL","state":"CAG"},{"id":51,"name":"Datu Blah T. Sinsuat","country":"PHL","state":"CAG"},{"id":52,"name":"Datu Odin Sinsuat","country":"PHL","state":"CAG"},{"id":53,"name":"Datu Paglas","country":"PHL","state":"CAG"},{"id":54,"name":"Datu Piang","country":"PHL","state":"CAG"},{"id":55,"name":"Digal","country":"PHL","state":"CAG"},{"id":56,"name":"Dinaig","country":"PHL","state":"CAG"},{"id":57,"name":"Dinganen","country":"PHL","state":"CAG"},{"id":58,"name":"Ditsaan-Ramain","country":"PHL","state":"CAG"},{"id":59,"name":"Ebcor Town","country":"PHL","state":"CAG"},{"id":60,"name":"Gadung","country":"PHL","state":"CAG"},{"id":61,"name":"Ganassi","country":"PHL","state":"CAG"},{"id":62,"name":"Gang","country":"PHL","state":"CAG"},{"id":63,"name":"Guiong","country":"PHL","state":"CAG"},{"id":64,"name":"Idtig","country":"PHL","state":"CAG"},{"id":65,"name":"Indanan","country":"PHL","state":"CAG"},{"id":66,"name":"Isabela","country":"PHL","state":"CAG"},{"id":67,"name":"Jolo","country":"PHL","state":"CAG"},{"id":68,"name":"Kabasalan","country":"PHL","state":"CAG"},{"id":69,"name":"Kabuntalan","country":"PHL","state":"CAG"},{"id":70,"name":"Kagay","country":"PHL","state":"CAG"},{"id":71,"name":"Kajatian","country":"PHL","state":"CAG"},{"id":72,"name":"Kalang","country":"PHL","state":"CAG"},{"id":73,"name":"Kalbugan","country":"PHL","state":"CAG"},{"id":74,"name":"Kalingalan Caluang","country":"PHL","state":"CAG"},{"id":75,"name":"Kambing","country":"PHL","state":"CAG"},{"id":76,"name":"Kanlagay","country":"PHL","state":"CAG"},{"id":77,"name":"Kansipati","country":"PHL","state":"CAG"},{"id":78,"name":"Kapai","country":"PHL","state":"CAG"},{"id":79,"name":"Karungdong","country":"PHL","state":"CAG"},{"id":80,"name":"Katico","country":"PHL","state":"CAG"},{"id":81,"name":"Katidtuan","country":"PHL","state":"CAG"},{"id":82,"name":"Katuli","country":"PHL","state":"CAG"},{"id":83,"name":"Kauran","country":"PHL","state":"CAG"},{"id":84,"name":"Kitango","country":"PHL","state":"CAG"},{"id":85,"name":"Kitapak","country":"PHL","state":"CAG"},{"id":86,"name":"Kolape","country":"PHL","state":"CAG"},{"id":87,"name":"Kulase","country":"PHL","state":"CAG"},{"id":88,"name":"Kulay-Kulay","country":"PHL","state":"CAG"},{"id":89,"name":"Kulempang","country":"PHL","state":"CAG"},{"id":90,"name":"Kungtad","country":"PHL","state":"CAG"},{"id":91,"name":"Labu\u00f1gan","country":"PHL","state":"CAG"},{"id":92,"name":"Laminusa","country":"PHL","state":"CAG"},{"id":93,"name":"Lamitan","country":"PHL","state":"CAG"},{"id":94,"name":"Lamitan City","country":"PHL","state":"CAG"},{"id":95,"name":"Langpas","country":"PHL","state":"CAG"},{"id":96,"name":"Languyan","country":"PHL","state":"CAG"},{"id":97,"name":"Larap","country":"PHL","state":"CAG"},{"id":98,"name":"Latung","country":"PHL","state":"CAG"},{"id":99,"name":"Layog","country":"PHL","state":"CAG"},{"id":100,"name":"Ligayan","country":"PHL","state":"CAG"},{"id":101,"name":"Limbo","country":"PHL","state":"CAG"},{"id":102,"name":"Litayan","country":"PHL","state":"CAG"},{"id":103,"name":"Lookan","country":"PHL","state":"CAG"},{"id":104,"name":"Lugus","country":"PHL","state":"CAG"},{"id":105,"name":"Lumba-a-Bayabao","country":"PHL","state":"CAG"},{"id":106,"name":"Lumbac","country":"PHL","state":"CAG"},{"id":107,"name":"Lumbatan","country":"PHL","state":"CAG"},{"id":108,"name":"Lumbayanague","country":"PHL","state":"CAG"},{"id":109,"name":"Lutayan","country":"PHL","state":"CAG"},{"id":110,"name":"Luuk","country":"PHL","state":"CAG"},{"id":111,"name":"Luuk Datan","country":"PHL","state":"CAG"},{"id":112,"name":"Madalum","country":"PHL","state":"CAG"},{"id":113,"name":"Madamba","country":"PHL","state":"CAG"},{"id":114,"name":"Maguing","country":"PHL","state":"CAG"},{"id":115,"name":"Mahala","country":"PHL","state":"CAG"},{"id":116,"name":"Maimbung","country":"PHL","state":"CAG"},{"id":117,"name":"Makir","country":"PHL","state":"CAG"},{"id":118,"name":"Malabang","country":"PHL","state":"CAG"},{"id":119,"name":"Maluso","country":"PHL","state":"CAG"},{"id":120,"name":"Manubul","country":"PHL","state":"CAG"},{"id":121,"name":"Manuk Mangkaw","country":"PHL","state":"CAG"},{"id":122,"name":"Marantao","country":"PHL","state":"CAG"},{"id":123,"name":"Marawi","country":"PHL","state":"CAG"},{"id":124,"name":"Marogong","country":"PHL","state":"CAG"},{"id":125,"name":"Marsada","country":"PHL","state":"CAG"},{"id":126,"name":"Marunggas","country":"PHL","state":"CAG"},{"id":127,"name":"Masiu","country":"PHL","state":"CAG"},{"id":128,"name":"Matanog","country":"PHL","state":"CAG"},{"id":129,"name":"Mataya","country":"PHL","state":"CAG"},{"id":130,"name":"Mauboh","country":"PHL","state":"CAG"},{"id":131,"name":"Mileb","country":"PHL","state":"CAG"},{"id":132,"name":"Molundo","country":"PHL","state":"CAG"},{"id":133,"name":"Municipality of Indanan","country":"PHL","state":"CAG"},{"id":134,"name":"Municipality of Lantawan","country":"PHL","state":"CAG"},{"id":135,"name":"Municipality of Pangutaran","country":"PHL","state":"CAG"},{"id":136,"name":"Municipality of Sultan Gumander","country":"PHL","state":"CAG"},{"id":137,"name":"Municipality of Tongkil","country":"PHL","state":"CAG"},{"id":138,"name":"New Batu Batu","country":"PHL","state":"CAG"},{"id":139,"name":"New Panamao","country":"PHL","state":"CAG"},{"id":140,"name":"Nuyo","country":"PHL","state":"CAG"},{"id":141,"name":"Old Panamao","country":"PHL","state":"CAG"},{"id":142,"name":"Pagalungan","country":"PHL","state":"CAG"},{"id":143,"name":"Pagatin","country":"PHL","state":"CAG"},{"id":144,"name":"Pagayawan","country":"PHL","state":"CAG"},{"id":145,"name":"Paglat","country":"PHL","state":"CAG"},{"id":146,"name":"Paitan","country":"PHL","state":"CAG"},{"id":147,"name":"Panabuan","country":"PHL","state":"CAG"},{"id":148,"name":"Panadtaban","country":"PHL","state":"CAG"},{"id":149,"name":"Pandag","country":"PHL","state":"CAG"},{"id":150,"name":"Pandakan","country":"PHL","state":"CAG"},{"id":151,"name":"Pandami","country":"PHL","state":"CAG"},{"id":152,"name":"Pandan Niog","country":"PHL","state":"CAG"},{"id":153,"name":"Pang","country":"PHL","state":"CAG"},{"id":154,"name":"Panglima Sugala","country":"PHL","state":"CAG"},{"id":155,"name":"Pangutaran","country":"PHL","state":"CAG"},{"id":156,"name":"Parang","country":"PHL","state":"CAG"},{"id":157,"name":"Parangan","country":"PHL","state":"CAG"},{"id":158,"name":"Parian Dakula","country":"PHL","state":"CAG"},{"id":159,"name":"Pata","country":"PHL","state":"CAG"},{"id":160,"name":"Patikul","country":"PHL","state":"CAG"},{"id":161,"name":"Pawak","country":"PHL","state":"CAG"},{"id":162,"name":"Payuhan","country":"PHL","state":"CAG"},{"id":163,"name":"Piagapo","country":"PHL","state":"CAG"},{"id":164,"name":"Pidsandawan","country":"PHL","state":"CAG"},{"id":165,"name":"Pinaring","country":"PHL","state":"CAG"},{"id":166,"name":"Pitogo","country":"PHL","state":"CAG"},{"id":167,"name":"Poon-a-Bayabao","country":"PHL","state":"CAG"},{"id":168,"name":"Pualas","country":"PHL","state":"CAG"},{"id":169,"name":"Punay","country":"PHL","state":"CAG"},{"id":170,"name":"Rimpeso","country":"PHL","state":"CAG"},{"id":171,"name":"Rominimbang","country":"PHL","state":"CAG"},{"id":172,"name":"Sagasa","country":"PHL","state":"CAG"},{"id":173,"name":"Saguiaran","country":"PHL","state":"CAG"},{"id":174,"name":"Sambuluan","country":"PHL","state":"CAG"},{"id":175,"name":"Sanga-Sanga","country":"PHL","state":"CAG"},{"id":176,"name":"Santa Clara","country":"PHL","state":"CAG"},{"id":177,"name":"Sapa","country":"PHL","state":"CAG"},{"id":178,"name":"Sapa-Sapa","country":"PHL","state":"CAG"},{"id":179,"name":"Sapadun","country":"PHL","state":"CAG"},{"id":180,"name":"Satan","country":"PHL","state":"CAG"},{"id":181,"name":"Semut","country":"PHL","state":"CAG"},{"id":182,"name":"Shariff Aguak","country":"PHL","state":"CAG"},{"id":183,"name":"Siasi","country":"PHL","state":"CAG"},{"id":184,"name":"Simuay","country":"PHL","state":"CAG"},{"id":185,"name":"Simunul","country":"PHL","state":"CAG"},{"id":186,"name":"Sionogan","country":"PHL","state":"CAG"},{"id":187,"name":"Sitangkai","country":"PHL","state":"CAG"},{"id":188,"name":"South Ubian","country":"PHL","state":"CAG"},{"id":189,"name":"South Upi","country":"PHL","state":"CAG"},{"id":190,"name":"Sultan Kudarat","country":"PHL","state":"CAG"},{"id":191,"name":"Sultan sa Barongis","country":"PHL","state":"CAG"},{"id":192,"name":"Sultan Sumagka","country":"PHL","state":"CAG"},{"id":193,"name":"Sumisip","country":"PHL","state":"CAG"},{"id":194,"name":"Tabiauan","country":"PHL","state":"CAG"},{"id":195,"name":"Tablas","country":"PHL","state":"CAG"},{"id":196,"name":"Tairan Camp","country":"PHL","state":"CAG"},{"id":197,"name":"Talayan","country":"PHL","state":"CAG"},{"id":198,"name":"Talipao","country":"PHL","state":"CAG"},{"id":199,"name":"Talipaw","country":"PHL","state":"CAG"},{"id":200,"name":"Tampakan","country":"PHL","state":"CAG"},{"id":201,"name":"Tamparan","country":"PHL","state":"CAG"},{"id":202,"name":"Tandubas","country":"PHL","state":"CAG"},{"id":203,"name":"Tapayan","country":"PHL","state":"CAG"},{"id":204,"name":"Tapikan","country":"PHL","state":"CAG"},{"id":205,"name":"Tapul","country":"PHL","state":"CAG"},{"id":206,"name":"Taraka","country":"PHL","state":"CAG"},{"id":207,"name":"Taungoh","country":"PHL","state":"CAG"},{"id":208,"name":"Taviran","country":"PHL","state":"CAG"},{"id":209,"name":"Tinutulan","country":"PHL","state":"CAG"},{"id":210,"name":"Tipo-Tipo","country":"PHL","state":"CAG"},{"id":211,"name":"Tongouson","country":"PHL","state":"CAG"},{"id":212,"name":"Tubaran","country":"PHL","state":"CAG"},{"id":213,"name":"Tuburan","country":"PHL","state":"CAG"},{"id":214,"name":"Tugaya","country":"PHL","state":"CAG"},{"id":215,"name":"Tumbagaan","country":"PHL","state":"CAG"},{"id":216,"name":"Tunggol","country":"PHL","state":"CAG"},{"id":217,"name":"Tungol","country":"PHL","state":"CAG"},{"id":218,"name":"Turtle Islands","country":"PHL","state":"CAG"},{"id":219,"name":"Ungus-Ungus","country":"PHL","state":"CAG"},{"id":220,"name":"Upi","country":"PHL","state":"CAG"},{"id":221,"name":"Uyaan","country":"PHL","state":"CAG"},{"id":222,"name":"Wao","country":"PHL","state":"CAG"}]
+[
+    {
+        "id": 144608,
+        "name": "Ampatuan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144610,
+        "name": "Andalan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144611,
+        "name": "Anuling",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144612,
+        "name": "Awang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144613,
+        "name": "Bacayawan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144614,
+        "name": "Bacolod Grande",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144615,
+        "name": "Bacolod-Kalawi",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144616,
+        "name": "Badak",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144617,
+        "name": "Bagan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144628,
+        "name": "Baka",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144629,
+        "name": "Bakung",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144630,
+        "name": "Balabagan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144631,
+        "name": "Balas",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144632,
+        "name": "Balindong",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144634,
+        "name": "Bangkal",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144635,
+        "name": "Banguingui",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144636,
+        "name": "Bankaw",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144637,
+        "name": "Barira",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144638,
+        "name": "Barurao",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144639,
+        "name": "Bato Bato",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144640,
+        "name": "Baunu-Timbangan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144641,
+        "name": "Bawison",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144642,
+        "name": "Bayang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144643,
+        "name": "Bayanga",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144644,
+        "name": "Begang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144645,
+        "name": "Binidayan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144646,
+        "name": "Binuang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144647,
+        "name": "Blinsung",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144648,
+        "name": "Bongao",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144649,
+        "name": "Bongued",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144650,
+        "name": "Buadiposo-Buntong",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144651,
+        "name": "Bualan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144653,
+        "name": "Buan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144655,
+        "name": "Buansa",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144656,
+        "name": "Bubong",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144657,
+        "name": "Budta",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144668,
+        "name": "Bugasan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144669,
+        "name": "Buldon",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144670,
+        "name": "Buliok",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144671,
+        "name": "Bulit",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144672,
+        "name": "Buluan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144673,
+        "name": "Butig",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144674,
+        "name": "Cagayan de Tawi-Tawi",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144675,
+        "name": "Calanogas",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144677,
+        "name": "Colonia",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144678,
+        "name": "Dado",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144679,
+        "name": "Dadus",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144680,
+        "name": "Dalican",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144681,
+        "name": "Dalumangcob",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144682,
+        "name": "Damabalas",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144683,
+        "name": "Damatulan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144684,
+        "name": "Datu Blah T. Sinsuat",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144685,
+        "name": "Datu Odin Sinsuat",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144686,
+        "name": "Datu Paglas",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144687,
+        "name": "Datu Piang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144688,
+        "name": "Digal",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144689,
+        "name": "Dinaig",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144690,
+        "name": "Dinganen",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144691,
+        "name": "Ditsaan-Ramain",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144692,
+        "name": "Ebcor Town",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144693,
+        "name": "Gadung",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144694,
+        "name": "Ganassi",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144695,
+        "name": "Gang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144696,
+        "name": "Guiong",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144528,
+        "name": "Idtig",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144529,
+        "name": "Indanan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144530,
+        "name": "Isabela",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144531,
+        "name": "Jolo",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144532,
+        "name": "Kabasalan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144533,
+        "name": "Kabuntalan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144534,
+        "name": "Kagay",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144535,
+        "name": "Kajatian",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144536,
+        "name": "Kalang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144537,
+        "name": "Kalbugan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144538,
+        "name": "Kalingalan Caluang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144539,
+        "name": "Kambing",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144540,
+        "name": "Kanlagay",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144541,
+        "name": "Kansipati",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144542,
+        "name": "Kapai",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144544,
+        "name": "Karungdong",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144545,
+        "name": "Katico",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144546,
+        "name": "Katidtuan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144547,
+        "name": "Katuli",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144548,
+        "name": "Kauran",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144549,
+        "name": "Kitango",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144550,
+        "name": "Kitapak",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144551,
+        "name": "Kolape",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144552,
+        "name": "Kulase",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144553,
+        "name": "Kulay-Kulay",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144554,
+        "name": "Kulempang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144555,
+        "name": "Kungtad",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144556,
+        "name": "Labuñgan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144557,
+        "name": "Laminusa",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144558,
+        "name": "Lamitan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144559,
+        "name": "Lamitan City",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144560,
+        "name": "Langpas",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144561,
+        "name": "Languyan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144562,
+        "name": "Larap",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144563,
+        "name": "Latung",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144564,
+        "name": "Layog",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144565,
+        "name": "Ligayan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144566,
+        "name": "Limbo",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144567,
+        "name": "Litayan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144568,
+        "name": "Lookan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144569,
+        "name": "Lugus",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144570,
+        "name": "Lumba-a-Bayabao",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144571,
+        "name": "Lumbac",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144572,
+        "name": "Lumbatan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144573,
+        "name": "Lumbayanague",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144574,
+        "name": "Lutayan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144575,
+        "name": "Luuk",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144576,
+        "name": "Luuk Datan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144577,
+        "name": "Madalum",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144578,
+        "name": "Madamba",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144579,
+        "name": "Maguing",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144580,
+        "name": "Mahala",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144581,
+        "name": "Maimbung",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144582,
+        "name": "Makir",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144583,
+        "name": "Malabang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144584,
+        "name": "Maluso",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144585,
+        "name": "Manubul",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144586,
+        "name": "Manuk Mangkaw",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144587,
+        "name": "Marantao",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144588,
+        "name": "Marawi",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144589,
+        "name": "Marogong",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144590,
+        "name": "Marsada",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144591,
+        "name": "Marunggas",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144592,
+        "name": "Masiu",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144593,
+        "name": "Matanog",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144594,
+        "name": "Mataya",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144595,
+        "name": "Mauboh",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144596,
+        "name": "Mileb",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144597,
+        "name": "Molundo",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144598,
+        "name": "Municipality of Indanan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144599,
+        "name": "Municipality of Lantawan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144600,
+        "name": "Municipality of Pangutaran",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144601,
+        "name": "Municipality of Sultan Gumander",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144602,
+        "name": "Municipality of Tongkil",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144603,
+        "name": "New Batu Batu",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144604,
+        "name": "New Panamao",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144605,
+        "name": "Nuyo",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144606,
+        "name": "Old Panamao",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144607,
+        "name": "Pagalungan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144619,
+        "name": "Pagatin",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144620,
+        "name": "Pagayawan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144622,
+        "name": "Paglat",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144623,
+        "name": "Paitan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144624,
+        "name": "Panabuan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144625,
+        "name": "Panadtaban",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144626,
+        "name": "Pandag",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144627,
+        "name": "Pandakan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144658,
+        "name": "Pandami",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144659,
+        "name": "Pandan Niog",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144660,
+        "name": "Pang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144661,
+        "name": "Panglima Sugala",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144662,
+        "name": "Pangutaran",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144663,
+        "name": "Parang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144665,
+        "name": "Parangan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144666,
+        "name": "Parian Dakula",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144667,
+        "name": "Pata",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144697,
+        "name": "Patikul",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144698,
+        "name": "Pawak",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144699,
+        "name": "Payuhan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144700,
+        "name": "Piagapo",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144701,
+        "name": "Pidsandawan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144702,
+        "name": "Pinaring",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144703,
+        "name": "Pitogo",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144704,
+        "name": "Poon-a-Bayabao",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144705,
+        "name": "Pualas",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144706,
+        "name": "Punay",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144707,
+        "name": "Rimpeso",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144708,
+        "name": "Rominimbang",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144709,
+        "name": "Sagasa",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144710,
+        "name": "Saguiaran",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144711,
+        "name": "Sambuluan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144712,
+        "name": "Sanga-Sanga",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144713,
+        "name": "Santa Clara",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144714,
+        "name": "Sapa",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144715,
+        "name": "Sapa-Sapa",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144716,
+        "name": "Sapadun",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144717,
+        "name": "Satan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144718,
+        "name": "Semut",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144719,
+        "name": "Shariff Aguak",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144720,
+        "name": "Siasi",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144721,
+        "name": "Simuay",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144722,
+        "name": "Simunul",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144723,
+        "name": "Sionogan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144724,
+        "name": "Sitangkai",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144725,
+        "name": "South Ubian",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144726,
+        "name": "South Upi",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144727,
+        "name": "Sultan Kudarat",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144730,
+        "name": "Sultan sa Barongis",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144729,
+        "name": "Sultan Sumagka",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144732,
+        "name": "Sumisip",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144733,
+        "name": "Tabiauan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144734,
+        "name": "Tablas",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144735,
+        "name": "Tairan Camp",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144736,
+        "name": "Talayan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144737,
+        "name": "Talipao",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144738,
+        "name": "Talipaw",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144739,
+        "name": "Tampakan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144740,
+        "name": "Tamparan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144741,
+        "name": "Tandubas",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144742,
+        "name": "Tapayan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144743,
+        "name": "Tapikan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144744,
+        "name": "Tapul",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144746,
+        "name": "Taraka",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144747,
+        "name": "Taungoh",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144748,
+        "name": "Taviran",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144749,
+        "name": "Tinutulan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144750,
+        "name": "Tipo-Tipo",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144751,
+        "name": "Tongouson",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144752,
+        "name": "Tubaran",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144754,
+        "name": "Tuburan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144755,
+        "name": "Tugaya",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144756,
+        "name": "Tumbagaan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144757,
+        "name": "Tunggol",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144758,
+        "name": "Tungol",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144759,
+        "name": "Turtle Islands",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144760,
+        "name": "Ungus-Ungus",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144761,
+        "name": "Upi",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144762,
+        "name": "Uyaan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 144763,
+        "name": "Wao",
+        "country": "PHL",
+        "state": "CAG"
+    }
+]

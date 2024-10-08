@@ -1,1 +1,764 @@
-[{"id":0,"name":"Afonino","country":"RUS","state":"NIZ"},{"id":1,"name":"Ar\u2019ya","country":"RUS","state":"NIZ"},{"id":2,"name":"Ardatov","country":"RUS","state":"NIZ"},{"id":3,"name":"Ardatovskiy Rayon","country":"RUS","state":"NIZ"},{"id":4,"name":"Arzamas","country":"RUS","state":"NIZ"},{"id":5,"name":"Arzamasskiy Rayon","country":"RUS","state":"NIZ"},{"id":6,"name":"Babino","country":"RUS","state":"NIZ"},{"id":7,"name":"Blizhne-Pesochnoye","country":"RUS","state":"NIZ"},{"id":8,"name":"Bogorodsk","country":"RUS","state":"NIZ"},{"id":9,"name":"Bogorodskiy Rayon","country":"RUS","state":"NIZ"},{"id":10,"name":"Bol\u2019sheboldinskiy Rayon","country":"RUS","state":"NIZ"},{"id":11,"name":"Bol\u2019shoye Boldino","country":"RUS","state":"NIZ"},{"id":12,"name":"Bol\u2019shoye Kozino","country":"RUS","state":"NIZ"},{"id":13,"name":"Bol\u2019shoye Murashkino","country":"RUS","state":"NIZ"},{"id":14,"name":"Bor","country":"RUS","state":"NIZ"},{"id":15,"name":"Bor Urban Okrug","country":"RUS","state":"NIZ"},{"id":16,"name":"Burevestnik","country":"RUS","state":"NIZ"},{"id":17,"name":"Buturlino","country":"RUS","state":"NIZ"},{"id":18,"name":"Chernukha","country":"RUS","state":"NIZ"},{"id":19,"name":"Chistoye","country":"RUS","state":"NIZ"},{"id":20,"name":"Chkalovsk","country":"RUS","state":"NIZ"},{"id":21,"name":"Dal\u2019nekonstantinovskiy Rayon","country":"RUS","state":"NIZ"},{"id":22,"name":"Dal\u2019neye Konstantinovo","country":"RUS","state":"NIZ"},{"id":23,"name":"Diveyevo","country":"RUS","state":"NIZ"},{"id":24,"name":"Doschatoye","country":"RUS","state":"NIZ"},{"id":25,"name":"Dzerzhinsk","country":"RUS","state":"NIZ"},{"id":26,"name":"Frolishchi","country":"RUS","state":"NIZ"},{"id":27,"name":"Gagino","country":"RUS","state":"NIZ"},{"id":28,"name":"Gidrotorf","country":"RUS","state":"NIZ"},{"id":29,"name":"Gorbatov","country":"RUS","state":"NIZ"},{"id":30,"name":"Gorbatovka","country":"RUS","state":"NIZ"},{"id":31,"name":"Gorodets","country":"RUS","state":"NIZ"},{"id":32,"name":"Gorodetskiy Rayon","country":"RUS","state":"NIZ"},{"id":33,"name":"Gremyachevo","country":"RUS","state":"NIZ"},{"id":34,"name":"Ilyinogorsk","country":"RUS","state":"NIZ"},{"id":35,"name":"Imeni M. I. Kalinina","country":"RUS","state":"NIZ"},{"id":36,"name":"Imeni Stepana Razina","country":"RUS","state":"NIZ"},{"id":37,"name":"Knyaginino","country":"RUS","state":"NIZ"},{"id":38,"name":"Kovernino","country":"RUS","state":"NIZ"},{"id":39,"name":"Krasnaya Gorka","country":"RUS","state":"NIZ"},{"id":40,"name":"Krasnooktyabr\u2019skiy Rayon","country":"RUS","state":"NIZ"},{"id":41,"name":"Krasnyye Baki","country":"RUS","state":"NIZ"},{"id":42,"name":"Kstovo","country":"RUS","state":"NIZ"},{"id":43,"name":"Kulebaki","country":"RUS","state":"NIZ"},{"id":44,"name":"Linda","country":"RUS","state":"NIZ"},{"id":45,"name":"Lukino","country":"RUS","state":"NIZ"},{"id":46,"name":"Lukoyanov","country":"RUS","state":"NIZ"},{"id":47,"name":"Lukoyanovskiy Rayon","country":"RUS","state":"NIZ"},{"id":48,"name":"Lyskovo","country":"RUS","state":"NIZ"},{"id":49,"name":"Mukhtolovo","country":"RUS","state":"NIZ"},{"id":50,"name":"Mulino","country":"RUS","state":"NIZ"},{"id":51,"name":"Navashino","country":"RUS","state":"NIZ"},{"id":52,"name":"Neklyudovo","country":"RUS","state":"NIZ"},{"id":53,"name":"Nizhniy Novgorod","country":"RUS","state":"NIZ"},{"id":54,"name":"Novaya Balakhna","country":"RUS","state":"NIZ"},{"id":55,"name":"Novosmolinskiy","country":"RUS","state":"NIZ"},{"id":56,"name":"Pamyat\u2019 Parizhskoy Kommuny","country":"RUS","state":"NIZ"},{"id":57,"name":"Pavlovo","country":"RUS","state":"NIZ"},{"id":58,"name":"Pavlovskiy Rayon","country":"RUS","state":"NIZ"},{"id":59,"name":"Perevoz","country":"RUS","state":"NIZ"},{"id":60,"name":"Pervomaysk","country":"RUS","state":"NIZ"},{"id":61,"name":"Pervomayskiy","country":"RUS","state":"NIZ"},{"id":62,"name":"Pervoye Maya","country":"RUS","state":"NIZ"},{"id":63,"name":"Pil\u2019na","country":"RUS","state":"NIZ"},{"id":64,"name":"Pil\u2019ninskiy Rayon","country":"RUS","state":"NIZ"},{"id":65,"name":"Pizhma","country":"RUS","state":"NIZ"},{"id":66,"name":"Pochinki","country":"RUS","state":"NIZ"},{"id":67,"name":"Pochinkovskiy Rayon","country":"RUS","state":"NIZ"},{"id":68,"name":"Podnov\u2019ye","country":"RUS","state":"NIZ"},{"id":69,"name":"Prudy","country":"RUS","state":"NIZ"},{"id":70,"name":"Purekh","country":"RUS","state":"NIZ"},{"id":71,"name":"Pyra","country":"RUS","state":"NIZ"},{"id":72,"name":"Rabotki","country":"RUS","state":"NIZ"},{"id":73,"name":"Reshetikha","country":"RUS","state":"NIZ"},{"id":74,"name":"Sarov","country":"RUS","state":"NIZ"},{"id":75,"name":"Satis","country":"RUS","state":"NIZ"},{"id":76,"name":"Savasleyka","country":"RUS","state":"NIZ"},{"id":77,"name":"Sechenovo","country":"RUS","state":"NIZ"},{"id":78,"name":"Sechenovskiy Rayon","country":"RUS","state":"NIZ"},{"id":79,"name":"Sem\u00ebnov","country":"RUS","state":"NIZ"},{"id":80,"name":"Sergach","country":"RUS","state":"NIZ"},{"id":81,"name":"Sergachskiy Rayon","country":"RUS","state":"NIZ"},{"id":82,"name":"Shakhun\u2019ya","country":"RUS","state":"NIZ"},{"id":83,"name":"Sharanga","country":"RUS","state":"NIZ"},{"id":84,"name":"Sharangskiy Rayon","country":"RUS","state":"NIZ"},{"id":85,"name":"Shatki","country":"RUS","state":"NIZ"},{"id":86,"name":"Shimorskoye","country":"RUS","state":"NIZ"},{"id":87,"name":"Sitniki","country":"RUS","state":"NIZ"},{"id":88,"name":"Smolino","country":"RUS","state":"NIZ"},{"id":89,"name":"Sokol\u2019skoye","country":"RUS","state":"NIZ"},{"id":90,"name":"Sosnovskiy Rayon","country":"RUS","state":"NIZ"},{"id":91,"name":"Sosnovskoye","country":"RUS","state":"NIZ"},{"id":92,"name":"Spasskiy Rayon","country":"RUS","state":"NIZ"},{"id":93,"name":"Spasskoye","country":"RUS","state":"NIZ"},{"id":94,"name":"Sukhobezvodnoye","country":"RUS","state":"NIZ"},{"id":95,"name":"Surovatikha","country":"RUS","state":"NIZ"},{"id":96,"name":"Syava","country":"RUS","state":"NIZ"},{"id":97,"name":"Taremskoye","country":"RUS","state":"NIZ"},{"id":98,"name":"Tonkino","country":"RUS","state":"NIZ"},{"id":99,"name":"Tonshayevo","country":"RUS","state":"NIZ"},{"id":100,"name":"Tsentral\u2019nyy","country":"RUS","state":"NIZ"},{"id":101,"name":"Tumbotino","country":"RUS","state":"NIZ"},{"id":102,"name":"Urazovka","country":"RUS","state":"NIZ"},{"id":103,"name":"Uren\u2019","country":"RUS","state":"NIZ"},{"id":104,"name":"Vacha","country":"RUS","state":"NIZ"},{"id":105,"name":"Vachskiy Rayon","country":"RUS","state":"NIZ"},{"id":106,"name":"Vad","country":"RUS","state":"NIZ"},{"id":107,"name":"Vakhtan","country":"RUS","state":"NIZ"},{"id":108,"name":"Varnavino","country":"RUS","state":"NIZ"},{"id":109,"name":"Varnavinskiy Rayon","country":"RUS","state":"NIZ"},{"id":110,"name":"Vasil\u2019sursk","country":"RUS","state":"NIZ"},{"id":111,"name":"Vetluga","country":"RUS","state":"NIZ"},{"id":112,"name":"Vetluzhskiy","country":"RUS","state":"NIZ"},{"id":113,"name":"Vetluzhskiy Rayon","country":"RUS","state":"NIZ"},{"id":114,"name":"Vilya","country":"RUS","state":"NIZ"},{"id":115,"name":"Vladimirskoye","country":"RUS","state":"NIZ"},{"id":116,"name":"Volodarsk","country":"RUS","state":"NIZ"},{"id":117,"name":"Vorotynets","country":"RUS","state":"NIZ"},{"id":118,"name":"Vorsma","country":"RUS","state":"NIZ"},{"id":119,"name":"Voskresenskiy Rayon","country":"RUS","state":"NIZ"},{"id":120,"name":"Voskresenskoye","country":"RUS","state":"NIZ"},{"id":121,"name":"Voznesenskoye","country":"RUS","state":"NIZ"},{"id":122,"name":"Vyksa","country":"RUS","state":"NIZ"},{"id":123,"name":"Vyyezdnoye","country":"RUS","state":"NIZ"},{"id":124,"name":"Yuganets","country":"RUS","state":"NIZ"},{"id":125,"name":"Zavolzh\u2019ye","country":"RUS","state":"NIZ"},{"id":126,"name":"Zelyony Gorod","country":"RUS","state":"NIZ"}]
+[
+    {
+        "id": 97510,
+        "name": "Afonino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 97691,
+        "name": "Ar’ya",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 97655,
+        "name": "Ardatov",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 97657,
+        "name": "Ardatovskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 97688,
+        "name": "Arzamas",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 97689,
+        "name": "Arzamasskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 97741,
+        "name": "Babino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 97954,
+        "name": "Blizhne-Pesochnoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 97968,
+        "name": "Bogorodsk",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 97969,
+        "name": "Bogorodskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98003,
+        "name": "Bol’sheboldinskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98012,
+        "name": "Bol’shoye Boldino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98014,
+        "name": "Bol’shoye Kozino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98015,
+        "name": "Bol’shoye Murashkino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98019,
+        "name": "Bor",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98021,
+        "name": "Bor Urban Okrug",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98078,
+        "name": "Burevestnik",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98087,
+        "name": "Buturlino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98175,
+        "name": "Chernukha",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98202,
+        "name": "Chistoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98206,
+        "name": "Chkalovsk",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98239,
+        "name": "Dal’nekonstantinovskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98240,
+        "name": "Dal’neye Konstantinovo",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98278,
+        "name": "Diveyevo",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98322,
+        "name": "Doschatoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98367,
+        "name": "Dzerzhinsk",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98436,
+        "name": "Frolishchi",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98448,
+        "name": "Gagino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98488,
+        "name": "Gidrotorf",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98517,
+        "name": "Gorbatov",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98518,
+        "name": "Gorbatovka",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98558,
+        "name": "Gorodets",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98559,
+        "name": "Gorodetskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98585,
+        "name": "Gremyachevo",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98648,
+        "name": "Ilyinogorsk",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98662,
+        "name": "Imeni M. I. Kalinina",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 98666,
+        "name": "Imeni Stepana Razina",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99114,
+        "name": "Knyaginino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99254,
+        "name": "Kovernino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99279,
+        "name": "Krasnaya Gorka",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99330,
+        "name": "Krasnooktyabr’skiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99381,
+        "name": "Krasnyye Baki",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99411,
+        "name": "Kstovo",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99430,
+        "name": "Kulebaki",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99630,
+        "name": "Linda",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99687,
+        "name": "Lukino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99690,
+        "name": "Lukoyanov",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99691,
+        "name": "Lukoyanovskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99707,
+        "name": "Lyskovo",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 99999,
+        "name": "Mukhtolovo",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100000,
+        "name": "Mulino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100070,
+        "name": "Navashino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100089,
+        "name": "Neklyudovo",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100173,
+        "name": "Nizhniy Novgorod",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100199,
+        "name": "Novaya Balakhna",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100308,
+        "name": "Novosmolinskiy",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100533,
+        "name": "Pamyat’ Parizhskoy Kommuny",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100570,
+        "name": "Pavlovo",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100578,
+        "name": "Pavlovskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100609,
+        "name": "Perevoz",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100614,
+        "name": "Pervomaysk",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100616,
+        "name": "Pervomayskiy",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100630,
+        "name": "Pervoye Maya",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100672,
+        "name": "Pil’na",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100673,
+        "name": "Pil’ninskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100692,
+        "name": "Pizhma",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100708,
+        "name": "Pochinki",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100709,
+        "name": "Pochinkovskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100723,
+        "name": "Podnov’ye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100874,
+        "name": "Prudy",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100891,
+        "name": "Purekh",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100914,
+        "name": "Pyra",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100921,
+        "name": "Rabotki",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 100964,
+        "name": "Reshetikha",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101122,
+        "name": "Sarov",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101131,
+        "name": "Satis",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101134,
+        "name": "Savasleyka",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101145,
+        "name": "Sechenovo",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101146,
+        "name": "Sechenovskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101169,
+        "name": "Semënov",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101179,
+        "name": "Sergach",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101180,
+        "name": "Sergachskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101242,
+        "name": "Shakhun’ya",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101259,
+        "name": "Sharanga",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101260,
+        "name": "Sharangskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101268,
+        "name": "Shatki",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101320,
+        "name": "Shimorskoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101380,
+        "name": "Sitniki",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101419,
+        "name": "Smolino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101443,
+        "name": "Sokol’skoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101495,
+        "name": "Sosnovskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101497,
+        "name": "Sosnovskoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101530,
+        "name": "Spasskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101533,
+        "name": "Spasskoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101651,
+        "name": "Sukhobezvodnoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101679,
+        "name": "Surovatikha",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101720,
+        "name": "Syava",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101773,
+        "name": "Taremskoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101889,
+        "name": "Tonkino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101891,
+        "name": "Tonshayevo",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101944,
+        "name": "Tsentral’nyy",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 101969,
+        "name": "Tumbotino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102072,
+        "name": "Urazovka",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102076,
+        "name": "Uren’",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102168,
+        "name": "Vacha",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102169,
+        "name": "Vachskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102170,
+        "name": "Vad",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102178,
+        "name": "Vakhtan",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102193,
+        "name": "Varnavino",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102194,
+        "name": "Varnavinskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102197,
+        "name": "Vasil’sursk",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102295,
+        "name": "Vetluga",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102297,
+        "name": "Vetluzhskiy",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102298,
+        "name": "Vetluzhskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102307,
+        "name": "Vilya",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102329,
+        "name": "Vladimirskoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102351,
+        "name": "Volodarsk",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102384,
+        "name": "Vorotynets",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102387,
+        "name": "Vorsma",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102389,
+        "name": "Voskresenskiy Rayon",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102393,
+        "name": "Voskresenskoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102410,
+        "name": "Voznesenskoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102433,
+        "name": "Vyksa",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102455,
+        "name": "Vyyezdnoye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102586,
+        "name": "Yuganets",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102680,
+        "name": "Zavolzh’ye",
+        "country": "RUS",
+        "state": "NIZ"
+    },
+    {
+        "id": 102702,
+        "name": "Zelyony Gorod",
+        "country": "RUS",
+        "state": "NIZ"
+    }
+]

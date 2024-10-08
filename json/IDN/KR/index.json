@@ -1,1 +1,44 @@
-[{"id":0,"name":"Kabupaten Bintan","country":"IDN","state":"KR"},{"id":1,"name":"Kabupaten Karimun","country":"IDN","state":"KR"},{"id":2,"name":"Kabupaten Kepulauan Anambas","country":"IDN","state":"KR"},{"id":3,"name":"Kabupaten Lingga","country":"IDN","state":"KR"},{"id":4,"name":"Kabupaten Natuna","country":"IDN","state":"KR"},{"id":5,"name":"Kijang","country":"IDN","state":"KR"},{"id":6,"name":"Kota Batam","country":"IDN","state":"KR"},{"id":7,"name":"Kota Tanjung Pinang","country":"IDN","state":"KR"},{"id":8,"name":"Tanjung Pinang","country":"IDN","state":"KR"}]
+[
+    {
+        "id": 56361,
+        "name": "Kabupaten Bintan",
+        "country": "IDN",
+        "state": "KR"
+    },
+    {
+        "id": 56441,
+        "name": "Kabupaten Karimun",
+        "country": "IDN",
+        "state": "KR"
+    },
+    {
+        "id": 56450,
+        "name": "Kabupaten Kepulauan Anambas",
+        "country": "IDN",
+        "state": "KR"
+    },
+    {
+        "id": 56495,
+        "name": "Kabupaten Lingga",
+        "country": "IDN",
+        "state": "KR"
+    },
+    {
+        "id": 56554,
+        "name": "Kabupaten Natuna",
+        "country": "IDN",
+        "state": "KR"
+    },
+    {
+        "id": 56716,
+        "name": "Kijang",
+        "country": "IDN",
+        "state": "KR"
+    },
+    {
+        "id": 57018,
+        "name": "Tanjung Pinang",
+        "country": "IDN",
+        "state": "KR"
+    }
+]

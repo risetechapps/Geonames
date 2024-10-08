@@ -1,1 +1,218 @@
-[{"id":0,"name":"Anenii Noi District","iso3":"AN","country":"MDA"},{"id":1,"name":"B\u0103l\u021bi Municipality","iso3":"BA","country":"MDA"},{"id":2,"name":"Basarabeasca District","iso3":"BS","country":"MDA"},{"id":3,"name":"Bender Municipality","iso3":"BD","country":"MDA"},{"id":4,"name":"Briceni District","iso3":"BR","country":"MDA"},{"id":5,"name":"Cahul District","iso3":"CA","country":"MDA"},{"id":6,"name":"C\u0103l\u0103ra\u0219i District","iso3":"CL","country":"MDA"},{"id":7,"name":"Cantemir District","iso3":"CT","country":"MDA"},{"id":8,"name":"C\u0103u\u0219eni District","iso3":"CS","country":"MDA"},{"id":9,"name":"Chi\u0219in\u0103u Municipality","iso3":"CU","country":"MDA"},{"id":10,"name":"Cimi\u0219lia District","iso3":"CM","country":"MDA"},{"id":11,"name":"Criuleni District","iso3":"CR","country":"MDA"},{"id":12,"name":"Dondu\u0219eni District","iso3":"DO","country":"MDA"},{"id":13,"name":"Drochia District","iso3":"DR","country":"MDA"},{"id":14,"name":"Dub\u0103sari District","iso3":"DU","country":"MDA"},{"id":15,"name":"Edine\u021b District","iso3":"ED","country":"MDA"},{"id":16,"name":"F\u0103le\u0219ti District","iso3":"FA","country":"MDA"},{"id":17,"name":"Flore\u0219ti District","iso3":"FL","country":"MDA"},{"id":18,"name":"Gagauzia","iso3":"GA","country":"MDA"},{"id":19,"name":"Glodeni District","iso3":"GL","country":"MDA"},{"id":20,"name":"H\u00eence\u0219ti District","iso3":"HI","country":"MDA"},{"id":21,"name":"Ialoveni District","iso3":"IA","country":"MDA"},{"id":22,"name":"Nisporeni District","iso3":"NI","country":"MDA"},{"id":23,"name":"Ocni\u021ba District","iso3":"OC","country":"MDA"},{"id":24,"name":"Orhei District","iso3":"OR","country":"MDA"},{"id":25,"name":"Rezina District","iso3":"RE","country":"MDA"},{"id":26,"name":"R\u00ee\u0219cani District","iso3":"RI","country":"MDA"},{"id":27,"name":"S\u00eengerei District","iso3":"SI","country":"MDA"},{"id":28,"name":"\u0218old\u0103ne\u0219ti District","iso3":"SD","country":"MDA"},{"id":29,"name":"Soroca District","iso3":"SO","country":"MDA"},{"id":30,"name":"\u0218tefan Vod\u0103 District","iso3":"SV","country":"MDA"},{"id":31,"name":"Str\u0103\u0219eni District","iso3":"ST","country":"MDA"},{"id":32,"name":"Taraclia District","iso3":"TA","country":"MDA"},{"id":33,"name":"Telene\u0219ti District","iso3":"TE","country":"MDA"},{"id":34,"name":"Transnistria autonomous territorial unit","iso3":"SN","country":"MDA"},{"id":35,"name":"Ungheni District","iso3":"UN","country":"MDA"}]
+[
+    {
+        "id": 4368,
+        "name": "Anenii Noi District",
+        "country": "MDA",
+        "state": "AN"
+    },
+    {
+        "id": 4393,
+        "name": "Bălți Municipality",
+        "country": "MDA",
+        "state": "BA"
+    },
+    {
+        "id": 4379,
+        "name": "Basarabeasca District",
+        "country": "MDA",
+        "state": "BS"
+    },
+    {
+        "id": 4362,
+        "name": "Bender Municipality",
+        "country": "MDA",
+        "state": "BD"
+    },
+    {
+        "id": 4375,
+        "name": "Briceni District",
+        "country": "MDA",
+        "state": "BR"
+    },
+    {
+        "id": 4391,
+        "name": "Cahul District",
+        "country": "MDA",
+        "state": "CA"
+    },
+    {
+        "id": 4366,
+        "name": "Călărași District",
+        "country": "MDA",
+        "state": "CL"
+    },
+    {
+        "id": 4380,
+        "name": "Cantemir District",
+        "country": "MDA",
+        "state": "CT"
+    },
+    {
+        "id": 4365,
+        "name": "Căușeni District",
+        "country": "MDA",
+        "state": "CS"
+    },
+    {
+        "id": 4373,
+        "name": "Chișinău Municipality",
+        "country": "MDA",
+        "state": "CU"
+    },
+    {
+        "id": 4360,
+        "name": "Cimișlia District",
+        "country": "MDA",
+        "state": "CM"
+    },
+    {
+        "id": 4390,
+        "name": "Criuleni District",
+        "country": "MDA",
+        "state": "CR"
+    },
+    {
+        "id": 4384,
+        "name": "Dondușeni District",
+        "country": "MDA",
+        "state": "DO"
+    },
+    {
+        "id": 4392,
+        "name": "Drochia District",
+        "country": "MDA",
+        "state": "DR"
+    },
+    {
+        "id": 4383,
+        "name": "Dubăsari District",
+        "country": "MDA",
+        "state": "DU"
+    },
+    {
+        "id": 4387,
+        "name": "Edineț District",
+        "country": "MDA",
+        "state": "ED"
+    },
+    {
+        "id": 4381,
+        "name": "Fălești District",
+        "country": "MDA",
+        "state": "FA"
+    },
+    {
+        "id": 4370,
+        "name": "Florești District",
+        "country": "MDA",
+        "state": "FL"
+    },
+    {
+        "id": 4385,
+        "name": "Gagauzia",
+        "country": "MDA",
+        "state": "GA"
+    },
+    {
+        "id": 4367,
+        "name": "Glodeni District",
+        "country": "MDA",
+        "state": "GL"
+    },
+    {
+        "id": 4382,
+        "name": "Hîncești District",
+        "country": "MDA",
+        "state": "HI"
+    },
+    {
+        "id": 4369,
+        "name": "Ialoveni District",
+        "country": "MDA",
+        "state": "IA"
+    },
+    {
+        "id": 4363,
+        "name": "Nisporeni District",
+        "country": "MDA",
+        "state": "NI"
+    },
+    {
+        "id": 4389,
+        "name": "Ocnița District",
+        "country": "MDA",
+        "state": "OC"
+    },
+    {
+        "id": 4361,
+        "name": "Orhei District",
+        "country": "MDA",
+        "state": "OR"
+    },
+    {
+        "id": 4394,
+        "name": "Rezina District",
+        "country": "MDA",
+        "state": "RE"
+    },
+    {
+        "id": 4376,
+        "name": "Rîșcani District",
+        "country": "MDA",
+        "state": "RI"
+    },
+    {
+        "id": 4364,
+        "name": "Sîngerei District",
+        "country": "MDA",
+        "state": "SI"
+    },
+    {
+        "id": 4388,
+        "name": "Șoldănești District",
+        "country": "MDA",
+        "state": "SD"
+    },
+    {
+        "id": 4374,
+        "name": "Soroca District",
+        "country": "MDA",
+        "state": "SO"
+    },
+    {
+        "id": 4378,
+        "name": "Ștefan Vodă District",
+        "country": "MDA",
+        "state": "SV"
+    },
+    {
+        "id": 4377,
+        "name": "Strășeni District",
+        "country": "MDA",
+        "state": "ST"
+    },
+    {
+        "id": 4372,
+        "name": "Taraclia District",
+        "country": "MDA",
+        "state": "TA"
+    },
+    {
+        "id": 4371,
+        "name": "Telenești District",
+        "country": "MDA",
+        "state": "TE"
+    },
+    {
+        "id": 4395,
+        "name": "Transnistria autonomous territorial unit",
+        "country": "MDA",
+        "state": "SN"
+    },
+    {
+        "id": 4386,
+        "name": "Ungheni District",
+        "country": "MDA",
+        "state": "UN"
+    }
+]

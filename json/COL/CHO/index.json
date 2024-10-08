@@ -1,1 +1,182 @@
-[{"id":0,"name":"Acand\u00ed","country":"COL","state":"CHO"},{"id":1,"name":"Alto Baud\u00f3","country":"COL","state":"CHO"},{"id":2,"name":"Atrato","country":"COL","state":"CHO"},{"id":3,"name":"Bagad\u00f3","country":"COL","state":"CHO"},{"id":4,"name":"Bah\u00eda Solano","country":"COL","state":"CHO"},{"id":5,"name":"Bajo Baud\u00f3","country":"COL","state":"CHO"},{"id":6,"name":"Bojay\u00e1","country":"COL","state":"CHO"},{"id":7,"name":"Carmen del Darien","country":"COL","state":"CHO"},{"id":8,"name":"C\u00e9rtegui","country":"COL","state":"CHO"},{"id":9,"name":"Condoto","country":"COL","state":"CHO"},{"id":10,"name":"El Cant\u00f3n de San Pablo","country":"COL","state":"CHO"},{"id":11,"name":"El Carmen de Atrato","country":"COL","state":"CHO"},{"id":12,"name":"Istmina","country":"COL","state":"CHO"},{"id":13,"name":"Jurad\u00f3","country":"COL","state":"CHO"},{"id":14,"name":"Litoral del San Juan","country":"COL","state":"CHO"},{"id":15,"name":"Llor\u00f3","country":"COL","state":"CHO"},{"id":16,"name":"Medio Atrato","country":"COL","state":"CHO"},{"id":17,"name":"Medio Baud\u00f3","country":"COL","state":"CHO"},{"id":18,"name":"Medio San Juan","country":"COL","state":"CHO"},{"id":19,"name":"N\u00f3vita","country":"COL","state":"CHO"},{"id":20,"name":"Nuqu\u00ed","country":"COL","state":"CHO"},{"id":21,"name":"Quibd\u00f3","country":"COL","state":"CHO"},{"id":22,"name":"R\u00edo Iro","country":"COL","state":"CHO"},{"id":23,"name":"R\u00edo Quito","country":"COL","state":"CHO"},{"id":24,"name":"Riosucio","country":"COL","state":"CHO"},{"id":25,"name":"San Jos\u00e9 del Palmar","country":"COL","state":"CHO"},{"id":26,"name":"Sip\u00ed","country":"COL","state":"CHO"},{"id":27,"name":"Tad\u00f3","country":"COL","state":"CHO"},{"id":28,"name":"Ungu\u00eda","country":"COL","state":"CHO"},{"id":29,"name":"Uni\u00f3n Panamericana","country":"COL","state":"CHO"}]
+[
+    {
+        "id": 20489,
+        "name": "Acandí",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20509,
+        "name": "Alto Baudó",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20557,
+        "name": "Atrato",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20559,
+        "name": "Bagadó",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20560,
+        "name": "Bahía Solano",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20561,
+        "name": "Bajo Baudó",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20596,
+        "name": "Bojayá",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20657,
+        "name": "Carmen del Darien",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20767,
+        "name": "Cértegui",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20728,
+        "name": "Condoto",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20791,
+        "name": "El Cantón de San Pablo",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20795,
+        "name": "El Carmen de Atrato",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20952,
+        "name": "Istmina",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 20969,
+        "name": "Juradó",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21418,
+        "name": "Litoral del San Juan",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21030,
+        "name": "Lloró",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21076,
+        "name": "Medio Atrato",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21077,
+        "name": "Medio Baudó",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21078,
+        "name": "Medio San Juan",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21143,
+        "name": "Nóvita",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21142,
+        "name": "Nuquí",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21272,
+        "name": "Quibdó",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21304,
+        "name": "Río Iro",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21305,
+        "name": "Río Quito",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21295,
+        "name": "Riosucio",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21371,
+        "name": "San José del Palmar",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21462,
+        "name": "Sipí",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21504,
+        "name": "Tadó",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21570,
+        "name": "Unguía",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 21571,
+        "name": "Unión Panamericana",
+        "country": "COL",
+        "state": "CHO"
+    }
+]

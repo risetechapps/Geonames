@@ -1,1 +1,26 @@
-[{"id":0,"name":"Chuuk State","iso3":"TRK","country":"FSM"},{"id":1,"name":"Kosrae State","iso3":"KSA","country":"FSM"},{"id":2,"name":"Pohnpei State","iso3":"PNI","country":"FSM"},{"id":3,"name":"Yap State","iso3":"YAP","country":"FSM"}]
+[
+    {
+        "id": 2580,
+        "name": "Chuuk State",
+        "country": "FSM",
+        "state": "TRK"
+    },
+    {
+        "id": 2583,
+        "name": "Kosrae State",
+        "country": "FSM",
+        "state": "KSA"
+    },
+    {
+        "id": 2581,
+        "name": "Pohnpei State",
+        "country": "FSM",
+        "state": "PNI"
+    },
+    {
+        "id": 2582,
+        "name": "Yap State",
+        "country": "FSM",
+        "state": "YAP"
+    }
+]

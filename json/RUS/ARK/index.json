@@ -1,1 +1,428 @@
-[{"id":0,"name":"Arkhangel\u2019sk","country":"RUS","state":"ARK"},{"id":1,"name":"Ber\u00ebznik","country":"RUS","state":"ARK"},{"id":2,"name":"Cheremushskiy","country":"RUS","state":"ARK"},{"id":3,"name":"Dvinskoy","country":"RUS","state":"ARK"},{"id":4,"name":"Il\u2019insko-Podomskoye","country":"RUS","state":"ARK"},{"id":5,"name":"Ileza","country":"RUS","state":"ARK"},{"id":6,"name":"Isakogorka","country":"RUS","state":"ARK"},{"id":7,"name":"Kamenka","country":"RUS","state":"ARK"},{"id":8,"name":"Kargopol\u2019","country":"RUS","state":"ARK"},{"id":9,"name":"Kargopol\u2019skiy Rayon","country":"RUS","state":"ARK"},{"id":10,"name":"Karpogory","country":"RUS","state":"ARK"},{"id":11,"name":"Katunino","country":"RUS","state":"ARK"},{"id":12,"name":"Kharitonovo","country":"RUS","state":"ARK"},{"id":13,"name":"Kholmogorskiy Rayon","country":"RUS","state":"ARK"},{"id":14,"name":"Kholmogory","country":"RUS","state":"ARK"},{"id":15,"name":"Kizema","country":"RUS","state":"ARK"},{"id":16,"name":"Kodino","country":"RUS","state":"ARK"},{"id":17,"name":"Kon\u00ebvo","country":"RUS","state":"ARK"},{"id":18,"name":"Konosha","country":"RUS","state":"ARK"},{"id":19,"name":"Koryazhma","country":"RUS","state":"ARK"},{"id":20,"name":"Kotlas","country":"RUS","state":"ARK"},{"id":21,"name":"Kotlasskiy Rayon","country":"RUS","state":"ARK"},{"id":22,"name":"Krasnoborsk","country":"RUS","state":"ARK"},{"id":23,"name":"Kuloy","country":"RUS","state":"ARK"},{"id":24,"name":"Lenskiy Rayon","country":"RUS","state":"ARK"},{"id":25,"name":"Leshukonskiy Rayon","country":"RUS","state":"ARK"},{"id":26,"name":"Leshukonskoye","country":"RUS","state":"ARK"},{"id":27,"name":"Loyga","country":"RUS","state":"ARK"},{"id":28,"name":"Lukovetskiy","country":"RUS","state":"ARK"},{"id":29,"name":"Mezen\u2019","country":"RUS","state":"ARK"},{"id":30,"name":"Mezenskiy Rayon","country":"RUS","state":"ARK"},{"id":31,"name":"Mirnyy","country":"RUS","state":"ARK"},{"id":32,"name":"Novodvinsk","country":"RUS","state":"ARK"},{"id":33,"name":"Nyandoma","country":"RUS","state":"ARK"},{"id":34,"name":"Nyandomskiy Rayon","country":"RUS","state":"ARK"},{"id":35,"name":"Oksovskiy","country":"RUS","state":"ARK"},{"id":36,"name":"Onega","country":"RUS","state":"ARK"},{"id":37,"name":"Onezhskiy Rayon","country":"RUS","state":"ARK"},{"id":38,"name":"Pinega","country":"RUS","state":"ARK"},{"id":39,"name":"Pinezhskiy Rayon","country":"RUS","state":"ARK"},{"id":40,"name":"Plesetsk","country":"RUS","state":"ARK"},{"id":41,"name":"Podyuga","country":"RUS","state":"ARK"},{"id":42,"name":"Primorskiy Rayon","country":"RUS","state":"ARK"},{"id":43,"name":"Privodino","country":"RUS","state":"ARK"},{"id":44,"name":"Puksoozero","country":"RUS","state":"ARK"},{"id":45,"name":"Rochegda","country":"RUS","state":"ARK"},{"id":46,"name":"Samoded","country":"RUS","state":"ARK"},{"id":47,"name":"Severodvinsk","country":"RUS","state":"ARK"},{"id":48,"name":"Shalakusha","country":"RUS","state":"ARK"},{"id":49,"name":"Shangaly","country":"RUS","state":"ARK"},{"id":50,"name":"Shenkursk","country":"RUS","state":"ARK"},{"id":51,"name":"Shenkurskiy Rayon","country":"RUS","state":"ARK"},{"id":52,"name":"Shipitsyno","country":"RUS","state":"ARK"},{"id":53,"name":"Sol\u2019vychegodsk","country":"RUS","state":"ARK"},{"id":54,"name":"Solginskiy","country":"RUS","state":"ARK"},{"id":55,"name":"Udimskiy","country":"RUS","state":"ARK"},{"id":56,"name":"Urdoma","country":"RUS","state":"ARK"},{"id":57,"name":"Ust\u2019-Shonosha","country":"RUS","state":"ARK"},{"id":58,"name":"Ust\u2019yanskiy Rayon","country":"RUS","state":"ARK"},{"id":59,"name":"Uyemskiy","country":"RUS","state":"ARK"},{"id":60,"name":"Vas\u2019kovo","country":"RUS","state":"ARK"},{"id":61,"name":"Vel\u2019sk","country":"RUS","state":"ARK"},{"id":62,"name":"Vel\u2019skiy Rayon","country":"RUS","state":"ARK"},{"id":63,"name":"Verkhnyaya Toyma","country":"RUS","state":"ARK"},{"id":64,"name":"Voloshka","country":"RUS","state":"ARK"},{"id":65,"name":"Vychegodskiy","country":"RUS","state":"ARK"},{"id":66,"name":"Yagry","country":"RUS","state":"ARK"},{"id":67,"name":"Yarensk","country":"RUS","state":"ARK"},{"id":68,"name":"Yemetsk","country":"RUS","state":"ARK"},{"id":69,"name":"Yemtsa","country":"RUS","state":"ARK"},{"id":70,"name":"Yertsevo","country":"RUS","state":"ARK"}]
+[
+    {
+        "id": 97664,
+        "name": "Arkhangel’sk",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 97903,
+        "name": "Berëznik",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98153,
+        "name": "Cheremushskiy",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98358,
+        "name": "Dvinskoy",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98655,
+        "name": "Il’insko-Podomskoye",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98646,
+        "name": "Ileza",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98698,
+        "name": "Isakogorka",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98809,
+        "name": "Kamenka",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98879,
+        "name": "Kargopol’",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98880,
+        "name": "Kargopol’skiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98884,
+        "name": "Karpogory",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98909,
+        "name": "Katunino",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98964,
+        "name": "Kharitonovo",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98994,
+        "name": "Kholmogorskiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 98995,
+        "name": "Kholmogory",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99088,
+        "name": "Kizema",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99126,
+        "name": "Kodino",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99197,
+        "name": "Konëvo",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99186,
+        "name": "Konosha",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99221,
+        "name": "Koryazhma",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99246,
+        "name": "Kotlas",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99247,
+        "name": "Kotlasskiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99297,
+        "name": "Krasnoborsk",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99435,
+        "name": "Kuloy",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99580,
+        "name": "Lenskiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99588,
+        "name": "Leshukonskiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99589,
+        "name": "Leshukonskoye",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99675,
+        "name": "Loyga",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99689,
+        "name": "Lukovetskiy",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99876,
+        "name": "Mezen’",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99875,
+        "name": "Mezenskiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 99924,
+        "name": "Mirnyy",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100240,
+        "name": "Novodvinsk",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100374,
+        "name": "Nyandoma",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100375,
+        "name": "Nyandomskiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100407,
+        "name": "Oksovskiy",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100446,
+        "name": "Onega",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100447,
+        "name": "Onezhskiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100675,
+        "name": "Pinega",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100677,
+        "name": "Pinezhskiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100701,
+        "name": "Plesetsk",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100734,
+        "name": "Podyuga",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100834,
+        "name": "Primorskiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100845,
+        "name": "Privodino",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100890,
+        "name": "Puksoozero",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 100972,
+        "name": "Rochegda",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 101089,
+        "name": "Samoded",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 101217,
+        "name": "Severodvinsk",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 101243,
+        "name": "Shalakusha",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 101256,
+        "name": "Shangaly",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 101300,
+        "name": "Shenkursk",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 101301,
+        "name": "Shenkurskiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 101323,
+        "name": "Shipitsyno",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 101474,
+        "name": "Sol’vychegodsk",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 101448,
+        "name": "Solginskiy",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102022,
+        "name": "Udimskiy",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102074,
+        "name": "Urdoma",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102138,
+        "name": "Ust’-Shonosha",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102144,
+        "name": "Ust’yanskiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102162,
+        "name": "Uyemskiy",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102203,
+        "name": "Vas’kovo",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102221,
+        "name": "Vel’sk",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102222,
+        "name": "Vel’skiy Rayon",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102274,
+        "name": "Verkhnyaya Toyma",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102360,
+        "name": "Voloshka",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102427,
+        "name": "Vychegodskiy",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102462,
+        "name": "Yagry",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102494,
+        "name": "Yarensk",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102557,
+        "name": "Yemetsk",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102558,
+        "name": "Yemtsa",
+        "country": "RUS",
+        "state": "ARK"
+    },
+    {
+        "id": 102575,
+        "name": "Yertsevo",
+        "country": "RUS",
+        "state": "ARK"
+    }
+]

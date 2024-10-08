@@ -1,1 +1,50 @@
-[{"id":0,"name":"El Cu\u00e1","country":"NIC","state":"JI"},{"id":1,"name":"Jinotega","country":"NIC","state":"JI"},{"id":2,"name":"La Concordia","country":"NIC","state":"JI"},{"id":3,"name":"Las Praderas","country":"NIC","state":"JI"},{"id":4,"name":"LLano de La Cruz","country":"NIC","state":"JI"},{"id":5,"name":"San Jos\u00e9 de Bocay","country":"NIC","state":"JI"},{"id":6,"name":"San Rafael del Norte","country":"NIC","state":"JI"},{"id":7,"name":"San Sebasti\u00e1n de Yal\u00ed","country":"NIC","state":"JI"}]
+[
+    {
+        "id": 77183,
+        "name": "El Cuá",
+        "country": "NIC",
+        "state": "JI"
+    },
+    {
+        "id": 77194,
+        "name": "Jinotega",
+        "country": "NIC",
+        "state": "JI"
+    },
+    {
+        "id": 77201,
+        "name": "La Concordia",
+        "country": "NIC",
+        "state": "JI"
+    },
+    {
+        "id": 77210,
+        "name": "Las Praderas",
+        "country": "NIC",
+        "state": "JI"
+    },
+    {
+        "id": 77199,
+        "name": "LLano de La Cruz",
+        "country": "NIC",
+        "state": "JI"
+    },
+    {
+        "id": 77258,
+        "name": "San José de Bocay",
+        "country": "NIC",
+        "state": "JI"
+    },
+    {
+        "id": 77269,
+        "name": "San Rafael del Norte",
+        "country": "NIC",
+        "state": "JI"
+    },
+    {
+        "id": 77272,
+        "name": "San Sebastián de Yalí",
+        "country": "NIC",
+        "state": "JI"
+    }
+]

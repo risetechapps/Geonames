@@ -1,1 +1,488 @@
-[{"id":0,"name":"Ba\u0161ka Voda","country":"HRV","state":"17"},{"id":1,"name":"Bol","country":"HRV","state":"17"},{"id":2,"name":"Brela","country":"HRV","state":"17"},{"id":3,"name":"Brnaze","country":"HRV","state":"17"},{"id":4,"name":"Dicmo","country":"HRV","state":"17"},{"id":5,"name":"Donji Vinjani","country":"HRV","state":"17"},{"id":6,"name":"Du\u0107e","country":"HRV","state":"17"},{"id":7,"name":"Dugi Rat Op\u0107ina","country":"HRV","state":"17"},{"id":8,"name":"Dugopolje","country":"HRV","state":"17"},{"id":9,"name":"Gala","country":"HRV","state":"17"},{"id":10,"name":"Grabovci","country":"HRV","state":"17"},{"id":11,"name":"Grad Hvar","country":"HRV","state":"17"},{"id":12,"name":"Grad Imotski","country":"HRV","state":"17"},{"id":13,"name":"Grad Makarska","country":"HRV","state":"17"},{"id":14,"name":"Grad Omi\u0161","country":"HRV","state":"17"},{"id":15,"name":"Grad Sinj","country":"HRV","state":"17"},{"id":16,"name":"Grad Split","country":"HRV","state":"17"},{"id":17,"name":"Grad Supetar","country":"HRV","state":"17"},{"id":18,"name":"Grad Trogir","country":"HRV","state":"17"},{"id":19,"name":"Grad Vis","country":"HRV","state":"17"},{"id":20,"name":"Grad Vrgorac","country":"HRV","state":"17"},{"id":21,"name":"Gradac","country":"HRV","state":"17"},{"id":22,"name":"Greda","country":"HRV","state":"17"},{"id":23,"name":"Grubine","country":"HRV","state":"17"},{"id":24,"name":"Hrvace","country":"HRV","state":"17"},{"id":25,"name":"Hvar","country":"HRV","state":"17"},{"id":26,"name":"Imotski","country":"HRV","state":"17"},{"id":27,"name":"Jelsa","country":"HRV","state":"17"},{"id":28,"name":"Jesenice","country":"HRV","state":"17"},{"id":29,"name":"Kamen","country":"HRV","state":"17"},{"id":30,"name":"Ka\u0161tel Gomilica","country":"HRV","state":"17"},{"id":31,"name":"Ka\u0161tel Kambelovac","country":"HRV","state":"17"},{"id":32,"name":"Ka\u0161tel Luk\u0161i\u0107","country":"HRV","state":"17"},{"id":33,"name":"Ka\u0161tel Novi","country":"HRV","state":"17"},{"id":34,"name":"Ka\u0161tel \u0160tafili\u0107","country":"HRV","state":"17"},{"id":35,"name":"Ka\u0161tel Stari","country":"HRV","state":"17"},{"id":36,"name":"Ka\u0161tela","country":"HRV","state":"17"},{"id":37,"name":"Klis","country":"HRV","state":"17"},{"id":38,"name":"Komi\u017ea","country":"HRV","state":"17"},{"id":39,"name":"Ko\u0161ute","country":"HRV","state":"17"},{"id":40,"name":"Lokvi\u010di\u0107i","country":"HRV","state":"17"},{"id":41,"name":"Lovre\u0107","country":"HRV","state":"17"},{"id":42,"name":"Makarska","country":"HRV","state":"17"},{"id":43,"name":"Milna","country":"HRV","state":"17"},{"id":44,"name":"Mravince","country":"HRV","state":"17"},{"id":45,"name":"Mu\u0107","country":"HRV","state":"17"},{"id":46,"name":"Nere\u017ei\u0161\u0107a","country":"HRV","state":"17"},{"id":47,"name":"Okrug","country":"HRV","state":"17"},{"id":48,"name":"Okrug Gornji","country":"HRV","state":"17"},{"id":49,"name":"Omi\u0161","country":"HRV","state":"17"},{"id":50,"name":"Otok","country":"HRV","state":"17"},{"id":51,"name":"Podstrana","country":"HRV","state":"17"},{"id":52,"name":"Postira","country":"HRV","state":"17"},{"id":53,"name":"Prolo\u017eac","country":"HRV","state":"17"},{"id":54,"name":"Pu\u010di\u0161\u0107a","country":"HRV","state":"17"},{"id":55,"name":"Runovi\u0107","country":"HRV","state":"17"},{"id":56,"name":"Runovi\u0107i","country":"HRV","state":"17"},{"id":57,"name":"Seget","country":"HRV","state":"17"},{"id":58,"name":"Seget Vranjica","country":"HRV","state":"17"},{"id":59,"name":"Selca","country":"HRV","state":"17"},{"id":60,"name":"Sinj","country":"HRV","state":"17"},{"id":61,"name":"Slatine","country":"HRV","state":"17"},{"id":62,"name":"Solin","country":"HRV","state":"17"},{"id":63,"name":"\u0160olta","country":"HRV","state":"17"},{"id":64,"name":"Split","country":"HRV","state":"17"},{"id":65,"name":"Srinjine","country":"HRV","state":"17"},{"id":66,"name":"Stari Grad","country":"HRV","state":"17"},{"id":67,"name":"Stobre\u010d","country":"HRV","state":"17"},{"id":68,"name":"Supetar","country":"HRV","state":"17"},{"id":69,"name":"Trilj","country":"HRV","state":"17"},{"id":70,"name":"Trogir","country":"HRV","state":"17"},{"id":71,"name":"Tu\u010depi","country":"HRV","state":"17"},{"id":72,"name":"Turjaci","country":"HRV","state":"17"},{"id":73,"name":"Veliki Drvenik","country":"HRV","state":"17"},{"id":74,"name":"Vis","country":"HRV","state":"17"},{"id":75,"name":"Vranjic","country":"HRV","state":"17"},{"id":76,"name":"Vrgorac","country":"HRV","state":"17"},{"id":77,"name":"Vrlika","country":"HRV","state":"17"},{"id":78,"name":"Zagvozd","country":"HRV","state":"17"},{"id":79,"name":"Zmijavci","country":"HRV","state":"17"},{"id":80,"name":"\u017drnovnica","country":"HRV","state":"17"}]
+[
+    {
+        "id": 54389,
+        "name": "Baška Voda",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54407,
+        "name": "Bol",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54414,
+        "name": "Brela",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54423,
+        "name": "Brnaze",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54454,
+        "name": "Dicmo",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54463,
+        "name": "Donji Vinjani",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54474,
+        "name": "Duće",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54472,
+        "name": "Dugi Rat Općina",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54473,
+        "name": "Dugopolje",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54486,
+        "name": "Gala",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54502,
+        "name": "Grabovci",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54519,
+        "name": "Grad Hvar",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54520,
+        "name": "Grad Imotski",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54532,
+        "name": "Grad Makarska",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54537,
+        "name": "Grad Omiš",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54548,
+        "name": "Grad Sinj",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54552,
+        "name": "Grad Split",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54553,
+        "name": "Grad Supetar",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54555,
+        "name": "Grad Trogir",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54561,
+        "name": "Grad Vis",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54564,
+        "name": "Grad Vrgorac",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54574,
+        "name": "Gradac",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54584,
+        "name": "Greda",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54587,
+        "name": "Grubine",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54599,
+        "name": "Hrvace",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54601,
+        "name": "Hvar",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54603,
+        "name": "Imotski",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54620,
+        "name": "Jelsa",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54621,
+        "name": "Jesenice",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54627,
+        "name": "Kamen",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54637,
+        "name": "Kaštel Gomilica",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54638,
+        "name": "Kaštel Kambelovac",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54639,
+        "name": "Kaštel Lukšić",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54640,
+        "name": "Kaštel Novi",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54642,
+        "name": "Kaštel Štafilić",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54641,
+        "name": "Kaštel Stari",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54643,
+        "name": "Kaštela",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54650,
+        "name": "Klis",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54654,
+        "name": "Komiža",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54665,
+        "name": "Košute",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54694,
+        "name": "Lokvičići",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54700,
+        "name": "Lovreć",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54710,
+        "name": "Makarska",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54733,
+        "name": "Milna",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54742,
+        "name": "Mravince",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54747,
+        "name": "Muć",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54752,
+        "name": "Nerežišća",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54772,
+        "name": "Okrug",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54773,
+        "name": "Okrug Gornji",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54775,
+        "name": "Omiš",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54795,
+        "name": "Otok",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54817,
+        "name": "Podstrana",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54829,
+        "name": "Postira",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54842,
+        "name": "Proložac",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54847,
+        "name": "Pučišća",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54872,
+        "name": "Runović",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54873,
+        "name": "Runovići",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54879,
+        "name": "Seget",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54880,
+        "name": "Seget Vranjica",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54881,
+        "name": "Selca",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54890,
+        "name": "Sinj",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54896,
+        "name": "Slatine",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54901,
+        "name": "Solin",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 55035,
+        "name": "Šolta",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54904,
+        "name": "Split",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54906,
+        "name": "Srinjine",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54907,
+        "name": "Stari Grad",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54913,
+        "name": "Stobreč",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54923,
+        "name": "Supetar",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54941,
+        "name": "Trilj",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54942,
+        "name": "Trogir",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54946,
+        "name": "Tučepi",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54945,
+        "name": "Turjaci",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54961,
+        "name": "Veliki Drvenik",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54974,
+        "name": "Vis",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54987,
+        "name": "Vranjic",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54993,
+        "name": "Vrgorac",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 54994,
+        "name": "Vrlika",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 55005,
+        "name": "Zagvozd",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 55012,
+        "name": "Zmijavci",
+        "country": "HRV",
+        "state": "17"
+    },
+    {
+        "id": 55040,
+        "name": "Žrnovnica",
+        "country": "HRV",
+        "state": "17"
+    }
+]

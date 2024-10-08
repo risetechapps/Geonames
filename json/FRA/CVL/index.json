@@ -1,1 +1,2858 @@
-[{"id":0,"name":"Abilly","country":"FRA","state":"CVL"},{"id":1,"name":"Abondant","country":"FRA","state":"CVL"},{"id":2,"name":"Aigurande","country":"FRA","state":"CVL"},{"id":3,"name":"Ambillou","country":"FRA","state":"CVL"},{"id":4,"name":"Amboise","country":"FRA","state":"CVL"},{"id":5,"name":"Amilly","country":"FRA","state":"CVL"},{"id":6,"name":"Anet","country":"FRA","state":"CVL"},{"id":7,"name":"Ardentes","country":"FRA","state":"CVL"},{"id":8,"name":"Argent-sur-Sauldre","country":"FRA","state":"CVL"},{"id":9,"name":"Argenton-sur-Creuse","country":"FRA","state":"CVL"},{"id":10,"name":"Armenonville-les-G\u00e2tineaux","country":"FRA","state":"CVL"},{"id":11,"name":"Arrou","country":"FRA","state":"CVL"},{"id":12,"name":"Artannes-sur-Indre","country":"FRA","state":"CVL"},{"id":13,"name":"Artenay","country":"FRA","state":"CVL"},{"id":14,"name":"Arthon","country":"FRA","state":"CVL"},{"id":15,"name":"Asch\u00e8res-le-March\u00e9","country":"FRA","state":"CVL"},{"id":16,"name":"Ath\u00e9e-sur-Cher","country":"FRA","state":"CVL"},{"id":17,"name":"Aubigny-sur-N\u00e8re","country":"FRA","state":"CVL"},{"id":18,"name":"Aunay-sous-Auneau","country":"FRA","state":"CVL"},{"id":19,"name":"Auneau","country":"FRA","state":"CVL"},{"id":20,"name":"Authon-du-Perche","country":"FRA","state":"CVL"},{"id":21,"name":"Autry-le-Ch\u00e2tel","country":"FRA","state":"CVL"},{"id":22,"name":"Auzouer-en-Touraine","country":"FRA","state":"CVL"},{"id":23,"name":"Avoine","country":"FRA","state":"CVL"},{"id":24,"name":"Avord","country":"FRA","state":"CVL"},{"id":25,"name":"Azay-le-Ferron","country":"FRA","state":"CVL"},{"id":26,"name":"Azay-le-Rideau","country":"FRA","state":"CVL"},{"id":27,"name":"Azay-sur-Cher","country":"FRA","state":"CVL"},{"id":28,"name":"Az\u00e9","country":"FRA","state":"CVL"},{"id":29,"name":"Bailleau-l\u2019\u00c9v\u00eaque","country":"FRA","state":"CVL"},{"id":30,"name":"Bailleau-le-Pin","country":"FRA","state":"CVL"},{"id":31,"name":"Ballan-Mir\u00e9","country":"FRA","state":"CVL"},{"id":32,"name":"Barjouville","country":"FRA","state":"CVL"},{"id":33,"name":"Baugy","country":"FRA","state":"CVL"},{"id":34,"name":"Baule","country":"FRA","state":"CVL"},{"id":35,"name":"Bazoches-les-Gallerandes","country":"FRA","state":"CVL"},{"id":36,"name":"Beaugency","country":"FRA","state":"CVL"},{"id":37,"name":"Beaulieu-l\u00e8s-Loches","country":"FRA","state":"CVL"},{"id":38,"name":"Beaumont-en-V\u00e9ron","country":"FRA","state":"CVL"},{"id":39,"name":"Beaumont-la-Ronce","country":"FRA","state":"CVL"},{"id":40,"name":"Beaune-la-Rolande","country":"FRA","state":"CVL"},{"id":41,"name":"B\u00e9l\u00e2bre","country":"FRA","state":"CVL"},{"id":42,"name":"Bellegarde","country":"FRA","state":"CVL"},{"id":43,"name":"Belleville-sur-Loire","country":"FRA","state":"CVL"},{"id":44,"name":"B\u00e9ville-le-Comte","country":"FRA","state":"CVL"},{"id":45,"name":"Blancafort","country":"FRA","state":"CVL"},{"id":46,"name":"Bl\u00e9r\u00e9","country":"FRA","state":"CVL"},{"id":47,"name":"Blois","country":"FRA","state":"CVL"},{"id":48,"name":"Boigny-sur-Bionne","country":"FRA","state":"CVL"},{"id":49,"name":"Boiscommun","country":"FRA","state":"CVL"},{"id":50,"name":"Bonneval","country":"FRA","state":"CVL"},{"id":51,"name":"Bonny-sur-Loire","country":"FRA","state":"CVL"},{"id":52,"name":"Boulleret","country":"FRA","state":"CVL"},{"id":53,"name":"Bourges","country":"FRA","state":"CVL"},{"id":54,"name":"Bourgueil","country":"FRA","state":"CVL"},{"id":55,"name":"Bouzy-la-For\u00eat","country":"FRA","state":"CVL"},{"id":56,"name":"Boynes","country":"FRA","state":"CVL"},{"id":57,"name":"Bracieux","country":"FRA","state":"CVL"},{"id":58,"name":"Bray-en-Val","country":"FRA","state":"CVL"},{"id":59,"name":"Brezolles","country":"FRA","state":"CVL"},{"id":60,"name":"Briare","country":"FRA","state":"CVL"},{"id":61,"name":"Bricy","country":"FRA","state":"CVL"},{"id":62,"name":"Brinon-sur-Sauldre","country":"FRA","state":"CVL"},{"id":63,"name":"Brou","country":"FRA","state":"CVL"},{"id":64,"name":"B\u00fb","country":"FRA","state":"CVL"},{"id":65,"name":"Buzan\u00e7ais","country":"FRA","state":"CVL"},{"id":66,"name":"Cand\u00e9-sur-Beuvron","country":"FRA","state":"CVL"},{"id":67,"name":"Cangey","country":"FRA","state":"CVL"},{"id":68,"name":"Cellettes","country":"FRA","state":"CVL"},{"id":69,"name":"Cepoy","country":"FRA","state":"CVL"},{"id":70,"name":"Cerdon","country":"FRA","state":"CVL"},{"id":71,"name":"Cerelles","country":"FRA","state":"CVL"},{"id":72,"name":"Chabris","country":"FRA","state":"CVL"},{"id":73,"name":"Chaillac","country":"FRA","state":"CVL"},{"id":74,"name":"Chailles","country":"FRA","state":"CVL"},{"id":75,"name":"Chaingy","country":"FRA","state":"CVL"},{"id":76,"name":"Ch\u00e2lette-sur-Loing","country":"FRA","state":"CVL"},{"id":77,"name":"Chambourg-sur-Indre","country":"FRA","state":"CVL"},{"id":78,"name":"Chambray-l\u00e8s-Tours","country":"FRA","state":"CVL"},{"id":79,"name":"Champhol","country":"FRA","state":"CVL"},{"id":80,"name":"Chanceaux-sur-Choisille","country":"FRA","state":"CVL"},{"id":81,"name":"Changy-les-Bois","country":"FRA","state":"CVL"},{"id":82,"name":"Chanteau","country":"FRA","state":"CVL"},{"id":83,"name":"Chant\u00f4me","country":"FRA","state":"CVL"},{"id":84,"name":"Charentilly","country":"FRA","state":"CVL"},{"id":85,"name":"Charenton-du-Cher","country":"FRA","state":"CVL"},{"id":86,"name":"Charg\u00e9","country":"FRA","state":"CVL"},{"id":87,"name":"Ch\u00e2rost","country":"FRA","state":"CVL"},{"id":88,"name":"Chartres","country":"FRA","state":"CVL"},{"id":89,"name":"Ch\u00e2teau-la-Valli\u00e8re","country":"FRA","state":"CVL"},{"id":90,"name":"Ch\u00e2teau-Renard","country":"FRA","state":"CVL"},{"id":91,"name":"Ch\u00e2teau-Renault","country":"FRA","state":"CVL"},{"id":92,"name":"Ch\u00e2teaudun","country":"FRA","state":"CVL"},{"id":93,"name":"Ch\u00e2teaumeillant","country":"FRA","state":"CVL"},{"id":94,"name":"Ch\u00e2teauneuf-en-Thymerais","country":"FRA","state":"CVL"},{"id":95,"name":"Ch\u00e2teauneuf-sur-Cher","country":"FRA","state":"CVL"},{"id":96,"name":"Ch\u00e2teauneuf-sur-Loire","country":"FRA","state":"CVL"},{"id":97,"name":"Ch\u00e2teauroux","country":"FRA","state":"CVL"},{"id":98,"name":"Ch\u00e2tillon-Coligny","country":"FRA","state":"CVL"},{"id":99,"name":"Ch\u00e2tillon-sur-Cher","country":"FRA","state":"CVL"},{"id":100,"name":"Ch\u00e2tillon-sur-Indre","country":"FRA","state":"CVL"},{"id":101,"name":"Ch\u00e2tres-sur-Cher","country":"FRA","state":"CVL"},{"id":102,"name":"Chaudon","country":"FRA","state":"CVL"},{"id":103,"name":"Chaumont-sur-Loire","country":"FRA","state":"CVL"},{"id":104,"name":"Chaumont-sur-Tharonne","country":"FRA","state":"CVL"},{"id":105,"name":"Ch\u00e9cy","country":"FRA","state":"CVL"},{"id":106,"name":"Cheill\u00e9","country":"FRA","state":"CVL"},{"id":107,"name":"Cher","country":"FRA","state":"CVL"},{"id":108,"name":"Cherisy","country":"FRA","state":"CVL"},{"id":109,"name":"Cheverny","country":"FRA","state":"CVL"},{"id":110,"name":"Chevillon-sur-Huillard","country":"FRA","state":"CVL"},{"id":111,"name":"Chevilly","country":"FRA","state":"CVL"},{"id":112,"name":"Chilleurs-aux-Bois","country":"FRA","state":"CVL"},{"id":113,"name":"Chinon","country":"FRA","state":"CVL"},{"id":114,"name":"Chissay-en-Touraine","country":"FRA","state":"CVL"},{"id":115,"name":"Chitenay","country":"FRA","state":"CVL"},{"id":116,"name":"Chouz\u00e9-sur-Loire","country":"FRA","state":"CVL"},{"id":117,"name":"Chouzy-sur-Cisse","country":"FRA","state":"CVL"},{"id":118,"name":"Cinq-Mars-la-Pile","country":"FRA","state":"CVL"},{"id":119,"name":"Civray-de-Touraine","country":"FRA","state":"CVL"},{"id":120,"name":"Cl\u00e9r\u00e9-les-Pins","country":"FRA","state":"CVL"},{"id":121,"name":"Cl\u00e9ry-Saint-Andr\u00e9","country":"FRA","state":"CVL"},{"id":122,"name":"Clion","country":"FRA","state":"CVL"},{"id":123,"name":"Cloyes-sur-le-Loir","country":"FRA","state":"CVL"},{"id":124,"name":"Cluis","country":"FRA","state":"CVL"},{"id":125,"name":"Contres","country":"FRA","state":"CVL"},{"id":126,"name":"Corbeilles","country":"FRA","state":"CVL"},{"id":127,"name":"Cormeray","country":"FRA","state":"CVL"},{"id":128,"name":"Cormery","country":"FRA","state":"CVL"},{"id":129,"name":"Corquilleroy","country":"FRA","state":"CVL"},{"id":130,"name":"Coullons","country":"FRA","state":"CVL"},{"id":131,"name":"Coulombs","country":"FRA","state":"CVL"},{"id":132,"name":"Cour-Cheverny","country":"FRA","state":"CVL"},{"id":133,"name":"Cours-les-Barres","country":"FRA","state":"CVL"},{"id":134,"name":"Courtenay","country":"FRA","state":"CVL"},{"id":135,"name":"Courville-sur-Eure","country":"FRA","state":"CVL"},{"id":136,"name":"Cuffy","country":"FRA","state":"CVL"},{"id":137,"name":"Dadonville","country":"FRA","state":"CVL"},{"id":138,"name":"Dammarie","country":"FRA","state":"CVL"},{"id":139,"name":"Dampierre-en-Burly","country":"FRA","state":"CVL"},{"id":140,"name":"Darvoy","country":"FRA","state":"CVL"},{"id":141,"name":"D\u00e9ols","country":"FRA","state":"CVL"},{"id":142,"name":"D\u00e9partement d'Eure-et-Loir","country":"FRA","state":"CVL"},{"id":143,"name":"D\u00e9partement d'Indre-et-Loire","country":"FRA","state":"CVL"},{"id":144,"name":"D\u00e9partement de l'Indre","country":"FRA","state":"CVL"},{"id":145,"name":"D\u00e9partement du Loir-et-Cher","country":"FRA","state":"CVL"},{"id":146,"name":"Descartes","country":"FRA","state":"CVL"},{"id":147,"name":"Dhuizon","country":"FRA","state":"CVL"},{"id":148,"name":"Donnery","country":"FRA","state":"CVL"},{"id":149,"name":"Dordives","country":"FRA","state":"CVL"},{"id":150,"name":"Douchy","country":"FRA","state":"CVL"},{"id":151,"name":"Dreux","country":"FRA","state":"CVL"},{"id":152,"name":"Drou\u00e9","country":"FRA","state":"CVL"},{"id":153,"name":"Droue-sur-Drouette","country":"FRA","state":"CVL"},{"id":154,"name":"Dry","country":"FRA","state":"CVL"},{"id":155,"name":"Dun-sur-Auron","country":"FRA","state":"CVL"},{"id":156,"name":"\u00c9cueill\u00e9","country":"FRA","state":"CVL"},{"id":157,"name":"\u00c9guzon-Chant\u00f4me","country":"FRA","state":"CVL"},{"id":158,"name":"\u00c9pernon","country":"FRA","state":"CVL"},{"id":159,"name":"\u00c9pieds-en-Beauce","country":"FRA","state":"CVL"},{"id":160,"name":"Esvres","country":"FRA","state":"CVL"},{"id":161,"name":"Faverolles-sur-Cher","country":"FRA","state":"CVL"},{"id":162,"name":"Fay-aux-Loges","country":"FRA","state":"CVL"},{"id":163,"name":"F\u00e9rolles","country":"FRA","state":"CVL"},{"id":164,"name":"Fleury-les-Aubrais","country":"FRA","state":"CVL"},{"id":165,"name":"Fo\u00ebcy","country":"FRA","state":"CVL"},{"id":166,"name":"Fondettes","country":"FRA","state":"CVL"},{"id":167,"name":"Fontaine-la-Guyon","country":"FRA","state":"CVL"},{"id":168,"name":"Fontenay-sur-Loing","country":"FRA","state":"CVL"},{"id":169,"name":"Fussy","country":"FRA","state":"CVL"},{"id":170,"name":"Gallardon","country":"FRA","state":"CVL"},{"id":171,"name":"Garnay","country":"FRA","state":"CVL"},{"id":172,"name":"Gasville-Ois\u00e8me","country":"FRA","state":"CVL"},{"id":173,"name":"Genill\u00e9","country":"FRA","state":"CVL"},{"id":174,"name":"Gidy","country":"FRA","state":"CVL"},{"id":175,"name":"Gien","country":"FRA","state":"CVL"},{"id":176,"name":"Gi\u00e8vres","country":"FRA","state":"CVL"},{"id":177,"name":"Gra\u00e7ay","country":"FRA","state":"CVL"},{"id":178,"name":"Hanches","country":"FRA","state":"CVL"},{"id":179,"name":"Henrichemont","country":"FRA","state":"CVL"},{"id":180,"name":"Herbault","country":"FRA","state":"CVL"},{"id":181,"name":"Herry","country":"FRA","state":"CVL"},{"id":182,"name":"Huismes","country":"FRA","state":"CVL"},{"id":183,"name":"Huisseau-sur-Cosson","country":"FRA","state":"CVL"},{"id":184,"name":"Huisseau-sur-Mauves","country":"FRA","state":"CVL"},{"id":185,"name":"Ingr\u00e9","country":"FRA","state":"CVL"},{"id":186,"name":"Issoudun","country":"FRA","state":"CVL"},{"id":187,"name":"Janville","country":"FRA","state":"CVL"},{"id":188,"name":"Jargeau","country":"FRA","state":"CVL"},{"id":189,"name":"Jou\u00e9-l\u00e8s-Tours","country":"FRA","state":"CVL"},{"id":190,"name":"Jouet-sur-l'Aubois","country":"FRA","state":"CVL"},{"id":191,"name":"Jouy","country":"FRA","state":"CVL"},{"id":192,"name":"Jouy-le-Potier","country":"FRA","state":"CVL"},{"id":193,"name":"L'\u00cele-Bouchard","country":"FRA","state":"CVL"},{"id":194,"name":"La Bazoche-Gouet","country":"FRA","state":"CVL"},{"id":195,"name":"La Celle-Saint-Avant","country":"FRA","state":"CVL"},{"id":196,"name":"La Chapelle-du-Noyer","country":"FRA","state":"CVL"},{"id":197,"name":"La Chapelle-Saint-Mesmin","country":"FRA","state":"CVL"},{"id":198,"name":"La Chapelle-Saint-Ursin","country":"FRA","state":"CVL"},{"id":199,"name":"La Chapelle-sur-Loire","country":"FRA","state":"CVL"},{"id":200,"name":"La Ch\u00e2tre","country":"FRA","state":"CVL"},{"id":201,"name":"La Chauss\u00e9e-Saint-Victor","country":"FRA","state":"CVL"},{"id":202,"name":"La Croix-en-Touraine","country":"FRA","state":"CVL"},{"id":203,"name":"La Fert\u00e9-Imbault","country":"FRA","state":"CVL"},{"id":204,"name":"La Fert\u00e9-Saint-Aubin","country":"FRA","state":"CVL"},{"id":205,"name":"La Loupe","country":"FRA","state":"CVL"},{"id":206,"name":"La Membrolle-sur-Choisille","country":"FRA","state":"CVL"},{"id":207,"name":"La Riche","country":"FRA","state":"CVL"},{"id":208,"name":"La Ville-aux-Clercs","country":"FRA","state":"CVL"},{"id":209,"name":"La Ville-aux-Dames","country":"FRA","state":"CVL"},{"id":210,"name":"Ladon","country":"FRA","state":"CVL"},{"id":211,"name":"Lailly-en-Val","country":"FRA","state":"CVL"},{"id":212,"name":"Lamotte-Beuvron","country":"FRA","state":"CVL"},{"id":213,"name":"Langeais","country":"FRA","state":"CVL"},{"id":214,"name":"Lar\u00e7ay","country":"FRA","state":"CVL"},{"id":215,"name":"Le Blanc","country":"FRA","state":"CVL"},{"id":216,"name":"Le Ch\u00e2telet","country":"FRA","state":"CVL"},{"id":217,"name":"Le Coudray","country":"FRA","state":"CVL"},{"id":218,"name":"Le Grand-Pressigny","country":"FRA","state":"CVL"},{"id":219,"name":"Le P\u00eachereau","country":"FRA","state":"CVL"},{"id":220,"name":"Le Poin\u00e7onnet","country":"FRA","state":"CVL"},{"id":221,"name":"L\u00e9r\u00e9","country":"FRA","state":"CVL"},{"id":222,"name":"Les Aix-d\u2019Angillon","country":"FRA","state":"CVL"},{"id":223,"name":"Les Montils","country":"FRA","state":"CVL"},{"id":224,"name":"L\u00e8ves","country":"FRA","state":"CVL"},{"id":225,"name":"Levet","country":"FRA","state":"CVL"},{"id":226,"name":"Levroux","country":"FRA","state":"CVL"},{"id":227,"name":"Ligni\u00e8res","country":"FRA","state":"CVL"},{"id":228,"name":"Ligny-le-Ribault","country":"FRA","state":"CVL"},{"id":229,"name":"Ligr\u00e9","country":"FRA","state":"CVL"},{"id":230,"name":"Ligueil","country":"FRA","state":"CVL"},{"id":231,"name":"Loches","country":"FRA","state":"CVL"},{"id":232,"name":"Loiret","country":"FRA","state":"CVL"},{"id":233,"name":"Lorris","country":"FRA","state":"CVL"},{"id":234,"name":"Loury","country":"FRA","state":"CVL"},{"id":235,"name":"Luant","country":"FRA","state":"CVL"},{"id":236,"name":"Lu\u00e7ay-le-M\u00e2le","country":"FRA","state":"CVL"},{"id":237,"name":"Luc\u00e9","country":"FRA","state":"CVL"},{"id":238,"name":"Luisant","country":"FRA","state":"CVL"},{"id":239,"name":"Lunay","country":"FRA","state":"CVL"},{"id":240,"name":"Lunery","country":"FRA","state":"CVL"},{"id":241,"name":"Luray","country":"FRA","state":"CVL"},{"id":242,"name":"Luynes","country":"FRA","state":"CVL"},{"id":243,"name":"Maintenon","country":"FRA","state":"CVL"},{"id":244,"name":"Mainvilliers","country":"FRA","state":"CVL"},{"id":245,"name":"Malesherbes","country":"FRA","state":"CVL"},{"id":246,"name":"Manthelan","country":"FRA","state":"CVL"},{"id":247,"name":"Marbou\u00e9","country":"FRA","state":"CVL"},{"id":248,"name":"Marcilly-en-Villette","country":"FRA","state":"CVL"},{"id":249,"name":"Mardi\u00e9","country":"FRA","state":"CVL"},{"id":250,"name":"Mareau-aux-Pr\u00e9s","country":"FRA","state":"CVL"},{"id":251,"name":"Mareuil-sur-Cher","country":"FRA","state":"CVL"},{"id":252,"name":"Margon","country":"FRA","state":"CVL"},{"id":253,"name":"Marigny-les-Usages","country":"FRA","state":"CVL"},{"id":254,"name":"Marmagne","country":"FRA","state":"CVL"},{"id":255,"name":"Martizay","country":"FRA","state":"CVL"},{"id":256,"name":"Massay","country":"FRA","state":"CVL"},{"id":257,"name":"Mazi\u00e8res-de-Touraine","country":"FRA","state":"CVL"},{"id":258,"name":"Mehun-sur-Y\u00e8vre","country":"FRA","state":"CVL"},{"id":259,"name":"M\u00e9nestreau-en-Villette","country":"FRA","state":"CVL"},{"id":260,"name":"Menetou-Salon","country":"FRA","state":"CVL"},{"id":261,"name":"Mer","country":"FRA","state":"CVL"},{"id":262,"name":"M\u00e9reau","country":"FRA","state":"CVL"},{"id":263,"name":"Mettray","country":"FRA","state":"CVL"},{"id":264,"name":"Meung-sur-Loire","country":"FRA","state":"CVL"},{"id":265,"name":"M\u00e9zi\u00e8res-en-Brenne","country":"FRA","state":"CVL"},{"id":266,"name":"M\u00e9zi\u00e8res-en-Drouais","country":"FRA","state":"CVL"},{"id":267,"name":"Mondoubleau","country":"FRA","state":"CVL"},{"id":268,"name":"Monnaie","country":"FRA","state":"CVL"},{"id":269,"name":"Mont-pr\u00e8s-Chambord","country":"FRA","state":"CVL"},{"id":270,"name":"Montargis","country":"FRA","state":"CVL"},{"id":271,"name":"Montbazon","country":"FRA","state":"CVL"},{"id":272,"name":"Montcresson","country":"FRA","state":"CVL"},{"id":273,"name":"Montgivray","country":"FRA","state":"CVL"},{"id":274,"name":"Montierchaume","country":"FRA","state":"CVL"},{"id":275,"name":"Montlivault","country":"FRA","state":"CVL"},{"id":276,"name":"Montlouis-sur-Loire","country":"FRA","state":"CVL"},{"id":277,"name":"Montoire-sur-le-Loir","country":"FRA","state":"CVL"},{"id":278,"name":"Montrichard","country":"FRA","state":"CVL"},{"id":279,"name":"Monts","country":"FRA","state":"CVL"},{"id":280,"name":"Morancez","country":"FRA","state":"CVL"},{"id":281,"name":"Mor\u00e9e","country":"FRA","state":"CVL"},{"id":282,"name":"Muides-sur-Loire","country":"FRA","state":"CVL"},{"id":283,"name":"Mur-de-Sologne","country":"FRA","state":"CVL"},{"id":284,"name":"Nargis","country":"FRA","state":"CVL"},{"id":285,"name":"Naveil","country":"FRA","state":"CVL"},{"id":286,"name":"Nazelles-N\u00e9gron","country":"FRA","state":"CVL"},{"id":287,"name":"N\u00e9rondes","country":"FRA","state":"CVL"},{"id":288,"name":"Neuill\u00e9-Pont-Pierre","country":"FRA","state":"CVL"},{"id":289,"name":"Neung-sur-Beuvron","country":"FRA","state":"CVL"},{"id":290,"name":"Neuville-aux-Bois","country":"FRA","state":"CVL"},{"id":291,"name":"Neuvy-le-Roi","country":"FRA","state":"CVL"},{"id":292,"name":"Neuvy-Pailloux","country":"FRA","state":"CVL"},{"id":293,"name":"Neuvy-Saint-S\u00e9pulchre","country":"FRA","state":"CVL"},{"id":294,"name":"Neuvy-sur-Barangeon","country":"FRA","state":"CVL"},{"id":295,"name":"Nevoy","country":"FRA","state":"CVL"},{"id":296,"name":"Niherne","country":"FRA","state":"CVL"},{"id":297,"name":"Nogent-le-Phaye","country":"FRA","state":"CVL"},{"id":298,"name":"Nogent-le-Roi","country":"FRA","state":"CVL"},{"id":299,"name":"Nogent-le-Rotrou","country":"FRA","state":"CVL"},{"id":300,"name":"Nogent-sur-Vernisson","country":"FRA","state":"CVL"},{"id":301,"name":"Noizay","country":"FRA","state":"CVL"},{"id":302,"name":"Nouan-le-Fuzelier","country":"FRA","state":"CVL"},{"id":303,"name":"Nouzilly","country":"FRA","state":"CVL"},{"id":304,"name":"Noyers-sur-Cher","country":"FRA","state":"CVL"},{"id":305,"name":"Olivet","country":"FRA","state":"CVL"},{"id":306,"name":"Onzain","country":"FRA","state":"CVL"},{"id":307,"name":"Org\u00e8res-en-Beauce","country":"FRA","state":"CVL"},{"id":308,"name":"Orl\u00e9ans","country":"FRA","state":"CVL"},{"id":309,"name":"Ormes","country":"FRA","state":"CVL"},{"id":310,"name":"Orval","country":"FRA","state":"CVL"},{"id":311,"name":"Oucques","country":"FRA","state":"CVL"},{"id":312,"name":"Oulins","country":"FRA","state":"CVL"},{"id":313,"name":"Outarville","country":"FRA","state":"CVL"},{"id":314,"name":"Ouzouer-le-March\u00e9","country":"FRA","state":"CVL"},{"id":315,"name":"Ouzouer-sur-Loire","country":"FRA","state":"CVL"},{"id":316,"name":"Ouzouer-sur-Tr\u00e9z\u00e9e","country":"FRA","state":"CVL"},{"id":317,"name":"Pannes","country":"FRA","state":"CVL"},{"id":318,"name":"Par\u00e7ay-Meslay","country":"FRA","state":"CVL"},{"id":319,"name":"Patay","country":"FRA","state":"CVL"},{"id":320,"name":"Perrusson","country":"FRA","state":"CVL"},{"id":321,"name":"Pierres","country":"FRA","state":"CVL"},{"id":322,"name":"Pithiviers","country":"FRA","state":"CVL"},{"id":323,"name":"Pithiviers-le-Vieil","country":"FRA","state":"CVL"},{"id":324,"name":"Plaimpied-Givaudins","country":"FRA","state":"CVL"},{"id":325,"name":"Poc\u00e9-sur-Cisse","country":"FRA","state":"CVL"},{"id":326,"name":"Poilly-lez-Gien","country":"FRA","state":"CVL"},{"id":327,"name":"Pontlevoy","country":"FRA","state":"CVL"},{"id":328,"name":"Pouligny-Saint-Pierre","country":"FRA","state":"CVL"},{"id":329,"name":"Preuilly-sur-Claise","country":"FRA","state":"CVL"},{"id":330,"name":"Pruniers-en-Sologne","country":"FRA","state":"CVL"},{"id":331,"name":"Puiseaux","country":"FRA","state":"CVL"},{"id":332,"name":"Quiers-sur-B\u00e9zonde","country":"FRA","state":"CVL"},{"id":333,"name":"Rebr\u00e9chien","country":"FRA","state":"CVL"},{"id":334,"name":"Reignac-sur-Indre","country":"FRA","state":"CVL"},{"id":335,"name":"Restign\u00e9","country":"FRA","state":"CVL"},{"id":336,"name":"Reugny","country":"FRA","state":"CVL"},{"id":337,"name":"Reuilly","country":"FRA","state":"CVL"},{"id":338,"name":"Rians","country":"FRA","state":"CVL"},{"id":339,"name":"Richelieu","country":"FRA","state":"CVL"},{"id":340,"name":"Rochecorbon","country":"FRA","state":"CVL"},{"id":341,"name":"Romorantin-Lanthenay","country":"FRA","state":"CVL"},{"id":342,"name":"Rouziers-de-Touraine","country":"FRA","state":"CVL"},{"id":343,"name":"Sach\u00e9","country":"FRA","state":"CVL"},{"id":344,"name":"Saint-Aignan","country":"FRA","state":"CVL"},{"id":345,"name":"Saint-Amand-Longpr\u00e9","country":"FRA","state":"CVL"},{"id":346,"name":"Saint-Amand-Montrond","country":"FRA","state":"CVL"},{"id":347,"name":"Saint-Antoine-du-Rocher","country":"FRA","state":"CVL"},{"id":348,"name":"Saint-Aubin-des-Bois","country":"FRA","state":"CVL"},{"id":349,"name":"Saint-Avertin","country":"FRA","state":"CVL"},{"id":350,"name":"Saint-Ay","country":"FRA","state":"CVL"},{"id":351,"name":"Saint-Beno\u00eet-sur-Loire","country":"FRA","state":"CVL"},{"id":352,"name":"Saint-Branchs","country":"FRA","state":"CVL"},{"id":353,"name":"Saint-Brisson-sur-Loire","country":"FRA","state":"CVL"},{"id":354,"name":"Saint-Christophe-sur-le-Nais","country":"FRA","state":"CVL"},{"id":355,"name":"Saint-Claude-de-Diray","country":"FRA","state":"CVL"},{"id":356,"name":"Saint-Cyr-en-Val","country":"FRA","state":"CVL"},{"id":357,"name":"Saint-Cyr-sur-Loire","country":"FRA","state":"CVL"},{"id":358,"name":"Saint-Denis-en-Val","country":"FRA","state":"CVL"},{"id":359,"name":"Saint-Denis-les-Ponts","country":"FRA","state":"CVL"},{"id":360,"name":"Saint-Doulchard","country":"FRA","state":"CVL"},{"id":361,"name":"Saint-Dy\u00e9-sur-Loire","country":"FRA","state":"CVL"},{"id":362,"name":"Saint-\u00c9loy-de-Gy","country":"FRA","state":"CVL"},{"id":363,"name":"Saint-\u00c9pain","country":"FRA","state":"CVL"},{"id":364,"name":"Saint-\u00c9tienne-de-Chigny","country":"FRA","state":"CVL"},{"id":365,"name":"Saint-Florent-sur-Cher","country":"FRA","state":"CVL"},{"id":366,"name":"Saint-Gaultier","country":"FRA","state":"CVL"},{"id":367,"name":"Saint-Georges-sur-Cher","country":"FRA","state":"CVL"},{"id":368,"name":"Saint-Georges-sur-Eure","country":"FRA","state":"CVL"},{"id":369,"name":"Saint-Germain-des-Pr\u00e9s","country":"FRA","state":"CVL"},{"id":370,"name":"Saint-Germain-du-Puy","country":"FRA","state":"CVL"},{"id":371,"name":"Saint-Gervais-la-For\u00eat","country":"FRA","state":"CVL"},{"id":372,"name":"Saint-Hilaire-Saint-Mesmin","country":"FRA","state":"CVL"},{"id":373,"name":"Saint-Jean-de-Braye","country":"FRA","state":"CVL"},{"id":374,"name":"Saint-Jean-de-la-Ruelle","country":"FRA","state":"CVL"},{"id":375,"name":"Saint-Jean-le-Blanc","country":"FRA","state":"CVL"},{"id":376,"name":"Saint-Laurent-Nouan","country":"FRA","state":"CVL"},{"id":377,"name":"Saint-Lubin-des-Joncherets","country":"FRA","state":"CVL"},{"id":378,"name":"Saint-Marcel","country":"FRA","state":"CVL"},{"id":379,"name":"Saint-Martin-d\u2019Auxigny","country":"FRA","state":"CVL"},{"id":380,"name":"Saint-Martin-de-Nigelles","country":"FRA","state":"CVL"},{"id":381,"name":"Saint-Martin-le-Beau","country":"FRA","state":"CVL"},{"id":382,"name":"Saint-Martin-sur-Ocre","country":"FRA","state":"CVL"},{"id":383,"name":"Saint-Maur","country":"FRA","state":"CVL"},{"id":384,"name":"Saint-Maurice-sur-Fessard","country":"FRA","state":"CVL"},{"id":385,"name":"Saint-Nicolas-de-Bourgueil","country":"FRA","state":"CVL"},{"id":386,"name":"Saint-Ouen","country":"FRA","state":"CVL"},{"id":387,"name":"Saint-Paterne-Racan","country":"FRA","state":"CVL"},{"id":388,"name":"Saint-P\u00e8re-sur-Loire","country":"FRA","state":"CVL"},{"id":389,"name":"Saint-Piat","country":"FRA","state":"CVL"},{"id":390,"name":"Saint-Pierre-des-Corps","country":"FRA","state":"CVL"},{"id":391,"name":"Saint-Prest","country":"FRA","state":"CVL"},{"id":392,"name":"Saint-Pryv\u00e9-Saint-Mesmin","country":"FRA","state":"CVL"},{"id":393,"name":"Saint-R\u00e9my-sur-Avre","country":"FRA","state":"CVL"},{"id":394,"name":"Saint-Romain-sur-Cher","country":"FRA","state":"CVL"},{"id":395,"name":"Saint-Satur","country":"FRA","state":"CVL"},{"id":396,"name":"Saint-Sulpice-de-Pommeray","country":"FRA","state":"CVL"},{"id":397,"name":"Saint-Vi\u00e2tre","country":"FRA","state":"CVL"},{"id":398,"name":"Sainte-Genevi\u00e8ve-des-Bois","country":"FRA","state":"CVL"},{"id":399,"name":"Sainte-Lizaigne","country":"FRA","state":"CVL"},{"id":400,"name":"Sainte-Maure-de-Touraine","country":"FRA","state":"CVL"},{"id":401,"name":"Sainte-Solange","country":"FRA","state":"CVL"},{"id":402,"name":"Salbris","country":"FRA","state":"CVL"},{"id":403,"name":"Sancerre","country":"FRA","state":"CVL"},{"id":404,"name":"Sancoins","country":"FRA","state":"CVL"},{"id":405,"name":"Sandillon","country":"FRA","state":"CVL"},{"id":406,"name":"Saran","country":"FRA","state":"CVL"},{"id":407,"name":"Sarg\u00e9-sur-Braye","country":"FRA","state":"CVL"},{"id":408,"name":"Saussay","country":"FRA","state":"CVL"},{"id":409,"name":"Savign\u00e9-sur-Lathan","country":"FRA","state":"CVL"},{"id":410,"name":"Savigny-en-Sancerre","country":"FRA","state":"CVL"},{"id":411,"name":"Savigny-en-V\u00e9ron","country":"FRA","state":"CVL"},{"id":412,"name":"Savigny-sur-Braye","country":"FRA","state":"CVL"},{"id":413,"name":"Savonni\u00e8res","country":"FRA","state":"CVL"},{"id":414,"name":"Seigy","country":"FRA","state":"CVL"},{"id":415,"name":"Selles-Saint-Denis","country":"FRA","state":"CVL"},{"id":416,"name":"Selles-sur-Cher","country":"FRA","state":"CVL"},{"id":417,"name":"Semblan\u00e7ay","country":"FRA","state":"CVL"},{"id":418,"name":"Semoy","country":"FRA","state":"CVL"},{"id":419,"name":"Senonches","country":"FRA","state":"CVL"},{"id":420,"name":"Sermaises","country":"FRA","state":"CVL"},{"id":421,"name":"Soings-en-Sologne","country":"FRA","state":"CVL"},{"id":422,"name":"Sonzay","country":"FRA","state":"CVL"},{"id":423,"name":"Sorel-Moussel","country":"FRA","state":"CVL"},{"id":424,"name":"Sorigny","country":"FRA","state":"CVL"},{"id":425,"name":"Souesmes","country":"FRA","state":"CVL"},{"id":426,"name":"Sours","country":"FRA","state":"CVL"},{"id":427,"name":"Su\u00e8vres","country":"FRA","state":"CVL"},{"id":428,"name":"Sully-sur-Loire","country":"FRA","state":"CVL"},{"id":429,"name":"Tauxigny","country":"FRA","state":"CVL"},{"id":430,"name":"Tavers","country":"FRA","state":"CVL"},{"id":431,"name":"Theillay","country":"FRA","state":"CVL"},{"id":432,"name":"Th\u00e9s\u00e9e","country":"FRA","state":"CVL"},{"id":433,"name":"Thilouze","country":"FRA","state":"CVL"},{"id":434,"name":"Thiron Gardais","country":"FRA","state":"CVL"},{"id":435,"name":"Tigy","country":"FRA","state":"CVL"},{"id":436,"name":"Tournon-Saint-Martin","country":"FRA","state":"CVL"},{"id":437,"name":"Tours","country":"FRA","state":"CVL"},{"id":438,"name":"Toury","country":"FRA","state":"CVL"},{"id":439,"name":"Tra\u00eenou","country":"FRA","state":"CVL"},{"id":440,"name":"Tr\u00e9on","country":"FRA","state":"CVL"},{"id":441,"name":"Trigu\u00e8res","country":"FRA","state":"CVL"},{"id":442,"name":"Trouy","country":"FRA","state":"CVL"},{"id":443,"name":"Truyes","country":"FRA","state":"CVL"},{"id":444,"name":"Unverre","country":"FRA","state":"CVL"},{"id":445,"name":"Valen\u00e7ay","country":"FRA","state":"CVL"},{"id":446,"name":"Vasselay","country":"FRA","state":"CVL"},{"id":447,"name":"Vatan","country":"FRA","state":"CVL"},{"id":448,"name":"Veign\u00e9","country":"FRA","state":"CVL"},{"id":449,"name":"Vend\u0153uvres","country":"FRA","state":"CVL"},{"id":450,"name":"Vend\u00f4me","country":"FRA","state":"CVL"},{"id":451,"name":"Vennecy","country":"FRA","state":"CVL"},{"id":452,"name":"V\u00e9retz","country":"FRA","state":"CVL"},{"id":453,"name":"Vernou-sur-Brenne","country":"FRA","state":"CVL"},{"id":454,"name":"Vernouillet","country":"FRA","state":"CVL"},{"id":455,"name":"Vert-en-Drouais","country":"FRA","state":"CVL"},{"id":456,"name":"Vienne-en-Val","country":"FRA","state":"CVL"},{"id":457,"name":"Vierzon","country":"FRA","state":"CVL"},{"id":458,"name":"Vignoux-sur-Barangeon","country":"FRA","state":"CVL"},{"id":459,"name":"Villandry","country":"FRA","state":"CVL"},{"id":460,"name":"Villebarou","country":"FRA","state":"CVL"},{"id":461,"name":"Villedieu-sur-Indre","country":"FRA","state":"CVL"},{"id":462,"name":"Villed\u00f4mer","country":"FRA","state":"CVL"},{"id":463,"name":"Villefranche-sur-Cher","country":"FRA","state":"CVL"},{"id":464,"name":"Villemandeur","country":"FRA","state":"CVL"},{"id":465,"name":"Villemeux-sur-Eure","country":"FRA","state":"CVL"},{"id":466,"name":"Villiers-le-Morhier","country":"FRA","state":"CVL"},{"id":467,"name":"Villiers-sur-Loir","country":"FRA","state":"CVL"},{"id":468,"name":"Vimory","country":"FRA","state":"CVL"},{"id":469,"name":"Vineuil","country":"FRA","state":"CVL"},{"id":470,"name":"Vitry-aux-Loges","country":"FRA","state":"CVL"},{"id":471,"name":"Vouvray","country":"FRA","state":"CVL"},{"id":472,"name":"Vouzon","country":"FRA","state":"CVL"},{"id":473,"name":"Voves","country":"FRA","state":"CVL"},{"id":474,"name":"Y\u00e8vres","country":"FRA","state":"CVL"},{"id":475,"name":"Yzeures-sur-Creuse","country":"FRA","state":"CVL"}]
+[
+    {
+        "id": 39237,
+        "name": "Abilly",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39244,
+        "name": "Abondant",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39279,
+        "name": "Aigurande",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39351,
+        "name": "Ambillou",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39355,
+        "name": "Amboise",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39365,
+        "name": "Amilly",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39394,
+        "name": "Anet",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39467,
+        "name": "Ardentes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39478,
+        "name": "Argent-sur-Sauldre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39483,
+        "name": "Argenton-sur-Creuse",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39492,
+        "name": "Armenonville-les-Gâtineaux",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39512,
+        "name": "Arrou",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39518,
+        "name": "Artannes-sur-Indre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39521,
+        "name": "Artenay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39524,
+        "name": "Arthon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39541,
+        "name": "Aschères-le-Marché",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39559,
+        "name": "Athée-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39582,
+        "name": "Aubigny-sur-Nère",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39618,
+        "name": "Aunay-sous-Auneau",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39620,
+        "name": "Auneau",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39636,
+        "name": "Authon-du-Perche",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39638,
+        "name": "Autry-le-Châtel",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39654,
+        "name": "Auzouer-en-Touraine",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39675,
+        "name": "Avoine",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39677,
+        "name": "Avord",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39693,
+        "name": "Azay-le-Ferron",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39694,
+        "name": "Azay-le-Rideau",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39695,
+        "name": "Azay-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39698,
+        "name": "Azé",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39723,
+        "name": "Bailleau-l’Évêque",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39722,
+        "name": "Bailleau-le-Pin",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39752,
+        "name": "Ballan-Miré",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39786,
+        "name": "Barjouville",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39809,
+        "name": "Baugy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39811,
+        "name": "Baule",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39832,
+        "name": "Bazoches-les-Gallerandes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39848,
+        "name": "Beaugency",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39851,
+        "name": "Beaulieu-lès-Loches",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39867,
+        "name": "Beaumont-en-Véron",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39868,
+        "name": "Beaumont-la-Ronce",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39875,
+        "name": "Beaune-la-Rolande",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40422,
+        "name": "Bélâbre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39912,
+        "name": "Bellegarde",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 39924,
+        "name": "Belleville-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40435,
+        "name": "Béville-le-Comte",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40053,
+        "name": "Blancafort",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40076,
+        "name": "Bléré",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40069,
+        "name": "Blois",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40083,
+        "name": "Boigny-sur-Bionne",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40091,
+        "name": "Boiscommun",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40124,
+        "name": "Bonneval",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40129,
+        "name": "Bonny-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40170,
+        "name": "Boulleret",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40199,
+        "name": "Bourges",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40206,
+        "name": "Bourgueil",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40237,
+        "name": "Bouzy-la-Forêt",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40241,
+        "name": "Boynes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40247,
+        "name": "Bracieux",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40267,
+        "name": "Bray-en-Val",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40299,
+        "name": "Brezolles",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40301,
+        "name": "Briare",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40304,
+        "name": "Bricy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40317,
+        "name": "Brinon-sur-Sauldre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40334,
+        "name": "Brou",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40438,
+        "name": "Bû",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40406,
+        "name": "Buzançais",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40508,
+        "name": "Candé-sur-Beuvron",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40511,
+        "name": "Cangey",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40635,
+        "name": "Cellettes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40640,
+        "name": "Cepoy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40643,
+        "name": "Cerdon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40644,
+        "name": "Cerelles",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40672,
+        "name": "Chabris",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40676,
+        "name": "Chaillac",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40678,
+        "name": "Chailles",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40683,
+        "name": "Chaingy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40932,
+        "name": "Châlette-sur-Loing",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40710,
+        "name": "Chambourg-sur-Indre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40711,
+        "name": "Chambray-lès-Tours",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40737,
+        "name": "Champhol",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40757,
+        "name": "Chanceaux-sur-Choisille",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40762,
+        "name": "Changy-les-Bois",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40767,
+        "name": "Chanteau",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40778,
+        "name": "Chantôme",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40796,
+        "name": "Charentilly",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40797,
+        "name": "Charenton-du-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40799,
+        "name": "Chargé",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40936,
+        "name": "Chârost",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40819,
+        "name": "Chartres",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40949,
+        "name": "Château-la-Vallière",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40943,
+        "name": "Château-Renard",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40944,
+        "name": "Château-Renault",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40953,
+        "name": "Châteaudun",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40958,
+        "name": "Châteaumeillant",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40967,
+        "name": "Châteauneuf-en-Thymerais",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40972,
+        "name": "Châteauneuf-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40974,
+        "name": "Châteauneuf-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40978,
+        "name": "Châteauroux",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40993,
+        "name": "Châtillon-Coligny",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41000,
+        "name": "Châtillon-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41002,
+        "name": "Châtillon-sur-Indre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41008,
+        "name": "Châtres-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40837,
+        "name": "Chaudon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40845,
+        "name": "Chaumont-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40846,
+        "name": "Chaumont-sur-Tharonne",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41010,
+        "name": "Chécy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40868,
+        "name": "Cheillé",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40880,
+        "name": "Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40882,
+        "name": "Cherisy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40895,
+        "name": "Cheverny",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40898,
+        "name": "Chevillon-sur-Huillard",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40899,
+        "name": "Chevilly",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40907,
+        "name": "Chilleurs-aux-Bois",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40912,
+        "name": "Chinon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40916,
+        "name": "Chissay-en-Touraine",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40917,
+        "name": "Chitenay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40928,
+        "name": "Chouzé-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 40927,
+        "name": "Chouzy-sur-Cisse",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41021,
+        "name": "Cinq-Mars-la-Pile",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41032,
+        "name": "Civray-de-Touraine",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41075,
+        "name": "Cléré-les-Pins",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41074,
+        "name": "Cléry-Saint-André",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41055,
+        "name": "Clion",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41061,
+        "name": "Cloyes-sur-le-Loir",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41062,
+        "name": "Cluis",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41156,
+        "name": "Contres",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41165,
+        "name": "Corbeilles",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41182,
+        "name": "Cormeray",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41183,
+        "name": "Cormery",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41201,
+        "name": "Corquilleroy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41231,
+        "name": "Coullons",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41234,
+        "name": "Coulombs",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41240,
+        "name": "Cour-Cheverny",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41263,
+        "name": "Cours-les-Barres",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41268,
+        "name": "Courtenay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41272,
+        "name": "Courville-sur-Eure",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41361,
+        "name": "Cuffy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41403,
+        "name": "Dadonville",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41414,
+        "name": "Dammarie",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41419,
+        "name": "Dampierre-en-Burly",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41437,
+        "name": "Darvoy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41602,
+        "name": "Déols",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41603,
+        "name": "Département d'Eure-et-Loir",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41605,
+        "name": "Département d'Indre-et-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41619,
+        "name": "Département de l'Indre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41641,
+        "name": "Département du Loir-et-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41455,
+        "name": "Descartes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41464,
+        "name": "Dhuizon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41533,
+        "name": "Donnery",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41538,
+        "name": "Dordives",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41548,
+        "name": "Douchy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41574,
+        "name": "Dreux",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41577,
+        "name": "Droué",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41576,
+        "name": "Droue-sur-Drouette",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41582,
+        "name": "Dry",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41590,
+        "name": "Dun-sur-Auron",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 48053,
+        "name": "Écueillé",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 48062,
+        "name": "Éguzon-Chantôme",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 48074,
+        "name": "Épernon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 48076,
+        "name": "Épieds-en-Beauce",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41739,
+        "name": "Esvres",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41785,
+        "name": "Faverolles-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41787,
+        "name": "Fay-aux-Loges",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42006,
+        "name": "Férolles",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41849,
+        "name": "Fleury-les-Aubrais",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41941,
+        "name": "Foëcy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41873,
+        "name": "Fondettes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41879,
+        "name": "Fontaine-la-Guyon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41903,
+        "name": "Fontenay-sur-Loing",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 41995,
+        "name": "Fussy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42021,
+        "name": "Gallardon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42046,
+        "name": "Garnay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42051,
+        "name": "Gasville-Oisème",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42065,
+        "name": "Genillé",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42087,
+        "name": "Gidy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42088,
+        "name": "Gien",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42112,
+        "name": "Gièvres",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42194,
+        "name": "Graçay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42322,
+        "name": "Hanches",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42369,
+        "name": "Henrichemont",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42371,
+        "name": "Herbault",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42384,
+        "name": "Herry",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42437,
+        "name": "Huismes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42438,
+        "name": "Huisseau-sur-Cosson",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42439,
+        "name": "Huisseau-sur-Mauves",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42489,
+        "name": "Ingré",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42507,
+        "name": "Issoudun",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42527,
+        "name": "Janville",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42532,
+        "name": "Jargeau",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42579,
+        "name": "Joué-lès-Tours",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42568,
+        "name": "Jouet-sur-l'Aubois",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42572,
+        "name": "Jouy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42577,
+        "name": "Jouy-le-Potier",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42628,
+        "name": "L'Île-Bouchard",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42638,
+        "name": "La Bazoche-Gouet",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42671,
+        "name": "La Celle-Saint-Avant",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42696,
+        "name": "La Chapelle-du-Noyer",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42688,
+        "name": "La Chapelle-Saint-Mesmin",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42689,
+        "name": "La Chapelle-Saint-Ursin",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42701,
+        "name": "La Chapelle-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42707,
+        "name": "La Châtre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42704,
+        "name": "La Chaussée-Saint-Victor",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42724,
+        "name": "La Croix-en-Touraine",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42739,
+        "name": "La Ferté-Imbault",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42742,
+        "name": "La Ferté-Saint-Aubin",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42795,
+        "name": "La Loupe",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42804,
+        "name": "La Membrolle-sur-Choisille",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42847,
+        "name": "La Riche",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42912,
+        "name": "La Ville-aux-Clercs",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42913,
+        "name": "La Ville-aux-Dames",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42952,
+        "name": "Ladon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42969,
+        "name": "Lailly-en-Val",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 42992,
+        "name": "Lamotte-Beuvron",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43022,
+        "name": "Langeais",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43083,
+        "name": "Larçay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43130,
+        "name": "Le Blanc",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43168,
+        "name": "Le Châtelet",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43172,
+        "name": "Le Coudray",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43198,
+        "name": "Le Grand-Pressigny",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43289,
+        "name": "Le Pêchereau",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43271,
+        "name": "Le Poinçonnet",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43691,
+        "name": "Léré",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43358,
+        "name": "Les Aix-d’Angillon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43410,
+        "name": "Les Montils",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43680,
+        "name": "Lèves",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43451,
+        "name": "Levet",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43453,
+        "name": "Levroux",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43476,
+        "name": "Lignières",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43480,
+        "name": "Ligny-le-Ribault",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43482,
+        "name": "Ligré",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43483,
+        "name": "Ligueil",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43527,
+        "name": "Loches",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43542,
+        "name": "Loiret",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43595,
+        "name": "Lorris",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43610,
+        "name": "Loury",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43627,
+        "name": "Luant",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43675,
+        "name": "Luçay-le-Mâle",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43638,
+        "name": "Lucé",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43644,
+        "name": "Luisant",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43651,
+        "name": "Lunay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43655,
+        "name": "Lunery",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43657,
+        "name": "Luray",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43669,
+        "name": "Luynes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43739,
+        "name": "Maintenon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43740,
+        "name": "Mainvilliers",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43756,
+        "name": "Malesherbes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43786,
+        "name": "Manthelan",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43794,
+        "name": "Marboué",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43805,
+        "name": "Marcilly-en-Villette",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43818,
+        "name": "Mardié",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43819,
+        "name": "Mareau-aux-Prés",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43829,
+        "name": "Mareuil-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43836,
+        "name": "Margon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43843,
+        "name": "Marigny-les-Usages",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43858,
+        "name": "Marmagne",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43920,
+        "name": "Martizay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43931,
+        "name": "Massay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43976,
+        "name": "Mazières-de-Touraine",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 43985,
+        "name": "Mehun-sur-Yèvre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44464,
+        "name": "Ménestreau-en-Villette",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44000,
+        "name": "Menetou-Salon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44009,
+        "name": "Mer",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44469,
+        "name": "Méreau",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44039,
+        "name": "Mettray",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44047,
+        "name": "Meung-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44488,
+        "name": "Mézières-en-Brenne",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44489,
+        "name": "Mézières-en-Drouais",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44138,
+        "name": "Mondoubleau",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44144,
+        "name": "Monnaie",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44162,
+        "name": "Mont-près-Chambord",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44179,
+        "name": "Montargis",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44193,
+        "name": "Montbazon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44211,
+        "name": "Montcresson",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44248,
+        "name": "Montgivray",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44254,
+        "name": "Montierchaume",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44274,
+        "name": "Montlivault",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44275,
+        "name": "Montlouis-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44293,
+        "name": "Montoire-sur-le-Loir",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44317,
+        "name": "Montrichard",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44327,
+        "name": "Monts",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44339,
+        "name": "Morancez",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44379,
+        "name": "Morée",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44431,
+        "name": "Muides-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44438,
+        "name": "Mur-de-Sologne",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44515,
+        "name": "Nargis",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44522,
+        "name": "Naveil",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44526,
+        "name": "Nazelles-Négron",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44696,
+        "name": "Nérondes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44554,
+        "name": "Neuillé-Pont-Pierre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44557,
+        "name": "Neung-sur-Beuvron",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44565,
+        "name": "Neuville-aux-Bois",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44578,
+        "name": "Neuvy-le-Roi",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44575,
+        "name": "Neuvy-Pailloux",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44576,
+        "name": "Neuvy-Saint-Sépulchre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44579,
+        "name": "Neuvy-sur-Barangeon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44584,
+        "name": "Nevoy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44599,
+        "name": "Niherne",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44611,
+        "name": "Nogent-le-Phaye",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44612,
+        "name": "Nogent-le-Roi",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44613,
+        "name": "Nogent-le-Rotrou",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44618,
+        "name": "Nogent-sur-Vernisson",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44632,
+        "name": "Noizay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44658,
+        "name": "Nouan-le-Fuzelier",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44663,
+        "name": "Nouzilly",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44679,
+        "name": "Noyers-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44733,
+        "name": "Olivet",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44746,
+        "name": "Onzain",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44767,
+        "name": "Orgères-en-Beauce",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44774,
+        "name": "Orléans",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44776,
+        "name": "Ormes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44787,
+        "name": "Orval",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44802,
+        "name": "Oucques",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44806,
+        "name": "Oulins",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44812,
+        "name": "Outarville",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44815,
+        "name": "Ouzouer-le-Marché",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44816,
+        "name": "Ouzouer-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44817,
+        "name": "Ouzouer-sur-Trézée",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44844,
+        "name": "Pannes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44860,
+        "name": "Parçay-Meslay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44866,
+        "name": "Patay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44907,
+        "name": "Perrusson",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44962,
+        "name": "Pierres",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44984,
+        "name": "Pithiviers",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44985,
+        "name": "Pithiviers-le-Vieil",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 44989,
+        "name": "Plaimpied-Givaudins",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45131,
+        "name": "Pocé-sur-Cisse",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45134,
+        "name": "Poilly-lez-Gien",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45212,
+        "name": "Pontlevoy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45261,
+        "name": "Pouligny-Saint-Pierre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45284,
+        "name": "Preuilly-sur-Claise",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45301,
+        "name": "Pruniers-en-Sologne",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45320,
+        "name": "Puiseaux",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45385,
+        "name": "Quiers-sur-Bézonde",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45440,
+        "name": "Rebréchien",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45447,
+        "name": "Reignac-sur-Indre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45465,
+        "name": "Restigné",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45472,
+        "name": "Reugny",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45473,
+        "name": "Reuilly",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45487,
+        "name": "Rians",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45496,
+        "name": "Richelieu",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45543,
+        "name": "Rochecorbon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45582,
+        "name": "Romorantin-Lanthenay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45644,
+        "name": "Rouziers-de-Touraine",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45706,
+        "name": "Saché",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45732,
+        "name": "Saint-Aignan",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45741,
+        "name": "Saint-Amand-Longpré",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45742,
+        "name": "Saint-Amand-Montrond",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45772,
+        "name": "Saint-Antoine-du-Rocher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45783,
+        "name": "Saint-Aubin-des-Bois",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45797,
+        "name": "Saint-Avertin",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45800,
+        "name": "Saint-Ay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45812,
+        "name": "Saint-Benoît-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45821,
+        "name": "Saint-Branchs",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45832,
+        "name": "Saint-Brisson-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45859,
+        "name": "Saint-Christophe-sur-le-Nais",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45867,
+        "name": "Saint-Claude-de-Diray",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45884,
+        "name": "Saint-Cyr-en-Val",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45887,
+        "name": "Saint-Cyr-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45900,
+        "name": "Saint-Denis-en-Val",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45902,
+        "name": "Saint-Denis-les-Ponts",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45917,
+        "name": "Saint-Doulchard",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45919,
+        "name": "Saint-Dyé-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46637,
+        "name": "Saint-Éloy-de-Gy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46640,
+        "name": "Saint-Épain",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46644,
+        "name": "Saint-Étienne-de-Chigny",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45936,
+        "name": "Saint-Florent-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45952,
+        "name": "Saint-Gaultier",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45989,
+        "name": "Saint-Georges-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 45990,
+        "name": "Saint-Georges-sur-Eure",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46008,
+        "name": "Saint-Germain-des-Prés",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46013,
+        "name": "Saint-Germain-du-Puy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46028,
+        "name": "Saint-Gervais-la-Forêt",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46053,
+        "name": "Saint-Hilaire-Saint-Mesmin",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46089,
+        "name": "Saint-Jean-de-Braye",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46105,
+        "name": "Saint-Jean-de-la-Ruelle",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46116,
+        "name": "Saint-Jean-le-Blanc",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46174,
+        "name": "Saint-Laurent-Nouan",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46202,
+        "name": "Saint-Lubin-des-Joncherets",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46244,
+        "name": "Saint-Marcel",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46294,
+        "name": "Saint-Martin-d’Auxigny",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46275,
+        "name": "Saint-Martin-de-Nigelles",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46300,
+        "name": "Saint-Martin-le-Beau",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46303,
+        "name": "Saint-Martin-sur-Ocre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46309,
+        "name": "Saint-Maur",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46320,
+        "name": "Saint-Maurice-sur-Fessard",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46363,
+        "name": "Saint-Nicolas-de-Bourgueil",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46377,
+        "name": "Saint-Ouen",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46399,
+        "name": "Saint-Paterne-Racan",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46479,
+        "name": "Saint-Père-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46427,
+        "name": "Saint-Piat",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46435,
+        "name": "Saint-Pierre-des-Corps",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46463,
+        "name": "Saint-Prest",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46475,
+        "name": "Saint-Pryvé-Saint-Mesmin",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46515,
+        "name": "Saint-Rémy-sur-Avre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46506,
+        "name": "Saint-Romain-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46518,
+        "name": "Saint-Satur",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46562,
+        "name": "Saint-Sulpice-de-Pommeray",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46622,
+        "name": "Saint-Viâtre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46692,
+        "name": "Sainte-Geneviève-des-Bois",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46702,
+        "name": "Sainte-Lizaigne",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46717,
+        "name": "Sainte-Maure-de-Touraine",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46727,
+        "name": "Sainte-Solange",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46743,
+        "name": "Salbris",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46781,
+        "name": "Sancerre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46783,
+        "name": "Sancoins",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46786,
+        "name": "Sandillon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46801,
+        "name": "Saran",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46806,
+        "name": "Sargé-sur-Braye",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46855,
+        "name": "Saussay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46885,
+        "name": "Savigné-sur-Lathan",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46878,
+        "name": "Savigny-en-Sancerre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46879,
+        "name": "Savigny-en-Véron",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46882,
+        "name": "Savigny-sur-Braye",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46887,
+        "name": "Savonnières",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46920,
+        "name": "Seigy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46930,
+        "name": "Selles-Saint-Denis",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46931,
+        "name": "Selles-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46936,
+        "name": "Semblançay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46937,
+        "name": "Semoy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46943,
+        "name": "Senonches",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 46956,
+        "name": "Sermaises",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47017,
+        "name": "Soings-en-Sologne",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47041,
+        "name": "Sonzay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47044,
+        "name": "Sorel-Moussel",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47047,
+        "name": "Sorigny",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47064,
+        "name": "Souesmes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47085,
+        "name": "Sours",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47128,
+        "name": "Suèvres",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47114,
+        "name": "Sully-sur-Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47189,
+        "name": "Tauxigny",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47193,
+        "name": "Tavers",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47220,
+        "name": "Theillay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47272,
+        "name": "Thésée",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47235,
+        "name": "Thilouze",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47237,
+        "name": "Thiron Gardais",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47281,
+        "name": "Tigy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47327,
+        "name": "Tournon-Saint-Martin",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47333,
+        "name": "Tours",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47339,
+        "name": "Toury",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47350,
+        "name": "Traînou",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47405,
+        "name": "Tréon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47374,
+        "name": "Triguères",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47384,
+        "name": "Trouy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47388,
+        "name": "Truyes",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47428,
+        "name": "Unverre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47479,
+        "name": "Valençay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47525,
+        "name": "Vasselay",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47527,
+        "name": "Vatan",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47555,
+        "name": "Veigné",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47579,
+        "name": "Vendœuvres",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47578,
+        "name": "Vendôme",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47585,
+        "name": "Vennecy",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47928,
+        "name": "Véretz",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47622,
+        "name": "Vernou-sur-Brenne",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47624,
+        "name": "Vernouillet",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47636,
+        "name": "Vert-en-Drouais",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47684,
+        "name": "Vienne-en-Val",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47685,
+        "name": "Vierzon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47700,
+        "name": "Vignoux-sur-Barangeon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47708,
+        "name": "Villandry",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47721,
+        "name": "Villebarou",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47731,
+        "name": "Villedieu-sur-Indre",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47732,
+        "name": "Villedômer",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47739,
+        "name": "Villefranche-sur-Cher",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47749,
+        "name": "Villemandeur",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47750,
+        "name": "Villemeux-sur-Eure",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47831,
+        "name": "Villiers-le-Morhier",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47832,
+        "name": "Villiers-sur-Loir",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47839,
+        "name": "Vimory",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47846,
+        "name": "Vineuil",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47871,
+        "name": "Vitry-aux-Loges",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47915,
+        "name": "Vouvray",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47917,
+        "name": "Vouzon",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 47918,
+        "name": "Voves",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 48023,
+        "name": "Yèvres",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 48022,
+        "name": "Yzeures-sur-Creuse",
+        "country": "FRA",
+        "state": "CVL"
+    }
+]

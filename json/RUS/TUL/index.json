@@ -1,1 +1,386 @@
-[{"id":0,"name":"Ageyevo","country":"RUS","state":"TUL"},{"id":1,"name":"Aleksin","country":"RUS","state":"TUL"},{"id":2,"name":"Aleksinskiy Rayon","country":"RUS","state":"TUL"},{"id":3,"name":"Arsen\u2019yevo","country":"RUS","state":"TUL"},{"id":4,"name":"Barsuki","country":"RUS","state":"TUL"},{"id":5,"name":"Begichevskiy","country":"RUS","state":"TUL"},{"id":6,"name":"Bel\u00ebv","country":"RUS","state":"TUL"},{"id":7,"name":"Bogoroditsk","country":"RUS","state":"TUL"},{"id":8,"name":"Bol\u2019shoye Skuratovo","country":"RUS","state":"TUL"},{"id":9,"name":"Bolokhovo","country":"RUS","state":"TUL"},{"id":10,"name":"Borodinskiy","country":"RUS","state":"TUL"},{"id":11,"name":"Brusyanka","country":"RUS","state":"TUL"},{"id":12,"name":"Chekalin","country":"RUS","state":"TUL"},{"id":13,"name":"Cherepet\u2019","country":"RUS","state":"TUL"},{"id":14,"name":"Chern\u2019","country":"RUS","state":"TUL"},{"id":15,"name":"Donskoy","country":"RUS","state":"TUL"},{"id":16,"name":"Dubna","country":"RUS","state":"TUL"},{"id":17,"name":"Dubovka","country":"RUS","state":"TUL"},{"id":18,"name":"Gorelki","country":"RUS","state":"TUL"},{"id":19,"name":"Gritsovskiy","country":"RUS","state":"TUL"},{"id":20,"name":"Kamenetskiy","country":"RUS","state":"TUL"},{"id":21,"name":"Kazachka","country":"RUS","state":"TUL"},{"id":22,"name":"Khanino","country":"RUS","state":"TUL"},{"id":23,"name":"Kimovsk","country":"RUS","state":"TUL"},{"id":24,"name":"Kireyevsk","country":"RUS","state":"TUL"},{"id":25,"name":"Kosaya Gora","country":"RUS","state":"TUL"},{"id":26,"name":"Krapivna","country":"RUS","state":"TUL"},{"id":27,"name":"Kurkino","country":"RUS","state":"TUL"},{"id":28,"name":"Leninskiy","country":"RUS","state":"TUL"},{"id":29,"name":"Lomintsevskiy","country":"RUS","state":"TUL"},{"id":30,"name":"Mayskiy","country":"RUS","state":"TUL"},{"id":31,"name":"Mendeleyevskiy","country":"RUS","state":"TUL"},{"id":32,"name":"Novogurovskiy","country":"RUS","state":"TUL"},{"id":33,"name":"Novomoskovsk","country":"RUS","state":"TUL"},{"id":34,"name":"Odoyev","country":"RUS","state":"TUL"},{"id":35,"name":"Partizan","country":"RUS","state":"TUL"},{"id":36,"name":"Pervomayskiy","country":"RUS","state":"TUL"},{"id":37,"name":"Plavsk","country":"RUS","state":"TUL"},{"id":38,"name":"Podlesnyy","country":"RUS","state":"TUL"},{"id":39,"name":"Priupskiy","country":"RUS","state":"TUL"},{"id":40,"name":"Revyakino","country":"RUS","state":"TUL"},{"id":41,"name":"Rozhdestvenskiy","country":"RUS","state":"TUL"},{"id":42,"name":"Severo-Zadonsk","country":"RUS","state":"TUL"},{"id":43,"name":"Shch\u00ebkino","country":"RUS","state":"TUL"},{"id":44,"name":"Shvartsevskiy","country":"RUS","state":"TUL"},{"id":45,"name":"Skuratovskiy","country":"RUS","state":"TUL"},{"id":46,"name":"Slavniy","country":"RUS","state":"TUL"},{"id":47,"name":"Suvorov","country":"RUS","state":"TUL"},{"id":48,"name":"Suvorovskiy Rayon","country":"RUS","state":"TUL"},{"id":49,"name":"T\u00ebplo-Ogar\u00ebvskiy Rayon","country":"RUS","state":"TUL"},{"id":50,"name":"T\u00ebploye","country":"RUS","state":"TUL"},{"id":51,"name":"Tovarkovskiy","country":"RUS","state":"TUL"},{"id":52,"name":"Tula","country":"RUS","state":"TUL"},{"id":53,"name":"Uzlovaya","country":"RUS","state":"TUL"},{"id":54,"name":"Ven\u00ebv","country":"RUS","state":"TUL"},{"id":55,"name":"Venevskiy Rayon","country":"RUS","state":"TUL"},{"id":56,"name":"Volovo","country":"RUS","state":"TUL"},{"id":57,"name":"Yasnogorsk","country":"RUS","state":"TUL"},{"id":58,"name":"Yasnogorskiy Rayon","country":"RUS","state":"TUL"},{"id":59,"name":"Yefremov","country":"RUS","state":"TUL"},{"id":60,"name":"Yepifan\u2019","country":"RUS","state":"TUL"},{"id":61,"name":"Zaokskiy","country":"RUS","state":"TUL"},{"id":62,"name":"Zaokskiy Rayon","country":"RUS","state":"TUL"},{"id":63,"name":"Zhdankovskiy","country":"RUS","state":"TUL"}]
+[
+    {
+        "id": 97515,
+        "name": "Ageyevo",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 97583,
+        "name": "Aleksin",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 97584,
+        "name": "Aleksinskiy Rayon",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 97679,
+        "name": "Arsen’yevo",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 97798,
+        "name": "Barsuki",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 97834,
+        "name": "Begichevskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 97884,
+        "name": "Belëv",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 97967,
+        "name": "Bogoroditsk",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98017,
+        "name": "Bol’shoye Skuratovo",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 97996,
+        "name": "Bolokhovo",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98031,
+        "name": "Borodinskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98059,
+        "name": "Brusyanka",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98134,
+        "name": "Chekalin",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98155,
+        "name": "Cherepet’",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98183,
+        "name": "Chern’",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98312,
+        "name": "Donskoy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98338,
+        "name": "Dubna",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98339,
+        "name": "Dubovka",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98522,
+        "name": "Gorelki",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98591,
+        "name": "Gritsovskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98808,
+        "name": "Kamenetskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98924,
+        "name": "Kazachka",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 98959,
+        "name": "Khanino",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 99042,
+        "name": "Kimovsk",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 99053,
+        "name": "Kireyevsk",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 99225,
+        "name": "Kosaya Gora",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 99273,
+        "name": "Krapivna",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 99465,
+        "name": "Kurkino",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 99571,
+        "name": "Leninskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 99656,
+        "name": "Lomintsevskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 99830,
+        "name": "Mayskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 99864,
+        "name": "Mendeleyevskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 100245,
+        "name": "Novogurovskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 100269,
+        "name": "Novomoskovsk",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 100400,
+        "name": "Odoyev",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 100554,
+        "name": "Partizan",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 100617,
+        "name": "Pervomayskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 100699,
+        "name": "Plavsk",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 100722,
+        "name": "Podlesnyy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 100843,
+        "name": "Priupskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 100970,
+        "name": "Revyakino",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 101016,
+        "name": "Rozhdestvenskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 101215,
+        "name": "Severo-Zadonsk",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 101280,
+        "name": "Shchëkino",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 101364,
+        "name": "Shvartsevskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 101394,
+        "name": "Skuratovskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 101401,
+        "name": "Slavniy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 101687,
+        "name": "Suvorov",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 101689,
+        "name": "Suvorovskiy Rayon",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102010,
+        "name": "Tëplo-Ogarëvskiy Rayon",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102011,
+        "name": "Tëploye",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 101909,
+        "name": "Tovarkovskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 101966,
+        "name": "Tula",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102166,
+        "name": "Uzlovaya",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102226,
+        "name": "Venëv",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102223,
+        "name": "Venevskiy Rayon",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102366,
+        "name": "Volovo",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102513,
+        "name": "Yasnogorsk",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102514,
+        "name": "Yasnogorskiy Rayon",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102523,
+        "name": "Yefremov",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102563,
+        "name": "Yepifan’",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102643,
+        "name": "Zaokskiy",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102644,
+        "name": "Zaokskiy Rayon",
+        "country": "RUS",
+        "state": "TUL"
+    },
+    {
+        "id": 102716,
+        "name": "Zhdankovskiy",
+        "country": "RUS",
+        "state": "TUL"
+    }
+]

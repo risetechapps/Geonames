@@ -1,1 +1,50 @@
-[{"id":0,"name":"Ab\u016b Ghaush","country":"ISR","state":"JM"},{"id":1,"name":"Bet Shemesh","country":"ISR","state":"JM"},{"id":2,"name":"Har Adar","country":"ISR","state":"JM"},{"id":3,"name":"Jerusalem","country":"ISR","state":"JM"},{"id":4,"name":"Mevasseret \u1e94iyyon","country":"ISR","state":"JM"},{"id":5,"name":"Modiin Ilit","country":"ISR","state":"JM"},{"id":6,"name":"West Jerusalem","country":"ISR","state":"JM"},{"id":7,"name":"\u1e94ur Hadassa","country":"ISR","state":"JM"}]
+[
+    {
+        "id": 57434,
+        "name": "Abū Ghaush",
+        "country": "ISR",
+        "state": "JM"
+    },
+    {
+        "id": 57447,
+        "name": "Bet Shemesh",
+        "country": "ISR",
+        "state": "JM"
+    },
+    {
+        "id": 57475,
+        "name": "Har Adar",
+        "country": "ISR",
+        "state": "JM"
+    },
+    {
+        "id": 57484,
+        "name": "Jerusalem",
+        "country": "ISR",
+        "state": "JM"
+    },
+    {
+        "id": 57509,
+        "name": "Mevasseret Ẕiyyon",
+        "country": "ISR",
+        "state": "JM"
+    },
+    {
+        "id": 57514,
+        "name": "Modiin Ilit",
+        "country": "ISR",
+        "state": "JM"
+    },
+    {
+        "id": 57571,
+        "name": "West Jerusalem",
+        "country": "ISR",
+        "state": "JM"
+    },
+    {
+        "id": 57579,
+        "name": "Ẕur Hadassa",
+        "country": "ISR",
+        "state": "JM"
+    }
+]

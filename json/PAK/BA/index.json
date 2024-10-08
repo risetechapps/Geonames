@@ -1,1 +1,344 @@
-[{"id":0,"name":"Alik Ghund","country":"PAK","state":"BA"},{"id":1,"name":"Aw\u0101r\u0101n District","country":"PAK","state":"BA"},{"id":2,"name":"Barkhan","country":"PAK","state":"BA"},{"id":3,"name":"B\u0101rkh\u0101n District","country":"PAK","state":"BA"},{"id":4,"name":"Bela","country":"PAK","state":"BA"},{"id":5,"name":"Bhag","country":"PAK","state":"BA"},{"id":6,"name":"Ch\u0101gai District","country":"PAK","state":"BA"},{"id":7,"name":"Chaman","country":"PAK","state":"BA"},{"id":8,"name":"Chowki Jamali","country":"PAK","state":"BA"},{"id":9,"name":"Dadhar","country":"PAK","state":"BA"},{"id":10,"name":"Dalbandin","country":"PAK","state":"BA"},{"id":11,"name":"Dera Bugti","country":"PAK","state":"BA"},{"id":12,"name":"Dera Bugti District","country":"PAK","state":"BA"},{"id":13,"name":"Duki","country":"PAK","state":"BA"},{"id":14,"name":"Gadani","country":"PAK","state":"BA"},{"id":15,"name":"Garhi Khairo","country":"PAK","state":"BA"},{"id":16,"name":"Gwadar","country":"PAK","state":"BA"},{"id":17,"name":"Harnai","country":"PAK","state":"BA"},{"id":18,"name":"J\u0101far\u0101b\u0101d District","country":"PAK","state":"BA"},{"id":19,"name":"Jhal Magsi District","country":"PAK","state":"BA"},{"id":20,"name":"Jiwani","country":"PAK","state":"BA"},{"id":21,"name":"Kalat","country":"PAK","state":"BA"},{"id":22,"name":"Kal\u0101t District","country":"PAK","state":"BA"},{"id":23,"name":"Khadan Khak","country":"PAK","state":"BA"},{"id":24,"name":"Kharan","country":"PAK","state":"BA"},{"id":25,"name":"Kh\u0101r\u0101n District","country":"PAK","state":"BA"},{"id":26,"name":"Khuzdar","country":"PAK","state":"BA"},{"id":27,"name":"Khuzd\u0101r District","country":"PAK","state":"BA"},{"id":28,"name":"Kohlu","country":"PAK","state":"BA"},{"id":29,"name":"Kot Malik Barkhurdar","country":"PAK","state":"BA"},{"id":30,"name":"Lasbela District","country":"PAK","state":"BA"},{"id":31,"name":"Loralai","country":"PAK","state":"BA"},{"id":32,"name":"Loralai District","country":"PAK","state":"BA"},{"id":33,"name":"Mach","country":"PAK","state":"BA"},{"id":34,"name":"Mastung","country":"PAK","state":"BA"},{"id":35,"name":"Mastung District","country":"PAK","state":"BA"},{"id":36,"name":"Mehrabpur","country":"PAK","state":"BA"},{"id":37,"name":"M\u016bsa Khel District","country":"PAK","state":"BA"},{"id":38,"name":"Nas\u012br\u0101b\u0101d District","country":"PAK","state":"BA"},{"id":39,"name":"Nushki","country":"PAK","state":"BA"},{"id":40,"name":"Ormara","country":"PAK","state":"BA"},{"id":41,"name":"Panjg\u016br District","country":"PAK","state":"BA"},{"id":42,"name":"Pasni","country":"PAK","state":"BA"},{"id":43,"name":"Pishin","country":"PAK","state":"BA"},{"id":44,"name":"Qila Saifull\u0101h District","country":"PAK","state":"BA"},{"id":45,"name":"Quetta","country":"PAK","state":"BA"},{"id":46,"name":"Quetta District","country":"PAK","state":"BA"},{"id":47,"name":"Sibi","country":"PAK","state":"BA"},{"id":48,"name":"Sohbatpur","country":"PAK","state":"BA"},{"id":49,"name":"Surab","country":"PAK","state":"BA"},{"id":50,"name":"Turbat","country":"PAK","state":"BA"},{"id":51,"name":"Usta Muhammad","country":"PAK","state":"BA"},{"id":52,"name":"Uthal","country":"PAK","state":"BA"},{"id":53,"name":"Zhob","country":"PAK","state":"BA"},{"id":54,"name":"Zhob District","country":"PAK","state":"BA"},{"id":55,"name":"Ziarat","country":"PAK","state":"BA"},{"id":56,"name":"Zi\u0101rat District","country":"PAK","state":"BA"}]
+[
+    {
+        "id": 85334,
+        "name": "Alik Ghund",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85342,
+        "name": "Awārān District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85353,
+        "name": "Barkhan",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85375,
+        "name": "Bārkhān District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85360,
+        "name": "Bela",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85362,
+        "name": "Bhag",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85401,
+        "name": "Chāgai District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85385,
+        "name": "Chaman",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85397,
+        "name": "Chowki Jamali",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85402,
+        "name": "Dadhar",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85406,
+        "name": "Dalbandin",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85416,
+        "name": "Dera Bugti",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85417,
+        "name": "Dera Bugti District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85432,
+        "name": "Duki",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85442,
+        "name": "Gadani",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85445,
+        "name": "Garhi Khairo",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85459,
+        "name": "Gwadar",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85465,
+        "name": "Harnai",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85497,
+        "name": "Jāfarābād District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85489,
+        "name": "Jhal Magsi District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85495,
+        "name": "Jiwani",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85507,
+        "name": "Kalat",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85511,
+        "name": "Kalāt District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85530,
+        "name": "Khadan Khak",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85543,
+        "name": "Kharan",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85550,
+        "name": "Khārān District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85548,
+        "name": "Khuzdar",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85549,
+        "name": "Khuzdār District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85552,
+        "name": "Kohlu",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85556,
+        "name": "Kot Malik Barkhurdar",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85579,
+        "name": "Lasbela District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85584,
+        "name": "Loralai",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85585,
+        "name": "Loralai District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85586,
+        "name": "Mach",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85599,
+        "name": "Mastung",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85600,
+        "name": "Mastung District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85605,
+        "name": "Mehrabpur",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85629,
+        "name": "Mūsa Khel District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85635,
+        "name": "Nasīrābād District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85648,
+        "name": "Nushki",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85651,
+        "name": "Ormara",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85656,
+        "name": "Panjgūr District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85658,
+        "name": "Pasni",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85668,
+        "name": "Pishin",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85671,
+        "name": "Qila Saifullāh District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85672,
+        "name": "Quetta",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85673,
+        "name": "Quetta District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85721,
+        "name": "Sibi",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85727,
+        "name": "Sohbatpur",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85731,
+        "name": "Surab",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85755,
+        "name": "Turbat",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85760,
+        "name": "Usta Muhammad",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85761,
+        "name": "Uthal",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85771,
+        "name": "Zhob",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85772,
+        "name": "Zhob District",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85773,
+        "name": "Ziarat",
+        "country": "PAK",
+        "state": "BA"
+    },
+    {
+        "id": 85774,
+        "name": "Ziārat District",
+        "country": "PAK",
+        "state": "BA"
+    }
+]

@@ -1,1 +1,104 @@
-[{"id":0,"name":"Busan","iso3":"26","country":"KOR"},{"id":1,"name":"Daegu","iso3":"27","country":"KOR"},{"id":2,"name":"Daejeon","iso3":"30","country":"KOR"},{"id":3,"name":"Gangwon Province","iso3":"42","country":"KOR"},{"id":4,"name":"Gwangju","iso3":"29","country":"KOR"},{"id":5,"name":"Gyeonggi Province","iso3":"41","country":"KOR"},{"id":6,"name":"Incheon","iso3":"28","country":"KOR"},{"id":7,"name":"Jeju","iso3":"49","country":"KOR"},{"id":8,"name":"North Chungcheong Province","iso3":"43","country":"KOR"},{"id":9,"name":"North Gyeongsang Province","iso3":"47","country":"KOR"},{"id":10,"name":"North Jeolla Province","iso3":"45","country":"KOR"},{"id":11,"name":"Sejong City","iso3":"50","country":"KOR"},{"id":12,"name":"Seoul","iso3":"11","country":"KOR"},{"id":13,"name":"South Chungcheong Province","iso3":"44","country":"KOR"},{"id":14,"name":"South Gyeongsang Province","iso3":"48","country":"KOR"},{"id":15,"name":"South Jeolla Province","iso3":"46","country":"KOR"},{"id":16,"name":"Ulsan","iso3":"31","country":"KOR"}]
+[
+    {
+        "id": 3860,
+        "name": "Busan",
+        "country": "KOR",
+        "state": "26"
+    },
+    {
+        "id": 3846,
+        "name": "Daegu",
+        "country": "KOR",
+        "state": "27"
+    },
+    {
+        "id": 3850,
+        "name": "Daejeon",
+        "country": "KOR",
+        "state": "30"
+    },
+    {
+        "id": 3862,
+        "name": "Gangwon Province",
+        "country": "KOR",
+        "state": "42"
+    },
+    {
+        "id": 3858,
+        "name": "Gwangju",
+        "country": "KOR",
+        "state": "29"
+    },
+    {
+        "id": 3847,
+        "name": "Gyeonggi Province",
+        "country": "KOR",
+        "state": "41"
+    },
+    {
+        "id": 3848,
+        "name": "Incheon",
+        "country": "KOR",
+        "state": "28"
+    },
+    {
+        "id": 3853,
+        "name": "Jeju",
+        "country": "KOR",
+        "state": "49"
+    },
+    {
+        "id": 3854,
+        "name": "North Chungcheong Province",
+        "country": "KOR",
+        "state": "43"
+    },
+    {
+        "id": 3855,
+        "name": "North Gyeongsang Province",
+        "country": "KOR",
+        "state": "47"
+    },
+    {
+        "id": 3851,
+        "name": "North Jeolla Province",
+        "country": "KOR",
+        "state": "45"
+    },
+    {
+        "id": 3861,
+        "name": "Sejong City",
+        "country": "KOR",
+        "state": "50"
+    },
+    {
+        "id": 3849,
+        "name": "Seoul",
+        "country": "KOR",
+        "state": "11"
+    },
+    {
+        "id": 3859,
+        "name": "South Chungcheong Province",
+        "country": "KOR",
+        "state": "44"
+    },
+    {
+        "id": 3857,
+        "name": "South Gyeongsang Province",
+        "country": "KOR",
+        "state": "48"
+    },
+    {
+        "id": 3856,
+        "name": "South Jeolla Province",
+        "country": "KOR",
+        "state": "46"
+    },
+    {
+        "id": 3852,
+        "name": "Ulsan",
+        "country": "KOR",
+        "state": "31"
+    }
+]

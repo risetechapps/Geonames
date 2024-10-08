@@ -1,1 +1,590 @@
-[{"id":0,"name":"Abra","iso3":"ABR","country":"PHL"},{"id":1,"name":"Agusan del Norte","iso3":"AGN","country":"PHL"},{"id":2,"name":"Agusan del Sur","iso3":"AGS","country":"PHL"},{"id":3,"name":"Aklan","iso3":"AKL","country":"PHL"},{"id":4,"name":"Albay","iso3":"ALB","country":"PHL"},{"id":5,"name":"Antique","iso3":"ANT","country":"PHL"},{"id":6,"name":"Apayao","iso3":"APA","country":"PHL"},{"id":7,"name":"Aurora","iso3":"AUR","country":"PHL"},{"id":8,"name":"Autonomous Region in Muslim Mindanao","iso3":"14","country":"PHL"},{"id":9,"name":"Basilan","iso3":"BAS","country":"PHL"},{"id":10,"name":"Bataan","iso3":"BAN","country":"PHL"},{"id":11,"name":"Batanes","iso3":"BTN","country":"PHL"},{"id":12,"name":"Batangas","iso3":"BTG","country":"PHL"},{"id":13,"name":"Benguet","iso3":"BEN","country":"PHL"},{"id":14,"name":"Bicol","iso3":"05","country":"PHL"},{"id":15,"name":"Biliran","iso3":"BIL","country":"PHL"},{"id":16,"name":"Bohol","iso3":"BOH","country":"PHL"},{"id":17,"name":"Bukidnon","iso3":"BUK","country":"PHL"},{"id":18,"name":"Bulacan","iso3":"BUL","country":"PHL"},{"id":19,"name":"Cagayan","iso3":"CAG","country":"PHL"},{"id":20,"name":"Cagayan Valley","iso3":"02","country":"PHL"},{"id":21,"name":"Calabarzon","iso3":"40","country":"PHL"},{"id":22,"name":"Camarines Norte","iso3":"CAN","country":"PHL"},{"id":23,"name":"Camarines Sur","iso3":"CAS","country":"PHL"},{"id":24,"name":"Camiguin","iso3":"CAM","country":"PHL"},{"id":25,"name":"Capiz","iso3":"CAP","country":"PHL"},{"id":26,"name":"Caraga","iso3":"13","country":"PHL"},{"id":27,"name":"Catanduanes","iso3":"CAT","country":"PHL"},{"id":28,"name":"Cavite","iso3":"CAV","country":"PHL"},{"id":29,"name":"Cebu","iso3":"CEB","country":"PHL"},{"id":30,"name":"Central Luzon","iso3":"03","country":"PHL"},{"id":31,"name":"Central Visayas","iso3":"07","country":"PHL"},{"id":32,"name":"Compostela Valley","iso3":"COM","country":"PHL"},{"id":33,"name":"Cordillera Administrative","iso3":"15","country":"PHL"},{"id":34,"name":"Cotabato","iso3":"NCO","country":"PHL"},{"id":35,"name":"Davao","iso3":"11","country":"PHL"},{"id":36,"name":"Davao del Norte","iso3":"DAV","country":"PHL"},{"id":37,"name":"Davao del Sur","iso3":"DAS","country":"PHL"},{"id":38,"name":"Davao Occidental","iso3":"DVO","country":"PHL"},{"id":39,"name":"Davao Oriental","iso3":"DAO","country":"PHL"},{"id":40,"name":"Dinagat Islands","iso3":"DIN","country":"PHL"},{"id":41,"name":"Eastern Samar","iso3":"EAS","country":"PHL"},{"id":42,"name":"Eastern Visayas","iso3":"08","country":"PHL"},{"id":43,"name":"Guimaras","iso3":"GUI","country":"PHL"},{"id":44,"name":"Ifugao","iso3":"IFU","country":"PHL"},{"id":45,"name":"Ilocos","iso3":"01","country":"PHL"},{"id":46,"name":"Ilocos Norte","iso3":"ILN","country":"PHL"},{"id":47,"name":"Ilocos Sur","iso3":"ILS","country":"PHL"},{"id":48,"name":"Iloilo","iso3":"ILI","country":"PHL"},{"id":49,"name":"Isabela","iso3":"ISA","country":"PHL"},{"id":50,"name":"Kalinga","iso3":"KAL","country":"PHL"},{"id":51,"name":"La Union","iso3":"LUN","country":"PHL"},{"id":52,"name":"Laguna","iso3":"LAG","country":"PHL"},{"id":53,"name":"Lanao del Norte","iso3":"LAN","country":"PHL"},{"id":54,"name":"Lanao del Sur","iso3":"LAS","country":"PHL"},{"id":55,"name":"Leyte","iso3":"LEY","country":"PHL"},{"id":56,"name":"Maguindanao","iso3":"MAG","country":"PHL"},{"id":57,"name":"Marinduque","iso3":"MAD","country":"PHL"},{"id":58,"name":"Masbate","iso3":"MAS","country":"PHL"},{"id":59,"name":"Metro Manila","iso3":"NCR","country":"PHL"},{"id":60,"name":"Mimaropa","iso3":"41","country":"PHL"},{"id":61,"name":"Misamis Occidental","iso3":"MSC","country":"PHL"},{"id":62,"name":"Misamis Oriental","iso3":"MSR","country":"PHL"},{"id":63,"name":"Mountain Province","iso3":"MOU","country":"PHL"},{"id":64,"name":"Negros Occidental","iso3":"NEC","country":"PHL"},{"id":65,"name":"Negros Oriental","iso3":"NER","country":"PHL"},{"id":66,"name":"Northern Mindanao","iso3":"10","country":"PHL"},{"id":67,"name":"Northern Samar","iso3":"NSA","country":"PHL"},{"id":68,"name":"Nueva Ecija","iso3":"NUE","country":"PHL"},{"id":69,"name":"Nueva Vizcaya","iso3":"NUV","country":"PHL"},{"id":70,"name":"Occidental Mindoro","iso3":"MDC","country":"PHL"},{"id":71,"name":"Oriental Mindoro","iso3":"MDR","country":"PHL"},{"id":72,"name":"Palawan","iso3":"PLW","country":"PHL"},{"id":73,"name":"Pampanga","iso3":"PAM","country":"PHL"},{"id":74,"name":"Pangasinan","iso3":"PAN","country":"PHL"},{"id":75,"name":"Quezon","iso3":"QUE","country":"PHL"},{"id":76,"name":"Quirino","iso3":"QUI","country":"PHL"},{"id":77,"name":"Rizal","iso3":"RIZ","country":"PHL"},{"id":78,"name":"Romblon","iso3":"ROM","country":"PHL"},{"id":79,"name":"Sarangani","iso3":"SAR","country":"PHL"},{"id":80,"name":"Siquijor","iso3":"SIG","country":"PHL"},{"id":81,"name":"Soccsksargen","iso3":"12","country":"PHL"},{"id":82,"name":"Sorsogon","iso3":"SOR","country":"PHL"},{"id":83,"name":"South Cotabato","iso3":"SCO","country":"PHL"},{"id":84,"name":"Southern Leyte","iso3":"SLE","country":"PHL"},{"id":85,"name":"Sultan Kudarat","iso3":"SUK","country":"PHL"},{"id":86,"name":"Sulu","iso3":"SLU","country":"PHL"},{"id":87,"name":"Surigao del Norte","iso3":"SUN","country":"PHL"},{"id":88,"name":"Surigao del Sur","iso3":"SUR","country":"PHL"},{"id":89,"name":"Tarlac","iso3":"TAR","country":"PHL"},{"id":90,"name":"Tawi-Tawi","iso3":"TAW","country":"PHL"},{"id":91,"name":"Western Samar","iso3":"WSA","country":"PHL"},{"id":92,"name":"Western Visayas","iso3":"06","country":"PHL"},{"id":93,"name":"Zambales","iso3":"ZMB","country":"PHL"},{"id":94,"name":"Zamboanga del Norte","iso3":"ZAN","country":"PHL"},{"id":95,"name":"Zamboanga del Sur","iso3":"ZAS","country":"PHL"},{"id":96,"name":"Zamboanga Peninsula","iso3":"09","country":"PHL"},{"id":97,"name":"Zamboanga Sibugay","iso3":"ZSI","country":"PHL"}]
+[
+    {
+        "id": 1324,
+        "name": "Abra",
+        "country": "PHL",
+        "state": "ABR"
+    },
+    {
+        "id": 1323,
+        "name": "Agusan del Norte",
+        "country": "PHL",
+        "state": "AGN"
+    },
+    {
+        "id": 1326,
+        "name": "Agusan del Sur",
+        "country": "PHL",
+        "state": "AGS"
+    },
+    {
+        "id": 1331,
+        "name": "Aklan",
+        "country": "PHL",
+        "state": "AKL"
+    },
+    {
+        "id": 1337,
+        "name": "Albay",
+        "country": "PHL",
+        "state": "ALB"
+    },
+    {
+        "id": 1336,
+        "name": "Antique",
+        "country": "PHL",
+        "state": "ANT"
+    },
+    {
+        "id": 1334,
+        "name": "Apayao",
+        "country": "PHL",
+        "state": "APA"
+    },
+    {
+        "id": 1341,
+        "name": "Aurora",
+        "country": "PHL",
+        "state": "AUR"
+    },
+    {
+        "id": 1316,
+        "name": "Autonomous Region in Muslim Mindanao",
+        "country": "PHL",
+        "state": "14"
+    },
+    {
+        "id": 1346,
+        "name": "Basilan",
+        "country": "PHL",
+        "state": "BAS"
+    },
+    {
+        "id": 1344,
+        "name": "Bataan",
+        "country": "PHL",
+        "state": "BAN"
+    },
+    {
+        "id": 1352,
+        "name": "Batanes",
+        "country": "PHL",
+        "state": "BTN"
+    },
+    {
+        "id": 1359,
+        "name": "Batangas",
+        "country": "PHL",
+        "state": "BTG"
+    },
+    {
+        "id": 1363,
+        "name": "Benguet",
+        "country": "PHL",
+        "state": "BEN"
+    },
+    {
+        "id": 1304,
+        "name": "Bicol",
+        "country": "PHL",
+        "state": "05"
+    },
+    {
+        "id": 1274,
+        "name": "Biliran",
+        "country": "PHL",
+        "state": "BIL"
+    },
+    {
+        "id": 1272,
+        "name": "Bohol",
+        "country": "PHL",
+        "state": "BOH"
+    },
+    {
+        "id": 1270,
+        "name": "Bukidnon",
+        "country": "PHL",
+        "state": "BUK"
+    },
+    {
+        "id": 1278,
+        "name": "Bulacan",
+        "country": "PHL",
+        "state": "BUL"
+    },
+    {
+        "id": 1279,
+        "name": "Cagayan",
+        "country": "PHL",
+        "state": "CAG"
+    },
+    {
+        "id": 1342,
+        "name": "Cagayan Valley",
+        "country": "PHL",
+        "state": "02"
+    },
+    {
+        "id": 1294,
+        "name": "Calabarzon",
+        "country": "PHL",
+        "state": "40"
+    },
+    {
+        "id": 1283,
+        "name": "Camarines Norte",
+        "country": "PHL",
+        "state": "CAN"
+    },
+    {
+        "id": 1287,
+        "name": "Camarines Sur",
+        "country": "PHL",
+        "state": "CAS"
+    },
+    {
+        "id": 1285,
+        "name": "Camiguin",
+        "country": "PHL",
+        "state": "CAM"
+    },
+    {
+        "id": 1292,
+        "name": "Capiz",
+        "country": "PHL",
+        "state": "CAP"
+    },
+    {
+        "id": 1314,
+        "name": "Caraga",
+        "country": "PHL",
+        "state": "13"
+    },
+    {
+        "id": 1301,
+        "name": "Catanduanes",
+        "country": "PHL",
+        "state": "CAT"
+    },
+    {
+        "id": 1307,
+        "name": "Cavite",
+        "country": "PHL",
+        "state": "CAV"
+    },
+    {
+        "id": 1306,
+        "name": "Cebu",
+        "country": "PHL",
+        "state": "CEB"
+    },
+    {
+        "id": 1345,
+        "name": "Central Luzon",
+        "country": "PHL",
+        "state": "03"
+    },
+    {
+        "id": 1308,
+        "name": "Central Visayas",
+        "country": "PHL",
+        "state": "07"
+    },
+    {
+        "id": 1311,
+        "name": "Compostela Valley",
+        "country": "PHL",
+        "state": "COM"
+    },
+    {
+        "id": 1335,
+        "name": "Cordillera Administrative",
+        "country": "PHL",
+        "state": "15"
+    },
+    {
+        "id": 1320,
+        "name": "Cotabato",
+        "country": "PHL",
+        "state": "NCO"
+    },
+    {
+        "id": 1340,
+        "name": "Davao",
+        "country": "PHL",
+        "state": "11"
+    },
+    {
+        "id": 1319,
+        "name": "Davao del Norte",
+        "country": "PHL",
+        "state": "DAV"
+    },
+    {
+        "id": 1318,
+        "name": "Davao del Sur",
+        "country": "PHL",
+        "state": "DAS"
+    },
+    {
+        "id": 1309,
+        "name": "Davao Occidental",
+        "country": "PHL",
+        "state": "DVO"
+    },
+    {
+        "id": 1289,
+        "name": "Davao Oriental",
+        "country": "PHL",
+        "state": "DAO"
+    },
+    {
+        "id": 1291,
+        "name": "Dinagat Islands",
+        "country": "PHL",
+        "state": "DIN"
+    },
+    {
+        "id": 1290,
+        "name": "Eastern Samar",
+        "country": "PHL",
+        "state": "EAS"
+    },
+    {
+        "id": 1322,
+        "name": "Eastern Visayas",
+        "country": "PHL",
+        "state": "08"
+    },
+    {
+        "id": 1303,
+        "name": "Guimaras",
+        "country": "PHL",
+        "state": "GUI"
+    },
+    {
+        "id": 1300,
+        "name": "Ifugao",
+        "country": "PHL",
+        "state": "IFU"
+    },
+    {
+        "id": 1355,
+        "name": "Ilocos",
+        "country": "PHL",
+        "state": "01"
+    },
+    {
+        "id": 1298,
+        "name": "Ilocos Norte",
+        "country": "PHL",
+        "state": "ILN"
+    },
+    {
+        "id": 1321,
+        "name": "Ilocos Sur",
+        "country": "PHL",
+        "state": "ILS"
+    },
+    {
+        "id": 1315,
+        "name": "Iloilo",
+        "country": "PHL",
+        "state": "ILI"
+    },
+    {
+        "id": 1313,
+        "name": "Isabela",
+        "country": "PHL",
+        "state": "ISA"
+    },
+    {
+        "id": 1312,
+        "name": "Kalinga",
+        "country": "PHL",
+        "state": "KAL"
+    },
+    {
+        "id": 1317,
+        "name": "La Union",
+        "country": "PHL",
+        "state": "LUN"
+    },
+    {
+        "id": 1328,
+        "name": "Laguna",
+        "country": "PHL",
+        "state": "LAG"
+    },
+    {
+        "id": 1327,
+        "name": "Lanao del Norte",
+        "country": "PHL",
+        "state": "LAN"
+    },
+    {
+        "id": 1333,
+        "name": "Lanao del Sur",
+        "country": "PHL",
+        "state": "LAS"
+    },
+    {
+        "id": 1332,
+        "name": "Leyte",
+        "country": "PHL",
+        "state": "LEY"
+    },
+    {
+        "id": 1330,
+        "name": "Maguindanao",
+        "country": "PHL",
+        "state": "MAG"
+    },
+    {
+        "id": 1329,
+        "name": "Marinduque",
+        "country": "PHL",
+        "state": "MAD"
+    },
+    {
+        "id": 1338,
+        "name": "Masbate",
+        "country": "PHL",
+        "state": "MAS"
+    },
+    {
+        "id": 1347,
+        "name": "Metro Manila",
+        "country": "PHL",
+        "state": "NCR"
+    },
+    {
+        "id": 1299,
+        "name": "Mimaropa",
+        "country": "PHL",
+        "state": "41"
+    },
+    {
+        "id": 1343,
+        "name": "Misamis Occidental",
+        "country": "PHL",
+        "state": "MSC"
+    },
+    {
+        "id": 1348,
+        "name": "Misamis Oriental",
+        "country": "PHL",
+        "state": "MSR"
+    },
+    {
+        "id": 1353,
+        "name": "Mountain Province",
+        "country": "PHL",
+        "state": "MOU"
+    },
+    {
+        "id": 1351,
+        "name": "Negros Occidental",
+        "country": "PHL",
+        "state": "NEC"
+    },
+    {
+        "id": 1350,
+        "name": "Negros Oriental",
+        "country": "PHL",
+        "state": "NER"
+    },
+    {
+        "id": 1339,
+        "name": "Northern Mindanao",
+        "country": "PHL",
+        "state": "10"
+    },
+    {
+        "id": 1349,
+        "name": "Northern Samar",
+        "country": "PHL",
+        "state": "NSA"
+    },
+    {
+        "id": 1360,
+        "name": "Nueva Ecija",
+        "country": "PHL",
+        "state": "NUE"
+    },
+    {
+        "id": 1358,
+        "name": "Nueva Vizcaya",
+        "country": "PHL",
+        "state": "NUV"
+    },
+    {
+        "id": 1356,
+        "name": "Occidental Mindoro",
+        "country": "PHL",
+        "state": "MDC"
+    },
+    {
+        "id": 1354,
+        "name": "Oriental Mindoro",
+        "country": "PHL",
+        "state": "MDR"
+    },
+    {
+        "id": 1361,
+        "name": "Palawan",
+        "country": "PHL",
+        "state": "PLW"
+    },
+    {
+        "id": 1365,
+        "name": "Pampanga",
+        "country": "PHL",
+        "state": "PAM"
+    },
+    {
+        "id": 1364,
+        "name": "Pangasinan",
+        "country": "PHL",
+        "state": "PAN"
+    },
+    {
+        "id": 1275,
+        "name": "Quezon",
+        "country": "PHL",
+        "state": "QUE"
+    },
+    {
+        "id": 1273,
+        "name": "Quirino",
+        "country": "PHL",
+        "state": "QUI"
+    },
+    {
+        "id": 1271,
+        "name": "Rizal",
+        "country": "PHL",
+        "state": "RIZ"
+    },
+    {
+        "id": 1269,
+        "name": "Romblon",
+        "country": "PHL",
+        "state": "ROM"
+    },
+    {
+        "id": 1277,
+        "name": "Sarangani",
+        "country": "PHL",
+        "state": "SAR"
+    },
+    {
+        "id": 1276,
+        "name": "Siquijor",
+        "country": "PHL",
+        "state": "SIG"
+    },
+    {
+        "id": 1310,
+        "name": "Soccsksargen",
+        "country": "PHL",
+        "state": "12"
+    },
+    {
+        "id": 1281,
+        "name": "Sorsogon",
+        "country": "PHL",
+        "state": "SOR"
+    },
+    {
+        "id": 1280,
+        "name": "South Cotabato",
+        "country": "PHL",
+        "state": "SCO"
+    },
+    {
+        "id": 1284,
+        "name": "Southern Leyte",
+        "country": "PHL",
+        "state": "SLE"
+    },
+    {
+        "id": 1282,
+        "name": "Sultan Kudarat",
+        "country": "PHL",
+        "state": "SUK"
+    },
+    {
+        "id": 1288,
+        "name": "Sulu",
+        "country": "PHL",
+        "state": "SLU"
+    },
+    {
+        "id": 1286,
+        "name": "Surigao del Norte",
+        "country": "PHL",
+        "state": "SUN"
+    },
+    {
+        "id": 1296,
+        "name": "Surigao del Sur",
+        "country": "PHL",
+        "state": "SUR"
+    },
+    {
+        "id": 1295,
+        "name": "Tarlac",
+        "country": "PHL",
+        "state": "TAR"
+    },
+    {
+        "id": 1293,
+        "name": "Tawi-Tawi",
+        "country": "PHL",
+        "state": "TAW"
+    },
+    {
+        "id": 5115,
+        "name": "Western Samar",
+        "country": "PHL",
+        "state": "WSA"
+    },
+    {
+        "id": 1305,
+        "name": "Western Visayas",
+        "country": "PHL",
+        "state": "06"
+    },
+    {
+        "id": 1297,
+        "name": "Zambales",
+        "country": "PHL",
+        "state": "ZMB"
+    },
+    {
+        "id": 1302,
+        "name": "Zamboanga del Norte",
+        "country": "PHL",
+        "state": "ZAN"
+    },
+    {
+        "id": 1357,
+        "name": "Zamboanga del Sur",
+        "country": "PHL",
+        "state": "ZAS"
+    },
+    {
+        "id": 1325,
+        "name": "Zamboanga Peninsula",
+        "country": "PHL",
+        "state": "09"
+    },
+    {
+        "id": 1362,
+        "name": "Zamboanga Sibugay",
+        "country": "PHL",
+        "state": "ZSI"
+    }
+]

@@ -1,1 +1,320 @@
-[{"id":0,"name":"Alcalde D\u00edaz","country":"PAN","state":"8"},{"id":1,"name":"Anc\u00f3n","country":"PAN","state":"8"},{"id":2,"name":"Brujas","country":"PAN","state":"8"},{"id":3,"name":"Cabra N\u00famero Uno","country":"PAN","state":"8"},{"id":4,"name":"Caimitillo","country":"PAN","state":"8"},{"id":5,"name":"Calzada Larga","country":"PAN","state":"8"},{"id":6,"name":"Ca\u00f1ita","country":"PAN","state":"8"},{"id":7,"name":"Cerro Azul","country":"PAN","state":"8"},{"id":8,"name":"Chepillo","country":"PAN","state":"8"},{"id":9,"name":"Chepo","country":"PAN","state":"8"},{"id":10,"name":"Chilibre","country":"PAN","state":"8"},{"id":11,"name":"Chim\u00e1n","country":"PAN","state":"8"},{"id":12,"name":"Contadora","country":"PAN","state":"8"},{"id":13,"name":"Curund\u00fa","country":"PAN","state":"8"},{"id":14,"name":"Distrito de Balboa","country":"PAN","state":"8"},{"id":15,"name":"Distrito de Chepo","country":"PAN","state":"8"},{"id":16,"name":"Distrito de Chim\u00e1n","country":"PAN","state":"8"},{"id":17,"name":"Distrito de Panam\u00e1","country":"PAN","state":"8"},{"id":18,"name":"Distrito de Taboga","country":"PAN","state":"8"},{"id":19,"name":"El Chorrillo","country":"PAN","state":"8"},{"id":20,"name":"El Progreso","country":"PAN","state":"8"},{"id":21,"name":"Gonzalillo","country":"PAN","state":"8"},{"id":22,"name":"Howard","country":"PAN","state":"8"},{"id":23,"name":"Juan D\u00edaz","country":"PAN","state":"8"},{"id":24,"name":"La Cabima","country":"PAN","state":"8"},{"id":25,"name":"La Colorada","country":"PAN","state":"8"},{"id":26,"name":"La Ensenada","country":"PAN","state":"8"},{"id":27,"name":"La Esmeralda","country":"PAN","state":"8"},{"id":28,"name":"La Guinea","country":"PAN","state":"8"},{"id":29,"name":"La Mesa","country":"PAN","state":"8"},{"id":30,"name":"Las Cumbres","country":"PAN","state":"8"},{"id":31,"name":"Las Margaritas","country":"PAN","state":"8"},{"id":32,"name":"L\u00eddice","country":"PAN","state":"8"},{"id":33,"name":"Los Lotes","country":"PAN","state":"8"},{"id":34,"name":"Nueva Esperanza","country":"PAN","state":"8"},{"id":35,"name":"Nuevo Bel\u00e9n","country":"PAN","state":"8"},{"id":36,"name":"Pacora","country":"PAN","state":"8"},{"id":37,"name":"Panam\u00e1","country":"PAN","state":"8"},{"id":38,"name":"Parque Lefevre","country":"PAN","state":"8"},{"id":39,"name":"P\u00e1siga","country":"PAN","state":"8"},{"id":40,"name":"Pedregal","country":"PAN","state":"8"},{"id":41,"name":"R\u00edo Abajo","country":"PAN","state":"8"},{"id":42,"name":"San Antonio","country":"PAN","state":"8"},{"id":43,"name":"San Felipe","country":"PAN","state":"8"},{"id":44,"name":"San Miguel","country":"PAN","state":"8"},{"id":45,"name":"San Miguelito","country":"PAN","state":"8"},{"id":46,"name":"San Vicente","country":"PAN","state":"8"},{"id":47,"name":"Tocumen","country":"PAN","state":"8"},{"id":48,"name":"Tort\u00ed","country":"PAN","state":"8"},{"id":49,"name":"Uni\u00f3n de Azuero","country":"PAN","state":"8"},{"id":50,"name":"Uni\u00f3n Sante\u00f1a","country":"PAN","state":"8"},{"id":51,"name":"Villa Unida","country":"PAN","state":"8"},{"id":52,"name":"Vista Hermosa","country":"PAN","state":"8"}]
+[
+    {
+        "id": 79960,
+        "name": "Alcalde Díaz",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 79968,
+        "name": "Ancón",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80006,
+        "name": "Brujas",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80014,
+        "name": "Cabra Número Uno",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80018,
+        "name": "Caimitillo",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80027,
+        "name": "Calzada Larga",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80041,
+        "name": "Cañita",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80045,
+        "name": "Cerro Azul",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80055,
+        "name": "Chepillo",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80056,
+        "name": "Chepo",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80060,
+        "name": "Chilibre",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80061,
+        "name": "Chimán",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80074,
+        "name": "Contadora",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80080,
+        "name": "Curundú",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80090,
+        "name": "Distrito de Balboa",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80103,
+        "name": "Distrito de Chepo",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80104,
+        "name": "Distrito de Chimán",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80125,
+        "name": "Distrito de Panamá",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80144,
+        "name": "Distrito de Taboga",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80160,
+        "name": "El Chorrillo",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80196,
+        "name": "El Progreso",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80215,
+        "name": "Gonzalillo",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80234,
+        "name": "Howard",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80238,
+        "name": "Juan Díaz",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80242,
+        "name": "La Cabima",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80245,
+        "name": "La Colorada",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80249,
+        "name": "La Ensenada",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80251,
+        "name": "La Esmeralda",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80256,
+        "name": "La Guinea",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80264,
+        "name": "La Mesa",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80288,
+        "name": "Las Cumbres",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80297,
+        "name": "Las Margaritas",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80345,
+        "name": "Lídice",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80337,
+        "name": "Los Lotes",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80372,
+        "name": "Nueva Esperanza",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80375,
+        "name": "Nuevo Belén",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80386,
+        "name": "Pacora",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80394,
+        "name": "Panamá",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80400,
+        "name": "Parque Lefevre",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80441,
+        "name": "Pásiga",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80404,
+        "name": "Pedregal",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80456,
+        "name": "Río Abajo",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80472,
+        "name": "San Antonio",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80476,
+        "name": "San Felipe",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80489,
+        "name": "San Miguel",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80490,
+        "name": "San Miguelito",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80494,
+        "name": "San Vicente",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80524,
+        "name": "Tocumen",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80527,
+        "name": "Tortí",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80533,
+        "name": "Unión de Azuero",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80532,
+        "name": "Unión Santeña",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80546,
+        "name": "Villa Unida",
+        "country": "PAN",
+        "state": "8"
+    },
+    {
+        "id": 80549,
+        "name": "Vista Hermosa",
+        "country": "PAN",
+        "state": "8"
+    }
+]

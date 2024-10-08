@@ -1,1 +1,296 @@
-[{"id":0,"name":"\u00c5krehamn","country":"NOR","state":"11"},{"id":1,"name":"Bjerkreim","country":"NOR","state":"11"},{"id":2,"name":"Bokn","country":"NOR","state":"11"},{"id":3,"name":"Bryne","country":"NOR","state":"11"},{"id":4,"name":"Egersund","country":"NOR","state":"11"},{"id":5,"name":"Eigersund","country":"NOR","state":"11"},{"id":6,"name":"Eike","country":"NOR","state":"11"},{"id":7,"name":"Finn\u00f8y","country":"NOR","state":"11"},{"id":8,"name":"Forsand","country":"NOR","state":"11"},{"id":9,"name":"Gjesdal","country":"NOR","state":"11"},{"id":10,"name":"H\u00e5","country":"NOR","state":"11"},{"id":11,"name":"Hauge i Dalane","country":"NOR","state":"11"},{"id":12,"name":"Haugesund","country":"NOR","state":"11"},{"id":13,"name":"Hjelmeland","country":"NOR","state":"11"},{"id":14,"name":"Hommers\u00e5k","country":"NOR","state":"11"},{"id":15,"name":"J\u00f8rpeland","country":"NOR","state":"11"},{"id":16,"name":"Judaberg","country":"NOR","state":"11"},{"id":17,"name":"Karm\u00f8y","country":"NOR","state":"11"},{"id":18,"name":"Klepp","country":"NOR","state":"11"},{"id":19,"name":"Kopervik","country":"NOR","state":"11"},{"id":20,"name":"Kvits\u00f8y","country":"NOR","state":"11"},{"id":21,"name":"Lund","country":"NOR","state":"11"},{"id":22,"name":"Lyefjell","country":"NOR","state":"11"},{"id":23,"name":"Moi","country":"NOR","state":"11"},{"id":24,"name":"N\u00e6rb\u00f8","country":"NOR","state":"11"},{"id":25,"name":"\u00d8len","country":"NOR","state":"11"},{"id":26,"name":"Randaberg","country":"NOR","state":"11"},{"id":27,"name":"Rennes\u00f8y","country":"NOR","state":"11"},{"id":28,"name":"Sandnes","country":"NOR","state":"11"},{"id":29,"name":"Sauda","country":"NOR","state":"11"},{"id":30,"name":"S\u00e6veland","country":"NOR","state":"11"},{"id":31,"name":"Skudeneshavn","country":"NOR","state":"11"},{"id":32,"name":"Sokndal","country":"NOR","state":"11"},{"id":33,"name":"Sola","country":"NOR","state":"11"},{"id":34,"name":"Stavanger","country":"NOR","state":"11"},{"id":35,"name":"Strand","country":"NOR","state":"11"},{"id":36,"name":"Suldal","country":"NOR","state":"11"},{"id":37,"name":"Tananger","country":"NOR","state":"11"},{"id":38,"name":"Tau","country":"NOR","state":"11"},{"id":39,"name":"Time","country":"NOR","state":"11"},{"id":40,"name":"Tysv\u00e6r","country":"NOR","state":"11"},{"id":41,"name":"Utsira","country":"NOR","state":"11"},{"id":42,"name":"Varhaug","country":"NOR","state":"11"},{"id":43,"name":"Vedav\u00e5gen","country":"NOR","state":"11"},{"id":44,"name":"Vigrestad","country":"NOR","state":"11"},{"id":45,"name":"Vikes\u00e5","country":"NOR","state":"11"},{"id":46,"name":"Vikev\u00e5g","country":"NOR","state":"11"},{"id":47,"name":"Vindafjord","country":"NOR","state":"11"},{"id":48,"name":"Vormedal","country":"NOR","state":"11"}]
+[
+    {
+        "id": 79676,
+        "name": "Åkrehamn",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79075,
+        "name": "Bjerkreim",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79083,
+        "name": "Bokn",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79090,
+        "name": "Bryne",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79109,
+        "name": "Egersund",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79117,
+        "name": "Eigersund",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79118,
+        "name": "Eike",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79141,
+        "name": "Finnøy",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79155,
+        "name": "Forsand",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79179,
+        "name": "Gjesdal",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79245,
+        "name": "Hå",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79211,
+        "name": "Hauge i Dalane",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79212,
+        "name": "Haugesund",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79224,
+        "name": "Hjelmeland",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79232,
+        "name": "Hommersåk",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79262,
+        "name": "Jørpeland",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79259,
+        "name": "Judaberg",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79267,
+        "name": "Karmøy",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79274,
+        "name": "Klepp",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79283,
+        "name": "Kopervik",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79295,
+        "name": "Kvitsøy",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79330,
+        "name": "Lund",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79336,
+        "name": "Lyefjell",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79371,
+        "name": "Moi",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79415,
+        "name": "Nærbø",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79693,
+        "name": "Ølen",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79437,
+        "name": "Randaberg",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79447,
+        "name": "Rennesøy",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79483,
+        "name": "Sandnes",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79488,
+        "name": "Sauda",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79575,
+        "name": "Sæveland",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79521,
+        "name": "Skudeneshavn",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79530,
+        "name": "Sokndal",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79531,
+        "name": "Sola",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79538,
+        "name": "Stavanger",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79555,
+        "name": "Strand",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79563,
+        "name": "Suldal",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79589,
+        "name": "Tananger",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79590,
+        "name": "Tau",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79592,
+        "name": "Time",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79618,
+        "name": "Tysvær",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79627,
+        "name": "Utsira",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79634,
+        "name": "Varhaug",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79636,
+        "name": "Vedavågen",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79650,
+        "name": "Vigrestad",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79654,
+        "name": "Vikeså",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79655,
+        "name": "Vikevåg",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79657,
+        "name": "Vindafjord",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 79661,
+        "name": "Vormedal",
+        "country": "NOR",
+        "state": "11"
+    }
+]

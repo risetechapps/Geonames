@@ -1,1 +1,38 @@
-[{"id":0,"name":"H\u00e0 \u0110\u00f4ng","country":"VNM","state":"HN"},{"id":1,"name":"Hanoi","country":"VNM","state":"HN"},{"id":2,"name":"Huy\u1ec7n Qu\u1ed1c Oai","country":"VNM","state":"HN"},{"id":3,"name":"Qu\u1eadn Ba \u0110\u00ecnh","country":"VNM","state":"HN"},{"id":4,"name":"Qu\u1eadn H\u00e0 \u0110\u00f4ng","country":"VNM","state":"HN"},{"id":5,"name":"S\u01a1n T\u00e2y","country":"VNM","state":"HN"}]
+[
+    {
+        "id": 130558,
+        "name": "Hà Đông",
+        "country": "VNM",
+        "state": "HN"
+    },
+    {
+        "id": 130201,
+        "name": "Hanoi",
+        "country": "VNM",
+        "state": "HN"
+    },
+    {
+        "id": 130412,
+        "name": "Huyện Quốc Oai",
+        "country": "VNM",
+        "state": "HN"
+    },
+    {
+        "id": 130586,
+        "name": "Quận Ba Đình",
+        "country": "VNM",
+        "state": "HN"
+    },
+    {
+        "id": 130587,
+        "name": "Quận Hà Đông",
+        "country": "VNM",
+        "state": "HN"
+    },
+    {
+        "id": 130595,
+        "name": "Sơn Tây",
+        "country": "VNM",
+        "state": "HN"
+    }
+]

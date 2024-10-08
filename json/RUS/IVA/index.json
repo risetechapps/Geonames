@@ -1,1 +1,368 @@
-[{"id":0,"name":"Arkhipovka","country":"RUS","state":"IVA"},{"id":1,"name":"Bogorodskoye","country":"RUS","state":"IVA"},{"id":2,"name":"Dulyapino","country":"RUS","state":"IVA"},{"id":3,"name":"Furmanov","country":"RUS","state":"IVA"},{"id":4,"name":"Gavrilov Posad","country":"RUS","state":"IVA"},{"id":5,"name":"Il\u2019inskoye-Khovanskoye","country":"RUS","state":"IVA"},{"id":6,"name":"Ivanovo","country":"RUS","state":"IVA"},{"id":7,"name":"Ivanovskiy Rayon","country":"RUS","state":"IVA"},{"id":8,"name":"Kamenka","country":"RUS","state":"IVA"},{"id":9,"name":"Kaminskiy","country":"RUS","state":"IVA"},{"id":10,"name":"Kineshemskiy Rayon","country":"RUS","state":"IVA"},{"id":11,"name":"Kineshma","country":"RUS","state":"IVA"},{"id":12,"name":"Kitovo","country":"RUS","state":"IVA"},{"id":13,"name":"Kokhma","country":"RUS","state":"IVA"},{"id":14,"name":"Kolobovo","country":"RUS","state":"IVA"},{"id":15,"name":"Komsomol\u2019sk","country":"RUS","state":"IVA"},{"id":16,"name":"Komsomol\u2019skiy Rayon","country":"RUS","state":"IVA"},{"id":17,"name":"Kuznechikha","country":"RUS","state":"IVA"},{"id":18,"name":"Lezhnevo","country":"RUS","state":"IVA"},{"id":19,"name":"Lezhnevskiy Rayon","country":"RUS","state":"IVA"},{"id":20,"name":"Lukh","country":"RUS","state":"IVA"},{"id":21,"name":"Lukhskiy Rayon","country":"RUS","state":"IVA"},{"id":22,"name":"Markovo","country":"RUS","state":"IVA"},{"id":23,"name":"Navoloki","country":"RUS","state":"IVA"},{"id":24,"name":"Nerl\u2019","country":"RUS","state":"IVA"},{"id":25,"name":"Novo-Talitsy","country":"RUS","state":"IVA"},{"id":26,"name":"Novopistsovo","country":"RUS","state":"IVA"},{"id":27,"name":"Novoye Leushino","country":"RUS","state":"IVA"},{"id":28,"name":"Novyye Gorki","country":"RUS","state":"IVA"},{"id":29,"name":"Palekh","country":"RUS","state":"IVA"},{"id":30,"name":"Palekhskiy Rayon","country":"RUS","state":"IVA"},{"id":31,"name":"Pestyaki","country":"RUS","state":"IVA"},{"id":32,"name":"Pestyakovskiy Rayon","country":"RUS","state":"IVA"},{"id":33,"name":"Petrovskiy","country":"RUS","state":"IVA"},{"id":34,"name":"Pistsovo","country":"RUS","state":"IVA"},{"id":35,"name":"Pl\u00ebs","country":"RUS","state":"IVA"},{"id":36,"name":"Privolzhsk","country":"RUS","state":"IVA"},{"id":37,"name":"Privolzhskiy Rayon","country":"RUS","state":"IVA"},{"id":38,"name":"Puchezh","country":"RUS","state":"IVA"},{"id":39,"name":"Puchezhskiy Rayon","country":"RUS","state":"IVA"},{"id":40,"name":"Rodniki","country":"RUS","state":"IVA"},{"id":41,"name":"Rodnikovskiy Rayon","country":"RUS","state":"IVA"},{"id":42,"name":"Savino","country":"RUS","state":"IVA"},{"id":43,"name":"Savinskiy Rayon","country":"RUS","state":"IVA"},{"id":44,"name":"Shuya","country":"RUS","state":"IVA"},{"id":45,"name":"Shuyskiy Rayon","country":"RUS","state":"IVA"},{"id":46,"name":"Staraya Vichuga","country":"RUS","state":"IVA"},{"id":47,"name":"Talitsy","country":"RUS","state":"IVA"},{"id":48,"name":"Teykovo","country":"RUS","state":"IVA"},{"id":49,"name":"Teykovskiy Rayon","country":"RUS","state":"IVA"},{"id":50,"name":"Verkhnelandekhovskiy Rayon","country":"RUS","state":"IVA"},{"id":51,"name":"Verkhniy Landekh","country":"RUS","state":"IVA"},{"id":52,"name":"Vichuga","country":"RUS","state":"IVA"},{"id":53,"name":"Vichugskiy Rayon","country":"RUS","state":"IVA"},{"id":54,"name":"Yur\u2019yevets","country":"RUS","state":"IVA"},{"id":55,"name":"Yur\u2019yevetskiy Rayon","country":"RUS","state":"IVA"},{"id":56,"name":"Yuzha","country":"RUS","state":"IVA"},{"id":57,"name":"Yuzhskiy Rayon","country":"RUS","state":"IVA"},{"id":58,"name":"Zarechnyy","country":"RUS","state":"IVA"},{"id":59,"name":"Zavolzhsk","country":"RUS","state":"IVA"},{"id":60,"name":"Zavolzhskiy Rayon","country":"RUS","state":"IVA"}]
+[
+    {
+        "id": 97669,
+        "name": "Arkhipovka",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 97972,
+        "name": "Bogorodskoye",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 98352,
+        "name": "Dulyapino",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 98442,
+        "name": "Furmanov",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 98461,
+        "name": "Gavrilov Posad",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 98658,
+        "name": "Il’inskoye-Khovanskoye",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 98731,
+        "name": "Ivanovo",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 98732,
+        "name": "Ivanovskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 98812,
+        "name": "Kamenka",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 98826,
+        "name": "Kaminskiy",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99048,
+        "name": "Kineshemskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99049,
+        "name": "Kineshma",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99083,
+        "name": "Kitovo",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99129,
+        "name": "Kokhma",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99138,
+        "name": "Kolobovo",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99172,
+        "name": "Komsomol’sk",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99175,
+        "name": "Komsomol’skiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99506,
+        "name": "Kuznechikha",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99619,
+        "name": "Lezhnevo",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99620,
+        "name": "Lezhnevskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99683,
+        "name": "Lukh",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99686,
+        "name": "Lukhskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 99800,
+        "name": "Markovo",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100073,
+        "name": "Navoloki",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100109,
+        "name": "Nerl’",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100220,
+        "name": "Novo-Talitsy",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100281,
+        "name": "Novopistsovo",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100333,
+        "name": "Novoye Leushino",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100359,
+        "name": "Novyye Gorki",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100529,
+        "name": "Palekh",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100530,
+        "name": "Palekhskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100643,
+        "name": "Pestyaki",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100644,
+        "name": "Pestyakovskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100663,
+        "name": "Petrovskiy",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100685,
+        "name": "Pistsovo",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100705,
+        "name": "Plës",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100846,
+        "name": "Privolzhsk",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100850,
+        "name": "Privolzhskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100885,
+        "name": "Puchezh",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100886,
+        "name": "Puchezhskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100977,
+        "name": "Rodniki",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 100980,
+        "name": "Rodnikovskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 101135,
+        "name": "Savino",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 101137,
+        "name": "Savinskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 101360,
+        "name": "Shuya",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 101362,
+        "name": "Shuyskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 101568,
+        "name": "Staraya Vichuga",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 101753,
+        "name": "Talitsy",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 101847,
+        "name": "Teykovo",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 101848,
+        "name": "Teykovskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 102240,
+        "name": "Verkhnelandekhovskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 102254,
+        "name": "Verkhniy Landekh",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 102300,
+        "name": "Vichuga",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 102301,
+        "name": "Vichugskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 102605,
+        "name": "Yur’yevets",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 102606,
+        "name": "Yur’yevetskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 102612,
+        "name": "Yuzha",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 102622,
+        "name": "Yuzhskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 102652,
+        "name": "Zarechnyy",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 102678,
+        "name": "Zavolzhsk",
+        "country": "RUS",
+        "state": "IVA"
+    },
+    {
+        "id": 102679,
+        "name": "Zavolzhskiy Rayon",
+        "country": "RUS",
+        "state": "IVA"
+    }
+]

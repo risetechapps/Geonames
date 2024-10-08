@@ -1,1 +1,44 @@
-[{"id":0,"name":"Djibo","country":"BFA","state":"12"},{"id":1,"name":"Dori","country":"BFA","state":"12"},{"id":2,"name":"Gorom-Gorom","country":"BFA","state":"12"},{"id":3,"name":"Province de l\u2019Oudalan","country":"BFA","state":"12"},{"id":4,"name":"Province du S\u00e9no","country":"BFA","state":"12"},{"id":5,"name":"Province du Soum","country":"BFA","state":"12"},{"id":6,"name":"Province du Yagha","country":"BFA","state":"12"}]
+[
+    {
+        "id": 9170,
+        "name": "Djibo",
+        "country": "BFA",
+        "state": "12"
+    },
+    {
+        "id": 9171,
+        "name": "Dori",
+        "country": "BFA",
+        "state": "12"
+    },
+    {
+        "id": 9177,
+        "name": "Gorom-Gorom",
+        "country": "BFA",
+        "state": "12"
+    },
+    {
+        "id": 9207,
+        "name": "Province de l’Oudalan",
+        "country": "BFA",
+        "state": "12"
+    },
+    {
+        "id": 9231,
+        "name": "Province du Séno",
+        "country": "BFA",
+        "state": "12"
+    },
+    {
+        "id": 9229,
+        "name": "Province du Soum",
+        "country": "BFA",
+        "state": "12"
+    },
+    {
+        "id": 9233,
+        "name": "Province du Yagha",
+        "country": "BFA",
+        "state": "12"
+    }
+]

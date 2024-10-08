@@ -1,1 +1,44 @@
-[{"id":0,"name":"Alajuela Province","iso3":"A","country":"CRI"},{"id":1,"name":"Guanacaste Province","iso3":"G","country":"CRI"},{"id":2,"name":"Heredia Province","iso3":"H","country":"CRI"},{"id":3,"name":"Lim\u00f3n Province","iso3":"L","country":"CRI"},{"id":4,"name":"Provincia de Cartago","iso3":"C","country":"CRI"},{"id":5,"name":"Puntarenas Province","iso3":"P","country":"CRI"},{"id":6,"name":"San Jos\u00e9 Province","iso3":"SJ","country":"CRI"}]
+[
+    {
+        "id": 1215,
+        "name": "Alajuela Province",
+        "country": "CRI",
+        "state": "A"
+    },
+    {
+        "id": 1209,
+        "name": "Guanacaste Province",
+        "country": "CRI",
+        "state": "G"
+    },
+    {
+        "id": 1212,
+        "name": "Heredia Province",
+        "country": "CRI",
+        "state": "H"
+    },
+    {
+        "id": 1213,
+        "name": "Limón Province",
+        "country": "CRI",
+        "state": "L"
+    },
+    {
+        "id": 1211,
+        "name": "Provincia de Cartago",
+        "country": "CRI",
+        "state": "C"
+    },
+    {
+        "id": 1210,
+        "name": "Puntarenas Province",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 1214,
+        "name": "San José Province",
+        "country": "CRI",
+        "state": "SJ"
+    }
+]

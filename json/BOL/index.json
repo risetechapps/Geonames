@@ -1,1 +1,56 @@
-[{"id":0,"name":"Beni Department","iso3":"B","country":"BOL"},{"id":1,"name":"Chuquisaca Department","iso3":"H","country":"BOL"},{"id":2,"name":"Cochabamba Department","iso3":"C","country":"BOL"},{"id":3,"name":"La Paz Department","iso3":"L","country":"BOL"},{"id":4,"name":"Oruro Department","iso3":"O","country":"BOL"},{"id":5,"name":"Pando Department","iso3":"N","country":"BOL"},{"id":6,"name":"Potos\u00ed Department","iso3":"P","country":"BOL"},{"id":7,"name":"Santa Cruz Department","iso3":"S","country":"BOL"},{"id":8,"name":"Tarija Department","iso3":"T","country":"BOL"}]
+[
+    {
+        "id": 3375,
+        "name": "Beni Department",
+        "country": "BOL",
+        "state": "B"
+    },
+    {
+        "id": 3382,
+        "name": "Chuquisaca Department",
+        "country": "BOL",
+        "state": "H"
+    },
+    {
+        "id": 3381,
+        "name": "Cochabamba Department",
+        "country": "BOL",
+        "state": "C"
+    },
+    {
+        "id": 3380,
+        "name": "La Paz Department",
+        "country": "BOL",
+        "state": "L"
+    },
+    {
+        "id": 3376,
+        "name": "Oruro Department",
+        "country": "BOL",
+        "state": "O"
+    },
+    {
+        "id": 3379,
+        "name": "Pando Department",
+        "country": "BOL",
+        "state": "N"
+    },
+    {
+        "id": 3383,
+        "name": "Potosí Department",
+        "country": "BOL",
+        "state": "P"
+    },
+    {
+        "id": 3377,
+        "name": "Santa Cruz Department",
+        "country": "BOL",
+        "state": "S"
+    },
+    {
+        "id": 3378,
+        "name": "Tarija Department",
+        "country": "BOL",
+        "state": "T"
+    }
+]

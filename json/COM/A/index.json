@@ -1,1 +1,248 @@
-[{"id":0,"name":"Adda-Dou\u00e9ni","country":"COM","state":"A"},{"id":1,"name":"Antsah\u00e9","country":"COM","state":"A"},{"id":2,"name":"Assimpao","country":"COM","state":"A"},{"id":3,"name":"Bambao","country":"COM","state":"A"},{"id":4,"name":"Bandajou","country":"COM","state":"A"},{"id":5,"name":"Barakani","country":"COM","state":"A"},{"id":6,"name":"Bimbini","country":"COM","state":"A"},{"id":7,"name":"Boungou\u00e9ni","country":"COM","state":"A"},{"id":8,"name":"Chandra","country":"COM","state":"A"},{"id":9,"name":"Chironkamba","country":"COM","state":"A"},{"id":10,"name":"Chitrouni","country":"COM","state":"A"},{"id":11,"name":"Daji","country":"COM","state":"A"},{"id":12,"name":"Domoni","country":"COM","state":"A"},{"id":13,"name":"Dziani","country":"COM","state":"A"},{"id":14,"name":"Hajoho","country":"COM","state":"A"},{"id":15,"name":"Harembo","country":"COM","state":"A"},{"id":16,"name":"Kangani","country":"COM","state":"A"},{"id":17,"name":"Kavani","country":"COM","state":"A"},{"id":18,"name":"Koki","country":"COM","state":"A"},{"id":19,"name":"Koni-Djodjo","country":"COM","state":"A"},{"id":20,"name":"Koni-Ngani","country":"COM","state":"A"},{"id":21,"name":"Kyo","country":"COM","state":"A"},{"id":22,"name":"Limbi","country":"COM","state":"A"},{"id":23,"name":"Lingoni","country":"COM","state":"A"},{"id":24,"name":"Magnassini-Nindri","country":"COM","state":"A"},{"id":25,"name":"Marahar\u00e9","country":"COM","state":"A"},{"id":26,"name":"Mirontsi","country":"COM","state":"A"},{"id":27,"name":"Mjamaou\u00e9","country":"COM","state":"A"},{"id":28,"name":"Mjimandra","country":"COM","state":"A"},{"id":29,"name":"Moutsamoudou","country":"COM","state":"A"},{"id":30,"name":"Moya","country":"COM","state":"A"},{"id":31,"name":"Mramani","country":"COM","state":"A"},{"id":32,"name":"Mr\u00e9mani","country":"COM","state":"A"},{"id":33,"name":"Ongoni","country":"COM","state":"A"},{"id":34,"name":"Ouani","country":"COM","state":"A"},{"id":35,"name":"Ouzini","country":"COM","state":"A"},{"id":36,"name":"Paj\u00e9","country":"COM","state":"A"},{"id":37,"name":"Patsi","country":"COM","state":"A"},{"id":38,"name":"Sima","country":"COM","state":"A"},{"id":39,"name":"Tsimbeo","country":"COM","state":"A"},{"id":40,"name":"Vouani","country":"COM","state":"A"}]
+[
+    {
+        "id": 65079,
+        "name": "Adda-Douéni",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65080,
+        "name": "Antsahé",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65081,
+        "name": "Assimpao",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65084,
+        "name": "Bambao",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65085,
+        "name": "Bandajou",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65086,
+        "name": "Barakani",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65087,
+        "name": "Bimbini",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65088,
+        "name": "Boungouéni",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65090,
+        "name": "Chandra",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65093,
+        "name": "Chironkamba",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65094,
+        "name": "Chitrouni",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65096,
+        "name": "Daji",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65099,
+        "name": "Domoni",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65102,
+        "name": "Dziani",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65105,
+        "name": "Hajoho",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65107,
+        "name": "Harembo",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65113,
+        "name": "Kangani",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65114,
+        "name": "Kavani",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65115,
+        "name": "Koki",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65116,
+        "name": "Koni-Djodjo",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65117,
+        "name": "Koni-Ngani",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65119,
+        "name": "Kyo",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65120,
+        "name": "Limbi",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65121,
+        "name": "Lingoni",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65123,
+        "name": "Magnassini-Nindri",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65125,
+        "name": "Maraharé",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65128,
+        "name": "Mirontsi",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65131,
+        "name": "Mjamaoué",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65132,
+        "name": "Mjimandra",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65136,
+        "name": "Moutsamoudou",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65137,
+        "name": "Moya",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65138,
+        "name": "Mramani",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65139,
+        "name": "Mrémani",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65147,
+        "name": "Ongoni",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65149,
+        "name": "Ouani",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65154,
+        "name": "Ouzini",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65155,
+        "name": "Pajé",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65156,
+        "name": "Patsi",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65158,
+        "name": "Sima",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65162,
+        "name": "Tsimbeo",
+        "country": "COM",
+        "state": "A"
+    },
+    {
+        "id": 65165,
+        "name": "Vouani",
+        "country": "COM",
+        "state": "A"
+    }
+]

@@ -1,1 +1,80 @@
-[{"id":0,"name":"Agder","iso3":"42","country":"NOR"},{"id":1,"name":"Innlandet","iso3":"34","country":"NOR"},{"id":2,"name":"Jan Mayen","iso3":"22","country":"NOR"},{"id":3,"name":"M\u00f8re og Romsdal","iso3":"15","country":"NOR"},{"id":4,"name":"Nordland","iso3":"18","country":"NOR"},{"id":5,"name":"Oslo","iso3":"03","country":"NOR"},{"id":6,"name":"Rogaland","iso3":"11","country":"NOR"},{"id":7,"name":"Svalbard","iso3":"21","country":"NOR"},{"id":8,"name":"Troms og Finnmark","iso3":"54","country":"NOR"},{"id":9,"name":"Tr\u00f8ndelag","iso3":"50","country":"NOR"},{"id":10,"name":"Vestfold og Telemark","iso3":"38","country":"NOR"},{"id":11,"name":"Vestland","iso3":"46","country":"NOR"},{"id":12,"name":"Viken","iso3":"30","country":"NOR"}]
+[
+    {
+        "id": 1014,
+        "name": "Agder",
+        "country": "NOR",
+        "state": "42"
+    },
+    {
+        "id": 1009,
+        "name": "Innlandet",
+        "country": "NOR",
+        "state": "34"
+    },
+    {
+        "id": 1026,
+        "name": "Jan Mayen",
+        "country": "NOR",
+        "state": "22"
+    },
+    {
+        "id": 1020,
+        "name": "Møre og Romsdal",
+        "country": "NOR",
+        "state": "15"
+    },
+    {
+        "id": 1025,
+        "name": "Nordland",
+        "country": "NOR",
+        "state": "18"
+    },
+    {
+        "id": 1007,
+        "name": "Oslo",
+        "country": "NOR",
+        "state": "03"
+    },
+    {
+        "id": 1021,
+        "name": "Rogaland",
+        "country": "NOR",
+        "state": "11"
+    },
+    {
+        "id": 1013,
+        "name": "Svalbard",
+        "country": "NOR",
+        "state": "21"
+    },
+    {
+        "id": 1015,
+        "name": "Troms og Finnmark",
+        "country": "NOR",
+        "state": "54"
+    },
+    {
+        "id": 1006,
+        "name": "Trøndelag",
+        "country": "NOR",
+        "state": "50"
+    },
+    {
+        "id": 1024,
+        "name": "Vestfold og Telemark",
+        "country": "NOR",
+        "state": "38"
+    },
+    {
+        "id": 1018,
+        "name": "Vestland",
+        "country": "NOR",
+        "state": "46"
+    },
+    {
+        "id": 1011,
+        "name": "Viken",
+        "country": "NOR",
+        "state": "30"
+    }
+]

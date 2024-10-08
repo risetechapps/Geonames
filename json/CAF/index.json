@@ -1,1 +1,104 @@
-[{"id":0,"name":"Bamingui-Bangoran Prefecture","iso3":"BB","country":"CAF"},{"id":1,"name":"Bangui","iso3":"BGF","country":"CAF"},{"id":2,"name":"Basse-Kotto Prefecture","iso3":"BK","country":"CAF"},{"id":3,"name":"Haut-Mbomou Prefecture","iso3":"HM","country":"CAF"},{"id":4,"name":"Haute-Kotto Prefecture","iso3":"HK","country":"CAF"},{"id":5,"name":"K\u00e9mo Prefecture","iso3":"KG","country":"CAF"},{"id":6,"name":"Lobaye Prefecture","iso3":"LB","country":"CAF"},{"id":7,"name":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef","iso3":"HS","country":"CAF"},{"id":8,"name":"Mbomou Prefecture","iso3":"MB","country":"CAF"},{"id":9,"name":"Nana-Gr\u00e9bizi Economic Prefecture","iso3":"KB","country":"CAF"},{"id":10,"name":"Nana-Mamb\u00e9r\u00e9 Prefecture","iso3":"NM","country":"CAF"},{"id":11,"name":"Ombella-M'Poko Prefecture","iso3":"MP","country":"CAF"},{"id":12,"name":"Ouaka Prefecture","iso3":"UK","country":"CAF"},{"id":13,"name":"Ouham Prefecture","iso3":"AC","country":"CAF"},{"id":14,"name":"Ouham-Pend\u00e9 Prefecture","iso3":"OP","country":"CAF"},{"id":15,"name":"Sangha-Mba\u00e9r\u00e9","iso3":"SE","country":"CAF"},{"id":16,"name":"Vakaga Prefecture","iso3":"VK","country":"CAF"}]
+[
+    {
+        "id": 1259,
+        "name": "Bamingui-Bangoran Prefecture",
+        "country": "CAF",
+        "state": "BB"
+    },
+    {
+        "id": 1262,
+        "name": "Bangui",
+        "country": "CAF",
+        "state": "BGF"
+    },
+    {
+        "id": 1264,
+        "name": "Basse-Kotto Prefecture",
+        "country": "CAF",
+        "state": "BK"
+    },
+    {
+        "id": 1258,
+        "name": "Haut-Mbomou Prefecture",
+        "country": "CAF",
+        "state": "HM"
+    },
+    {
+        "id": 1268,
+        "name": "Haute-Kotto Prefecture",
+        "country": "CAF",
+        "state": "HK"
+    },
+    {
+        "id": 1263,
+        "name": "Kémo Prefecture",
+        "country": "CAF",
+        "state": "KG"
+    },
+    {
+        "id": 1256,
+        "name": "Lobaye Prefecture",
+        "country": "CAF",
+        "state": "LB"
+    },
+    {
+        "id": 1257,
+        "name": "Mambéré-Kadéï",
+        "country": "CAF",
+        "state": "HS"
+    },
+    {
+        "id": 1266,
+        "name": "Mbomou Prefecture",
+        "country": "CAF",
+        "state": "MB"
+    },
+    {
+        "id": 1253,
+        "name": "Nana-Grébizi Economic Prefecture",
+        "country": "CAF",
+        "state": "KB"
+    },
+    {
+        "id": 1260,
+        "name": "Nana-Mambéré Prefecture",
+        "country": "CAF",
+        "state": "NM"
+    },
+    {
+        "id": 1255,
+        "name": "Ombella-M'Poko Prefecture",
+        "country": "CAF",
+        "state": "MP"
+    },
+    {
+        "id": 1265,
+        "name": "Ouaka Prefecture",
+        "country": "CAF",
+        "state": "UK"
+    },
+    {
+        "id": 1254,
+        "name": "Ouham Prefecture",
+        "country": "CAF",
+        "state": "AC"
+    },
+    {
+        "id": 1267,
+        "name": "Ouham-Pendé Prefecture",
+        "country": "CAF",
+        "state": "OP"
+    },
+    {
+        "id": 1252,
+        "name": "Sangha-Mbaéré",
+        "country": "CAF",
+        "state": "SE"
+    },
+    {
+        "id": 1261,
+        "name": "Vakaga Prefecture",
+        "country": "CAF",
+        "state": "VK"
+    }
+]

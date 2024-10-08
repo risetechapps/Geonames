@@ -1,1 +1,38 @@
-[{"id":0,"name":"Al Ahmadi","iso3":"AH","country":"KWT"},{"id":1,"name":"Al Farwaniyah","iso3":"FA","country":"KWT"},{"id":2,"name":"Al Jahra","iso3":"JA","country":"KWT"},{"id":3,"name":"Capital","iso3":"KU","country":"KWT"},{"id":4,"name":"Hawalli","iso3":"HA","country":"KWT"},{"id":5,"name":"Mubarak Al-Kabeer","iso3":"MU","country":"KWT"}]
+[
+    {
+        "id": 977,
+        "name": "Al Ahmadi",
+        "country": "KWT",
+        "state": "AH"
+    },
+    {
+        "id": 975,
+        "name": "Al Farwaniyah",
+        "country": "KWT",
+        "state": "FA"
+    },
+    {
+        "id": 972,
+        "name": "Al Jahra",
+        "country": "KWT",
+        "state": "JA"
+    },
+    {
+        "id": 976,
+        "name": "Capital",
+        "country": "KWT",
+        "state": "KU"
+    },
+    {
+        "id": 973,
+        "name": "Hawalli",
+        "country": "KWT",
+        "state": "HA"
+    },
+    {
+        "id": 974,
+        "name": "Mubarak Al-Kabeer",
+        "country": "KWT",
+        "state": "MU"
+    }
+]

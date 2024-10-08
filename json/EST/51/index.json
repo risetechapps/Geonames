@@ -1,1 +1,44 @@
-[{"id":0,"name":"J\u00e4rva-Jaani","country":"EST","state":"51"},{"id":1,"name":"Koeru","country":"EST","state":"51"},{"id":2,"name":"Paide","country":"EST","state":"51"},{"id":3,"name":"Paide linn","country":"EST","state":"51"},{"id":4,"name":"S\u00e4revere","country":"EST","state":"51"},{"id":5,"name":"T\u00fcri","country":"EST","state":"51"},{"id":6,"name":"T\u00fcri vald","country":"EST","state":"51"}]
+[
+    {
+        "id": 31611,
+        "name": "Järva-Jaani",
+        "country": "EST",
+        "state": "51"
+    },
+    {
+        "id": 31635,
+        "name": "Koeru",
+        "country": "EST",
+        "state": "51"
+    },
+    {
+        "id": 31672,
+        "name": "Paide",
+        "country": "EST",
+        "state": "51"
+    },
+    {
+        "id": 31673,
+        "name": "Paide linn",
+        "country": "EST",
+        "state": "51"
+    },
+    {
+        "id": 31712,
+        "name": "Särevere",
+        "country": "EST",
+        "state": "51"
+    },
+    {
+        "id": 31729,
+        "name": "Türi",
+        "country": "EST",
+        "state": "51"
+    },
+    {
+        "id": 31730,
+        "name": "Türi vald",
+        "country": "EST",
+        "state": "51"
+    }
+]

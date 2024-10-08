@@ -1,1 +1,3134 @@
-[{"id":0,"name":"Abrigada","country":"PRT","state":"09"},{"id":1,"name":"A\u00e7ores","country":"PRT","state":"09"},{"id":2,"name":"Ad\u00e3o","country":"PRT","state":"09"},{"id":3,"name":"Agualva","country":"PRT","state":"09"},{"id":4,"name":"\u00c1guas Belas","country":"PRT","state":"09"},{"id":5,"name":"Aguiar da Beira","country":"PRT","state":"09"},{"id":6,"name":"Ajuda","country":"PRT","state":"09"},{"id":7,"name":"Albardo","country":"PRT","state":"09"},{"id":8,"name":"Alcabideche","country":"PRT","state":"09"},{"id":9,"name":"Alcains","country":"PRT","state":"09"},{"id":10,"name":"Alc\u00e2ntara","country":"PRT","state":"09"},{"id":11,"name":"Alcoentre","country":"PRT","state":"09"},{"id":12,"name":"Aldeia da Ponte","country":"PRT","state":"09"},{"id":13,"name":"Aldeia da Ribeira","country":"PRT","state":"09"},{"id":14,"name":"Aldeia de Santo Ant\u00f3nio","country":"PRT","state":"09"},{"id":15,"name":"Aldeia do Bispo","country":"PRT","state":"09"},{"id":16,"name":"Aldeia Galega da Merceana","country":"PRT","state":"09"},{"id":17,"name":"Aldeia Gavinha","country":"PRT","state":"09"},{"id":18,"name":"Aldeia Nova Miranda do Douro","country":"PRT","state":"09"},{"id":19,"name":"Aldeia Velha","country":"PRT","state":"09"},{"id":20,"name":"Aldeia Vi\u00e7osa","country":"PRT","state":"09"},{"id":21,"name":"Aldeias","country":"PRT","state":"09"},{"id":22,"name":"Alenquer","country":"PRT","state":"09"},{"id":23,"name":"Alfaiates","country":"PRT","state":"09"},{"id":24,"name":"Alfornelos","country":"PRT","state":"09"},{"id":25,"name":"Alfragide","country":"PRT","state":"09"},{"id":26,"name":"Alg\u00e9s","country":"PRT","state":"09"},{"id":27,"name":"Algodres","country":"PRT","state":"09"},{"id":28,"name":"Alguber","country":"PRT","state":"09"},{"id":29,"name":"Algueir\u00e3o","country":"PRT","state":"09"},{"id":30,"name":"Algueir\u00e3o\u2013Mem Martins","country":"PRT","state":"09"},{"id":31,"name":"Alhandra","country":"PRT","state":"09"},{"id":32,"name":"Almargem","country":"PRT","state":"09"},{"id":33,"name":"Almargem do Bispo","country":"PRT","state":"09"},{"id":34,"name":"Almeida","country":"PRT","state":"09"},{"id":35,"name":"Almendra","country":"PRT","state":"09"},{"id":36,"name":"Almofala","country":"PRT","state":"09"},{"id":37,"name":"Alto do Pina","country":"PRT","state":"09"},{"id":38,"name":"Alvalade","country":"PRT","state":"09"},{"id":39,"name":"Alvendre","country":"PRT","state":"09"},{"id":40,"name":"Alverca da Beira","country":"PRT","state":"09"},{"id":41,"name":"Alverca do Ribatejo","country":"PRT","state":"09"},{"id":42,"name":"Alvoco da Serra","country":"PRT","state":"09"},{"id":43,"name":"Amadora","country":"PRT","state":"09"},{"id":44,"name":"Ameixoeira","country":"PRT","state":"09"},{"id":45,"name":"Amoreira","country":"PRT","state":"09"},{"id":46,"name":"Anjos","country":"PRT","state":"09"},{"id":47,"name":"Apela\u00e7\u00e3o","country":"PRT","state":"09"},{"id":48,"name":"Arcozelo","country":"PRT","state":"09"},{"id":49,"name":"Arranh\u00f3","country":"PRT","state":"09"},{"id":50,"name":"Arrifana","country":"PRT","state":"09"},{"id":51,"name":"Arruda Dos Vinhos","country":"PRT","state":"09"},{"id":52,"name":"Atalaia","country":"PRT","state":"09"},{"id":53,"name":"Aveiras de Baixo","country":"PRT","state":"09"},{"id":54,"name":"Aveiras de Cima","country":"PRT","state":"09"},{"id":55,"name":"Avel\u00e3s da Ribeira","country":"PRT","state":"09"},{"id":56,"name":"Aveloso","country":"PRT","state":"09"},{"id":57,"name":"Azambuja","country":"PRT","state":"09"},{"id":58,"name":"Azambuja (town)","country":"PRT","state":"09"},{"id":59,"name":"Azenhas do Mar","country":"PRT","state":"09"},{"id":60,"name":"Azevo","country":"PRT","state":"09"},{"id":61,"name":"Azueira","country":"PRT","state":"09"},{"id":62,"name":"Bara\u00e7al","country":"PRT","state":"09"},{"id":63,"name":"Barcarena","country":"PRT","state":"09"},{"id":64,"name":"Barreira","country":"PRT","state":"09"},{"id":65,"name":"Beato","country":"PRT","state":"09"},{"id":66,"name":"Belas","country":"PRT","state":"09"},{"id":67,"name":"Bendada","country":"PRT","state":"09"},{"id":68,"name":"Benespera","country":"PRT","state":"09"},{"id":69,"name":"Benfica","country":"PRT","state":"09"},{"id":70,"name":"Bismula","country":"PRT","state":"09"},{"id":71,"name":"Bobadela","country":"PRT","state":"09"},{"id":72,"name":"Bou\u00e7a Cova","country":"PRT","state":"09"},{"id":73,"name":"Brandoa","country":"PRT","state":"09"},{"id":74,"name":"Bucelas","country":"PRT","state":"09"},{"id":75,"name":"Buraca","country":"PRT","state":"09"},{"id":76,"name":"Cabanas de Torres","country":"PRT","state":"09"},{"id":77,"name":"Cabe\u00e7a","country":"PRT","state":"09"},{"id":78,"name":"Cacem","country":"PRT","state":"09"},{"id":79,"name":"Cachoeiras","country":"PRT","state":"09"},{"id":80,"name":"Cadafais","country":"PRT","state":"09"},{"id":81,"name":"Cadafaz","country":"PRT","state":"09"},{"id":82,"name":"Cadaval","country":"PRT","state":"09"},{"id":83,"name":"Calhandriz","country":"PRT","state":"09"},{"id":84,"name":"Camarate","country":"PRT","state":"09"},{"id":85,"name":"Campelos","country":"PRT","state":"09"},{"id":86,"name":"Campo Grande","country":"PRT","state":"09"},{"id":87,"name":"Campolide","country":"PRT","state":"09"},{"id":88,"name":"Cane\u00e7as","country":"PRT","state":"09"},{"id":89,"name":"Carapito","country":"PRT","state":"09"},{"id":90,"name":"Carcavelos","country":"PRT","state":"09"},{"id":91,"name":"Cardosas","country":"PRT","state":"09"},{"id":92,"name":"Carm\u00f5es","country":"PRT","state":"09"},{"id":93,"name":"Carnaxide","country":"PRT","state":"09"},{"id":94,"name":"Carnic\u00e3es","country":"PRT","state":"09"},{"id":95,"name":"Carnide","country":"PRT","state":"09"},{"id":96,"name":"Carnota","country":"PRT","state":"09"},{"id":97,"name":"Carragozela","country":"PRT","state":"09"},{"id":98,"name":"Carrapichana","country":"PRT","state":"09"},{"id":99,"name":"Carregado","country":"PRT","state":"09"},{"id":100,"name":"Carvalhal","country":"PRT","state":"09"},{"id":101,"name":"Carvoeira","country":"PRT","state":"09"},{"id":102,"name":"Casal de Cambra","country":"PRT","state":"09"},{"id":103,"name":"Casal de Cinza","country":"PRT","state":"09"},{"id":104,"name":"Casal Vasco","country":"PRT","state":"09"},{"id":105,"name":"Casas do Soeiro","country":"PRT","state":"09"},{"id":106,"name":"Cascais","country":"PRT","state":"09"},{"id":107,"name":"Castanheira","country":"PRT","state":"09"},{"id":108,"name":"Castanheira do Ribatejo","country":"PRT","state":"09"},{"id":109,"name":"Castei\u00e7\u00e3o","country":"PRT","state":"09"},{"id":110,"name":"Casteleiro","country":"PRT","state":"09"},{"id":111,"name":"Castelo (Lisbon)","country":"PRT","state":"09"},{"id":112,"name":"Castelo Bom","country":"PRT","state":"09"},{"id":113,"name":"Castelo Melhor","country":"PRT","state":"09"},{"id":114,"name":"Castelo Rodrigo","country":"PRT","state":"09"},{"id":115,"name":"Cativelos","country":"PRT","state":"09"},{"id":116,"name":"Cavadoude","country":"PRT","state":"09"},{"id":117,"name":"Caxias","country":"PRT","state":"09"},{"id":118,"name":"Cedovim","country":"PRT","state":"09"},{"id":119,"name":"Celorico da Beira","country":"PRT","state":"09"},{"id":120,"name":"Cercal","country":"PRT","state":"09"},{"id":121,"name":"Cerdeira","country":"PRT","state":"09"},{"id":122,"name":"Cerejo","country":"PRT","state":"09"},{"id":123,"name":"Charneca","country":"PRT","state":"09"},{"id":124,"name":"Ch\u00e3s","country":"PRT","state":"09"},{"id":125,"name":"Cheleiros","country":"PRT","state":"09"},{"id":126,"name":"Codesseiro","country":"PRT","state":"09"},{"id":127,"name":"Cogula","country":"PRT","state":"09"},{"id":128,"name":"Colares","country":"PRT","state":"09"},{"id":129,"name":"Cora\u00e7\u00e3o de Jesus","country":"PRT","state":"09"},{"id":130,"name":"Coriscada","country":"PRT","state":"09"},{"id":131,"name":"Corti\u00e7ada","country":"PRT","state":"09"},{"id":132,"name":"Corti\u00e7\u00f4","country":"PRT","state":"09"},{"id":133,"name":"Corti\u00e7\u00f4 da Serra","country":"PRT","state":"09"},{"id":134,"name":"Coruche","country":"PRT","state":"09"},{"id":135,"name":"Corujeira","country":"PRT","state":"09"},{"id":136,"name":"C\u00f3timos","country":"PRT","state":"09"},{"id":137,"name":"Cruz Quebrada - Dafundo","country":"PRT","state":"09"},{"id":138,"name":"Custoias","country":"PRT","state":"09"},{"id":139,"name":"Damaia","country":"PRT","state":"09"},{"id":140,"name":"Dois Portos","country":"PRT","state":"09"},{"id":141,"name":"Dornelas","country":"PRT","state":"09"},{"id":142,"name":"Eirado","country":"PRT","state":"09"},{"id":143,"name":"Encarna\u00e7\u00e3o","country":"PRT","state":"09"},{"id":144,"name":"Enxara do Bispo","country":"PRT","state":"09"},{"id":145,"name":"Ericeira","country":"PRT","state":"09"},{"id":146,"name":"Ervas Tenras","country":"PRT","state":"09"},{"id":147,"name":"Ervedosa","country":"PRT","state":"09"},{"id":148,"name":"Escalh\u00e3o","country":"PRT","state":"09"},{"id":149,"name":"Estoril","country":"PRT","state":"09"},{"id":150,"name":"Faia","country":"PRT","state":"09"},{"id":151,"name":"Falagueira","country":"PRT","state":"09"},{"id":152,"name":"Famalic\u00e3o","country":"PRT","state":"09"},{"id":153,"name":"Fam\u00f5es","country":"PRT","state":"09"},{"id":154,"name":"Fanh\u00f5es","country":"PRT","state":"09"},{"id":155,"name":"Fern\u00e3o Joanes","country":"PRT","state":"09"},{"id":156,"name":"Fi\u00e3es","country":"PRT","state":"09"},{"id":157,"name":"Figueira de Castelo Rodrigo","country":"PRT","state":"09"},{"id":158,"name":"Figueira do Guincho","country":"PRT","state":"09"},{"id":159,"name":"Figueir\u00f3 da Granja","country":"PRT","state":"09"},{"id":160,"name":"Figueir\u00f3 da Serra","country":"PRT","state":"09"},{"id":161,"name":"Figueiros","country":"PRT","state":"09"},{"id":162,"name":"F\u00f3ios","country":"PRT","state":"09"},{"id":163,"name":"Folgosinho","country":"PRT","state":"09"},{"id":164,"name":"Folhadosa","country":"PRT","state":"09"},{"id":165,"name":"Fontanelas","country":"PRT","state":"09"},{"id":166,"name":"Fonte Longa","country":"PRT","state":"09"},{"id":167,"name":"Forninhos","country":"PRT","state":"09"},{"id":168,"name":"Forno Telheiro","country":"PRT","state":"09"},{"id":169,"name":"Fornos de Algodres","country":"PRT","state":"09"},{"id":170,"name":"Forte da Casa","country":"PRT","state":"09"},{"id":171,"name":"Freches","country":"PRT","state":"09"},{"id":172,"name":"Freineda","country":"PRT","state":"09"},{"id":173,"name":"Freiria","country":"PRT","state":"09"},{"id":174,"name":"Freixeda do Torr\u00e3o","country":"PRT","state":"09"},{"id":175,"name":"Freixedas","country":"PRT","state":"09"},{"id":176,"name":"Freixo","country":"PRT","state":"09"},{"id":177,"name":"Freixo de Num\u00e3o","country":"PRT","state":"09"},{"id":178,"name":"Frielas","country":"PRT","state":"09"},{"id":179,"name":"Gagos","country":"PRT","state":"09"},{"id":180,"name":"Girabolhos","country":"PRT","state":"09"},{"id":181,"name":"Gon\u00e7alo","country":"PRT","state":"09"},{"id":182,"name":"Gon\u00e7alo Bocas","country":"PRT","state":"09"},{"id":183,"name":"Gouveia","country":"PRT","state":"09"},{"id":184,"name":"Gra\u00e7a","country":"PRT","state":"09"},{"id":185,"name":"Gradil","country":"PRT","state":"09"},{"id":186,"name":"Gradiz","country":"PRT","state":"09"},{"id":187,"name":"Granja","country":"PRT","state":"09"},{"id":188,"name":"Guarda","country":"PRT","state":"09"},{"id":189,"name":"Guilheiro","country":"PRT","state":"09"},{"id":190,"name":"Horta","country":"PRT","state":"09"},{"id":191,"name":"Igreja Nova","country":"PRT","state":"09"},{"id":192,"name":"Infias","country":"PRT","state":"09"},{"id":193,"name":"Jarmelo S\u00e3o Miguel","country":"PRT","state":"09"},{"id":194,"name":"Jarmelo S\u00e3o Pedro","country":"PRT","state":"09"},{"id":195,"name":"Jo\u00e3o Ant\u00e3o","country":"PRT","state":"09"},{"id":196,"name":"Jun\u00e7a","country":"PRT","state":"09"},{"id":197,"name":"Juncais","country":"PRT","state":"09"},{"id":198,"name":"Lagarinhos","country":"PRT","state":"09"},{"id":199,"name":"Lajeosa","country":"PRT","state":"09"},{"id":200,"name":"Lajeosa do Mondego","country":"PRT","state":"09"},{"id":201,"name":"Lajes","country":"PRT","state":"09"},{"id":202,"name":"Lamas","country":"PRT","state":"09"},{"id":203,"name":"Lamegal","country":"PRT","state":"09"},{"id":204,"name":"Lameiras","country":"PRT","state":"09"},{"id":205,"name":"Lapa","country":"PRT","state":"09"},{"id":206,"name":"Lapa Dos Dinheiros","country":"PRT","state":"09"},{"id":207,"name":"Leomil","country":"PRT","state":"09"},{"id":208,"name":"Linda-a-Velha","country":"PRT","state":"09"},{"id":209,"name":"Linhares (Celorico da Beira)","country":"PRT","state":"09"},{"id":210,"name":"Lisbon","country":"PRT","state":"09"},{"id":211,"name":"Longroiva","country":"PRT","state":"09"},{"id":212,"name":"Loriga","country":"PRT","state":"09"},{"id":213,"name":"Loures","country":"PRT","state":"09"},{"id":214,"name":"Lourinh\u00e3","country":"PRT","state":"09"},{"id":215,"name":"Lousa","country":"PRT","state":"09"},{"id":216,"name":"Lumiar","country":"PRT","state":"09"},{"id":217,"name":"Ma\u00e7ainhas","country":"PRT","state":"09"},{"id":218,"name":"Ma\u00e7al do Ch\u00e3o","country":"PRT","state":"09"},{"id":219,"name":"Maceira","country":"PRT","state":"09"},{"id":220,"name":"Ma\u00e7ussa","country":"PRT","state":"09"},{"id":221,"name":"Madalena","country":"PRT","state":"09"},{"id":222,"name":"Mafra","country":"PRT","state":"09"},{"id":223,"name":"Malcata","country":"PRT","state":"09"},{"id":224,"name":"Malhada Sorda","country":"PRT","state":"09"},{"id":225,"name":"Malpartida","country":"PRT","state":"09"},{"id":226,"name":"Malveira","country":"PRT","state":"09"},{"id":227,"name":"Mangualde da Serra","country":"PRT","state":"09"},{"id":228,"name":"Manigoto","country":"PRT","state":"09"},{"id":229,"name":"Manique do Intendente","country":"PRT","state":"09"},{"id":230,"name":"Manteigas","country":"PRT","state":"09"},{"id":231,"name":"Manteigas (S\u00e3o Pedro)","country":"PRT","state":"09"},{"id":232,"name":"Marialva","country":"PRT","state":"09"},{"id":233,"name":"Marmeleiro","country":"PRT","state":"09"},{"id":234,"name":"Marteleira","country":"PRT","state":"09"},{"id":235,"name":"M\u00e1rtires","country":"PRT","state":"09"},{"id":236,"name":"Marvila","country":"PRT","state":"09"},{"id":237,"name":"Massam\u00e1","country":"PRT","state":"09"},{"id":238,"name":"Mata de Lobos","country":"PRT","state":"09"},{"id":239,"name":"Matac\u00e3es","country":"PRT","state":"09"},{"id":240,"name":"Matan\u00e7a","country":"PRT","state":"09"},{"id":241,"name":"Maxial","country":"PRT","state":"09"},{"id":242,"name":"Meca","country":"PRT","state":"09"},{"id":243,"name":"M\u00eada","country":"PRT","state":"09"},{"id":244,"name":"Meios","country":"PRT","state":"09"},{"id":245,"name":"Melo","country":"PRT","state":"09"},{"id":246,"name":"Mem Martins","country":"PRT","state":"09"},{"id":247,"name":"Merc\u00eas","country":"PRT","state":"09"},{"id":248,"name":"Mesquitela","country":"PRT","state":"09"},{"id":249,"name":"Milharado","country":"PRT","state":"09"},{"id":250,"name":"Mina","country":"PRT","state":"09"},{"id":251,"name":"Minhocal","country":"PRT","state":"09"},{"id":252,"name":"Mira-Sintra","country":"PRT","state":"09"},{"id":253,"name":"Miragaia","country":"PRT","state":"09"},{"id":254,"name":"Miuzela","country":"PRT","state":"09"},{"id":255,"name":"Mizarela","country":"PRT","state":"09"},{"id":256,"name":"Moimenta da Serra","country":"PRT","state":"09"},{"id":257,"name":"Moimentinha","country":"PRT","state":"09"},{"id":258,"name":"Moita","country":"PRT","state":"09"},{"id":259,"name":"Moita dos Ferreiros","country":"PRT","state":"09"},{"id":260,"name":"Moledo","country":"PRT","state":"09"},{"id":261,"name":"Monte Abra\u00e3o","country":"PRT","state":"09"},{"id":262,"name":"Monte Estoril","country":"PRT","state":"09"},{"id":263,"name":"Monte Redondo","country":"PRT","state":"09"},{"id":264,"name":"Montelavar","country":"PRT","state":"09"},{"id":265,"name":"Moreira de Rei","country":"PRT","state":"09"},{"id":266,"name":"M\u00f3s","country":"PRT","state":"09"},{"id":267,"name":"Moscavide","country":"PRT","state":"09"},{"id":268,"name":"Mur\u00e7a","country":"PRT","state":"09"},{"id":269,"name":"Muxagata","country":"PRT","state":"09"},{"id":270,"name":"Nabais","country":"PRT","state":"09"},{"id":271,"name":"Nave","country":"PRT","state":"09"},{"id":272,"name":"Nave de Haver","country":"PRT","state":"09"},{"id":273,"name":"Nespereira","country":"PRT","state":"09"},{"id":274,"name":"Nossa Senhora de F\u00e1tima","country":"PRT","state":"09"},{"id":275,"name":"Num\u00e3o","country":"PRT","state":"09"},{"id":276,"name":"Odivelas","country":"PRT","state":"09"},{"id":277,"name":"Odivelas Municipality","country":"PRT","state":"09"},{"id":278,"name":"Oeiras","country":"PRT","state":"09"},{"id":279,"name":"Oeiras e S\u00e3o Juli\u00e3o da Barra","country":"PRT","state":"09"},{"id":280,"name":"Olhalvo","country":"PRT","state":"09"},{"id":281,"name":"Olival de Basto","country":"PRT","state":"09"},{"id":282,"name":"Olival do Basto","country":"PRT","state":"09"},{"id":283,"name":"Ota","country":"PRT","state":"09"},{"id":284,"name":"Outeiro da Cabe\u00e7a","country":"PRT","state":"09"},{"id":285,"name":"Outeiro de Gatos","country":"PRT","state":"09"},{"id":286,"name":"Pa\u00e7o de Arcos","country":"PRT","state":"09"},{"id":287,"name":"Pa\u00e7os da Serra","country":"PRT","state":"09"},{"id":288,"name":"Painho","country":"PRT","state":"09"},{"id":289,"name":"Pala","country":"PRT","state":"09"},{"id":290,"name":"Palhais","country":"PRT","state":"09"},{"id":291,"name":"Panoias de Cima","country":"PRT","state":"09"},{"id":292,"name":"Parada","country":"PRT","state":"09"},{"id":293,"name":"Paranhos","country":"PRT","state":"09"},{"id":294,"name":"Parede","country":"PRT","state":"09"},{"id":295,"name":"Pega","country":"PRT","state":"09"},{"id":296,"name":"Pena","country":"PRT","state":"09"},{"id":297,"name":"Pena Lobo","country":"PRT","state":"09"},{"id":298,"name":"Pena Verde","country":"PRT","state":"09"},{"id":299,"name":"Penha de \u00c1guia","country":"PRT","state":"09"},{"id":300,"name":"Penha de Fran\u00e7a","country":"PRT","state":"09"},{"id":301,"name":"P\u00eara do Mo\u00e7o","country":"PRT","state":"09"},{"id":302,"name":"Peral","country":"PRT","state":"09"},{"id":303,"name":"Pereiro","country":"PRT","state":"09"},{"id":304,"name":"Pereiro de Palhacana","country":"PRT","state":"09"},{"id":305,"name":"P\u00earo Moniz","country":"PRT","state":"09"},{"id":306,"name":"Pero Pinheiro","country":"PRT","state":"09"},{"id":307,"name":"Peva","country":"PRT","state":"09"},{"id":308,"name":"Pinhan\u00e7os","country":"PRT","state":"09"},{"id":309,"name":"Pinheiro","country":"PRT","state":"09"},{"id":310,"name":"Pinhel","country":"PRT","state":"09"},{"id":311,"name":"P\u00ednzio","country":"PRT","state":"09"},{"id":312,"name":"Po\u00e7o do Canto","country":"PRT","state":"09"},{"id":313,"name":"Pomares","country":"PRT","state":"09"},{"id":314,"name":"Ponte do Rol","country":"PRT","state":"09"},{"id":315,"name":"Pontinha","country":"PRT","state":"09"},{"id":316,"name":"Portela","country":"PRT","state":"09"},{"id":317,"name":"Porto da Carne","country":"PRT","state":"09"},{"id":318,"name":"Porto Salvo","country":"PRT","state":"09"},{"id":319,"name":"Pousada","country":"PRT","state":"09"},{"id":320,"name":"Pousafoles do Bispo","country":"PRT","state":"09"},{"id":321,"name":"P\u00f3voa de Santa Iria","country":"PRT","state":"09"},{"id":322,"name":"P\u00f3voa de Santo Adri\u00e3o","country":"PRT","state":"09"},{"id":323,"name":"P\u00f3voa do Concelho","country":"PRT","state":"09"},{"id":324,"name":"Prados","country":"PRT","state":"09"},{"id":325,"name":"Prazeres","country":"PRT","state":"09"},{"id":326,"name":"Prior Velho","country":"PRT","state":"09"},{"id":327,"name":"Prova","country":"PRT","state":"09"},{"id":328,"name":"Quadrazais","country":"PRT","state":"09"},{"id":329,"name":"Queijas","country":"PRT","state":"09"},{"id":330,"name":"Queiriz","country":"PRT","state":"09"},{"id":331,"name":"Queluz","country":"PRT","state":"09"},{"id":332,"name":"Quint\u00e3 de P\u00earo Martins","country":"PRT","state":"09"},{"id":333,"name":"Quintas de S\u00e3o Bartolomeu","country":"PRT","state":"09"},{"id":334,"name":"Raba\u00e7al","country":"PRT","state":"09"},{"id":335,"name":"Ramada","country":"PRT","state":"09"},{"id":336,"name":"Ramalhal","country":"PRT","state":"09"},{"id":337,"name":"Ramela","country":"PRT","state":"09"},{"id":338,"name":"Ranhados","country":"PRT","state":"09"},{"id":339,"name":"Rapa","country":"PRT","state":"09"},{"id":340,"name":"Rapoula do C\u00f4a","country":"PRT","state":"09"},{"id":341,"name":"Ratoeira","country":"PRT","state":"09"},{"id":342,"name":"Reboleira","country":"PRT","state":"09"},{"id":343,"name":"Reboleiro","country":"PRT","state":"09"},{"id":344,"name":"Rebolosa","country":"PRT","state":"09"},{"id":345,"name":"Reguengo Grande","country":"PRT","state":"09"},{"id":346,"name":"Reigada","country":"PRT","state":"09"},{"id":347,"name":"Rendo","country":"PRT","state":"09"},{"id":348,"name":"Ribafria","country":"PRT","state":"09"},{"id":349,"name":"Ribamar","country":"PRT","state":"09"},{"id":350,"name":"Ribamondego","country":"PRT","state":"09"},{"id":351,"name":"Ribeira Dos Carinhos","country":"PRT","state":"09"},{"id":352,"name":"Rio de Mel","country":"PRT","state":"09"},{"id":353,"name":"Rio de Mouro","country":"PRT","state":"09"},{"id":354,"name":"Rio Torto","country":"PRT","state":"09"},{"id":355,"name":"Rochoso","country":"PRT","state":"09"},{"id":356,"name":"Runa","country":"PRT","state":"09"},{"id":357,"name":"Ruvina","country":"PRT","state":"09"},{"id":358,"name":"Sabugal","country":"PRT","state":"09"},{"id":359,"name":"Sabugueiro","country":"PRT","state":"09"},{"id":360,"name":"Sacav\u00e9m","country":"PRT","state":"09"},{"id":361,"name":"Sacramento","country":"PRT","state":"09"},{"id":362,"name":"Safurd\u00e3o","country":"PRT","state":"09"},{"id":363,"name":"Salgueirais","country":"PRT","state":"09"},{"id":364,"name":"Sameice","country":"PRT","state":"09"},{"id":365,"name":"Sameiro","country":"PRT","state":"09"},{"id":366,"name":"Sandomil","country":"PRT","state":"09"},{"id":367,"name":"Santa B\u00e1rbara","country":"PRT","state":"09"},{"id":368,"name":"Santa Catarina","country":"PRT","state":"09"},{"id":369,"name":"Santa Comba","country":"PRT","state":"09"},{"id":370,"name":"Santa Engr\u00e1cia","country":"PRT","state":"09"},{"id":371,"name":"Santa Euf\u00e9mia","country":"PRT","state":"09"},{"id":372,"name":"Santa Eul\u00e1lia","country":"PRT","state":"09"},{"id":373,"name":"Santa Iria da Az\u00f3ia","country":"PRT","state":"09"},{"id":374,"name":"Santa Iria de Azoia","country":"PRT","state":"09"},{"id":375,"name":"Santa Isabel","country":"PRT","state":"09"},{"id":376,"name":"Santa Justa","country":"PRT","state":"09"},{"id":377,"name":"Santa Maria","country":"PRT","state":"09"},{"id":378,"name":"Santa Maria de Bel\u00e9m","country":"PRT","state":"09"},{"id":379,"name":"Santa Maria do Castelo e S\u00e3o Miguel","country":"PRT","state":"09"},{"id":380,"name":"Santa Maria dos Olivais","country":"PRT","state":"09"},{"id":381,"name":"Santa Maria e S\u00e3o Miguel","country":"PRT","state":"09"},{"id":382,"name":"Santa Marinha","country":"PRT","state":"09"},{"id":383,"name":"Santana da Azinha","country":"PRT","state":"09"},{"id":384,"name":"Santiago","country":"PRT","state":"09"},{"id":385,"name":"Santiago dos Velhos","country":"PRT","state":"09"},{"id":386,"name":"Santo Ant\u00e3o do Tojal","country":"PRT","state":"09"},{"id":387,"name":"Santo Ant\u00f3nio dos Cavaleiros","country":"PRT","state":"09"},{"id":388,"name":"Santo Condest\u00e1vel","country":"PRT","state":"09"},{"id":389,"name":"Santo Est\u00eav\u00e3o","country":"PRT","state":"09"},{"id":390,"name":"Santo Est\u00eav\u00e3o das Gal\u00e9s","country":"PRT","state":"09"},{"id":391,"name":"Santo Isidoro","country":"PRT","state":"09"},{"id":392,"name":"Santo Quintino","country":"PRT","state":"09"},{"id":393,"name":"Santos-o-Velho","country":"PRT","state":"09"},{"id":394,"name":"S\u00e3o Bartolomeu","country":"PRT","state":"09"},{"id":395,"name":"S\u00e3o Bartolomeu dos Galegos","country":"PRT","state":"09"},{"id":396,"name":"S\u00e3o Br\u00e1s","country":"PRT","state":"09"},{"id":397,"name":"S\u00e3o Crist\u00f3v\u00e3o e S\u00e3o Louren\u00e7o","country":"PRT","state":"09"},{"id":398,"name":"S\u00e3o Domingos de Benfica","country":"PRT","state":"09"},{"id":399,"name":"S\u00e3o Domingos de Rana","country":"PRT","state":"09"},{"id":400,"name":"S\u00e3o Francisco Xavier","country":"PRT","state":"09"},{"id":401,"name":"S\u00e3o Jo\u00e3o","country":"PRT","state":"09"},{"id":402,"name":"S\u00e3o Jo\u00e3o da Talha","country":"PRT","state":"09"},{"id":403,"name":"S\u00e3o Jo\u00e3o das Lampas","country":"PRT","state":"09"},{"id":404,"name":"S\u00e3o Jo\u00e3o de Brito","country":"PRT","state":"09"},{"id":405,"name":"S\u00e3o Jo\u00e3o de Deus","country":"PRT","state":"09"},{"id":406,"name":"S\u00e3o Jo\u00e3o Dos Montes","country":"PRT","state":"09"},{"id":407,"name":"S\u00e3o Jorge de Arroios","country":"PRT","state":"09"},{"id":408,"name":"S\u00e3o Jos\u00e9","country":"PRT","state":"09"},{"id":409,"name":"S\u00e3o Juli\u00e3o","country":"PRT","state":"09"},{"id":410,"name":"S\u00e3o Juli\u00e3o do Tojal","country":"PRT","state":"09"},{"id":411,"name":"S\u00e3o Mamede","country":"PRT","state":"09"},{"id":412,"name":"S\u00e3o Marcos","country":"PRT","state":"09"},{"id":413,"name":"S\u00e3o Martinho","country":"PRT","state":"09"},{"id":414,"name":"S\u00e3o Miguel","country":"PRT","state":"09"},{"id":415,"name":"S\u00e3o Miguel da Guarda","country":"PRT","state":"09"},{"id":416,"name":"S\u00e3o Miguel de Alcain\u00e7a","country":"PRT","state":"09"},{"id":417,"name":"S\u00e3o Nicolau","country":"PRT","state":"09"},{"id":418,"name":"S\u00e3o Paio","country":"PRT","state":"09"},{"id":419,"name":"S\u00e3o Paulo","country":"PRT","state":"09"},{"id":420,"name":"S\u00e3o Pedro","country":"PRT","state":"09"},{"id":421,"name":"S\u00e3o Pedro da Cadeira","country":"PRT","state":"09"},{"id":422,"name":"S\u00e3o Pedro de Penaferrim","country":"PRT","state":"09"},{"id":423,"name":"S\u00e3o Pedro de Rio Seco","country":"PRT","state":"09"},{"id":424,"name":"S\u00e3o Rom\u00e3o","country":"PRT","state":"09"},{"id":425,"name":"S\u00e3o Sebasti\u00e3o da Pedreira","country":"PRT","state":"09"},{"id":426,"name":"S\u00e3o Vicente","country":"PRT","state":"09"},{"id":427,"name":"S\u00e3o Vicente de Fora","country":"PRT","state":"09"},{"id":428,"name":"Sapataria","country":"PRT","state":"09"},{"id":429,"name":"Sazes da Beira","country":"PRT","state":"09"},{"id":430,"name":"S\u00e9","country":"PRT","state":"09"},{"id":431,"name":"Sebadelhe","country":"PRT","state":"09"},{"id":432,"name":"Sebadelhe da Serra","country":"PRT","state":"09"},{"id":433,"name":"Seia","country":"PRT","state":"09"},{"id":434,"name":"Seixas","country":"PRT","state":"09"},{"id":435,"name":"Seixo do C\u00f4a","country":"PRT","state":"09"},{"id":436,"name":"Sequeira","country":"PRT","state":"09"},{"id":437,"name":"Sequeiros","country":"PRT","state":"09"},{"id":438,"name":"Silveira","country":"PRT","state":"09"},{"id":439,"name":"Sintra","country":"PRT","state":"09"},{"id":440,"name":"Sintra (town)","country":"PRT","state":"09"},{"id":441,"name":"Sobral da Abelheira","country":"PRT","state":"09"},{"id":442,"name":"Sobral da Serra","country":"PRT","state":"09"},{"id":443,"name":"Sobral de Monte Agra\u00e7o","country":"PRT","state":"09"},{"id":444,"name":"Sobral Pichorro","country":"PRT","state":"09"},{"id":445,"name":"Sobralinho","country":"PRT","state":"09"},{"id":446,"name":"Socorro","country":"PRT","state":"09"},{"id":447,"name":"Sortelha","country":"PRT","state":"09"},{"id":448,"name":"Souro Pires","country":"PRT","state":"09"},{"id":449,"name":"Souto","country":"PRT","state":"09"},{"id":450,"name":"Souto de Aguiar da Beira","country":"PRT","state":"09"},{"id":451,"name":"Souto Maior","country":"PRT","state":"09"},{"id":452,"name":"Tamanhos","country":"PRT","state":"09"},{"id":453,"name":"Teixeira","country":"PRT","state":"09"},{"id":454,"name":"Terrenho","country":"PRT","state":"09"},{"id":455,"name":"Terrugem","country":"PRT","state":"09"},{"id":456,"name":"Torre do Terrenho","country":"PRT","state":"09"},{"id":457,"name":"Torres","country":"PRT","state":"09"},{"id":458,"name":"Torres Vedras","country":"PRT","state":"09"},{"id":459,"name":"Torrozelo","country":"PRT","state":"09"},{"id":460,"name":"Tou\u00e7a","country":"PRT","state":"09"},{"id":461,"name":"Tourais","country":"PRT","state":"09"},{"id":462,"name":"Trancoso","country":"PRT","state":"09"},{"id":463,"name":"Travancinha","country":"PRT","state":"09"},{"id":464,"name":"Triana","country":"PRT","state":"09"},{"id":465,"name":"Trinta","country":"PRT","state":"09"},{"id":466,"name":"Turcifal","country":"PRT","state":"09"},{"id":467,"name":"Unhos","country":"PRT","state":"09"},{"id":468,"name":"Valbom","country":"PRT","state":"09"},{"id":469,"name":"Valdujo","country":"PRT","state":"09"},{"id":470,"name":"Vale da Mula","country":"PRT","state":"09"},{"id":471,"name":"Vale de Amoreira","country":"PRT","state":"09"},{"id":472,"name":"Vale de Azares","country":"PRT","state":"09"},{"id":473,"name":"Vale de Espinho","country":"PRT","state":"09"},{"id":474,"name":"Vale de Estrela","country":"PRT","state":"09"},{"id":475,"name":"Vale do Para\u00edso","country":"PRT","state":"09"},{"id":476,"name":"Vale do Seixo","country":"PRT","state":"09"},{"id":477,"name":"Vale Flor","country":"PRT","state":"09"},{"id":478,"name":"Valezim","country":"PRT","state":"09"},{"id":479,"name":"Valhelhas","country":"PRT","state":"09"},{"id":480,"name":"Valverde","country":"PRT","state":"09"},{"id":481,"name":"V\u00e1rzea de Meruge","country":"PRT","state":"09"},{"id":482,"name":"Vascoveiro","country":"PRT","state":"09"},{"id":483,"name":"Vela","country":"PRT","state":"09"},{"id":484,"name":"Velosa","country":"PRT","state":"09"},{"id":485,"name":"Venda do Pinheiro","country":"PRT","state":"09"},{"id":486,"name":"Venda Nova","country":"PRT","state":"09"},{"id":487,"name":"Venteira","country":"PRT","state":"09"},{"id":488,"name":"Ventosa","country":"PRT","state":"09"},{"id":489,"name":"Vermelha","country":"PRT","state":"09"},{"id":490,"name":"Vermiosa","country":"PRT","state":"09"},{"id":491,"name":"Vialonga","country":"PRT","state":"09"},{"id":492,"name":"Vide","country":"PRT","state":"09"},{"id":493,"name":"Vide Entre Vinhas","country":"PRT","state":"09"},{"id":494,"name":"Videmonte","country":"PRT","state":"09"},{"id":495,"name":"Vila Boa","country":"PRT","state":"09"},{"id":496,"name":"Vila Boa do Mondego","country":"PRT","state":"09"},{"id":497,"name":"Vila Cort\u00eas da Serra","country":"PRT","state":"09"},{"id":498,"name":"Vila Cort\u00eas do Mondego","country":"PRT","state":"09"},{"id":499,"name":"Vila Cova \u00e0 Coelheira","country":"PRT","state":"09"},{"id":500,"name":"Vila do Touro","country":"PRT","state":"09"},{"id":501,"name":"Vila Fernando","country":"PRT","state":"09"},{"id":502,"name":"Vila Franca da Serra","country":"PRT","state":"09"},{"id":503,"name":"Vila Franca das Naves","country":"PRT","state":"09"},{"id":504,"name":"Vila Franca de Xira","country":"PRT","state":"09"},{"id":505,"name":"Vila Franca do De\u00e3o","country":"PRT","state":"09"},{"id":506,"name":"Vila Franca do Ros\u00e1rio","country":"PRT","state":"09"},{"id":507,"name":"Vila Garcia","country":"PRT","state":"09"},{"id":508,"name":"Vila Nova da Rainha","country":"PRT","state":"09"},{"id":509,"name":"Vila Nova de Foz C\u00f4a","country":"PRT","state":"09"},{"id":510,"name":"Vila Nova de S\u00e3o Pedro","country":"PRT","state":"09"},{"id":511,"name":"Vila Nova de Tazem","country":"PRT","state":"09"},{"id":512,"name":"Vila Ruiva","country":"PRT","state":"09"},{"id":513,"name":"Vila Soeiro do Ch\u00e3o","country":"PRT","state":"09"},{"id":514,"name":"Vila Verde","country":"PRT","state":"09"},{"id":515,"name":"Vila Verde dos Francos","country":"PRT","state":"09"},{"id":516,"name":"Vilar","country":"PRT","state":"09"},{"id":517,"name":"Vilar de Amargo","country":"PRT","state":"09"},{"id":518,"name":"Vilar Formoso","country":"PRT","state":"09"},{"id":519,"name":"Vilar Maior","country":"PRT","state":"09"},{"id":520,"name":"Vilar Torpim","country":"PRT","state":"09"},{"id":521,"name":"Vilares","country":"PRT","state":"09"},{"id":522,"name":"Vimeiro","country":"PRT","state":"09"},{"id":523,"name":"Vinh\u00f3","country":"PRT","state":"09"}]
+[
+    {
+        "id": 143237,
+        "name": "Abrigada",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143297,
+        "name": "Açores",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143238,
+        "name": "Adão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143239,
+        "name": "Agualva",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143760,
+        "name": "Águas Belas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143240,
+        "name": "Aguiar da Beira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143241,
+        "name": "Ajuda",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143242,
+        "name": "Albardo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143243,
+        "name": "Alcabideche",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143244,
+        "name": "Alcains",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143246,
+        "name": "Alcântara",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143245,
+        "name": "Alcoentre",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143252,
+        "name": "Aldeia da Ponte",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143253,
+        "name": "Aldeia da Ribeira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143254,
+        "name": "Aldeia de Santo António",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143255,
+        "name": "Aldeia do Bispo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143247,
+        "name": "Aldeia Galega da Merceana",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143248,
+        "name": "Aldeia Gavinha",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143249,
+        "name": "Aldeia Nova Miranda do Douro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143250,
+        "name": "Aldeia Velha",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143251,
+        "name": "Aldeia Viçosa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143256,
+        "name": "Aldeias",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143257,
+        "name": "Alenquer",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143258,
+        "name": "Alfaiates",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143259,
+        "name": "Alfornelos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143260,
+        "name": "Alfragide",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143265,
+        "name": "Algés",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143261,
+        "name": "Algodres",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143262,
+        "name": "Alguber",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143263,
+        "name": "Algueirão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143264,
+        "name": "Algueirão–Mem Martins",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143266,
+        "name": "Alhandra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143267,
+        "name": "Almargem",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143268,
+        "name": "Almargem do Bispo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143269,
+        "name": "Almeida",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143270,
+        "name": "Almendra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143271,
+        "name": "Almofala",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143272,
+        "name": "Alto do Pina",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143273,
+        "name": "Alvalade",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143274,
+        "name": "Alvendre",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143275,
+        "name": "Alverca da Beira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143276,
+        "name": "Alverca do Ribatejo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143277,
+        "name": "Alvoco da Serra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143278,
+        "name": "Amadora",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143279,
+        "name": "Ameixoeira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143280,
+        "name": "Amoreira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143281,
+        "name": "Anjos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143282,
+        "name": "Apelação",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143283,
+        "name": "Arcozelo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143284,
+        "name": "Arranhó",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143285,
+        "name": "Arrifana",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143286,
+        "name": "Arruda Dos Vinhos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143287,
+        "name": "Atalaia",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143288,
+        "name": "Aveiras de Baixo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143289,
+        "name": "Aveiras de Cima",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143291,
+        "name": "Avelãs da Ribeira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143290,
+        "name": "Aveloso",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143292,
+        "name": "Azambuja",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143293,
+        "name": "Azambuja (town)",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143294,
+        "name": "Azenhas do Mar",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143295,
+        "name": "Azevo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143296,
+        "name": "Azueira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143298,
+        "name": "Baraçal",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143299,
+        "name": "Barcarena",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143300,
+        "name": "Barreira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143301,
+        "name": "Beato",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143302,
+        "name": "Belas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143303,
+        "name": "Bendada",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143304,
+        "name": "Benespera",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143305,
+        "name": "Benfica",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143306,
+        "name": "Bismula",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143307,
+        "name": "Bobadela",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143308,
+        "name": "Bouça Cova",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143309,
+        "name": "Brandoa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143310,
+        "name": "Bucelas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143311,
+        "name": "Buraca",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143312,
+        "name": "Cabanas de Torres",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143313,
+        "name": "Cabeça",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143314,
+        "name": "Cacem",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143315,
+        "name": "Cachoeiras",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143316,
+        "name": "Cadafais",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143317,
+        "name": "Cadafaz",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143318,
+        "name": "Cadaval",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143319,
+        "name": "Calhandriz",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143320,
+        "name": "Camarate",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143321,
+        "name": "Campelos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143322,
+        "name": "Campo Grande",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143323,
+        "name": "Campolide",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143324,
+        "name": "Caneças",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143325,
+        "name": "Carapito",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143326,
+        "name": "Carcavelos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143327,
+        "name": "Cardosas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143328,
+        "name": "Carmões",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143329,
+        "name": "Carnaxide",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143330,
+        "name": "Carnicães",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143331,
+        "name": "Carnide",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143332,
+        "name": "Carnota",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143333,
+        "name": "Carragozela",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143334,
+        "name": "Carrapichana",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143335,
+        "name": "Carregado",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143336,
+        "name": "Carvalhal",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143337,
+        "name": "Carvoeira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143339,
+        "name": "Casal de Cambra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143340,
+        "name": "Casal de Cinza",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143338,
+        "name": "Casal Vasco",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143341,
+        "name": "Casas do Soeiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143342,
+        "name": "Cascais",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143343,
+        "name": "Castanheira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143344,
+        "name": "Castanheira do Ribatejo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143345,
+        "name": "Casteição",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143346,
+        "name": "Casteleiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143347,
+        "name": "Castelo (Lisbon)",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143348,
+        "name": "Castelo Bom",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143349,
+        "name": "Castelo Melhor",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143350,
+        "name": "Castelo Rodrigo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143351,
+        "name": "Cativelos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143352,
+        "name": "Cavadoude",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143353,
+        "name": "Caxias",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143354,
+        "name": "Cedovim",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143355,
+        "name": "Celorico da Beira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143356,
+        "name": "Cercal",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143357,
+        "name": "Cerdeira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143358,
+        "name": "Cerejo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143359,
+        "name": "Charneca",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143361,
+        "name": "Chãs",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143360,
+        "name": "Cheleiros",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143362,
+        "name": "Codesseiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143363,
+        "name": "Cogula",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143364,
+        "name": "Colares",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143365,
+        "name": "Coração de Jesus",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143366,
+        "name": "Coriscada",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143367,
+        "name": "Cortiçada",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143368,
+        "name": "Cortiçô",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143369,
+        "name": "Cortiçô da Serra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143370,
+        "name": "Coruche",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143371,
+        "name": "Corujeira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143374,
+        "name": "Cótimos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143372,
+        "name": "Cruz Quebrada - Dafundo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143373,
+        "name": "Custoias",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143375,
+        "name": "Damaia",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143376,
+        "name": "Dois Portos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143377,
+        "name": "Dornelas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143378,
+        "name": "Eirado",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143379,
+        "name": "Encarnação",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143380,
+        "name": "Enxara do Bispo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143381,
+        "name": "Ericeira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143382,
+        "name": "Ervas Tenras",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143383,
+        "name": "Ervedosa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143384,
+        "name": "Escalhão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143385,
+        "name": "Estoril",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143386,
+        "name": "Faia",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143387,
+        "name": "Falagueira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143388,
+        "name": "Famalicão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143389,
+        "name": "Famões",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143390,
+        "name": "Fanhões",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143391,
+        "name": "Fernão Joanes",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143397,
+        "name": "Fiães",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143392,
+        "name": "Figueira de Castelo Rodrigo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143393,
+        "name": "Figueira do Guincho",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143395,
+        "name": "Figueiró da Granja",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143396,
+        "name": "Figueiró da Serra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143394,
+        "name": "Figueiros",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143414,
+        "name": "Fóios",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143398,
+        "name": "Folgosinho",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143399,
+        "name": "Folhadosa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143400,
+        "name": "Fontanelas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143401,
+        "name": "Fonte Longa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143402,
+        "name": "Forninhos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143403,
+        "name": "Forno Telheiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143404,
+        "name": "Fornos de Algodres",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143405,
+        "name": "Forte da Casa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143406,
+        "name": "Freches",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143407,
+        "name": "Freineda",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143408,
+        "name": "Freiria",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143409,
+        "name": "Freixeda do Torrão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143410,
+        "name": "Freixedas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143411,
+        "name": "Freixo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143412,
+        "name": "Freixo de Numão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143413,
+        "name": "Frielas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143415,
+        "name": "Gagos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143416,
+        "name": "Girabolhos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143417,
+        "name": "Gonçalo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143418,
+        "name": "Gonçalo Bocas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143419,
+        "name": "Gouveia",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143423,
+        "name": "Graça",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143420,
+        "name": "Gradil",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143421,
+        "name": "Gradiz",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143422,
+        "name": "Granja",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143424,
+        "name": "Guarda",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143425,
+        "name": "Guilheiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143426,
+        "name": "Horta",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143427,
+        "name": "Igreja Nova",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143428,
+        "name": "Infias",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143429,
+        "name": "Jarmelo São Miguel",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143430,
+        "name": "Jarmelo São Pedro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143431,
+        "name": "João Antão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143433,
+        "name": "Junça",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143432,
+        "name": "Juncais",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143434,
+        "name": "Lagarinhos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143435,
+        "name": "Lajeosa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143436,
+        "name": "Lajeosa do Mondego",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143437,
+        "name": "Lajes",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143438,
+        "name": "Lamas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143439,
+        "name": "Lamegal",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143440,
+        "name": "Lameiras",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143441,
+        "name": "Lapa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143442,
+        "name": "Lapa Dos Dinheiros",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143443,
+        "name": "Leomil",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143444,
+        "name": "Linda-a-Velha",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143445,
+        "name": "Linhares (Celorico da Beira)",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143447,
+        "name": "Longroiva",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143448,
+        "name": "Loriga",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143449,
+        "name": "Loures",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143450,
+        "name": "Lourinhã",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143451,
+        "name": "Lousa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143452,
+        "name": "Lumiar",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143474,
+        "name": "Maçainhas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143475,
+        "name": "Maçal do Chão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143453,
+        "name": "Maceira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143476,
+        "name": "Maçussa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143454,
+        "name": "Madalena",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143455,
+        "name": "Mafra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143456,
+        "name": "Malcata",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143457,
+        "name": "Malhada Sorda",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143458,
+        "name": "Malpartida",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143459,
+        "name": "Malveira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143460,
+        "name": "Mangualde da Serra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143461,
+        "name": "Manigoto",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143462,
+        "name": "Manique do Intendente",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143463,
+        "name": "Manteigas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143464,
+        "name": "Manteigas (São Pedro)",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143465,
+        "name": "Marialva",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143466,
+        "name": "Marmeleiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143467,
+        "name": "Marteleira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143503,
+        "name": "Mártires",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143468,
+        "name": "Marvila",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143469,
+        "name": "Massamá",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143470,
+        "name": "Mata de Lobos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143471,
+        "name": "Matacães",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143472,
+        "name": "Matança",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143473,
+        "name": "Maxial",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143477,
+        "name": "Meca",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143504,
+        "name": "Mêda",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143478,
+        "name": "Meios",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143479,
+        "name": "Melo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143480,
+        "name": "Mem Martins",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143481,
+        "name": "Mercês",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143482,
+        "name": "Mesquitela",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143483,
+        "name": "Milharado",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143484,
+        "name": "Mina",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143485,
+        "name": "Minhocal",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143486,
+        "name": "Mira-Sintra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143487,
+        "name": "Miragaia",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143488,
+        "name": "Miuzela",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143489,
+        "name": "Mizarela",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143490,
+        "name": "Moimenta da Serra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143491,
+        "name": "Moimentinha",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143492,
+        "name": "Moita",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143493,
+        "name": "Moita dos Ferreiros",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143494,
+        "name": "Moledo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143495,
+        "name": "Monte Abraão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143496,
+        "name": "Monte Estoril",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143497,
+        "name": "Monte Redondo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143498,
+        "name": "Montelavar",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143499,
+        "name": "Moreira de Rei",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143505,
+        "name": "Mós",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143500,
+        "name": "Moscavide",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143501,
+        "name": "Murça",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143502,
+        "name": "Muxagata",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143506,
+        "name": "Nabais",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143507,
+        "name": "Nave",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143508,
+        "name": "Nave de Haver",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143509,
+        "name": "Nespereira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143510,
+        "name": "Nossa Senhora de Fátima",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143511,
+        "name": "Numão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143512,
+        "name": "Odivelas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143513,
+        "name": "Odivelas Municipality",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143514,
+        "name": "Oeiras",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143515,
+        "name": "Oeiras e São Julião da Barra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143516,
+        "name": "Olhalvo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143517,
+        "name": "Olival de Basto",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143518,
+        "name": "Olival do Basto",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143519,
+        "name": "Ota",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143520,
+        "name": "Outeiro da Cabeça",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143521,
+        "name": "Outeiro de Gatos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143529,
+        "name": "Paço de Arcos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143530,
+        "name": "Paços da Serra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143522,
+        "name": "Painho",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143523,
+        "name": "Pala",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143524,
+        "name": "Palhais",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143525,
+        "name": "Panoias de Cima",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143526,
+        "name": "Parada",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143527,
+        "name": "Paranhos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143528,
+        "name": "Parede",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143531,
+        "name": "Pega",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143532,
+        "name": "Pena",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143533,
+        "name": "Pena Lobo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143534,
+        "name": "Pena Verde",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143536,
+        "name": "Penha de Águia",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143535,
+        "name": "Penha de França",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143558,
+        "name": "Pêra do Moço",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143537,
+        "name": "Peral",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143538,
+        "name": "Pereiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143539,
+        "name": "Pereiro de Palhacana",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143559,
+        "name": "Pêro Moniz",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143540,
+        "name": "Pero Pinheiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143541,
+        "name": "Peva",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143542,
+        "name": "Pinhanços",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143543,
+        "name": "Pinheiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143544,
+        "name": "Pinhel",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143560,
+        "name": "Pínzio",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143553,
+        "name": "Poço do Canto",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143545,
+        "name": "Pomares",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143546,
+        "name": "Ponte do Rol",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143547,
+        "name": "Pontinha",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143548,
+        "name": "Portela",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143550,
+        "name": "Porto da Carne",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143549,
+        "name": "Porto Salvo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143551,
+        "name": "Pousada",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143552,
+        "name": "Pousafoles do Bispo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143561,
+        "name": "Póvoa de Santa Iria",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143562,
+        "name": "Póvoa de Santo Adrião",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143563,
+        "name": "Póvoa do Concelho",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143554,
+        "name": "Prados",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143555,
+        "name": "Prazeres",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143556,
+        "name": "Prior Velho",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143557,
+        "name": "Prova",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143564,
+        "name": "Quadrazais",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143565,
+        "name": "Queijas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143566,
+        "name": "Queiriz",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143567,
+        "name": "Queluz",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143569,
+        "name": "Quintã de Pêro Martins",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143568,
+        "name": "Quintas de São Bartolomeu",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143570,
+        "name": "Rabaçal",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143571,
+        "name": "Ramada",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143572,
+        "name": "Ramalhal",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143573,
+        "name": "Ramela",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143574,
+        "name": "Ranhados",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143575,
+        "name": "Rapa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143576,
+        "name": "Rapoula do Côa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143577,
+        "name": "Ratoeira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143578,
+        "name": "Reboleira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143579,
+        "name": "Reboleiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143580,
+        "name": "Rebolosa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143581,
+        "name": "Reguengo Grande",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143582,
+        "name": "Reigada",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143583,
+        "name": "Rendo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143584,
+        "name": "Ribafria",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143585,
+        "name": "Ribamar",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143586,
+        "name": "Ribamondego",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143587,
+        "name": "Ribeira Dos Carinhos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143589,
+        "name": "Rio de Mel",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143590,
+        "name": "Rio de Mouro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143588,
+        "name": "Rio Torto",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143591,
+        "name": "Rochoso",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143592,
+        "name": "Runa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143593,
+        "name": "Ruvina",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143594,
+        "name": "Sabugal",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143595,
+        "name": "Sabugueiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143596,
+        "name": "Sacavém",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143597,
+        "name": "Sacramento",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143598,
+        "name": "Safurdão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143599,
+        "name": "Salgueirais",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143600,
+        "name": "Sameice",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143601,
+        "name": "Sameiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143602,
+        "name": "Sandomil",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143603,
+        "name": "Santa Bárbara",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143604,
+        "name": "Santa Catarina",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143605,
+        "name": "Santa Comba",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143606,
+        "name": "Santa Engrácia",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143607,
+        "name": "Santa Eufémia",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143608,
+        "name": "Santa Eulália",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143609,
+        "name": "Santa Iria da Azóia",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143610,
+        "name": "Santa Iria de Azoia",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143611,
+        "name": "Santa Isabel",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143612,
+        "name": "Santa Justa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143613,
+        "name": "Santa Maria",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143614,
+        "name": "Santa Maria de Belém",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143615,
+        "name": "Santa Maria do Castelo e São Miguel",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143616,
+        "name": "Santa Maria dos Olivais",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143617,
+        "name": "Santa Maria e São Miguel",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143618,
+        "name": "Santa Marinha",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143619,
+        "name": "Santana da Azinha",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143620,
+        "name": "Santiago",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143621,
+        "name": "Santiago dos Velhos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143622,
+        "name": "Santo Antão do Tojal",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143623,
+        "name": "Santo António dos Cavaleiros",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143624,
+        "name": "Santo Condestável",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143625,
+        "name": "Santo Estêvão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143626,
+        "name": "Santo Estêvão das Galés",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143627,
+        "name": "Santo Isidoro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143628,
+        "name": "Santo Quintino",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143629,
+        "name": "Santos-o-Velho",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143653,
+        "name": "São Bartolomeu",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143654,
+        "name": "São Bartolomeu dos Galegos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143655,
+        "name": "São Brás",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143656,
+        "name": "São Cristóvão e São Lourenço",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143657,
+        "name": "São Domingos de Benfica",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143658,
+        "name": "São Domingos de Rana",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143659,
+        "name": "São Francisco Xavier",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143662,
+        "name": "São João",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143664,
+        "name": "São João da Talha",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143665,
+        "name": "São João das Lampas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143666,
+        "name": "São João de Brito",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143667,
+        "name": "São João de Deus",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143663,
+        "name": "São João Dos Montes",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143660,
+        "name": "São Jorge de Arroios",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143661,
+        "name": "São José",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143668,
+        "name": "São Julião",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143669,
+        "name": "São Julião do Tojal",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143670,
+        "name": "São Mamede",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143671,
+        "name": "São Marcos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143672,
+        "name": "São Martinho",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143673,
+        "name": "São Miguel",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143674,
+        "name": "São Miguel da Guarda",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143675,
+        "name": "São Miguel de Alcainça",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143676,
+        "name": "São Nicolau",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143677,
+        "name": "São Paio",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143678,
+        "name": "São Paulo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143679,
+        "name": "São Pedro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143680,
+        "name": "São Pedro da Cadeira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143681,
+        "name": "São Pedro de Penaferrim",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143682,
+        "name": "São Pedro de Rio Seco",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143683,
+        "name": "São Romão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143684,
+        "name": "São Sebastião da Pedreira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143685,
+        "name": "São Vicente",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143686,
+        "name": "São Vicente de Fora",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143630,
+        "name": "Sapataria",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143631,
+        "name": "Sazes da Beira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143687,
+        "name": "Sé",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143632,
+        "name": "Sebadelhe",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143633,
+        "name": "Sebadelhe da Serra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143634,
+        "name": "Seia",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143635,
+        "name": "Seixas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143636,
+        "name": "Seixo do Côa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143637,
+        "name": "Sequeira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143638,
+        "name": "Sequeiros",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143639,
+        "name": "Silveira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143641,
+        "name": "Sintra (town)",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143643,
+        "name": "Sobral da Abelheira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143644,
+        "name": "Sobral da Serra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143645,
+        "name": "Sobral de Monte Agraço",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143642,
+        "name": "Sobral Pichorro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143646,
+        "name": "Sobralinho",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143647,
+        "name": "Socorro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143648,
+        "name": "Sortelha",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143649,
+        "name": "Souro Pires",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143650,
+        "name": "Souto",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143652,
+        "name": "Souto de Aguiar da Beira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143651,
+        "name": "Souto Maior",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143688,
+        "name": "Tamanhos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143689,
+        "name": "Teixeira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143690,
+        "name": "Terrenho",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143691,
+        "name": "Terrugem",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143692,
+        "name": "Torre do Terrenho",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143693,
+        "name": "Torres",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143694,
+        "name": "Torres Vedras",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143695,
+        "name": "Torrozelo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143697,
+        "name": "Touça",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143696,
+        "name": "Tourais",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143698,
+        "name": "Trancoso",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143699,
+        "name": "Travancinha",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143700,
+        "name": "Triana",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143701,
+        "name": "Trinta",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143702,
+        "name": "Turcifal",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143703,
+        "name": "Unhos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143704,
+        "name": "Valbom",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143705,
+        "name": "Valdujo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143707,
+        "name": "Vale da Mula",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143708,
+        "name": "Vale de Amoreira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143709,
+        "name": "Vale de Azares",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143710,
+        "name": "Vale de Espinho",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143711,
+        "name": "Vale de Estrela",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143712,
+        "name": "Vale do Paraíso",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143713,
+        "name": "Vale do Seixo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143706,
+        "name": "Vale Flor",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143714,
+        "name": "Valezim",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143715,
+        "name": "Valhelhas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143716,
+        "name": "Valverde",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143759,
+        "name": "Várzea de Meruge",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143717,
+        "name": "Vascoveiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143718,
+        "name": "Vela",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143719,
+        "name": "Velosa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143721,
+        "name": "Venda do Pinheiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143720,
+        "name": "Venda Nova",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143722,
+        "name": "Venteira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143723,
+        "name": "Ventosa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143724,
+        "name": "Vermelha",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143725,
+        "name": "Vermiosa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143726,
+        "name": "Vialonga",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143727,
+        "name": "Vide",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143728,
+        "name": "Vide Entre Vinhas",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143729,
+        "name": "Videmonte",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143730,
+        "name": "Vila Boa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143731,
+        "name": "Vila Boa do Mondego",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143732,
+        "name": "Vila Cortês da Serra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143733,
+        "name": "Vila Cortês do Mondego",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143734,
+        "name": "Vila Cova à Coelheira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143750,
+        "name": "Vila do Touro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143735,
+        "name": "Vila Fernando",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143736,
+        "name": "Vila Franca da Serra",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143737,
+        "name": "Vila Franca das Naves",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143738,
+        "name": "Vila Franca de Xira",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143739,
+        "name": "Vila Franca do Deão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143740,
+        "name": "Vila Franca do Rosário",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143741,
+        "name": "Vila Garcia",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143742,
+        "name": "Vila Nova da Rainha",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143743,
+        "name": "Vila Nova de Foz Côa",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143744,
+        "name": "Vila Nova de São Pedro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143745,
+        "name": "Vila Nova de Tazem",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143746,
+        "name": "Vila Ruiva",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143747,
+        "name": "Vila Soeiro do Chão",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143748,
+        "name": "Vila Verde",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143749,
+        "name": "Vila Verde dos Francos",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143751,
+        "name": "Vilar",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143755,
+        "name": "Vilar de Amargo",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143752,
+        "name": "Vilar Formoso",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143753,
+        "name": "Vilar Maior",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143754,
+        "name": "Vilar Torpim",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143756,
+        "name": "Vilares",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143757,
+        "name": "Vimeiro",
+        "country": "PRT",
+        "state": "09"
+    },
+    {
+        "id": 143758,
+        "name": "Vinhó",
+        "country": "PRT",
+        "state": "09"
+    }
+]

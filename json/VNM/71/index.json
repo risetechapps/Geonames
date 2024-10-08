@@ -1,1 +1,38 @@
-[{"id":0,"name":"Dien Bien Phu","country":"VNM","state":"71"},{"id":1,"name":"Huy\u1ec7n \u0110i\u1ec7n Bi\u00ean \u0110\u00f4ng","country":"VNM","state":"71"},{"id":2,"name":"Huy\u1ec7n M\u01b0\u1eddng Nh\u00e9","country":"VNM","state":"71"},{"id":3,"name":"Huy\u1ec7n T\u1ee7a Ch\u00f9a","country":"VNM","state":"71"},{"id":4,"name":"Huy\u1ec7n Tu\u1ea7n Gi\u00e1o","country":"VNM","state":"71"},{"id":5,"name":"Th\u1ecb X\u00e3 M\u01b0\u00f2ng Lay","country":"VNM","state":"71"}]
+[
+    {
+        "id": 130196,
+        "name": "Dien Bien Phu",
+        "country": "VNM",
+        "state": "71"
+    },
+    {
+        "id": 130528,
+        "name": "Huyện Điện Biên Đông",
+        "country": "VNM",
+        "state": "71"
+    },
+    {
+        "id": 130365,
+        "name": "Huyện Mường Nhé",
+        "country": "VNM",
+        "state": "71"
+    },
+    {
+        "id": 130493,
+        "name": "Huyện Tủa Chùa",
+        "country": "VNM",
+        "state": "71"
+    },
+    {
+        "id": 130478,
+        "name": "Huyện Tuần Giáo",
+        "country": "VNM",
+        "state": "71"
+    },
+    {
+        "id": 130611,
+        "name": "Thị Xã Mưòng Lay",
+        "country": "VNM",
+        "state": "71"
+    }
+]

@@ -1,1 +1,584 @@
-[{"id":0,"name":"Babimost","country":"POL","state":"08"},{"id":1,"name":"Bledzew","country":"POL","state":"08"},{"id":2,"name":"Bobrowice","country":"POL","state":"08"},{"id":3,"name":"Bogdaniec","country":"POL","state":"08"},{"id":4,"name":"Bojad\u0142a","country":"POL","state":"08"},{"id":5,"name":"Brody","country":"POL","state":"08"},{"id":6,"name":"Br\u00f3jce","country":"POL","state":"08"},{"id":7,"name":"Bytnica","country":"POL","state":"08"},{"id":8,"name":"Bytom Odrza\u0144ski","country":"POL","state":"08"},{"id":9,"name":"Cybinka","country":"POL","state":"08"},{"id":10,"name":"Czerwie\u0144sk","country":"POL","state":"08"},{"id":11,"name":"D\u0105bie","country":"POL","state":"08"},{"id":12,"name":"Deszczno","country":"POL","state":"08"},{"id":13,"name":"Dobiegniew","country":"POL","state":"08"},{"id":14,"name":"Drezdenko","country":"POL","state":"08"},{"id":15,"name":"Gorz\u00f3w Wielkopolski","country":"POL","state":"08"},{"id":16,"name":"G\u00f3rzyca","country":"POL","state":"08"},{"id":17,"name":"Gozdnica","country":"POL","state":"08"},{"id":18,"name":"Gubin","country":"POL","state":"08"},{"id":19,"name":"I\u0142owa","country":"POL","state":"08"},{"id":20,"name":"Jasie\u0144","country":"POL","state":"08"},{"id":21,"name":"Jenin","country":"POL","state":"08"},{"id":22,"name":"Kargowa","country":"POL","state":"08"},{"id":23,"name":"Klenica","country":"POL","state":"08"},{"id":24,"name":"K\u0142odawa","country":"POL","state":"08"},{"id":25,"name":"Kolsko","country":"POL","state":"08"},{"id":26,"name":"Konotop","country":"POL","state":"08"},{"id":27,"name":"Kostrzyn nad Odr\u0105","country":"POL","state":"08"},{"id":28,"name":"Ko\u017cuch\u00f3w","country":"POL","state":"08"},{"id":29,"name":"Krosno Odrza\u0144skie","country":"POL","state":"08"},{"id":30,"name":"Krzeszyce","country":"POL","state":"08"},{"id":31,"name":"Kunice \u017barskie","country":"POL","state":"08"},{"id":32,"name":"Lipinki \u0141u\u017cyckie","country":"POL","state":"08"},{"id":33,"name":"Lubiszyn","country":"POL","state":"08"},{"id":34,"name":"Lubniewice","country":"POL","state":"08"},{"id":35,"name":"Lubrza","country":"POL","state":"08"},{"id":36,"name":"Lubsko","country":"POL","state":"08"},{"id":37,"name":"\u0141ag\u00f3w","country":"POL","state":"08"},{"id":38,"name":"\u0141\u0119knica","country":"POL","state":"08"},{"id":39,"name":"Ma\u0142omice","country":"POL","state":"08"},{"id":40,"name":"Maszewo","country":"POL","state":"08"},{"id":41,"name":"Mi\u0119dzylesie","country":"POL","state":"08"},{"id":42,"name":"Mi\u0119dzyrzecz","country":"POL","state":"08"},{"id":43,"name":"Nowa S\u00f3l","country":"POL","state":"08"},{"id":44,"name":"Nowe Miasteczko","country":"POL","state":"08"},{"id":45,"name":"Nowogr\u00f3d Bobrza\u0144ski","country":"POL","state":"08"},{"id":46,"name":"Ochla","country":"POL","state":"08"},{"id":47,"name":"O\u015bno Lubuskie","country":"POL","state":"08"},{"id":48,"name":"Oty\u0144","country":"POL","state":"08"},{"id":49,"name":"Powiat gorzowski","country":"POL","state":"08"},{"id":50,"name":"Powiat kro\u015bnie\u0144ski","country":"POL","state":"08"},{"id":51,"name":"Powiat mi\u0119dzyrzecki","country":"POL","state":"08"},{"id":52,"name":"Powiat nowosolski","country":"POL","state":"08"},{"id":53,"name":"Powiat s\u0142ubicki","country":"POL","state":"08"},{"id":54,"name":"Powiat strzelecko-drezdenecki","country":"POL","state":"08"},{"id":55,"name":"Powiat sul\u0119ci\u0144ski","country":"POL","state":"08"},{"id":56,"name":"Powiat \u015bwiebodzi\u0144ski","country":"POL","state":"08"},{"id":57,"name":"Powiat wschowski","country":"POL","state":"08"},{"id":58,"name":"Powiat \u017caga\u0144ski","country":"POL","state":"08"},{"id":59,"name":"Powiat \u017carski","country":"POL","state":"08"},{"id":60,"name":"Powiat zielonog\u00f3rski","country":"POL","state":"08"},{"id":61,"name":"Przew\u00f3z","country":"POL","state":"08"},{"id":62,"name":"Przybor\u00f3w","country":"POL","state":"08"},{"id":63,"name":"Przytoczna","country":"POL","state":"08"},{"id":64,"name":"Pszczew","country":"POL","state":"08"},{"id":65,"name":"Rzepin","country":"POL","state":"08"},{"id":66,"name":"Santok","country":"POL","state":"08"},{"id":67,"name":"Siedlisko","country":"POL","state":"08"},{"id":68,"name":"Sieniawa","country":"POL","state":"08"},{"id":69,"name":"Sieniawa \u017barska","country":"POL","state":"08"},{"id":70,"name":"Sk\u0105pe","country":"POL","state":"08"},{"id":71,"name":"Skwierzyna","country":"POL","state":"08"},{"id":72,"name":"S\u0142awa","country":"POL","state":"08"},{"id":73,"name":"S\u0142o\u0144sk","country":"POL","state":"08"},{"id":74,"name":"S\u0142ubice","country":"POL","state":"08"},{"id":75,"name":"Stare Kurowo","country":"POL","state":"08"},{"id":76,"name":"Strzelce Kraje\u0144skie","country":"POL","state":"08"},{"id":77,"name":"Sulech\u00f3w","country":"POL","state":"08"},{"id":78,"name":"\u015awidnica","country":"POL","state":"08"},{"id":79,"name":"\u015awiebodzin","country":"POL","state":"08"},{"id":80,"name":"Szczaniec","country":"POL","state":"08"},{"id":81,"name":"Szlichtyngowa","country":"POL","state":"08"},{"id":82,"name":"Szprotawa","country":"POL","state":"08"},{"id":83,"name":"Torzym","country":"POL","state":"08"},{"id":84,"name":"Trzciel","country":"POL","state":"08"},{"id":85,"name":"Trzebiech\u00f3w","country":"POL","state":"08"},{"id":86,"name":"Trzebiel","country":"POL","state":"08"},{"id":87,"name":"Tuplice","country":"POL","state":"08"},{"id":88,"name":"Witnica","country":"POL","state":"08"},{"id":89,"name":"Wschowa","country":"POL","state":"08"},{"id":90,"name":"Wymiarki","country":"POL","state":"08"},{"id":91,"name":"Zab\u00f3r","country":"POL","state":"08"},{"id":92,"name":"\u017baga\u0144","country":"POL","state":"08"},{"id":93,"name":"\u017bary","country":"POL","state":"08"},{"id":94,"name":"Zb\u0105szynek","country":"POL","state":"08"},{"id":95,"name":"Zielona G\u00f3ra","country":"POL","state":"08"},{"id":96,"name":"Zwierzy\u0144","country":"POL","state":"08"}]
+[
+    {
+        "id": 85791,
+        "name": "Babimost",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 85880,
+        "name": "Bledzew",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 85887,
+        "name": "Bobrowice",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 85896,
+        "name": "Bogdaniec",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 85901,
+        "name": "Bojadła",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 85947,
+        "name": "Brody",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 85979,
+        "name": "Brójce",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86004,
+        "name": "Bytnica",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86006,
+        "name": "Bytom Odrzański",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86096,
+        "name": "Cybinka",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86139,
+        "name": "Czerwieńsk",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86233,
+        "name": "Dąbie",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86162,
+        "name": "Deszczno",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86165,
+        "name": "Dobiegniew",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86197,
+        "name": "Drezdenko",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86342,
+        "name": "Gorzów Wielkopolski",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86420,
+        "name": "Górzyca",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86352,
+        "name": "Gozdnica",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86404,
+        "name": "Gubin",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86473,
+        "name": "Iłowa",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86518,
+        "name": "Jasień",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86553,
+        "name": "Jenin",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86611,
+        "name": "Kargowa",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86645,
+        "name": "Klenica",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86864,
+        "name": "Kłodawa",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86681,
+        "name": "Kolsko",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86695,
+        "name": "Konotop",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86715,
+        "name": "Kostrzyn nad Odrą",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86760,
+        "name": "Kożuchów",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86784,
+        "name": "Krosno Odrzańskie",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86809,
+        "name": "Krzeszyce",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86838,
+        "name": "Kunice Żarskie",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86909,
+        "name": "Lipinki Łużyckie",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86945,
+        "name": "Lubiszyn",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86949,
+        "name": "Lubniewice",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86958,
+        "name": "Lubrza",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86960,
+        "name": "Lubsko",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88761,
+        "name": "Łagów",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88826,
+        "name": "Łęknica",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87009,
+        "name": "Małomice",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 86999,
+        "name": "Maszewo",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87062,
+        "name": "Międzylesie",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87065,
+        "name": "Międzyrzecz",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87175,
+        "name": "Nowa Sól",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87184,
+        "name": "Nowe Miasteczko",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87197,
+        "name": "Nowogród Bobrzański",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87224,
+        "name": "Ochla",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87324,
+        "name": "Ośno Lubuskie",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87318,
+        "name": "Otyń",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87508,
+        "name": "Powiat gorzowski",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87556,
+        "name": "Powiat krośnieński",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87588,
+        "name": "Powiat międzyrzecki",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87604,
+        "name": "Powiat nowosolski",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87698,
+        "name": "Powiat słubicki",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87685,
+        "name": "Powiat strzelecko-drezdenecki",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87688,
+        "name": "Powiat sulęciński",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87762,
+        "name": "Powiat świebodziński",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87726,
+        "name": "Powiat wschowski",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87764,
+        "name": "Powiat żagański",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87765,
+        "name": "Powiat żarski",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87742,
+        "name": "Powiat zielonogórski",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87817,
+        "name": "Przewóz",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87822,
+        "name": "Przyborów",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87831,
+        "name": "Przytoczna",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 87842,
+        "name": "Pszczew",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88022,
+        "name": "Rzepin",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88050,
+        "name": "Santok",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88069,
+        "name": "Siedlisko",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88079,
+        "name": "Sieniawa",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88080,
+        "name": "Sieniawa Żarska",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88123,
+        "name": "Skąpe",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88120,
+        "name": "Skwierzyna",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88334,
+        "name": "Sława",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88344,
+        "name": "Słońsk",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88345,
+        "name": "Słubice",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88185,
+        "name": "Stare Kurowo",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88227,
+        "name": "Strzelce Krajeńskie",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88256,
+        "name": "Sulechów",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88841,
+        "name": "Świdnica",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88846,
+        "name": "Świebodzin",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88289,
+        "name": "Szczaniec",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88312,
+        "name": "Szlichtyngowa",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88313,
+        "name": "Szprotawa",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88385,
+        "name": "Torzym",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88397,
+        "name": "Trzciel",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88402,
+        "name": "Trzebiechów",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88403,
+        "name": "Trzebiel",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88423,
+        "name": "Tuplice",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88552,
+        "name": "Witnica",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88610,
+        "name": "Wschowa",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88612,
+        "name": "Wymiarki",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88661,
+        "name": "Zabór",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88872,
+        "name": "Żagań",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88877,
+        "name": "Żary",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88714,
+        "name": "Zbąszynek",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88728,
+        "name": "Zielona Góra",
+        "country": "POL",
+        "state": "08"
+    },
+    {
+        "id": 88736,
+        "name": "Zwierzyń",
+        "country": "POL",
+        "state": "08"
+    }
+]

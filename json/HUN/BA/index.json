@@ -1,1 +1,206 @@
-[{"id":0,"name":"Beremend","country":"HUN","state":"BA"},{"id":1,"name":"B\u00f3ly","country":"HUN","state":"BA"},{"id":2,"name":"B\u00f3lyi J\u00e1r\u00e1s","country":"HUN","state":"BA"},{"id":3,"name":"B\u00fckk\u00f6sd","country":"HUN","state":"BA"},{"id":4,"name":"Dunaszekcs\u0151","country":"HUN","state":"BA"},{"id":5,"name":"Hark\u00e1ny","country":"HUN","state":"BA"},{"id":6,"name":"Hegyh\u00e1ti J\u00e1r\u00e1s","country":"HUN","state":"BA"},{"id":7,"name":"Hidas","country":"HUN","state":"BA"},{"id":8,"name":"Hossz\u00fahet\u00e9ny","country":"HUN","state":"BA"},{"id":9,"name":"Koml\u00f3","country":"HUN","state":"BA"},{"id":10,"name":"Koml\u00f3i J\u00e1r\u00e1s","country":"HUN","state":"BA"},{"id":11,"name":"Koz\u00e1rmisleny","country":"HUN","state":"BA"},{"id":12,"name":"L\u00e1nycs\u00f3k","country":"HUN","state":"BA"},{"id":13,"name":"M\u00e1gocs","country":"HUN","state":"BA"},{"id":14,"name":"Mecsekn\u00e1dasd","country":"HUN","state":"BA"},{"id":15,"name":"Moh\u00e1cs","country":"HUN","state":"BA"},{"id":16,"name":"Moh\u00e1csi J\u00e1r\u00e1s","country":"HUN","state":"BA"},{"id":17,"name":"P\u00e9cs","country":"HUN","state":"BA"},{"id":18,"name":"P\u00e9csi J\u00e1r\u00e1s","country":"HUN","state":"BA"},{"id":19,"name":"P\u00e9csv\u00e1rad","country":"HUN","state":"BA"},{"id":20,"name":"P\u00e9csv\u00e1radi J\u00e1r\u00e1s","country":"HUN","state":"BA"},{"id":21,"name":"Pell\u00e9rd","country":"HUN","state":"BA"},{"id":22,"name":"S\u00e1sd","country":"HUN","state":"BA"},{"id":23,"name":"Sellye","country":"HUN","state":"BA"},{"id":24,"name":"Sellyei J\u00e1r\u00e1s","country":"HUN","state":"BA"},{"id":25,"name":"Sikl\u00f3s","country":"HUN","state":"BA"},{"id":26,"name":"Sikl\u00f3si J\u00e1r\u00e1s","country":"HUN","state":"BA"},{"id":27,"name":"Sz\u00e1szv\u00e1r","country":"HUN","state":"BA"},{"id":28,"name":"Szentl\u0151rinc","country":"HUN","state":"BA"},{"id":29,"name":"Szentl\u0151rinci J\u00e1r\u00e1s","country":"HUN","state":"BA"},{"id":30,"name":"Szigetv\u00e1r","country":"HUN","state":"BA"},{"id":31,"name":"Szigetv\u00e1ri J\u00e1r\u00e1s","country":"HUN","state":"BA"},{"id":32,"name":"Vajszl\u00f3","country":"HUN","state":"BA"},{"id":33,"name":"Vill\u00e1ny","country":"HUN","state":"BA"}]
+[
+    {
+        "id": 55238,
+        "name": "Beremend",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55304,
+        "name": "Bóly",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55305,
+        "name": "Bólyi Járás",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55310,
+        "name": "Bükkösd",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55378,
+        "name": "Dunaszekcső",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55497,
+        "name": "Harkány",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55502,
+        "name": "Hegyháti Járás",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55512,
+        "name": "Hidas",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55516,
+        "name": "Hosszúhetény",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55618,
+        "name": "Komló",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55619,
+        "name": "Komlói Járás",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55625,
+        "name": "Kozármisleny",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55667,
+        "name": "Lánycsók",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55719,
+        "name": "Mágocs",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55684,
+        "name": "Mecseknádasd",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55708,
+        "name": "Mohács",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55709,
+        "name": "Mohácsi Járás",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55850,
+        "name": "Pécs",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55851,
+        "name": "Pécsi Járás",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55852,
+        "name": "Pécsvárad",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55853,
+        "name": "Pécsváradi Járás",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55812,
+        "name": "Pellérd",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55993,
+        "name": "Sásd",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55894,
+        "name": "Sellye",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55895,
+        "name": "Sellyei Járás",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55897,
+        "name": "Siklós",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55898,
+        "name": "Siklósi Járás",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55970,
+        "name": "Szászvár",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55944,
+        "name": "Szentlőrinc",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55945,
+        "name": "Szentlőrinci Járás",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55954,
+        "name": "Szigetvár",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 55955,
+        "name": "Szigetvári Járás",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 56089,
+        "name": "Vajszló",
+        "country": "HUN",
+        "state": "BA"
+    },
+    {
+        "id": 56102,
+        "name": "Villány",
+        "country": "HUN",
+        "state": "BA"
+    }
+]

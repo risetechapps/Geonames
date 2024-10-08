@@ -1,1 +1,38 @@
-[{"id":0,"name":"Famagusta District (Ma\u011fusa)","iso3":"04","country":"CYP"},{"id":1,"name":"Kyrenia District (Keryneia)","iso3":"06","country":"CYP"},{"id":2,"name":"Larnaca District (Larnaka)","iso3":"03","country":"CYP"},{"id":3,"name":"Limassol District (Leymasun)","iso3":"02","country":"CYP"},{"id":4,"name":"Nicosia District (Lefko\u015fa)","iso3":"01","country":"CYP"},{"id":5,"name":"Paphos District (Pafos)","iso3":"05","country":"CYP"}]
+[
+    {
+        "id": 749,
+        "name": "Famagusta District (Mağusa)",
+        "country": "CYP",
+        "state": "04"
+    },
+    {
+        "id": 744,
+        "name": "Kyrenia District (Keryneia)",
+        "country": "CYP",
+        "state": "06"
+    },
+    {
+        "id": 747,
+        "name": "Larnaca District (Larnaka)",
+        "country": "CYP",
+        "state": "03"
+    },
+    {
+        "id": 748,
+        "name": "Limassol District (Leymasun)",
+        "country": "CYP",
+        "state": "02"
+    },
+    {
+        "id": 745,
+        "name": "Nicosia District (Lefkoşa)",
+        "country": "CYP",
+        "state": "01"
+    },
+    {
+        "id": 746,
+        "name": "Paphos District (Pafos)",
+        "country": "CYP",
+        "state": "05"
+    }
+]

@@ -1,1 +1,128 @@
-[{"id":0,"name":"Arkhangai Province","iso3":"073","country":"MNG"},{"id":1,"name":"Bayan-\u00d6lgii Province","iso3":"071","country":"MNG"},{"id":2,"name":"Bayankhongor Province","iso3":"069","country":"MNG"},{"id":3,"name":"Bulgan Province","iso3":"067","country":"MNG"},{"id":4,"name":"Darkhan-Uul Province","iso3":"037","country":"MNG"},{"id":5,"name":"Dornod Province","iso3":"061","country":"MNG"},{"id":6,"name":"Dornogovi Province","iso3":"063","country":"MNG"},{"id":7,"name":"Dundgovi Province","iso3":"059","country":"MNG"},{"id":8,"name":"Govi-Altai Province","iso3":"065","country":"MNG"},{"id":9,"name":"Govis\u00fcmber Province","iso3":"064","country":"MNG"},{"id":10,"name":"Khentii Province","iso3":"039","country":"MNG"},{"id":11,"name":"Khovd Province","iso3":"043","country":"MNG"},{"id":12,"name":"Kh\u00f6vsg\u00f6l Province","iso3":"041","country":"MNG"},{"id":13,"name":"\u00d6mn\u00f6govi Province","iso3":"053","country":"MNG"},{"id":14,"name":"Orkhon Province","iso3":"035","country":"MNG"},{"id":15,"name":"\u00d6v\u00f6rkhangai Province","iso3":"055","country":"MNG"},{"id":16,"name":"Selenge Province","iso3":"049","country":"MNG"},{"id":17,"name":"S\u00fckhbaatar Province","iso3":"051","country":"MNG"},{"id":18,"name":"T\u00f6v Province","iso3":"047","country":"MNG"},{"id":19,"name":"Uvs Province","iso3":"046","country":"MNG"},{"id":20,"name":"Zavkhan Province","iso3":"057","country":"MNG"}]
+[
+    {
+        "id": 1973,
+        "name": "Arkhangai Province",
+        "country": "MNG",
+        "state": "073"
+    },
+    {
+        "id": 1969,
+        "name": "Bayan-Ölgii Province",
+        "country": "MNG",
+        "state": "071"
+    },
+    {
+        "id": 1976,
+        "name": "Bayankhongor Province",
+        "country": "MNG",
+        "state": "069"
+    },
+    {
+        "id": 1961,
+        "name": "Bulgan Province",
+        "country": "MNG",
+        "state": "067"
+    },
+    {
+        "id": 1962,
+        "name": "Darkhan-Uul Province",
+        "country": "MNG",
+        "state": "037"
+    },
+    {
+        "id": 1963,
+        "name": "Dornod Province",
+        "country": "MNG",
+        "state": "061"
+    },
+    {
+        "id": 1981,
+        "name": "Dornogovi Province",
+        "country": "MNG",
+        "state": "063"
+    },
+    {
+        "id": 1970,
+        "name": "Dundgovi Province",
+        "country": "MNG",
+        "state": "059"
+    },
+    {
+        "id": 1972,
+        "name": "Govi-Altai Province",
+        "country": "MNG",
+        "state": "065"
+    },
+    {
+        "id": 1978,
+        "name": "Govisümber Province",
+        "country": "MNG",
+        "state": "064"
+    },
+    {
+        "id": 1974,
+        "name": "Khentii Province",
+        "country": "MNG",
+        "state": "039"
+    },
+    {
+        "id": 1964,
+        "name": "Khovd Province",
+        "country": "MNG",
+        "state": "043"
+    },
+    {
+        "id": 1975,
+        "name": "Khövsgöl Province",
+        "country": "MNG",
+        "state": "041"
+    },
+    {
+        "id": 1967,
+        "name": "Ömnögovi Province",
+        "country": "MNG",
+        "state": "053"
+    },
+    {
+        "id": 1966,
+        "name": "Orkhon Province",
+        "country": "MNG",
+        "state": "035"
+    },
+    {
+        "id": 1965,
+        "name": "Övörkhangai Province",
+        "country": "MNG",
+        "state": "055"
+    },
+    {
+        "id": 1980,
+        "name": "Selenge Province",
+        "country": "MNG",
+        "state": "049"
+    },
+    {
+        "id": 1977,
+        "name": "Sükhbaatar Province",
+        "country": "MNG",
+        "state": "051"
+    },
+    {
+        "id": 1968,
+        "name": "Töv Province",
+        "country": "MNG",
+        "state": "047"
+    },
+    {
+        "id": 1971,
+        "name": "Uvs Province",
+        "country": "MNG",
+        "state": "046"
+    },
+    {
+        "id": 1979,
+        "name": "Zavkhan Province",
+        "country": "MNG",
+        "state": "057"
+    }
+]

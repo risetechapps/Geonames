@@ -1,1 +1,188 @@
-[{"id":0,"name":"Abidjan","iso3":"AB","country":"CIV"},{"id":1,"name":"Agn\u00e9by","iso3":"16","country":"CIV"},{"id":2,"name":"Bafing Region","iso3":"17","country":"CIV"},{"id":3,"name":"Bas-Sassandra District","iso3":"BS","country":"CIV"},{"id":4,"name":"Bas-Sassandra Region","iso3":"09","country":"CIV"},{"id":5,"name":"Como\u00e9 District","iso3":"CM","country":"CIV"},{"id":6,"name":"Dengu\u00e9l\u00e9 District","iso3":"DN","country":"CIV"},{"id":7,"name":"Dengu\u00e9l\u00e9 Region","iso3":"10","country":"CIV"},{"id":8,"name":"Dix-Huit Montagnes","iso3":"06","country":"CIV"},{"id":9,"name":"Fromager","iso3":"18","country":"CIV"},{"id":10,"name":"G\u00f4h-Djiboua District","iso3":"GD","country":"CIV"},{"id":11,"name":"Haut-Sassandra","iso3":"02","country":"CIV"},{"id":12,"name":"Lacs District","iso3":"LC","country":"CIV"},{"id":13,"name":"Lacs Region","iso3":"07","country":"CIV"},{"id":14,"name":"Lagunes District","iso3":"LG","country":"CIV"},{"id":15,"name":"Lagunes region","iso3":"01","country":"CIV"},{"id":16,"name":"Marahou\u00e9 Region","iso3":"12","country":"CIV"},{"id":17,"name":"Montagnes District","iso3":"MG","country":"CIV"},{"id":18,"name":"Moyen-Cavally","iso3":"19","country":"CIV"},{"id":19,"name":"Moyen-Como\u00e9","iso3":"05","country":"CIV"},{"id":20,"name":"N'zi-Como\u00e9","iso3":"11","country":"CIV"},{"id":21,"name":"Sassandra-Marahou\u00e9 District","iso3":"SM","country":"CIV"},{"id":22,"name":"Savanes Region","iso3":"03","country":"CIV"},{"id":23,"name":"Sud-Bandama","iso3":"15","country":"CIV"},{"id":24,"name":"Sud-Como\u00e9","iso3":"13","country":"CIV"},{"id":25,"name":"Vall\u00e9e du Bandama District","iso3":"VB","country":"CIV"},{"id":26,"name":"Vall\u00e9e du Bandama Region","iso3":"04","country":"CIV"},{"id":27,"name":"Woroba District","iso3":"WR","country":"CIV"},{"id":28,"name":"Worodougou","iso3":"14","country":"CIV"},{"id":29,"name":"Yamoussoukro","iso3":"YM","country":"CIV"},{"id":30,"name":"Zanzan Region","iso3":"ZZ","country":"CIV"}]
+[
+    {
+        "id": 2634,
+        "name": "Abidjan",
+        "country": "CIV",
+        "state": "AB"
+    },
+    {
+        "id": 2626,
+        "name": "Agnéby",
+        "country": "CIV",
+        "state": "16"
+    },
+    {
+        "id": 2636,
+        "name": "Bafing Region",
+        "country": "CIV",
+        "state": "17"
+    },
+    {
+        "id": 2643,
+        "name": "Bas-Sassandra District",
+        "country": "CIV",
+        "state": "BS"
+    },
+    {
+        "id": 2635,
+        "name": "Bas-Sassandra Region",
+        "country": "CIV",
+        "state": "09"
+    },
+    {
+        "id": 2654,
+        "name": "Comoé District",
+        "country": "CIV",
+        "state": "CM"
+    },
+    {
+        "id": 2644,
+        "name": "Denguélé District",
+        "country": "CIV",
+        "state": "DN"
+    },
+    {
+        "id": 2642,
+        "name": "Denguélé Region",
+        "country": "CIV",
+        "state": "10"
+    },
+    {
+        "id": 2645,
+        "name": "Dix-Huit Montagnes",
+        "country": "CIV",
+        "state": "06"
+    },
+    {
+        "id": 2633,
+        "name": "Fromager",
+        "country": "CIV",
+        "state": "18"
+    },
+    {
+        "id": 2651,
+        "name": "Gôh-Djiboua District",
+        "country": "CIV",
+        "state": "GD"
+    },
+    {
+        "id": 2638,
+        "name": "Haut-Sassandra",
+        "country": "CIV",
+        "state": "02"
+    },
+    {
+        "id": 2632,
+        "name": "Lacs District",
+        "country": "CIV",
+        "state": "LC"
+    },
+    {
+        "id": 2640,
+        "name": "Lacs Region",
+        "country": "CIV",
+        "state": "07"
+    },
+    {
+        "id": 2627,
+        "name": "Lagunes District",
+        "country": "CIV",
+        "state": "LG"
+    },
+    {
+        "id": 2639,
+        "name": "Lagunes region",
+        "country": "CIV",
+        "state": "01"
+    },
+    {
+        "id": 2631,
+        "name": "Marahoué Region",
+        "country": "CIV",
+        "state": "12"
+    },
+    {
+        "id": 2629,
+        "name": "Montagnes District",
+        "country": "CIV",
+        "state": "MG"
+    },
+    {
+        "id": 2646,
+        "name": "Moyen-Cavally",
+        "country": "CIV",
+        "state": "19"
+    },
+    {
+        "id": 2630,
+        "name": "Moyen-Comoé",
+        "country": "CIV",
+        "state": "05"
+    },
+    {
+        "id": 2655,
+        "name": "N'zi-Comoé",
+        "country": "CIV",
+        "state": "11"
+    },
+    {
+        "id": 2648,
+        "name": "Sassandra-Marahoué District",
+        "country": "CIV",
+        "state": "SM"
+    },
+    {
+        "id": 2625,
+        "name": "Savanes Region",
+        "country": "CIV",
+        "state": "03"
+    },
+    {
+        "id": 2628,
+        "name": "Sud-Bandama",
+        "country": "CIV",
+        "state": "15"
+    },
+    {
+        "id": 2652,
+        "name": "Sud-Comoé",
+        "country": "CIV",
+        "state": "13"
+    },
+    {
+        "id": 2637,
+        "name": "Vallée du Bandama District",
+        "country": "CIV",
+        "state": "VB"
+    },
+    {
+        "id": 2647,
+        "name": "Vallée du Bandama Region",
+        "country": "CIV",
+        "state": "04"
+    },
+    {
+        "id": 2650,
+        "name": "Woroba District",
+        "country": "CIV",
+        "state": "WR"
+    },
+    {
+        "id": 2649,
+        "name": "Worodougou",
+        "country": "CIV",
+        "state": "14"
+    },
+    {
+        "id": 2653,
+        "name": "Yamoussoukro",
+        "country": "CIV",
+        "state": "YM"
+    },
+    {
+        "id": 2641,
+        "name": "Zanzan Region",
+        "country": "CIV",
+        "state": "ZZ"
+    }
+]

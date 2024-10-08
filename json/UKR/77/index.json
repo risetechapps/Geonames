@@ -1,1 +1,182 @@
-[{"id":0,"name":"Banyliv","country":"UKR","state":"77"},{"id":1,"name":"Berehomet","country":"UKR","state":"77"},{"id":2,"name":"Boyany","country":"UKR","state":"77"},{"id":3,"name":"Chernivtsi","country":"UKR","state":"77"},{"id":4,"name":"Chernivtsi Municipality","country":"UKR","state":"77"},{"id":5,"name":"Chudey","country":"UKR","state":"77"},{"id":6,"name":"Davydivka","country":"UKR","state":"77"},{"id":7,"name":"Hlyboka","country":"UKR","state":"77"},{"id":8,"name":"Ispas","country":"UKR","state":"77"},{"id":9,"name":"Kadubivtsi","country":"UKR","state":"77"},{"id":10,"name":"Khotyn","country":"UKR","state":"77"},{"id":11,"name":"Klishkivtsi","country":"UKR","state":"77"},{"id":12,"name":"Kostryzhivka","country":"UKR","state":"77"},{"id":13,"name":"Luzhany","country":"UKR","state":"77"},{"id":14,"name":"Marshintsy","country":"UKR","state":"77"},{"id":15,"name":"Molodiya","country":"UKR","state":"77"},{"id":16,"name":"Myhove","country":"UKR","state":"77"},{"id":17,"name":"Novodnistrovs\u2019k","country":"UKR","state":"77"},{"id":18,"name":"Novoselytsya","country":"UKR","state":"77"},{"id":19,"name":"Nyzhni Petrivtsi","country":"UKR","state":"77"},{"id":20,"name":"Putyla Raion","country":"UKR","state":"77"},{"id":21,"name":"Ropcha","country":"UKR","state":"77"},{"id":22,"name":"Shypyntsi","country":"UKR","state":"77"},{"id":23,"name":"Sokyryany","country":"UKR","state":"77"},{"id":24,"name":"Vashkivtsi","country":"UKR","state":"77"},{"id":25,"name":"Verenchanka","country":"UKR","state":"77"},{"id":26,"name":"Voloka","country":"UKR","state":"77"},{"id":27,"name":"Vyzhnytsya","country":"UKR","state":"77"},{"id":28,"name":"Yizhivtsi","country":"UKR","state":"77"},{"id":29,"name":"Zastavna","country":"UKR","state":"77"}]
+[
+    {
+        "id": 109348,
+        "name": "Banyliv",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109374,
+        "name": "Berehomet",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109439,
+        "name": "Boyany",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109486,
+        "name": "Chernivtsi",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109487,
+        "name": "Chernivtsi Municipality",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109519,
+        "name": "Chudey",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109531,
+        "name": "Davydivka",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109633,
+        "name": "Hlyboka",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109677,
+        "name": "Ispas",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109694,
+        "name": "Kadubivtsi",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109740,
+        "name": "Khotyn",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109763,
+        "name": "Klishkivtsi",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109814,
+        "name": "Kostryzhivka",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 109947,
+        "name": "Luzhany",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110003,
+        "name": "Marshintsy",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110047,
+        "name": "Molodiya",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110067,
+        "name": "Myhove",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110122,
+        "name": "Novodnistrovs’k",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110145,
+        "name": "Novoselytsya",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110164,
+        "name": "Nyzhni Petrivtsi",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110331,
+        "name": "Putyla Raion",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110370,
+        "name": "Ropcha",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110453,
+        "name": "Shypyntsi",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110502,
+        "name": "Sokyryany",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110675,
+        "name": "Vashkivtsi",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110702,
+        "name": "Verenchanka",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110736,
+        "name": "Voloka",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110769,
+        "name": "Vyzhnytsya",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110801,
+        "name": "Yizhivtsi",
+        "country": "UKR",
+        "state": "77"
+    },
+    {
+        "id": 110825,
+        "name": "Zastavna",
+        "country": "UKR",
+        "state": "77"
+    }
+]

@@ -1,1 +1,74 @@
-[{"id":0,"name":"Agalega Islands","iso3":"AG","country":"MUS"},{"id":1,"name":"Black River","iso3":"BL","country":"MUS"},{"id":2,"name":"Flacq","iso3":"FL","country":"MUS"},{"id":3,"name":"Grand Port","iso3":"GP","country":"MUS"},{"id":4,"name":"Moka","iso3":"MO","country":"MUS"},{"id":5,"name":"Pamplemousses","iso3":"PA","country":"MUS"},{"id":6,"name":"Plaines Wilhems","iso3":"PW","country":"MUS"},{"id":7,"name":"Port Louis","iso3":"PL","country":"MUS"},{"id":8,"name":"Rivi\u00e8re du Rempart","iso3":"RR","country":"MUS"},{"id":9,"name":"Rodrigues Island","iso3":"RO","country":"MUS"},{"id":10,"name":"Saint Brandon Islands","iso3":"CC","country":"MUS"},{"id":11,"name":"Savanne","iso3":"SA","country":"MUS"}]
+[
+    {
+        "id": 3248,
+        "name": "Agalega Islands",
+        "country": "MUS",
+        "state": "AG"
+    },
+    {
+        "id": 3259,
+        "name": "Black River",
+        "country": "MUS",
+        "state": "BL"
+    },
+    {
+        "id": 3254,
+        "name": "Flacq",
+        "country": "MUS",
+        "state": "FL"
+    },
+    {
+        "id": 3264,
+        "name": "Grand Port",
+        "country": "MUS",
+        "state": "GP"
+    },
+    {
+        "id": 3253,
+        "name": "Moka",
+        "country": "MUS",
+        "state": "MO"
+    },
+    {
+        "id": 3250,
+        "name": "Pamplemousses",
+        "country": "MUS",
+        "state": "PA"
+    },
+    {
+        "id": 3263,
+        "name": "Plaines Wilhems",
+        "country": "MUS",
+        "state": "PW"
+    },
+    {
+        "id": 3260,
+        "name": "Port Louis",
+        "country": "MUS",
+        "state": "PL"
+    },
+    {
+        "id": 3261,
+        "name": "Rivière du Rempart",
+        "country": "MUS",
+        "state": "RR"
+    },
+    {
+        "id": 3249,
+        "name": "Rodrigues Island",
+        "country": "MUS",
+        "state": "RO"
+    },
+    {
+        "id": 3251,
+        "name": "Saint Brandon Islands",
+        "country": "MUS",
+        "state": "CC"
+    },
+    {
+        "id": 3257,
+        "name": "Savanne",
+        "country": "MUS",
+        "state": "SA"
+    }
+]

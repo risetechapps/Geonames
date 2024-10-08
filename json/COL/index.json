@@ -1,1 +1,200 @@
-[{"id":0,"name":"Amazonas","iso3":"AMA","country":"COL"},{"id":1,"name":"Antioquia","iso3":"ANT","country":"COL"},{"id":2,"name":"Arauca","iso3":"ARA","country":"COL"},{"id":3,"name":"Archipi\u00e9lago de San Andr\u00e9s, Providencia y Santa Catalina","iso3":"SAP","country":"COL"},{"id":4,"name":"Atl\u00e1ntico","iso3":"ATL","country":"COL"},{"id":5,"name":"Bogot\u00e1 D.C.","iso3":"DC","country":"COL"},{"id":6,"name":"Bol\u00edvar","iso3":"BOL","country":"COL"},{"id":7,"name":"Boyac\u00e1","iso3":"BOY","country":"COL"},{"id":8,"name":"Caldas","iso3":"CAL","country":"COL"},{"id":9,"name":"Caquet\u00e1","iso3":"CAQ","country":"COL"},{"id":10,"name":"Casanare","iso3":"CAS","country":"COL"},{"id":11,"name":"Cauca","iso3":"CAU","country":"COL"},{"id":12,"name":"Cesar","iso3":"CES","country":"COL"},{"id":13,"name":"Choc\u00f3","iso3":"CHO","country":"COL"},{"id":14,"name":"C\u00f3rdoba","iso3":"COR","country":"COL"},{"id":15,"name":"Cundinamarca","iso3":"CUN","country":"COL"},{"id":16,"name":"Guain\u00eda","iso3":"GUA","country":"COL"},{"id":17,"name":"Guaviare","iso3":"GUV","country":"COL"},{"id":18,"name":"Huila","iso3":"HUI","country":"COL"},{"id":19,"name":"La Guajira","iso3":"LAG","country":"COL"},{"id":20,"name":"Magdalena","iso3":"MAG","country":"COL"},{"id":21,"name":"Meta","iso3":"MET","country":"COL"},{"id":22,"name":"Nari\u00f1o","iso3":"NAR","country":"COL"},{"id":23,"name":"Norte de Santander","iso3":"NSA","country":"COL"},{"id":24,"name":"Putumayo","iso3":"PUT","country":"COL"},{"id":25,"name":"Quind\u00edo","iso3":"QUI","country":"COL"},{"id":26,"name":"Risaralda","iso3":"RIS","country":"COL"},{"id":27,"name":"Santander","iso3":"SAN","country":"COL"},{"id":28,"name":"Sucre","iso3":"SUC","country":"COL"},{"id":29,"name":"Tolima","iso3":"TOL","country":"COL"},{"id":30,"name":"Valle del Cauca","iso3":"VAC","country":"COL"},{"id":31,"name":"Vaup\u00e9s","iso3":"VAU","country":"COL"},{"id":32,"name":"Vichada","iso3":"VID","country":"COL"}]
+[
+    {
+        "id": 2895,
+        "name": "Amazonas",
+        "country": "COL",
+        "state": "AMA"
+    },
+    {
+        "id": 2890,
+        "name": "Antioquia",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 2881,
+        "name": "Arauca",
+        "country": "COL",
+        "state": "ARA"
+    },
+    {
+        "id": 2900,
+        "name": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+        "country": "COL",
+        "state": "SAP"
+    },
+    {
+        "id": 2880,
+        "name": "Atlántico",
+        "country": "COL",
+        "state": "ATL"
+    },
+    {
+        "id": 4921,
+        "name": "Bogotá D.C.",
+        "country": "COL",
+        "state": "DC"
+    },
+    {
+        "id": 2893,
+        "name": "Bolívar",
+        "country": "COL",
+        "state": "BOL"
+    },
+    {
+        "id": 2903,
+        "name": "Boyacá",
+        "country": "COL",
+        "state": "BOY"
+    },
+    {
+        "id": 2887,
+        "name": "Caldas",
+        "country": "COL",
+        "state": "CAL"
+    },
+    {
+        "id": 2891,
+        "name": "Caquetá",
+        "country": "COL",
+        "state": "CAQ"
+    },
+    {
+        "id": 2892,
+        "name": "Casanare",
+        "country": "COL",
+        "state": "CAS"
+    },
+    {
+        "id": 2884,
+        "name": "Cauca",
+        "country": "COL",
+        "state": "CAU"
+    },
+    {
+        "id": 2899,
+        "name": "Cesar",
+        "country": "COL",
+        "state": "CES"
+    },
+    {
+        "id": 2876,
+        "name": "Chocó",
+        "country": "COL",
+        "state": "CHO"
+    },
+    {
+        "id": 2898,
+        "name": "Córdoba",
+        "country": "COL",
+        "state": "COR"
+    },
+    {
+        "id": 2875,
+        "name": "Cundinamarca",
+        "country": "COL",
+        "state": "CUN"
+    },
+    {
+        "id": 2882,
+        "name": "Guainía",
+        "country": "COL",
+        "state": "GUA"
+    },
+    {
+        "id": 2888,
+        "name": "Guaviare",
+        "country": "COL",
+        "state": "GUV"
+    },
+    {
+        "id": 4871,
+        "name": "Huila",
+        "country": "COL",
+        "state": "HUI"
+    },
+    {
+        "id": 2889,
+        "name": "La Guajira",
+        "country": "COL",
+        "state": "LAG"
+    },
+    {
+        "id": 2886,
+        "name": "Magdalena",
+        "country": "COL",
+        "state": "MAG"
+    },
+    {
+        "id": 2878,
+        "name": "Meta",
+        "country": "COL",
+        "state": "MET"
+    },
+    {
+        "id": 2897,
+        "name": "Nariño",
+        "country": "COL",
+        "state": "NAR"
+    },
+    {
+        "id": 2877,
+        "name": "Norte de Santander",
+        "country": "COL",
+        "state": "NSA"
+    },
+    {
+        "id": 2896,
+        "name": "Putumayo",
+        "country": "COL",
+        "state": "PUT"
+    },
+    {
+        "id": 2874,
+        "name": "Quindío",
+        "country": "COL",
+        "state": "QUI"
+    },
+    {
+        "id": 2879,
+        "name": "Risaralda",
+        "country": "COL",
+        "state": "RIS"
+    },
+    {
+        "id": 2901,
+        "name": "Santander",
+        "country": "COL",
+        "state": "SAN"
+    },
+    {
+        "id": 2902,
+        "name": "Sucre",
+        "country": "COL",
+        "state": "SUC"
+    },
+    {
+        "id": 2883,
+        "name": "Tolima",
+        "country": "COL",
+        "state": "TOL"
+    },
+    {
+        "id": 2904,
+        "name": "Valle del Cauca",
+        "country": "COL",
+        "state": "VAC"
+    },
+    {
+        "id": 2885,
+        "name": "Vaupés",
+        "country": "COL",
+        "state": "VAU"
+    },
+    {
+        "id": 2894,
+        "name": "Vichada",
+        "country": "COL",
+        "state": "VID"
+    }
+]

@@ -1,1 +1,164 @@
-[{"id":0,"name":"Alexandria","iso3":"ALX","country":"EGY"},{"id":1,"name":"Aswan","iso3":"ASN","country":"EGY"},{"id":2,"name":"Asyut","iso3":"AST","country":"EGY"},{"id":3,"name":"Beheira","iso3":"BH","country":"EGY"},{"id":4,"name":"Beni Suef","iso3":"BNS","country":"EGY"},{"id":5,"name":"Cairo","iso3":"C","country":"EGY"},{"id":6,"name":"Dakahlia","iso3":"DK","country":"EGY"},{"id":7,"name":"Damietta","iso3":"DT","country":"EGY"},{"id":8,"name":"Faiyum","iso3":"FYM","country":"EGY"},{"id":9,"name":"Gharbia","iso3":"GH","country":"EGY"},{"id":10,"name":"Giza","iso3":"GZ","country":"EGY"},{"id":11,"name":"Ismailia","iso3":"IS","country":"EGY"},{"id":12,"name":"Kafr el-Sheikh","iso3":"KFS","country":"EGY"},{"id":13,"name":"Luxor","iso3":"LX","country":"EGY"},{"id":14,"name":"Matrouh","iso3":"MT","country":"EGY"},{"id":15,"name":"Minya","iso3":"MN","country":"EGY"},{"id":16,"name":"Monufia","iso3":"MNF","country":"EGY"},{"id":17,"name":"New Valley","iso3":"WAD","country":"EGY"},{"id":18,"name":"North Sinai","iso3":"SIN","country":"EGY"},{"id":19,"name":"Port Said","iso3":"PTS","country":"EGY"},{"id":20,"name":"Qalyubia","iso3":"KB","country":"EGY"},{"id":21,"name":"Qena","iso3":"KN","country":"EGY"},{"id":22,"name":"Red Sea","iso3":"BA","country":"EGY"},{"id":23,"name":"Sharqia","iso3":"SHR","country":"EGY"},{"id":24,"name":"Sohag","iso3":"SHG","country":"EGY"},{"id":25,"name":"South Sinai","iso3":"JS","country":"EGY"},{"id":26,"name":"Suez","iso3":"SUZ","country":"EGY"}]
+[
+    {
+        "id": 3235,
+        "name": "Alexandria",
+        "country": "EGY",
+        "state": "ALX"
+    },
+    {
+        "id": 3225,
+        "name": "Aswan",
+        "country": "EGY",
+        "state": "ASN"
+    },
+    {
+        "id": 3236,
+        "name": "Asyut",
+        "country": "EGY",
+        "state": "AST"
+    },
+    {
+        "id": 3241,
+        "name": "Beheira",
+        "country": "EGY",
+        "state": "BH"
+    },
+    {
+        "id": 3230,
+        "name": "Beni Suef",
+        "country": "EGY",
+        "state": "BNS"
+    },
+    {
+        "id": 3223,
+        "name": "Cairo",
+        "country": "EGY",
+        "state": "C"
+    },
+    {
+        "id": 3245,
+        "name": "Dakahlia",
+        "country": "EGY",
+        "state": "DK"
+    },
+    {
+        "id": 3224,
+        "name": "Damietta",
+        "country": "EGY",
+        "state": "DT"
+    },
+    {
+        "id": 3238,
+        "name": "Faiyum",
+        "country": "EGY",
+        "state": "FYM"
+    },
+    {
+        "id": 3234,
+        "name": "Gharbia",
+        "country": "EGY",
+        "state": "GH"
+    },
+    {
+        "id": 3239,
+        "name": "Giza",
+        "country": "EGY",
+        "state": "GZ"
+    },
+    {
+        "id": 3244,
+        "name": "Ismailia",
+        "country": "EGY",
+        "state": "IS"
+    },
+    {
+        "id": 3222,
+        "name": "Kafr el-Sheikh",
+        "country": "EGY",
+        "state": "KFS"
+    },
+    {
+        "id": 3242,
+        "name": "Luxor",
+        "country": "EGY",
+        "state": "LX"
+    },
+    {
+        "id": 3231,
+        "name": "Matrouh",
+        "country": "EGY",
+        "state": "MT"
+    },
+    {
+        "id": 3243,
+        "name": "Minya",
+        "country": "EGY",
+        "state": "MN"
+    },
+    {
+        "id": 3228,
+        "name": "Monufia",
+        "country": "EGY",
+        "state": "MNF"
+    },
+    {
+        "id": 3246,
+        "name": "New Valley",
+        "country": "EGY",
+        "state": "WAD"
+    },
+    {
+        "id": 3227,
+        "name": "North Sinai",
+        "country": "EGY",
+        "state": "SIN"
+    },
+    {
+        "id": 3229,
+        "name": "Port Said",
+        "country": "EGY",
+        "state": "PTS"
+    },
+    {
+        "id": 3232,
+        "name": "Qalyubia",
+        "country": "EGY",
+        "state": "KB"
+    },
+    {
+        "id": 3247,
+        "name": "Qena",
+        "country": "EGY",
+        "state": "KN"
+    },
+    {
+        "id": 3240,
+        "name": "Red Sea",
+        "country": "EGY",
+        "state": "BA"
+    },
+    {
+        "id": 5067,
+        "name": "Sharqia",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 3226,
+        "name": "Sohag",
+        "country": "EGY",
+        "state": "SHG"
+    },
+    {
+        "id": 3237,
+        "name": "South Sinai",
+        "country": "EGY",
+        "state": "JS"
+    },
+    {
+        "id": 3233,
+        "name": "Suez",
+        "country": "EGY",
+        "state": "SUZ"
+    }
+]

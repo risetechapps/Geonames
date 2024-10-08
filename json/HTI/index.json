@@ -1,1 +1,62 @@
-[{"id":0,"name":"Artibonite","iso3":"AR","country":"HTI"},{"id":1,"name":"Centre","iso3":"CE","country":"HTI"},{"id":2,"name":"Grand'Anse","iso3":"GA","country":"HTI"},{"id":3,"name":"Nippes","iso3":"NI","country":"HTI"},{"id":4,"name":"Nord","iso3":"ND","country":"HTI"},{"id":5,"name":"Nord-Est","iso3":"NE","country":"HTI"},{"id":6,"name":"Nord-Ouest","iso3":"NO","country":"HTI"},{"id":7,"name":"Ouest","iso3":"OU","country":"HTI"},{"id":8,"name":"Sud","iso3":"SD","country":"HTI"},{"id":9,"name":"Sud-Est","iso3":"SE","country":"HTI"}]
+[
+    {
+        "id": 4123,
+        "name": "Artibonite",
+        "country": "HTI",
+        "state": "AR"
+    },
+    {
+        "id": 4125,
+        "name": "Centre",
+        "country": "HTI",
+        "state": "CE"
+    },
+    {
+        "id": 4119,
+        "name": "Grand'Anse",
+        "country": "HTI",
+        "state": "GA"
+    },
+    {
+        "id": 4118,
+        "name": "Nippes",
+        "country": "HTI",
+        "state": "NI"
+    },
+    {
+        "id": 4117,
+        "name": "Nord",
+        "country": "HTI",
+        "state": "ND"
+    },
+    {
+        "id": 4121,
+        "name": "Nord-Est",
+        "country": "HTI",
+        "state": "NE"
+    },
+    {
+        "id": 4126,
+        "name": "Nord-Ouest",
+        "country": "HTI",
+        "state": "NO"
+    },
+    {
+        "id": 4120,
+        "name": "Ouest",
+        "country": "HTI",
+        "state": "OU"
+    },
+    {
+        "id": 4122,
+        "name": "Sud",
+        "country": "HTI",
+        "state": "SD"
+    },
+    {
+        "id": 4124,
+        "name": "Sud-Est",
+        "country": "HTI",
+        "state": "SE"
+    }
+]

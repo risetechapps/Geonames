@@ -1,1 +1,1922 @@
-[{"id":0,"name":"Altenburg","country":"DEU","state":"TH"},{"id":1,"name":"Altenfeld","country":"DEU","state":"TH"},{"id":2,"name":"Altengottern","country":"DEU","state":"TH"},{"id":3,"name":"Altkirchen","country":"DEU","state":"TH"},{"id":4,"name":"Anrode","country":"DEU","state":"TH"},{"id":5,"name":"Apfelst\u00e4dt","country":"DEU","state":"TH"},{"id":6,"name":"Apolda","country":"DEU","state":"TH"},{"id":7,"name":"Arenshausen","country":"DEU","state":"TH"},{"id":8,"name":"Arnstadt","country":"DEU","state":"TH"},{"id":9,"name":"Artern","country":"DEU","state":"TH"},{"id":10,"name":"Auleben","country":"DEU","state":"TH"},{"id":11,"name":"Auma","country":"DEU","state":"TH"},{"id":12,"name":"Bad Berka","country":"DEU","state":"TH"},{"id":13,"name":"Bad Blankenburg","country":"DEU","state":"TH"},{"id":14,"name":"Bad Frankenhausen","country":"DEU","state":"TH"},{"id":15,"name":"Bad Klosterlausnitz","country":"DEU","state":"TH"},{"id":16,"name":"Bad K\u00f6stritz","country":"DEU","state":"TH"},{"id":17,"name":"Bad Langensalza","country":"DEU","state":"TH"},{"id":18,"name":"Bad Liebenstein","country":"DEU","state":"TH"},{"id":19,"name":"Bad Lobenstein","country":"DEU","state":"TH"},{"id":20,"name":"Bad Salzungen","country":"DEU","state":"TH"},{"id":21,"name":"Bad Sulza","country":"DEU","state":"TH"},{"id":22,"name":"Bad Tennstedt","country":"DEU","state":"TH"},{"id":23,"name":"Barchfeld","country":"DEU","state":"TH"},{"id":24,"name":"Behringen","country":"DEU","state":"TH"},{"id":25,"name":"Benshausen","country":"DEU","state":"TH"},{"id":26,"name":"Berga","country":"DEU","state":"TH"},{"id":27,"name":"Berlingerode","country":"DEU","state":"TH"},{"id":28,"name":"Berlstedt","country":"DEU","state":"TH"},{"id":29,"name":"Bischofferode","country":"DEU","state":"TH"},{"id":30,"name":"Blankenhain","country":"DEU","state":"TH"},{"id":31,"name":"Bleicherode","country":"DEU","state":"TH"},{"id":32,"name":"Brahmenau","country":"DEU","state":"TH"},{"id":33,"name":"Brehme","country":"DEU","state":"TH"},{"id":34,"name":"Breitenbach","country":"DEU","state":"TH"},{"id":35,"name":"Breitenworbis","country":"DEU","state":"TH"},{"id":36,"name":"Breitungen","country":"DEU","state":"TH"},{"id":37,"name":"Brotterode","country":"DEU","state":"TH"},{"id":38,"name":"Bucha","country":"DEU","state":"TH"},{"id":39,"name":"Bufleben","country":"DEU","state":"TH"},{"id":40,"name":"B\u00fcrgel","country":"DEU","state":"TH"},{"id":41,"name":"Buttelstedt","country":"DEU","state":"TH"},{"id":42,"name":"Buttlar","country":"DEU","state":"TH"},{"id":43,"name":"Buttst\u00e4dt","country":"DEU","state":"TH"},{"id":44,"name":"B\u00fcttstedt","country":"DEU","state":"TH"},{"id":45,"name":"Camburg","country":"DEU","state":"TH"},{"id":46,"name":"Clingen","country":"DEU","state":"TH"},{"id":47,"name":"Crawinkel","country":"DEU","state":"TH"},{"id":48,"name":"Creuzburg","country":"DEU","state":"TH"},{"id":49,"name":"Dachwig","country":"DEU","state":"TH"},{"id":50,"name":"Dankmarshausen","country":"DEU","state":"TH"},{"id":51,"name":"Dermbach","country":"DEU","state":"TH"},{"id":52,"name":"Deuna","country":"DEU","state":"TH"},{"id":53,"name":"Dingelst\u00e4dt","country":"DEU","state":"TH"},{"id":54,"name":"Dippach","country":"DEU","state":"TH"},{"id":55,"name":"D\u00f6llst\u00e4dt","country":"DEU","state":"TH"},{"id":56,"name":"Dorndorf","country":"DEU","state":"TH"},{"id":57,"name":"Ebeleben","country":"DEU","state":"TH"},{"id":58,"name":"Effelder","country":"DEU","state":"TH"},{"id":59,"name":"Eisenach","country":"DEU","state":"TH"},{"id":60,"name":"Eisenberg","country":"DEU","state":"TH"},{"id":61,"name":"Eisfeld","country":"DEU","state":"TH"},{"id":62,"name":"Elgersburg","country":"DEU","state":"TH"},{"id":63,"name":"Ellrich","country":"DEU","state":"TH"},{"id":64,"name":"Elxleben","country":"DEU","state":"TH"},{"id":65,"name":"Erfurt","country":"DEU","state":"TH"},{"id":66,"name":"Ernstroda","country":"DEU","state":"TH"},{"id":67,"name":"Fambach","country":"DEU","state":"TH"},{"id":68,"name":"Finsterbergen","country":"DEU","state":"TH"},{"id":69,"name":"F\u00f6ritz","country":"DEU","state":"TH"},{"id":70,"name":"Frankenheim","country":"DEU","state":"TH"},{"id":71,"name":"Frauenprie\u00dfnitz","country":"DEU","state":"TH"},{"id":72,"name":"Frauenwald","country":"DEU","state":"TH"},{"id":73,"name":"Freienbessingen","country":"DEU","state":"TH"},{"id":74,"name":"Friedrichroda","country":"DEU","state":"TH"},{"id":75,"name":"Friemar","country":"DEU","state":"TH"},{"id":76,"name":"Gangloffs\u00f6mmern","country":"DEU","state":"TH"},{"id":77,"name":"Gebesee","country":"DEU","state":"TH"},{"id":78,"name":"Gehren","country":"DEU","state":"TH"},{"id":79,"name":"Geisa","country":"DEU","state":"TH"},{"id":80,"name":"Geisleden","country":"DEU","state":"TH"},{"id":81,"name":"Geismar","country":"DEU","state":"TH"},{"id":82,"name":"Georgenthal","country":"DEU","state":"TH"},{"id":83,"name":"Gera","country":"DEU","state":"TH"},{"id":84,"name":"Geraberg","country":"DEU","state":"TH"},{"id":85,"name":"Gernrode","country":"DEU","state":"TH"},{"id":86,"name":"Gerstungen","country":"DEU","state":"TH"},{"id":87,"name":"Geschwenda","country":"DEU","state":"TH"},{"id":88,"name":"Gleichamberg","country":"DEU","state":"TH"},{"id":89,"name":"Goldbach","country":"DEU","state":"TH"},{"id":90,"name":"G\u00f6rsbach","country":"DEU","state":"TH"},{"id":91,"name":"G\u00f6\u00dfnitz","country":"DEU","state":"TH"},{"id":92,"name":"Go\u00dfwitz","country":"DEU","state":"TH"},{"id":93,"name":"Gotha","country":"DEU","state":"TH"},{"id":94,"name":"Grabsleben","country":"DEU","state":"TH"},{"id":95,"name":"Gr\u00e4fenhain","country":"DEU","state":"TH"},{"id":96,"name":"Gr\u00e4fenroda","country":"DEU","state":"TH"},{"id":97,"name":"Greiz","country":"DEU","state":"TH"},{"id":98,"name":"Greu\u00dfen","country":"DEU","state":"TH"},{"id":99,"name":"Gro\u00dfbartloff","country":"DEU","state":"TH"},{"id":100,"name":"Gro\u00dfbodungen","country":"DEU","state":"TH"},{"id":101,"name":"Gro\u00dfbreitenbach","country":"DEU","state":"TH"},{"id":102,"name":"Gro\u00dfenehrich","country":"DEU","state":"TH"},{"id":103,"name":"Gro\u00dfengottern","country":"DEU","state":"TH"},{"id":104,"name":"Gro\u00dfenstein","country":"DEU","state":"TH"},{"id":105,"name":"Gro\u00dfmonra","country":"DEU","state":"TH"},{"id":106,"name":"Gro\u00dfrudestedt","country":"DEU","state":"TH"},{"id":107,"name":"Haina","country":"DEU","state":"TH"},{"id":108,"name":"Ha\u00dfleben","country":"DEU","state":"TH"},{"id":109,"name":"Heilbad Heiligenstadt","country":"DEU","state":"TH"},{"id":110,"name":"Heldrungen","country":"DEU","state":"TH"},{"id":111,"name":"Hellingen","country":"DEU","state":"TH"},{"id":112,"name":"Herbsleben","country":"DEU","state":"TH"},{"id":113,"name":"Heringen","country":"DEU","state":"TH"},{"id":114,"name":"Hermsdorf","country":"DEU","state":"TH"},{"id":115,"name":"Herschdorf","country":"DEU","state":"TH"},{"id":116,"name":"Heyerode","country":"DEU","state":"TH"},{"id":117,"name":"Hildburghausen","country":"DEU","state":"TH"},{"id":118,"name":"Hohenleuben","country":"DEU","state":"TH"},{"id":119,"name":"H\u00f6rselgau","country":"DEU","state":"TH"},{"id":120,"name":"Hundeshagen","country":"DEU","state":"TH"},{"id":121,"name":"Ichtershausen","country":"DEU","state":"TH"},{"id":122,"name":"Ifta","country":"DEU","state":"TH"},{"id":123,"name":"Ilfeld","country":"DEU","state":"TH"},{"id":124,"name":"Ilmenau","country":"DEU","state":"TH"},{"id":125,"name":"Immelborn","country":"DEU","state":"TH"},{"id":126,"name":"Ingersleben","country":"DEU","state":"TH"},{"id":127,"name":"Jena","country":"DEU","state":"TH"},{"id":128,"name":"J\u00fcchsen","country":"DEU","state":"TH"},{"id":129,"name":"Judenbach","country":"DEU","state":"TH"},{"id":130,"name":"Kahla","country":"DEU","state":"TH"},{"id":131,"name":"Kaltennordheim","country":"DEU","state":"TH"},{"id":132,"name":"Kaltenwestheim","country":"DEU","state":"TH"},{"id":133,"name":"Kamsdorf","country":"DEU","state":"TH"},{"id":134,"name":"Kannawurf","country":"DEU","state":"TH"},{"id":135,"name":"Katharinenberg","country":"DEU","state":"TH"},{"id":136,"name":"Katzh\u00fctte","country":"DEU","state":"TH"},{"id":137,"name":"Kaulsdorf","country":"DEU","state":"TH"},{"id":138,"name":"Kindelbr\u00fcck","country":"DEU","state":"TH"},{"id":139,"name":"Kirchheim","country":"DEU","state":"TH"},{"id":140,"name":"Kirchworbis","country":"DEU","state":"TH"},{"id":141,"name":"Kleinfurra","country":"DEU","state":"TH"},{"id":142,"name":"Kleinwenden","country":"DEU","state":"TH"},{"id":143,"name":"Klettbach","country":"DEU","state":"TH"},{"id":144,"name":"K\u00f6lleda","country":"DEU","state":"TH"},{"id":145,"name":"K\u00f6nigsee","country":"DEU","state":"TH"},{"id":146,"name":"K\u00f6nitz","country":"DEU","state":"TH"},{"id":147,"name":"K\u00f6rner","country":"DEU","state":"TH"},{"id":148,"name":"Kraftsdorf","country":"DEU","state":"TH"},{"id":149,"name":"Kranichfeld","country":"DEU","state":"TH"},{"id":150,"name":"Krauthausen","country":"DEU","state":"TH"},{"id":151,"name":"Kriebitzsch","country":"DEU","state":"TH"},{"id":152,"name":"Kr\u00f6lpa","country":"DEU","state":"TH"},{"id":153,"name":"Kromsdorf","country":"DEU","state":"TH"},{"id":154,"name":"K\u00fchndorf","country":"DEU","state":"TH"},{"id":155,"name":"K\u00fcllstedt","country":"DEU","state":"TH"},{"id":156,"name":"Langenorla","country":"DEU","state":"TH"},{"id":157,"name":"Langenwetzendorf","country":"DEU","state":"TH"},{"id":158,"name":"Langewiesen","country":"DEU","state":"TH"},{"id":159,"name":"Langula","country":"DEU","state":"TH"},{"id":160,"name":"Lauchr\u00f6den","country":"DEU","state":"TH"},{"id":161,"name":"Lauscha","country":"DEU","state":"TH"},{"id":162,"name":"Lehesten","country":"DEU","state":"TH"},{"id":163,"name":"Leimbach","country":"DEU","state":"TH"},{"id":164,"name":"Leinefelde-Worbis","country":"DEU","state":"TH"},{"id":165,"name":"Leutenberg","country":"DEU","state":"TH"},{"id":166,"name":"Lichte","country":"DEU","state":"TH"},{"id":167,"name":"L\u00f6bichau","country":"DEU","state":"TH"},{"id":168,"name":"Lucka","country":"DEU","state":"TH"},{"id":169,"name":"Luisenthal","country":"DEU","state":"TH"},{"id":170,"name":"Magdala","country":"DEU","state":"TH"},{"id":171,"name":"Marksuhl","country":"DEU","state":"TH"},{"id":172,"name":"Masserberg","country":"DEU","state":"TH"},{"id":173,"name":"Mechterst\u00e4dt","country":"DEU","state":"TH"},{"id":174,"name":"Meiningen","country":"DEU","state":"TH"},{"id":175,"name":"Mellenbach-Glasbach","country":"DEU","state":"TH"},{"id":176,"name":"Mellingen","country":"DEU","state":"TH"},{"id":177,"name":"Mengersgereuth-H\u00e4mmern","country":"DEU","state":"TH"},{"id":178,"name":"Menteroda","country":"DEU","state":"TH"},{"id":179,"name":"Meuselbach","country":"DEU","state":"TH"},{"id":180,"name":"Meuselwitz","country":"DEU","state":"TH"},{"id":181,"name":"Mihla","country":"DEU","state":"TH"},{"id":182,"name":"Milz","country":"DEU","state":"TH"},{"id":183,"name":"Mohlsdorf","country":"DEU","state":"TH"},{"id":184,"name":"Molschleben","country":"DEU","state":"TH"},{"id":185,"name":"M\u00f6nchenholzhausen","country":"DEU","state":"TH"},{"id":186,"name":"M\u00fchlhausen","country":"DEU","state":"TH"},{"id":187,"name":"M\u00fcnchenbernsdorf","country":"DEU","state":"TH"},{"id":188,"name":"Neudietendorf","country":"DEU","state":"TH"},{"id":189,"name":"Neuhaus","country":"DEU","state":"TH"},{"id":190,"name":"Neuhaus am Rennweg","country":"DEU","state":"TH"},{"id":191,"name":"Neuhaus-Schierschnitz","country":"DEU","state":"TH"},{"id":192,"name":"Neustadt am Rennsteig","country":"DEU","state":"TH"},{"id":193,"name":"Neustadt an der Orla","country":"DEU","state":"TH"},{"id":194,"name":"Niederdorla","country":"DEU","state":"TH"},{"id":195,"name":"Niederorschel","country":"DEU","state":"TH"},{"id":196,"name":"Niederro\u00dfla","country":"DEU","state":"TH"},{"id":197,"name":"Niedersachswerfen","country":"DEU","state":"TH"},{"id":198,"name":"Niederzimmern","country":"DEU","state":"TH"},{"id":199,"name":"N\u00f6bdenitz","country":"DEU","state":"TH"},{"id":200,"name":"Nobitz","country":"DEU","state":"TH"},{"id":201,"name":"Nohra","country":"DEU","state":"TH"},{"id":202,"name":"Nordhausen","country":"DEU","state":"TH"},{"id":203,"name":"Oberdorla","country":"DEU","state":"TH"},{"id":204,"name":"Oberhof","country":"DEU","state":"TH"},{"id":205,"name":"Oberma\u00dffeld-Grimmenthal","country":"DEU","state":"TH"},{"id":206,"name":"Obermehler","country":"DEU","state":"TH"},{"id":207,"name":"Oberwei\u00dfbach","country":"DEU","state":"TH"},{"id":208,"name":"Oldisleben","country":"DEU","state":"TH"},{"id":209,"name":"Oppurg","country":"DEU","state":"TH"},{"id":210,"name":"Orlam\u00fcnde","country":"DEU","state":"TH"},{"id":211,"name":"O\u00dfmanstedt","country":"DEU","state":"TH"},{"id":212,"name":"Pappenheim","country":"DEU","state":"TH"},{"id":213,"name":"Plaue","country":"DEU","state":"TH"},{"id":214,"name":"P\u00f6lzig","country":"DEU","state":"TH"},{"id":215,"name":"Ponitz","country":"DEU","state":"TH"},{"id":216,"name":"P\u00f6\u00dfneck","country":"DEU","state":"TH"},{"id":217,"name":"Probstzella","country":"DEU","state":"TH"},{"id":218,"name":"Ranis","country":"DEU","state":"TH"},{"id":219,"name":"Rastenberg","country":"DEU","state":"TH"},{"id":220,"name":"Remptendorf","country":"DEU","state":"TH"},{"id":221,"name":"Riethnordhausen","country":"DEU","state":"TH"},{"id":222,"name":"Ringleben","country":"DEU","state":"TH"},{"id":223,"name":"Rohr","country":"DEU","state":"TH"},{"id":224,"name":"R\u00f6mhild","country":"DEU","state":"TH"},{"id":225,"name":"Ronneburg","country":"DEU","state":"TH"},{"id":226,"name":"Rosenthal am Rennsteig","country":"DEU","state":"TH"},{"id":227,"name":"Rositz","country":"DEU","state":"TH"},{"id":228,"name":"Ro\u00dfleben","country":"DEU","state":"TH"},{"id":229,"name":"Rothenstein","country":"DEU","state":"TH"},{"id":230,"name":"Rottenbach","country":"DEU","state":"TH"},{"id":231,"name":"Rudolstadt","country":"DEU","state":"TH"},{"id":232,"name":"Ruhla","country":"DEU","state":"TH"},{"id":233,"name":"Saalfeld","country":"DEU","state":"TH"},{"id":234,"name":"Saara","country":"DEU","state":"TH"},{"id":235,"name":"Sankt Gangloff","country":"DEU","state":"TH"},{"id":236,"name":"Sankt Kilian","country":"DEU","state":"TH"},{"id":237,"name":"Schalkau","country":"DEU","state":"TH"},{"id":238,"name":"Schernberg","country":"DEU","state":"TH"},{"id":239,"name":"Schk\u00f6len","country":"DEU","state":"TH"},{"id":240,"name":"Schleid","country":"DEU","state":"TH"},{"id":241,"name":"Schleiz","country":"DEU","state":"TH"},{"id":242,"name":"Schleusingen","country":"DEU","state":"TH"},{"id":243,"name":"Schlo\u00dfvippach","country":"DEU","state":"TH"},{"id":244,"name":"Schlotheim","country":"DEU","state":"TH"},{"id":245,"name":"Schmalkalden","country":"DEU","state":"TH"},{"id":246,"name":"Schmiedefeld","country":"DEU","state":"TH"},{"id":247,"name":"Schmiedefeld am Rennsteig","country":"DEU","state":"TH"},{"id":248,"name":"Schm\u00f6lln","country":"DEU","state":"TH"},{"id":249,"name":"Sch\u00f6nstedt","country":"DEU","state":"TH"},{"id":250,"name":"Schwallungen","country":"DEU","state":"TH"},{"id":251,"name":"Schwarza","country":"DEU","state":"TH"},{"id":252,"name":"Schweina","country":"DEU","state":"TH"},{"id":253,"name":"Seebach","country":"DEU","state":"TH"},{"id":254,"name":"Seebergen","country":"DEU","state":"TH"},{"id":255,"name":"Seelingst\u00e4dt","country":"DEU","state":"TH"},{"id":256,"name":"Sitzendorf","country":"DEU","state":"TH"},{"id":257,"name":"Sollstedt","country":"DEU","state":"TH"},{"id":258,"name":"S\u00f6mmerda","country":"DEU","state":"TH"},{"id":259,"name":"Sondershausen","country":"DEU","state":"TH"},{"id":260,"name":"Sonneberg","country":"DEU","state":"TH"},{"id":261,"name":"Sonneborn","country":"DEU","state":"TH"},{"id":262,"name":"Stadtilm","country":"DEU","state":"TH"},{"id":263,"name":"Stadtlengsfeld","country":"DEU","state":"TH"},{"id":264,"name":"Stadtroda","country":"DEU","state":"TH"},{"id":265,"name":"Steinach","country":"DEU","state":"TH"},{"id":266,"name":"Steinbach","country":"DEU","state":"TH"},{"id":267,"name":"Steinbach-Hallenberg","country":"DEU","state":"TH"},{"id":268,"name":"Steinheid","country":"DEU","state":"TH"},{"id":269,"name":"Strau\u00dffurt","country":"DEU","state":"TH"},{"id":270,"name":"St\u00fctzerbach","country":"DEU","state":"TH"},{"id":271,"name":"Suhl","country":"DEU","state":"TH"},{"id":272,"name":"Tabarz","country":"DEU","state":"TH"},{"id":273,"name":"Tambach-Dietharz","country":"DEU","state":"TH"},{"id":274,"name":"Tanna","country":"DEU","state":"TH"},{"id":275,"name":"Tautenhain","country":"DEU","state":"TH"},{"id":276,"name":"Teichwolframsdorf","country":"DEU","state":"TH"},{"id":277,"name":"Teistungen","country":"DEU","state":"TH"},{"id":278,"name":"Thal","country":"DEU","state":"TH"},{"id":279,"name":"Themar","country":"DEU","state":"TH"},{"id":280,"name":"Tiefenort","country":"DEU","state":"TH"},{"id":281,"name":"Treffurt","country":"DEU","state":"TH"},{"id":282,"name":"Triebes","country":"DEU","state":"TH"},{"id":283,"name":"Triptis","country":"DEU","state":"TH"},{"id":284,"name":"Trusetal","country":"DEU","state":"TH"},{"id":285,"name":"Uder","country":"DEU","state":"TH"},{"id":286,"name":"Unterbreizbach","country":"DEU","state":"TH"},{"id":287,"name":"Unterma\u00dffeld","country":"DEU","state":"TH"},{"id":288,"name":"Unterwellenborn","country":"DEU","state":"TH"},{"id":289,"name":"Urbach","country":"DEU","state":"TH"},{"id":290,"name":"Uthleben","country":"DEU","state":"TH"},{"id":291,"name":"Vacha","country":"DEU","state":"TH"},{"id":292,"name":"Veilsdorf","country":"DEU","state":"TH"},{"id":293,"name":"Viernau","country":"DEU","state":"TH"},{"id":294,"name":"Voigtstedt","country":"DEU","state":"TH"},{"id":295,"name":"V\u00f6lkershausen","country":"DEU","state":"TH"},{"id":296,"name":"Walldorf","country":"DEU","state":"TH"},{"id":297,"name":"Walschleben","country":"DEU","state":"TH"},{"id":298,"name":"Waltershausen","country":"DEU","state":"TH"},{"id":299,"name":"Wandersleben","country":"DEU","state":"TH"},{"id":300,"name":"Wasungen","country":"DEU","state":"TH"},{"id":301,"name":"Weida","country":"DEU","state":"TH"},{"id":302,"name":"Weimar","country":"DEU","state":"TH"},{"id":303,"name":"Wei\u00dfenborn","country":"DEU","state":"TH"},{"id":304,"name":"Wei\u00dfenborn-L\u00fcderode","country":"DEU","state":"TH"},{"id":305,"name":"Wei\u00dfensee","country":"DEU","state":"TH"},{"id":306,"name":"Wernshausen","country":"DEU","state":"TH"},{"id":307,"name":"Wiehe","country":"DEU","state":"TH"},{"id":308,"name":"Windischleuba","country":"DEU","state":"TH"},{"id":309,"name":"Wingerode","country":"DEU","state":"TH"},{"id":310,"name":"Wintersdorf","country":"DEU","state":"TH"},{"id":311,"name":"Wipperdorf","country":"DEU","state":"TH"},{"id":312,"name":"Witterda","country":"DEU","state":"TH"},{"id":313,"name":"W\u00f6lfis","country":"DEU","state":"TH"},{"id":314,"name":"Wolkramshausen","country":"DEU","state":"TH"},{"id":315,"name":"Worbis","country":"DEU","state":"TH"},{"id":316,"name":"W\u00fcnschendorf","country":"DEU","state":"TH"},{"id":317,"name":"Wurzbach","country":"DEU","state":"TH"},{"id":318,"name":"Zella-Mehlis","country":"DEU","state":"TH"},{"id":319,"name":"Zeulenroda","country":"DEU","state":"TH"}]
+[
+    {
+        "id": 23596,
+        "name": "Altenburg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23600,
+        "name": "Altenfeld",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23602,
+        "name": "Altengottern",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23625,
+        "name": "Altkirchen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23664,
+        "name": "Anrode",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23673,
+        "name": "Apfelstädt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23674,
+        "name": "Apolda",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23680,
+        "name": "Arenshausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23688,
+        "name": "Arnstadt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23693,
+        "name": "Artern",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23737,
+        "name": "Auleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23739,
+        "name": "Auma",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23767,
+        "name": "Bad Berka",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23773,
+        "name": "Bad Blankenburg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23796,
+        "name": "Bad Frankenhausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23815,
+        "name": "Bad Klosterlausnitz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23821,
+        "name": "Bad Köstritz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23824,
+        "name": "Bad Langensalza",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23828,
+        "name": "Bad Liebenstein",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23832,
+        "name": "Bad Lobenstein",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23858,
+        "name": "Bad Salzungen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23873,
+        "name": "Bad Sulza",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23877,
+        "name": "Bad Tennstedt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23926,
+        "name": "Barchfeld",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 23990,
+        "name": "Behringen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24018,
+        "name": "Benshausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24029,
+        "name": "Berga",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24056,
+        "name": "Berlingerode",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24057,
+        "name": "Berlstedt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24145,
+        "name": "Bischofferode",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24168,
+        "name": "Blankenhain",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24177,
+        "name": "Bleicherode",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24272,
+        "name": "Brahmenau",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24298,
+        "name": "Brehme",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24305,
+        "name": "Breitenbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24313,
+        "name": "Breitenworbis",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24317,
+        "name": "Breitungen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24347,
+        "name": "Brotterode",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24382,
+        "name": "Bucha",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24399,
+        "name": "Bufleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24502,
+        "name": "Bürgel",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24450,
+        "name": "Buttelstedt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24453,
+        "name": "Buttlar",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24454,
+        "name": "Buttstädt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24509,
+        "name": "Büttstedt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24520,
+        "name": "Camburg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24542,
+        "name": "Clingen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24558,
+        "name": "Crawinkel",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24561,
+        "name": "Creuzburg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24576,
+        "name": "Dachwig",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24590,
+        "name": "Dankmarshausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24637,
+        "name": "Dermbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24657,
+        "name": "Deuna",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24692,
+        "name": "Dingelstädt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24699,
+        "name": "Dippach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24797,
+        "name": "Döllstädt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24741,
+        "name": "Dorndorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24820,
+        "name": "Ebeleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24862,
+        "name": "Effelder",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24924,
+        "name": "Eisenach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24926,
+        "name": "Eisenberg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24930,
+        "name": "Eisfeld",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24944,
+        "name": "Elgersburg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24955,
+        "name": "Ellrich",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 24977,
+        "name": "Elxleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25038,
+        "name": "Erfurt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25065,
+        "name": "Ernstroda",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25141,
+        "name": "Fambach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25175,
+        "name": "Finsterbergen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25323,
+        "name": "Föritz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25215,
+        "name": "Frankenheim",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25229,
+        "name": "Frauenprießnitz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25231,
+        "name": "Frauenwald",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25243,
+        "name": "Freienbessingen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25284,
+        "name": "Friedrichroda",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25296,
+        "name": "Friemar",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25359,
+        "name": "Gangloffsömmern",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25384,
+        "name": "Gebesee",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25394,
+        "name": "Gehren",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25397,
+        "name": "Geisa",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25406,
+        "name": "Geisleden",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25409,
+        "name": "Geismar",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25431,
+        "name": "Georgenthal",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25434,
+        "name": "Gera",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25435,
+        "name": "Geraberg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25448,
+        "name": "Gernrode",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25464,
+        "name": "Gerstungen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25469,
+        "name": "Geschwenda",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25511,
+        "name": "Gleichamberg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25529,
+        "name": "Goldbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25783,
+        "name": "Görsbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25789,
+        "name": "Gößnitz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25554,
+        "name": "Goßwitz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25549,
+        "name": "Gotha",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25561,
+        "name": "Grabsleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25723,
+        "name": "Gräfenhain",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25725,
+        "name": "Gräfenroda",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25595,
+        "name": "Greiz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25602,
+        "name": "Greußen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25652,
+        "name": "Großbartloff",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25655,
+        "name": "Großbodungen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25658,
+        "name": "Großbreitenbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25662,
+        "name": "Großenehrich",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25663,
+        "name": "Großengottern",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25669,
+        "name": "Großenstein",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25692,
+        "name": "Großmonra",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25702,
+        "name": "Großrudestedt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25835,
+        "name": "Haina",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25963,
+        "name": "Haßleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 25993,
+        "name": "Heilbad Heiligenstadt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26021,
+        "name": "Heldrungen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26027,
+        "name": "Hellingen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26061,
+        "name": "Herbsleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26071,
+        "name": "Heringen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26079,
+        "name": "Hermsdorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26093,
+        "name": "Herschdorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26126,
+        "name": "Heyerode",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26134,
+        "name": "Hildburghausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26209,
+        "name": "Hohenleuben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26320,
+        "name": "Hörselgau",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26286,
+        "name": "Hundeshagen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26348,
+        "name": "Ichtershausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26354,
+        "name": "Ifta",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26365,
+        "name": "Ilfeld",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26372,
+        "name": "Ilmenau",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26379,
+        "name": "Immelborn",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26390,
+        "name": "Ingersleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26435,
+        "name": "Jena",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26471,
+        "name": "Jüchsen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26459,
+        "name": "Judenbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26480,
+        "name": "Kahla",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26497,
+        "name": "Kaltennordheim",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26498,
+        "name": "Kaltenwestheim",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26504,
+        "name": "Kamsdorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26507,
+        "name": "Kannawurf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26535,
+        "name": "Katharinenberg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26538,
+        "name": "Katzhütte",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26546,
+        "name": "Kaulsdorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26588,
+        "name": "Kindelbrück",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26618,
+        "name": "Kirchheim",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26638,
+        "name": "Kirchworbis",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26671,
+        "name": "Kleinfurra",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26681,
+        "name": "Kleinwenden",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26682,
+        "name": "Klettbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26816,
+        "name": "Kölleda",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26828,
+        "name": "Königsee",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26840,
+        "name": "Könitz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26844,
+        "name": "Körner",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26733,
+        "name": "Kraftsdorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26740,
+        "name": "Kranichfeld",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26743,
+        "name": "Krauthausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26760,
+        "name": "Kriebitzsch",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26782,
+        "name": "Krölpa",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26766,
+        "name": "Kromsdorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26850,
+        "name": "Kühndorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26852,
+        "name": "Küllstedt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26926,
+        "name": "Langenorla",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26931,
+        "name": "Langenwetzendorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26936,
+        "name": "Langewiesen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26943,
+        "name": "Langula",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26962,
+        "name": "Lauchröden",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 26980,
+        "name": "Lauscha",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27007,
+        "name": "Lehesten",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27019,
+        "name": "Leimbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27023,
+        "name": "Leinefelde-Worbis",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27066,
+        "name": "Leutenberg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27074,
+        "name": "Lichte",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27188,
+        "name": "Löbichau",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27159,
+        "name": "Lucka",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27172,
+        "name": "Luisenthal",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27229,
+        "name": "Magdala",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27292,
+        "name": "Marksuhl",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27339,
+        "name": "Masserberg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27355,
+        "name": "Mechterstädt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27383,
+        "name": "Meiningen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27394,
+        "name": "Mellenbach-Glasbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27395,
+        "name": "Mellingen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27408,
+        "name": "Mengersgereuth-Hämmern",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27412,
+        "name": "Menteroda",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27446,
+        "name": "Meuselbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27447,
+        "name": "Meuselwitz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27464,
+        "name": "Mihla",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27470,
+        "name": "Milz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27501,
+        "name": "Mohlsdorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27506,
+        "name": "Molschleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27569,
+        "name": "Mönchenholzhausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27596,
+        "name": "Mühlhausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27611,
+        "name": "Münchenbernsdorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27712,
+        "name": "Neudietendorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27739,
+        "name": "Neuhaus",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27741,
+        "name": "Neuhaus am Rennweg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27744,
+        "name": "Neuhaus-Schierschnitz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27798,
+        "name": "Neustadt am Rennsteig",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27802,
+        "name": "Neustadt an der Orla",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27839,
+        "name": "Niederdorla",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27866,
+        "name": "Niederorschel",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27869,
+        "name": "Niederroßla",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27870,
+        "name": "Niedersachswerfen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27886,
+        "name": "Niederzimmern",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27945,
+        "name": "Nöbdenitz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27906,
+        "name": "Nobitz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27908,
+        "name": "Nohra",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27919,
+        "name": "Nordhausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27974,
+        "name": "Oberdorla",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27987,
+        "name": "Oberhof",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27996,
+        "name": "Obermaßfeld-Grimmenthal",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 27997,
+        "name": "Obermehler",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28053,
+        "name": "Oberweißbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28110,
+        "name": "Oldisleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28122,
+        "name": "Oppurg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28126,
+        "name": "Orlamünde",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28207,
+        "name": "Oßmanstedt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28221,
+        "name": "Pappenheim",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28318,
+        "name": "Plaue",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28417,
+        "name": "Pölzig",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28350,
+        "name": "Ponitz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28420,
+        "name": "Pößneck",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28394,
+        "name": "Probstzella",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28472,
+        "name": "Ranis",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28481,
+        "name": "Rastenberg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28575,
+        "name": "Remptendorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28652,
+        "name": "Riethnordhausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28662,
+        "name": "Ringleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28688,
+        "name": "Rohr",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28785,
+        "name": "Römhild",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28698,
+        "name": "Ronneburg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 153781,
+        "name": "Rosenthal am Rennsteig",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28711,
+        "name": "Rositz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28745,
+        "name": "Roßleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28728,
+        "name": "Rothenstein",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28732,
+        "name": "Rottenbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28752,
+        "name": "Rudolstadt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28755,
+        "name": "Ruhla",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28814,
+        "name": "Saalfeld",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28815,
+        "name": "Saara",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28865,
+        "name": "Sankt Gangloff",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28873,
+        "name": "Sankt Kilian",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28906,
+        "name": "Schalkau",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28934,
+        "name": "Schernberg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28957,
+        "name": "Schkölen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28968,
+        "name": "Schleid",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28971,
+        "name": "Schleiz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28974,
+        "name": "Schleusingen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28982,
+        "name": "Schloßvippach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28981,
+        "name": "Schlotheim",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28987,
+        "name": "Schmalkalden",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28995,
+        "name": "Schmiedefeld",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28996,
+        "name": "Schmiedefeld am Rennsteig",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 28999,
+        "name": "Schmölln",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29130,
+        "name": "Schönstedt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29052,
+        "name": "Schwallungen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29064,
+        "name": "Schwarza",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29082,
+        "name": "Schweina",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29142,
+        "name": "Seebach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29146,
+        "name": "Seebergen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29158,
+        "name": "Seelingstädt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29252,
+        "name": "Sitzendorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29259,
+        "name": "Sollstedt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29494,
+        "name": "Sömmerda",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29268,
+        "name": "Sondershausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29270,
+        "name": "Sonneberg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29271,
+        "name": "Sonneborn",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29322,
+        "name": "Stadtilm",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29325,
+        "name": "Stadtlengsfeld",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29330,
+        "name": "Stadtroda",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29361,
+        "name": "Steinach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29363,
+        "name": "Steinbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29366,
+        "name": "Steinbach-Hallenberg",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29378,
+        "name": "Steinheid",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29431,
+        "name": "Straußfurt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29457,
+        "name": "Stützerbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29462,
+        "name": "Suhl",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29510,
+        "name": "Tabarz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29515,
+        "name": "Tambach-Dietharz",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29522,
+        "name": "Tanna",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29540,
+        "name": "Tautenhain",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29547,
+        "name": "Teichwolframsdorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29551,
+        "name": "Teistungen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29574,
+        "name": "Thal",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29590,
+        "name": "Themar",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29611,
+        "name": "Tiefenort",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29656,
+        "name": "Treffurt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29667,
+        "name": "Triebes",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29673,
+        "name": "Triptis",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29685,
+        "name": "Trusetal",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29717,
+        "name": "Uder",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29753,
+        "name": "Unterbreizbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29769,
+        "name": "Untermaßfeld",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29782,
+        "name": "Unterwellenborn",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29789,
+        "name": "Urbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29801,
+        "name": "Uthleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29807,
+        "name": "Vacha",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29820,
+        "name": "Veilsdorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29847,
+        "name": "Viernau",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29871,
+        "name": "Voigtstedt",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29891,
+        "name": "Völkershausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29971,
+        "name": "Walldorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29991,
+        "name": "Walschleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29995,
+        "name": "Waltershausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 29997,
+        "name": "Wandersleben",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30038,
+        "name": "Wasungen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30068,
+        "name": "Weida",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30096,
+        "name": "Weimar",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30125,
+        "name": "Weißenborn",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30127,
+        "name": "Weißenborn-Lüderode",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30135,
+        "name": "Weißensee",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30185,
+        "name": "Wernshausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30245,
+        "name": "Wiehe",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30319,
+        "name": "Windischleuba",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30321,
+        "name": "Wingerode",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30335,
+        "name": "Wintersdorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30338,
+        "name": "Wipperdorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30356,
+        "name": "Witterda",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30440,
+        "name": "Wölfis",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30392,
+        "name": "Wolkramshausen",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30404,
+        "name": "Worbis",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30457,
+        "name": "Wünschendorf",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30425,
+        "name": "Wurzbach",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30489,
+        "name": "Zella-Mehlis",
+        "country": "DEU",
+        "state": "TH"
+    },
+    {
+        "id": 30498,
+        "name": "Zeulenroda",
+        "country": "DEU",
+        "state": "TH"
+    }
+]

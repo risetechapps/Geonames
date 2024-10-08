@@ -1,1 +1,98 @@
-[{"id":0,"name":"Ais\u00e9n del General Carlos Iba\u00f1ez del Campo","iso3":"AI","country":"CHL"},{"id":1,"name":"Antofagasta","iso3":"AN","country":"CHL"},{"id":2,"name":"Arica y Parinacota","iso3":"AP","country":"CHL"},{"id":3,"name":"Atacama","iso3":"AT","country":"CHL"},{"id":4,"name":"Biob\u00edo","iso3":"BI","country":"CHL"},{"id":5,"name":"Coquimbo","iso3":"CO","country":"CHL"},{"id":6,"name":"La Araucan\u00eda","iso3":"AR","country":"CHL"},{"id":7,"name":"Libertador General Bernardo O'Higgins","iso3":"LI","country":"CHL"},{"id":8,"name":"Los Lagos","iso3":"LL","country":"CHL"},{"id":9,"name":"Los R\u00edos","iso3":"LR","country":"CHL"},{"id":10,"name":"Magallanes y de la Ant\u00e1rtica Chilena","iso3":"MA","country":"CHL"},{"id":11,"name":"Maule","iso3":"ML","country":"CHL"},{"id":12,"name":"\u00d1uble","iso3":"NB","country":"CHL"},{"id":13,"name":"Regi\u00f3n Metropolitana de Santiago","iso3":"RM","country":"CHL"},{"id":14,"name":"Tarapac\u00e1","iso3":"TA","country":"CHL"},{"id":15,"name":"Valpara\u00edso","iso3":"VS","country":"CHL"}]
+[
+    {
+        "id": 2828,
+        "name": "Aisén del General Carlos Ibañez del Campo",
+        "country": "CHL",
+        "state": "AI"
+    },
+    {
+        "id": 2832,
+        "name": "Antofagasta",
+        "country": "CHL",
+        "state": "AN"
+    },
+    {
+        "id": 2829,
+        "name": "Arica y Parinacota",
+        "country": "CHL",
+        "state": "AP"
+    },
+    {
+        "id": 2823,
+        "name": "Atacama",
+        "country": "CHL",
+        "state": "AT"
+    },
+    {
+        "id": 2827,
+        "name": "Biobío",
+        "country": "CHL",
+        "state": "BI"
+    },
+    {
+        "id": 2825,
+        "name": "Coquimbo",
+        "country": "CHL",
+        "state": "CO"
+    },
+    {
+        "id": 2826,
+        "name": "La Araucanía",
+        "country": "CHL",
+        "state": "AR"
+    },
+    {
+        "id": 2838,
+        "name": "Libertador General Bernardo O'Higgins",
+        "country": "CHL",
+        "state": "LI"
+    },
+    {
+        "id": 2835,
+        "name": "Los Lagos",
+        "country": "CHL",
+        "state": "LL"
+    },
+    {
+        "id": 2834,
+        "name": "Los Ríos",
+        "country": "CHL",
+        "state": "LR"
+    },
+    {
+        "id": 2836,
+        "name": "Magallanes y de la Antártica Chilena",
+        "country": "CHL",
+        "state": "MA"
+    },
+    {
+        "id": 2833,
+        "name": "Maule",
+        "country": "CHL",
+        "state": "ML"
+    },
+    {
+        "id": 2831,
+        "name": "Ñuble",
+        "country": "CHL",
+        "state": "NB"
+    },
+    {
+        "id": 2824,
+        "name": "Región Metropolitana de Santiago",
+        "country": "CHL",
+        "state": "RM"
+    },
+    {
+        "id": 2837,
+        "name": "Tarapacá",
+        "country": "CHL",
+        "state": "TA"
+    },
+    {
+        "id": 2830,
+        "name": "Valparaíso",
+        "country": "CHL",
+        "state": "VS"
+    }
+]

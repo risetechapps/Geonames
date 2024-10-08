@@ -1,1 +1,314 @@
-[{"id":0,"name":"Abdulino","country":"RUS","state":"ORE"},{"id":1,"name":"Adamovka","country":"RUS","state":"ORE"},{"id":2,"name":"Alandskoye","country":"RUS","state":"ORE"},{"id":3,"name":"Asekeyevo","country":"RUS","state":"ORE"},{"id":4,"name":"Belyayevka","country":"RUS","state":"ORE"},{"id":5,"name":"Buguruslan","country":"RUS","state":"ORE"},{"id":6,"name":"Buzuluk","country":"RUS","state":"ORE"},{"id":7,"name":"Dombarovskiy","country":"RUS","state":"ORE"},{"id":8,"name":"Energetik","country":"RUS","state":"ORE"},{"id":9,"name":"Gay","country":"RUS","state":"ORE"},{"id":10,"name":"Ilek","country":"RUS","state":"ORE"},{"id":11,"name":"Kardailovo","country":"RUS","state":"ORE"},{"id":12,"name":"Koltubanovskiy","country":"RUS","state":"ORE"},{"id":13,"name":"Krasnogvardeyets","country":"RUS","state":"ORE"},{"id":14,"name":"Krasnokholm","country":"RUS","state":"ORE"},{"id":15,"name":"Krasnoyarskiy","country":"RUS","state":"ORE"},{"id":16,"name":"Krasnyy Kommunar","country":"RUS","state":"ORE"},{"id":17,"name":"Kurmanayevka","country":"RUS","state":"ORE"},{"id":18,"name":"Kuvandyk","country":"RUS","state":"ORE"},{"id":19,"name":"Kvarkeno","country":"RUS","state":"ORE"},{"id":20,"name":"Kvarkenskiy Rayon","country":"RUS","state":"ORE"},{"id":21,"name":"Matveyevka","country":"RUS","state":"ORE"},{"id":22,"name":"Mednogorsk","country":"RUS","state":"ORE"},{"id":23,"name":"Nezhinka","country":"RUS","state":"ORE"},{"id":24,"name":"Nizhnepavlovka","country":"RUS","state":"ORE"},{"id":25,"name":"Novoorsk","country":"RUS","state":"ORE"},{"id":26,"name":"Novoorskiy Rayon","country":"RUS","state":"ORE"},{"id":27,"name":"Novorudnyy","country":"RUS","state":"ORE"},{"id":28,"name":"Novosergiyevka","country":"RUS","state":"ORE"},{"id":29,"name":"Novotroitsk","country":"RUS","state":"ORE"},{"id":30,"name":"Orenburg","country":"RUS","state":"ORE"},{"id":31,"name":"Orsk","country":"RUS","state":"ORE"},{"id":32,"name":"Perevolotskiy","country":"RUS","state":"ORE"},{"id":33,"name":"Pleshanovo","country":"RUS","state":"ORE"},{"id":34,"name":"Podgorodnyaya Pokrovka","country":"RUS","state":"ORE"},{"id":35,"name":"Prigorodnyy","country":"RUS","state":"ORE"},{"id":36,"name":"Sakmara","country":"RUS","state":"ORE"},{"id":37,"name":"Saraktash","country":"RUS","state":"ORE"},{"id":38,"name":"Saraktashskiy Rayon","country":"RUS","state":"ORE"},{"id":39,"name":"Severnoye","country":"RUS","state":"ORE"},{"id":40,"name":"Sharlyk","country":"RUS","state":"ORE"},{"id":41,"name":"Shil\u2019da","country":"RUS","state":"ORE"},{"id":42,"name":"Sol\u2019-Iletsk","country":"RUS","state":"ORE"},{"id":43,"name":"Sorochinsk","country":"RUS","state":"ORE"},{"id":44,"name":"Staraya Akkermanovka","country":"RUS","state":"ORE"},{"id":45,"name":"Svetlyy","country":"RUS","state":"ORE"},{"id":46,"name":"Tashla","country":"RUS","state":"ORE"},{"id":47,"name":"Tatarskaya Kargala","country":"RUS","state":"ORE"},{"id":48,"name":"Totskoye","country":"RUS","state":"ORE"},{"id":49,"name":"Tyul\u2019gan","country":"RUS","state":"ORE"},{"id":50,"name":"Yasnyy","country":"RUS","state":"ORE"},{"id":51,"name":"Yelizavetinka","country":"RUS","state":"ORE"}]
+[
+    {
+        "id": 97485,
+        "name": "Abdulino",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 97501,
+        "name": "Adamovka",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 97557,
+        "name": "Alandskoye",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 97695,
+        "name": "Asekeyevo",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 97877,
+        "name": "Belyayevka",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 98069,
+        "name": "Buguruslan",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 98096,
+        "name": "Buzuluk",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 98305,
+        "name": "Dombarovskiy",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 98396,
+        "name": "Energetik",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 98465,
+        "name": "Gay",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 98645,
+        "name": "Ilek",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 98872,
+        "name": "Kardailovo",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 99149,
+        "name": "Koltubanovskiy",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 99312,
+        "name": "Krasnogvardeyets",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 99323,
+        "name": "Krasnokholm",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 99345,
+        "name": "Krasnoyarskiy",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 99365,
+        "name": "Krasnyy Kommunar",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 99467,
+        "name": "Kurmanayevka",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 99490,
+        "name": "Kuvandyk",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 99513,
+        "name": "Kvarkeno",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 99514,
+        "name": "Kvarkenskiy Rayon",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 99816,
+        "name": "Matveyevka",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 99840,
+        "name": "Mednogorsk",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100127,
+        "name": "Nezhinka",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100157,
+        "name": "Nizhnepavlovka",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100274,
+        "name": "Novoorsk",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100275,
+        "name": "Novoorskiy Rayon",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100290,
+        "name": "Novorudnyy",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100296,
+        "name": "Novosergiyevka",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100316,
+        "name": "Novotroitsk",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100465,
+        "name": "Orenburg",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100480,
+        "name": "Orsk",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100608,
+        "name": "Perevolotskiy",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100702,
+        "name": "Pleshanovo",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100718,
+        "name": "Podgorodnyaya Pokrovka",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 100821,
+        "name": "Prigorodnyy",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101076,
+        "name": "Sakmara",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101106,
+        "name": "Saraktash",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101107,
+        "name": "Saraktashskiy Rayon",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101204,
+        "name": "Severnoye",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101262,
+        "name": "Sharlyk",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101317,
+        "name": "Shil’da",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101472,
+        "name": "Sol’-Iletsk",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101477,
+        "name": "Sorochinsk",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101557,
+        "name": "Staraya Akkermanovka",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101708,
+        "name": "Svetlyy",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101787,
+        "name": "Tashla",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101793,
+        "name": "Tatarskaya Kargala",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 101906,
+        "name": "Totskoye",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 102004,
+        "name": "Tyul’gan",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 102515,
+        "name": "Yasnyy",
+        "country": "RUS",
+        "state": "ORE"
+    },
+    {
+        "id": 102540,
+        "name": "Yelizavetinka",
+        "country": "RUS",
+        "state": "ORE"
+    }
+]

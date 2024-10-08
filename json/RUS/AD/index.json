@@ -1,1 +1,182 @@
-[{"id":0,"name":"Abadzekhskaya","country":"RUS","state":"AD"},{"id":1,"name":"Adygeysk","country":"RUS","state":"AD"},{"id":2,"name":"Adygeysk Republican Urban Okrug","country":"RUS","state":"AD"},{"id":3,"name":"Beloye","country":"RUS","state":"AD"},{"id":4,"name":"Blechepsin","country":"RUS","state":"AD"},{"id":5,"name":"Dondukovskaya","country":"RUS","state":"AD"},{"id":6,"name":"Enem","country":"RUS","state":"AD"},{"id":7,"name":"Giaginskaya","country":"RUS","state":"AD"},{"id":8,"name":"Giaginskiy Rayon","country":"RUS","state":"AD"},{"id":9,"name":"Kamennomostskiy","country":"RUS","state":"AD"},{"id":10,"name":"Khanskaya","country":"RUS","state":"AD"},{"id":11,"name":"Khatukay","country":"RUS","state":"AD"},{"id":12,"name":"Khodz\u2019","country":"RUS","state":"AD"},{"id":13,"name":"Koshekhabl\u2019","country":"RUS","state":"AD"},{"id":14,"name":"Koshekhabl\u2019skiy Rayon","country":"RUS","state":"AD"},{"id":15,"name":"Krasnogvardeyskiy Rayon","country":"RUS","state":"AD"},{"id":16,"name":"Krasnogvardeyskoye","country":"RUS","state":"AD"},{"id":17,"name":"Kuzhorskaya","country":"RUS","state":"AD"},{"id":18,"name":"Maykop","country":"RUS","state":"AD"},{"id":19,"name":"Maykop Republican Urban Okrug","country":"RUS","state":"AD"},{"id":20,"name":"Maykopskiy Rayon","country":"RUS","state":"AD"},{"id":21,"name":"Natyrbovo","country":"RUS","state":"AD"},{"id":22,"name":"Ponezhukay","country":"RUS","state":"AD"},{"id":23,"name":"Shovgenovskiy","country":"RUS","state":"AD"},{"id":24,"name":"Shovgenovskiy Rayon","country":"RUS","state":"AD"},{"id":25,"name":"Takhtamukay","country":"RUS","state":"AD"},{"id":26,"name":"Takhtamukayskiy Rayon","country":"RUS","state":"AD"},{"id":27,"name":"Teuchezhskiy Rayon","country":"RUS","state":"AD"},{"id":28,"name":"Tlyustenkhabl\u2019","country":"RUS","state":"AD"},{"id":29,"name":"Yablonovskiy","country":"RUS","state":"AD"}]
+[
+    {
+        "id": 97476,
+        "name": "Abadzekhskaya",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 97506,
+        "name": "Adygeysk",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 97507,
+        "name": "Adygeysk Republican Urban Okrug",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 97871,
+        "name": "Beloye",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 97953,
+        "name": "Blechepsin",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 98309,
+        "name": "Dondukovskaya",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 98395,
+        "name": "Enem",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 98486,
+        "name": "Giaginskaya",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 98487,
+        "name": "Giaginskiy Rayon",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 98816,
+        "name": "Kamennomostskiy",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 98961,
+        "name": "Khanskaya",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 98974,
+        "name": "Khatukay",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 98988,
+        "name": "Khodz’",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 99227,
+        "name": "Koshekhabl’",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 99228,
+        "name": "Koshekhabl’skiy Rayon",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 99315,
+        "name": "Krasnogvardeyskiy Rayon",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 99317,
+        "name": "Krasnogvardeyskoye",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 99503,
+        "name": "Kuzhorskaya",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 99819,
+        "name": "Maykop",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 99820,
+        "name": "Maykop Republican Urban Okrug",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 99821,
+        "name": "Maykopskiy Rayon",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 100065,
+        "name": "Natyrbovo",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 100768,
+        "name": "Ponezhukay",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 101339,
+        "name": "Shovgenovskiy",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 101340,
+        "name": "Shovgenovskiy Rayon",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 101742,
+        "name": "Takhtamukay",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 101743,
+        "name": "Takhtamukayskiy Rayon",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 101844,
+        "name": "Teuchezhskiy Rayon",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 101867,
+        "name": "Tlyustenkhabl’",
+        "country": "RUS",
+        "state": "AD"
+    },
+    {
+        "id": 102458,
+        "name": "Yablonovskiy",
+        "country": "RUS",
+        "state": "AD"
+    }
+]

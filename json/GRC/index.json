@@ -1,1 +1,230 @@
-[{"id":0,"name":"Achaea Regional Unit","iso3":"13","country":"GRC"},{"id":1,"name":"Aetolia-Acarnania Regional Unit","iso3":"01","country":"GRC"},{"id":2,"name":"Arcadia Prefecture","iso3":"12","country":"GRC"},{"id":3,"name":"Argolis Regional Unit","iso3":"11","country":"GRC"},{"id":4,"name":"Attica Region","iso3":"I","country":"GRC"},{"id":5,"name":"Boeotia Regional Unit","iso3":"03","country":"GRC"},{"id":6,"name":"Central Greece Region","iso3":"H","country":"GRC"},{"id":7,"name":"Central Macedonia","iso3":"B","country":"GRC"},{"id":8,"name":"Chania Regional Unit","iso3":"94","country":"GRC"},{"id":9,"name":"Corfu Prefecture","iso3":"22","country":"GRC"},{"id":10,"name":"Corinthia Regional Unit","iso3":"15","country":"GRC"},{"id":11,"name":"Crete Region","iso3":"M","country":"GRC"},{"id":12,"name":"Drama Regional Unit","iso3":"52","country":"GRC"},{"id":13,"name":"East Attica Regional Unit","iso3":"A2","country":"GRC"},{"id":14,"name":"East Macedonia and Thrace","iso3":"A","country":"GRC"},{"id":15,"name":"Epirus Region","iso3":"D","country":"GRC"},{"id":16,"name":"Euboea","iso3":"04","country":"GRC"},{"id":17,"name":"Grevena Prefecture","iso3":"51","country":"GRC"},{"id":18,"name":"Imathia Regional Unit","iso3":"53","country":"GRC"},{"id":19,"name":"Ioannina Regional Unit","iso3":"33","country":"GRC"},{"id":20,"name":"Ionian Islands Region","iso3":"F","country":"GRC"},{"id":21,"name":"Karditsa Regional Unit","iso3":"41","country":"GRC"},{"id":22,"name":"Kastoria Regional Unit","iso3":"56","country":"GRC"},{"id":23,"name":"Kefalonia Prefecture","iso3":"23","country":"GRC"},{"id":24,"name":"Kilkis Regional Unit","iso3":"57","country":"GRC"},{"id":25,"name":"Kozani Prefecture","iso3":"58","country":"GRC"},{"id":26,"name":"Laconia","iso3":"16","country":"GRC"},{"id":27,"name":"Larissa Prefecture","iso3":"42","country":"GRC"},{"id":28,"name":"Lefkada Regional Unit","iso3":"24","country":"GRC"},{"id":29,"name":"Pella Regional Unit","iso3":"59","country":"GRC"},{"id":30,"name":"Peloponnese Region","iso3":"J","country":"GRC"},{"id":31,"name":"Phthiotis Prefecture","iso3":"06","country":"GRC"},{"id":32,"name":"Preveza Prefecture","iso3":"34","country":"GRC"},{"id":33,"name":"Serres Prefecture","iso3":"62","country":"GRC"},{"id":34,"name":"South Aegean","iso3":"L","country":"GRC"},{"id":35,"name":"Thessaloniki Regional Unit","iso3":"54","country":"GRC"},{"id":36,"name":"West Greece Region","iso3":"G","country":"GRC"},{"id":37,"name":"West Macedonia Region","iso3":"C","country":"GRC"}]
+[
+    {
+        "id": 2116,
+        "name": "Achaea Regional Unit",
+        "country": "GRC",
+        "state": "13"
+    },
+    {
+        "id": 2123,
+        "name": "Aetolia-Acarnania Regional Unit",
+        "country": "GRC",
+        "state": "01"
+    },
+    {
+        "id": 2098,
+        "name": "Arcadia Prefecture",
+        "country": "GRC",
+        "state": "12"
+    },
+    {
+        "id": 2105,
+        "name": "Argolis Regional Unit",
+        "country": "GRC",
+        "state": "11"
+    },
+    {
+        "id": 2122,
+        "name": "Attica Region",
+        "country": "GRC",
+        "state": "I"
+    },
+    {
+        "id": 2126,
+        "name": "Boeotia Regional Unit",
+        "country": "GRC",
+        "state": "03"
+    },
+    {
+        "id": 2128,
+        "name": "Central Greece Region",
+        "country": "GRC",
+        "state": "H"
+    },
+    {
+        "id": 2125,
+        "name": "Central Macedonia",
+        "country": "GRC",
+        "state": "B"
+    },
+    {
+        "id": 2115,
+        "name": "Chania Regional Unit",
+        "country": "GRC",
+        "state": "94"
+    },
+    {
+        "id": 2124,
+        "name": "Corfu Prefecture",
+        "country": "GRC",
+        "state": "22"
+    },
+    {
+        "id": 2129,
+        "name": "Corinthia Regional Unit",
+        "country": "GRC",
+        "state": "15"
+    },
+    {
+        "id": 2109,
+        "name": "Crete Region",
+        "country": "GRC",
+        "state": "M"
+    },
+    {
+        "id": 2130,
+        "name": "Drama Regional Unit",
+        "country": "GRC",
+        "state": "52"
+    },
+    {
+        "id": 2120,
+        "name": "East Attica Regional Unit",
+        "country": "GRC",
+        "state": "A2"
+    },
+    {
+        "id": 2117,
+        "name": "East Macedonia and Thrace",
+        "country": "GRC",
+        "state": "A"
+    },
+    {
+        "id": 2110,
+        "name": "Epirus Region",
+        "country": "GRC",
+        "state": "D"
+    },
+    {
+        "id": 2101,
+        "name": "Euboea",
+        "country": "GRC",
+        "state": "04"
+    },
+    {
+        "id": 2102,
+        "name": "Grevena Prefecture",
+        "country": "GRC",
+        "state": "51"
+    },
+    {
+        "id": 2099,
+        "name": "Imathia Regional Unit",
+        "country": "GRC",
+        "state": "53"
+    },
+    {
+        "id": 2113,
+        "name": "Ioannina Regional Unit",
+        "country": "GRC",
+        "state": "33"
+    },
+    {
+        "id": 2131,
+        "name": "Ionian Islands Region",
+        "country": "GRC",
+        "state": "F"
+    },
+    {
+        "id": 2095,
+        "name": "Karditsa Regional Unit",
+        "country": "GRC",
+        "state": "41"
+    },
+    {
+        "id": 2100,
+        "name": "Kastoria Regional Unit",
+        "country": "GRC",
+        "state": "56"
+    },
+    {
+        "id": 2127,
+        "name": "Kefalonia Prefecture",
+        "country": "GRC",
+        "state": "23"
+    },
+    {
+        "id": 2111,
+        "name": "Kilkis Regional Unit",
+        "country": "GRC",
+        "state": "57"
+    },
+    {
+        "id": 2112,
+        "name": "Kozani Prefecture",
+        "country": "GRC",
+        "state": "58"
+    },
+    {
+        "id": 2106,
+        "name": "Laconia",
+        "country": "GRC",
+        "state": "16"
+    },
+    {
+        "id": 2132,
+        "name": "Larissa Prefecture",
+        "country": "GRC",
+        "state": "42"
+    },
+    {
+        "id": 2104,
+        "name": "Lefkada Regional Unit",
+        "country": "GRC",
+        "state": "24"
+    },
+    {
+        "id": 2107,
+        "name": "Pella Regional Unit",
+        "country": "GRC",
+        "state": "59"
+    },
+    {
+        "id": 2119,
+        "name": "Peloponnese Region",
+        "country": "GRC",
+        "state": "J"
+    },
+    {
+        "id": 2114,
+        "name": "Phthiotis Prefecture",
+        "country": "GRC",
+        "state": "06"
+    },
+    {
+        "id": 2103,
+        "name": "Preveza Prefecture",
+        "country": "GRC",
+        "state": "34"
+    },
+    {
+        "id": 2121,
+        "name": "Serres Prefecture",
+        "country": "GRC",
+        "state": "62"
+    },
+    {
+        "id": 2118,
+        "name": "South Aegean",
+        "country": "GRC",
+        "state": "L"
+    },
+    {
+        "id": 2097,
+        "name": "Thessaloniki Regional Unit",
+        "country": "GRC",
+        "state": "54"
+    },
+    {
+        "id": 2096,
+        "name": "West Greece Region",
+        "country": "GRC",
+        "state": "G"
+    },
+    {
+        "id": 2108,
+        "name": "West Macedonia Region",
+        "country": "GRC",
+        "state": "C"
+    }
+]

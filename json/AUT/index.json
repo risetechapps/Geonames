@@ -1,1 +1,56 @@
-[{"id":0,"name":"Burgenland","iso3":"1","country":"AUT"},{"id":1,"name":"Carinthia","iso3":"2","country":"AUT"},{"id":2,"name":"Lower Austria","iso3":"3","country":"AUT"},{"id":3,"name":"Salzburg","iso3":"5","country":"AUT"},{"id":4,"name":"Styria","iso3":"6","country":"AUT"},{"id":5,"name":"Tyrol","iso3":"7","country":"AUT"},{"id":6,"name":"Upper Austria","iso3":"4","country":"AUT"},{"id":7,"name":"Vienna","iso3":"9","country":"AUT"},{"id":8,"name":"Vorarlberg","iso3":"8","country":"AUT"}]
+[
+    {
+        "id": 2062,
+        "name": "Burgenland",
+        "country": "AUT",
+        "state": "1"
+    },
+    {
+        "id": 2057,
+        "name": "Carinthia",
+        "country": "AUT",
+        "state": "2"
+    },
+    {
+        "id": 2065,
+        "name": "Lower Austria",
+        "country": "AUT",
+        "state": "3"
+    },
+    {
+        "id": 2061,
+        "name": "Salzburg",
+        "country": "AUT",
+        "state": "5"
+    },
+    {
+        "id": 2059,
+        "name": "Styria",
+        "country": "AUT",
+        "state": "6"
+    },
+    {
+        "id": 2064,
+        "name": "Tyrol",
+        "country": "AUT",
+        "state": "7"
+    },
+    {
+        "id": 2058,
+        "name": "Upper Austria",
+        "country": "AUT",
+        "state": "4"
+    },
+    {
+        "id": 2060,
+        "name": "Vienna",
+        "country": "AUT",
+        "state": "9"
+    },
+    {
+        "id": 2063,
+        "name": "Vorarlberg",
+        "country": "AUT",
+        "state": "8"
+    }
+]

@@ -1,1 +1,794 @@
-[{"id":0,"name":"Acri\u0219","country":"ROU","state":"BV"},{"id":1,"name":"Apa\u0163a","country":"ROU","state":"BV"},{"id":2,"name":"Augustin","country":"ROU","state":"BV"},{"id":3,"name":"Beclean","country":"ROU","state":"BV"},{"id":4,"name":"Bod","country":"ROU","state":"BV"},{"id":5,"name":"Bran","country":"ROU","state":"BV"},{"id":6,"name":"Bra\u015fov","country":"ROU","state":"BV"},{"id":7,"name":"Budila","country":"ROU","state":"BV"},{"id":8,"name":"Bune\u015fti","country":"ROU","state":"BV"},{"id":9,"name":"Ca\u0163a","country":"ROU","state":"BV"},{"id":10,"name":"Cincu","country":"ROU","state":"BV"},{"id":11,"name":"Codlea","country":"ROU","state":"BV"},{"id":12,"name":"Colonia Bod","country":"ROU","state":"BV"},{"id":13,"name":"Comana de Jos","country":"ROU","state":"BV"},{"id":14,"name":"Comana de Sus","country":"ROU","state":"BV"},{"id":15,"name":"Comuna Apa\u0163a","country":"ROU","state":"BV"},{"id":16,"name":"Comuna Augustin","country":"ROU","state":"BV"},{"id":17,"name":"Comuna Beclean","country":"ROU","state":"BV"},{"id":18,"name":"Comuna Bod","country":"ROU","state":"BV"},{"id":19,"name":"Comuna Bran","country":"ROU","state":"BV"},{"id":20,"name":"Comuna Budila","country":"ROU","state":"BV"},{"id":21,"name":"Comuna Bune\u015fti","country":"ROU","state":"BV"},{"id":22,"name":"Comuna Ca\u0163a","country":"ROU","state":"BV"},{"id":23,"name":"Comuna Cincu","country":"ROU","state":"BV"},{"id":24,"name":"Comuna Comana","country":"ROU","state":"BV"},{"id":25,"name":"Comuna Cristian","country":"ROU","state":"BV"},{"id":26,"name":"Comuna Crizbav","country":"ROU","state":"BV"},{"id":27,"name":"Comuna Dr\u0103gu\u015f","country":"ROU","state":"BV"},{"id":28,"name":"Comuna Dumbr\u0103vi\u0163a","country":"ROU","state":"BV"},{"id":29,"name":"Comuna Feldioara","country":"ROU","state":"BV"},{"id":30,"name":"Comuna Fundata","country":"ROU","state":"BV"},{"id":31,"name":"Comuna H\u0103lchiu","country":"ROU","state":"BV"},{"id":32,"name":"Comuna H\u0103rman","country":"ROU","state":"BV"},{"id":33,"name":"Comuna H\u00e2r\u015feni","country":"ROU","state":"BV"},{"id":34,"name":"Comuna Hoghiz","country":"ROU","state":"BV"},{"id":35,"name":"Comuna Holbav","country":"ROU","state":"BV"},{"id":36,"name":"Comuna Homorod","country":"ROU","state":"BV"},{"id":37,"name":"Comuna Jibert","country":"ROU","state":"BV"},{"id":38,"name":"Comuna Lisa","country":"ROU","state":"BV"},{"id":39,"name":"Comuna M\u00e3ieru\u015f","country":"ROU","state":"BV"},{"id":40,"name":"Comuna M\u00e2ndra","country":"ROU","state":"BV"},{"id":41,"name":"Comuna Moieciu","country":"ROU","state":"BV"},{"id":42,"name":"Comuna Ormeni\u015f","country":"ROU","state":"BV"},{"id":43,"name":"Comuna P\u00e2r\u00e2u","country":"ROU","state":"BV"},{"id":44,"name":"Comuna Poiana M\u0103rului (Bra\u0219ov)","country":"ROU","state":"BV"},{"id":45,"name":"Comuna Prejmer","country":"ROU","state":"BV"},{"id":46,"name":"Comuna Raco\u015f","country":"ROU","state":"BV"},{"id":47,"name":"Comuna Recea","country":"ROU","state":"BV"},{"id":48,"name":"Comuna S\u00e2mb\u0103ta de Sus","country":"ROU","state":"BV"},{"id":49,"name":"Comuna S\u00e2npetru","country":"ROU","state":"BV"},{"id":50,"name":"Comuna \u015eercaia","country":"ROU","state":"BV"},{"id":51,"name":"Comuna \u015einca Nou\u0103","country":"ROU","state":"BV"},{"id":52,"name":"Comuna \u015einca Veche","country":"ROU","state":"BV"},{"id":53,"name":"Comuna \u015eoar\u015f","country":"ROU","state":"BV"},{"id":54,"name":"Comuna T\u0103rlungeni","country":"ROU","state":"BV"},{"id":55,"name":"Comuna Teliu","country":"ROU","state":"BV"},{"id":56,"name":"Comuna Ticu\u015fu Vechi","country":"ROU","state":"BV"},{"id":57,"name":"Comuna Ucea de Jos","country":"ROU","state":"BV"},{"id":58,"name":"Comuna Ungra","country":"ROU","state":"BV"},{"id":59,"name":"Comuna Vama Buz\u0103ului","country":"ROU","state":"BV"},{"id":60,"name":"Comuna Vi\u015ftea de Jos","country":"ROU","state":"BV"},{"id":61,"name":"Comuna Voila","country":"ROU","state":"BV"},{"id":62,"name":"Comuna Vulcan","country":"ROU","state":"BV"},{"id":63,"name":"Cristian","country":"ROU","state":"BV"},{"id":64,"name":"Crivina","country":"ROU","state":"BV"},{"id":65,"name":"Crizbav","country":"ROU","state":"BV"},{"id":66,"name":"Cuciulata","country":"ROU","state":"BV"},{"id":67,"name":"Dr\u0103gu\u0219","country":"ROU","state":"BV"},{"id":68,"name":"Dumbr\u0103vi\u0163a","country":"ROU","state":"BV"},{"id":69,"name":"F\u0103g\u0103ra\u0219","country":"ROU","state":"BV"},{"id":70,"name":"Feldioara","country":"ROU","state":"BV"},{"id":71,"name":"Fi\u0219er","country":"ROU","state":"BV"},{"id":72,"name":"Fundata","country":"ROU","state":"BV"},{"id":73,"name":"Ghimbav","country":"ROU","state":"BV"},{"id":74,"name":"H\u0103lchiu","country":"ROU","state":"BV"},{"id":75,"name":"H\u0103rman","country":"ROU","state":"BV"},{"id":76,"name":"H\u00e2r\u015feni","country":"ROU","state":"BV"},{"id":77,"name":"Hoghiz","country":"ROU","state":"BV"},{"id":78,"name":"Holbav","country":"ROU","state":"BV"},{"id":79,"name":"Homorod","country":"ROU","state":"BV"},{"id":80,"name":"Jibert","country":"ROU","state":"BV"},{"id":81,"name":"Lisa","country":"ROU","state":"BV"},{"id":82,"name":"M\u0103ieru\u015f","country":"ROU","state":"BV"},{"id":83,"name":"M\u00e2ndra","country":"ROU","state":"BV"},{"id":84,"name":"Moeciu de Jos","country":"ROU","state":"BV"},{"id":85,"name":"Moieciu de Jos","country":"ROU","state":"BV"},{"id":86,"name":"Municipiul  Codlea","country":"ROU","state":"BV"},{"id":87,"name":"Municipiul Bra\u015fov","country":"ROU","state":"BV"},{"id":88,"name":"Municipiul F\u00e3g\u00e3ra\u015f","country":"ROU","state":"BV"},{"id":89,"name":"Municipiul S\u00e3cele","country":"ROU","state":"BV"},{"id":90,"name":"Ora\u015f Ghimbav","country":"ROU","state":"BV"},{"id":91,"name":"Ora\u015f Predeal","country":"ROU","state":"BV"},{"id":92,"name":"Ora\u015f R\u00e2\u015fnov","country":"ROU","state":"BV"},{"id":93,"name":"Ora\u015f Rupea","country":"ROU","state":"BV"},{"id":94,"name":"Ora\u015f Victoria","country":"ROU","state":"BV"},{"id":95,"name":"Ora\u015f Z\u00e3rne\u015fti","country":"ROU","state":"BV"},{"id":96,"name":"Ormeni\u015f","country":"ROU","state":"BV"},{"id":97,"name":"P\u00e2r\u00e2u","country":"ROU","state":"BV"},{"id":98,"name":"Per\u0219ani","country":"ROU","state":"BV"},{"id":99,"name":"Poiana M\u0103rului (Bra\u0219ov)","country":"ROU","state":"BV"},{"id":100,"name":"Predeal","country":"ROU","state":"BV"},{"id":101,"name":"Prejmer","country":"ROU","state":"BV"},{"id":102,"name":"Purc\u0103reni","country":"ROU","state":"BV"},{"id":103,"name":"Raco\u0219","country":"ROU","state":"BV"},{"id":104,"name":"R\u00e2\u015fnov","country":"ROU","state":"BV"},{"id":105,"name":"Recea","country":"ROU","state":"BV"},{"id":106,"name":"Rupea","country":"ROU","state":"BV"},{"id":107,"name":"S\u0103cele","country":"ROU","state":"BV"},{"id":108,"name":"S\u00e2mb\u0103ta de Sus","country":"ROU","state":"BV"},{"id":109,"name":"S\u00e2npetru","country":"ROU","state":"BV"},{"id":110,"name":"\u015eercaia","country":"ROU","state":"BV"},{"id":111,"name":"\u0218imon","country":"ROU","state":"BV"},{"id":112,"name":"\u0218inca Nou\u0103","country":"ROU","state":"BV"},{"id":113,"name":"\u015einca Veche","country":"ROU","state":"BV"},{"id":114,"name":"\u015eoar\u015f","country":"ROU","state":"BV"},{"id":115,"name":"Sohodol","country":"ROU","state":"BV"},{"id":116,"name":"T\u0103rlungeni","country":"ROU","state":"BV"},{"id":117,"name":"Teliu","country":"ROU","state":"BV"},{"id":118,"name":"Ticu\u015fu Vechi","country":"ROU","state":"BV"},{"id":119,"name":"Tohanu Nou","country":"ROU","state":"BV"},{"id":120,"name":"Tunelu-Teliu","country":"ROU","state":"BV"},{"id":121,"name":"Ucea de Jos","country":"ROU","state":"BV"},{"id":122,"name":"Ucea de Sus","country":"ROU","state":"BV"},{"id":123,"name":"Ungra","country":"ROU","state":"BV"},{"id":124,"name":"Vama Buz\u0103ului","country":"ROU","state":"BV"},{"id":125,"name":"Victoria","country":"ROU","state":"BV"},{"id":126,"name":"Viscri","country":"ROU","state":"BV"},{"id":127,"name":"Vi\u0219tea de Jos","country":"ROU","state":"BV"},{"id":128,"name":"Voila","country":"ROU","state":"BV"},{"id":129,"name":"Vulcan","country":"ROU","state":"BV"},{"id":130,"name":"Z\u0103rne\u0219ti","country":"ROU","state":"BV"},{"id":131,"name":"Zizin","country":"ROU","state":"BV"}]
+[
+    {
+        "id": 89877,
+        "name": "Acriș",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 89971,
+        "name": "Apaţa",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90004,
+        "name": "Augustin",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90079,
+        "name": "Beclean",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90179,
+        "name": "Bod",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90266,
+        "name": "Bran",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90281,
+        "name": "Braşov",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90386,
+        "name": "Budila",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90409,
+        "name": "Buneşti",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90596,
+        "name": "Caţa",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90703,
+        "name": "Cincu",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90785,
+        "name": "Codlea",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90799,
+        "name": "Colonia Bod",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90805,
+        "name": "Comana de Jos",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90806,
+        "name": "Comana de Sus",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90878,
+        "name": "Comuna Apaţa",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90902,
+        "name": "Comuna Augustin",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 90947,
+        "name": "Comuna Beclean",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91017,
+        "name": "Comuna Bod",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91076,
+        "name": "Comuna Bran",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91148,
+        "name": "Comuna Budila",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91165,
+        "name": "Comuna Buneşti",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91270,
+        "name": "Comuna Caţa",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91338,
+        "name": "Comuna Cincu",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91405,
+        "name": "Comuna Comana",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91498,
+        "name": "Comuna Cristian",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91503,
+        "name": "Comuna Crizbav",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91693,
+        "name": "Comuna Drăguş",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91718,
+        "name": "Comuna Dumbrăviţa",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91754,
+        "name": "Comuna Feldioara",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 91798,
+        "name": "Comuna Fundata",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92037,
+        "name": "Comuna Hălchiu",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92043,
+        "name": "Comuna Hărman",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92035,
+        "name": "Comuna Hârşeni",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92007,
+        "name": "Comuna Hoghiz",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92008,
+        "name": "Comuna Holbav",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92013,
+        "name": "Comuna Homorod",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92119,
+        "name": "Comuna Jibert",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92171,
+        "name": "Comuna Lisa",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92376,
+        "name": "Comuna Mãieruş",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92366,
+        "name": "Comuna Mândra",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92322,
+        "name": "Comuna Moieciu",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92511,
+        "name": "Comuna Ormeniş",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92708,
+        "name": "Comuna Pârâu",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92630,
+        "name": "Comuna Poiana Mărului (Brașov)",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92671,
+        "name": "Comuna Prejmer",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92739,
+        "name": "Comuna Racoş",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 92753,
+        "name": "Comuna Recea",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93047,
+        "name": "Comuna Sâmbăta de Sus",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93063,
+        "name": "Comuna Sânpetru",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93511,
+        "name": "Comuna Şercaia",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93524,
+        "name": "Comuna Şinca Nouă",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93525,
+        "name": "Comuna Şinca Veche",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93534,
+        "name": "Comuna Şoarş",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93240,
+        "name": "Comuna Tărlungeni",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93138,
+        "name": "Comuna Teliu",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93149,
+        "name": "Comuna Ticuşu Vechi",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93251,
+        "name": "Comuna Ucea de Jos",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93269,
+        "name": "Comuna Ungra",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93333,
+        "name": "Comuna Vama Buzăului",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93380,
+        "name": "Comuna Viştea de Jos",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93395,
+        "name": "Comuna Voila",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93412,
+        "name": "Comuna Vulcan",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93723,
+        "name": "Cristian",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93730,
+        "name": "Crivina",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93732,
+        "name": "Crizbav",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 93758,
+        "name": "Cuciulata",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94052,
+        "name": "Drăguș",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94088,
+        "name": "Dumbrăviţa",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94256,
+        "name": "Făgăraș",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94152,
+        "name": "Feldioara",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94183,
+        "name": "Fișer",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94224,
+        "name": "Fundata",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94321,
+        "name": "Ghimbav",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94598,
+        "name": "Hălchiu",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94605,
+        "name": "Hărman",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94593,
+        "name": "Hârşeni",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94547,
+        "name": "Hoghiz",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94548,
+        "name": "Holbav",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94553,
+        "name": "Homorod",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94728,
+        "name": "Jibert",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 94809,
+        "name": "Lisa",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95250,
+        "name": "Măieruş",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95212,
+        "name": "Mândra",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95047,
+        "name": "Moeciu de Jos",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95057,
+        "name": "Moieciu de Jos",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95102,
+        "name": "Municipiul  Codlea",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95117,
+        "name": "Municipiul Braşov",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95142,
+        "name": "Municipiul Fãgãraş",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95185,
+        "name": "Municipiul Sãcele",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95524,
+        "name": "Oraş Ghimbav",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95573,
+        "name": "Oraş Predeal",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95581,
+        "name": "Oraş Râşnov",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95580,
+        "name": "Oraş Rupea",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95617,
+        "name": "Oraş Victoria",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95625,
+        "name": "Oraş Zãrneşti",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95662,
+        "name": "Ormeniş",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96002,
+        "name": "Pârâu",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95740,
+        "name": "Perșani",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95879,
+        "name": "Poiana Mărului (Brașov)",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95942,
+        "name": "Predeal",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95944,
+        "name": "Prejmer",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 95984,
+        "name": "Purcăreni",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96048,
+        "name": "Racoș",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96178,
+        "name": "Râşnov",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96069,
+        "name": "Recea",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96156,
+        "name": "Rupea",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 105992,
+        "name": "Săcele",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96520,
+        "name": "Sâmbăta de Sus",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96543,
+        "name": "Sânpetru",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 97040,
+        "name": "Şercaia",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 97125,
+        "name": "Șimon",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 97126,
+        "name": "Șinca Nouă",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 97054,
+        "name": "Şinca Veche",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 97063,
+        "name": "Şoarş",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96401,
+        "name": "Sohodol",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96612,
+        "name": "Tărlungeni",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 106081,
+        "name": "Teliu",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 106094,
+        "name": "Ticuşu Vechi",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 106119,
+        "name": "Tohanu Nou",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96549,
+        "name": "Tunelu-Teliu",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96632,
+        "name": "Ucea de Jos",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96633,
+        "name": "Ucea de Sus",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96656,
+        "name": "Ungra",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96772,
+        "name": "Vama Buzăului",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96803,
+        "name": "Victoria",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96839,
+        "name": "Viscri",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96854,
+        "name": "Viștea de Jos",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96876,
+        "name": "Voila",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96900,
+        "name": "Vulcan",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 97016,
+        "name": "Zărnești",
+        "country": "ROU",
+        "state": "BV"
+    },
+    {
+        "id": 96997,
+        "name": "Zizin",
+        "country": "ROU",
+        "state": "BV"
+    }
+]

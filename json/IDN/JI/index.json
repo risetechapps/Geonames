@@ -1,1 +1,608 @@
-[{"id":0,"name":"Babat","country":"IDN","state":"JI"},{"id":1,"name":"Balung","country":"IDN","state":"JI"},{"id":2,"name":"Bangil","country":"IDN","state":"JI"},{"id":3,"name":"Bangkalan","country":"IDN","state":"JI"},{"id":4,"name":"Banyuwangi","country":"IDN","state":"JI"},{"id":5,"name":"Batu","country":"IDN","state":"JI"},{"id":6,"name":"Besuki","country":"IDN","state":"JI"},{"id":7,"name":"Blitar","country":"IDN","state":"JI"},{"id":8,"name":"Bojonegoro","country":"IDN","state":"JI"},{"id":9,"name":"Bondowoso","country":"IDN","state":"JI"},{"id":10,"name":"Boyolangu","country":"IDN","state":"JI"},{"id":11,"name":"Buduran","country":"IDN","state":"JI"},{"id":12,"name":"Dampit","country":"IDN","state":"JI"},{"id":13,"name":"Diwek","country":"IDN","state":"JI"},{"id":14,"name":"Driyorejo","country":"IDN","state":"JI"},{"id":15,"name":"Gambiran Satu","country":"IDN","state":"JI"},{"id":16,"name":"Gampengrejo","country":"IDN","state":"JI"},{"id":17,"name":"Gedangan","country":"IDN","state":"JI"},{"id":18,"name":"Genteng","country":"IDN","state":"JI"},{"id":19,"name":"Gongdanglegi Kulon","country":"IDN","state":"JI"},{"id":20,"name":"Gresik","country":"IDN","state":"JI"},{"id":21,"name":"Gresik Regency","country":"IDN","state":"JI"},{"id":22,"name":"Jember","country":"IDN","state":"JI"},{"id":23,"name":"Jombang","country":"IDN","state":"JI"},{"id":24,"name":"Kabupaten Bangkalan","country":"IDN","state":"JI"},{"id":25,"name":"Kabupaten Banyuwangi","country":"IDN","state":"JI"},{"id":26,"name":"Kabupaten Blitar","country":"IDN","state":"JI"},{"id":27,"name":"Kabupaten Bojonegoro","country":"IDN","state":"JI"},{"id":28,"name":"Kabupaten Bondowoso","country":"IDN","state":"JI"},{"id":29,"name":"Kabupaten Jember","country":"IDN","state":"JI"},{"id":30,"name":"Kabupaten Jombang","country":"IDN","state":"JI"},{"id":31,"name":"Kabupaten Kediri","country":"IDN","state":"JI"},{"id":32,"name":"Kabupaten Lamongan","country":"IDN","state":"JI"},{"id":33,"name":"Kabupaten Lumajang","country":"IDN","state":"JI"},{"id":34,"name":"Kabupaten Madiun","country":"IDN","state":"JI"},{"id":35,"name":"Kabupaten Magetan","country":"IDN","state":"JI"},{"id":36,"name":"Kabupaten Malang","country":"IDN","state":"JI"},{"id":37,"name":"Kabupaten Mojokerto","country":"IDN","state":"JI"},{"id":38,"name":"Kabupaten Nganjuk","country":"IDN","state":"JI"},{"id":39,"name":"Kabupaten Ngawi","country":"IDN","state":"JI"},{"id":40,"name":"Kabupaten Pacitan","country":"IDN","state":"JI"},{"id":41,"name":"Kabupaten Pamekasan","country":"IDN","state":"JI"},{"id":42,"name":"Kabupaten Pasuruan","country":"IDN","state":"JI"},{"id":43,"name":"Kabupaten Ponorogo","country":"IDN","state":"JI"},{"id":44,"name":"Kabupaten Probolinggo","country":"IDN","state":"JI"},{"id":45,"name":"Kabupaten Sampang","country":"IDN","state":"JI"},{"id":46,"name":"Kabupaten Sidoarjo","country":"IDN","state":"JI"},{"id":47,"name":"Kabupaten Situbondo","country":"IDN","state":"JI"},{"id":48,"name":"Kabupaten Sumenep","country":"IDN","state":"JI"},{"id":49,"name":"Kabupaten Trenggalek","country":"IDN","state":"JI"},{"id":50,"name":"Kabupaten Tuban","country":"IDN","state":"JI"},{"id":51,"name":"Kabupaten Tulungagung","country":"IDN","state":"JI"},{"id":52,"name":"Kalianget","country":"IDN","state":"JI"},{"id":53,"name":"Kamal","country":"IDN","state":"JI"},{"id":54,"name":"Kebomas","country":"IDN","state":"JI"},{"id":55,"name":"Kediri","country":"IDN","state":"JI"},{"id":56,"name":"Kedungwaru","country":"IDN","state":"JI"},{"id":57,"name":"Kencong","country":"IDN","state":"JI"},{"id":58,"name":"Kepanjen","country":"IDN","state":"JI"},{"id":59,"name":"Kertosono","country":"IDN","state":"JI"},{"id":60,"name":"Kota Batu","country":"IDN","state":"JI"},{"id":61,"name":"Kota Blitar","country":"IDN","state":"JI"},{"id":62,"name":"Kota Kediri","country":"IDN","state":"JI"},{"id":63,"name":"Kota Madiun","country":"IDN","state":"JI"},{"id":64,"name":"Kota Malang","country":"IDN","state":"JI"},{"id":65,"name":"Kota Mojokerto","country":"IDN","state":"JI"},{"id":66,"name":"Kota Pasuruan","country":"IDN","state":"JI"},{"id":67,"name":"Kota Probolinggo","country":"IDN","state":"JI"},{"id":68,"name":"Kota Surabaya","country":"IDN","state":"JI"},{"id":69,"name":"Kraksaan","country":"IDN","state":"JI"},{"id":70,"name":"Krian","country":"IDN","state":"JI"},{"id":71,"name":"Lamongan","country":"IDN","state":"JI"},{"id":72,"name":"Lawang","country":"IDN","state":"JI"},{"id":73,"name":"Lumajang","country":"IDN","state":"JI"},{"id":74,"name":"Madiun","country":"IDN","state":"JI"},{"id":75,"name":"Malang","country":"IDN","state":"JI"},{"id":76,"name":"Mojoagung","country":"IDN","state":"JI"},{"id":77,"name":"Mojokerto","country":"IDN","state":"JI"},{"id":78,"name":"Muncar","country":"IDN","state":"JI"},{"id":79,"name":"Nganjuk","country":"IDN","state":"JI"},{"id":80,"name":"Ngoro","country":"IDN","state":"JI"},{"id":81,"name":"Ngunut","country":"IDN","state":"JI"},{"id":82,"name":"Paciran","country":"IDN","state":"JI"},{"id":83,"name":"Pakisaji","country":"IDN","state":"JI"},{"id":84,"name":"Pamekasan","country":"IDN","state":"JI"},{"id":85,"name":"Panarukan","country":"IDN","state":"JI"},{"id":86,"name":"Pandaan","country":"IDN","state":"JI"},{"id":87,"name":"Panji","country":"IDN","state":"JI"},{"id":88,"name":"Pare","country":"IDN","state":"JI"},{"id":89,"name":"Pasuruan","country":"IDN","state":"JI"},{"id":90,"name":"Ponorogo","country":"IDN","state":"JI"},{"id":91,"name":"Prigen","country":"IDN","state":"JI"},{"id":92,"name":"Probolinggo","country":"IDN","state":"JI"},{"id":93,"name":"Sampang","country":"IDN","state":"JI"},{"id":94,"name":"Sidoarjo","country":"IDN","state":"JI"},{"id":95,"name":"Singojuruh","country":"IDN","state":"JI"},{"id":96,"name":"Singosari","country":"IDN","state":"JI"},{"id":97,"name":"Situbondo","country":"IDN","state":"JI"},{"id":98,"name":"Soko","country":"IDN","state":"JI"},{"id":99,"name":"Srono","country":"IDN","state":"JI"},{"id":100,"name":"Sumberpucung","country":"IDN","state":"JI"},{"id":101,"name":"Sumenep","country":"IDN","state":"JI"},{"id":102,"name":"Surabaya","country":"IDN","state":"JI"},{"id":103,"name":"Tanggul","country":"IDN","state":"JI"},{"id":104,"name":"Tanggulangin","country":"IDN","state":"JI"},{"id":105,"name":"Trenggalek","country":"IDN","state":"JI"},{"id":106,"name":"Tuban","country":"IDN","state":"JI"},{"id":107,"name":"Tulangan Utara","country":"IDN","state":"JI"},{"id":108,"name":"Tulungagung","country":"IDN","state":"JI"},{"id":109,"name":"Wongsorejo","country":"IDN","state":"JI"}]
+[
+    {
+        "id": 56185,
+        "name": "Babat",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56191,
+        "name": "Balung",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56197,
+        "name": "Bangil",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56198,
+        "name": "Bangkalan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56206,
+        "name": "Banyuwangi",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56210,
+        "name": "Batu",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56219,
+        "name": "Besuki",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56224,
+        "name": "Blitar",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56227,
+        "name": "Bojonegoro",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56228,
+        "name": "Bondowoso",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56231,
+        "name": "Boyolangu",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56233,
+        "name": "Buduran",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56259,
+        "name": "Dampit",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56266,
+        "name": "Diwek",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56268,
+        "name": "Driyorejo",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56274,
+        "name": "Gambiran Satu",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56275,
+        "name": "Gampengrejo",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56279,
+        "name": "Gedangan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56280,
+        "name": "Genteng",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56284,
+        "name": "Gongdanglegi Kulon",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56286,
+        "name": "Gresik",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56287,
+        "name": "Gresik Regency",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56301,
+        "name": "Jember",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56304,
+        "name": "Jombang",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56333,
+        "name": "Kabupaten Bangkalan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56340,
+        "name": "Kabupaten Banyuwangi",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56363,
+        "name": "Kabupaten Blitar",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56367,
+        "name": "Kabupaten Bojonegoro",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56373,
+        "name": "Kabupaten Bondowoso",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56430,
+        "name": "Kabupaten Jember",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56434,
+        "name": "Kabupaten Jombang",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56446,
+        "name": "Kabupaten Kediri",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56483,
+        "name": "Kabupaten Lamongan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56500,
+        "name": "Kabupaten Lumajang",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56504,
+        "name": "Kabupaten Madiun",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56506,
+        "name": "Kabupaten Magetan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56511,
+        "name": "Kabupaten Malang",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56540,
+        "name": "Kabupaten Mojokerto",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56557,
+        "name": "Kabupaten Nganjuk",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56558,
+        "name": "Kabupaten Ngawi",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56568,
+        "name": "Kabupaten Pacitan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56573,
+        "name": "Kabupaten Pamekasan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56582,
+        "name": "Kabupaten Pasuruan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56597,
+        "name": "Kabupaten Ponorogo",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56600,
+        "name": "Kabupaten Probolinggo",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56616,
+        "name": "Kabupaten Sampang",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56629,
+        "name": "Kabupaten Sidoarjo",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56636,
+        "name": "Kabupaten Situbondo",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56655,
+        "name": "Kabupaten Sumenep",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56685,
+        "name": "Kabupaten Trenggalek",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56686,
+        "name": "Kabupaten Tuban",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56688,
+        "name": "Kabupaten Tulungagung",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56696,
+        "name": "Kalianget",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56697,
+        "name": "Kamal",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56705,
+        "name": "Kebomas",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56707,
+        "name": "Kediri",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56708,
+        "name": "Kedungwaru",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56711,
+        "name": "Kencong",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56713,
+        "name": "Kepanjen",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56714,
+        "name": "Kertosono",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56818,
+        "name": "Kraksaan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56820,
+        "name": "Krian",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56836,
+        "name": "Lamongan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56839,
+        "name": "Lawang",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56848,
+        "name": "Lumajang",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56850,
+        "name": "Madiun",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56856,
+        "name": "Malang",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56874,
+        "name": "Mojoagung",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56875,
+        "name": "Mojokerto",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56878,
+        "name": "Muncar",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56885,
+        "name": "Nganjuk",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56888,
+        "name": "Ngoro",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56889,
+        "name": "Ngunut",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56891,
+        "name": "Paciran",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56896,
+        "name": "Pakisaji",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56903,
+        "name": "Pamekasan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56906,
+        "name": "Panarukan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56907,
+        "name": "Pandaan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56913,
+        "name": "Panji",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56915,
+        "name": "Pare",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56921,
+        "name": "Pasuruan",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56936,
+        "name": "Ponorogo",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56941,
+        "name": "Prigen",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56942,
+        "name": "Probolinggo",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56960,
+        "name": "Sampang",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56975,
+        "name": "Sidoarjo",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56983,
+        "name": "Singojuruh",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56984,
+        "name": "Singosari",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56986,
+        "name": "Situbondo",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56992,
+        "name": "Soko",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 56999,
+        "name": "Srono",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 57004,
+        "name": "Sumberpucung",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 57007,
+        "name": "Sumenep",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 57011,
+        "name": "Surabaya",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 57015,
+        "name": "Tanggul",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 57016,
+        "name": "Tanggulangin",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 57039,
+        "name": "Trenggalek",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 57042,
+        "name": "Tuban",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 57044,
+        "name": "Tulangan Utara",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 57045,
+        "name": "Tulungagung",
+        "country": "IDN",
+        "state": "JI"
+    },
+    {
+        "id": 57058,
+        "name": "Wongsorejo",
+        "country": "IDN",
+        "state": "JI"
+    }
+]

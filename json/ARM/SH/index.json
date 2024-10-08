@@ -1,1 +1,158 @@
-[{"id":0,"name":"Akhuryan","country":"ARM","state":"SH"},{"id":1,"name":"Amasia","country":"ARM","state":"SH"},{"id":2,"name":"Anushavan","country":"ARM","state":"SH"},{"id":3,"name":"Arevik","country":"ARM","state":"SH"},{"id":4,"name":"Arevshat","country":"ARM","state":"SH"},{"id":5,"name":"Arrap\u2019i","country":"ARM","state":"SH"},{"id":6,"name":"Azatan","country":"ARM","state":"SH"},{"id":7,"name":"Basen","country":"ARM","state":"SH"},{"id":8,"name":"Dzit\u2019hank\u2019ov","country":"ARM","state":"SH"},{"id":9,"name":"Gyumri","country":"ARM","state":"SH"},{"id":10,"name":"Haykavan","country":"ARM","state":"SH"},{"id":11,"name":"Horrom","country":"ARM","state":"SH"},{"id":12,"name":"Kamo","country":"ARM","state":"SH"},{"id":13,"name":"Lerrnakert","country":"ARM","state":"SH"},{"id":14,"name":"Maralik","country":"ARM","state":"SH"},{"id":15,"name":"Marmashen","country":"ARM","state":"SH"},{"id":16,"name":"Mayisyan","country":"ARM","state":"SH"},{"id":17,"name":"Meghrashen","country":"ARM","state":"SH"},{"id":18,"name":"Mets Mant\u2019ash","country":"ARM","state":"SH"},{"id":19,"name":"P\u2019ok\u2019r Mant\u2019ash","country":"ARM","state":"SH"},{"id":20,"name":"Pemzashen","country":"ARM","state":"SH"},{"id":21,"name":"Saratak","country":"ARM","state":"SH"},{"id":22,"name":"Shirak","country":"ARM","state":"SH"},{"id":23,"name":"Spandaryan","country":"ARM","state":"SH"},{"id":24,"name":"Voskehask","country":"ARM","state":"SH"},{"id":25,"name":"Yerazgavors","country":"ARM","state":"SH"}]
+[
+    {
+        "id": 291,
+        "name": "Akhuryan",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 299,
+        "name": "Amasia",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 301,
+        "name": "Anushavan",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 318,
+        "name": "Arevik",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 320,
+        "name": "Arevshat",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 326,
+        "name": "Arrap’i",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 346,
+        "name": "Azatan",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 352,
+        "name": "Basen",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 378,
+        "name": "Dzit’hank’ov",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 406,
+        "name": "Gyumri",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 411,
+        "name": "Haykavan",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 413,
+        "name": "Horrom",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 424,
+        "name": "Kamo",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 441,
+        "name": "Lerrnakert",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 452,
+        "name": "Maralik",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 456,
+        "name": "Marmashen",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 460,
+        "name": "Mayisyan",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 463,
+        "name": "Meghrashen",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 466,
+        "name": "Mets Mant’ash",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 503,
+        "name": "P’ok’r Mant’ash",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 499,
+        "name": "Pemzashen",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 508,
+        "name": "Saratak",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 522,
+        "name": "Shirak",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 528,
+        "name": "Spandaryan",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 566,
+        "name": "Voskehask",
+        "country": "ARM",
+        "state": "SH"
+    },
+    {
+        "id": 580,
+        "name": "Yerazgavors",
+        "country": "ARM",
+        "state": "SH"
+    }
+]

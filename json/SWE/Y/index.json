@@ -1,1 +1,158 @@
-[{"id":0,"name":"\u00c5nge","country":"SWE","state":"Y"},{"id":1,"name":"\u00c5s","country":"SWE","state":"Y"},{"id":2,"name":"Bergeforsen","country":"SWE","state":"Y"},{"id":3,"name":"Bj\u00e4sta","country":"SWE","state":"Y"},{"id":4,"name":"Bollstabruk","country":"SWE","state":"Y"},{"id":5,"name":"Bredbyn","country":"SWE","state":"Y"},{"id":6,"name":"Fr\u00e4nsta","country":"SWE","state":"Y"},{"id":7,"name":"H\u00e4rn\u00f6sand","country":"SWE","state":"Y"},{"id":8,"name":"Husum","country":"SWE","state":"Y"},{"id":9,"name":"Johannedal","country":"SWE","state":"Y"},{"id":10,"name":"K\u00f6pmanholmen","country":"SWE","state":"Y"},{"id":11,"name":"Kramfors","country":"SWE","state":"Y"},{"id":12,"name":"Kvissleby","country":"SWE","state":"Y"},{"id":13,"name":"L\u00e5ngsele","country":"SWE","state":"Y"},{"id":14,"name":"Matfors","country":"SWE","state":"Y"},{"id":15,"name":"Njurundabommen","country":"SWE","state":"Y"},{"id":16,"name":"Nolby","country":"SWE","state":"Y"},{"id":17,"name":"\u00d6rnsk\u00f6ldsvik","country":"SWE","state":"Y"},{"id":18,"name":"Skottsund","country":"SWE","state":"Y"},{"id":19,"name":"Sollefte\u00e5","country":"SWE","state":"Y"},{"id":20,"name":"S\u00f6r\u00e5ker","country":"SWE","state":"Y"},{"id":21,"name":"Stockvik","country":"SWE","state":"Y"},{"id":22,"name":"Sundsbruk","country":"SWE","state":"Y"},{"id":23,"name":"Sundsvall","country":"SWE","state":"Y"},{"id":24,"name":"Timr\u00e5","country":"SWE","state":"Y"},{"id":25,"name":"Vi","country":"SWE","state":"Y"}]
+[
+    {
+        "id": 104009,
+        "name": "Ånge",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 104015,
+        "name": "Ås",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103034,
+        "name": "Bergeforsen",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103051,
+        "name": "Bjästa",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103069,
+        "name": "Bollstabruk",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103084,
+        "name": "Bredbyn",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103185,
+        "name": "Fränsta",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103322,
+        "name": "Härnösand",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103311,
+        "name": "Husum",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103352,
+        "name": "Johannedal",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103445,
+        "name": "Köpmanholmen",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103411,
+        "name": "Kramfors",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103434,
+        "name": "Kvissleby",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103502,
+        "name": "Långsele",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103534,
+        "name": "Matfors",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103574,
+        "name": "Njurundabommen",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103575,
+        "name": "Nolby",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 104039,
+        "name": "Örnsköldsvik",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103710,
+        "name": "Skottsund",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103735,
+        "name": "Sollefteå",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103833,
+        "name": "Söråker",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103760,
+        "name": "Stockvik",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103785,
+        "name": "Sundsbruk",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103786,
+        "name": "Sundsvall",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103850,
+        "name": "Timrå",
+        "country": "SWE",
+        "state": "Y"
+    },
+    {
+        "id": 103939,
+        "name": "Vi",
+        "country": "SWE",
+        "state": "Y"
+    }
+]

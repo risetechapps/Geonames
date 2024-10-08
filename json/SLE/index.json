@@ -1,1 +1,26 @@
-[{"id":0,"name":"Eastern Province","iso3":"E","country":"SLE"},{"id":1,"name":"Northern Province","iso3":"N","country":"SLE"},{"id":2,"name":"Southern Province","iso3":"S","country":"SLE"},{"id":3,"name":"Western Area","iso3":"W","country":"SLE"}]
+[
+    {
+        "id": 914,
+        "name": "Eastern Province",
+        "country": "SLE",
+        "state": "E"
+    },
+    {
+        "id": 911,
+        "name": "Northern Province",
+        "country": "SLE",
+        "state": "N"
+    },
+    {
+        "id": 912,
+        "name": "Southern Province",
+        "country": "SLE",
+        "state": "S"
+    },
+    {
+        "id": 913,
+        "name": "Western Area",
+        "country": "SLE",
+        "state": "W"
+    }
+]

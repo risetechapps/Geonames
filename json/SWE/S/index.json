@@ -1,1 +1,164 @@
-[{"id":0,"name":"\u00c5motfors","country":"SWE","state":"S"},{"id":1,"name":"\u00c5rj\u00e4ng","country":"SWE","state":"S"},{"id":2,"name":"Arvika","country":"SWE","state":"S"},{"id":3,"name":"Bj\u00f6rneborg","country":"SWE","state":"S"},{"id":4,"name":"Charlottenberg","country":"SWE","state":"S"},{"id":5,"name":"Deje","country":"SWE","state":"S"},{"id":6,"name":"Eksh\u00e4rad","country":"SWE","state":"S"},{"id":7,"name":"Filipstad","country":"SWE","state":"S"},{"id":8,"name":"Forshaga","country":"SWE","state":"S"},{"id":9,"name":"Grums","country":"SWE","state":"S"},{"id":10,"name":"Hagfors","country":"SWE","state":"S"},{"id":11,"name":"Karlstad","country":"SWE","state":"S"},{"id":12,"name":"Kil","country":"SWE","state":"S"},{"id":13,"name":"Kristinehamn","country":"SWE","state":"S"},{"id":14,"name":"Molkom","country":"SWE","state":"S"},{"id":15,"name":"Munkfors","country":"SWE","state":"S"},{"id":16,"name":"R\u00e5torp","country":"SWE","state":"S"},{"id":17,"name":"S\u00e4ffle","country":"SWE","state":"S"},{"id":18,"name":"Sk\u00e5re","country":"SWE","state":"S"},{"id":19,"name":"Skattk\u00e4rr","country":"SWE","state":"S"},{"id":20,"name":"Skoghall","country":"SWE","state":"S"},{"id":21,"name":"Slottsbron","country":"SWE","state":"S"},{"id":22,"name":"Storfors","country":"SWE","state":"S"},{"id":23,"name":"Sunne","country":"SWE","state":"S"},{"id":24,"name":"T\u00f6cksfors","country":"SWE","state":"S"},{"id":25,"name":"Torsby","country":"SWE","state":"S"},{"id":26,"name":"V\u00e5lberg","country":"SWE","state":"S"}]
+[
+    {
+        "id": 104006,
+        "name": "Åmotfors",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 104011,
+        "name": "Årjäng",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103017,
+        "name": "Arvika",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103057,
+        "name": "Björneborg",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103107,
+        "name": "Charlottenberg",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103117,
+        "name": "Deje",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103135,
+        "name": "Ekshärad",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103164,
+        "name": "Filipstad",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103179,
+        "name": "Forshaga",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103223,
+        "name": "Grums",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103251,
+        "name": "Hagfors",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103383,
+        "name": "Karlstad",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103388,
+        "name": "Kil",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103416,
+        "name": "Kristinehamn",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103544,
+        "name": "Molkom",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103555,
+        "name": "Munkfors",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103670,
+        "name": "Råtorp",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103804,
+        "name": "Säffle",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103722,
+        "name": "Skåre",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103698,
+        "name": "Skattkärr",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103708,
+        "name": "Skoghall",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103726,
+        "name": "Slottsbron",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103763,
+        "name": "Storfors",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103788,
+        "name": "Sunne",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103890,
+        "name": "Töcksfors",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103862,
+        "name": "Torsby",
+        "country": "SWE",
+        "state": "S"
+    },
+    {
+        "id": 103977,
+        "name": "Vålberg",
+        "country": "SWE",
+        "state": "S"
+    }
+]

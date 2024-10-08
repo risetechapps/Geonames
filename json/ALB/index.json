@@ -1,1 +1,284 @@
-[{"id":0,"name":"Berat County","iso3":"01","country":"ALB"},{"id":1,"name":"Berat District","iso3":"BR","country":"ALB"},{"id":2,"name":"Bulqiz\u00eb District","iso3":"BU","country":"ALB"},{"id":3,"name":"Delvin\u00eb District","iso3":"DL","country":"ALB"},{"id":4,"name":"Devoll District","iso3":"DV","country":"ALB"},{"id":5,"name":"Dib\u00ebr County","iso3":"09","country":"ALB"},{"id":6,"name":"Dib\u00ebr District","iso3":"DI","country":"ALB"},{"id":7,"name":"Durr\u00ebs County","iso3":"02","country":"ALB"},{"id":8,"name":"Durr\u00ebs District","iso3":"DR","country":"ALB"},{"id":9,"name":"Elbasan County","iso3":"03","country":"ALB"},{"id":10,"name":"Fier County","iso3":"04","country":"ALB"},{"id":11,"name":"Fier District","iso3":"FR","country":"ALB"},{"id":12,"name":"Gjirokast\u00ebr County","iso3":"05","country":"ALB"},{"id":13,"name":"Gjirokast\u00ebr District","iso3":"GJ","country":"ALB"},{"id":14,"name":"Gramsh District","iso3":"GR","country":"ALB"},{"id":15,"name":"Has District","iso3":"HA","country":"ALB"},{"id":16,"name":"Kavaj\u00eb District","iso3":"KA","country":"ALB"},{"id":17,"name":"Kolonj\u00eb District","iso3":"ER","country":"ALB"},{"id":18,"name":"Kor\u00e7\u00eb County","iso3":"06","country":"ALB"},{"id":19,"name":"Kor\u00e7\u00eb District","iso3":"KO","country":"ALB"},{"id":20,"name":"Kruj\u00eb District","iso3":"KR","country":"ALB"},{"id":21,"name":"Ku\u00e7ov\u00eb District","iso3":"KC","country":"ALB"},{"id":22,"name":"Kuk\u00ebs County","iso3":"07","country":"ALB"},{"id":23,"name":"Kuk\u00ebs District","iso3":"KU","country":"ALB"},{"id":24,"name":"Kurbin District","iso3":"KB","country":"ALB"},{"id":25,"name":"Lezh\u00eb County","iso3":"08","country":"ALB"},{"id":26,"name":"Lezh\u00eb District","iso3":"LE","country":"ALB"},{"id":27,"name":"Librazhd District","iso3":"LB","country":"ALB"},{"id":28,"name":"Lushnj\u00eb District","iso3":"LU","country":"ALB"},{"id":29,"name":"Mal\u00ebsi e Madhe District","iso3":"MM","country":"ALB"},{"id":30,"name":"Mallakast\u00ebr District","iso3":"MK","country":"ALB"},{"id":31,"name":"Mat District","iso3":"MT","country":"ALB"},{"id":32,"name":"Mirdit\u00eb District","iso3":"MR","country":"ALB"},{"id":33,"name":"Peqin District","iso3":"PQ","country":"ALB"},{"id":34,"name":"P\u00ebrmet District","iso3":"PR","country":"ALB"},{"id":35,"name":"Pogradec District","iso3":"PG","country":"ALB"},{"id":36,"name":"Puk\u00eb District","iso3":"PU","country":"ALB"},{"id":37,"name":"Sarand\u00eb District","iso3":"SR","country":"ALB"},{"id":38,"name":"Shkod\u00ebr County","iso3":"10","country":"ALB"},{"id":39,"name":"Shkod\u00ebr District","iso3":"SH","country":"ALB"},{"id":40,"name":"Skrapar District","iso3":"SK","country":"ALB"},{"id":41,"name":"Tepelen\u00eb District","iso3":"TE","country":"ALB"},{"id":42,"name":"Tirana County","iso3":"11","country":"ALB"},{"id":43,"name":"Tirana District","iso3":"TR","country":"ALB"},{"id":44,"name":"Tropoj\u00eb District","iso3":"TP","country":"ALB"},{"id":45,"name":"Vlor\u00eb County","iso3":"12","country":"ALB"},{"id":46,"name":"Vlor\u00eb District","iso3":"VL","country":"ALB"}]
+[
+    {
+        "id": 603,
+        "name": "Berat County",
+        "country": "ALB",
+        "state": "01"
+    },
+    {
+        "id": 629,
+        "name": "Berat District",
+        "country": "ALB",
+        "state": "BR"
+    },
+    {
+        "id": 607,
+        "name": "Bulqizë District",
+        "country": "ALB",
+        "state": "BU"
+    },
+    {
+        "id": 618,
+        "name": "Delvinë District",
+        "country": "ALB",
+        "state": "DL"
+    },
+    {
+        "id": 608,
+        "name": "Devoll District",
+        "country": "ALB",
+        "state": "DV"
+    },
+    {
+        "id": 610,
+        "name": "Dibër County",
+        "country": "ALB",
+        "state": "09"
+    },
+    {
+        "id": 605,
+        "name": "Dibër District",
+        "country": "ALB",
+        "state": "DI"
+    },
+    {
+        "id": 632,
+        "name": "Durrës County",
+        "country": "ALB",
+        "state": "02"
+    },
+    {
+        "id": 639,
+        "name": "Durrës District",
+        "country": "ALB",
+        "state": "DR"
+    },
+    {
+        "id": 598,
+        "name": "Elbasan County",
+        "country": "ALB",
+        "state": "03"
+    },
+    {
+        "id": 631,
+        "name": "Fier County",
+        "country": "ALB",
+        "state": "04"
+    },
+    {
+        "id": 627,
+        "name": "Fier District",
+        "country": "ALB",
+        "state": "FR"
+    },
+    {
+        "id": 604,
+        "name": "Gjirokastër County",
+        "country": "ALB",
+        "state": "05"
+    },
+    {
+        "id": 621,
+        "name": "Gjirokastër District",
+        "country": "ALB",
+        "state": "GJ"
+    },
+    {
+        "id": 617,
+        "name": "Gramsh District",
+        "country": "ALB",
+        "state": "GR"
+    },
+    {
+        "id": 600,
+        "name": "Has District",
+        "country": "ALB",
+        "state": "HA"
+    },
+    {
+        "id": 594,
+        "name": "Kavajë District",
+        "country": "ALB",
+        "state": "KA"
+    },
+    {
+        "id": 628,
+        "name": "Kolonjë District",
+        "country": "ALB",
+        "state": "ER"
+    },
+    {
+        "id": 630,
+        "name": "Korçë County",
+        "country": "ALB",
+        "state": "06"
+    },
+    {
+        "id": 597,
+        "name": "Korçë District",
+        "country": "ALB",
+        "state": "KO"
+    },
+    {
+        "id": 614,
+        "name": "Krujë District",
+        "country": "ALB",
+        "state": "KR"
+    },
+    {
+        "id": 612,
+        "name": "Kuçovë District",
+        "country": "ALB",
+        "state": "KC"
+    },
+    {
+        "id": 601,
+        "name": "Kukës County",
+        "country": "ALB",
+        "state": "07"
+    },
+    {
+        "id": 623,
+        "name": "Kukës District",
+        "country": "ALB",
+        "state": "KU"
+    },
+    {
+        "id": 622,
+        "name": "Kurbin District",
+        "country": "ALB",
+        "state": "KB"
+    },
+    {
+        "id": 609,
+        "name": "Lezhë County",
+        "country": "ALB",
+        "state": "08"
+    },
+    {
+        "id": 595,
+        "name": "Lezhë District",
+        "country": "ALB",
+        "state": "LE"
+    },
+    {
+        "id": 596,
+        "name": "Librazhd District",
+        "country": "ALB",
+        "state": "LB"
+    },
+    {
+        "id": 599,
+        "name": "Lushnjë District",
+        "country": "ALB",
+        "state": "LU"
+    },
+    {
+        "id": 602,
+        "name": "Malësi e Madhe District",
+        "country": "ALB",
+        "state": "MM"
+    },
+    {
+        "id": 637,
+        "name": "Mallakastër District",
+        "country": "ALB",
+        "state": "MK"
+    },
+    {
+        "id": 635,
+        "name": "Mat District",
+        "country": "ALB",
+        "state": "MT"
+    },
+    {
+        "id": 638,
+        "name": "Mirditë District",
+        "country": "ALB",
+        "state": "MR"
+    },
+    {
+        "id": 619,
+        "name": "Peqin District",
+        "country": "ALB",
+        "state": "PQ"
+    },
+    {
+        "id": 625,
+        "name": "Përmet District",
+        "country": "ALB",
+        "state": "PR"
+    },
+    {
+        "id": 606,
+        "name": "Pogradec District",
+        "country": "ALB",
+        "state": "PG"
+    },
+    {
+        "id": 620,
+        "name": "Pukë District",
+        "country": "ALB",
+        "state": "PU"
+    },
+    {
+        "id": 624,
+        "name": "Sarandë District",
+        "country": "ALB",
+        "state": "SR"
+    },
+    {
+        "id": 611,
+        "name": "Shkodër County",
+        "country": "ALB",
+        "state": "10"
+    },
+    {
+        "id": 626,
+        "name": "Shkodër District",
+        "country": "ALB",
+        "state": "SH"
+    },
+    {
+        "id": 593,
+        "name": "Skrapar District",
+        "country": "ALB",
+        "state": "SK"
+    },
+    {
+        "id": 616,
+        "name": "Tepelenë District",
+        "country": "ALB",
+        "state": "TE"
+    },
+    {
+        "id": 615,
+        "name": "Tirana County",
+        "country": "ALB",
+        "state": "11"
+    },
+    {
+        "id": 633,
+        "name": "Tirana District",
+        "country": "ALB",
+        "state": "TR"
+    },
+    {
+        "id": 636,
+        "name": "Tropojë District",
+        "country": "ALB",
+        "state": "TP"
+    },
+    {
+        "id": 634,
+        "name": "Vlorë County",
+        "country": "ALB",
+        "state": "12"
+    },
+    {
+        "id": 613,
+        "name": "Vlorë District",
+        "country": "ALB",
+        "state": "VL"
+    }
+]

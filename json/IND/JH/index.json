@@ -1,1 +1,464 @@
-[{"id":0,"name":"Bagra","country":"IND","state":"JH"},{"id":1,"name":"Barka Kana","country":"IND","state":"JH"},{"id":2,"name":"Barki Saria","country":"IND","state":"JH"},{"id":3,"name":"Barwadih","country":"IND","state":"JH"},{"id":4,"name":"Bhojudih","country":"IND","state":"JH"},{"id":5,"name":"Bokaro","country":"IND","state":"JH"},{"id":6,"name":"Bundu","country":"IND","state":"JH"},{"id":7,"name":"Chaibasa","country":"IND","state":"JH"},{"id":8,"name":"Chakradharpur","country":"IND","state":"JH"},{"id":9,"name":"Chakulia","country":"IND","state":"JH"},{"id":10,"name":"Chandil","country":"IND","state":"JH"},{"id":11,"name":"Chas","country":"IND","state":"JH"},{"id":12,"name":"Chatra","country":"IND","state":"JH"},{"id":13,"name":"Chiria","country":"IND","state":"JH"},{"id":14,"name":"Daltonganj","country":"IND","state":"JH"},{"id":15,"name":"Deogarh","country":"IND","state":"JH"},{"id":16,"name":"Dhanbad","country":"IND","state":"JH"},{"id":17,"name":"Dhanwar","country":"IND","state":"JH"},{"id":18,"name":"Dugda","country":"IND","state":"JH"},{"id":19,"name":"Dumka","country":"IND","state":"JH"},{"id":20,"name":"Garhwa","country":"IND","state":"JH"},{"id":21,"name":"Ghatsila","country":"IND","state":"JH"},{"id":22,"name":"Giridih","country":"IND","state":"JH"},{"id":23,"name":"Gobindpur","country":"IND","state":"JH"},{"id":24,"name":"Godda","country":"IND","state":"JH"},{"id":25,"name":"Gomoh","country":"IND","state":"JH"},{"id":26,"name":"Gopinathpur","country":"IND","state":"JH"},{"id":27,"name":"Gua","country":"IND","state":"JH"},{"id":28,"name":"Gumia","country":"IND","state":"JH"},{"id":29,"name":"Gumla","country":"IND","state":"JH"},{"id":30,"name":"Hazaribag","country":"IND","state":"JH"},{"id":31,"name":"Hazaribagh","country":"IND","state":"JH"},{"id":32,"name":"Hesla","country":"IND","state":"JH"},{"id":33,"name":"Husainabad","country":"IND","state":"JH"},{"id":34,"name":"Jagannathpur","country":"IND","state":"JH"},{"id":35,"name":"Jamadoba","country":"IND","state":"JH"},{"id":36,"name":"Jamshedpur","country":"IND","state":"JH"},{"id":37,"name":"Jamtara","country":"IND","state":"JH"},{"id":38,"name":"Jasidih","country":"IND","state":"JH"},{"id":39,"name":"Jharia","country":"IND","state":"JH"},{"id":40,"name":"Jugsalai","country":"IND","state":"JH"},{"id":41,"name":"Jumri Tilaiya","country":"IND","state":"JH"},{"id":42,"name":"Kalikapur","country":"IND","state":"JH"},{"id":43,"name":"Kandra","country":"IND","state":"JH"},{"id":44,"name":"Kanke","country":"IND","state":"JH"},{"id":45,"name":"Katras","country":"IND","state":"JH"},{"id":46,"name":"Kenduadih","country":"IND","state":"JH"},{"id":47,"name":"Kharsawan","country":"IND","state":"JH"},{"id":48,"name":"Khunti","country":"IND","state":"JH"},{"id":49,"name":"Kodarma","country":"IND","state":"JH"},{"id":50,"name":"Kuju","country":"IND","state":"JH"},{"id":51,"name":"Latehar","country":"IND","state":"JH"},{"id":52,"name":"Lohardaga","country":"IND","state":"JH"},{"id":53,"name":"Madhupur","country":"IND","state":"JH"},{"id":54,"name":"Malkera","country":"IND","state":"JH"},{"id":55,"name":"Manoharpur","country":"IND","state":"JH"},{"id":56,"name":"Mugma","country":"IND","state":"JH"},{"id":57,"name":"Mushabani","country":"IND","state":"JH"},{"id":58,"name":"Neturhat","country":"IND","state":"JH"},{"id":59,"name":"Nirsa","country":"IND","state":"JH"},{"id":60,"name":"Noamundi","country":"IND","state":"JH"},{"id":61,"name":"Pakur","country":"IND","state":"JH"},{"id":62,"name":"Palamu","country":"IND","state":"JH"},{"id":63,"name":"Pashchim Singhbhum","country":"IND","state":"JH"},{"id":64,"name":"patamda","country":"IND","state":"JH"},{"id":65,"name":"Pathardih","country":"IND","state":"JH"},{"id":66,"name":"Purba Singhbhum","country":"IND","state":"JH"},{"id":67,"name":"Ramgarh","country":"IND","state":"JH"},{"id":68,"name":"Ranchi","country":"IND","state":"JH"},{"id":69,"name":"Ray","country":"IND","state":"JH"},{"id":70,"name":"Sahibganj","country":"IND","state":"JH"},{"id":71,"name":"Saraikela","country":"IND","state":"JH"},{"id":72,"name":"Sarubera","country":"IND","state":"JH"},{"id":73,"name":"Sijua","country":"IND","state":"JH"},{"id":74,"name":"Simdega","country":"IND","state":"JH"},{"id":75,"name":"Sini","country":"IND","state":"JH"},{"id":76,"name":"Topchanchi","country":"IND","state":"JH"}]
+[
+    {
+        "id": 57802,
+        "name": "Bagra",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 57880,
+        "name": "Barka Kana",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 57878,
+        "name": "Barki Saria",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 57889,
+        "name": "Barwadih",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 57992,
+        "name": "Bhojudih",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 58076,
+        "name": "Bokaro",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 58163,
+        "name": "Bundu",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131608,
+        "name": "Chaibasa",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 58175,
+        "name": "Chakradharpur",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131591,
+        "name": "Chakulia",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131598,
+        "name": "Chandil",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131606,
+        "name": "Chas",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131511,
+        "name": "Chatra",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131570,
+        "name": "Chiria",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131648,
+        "name": "Daltonganj",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131684,
+        "name": "Deogarh",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131715,
+        "name": "Dhanbad",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131718,
+        "name": "Dhanwar",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131794,
+        "name": "Dugda",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131797,
+        "name": "Dumka",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131922,
+        "name": "Garhwa",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131952,
+        "name": "Ghatsila",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131959,
+        "name": "Giridih",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131962,
+        "name": "Gobindpur",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131963,
+        "name": "Godda",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131980,
+        "name": "Gomoh",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 131986,
+        "name": "Gopinathpur",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132006,
+        "name": "Gua",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132020,
+        "name": "Gumia",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132021,
+        "name": "Gumla",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132092,
+        "name": "Hazaribag",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132091,
+        "name": "Hazaribagh",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132094,
+        "name": "Hesla",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132131,
+        "name": "Husainabad",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132183,
+        "name": "Jagannathpur",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132308,
+        "name": "Jamadoba",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132231,
+        "name": "Jamshedpur",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132232,
+        "name": "Jamtara",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132246,
+        "name": "Jasidih",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132268,
+        "name": "Jharia",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132299,
+        "name": "Jugsalai",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132300,
+        "name": "Jumri Tilaiya",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132680,
+        "name": "Kalikapur",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132699,
+        "name": "Kandra",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132703,
+        "name": "Kanke",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132727,
+        "name": "Katras",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132443,
+        "name": "Kenduadih",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132482,
+        "name": "Kharsawan",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132506,
+        "name": "Khunti",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132540,
+        "name": "Kodarma",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132630,
+        "name": "Kuju",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132758,
+        "name": "Latehar",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132768,
+        "name": "Lohardaga",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132816,
+        "name": "Madhupur",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132873,
+        "name": "Malkera",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 132923,
+        "name": "Manoharpur",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133015,
+        "name": "Mugma",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133044,
+        "name": "Mushabani",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133209,
+        "name": "Neturhat",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133223,
+        "name": "Nirsa",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133246,
+        "name": "Noamundi",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133320,
+        "name": "Pakur",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133339,
+        "name": "Palamu",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133374,
+        "name": "Pashchim Singhbhum",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 134446,
+        "name": "patamda",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133557,
+        "name": "Pathardih",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133510,
+        "name": "Purba Singhbhum",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133604,
+        "name": "Ramgarh",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133606,
+        "name": "Ranchi",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133727,
+        "name": "Ray",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133752,
+        "name": "Sahibganj",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133800,
+        "name": "Saraikela",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 134079,
+        "name": "Sarubera",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133927,
+        "name": "Sijua",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133939,
+        "name": "Simdega",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 133952,
+        "name": "Sini",
+        "country": "IND",
+        "state": "JH"
+    },
+    {
+        "id": 134209,
+        "name": "Topchanchi",
+        "country": "IND",
+        "state": "JH"
+    }
+]

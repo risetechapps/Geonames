@@ -1,1 +1,338 @@
-[{"id":0,"name":"Alta Floresta d'Oeste","country":"BRA","state":"RO"},{"id":1,"name":"Alto Alegre dos Parecis","country":"BRA","state":"RO"},{"id":2,"name":"Alto Para\u00edso","country":"BRA","state":"RO"},{"id":3,"name":"Alvorada d'Oeste","country":"BRA","state":"RO"},{"id":4,"name":"Ariquemes","country":"BRA","state":"RO"},{"id":5,"name":"Buritis","country":"BRA","state":"RO"},{"id":6,"name":"Cabixi","country":"BRA","state":"RO"},{"id":7,"name":"Cacaul\u00e2ndia","country":"BRA","state":"RO"},{"id":8,"name":"Cacoal","country":"BRA","state":"RO"},{"id":9,"name":"Campo Novo de Rond\u00f4nia","country":"BRA","state":"RO"},{"id":10,"name":"Candeias do Jamari","country":"BRA","state":"RO"},{"id":11,"name":"Castanheiras","country":"BRA","state":"RO"},{"id":12,"name":"Cerejeiras","country":"BRA","state":"RO"},{"id":13,"name":"Chupinguaia","country":"BRA","state":"RO"},{"id":14,"name":"Colorado do Oeste","country":"BRA","state":"RO"},{"id":15,"name":"Corumbiara","country":"BRA","state":"RO"},{"id":16,"name":"Costa Marques","country":"BRA","state":"RO"},{"id":17,"name":"Cujubim","country":"BRA","state":"RO"},{"id":18,"name":"Espig\u00e3o d'Oeste","country":"BRA","state":"RO"},{"id":19,"name":"Extrema","country":"BRA","state":"RO"},{"id":20,"name":"Governador Jorge Teixeira","country":"BRA","state":"RO"},{"id":21,"name":"Guajar\u00e1 Mirim","country":"BRA","state":"RO"},{"id":22,"name":"Guajar\u00e1-Mirim","country":"BRA","state":"RO"},{"id":23,"name":"Itapu\u00e3 do Oeste","country":"BRA","state":"RO"},{"id":24,"name":"Jaru","country":"BRA","state":"RO"},{"id":25,"name":"Ji Paran\u00e1","country":"BRA","state":"RO"},{"id":26,"name":"Ji-Paran\u00e1","country":"BRA","state":"RO"},{"id":27,"name":"Machadinho d'Oeste","country":"BRA","state":"RO"},{"id":28,"name":"Ministro Andreazza","country":"BRA","state":"RO"},{"id":29,"name":"Mirante da Serra","country":"BRA","state":"RO"},{"id":30,"name":"Monte Negro","country":"BRA","state":"RO"},{"id":31,"name":"Nova Brasil\u00e2ndia d'Oeste","country":"BRA","state":"RO"},{"id":32,"name":"Nova Mamor\u00e9","country":"BRA","state":"RO"},{"id":33,"name":"Nova Uni\u00e3o","country":"BRA","state":"RO"},{"id":34,"name":"Novo Horizonte do Oeste","country":"BRA","state":"RO"},{"id":35,"name":"Ouro Preto do Oeste","country":"BRA","state":"RO"},{"id":36,"name":"Parecis","country":"BRA","state":"RO"},{"id":37,"name":"Pimenta Bueno","country":"BRA","state":"RO"},{"id":38,"name":"Pimenteiras do Oeste","country":"BRA","state":"RO"},{"id":39,"name":"Porto Velho","country":"BRA","state":"RO"},{"id":40,"name":"P\u00f4sto Fiscal Rolim de Moura","country":"BRA","state":"RO"},{"id":41,"name":"Presidente M\u00e9dici","country":"BRA","state":"RO"},{"id":42,"name":"Primavera de Rond\u00f4nia","country":"BRA","state":"RO"},{"id":43,"name":"Rio Crespo","country":"BRA","state":"RO"},{"id":44,"name":"Rolim de Moura","country":"BRA","state":"RO"},{"id":45,"name":"Santa Luzia d'Oeste","country":"BRA","state":"RO"},{"id":46,"name":"S\u00e3o Felipe d'Oeste","country":"BRA","state":"RO"},{"id":47,"name":"S\u00e3o Francisco do Guapor\u00e9","country":"BRA","state":"RO"},{"id":48,"name":"S\u00e3o Miguel do Guapor\u00e9","country":"BRA","state":"RO"},{"id":49,"name":"Seringueiras","country":"BRA","state":"RO"},{"id":50,"name":"Teixeir\u00f3polis","country":"BRA","state":"RO"},{"id":51,"name":"Theobroma","country":"BRA","state":"RO"},{"id":52,"name":"Urup\u00e1","country":"BRA","state":"RO"},{"id":53,"name":"Vale do Anari","country":"BRA","state":"RO"},{"id":54,"name":"Vale do Para\u00edso","country":"BRA","state":"RO"},{"id":55,"name":"Vilhena","country":"BRA","state":"RO"}]
+[
+    {
+        "id": 10151,
+        "name": "Alta Floresta d'Oeste",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 10164,
+        "name": "Alto Alegre dos Parecis",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 10176,
+        "name": "Alto Paraíso",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 10196,
+        "name": "Alvorada d'Oeste",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 10396,
+        "name": "Ariquemes",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 10834,
+        "name": "Buritis",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 10851,
+        "name": "Cabixi",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 10859,
+        "name": "Cacaulândia",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 10885,
+        "name": "Cacoal",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 11000,
+        "name": "Campo Novo de Rondônia",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 11035,
+        "name": "Candeias do Jamari",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 11186,
+        "name": "Castanheiras",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 11244,
+        "name": "Cerejeiras",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 11282,
+        "name": "Chupinguaia",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 11331,
+        "name": "Colorado do Oeste",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 11441,
+        "name": "Corumbiara",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 11448,
+        "name": "Costa Marques",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 11511,
+        "name": "Cujubim",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 11735,
+        "name": "Espigão d'Oeste",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 11766,
+        "name": "Extrema",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 11984,
+        "name": "Governador Jorge Teixeira",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 12019,
+        "name": "Guajará Mirim",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 12020,
+        "name": "Guajará-Mirim",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 12439,
+        "name": "Itapuã do Oeste",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 12596,
+        "name": "Jaru",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 12629,
+        "name": "Ji Paraná",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 12630,
+        "name": "Ji-Paraná",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 12899,
+        "name": "Machadinho d'Oeste",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 13128,
+        "name": "Ministro Andreazza",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 13146,
+        "name": "Mirante da Serra",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 13207,
+        "name": "Monte Negro",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 13360,
+        "name": "Nova Brasilândia d'Oeste",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 13401,
+        "name": "Nova Mamoré",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 13442,
+        "name": "Nova União",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 13464,
+        "name": "Novo Horizonte do Oeste",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 13543,
+        "name": "Ouro Preto do Oeste",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 13669,
+        "name": "Parecis",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 13845,
+        "name": "Pimenta Bueno",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 13847,
+        "name": "Pimenteiras do Oeste",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 14019,
+        "name": "Porto Velho",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 14124,
+        "name": "Pôsto Fiscal Rolim de Moura",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 14091,
+        "name": "Presidente Médici",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 14102,
+        "name": "Primavera de Rondônia",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 14271,
+        "name": "Rio Crespo",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 14336,
+        "name": "Rolim de Moura",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 14493,
+        "name": "Santa Luzia d'Oeste",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 14876,
+        "name": "São Felipe d'Oeste",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 14893,
+        "name": "São Francisco do Guaporé",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 15091,
+        "name": "São Miguel do Guaporé",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 14718,
+        "name": "Seringueiras",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 15269,
+        "name": "Teixeirópolis",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 15302,
+        "name": "Theobroma",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 15482,
+        "name": "Urupá",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 15494,
+        "name": "Vale do Anari",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 15495,
+        "name": "Vale do Paraíso",
+        "country": "BRA",
+        "state": "RO"
+    },
+    {
+        "id": 15579,
+        "name": "Vilhena",
+        "country": "BRA",
+        "state": "RO"
+    }
+]

@@ -1,1 +1,326 @@
-[{"id":0,"name":"Bestovje","country":"HRV","state":"01"},{"id":1,"name":"Bistra","country":"HRV","state":"01"},{"id":2,"name":"Brckovljani","country":"HRV","state":"01"},{"id":3,"name":"Brdovec","country":"HRV","state":"01"},{"id":4,"name":"Bregana","country":"HRV","state":"01"},{"id":5,"name":"Donja Bistra","country":"HRV","state":"01"},{"id":6,"name":"Donja Lomnica","country":"HRV","state":"01"},{"id":7,"name":"Donja Zden\u010dina","country":"HRV","state":"01"},{"id":8,"name":"Donji Stupnik","country":"HRV","state":"01"},{"id":9,"name":"Farka\u0161evac","country":"HRV","state":"01"},{"id":10,"name":"Gornja Bistra","country":"HRV","state":"01"},{"id":11,"name":"Gra\u010dec","country":"HRV","state":"01"},{"id":12,"name":"Grad Dugo Selo","country":"HRV","state":"01"},{"id":13,"name":"Grad Jastrebarsko","country":"HRV","state":"01"},{"id":14,"name":"Grad Samobor","country":"HRV","state":"01"},{"id":15,"name":"Grad Sveti Ivan Zelina","country":"HRV","state":"01"},{"id":16,"name":"Grad Velika Gorica","country":"HRV","state":"01"},{"id":17,"name":"Grad Vrbovec","country":"HRV","state":"01"},{"id":18,"name":"Grad Zapre\u0161i\u0107","country":"HRV","state":"01"},{"id":19,"name":"Gradec","country":"HRV","state":"01"},{"id":20,"name":"Gradi\u0107i","country":"HRV","state":"01"},{"id":21,"name":"Jablanovec","country":"HRV","state":"01"},{"id":22,"name":"Jakovlje","country":"HRV","state":"01"},{"id":23,"name":"Jastrebarsko","country":"HRV","state":"01"},{"id":24,"name":"Kerestinec","country":"HRV","state":"01"},{"id":25,"name":"Kri\u017e","country":"HRV","state":"01"},{"id":26,"name":"Ku\u010de","country":"HRV","state":"01"},{"id":27,"name":"Lonjica","country":"HRV","state":"01"},{"id":28,"name":"Luka","country":"HRV","state":"01"},{"id":29,"name":"Lukavec","country":"HRV","state":"01"},{"id":30,"name":"Lupoglav","country":"HRV","state":"01"},{"id":31,"name":"Mi\u010devec","country":"HRV","state":"01"},{"id":32,"name":"Mraclin","country":"HRV","state":"01"},{"id":33,"name":"Novo \u010ci\u010de","country":"HRV","state":"01"},{"id":34,"name":"Novoselec","country":"HRV","state":"01"},{"id":35,"name":"Op\u0107ina Dubrava","country":"HRV","state":"01"},{"id":36,"name":"Ore\u0161je","country":"HRV","state":"01"},{"id":37,"name":"Pojatno","country":"HRV","state":"01"},{"id":38,"name":"Preseka","country":"HRV","state":"01"},{"id":39,"name":"Prigorje Brdove\u010dko","country":"HRV","state":"01"},{"id":40,"name":"Pu\u0161\u0107a","country":"HRV","state":"01"},{"id":41,"name":"Rakitje","country":"HRV","state":"01"},{"id":42,"name":"Rakov Potok","country":"HRV","state":"01"},{"id":43,"name":"Rude","country":"HRV","state":"01"},{"id":44,"name":"Samobor","country":"HRV","state":"01"},{"id":45,"name":"Stupnik","country":"HRV","state":"01"},{"id":46,"name":"Sveta Nedelja","country":"HRV","state":"01"},{"id":47,"name":"Sveta Nedjelja","country":"HRV","state":"01"},{"id":48,"name":"Velika Gorica","country":"HRV","state":"01"},{"id":49,"name":"Velika Mlaka","country":"HRV","state":"01"},{"id":50,"name":"Velika Ostrna","country":"HRV","state":"01"},{"id":51,"name":"Vrbovec","country":"HRV","state":"01"},{"id":52,"name":"Zapre\u0161i\u0107","country":"HRV","state":"01"},{"id":53,"name":"Zdenci Brdove\u010dki","country":"HRV","state":"01"}]
+[
+    {
+        "id": 54396,
+        "name": "Bestovje",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54401,
+        "name": "Bistra",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54411,
+        "name": "Brckovljani",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54412,
+        "name": "Brdovec",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54413,
+        "name": "Bregana",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54456,
+        "name": "Donja Bistra",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54457,
+        "name": "Donja Lomnica",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54458,
+        "name": "Donja Zdenčina",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54462,
+        "name": "Donji Stupnik",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54478,
+        "name": "Farkaševac",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54495,
+        "name": "Gornja Bistra",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54583,
+        "name": "Gračec",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54514,
+        "name": "Grad Dugo Selo",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54522,
+        "name": "Grad Jastrebarsko",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54547,
+        "name": "Grad Samobor",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54554,
+        "name": "Grad Sveti Ivan Zelina",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54558,
+        "name": "Grad Velika Gorica",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54562,
+        "name": "Grad Vrbovec",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54567,
+        "name": "Grad Zaprešić",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54575,
+        "name": "Gradec",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54577,
+        "name": "Gradići",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54608,
+        "name": "Jablanovec",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54611,
+        "name": "Jakovlje",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54618,
+        "name": "Jastrebarsko",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54645,
+        "name": "Kerestinec",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54669,
+        "name": "Križ",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54679,
+        "name": "Kuče",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54695,
+        "name": "Lonjica",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54702,
+        "name": "Luka",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54703,
+        "name": "Lukavec",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54705,
+        "name": "Lupoglav",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54735,
+        "name": "Mičevec",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54741,
+        "name": "Mraclin",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54766,
+        "name": "Novo Čiče",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54767,
+        "name": "Novoselec",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54781,
+        "name": "Općina Dubrava",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54789,
+        "name": "Orešje",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54820,
+        "name": "Pojatno",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54835,
+        "name": "Preseka",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54838,
+        "name": "Prigorje Brdovečko",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54848,
+        "name": "Pušća",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54852,
+        "name": "Rakitje",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54853,
+        "name": "Rakov Potok",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54871,
+        "name": "Rude",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54876,
+        "name": "Samobor",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54919,
+        "name": "Stupnik",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54926,
+        "name": "Sveta Nedelja",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54927,
+        "name": "Sveta Nedjelja",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54956,
+        "name": "Velika Gorica",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54958,
+        "name": "Velika Mlaka",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54959,
+        "name": "Velika Ostrna",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 54991,
+        "name": "Vrbovec",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 55006,
+        "name": "Zaprešić",
+        "country": "HRV",
+        "state": "01"
+    },
+    {
+        "id": 55009,
+        "name": "Zdenci Brdovečki",
+        "country": "HRV",
+        "state": "01"
+    }
+]

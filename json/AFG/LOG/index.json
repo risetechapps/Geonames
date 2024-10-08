@@ -1,1 +1,20 @@
-[{"id":0,"name":"Baraki Barak","country":"AFG","state":"LOG"},{"id":1,"name":"\u1e28uk\u016bmat\u012b Azrah","country":"AFG","state":"LOG"},{"id":2,"name":"Pul-e \u2018Alam","country":"AFG","state":"LOG"}]
+[
+    {
+        "id": 56,
+        "name": "Baraki Barak",
+        "country": "AFG",
+        "state": "LOG"
+    },
+    {
+        "id": 139,
+        "name": "Ḩukūmatī Azrah",
+        "country": "AFG",
+        "state": "LOG"
+    },
+    {
+        "id": 106,
+        "name": "Pul-e ‘Alam",
+        "country": "AFG",
+        "state": "LOG"
+    }
+]

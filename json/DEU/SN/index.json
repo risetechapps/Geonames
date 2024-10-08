@@ -1,1 +1,2654 @@
-[{"id":0,"name":"Adorf","country":"DEU","state":"SN"},{"id":1,"name":"Albertstadt","country":"DEU","state":"SN"},{"id":2,"name":"Altenberg","country":"DEU","state":"SN"},{"id":3,"name":"Altmittweida","country":"DEU","state":"SN"},{"id":4,"name":"Annaberg-Buchholz","country":"DEU","state":"SN"},{"id":5,"name":"Arzberg","country":"DEU","state":"SN"},{"id":6,"name":"Aue","country":"DEU","state":"SN"},{"id":7,"name":"Auerbach","country":"DEU","state":"SN"},{"id":8,"name":"Augustusburg","country":"DEU","state":"SN"},{"id":9,"name":"Bad Brambach","country":"DEU","state":"SN"},{"id":10,"name":"Bad D\u00fcben","country":"DEU","state":"SN"},{"id":11,"name":"Bad Elster","country":"DEU","state":"SN"},{"id":12,"name":"Bad Lausick","country":"DEU","state":"SN"},{"id":13,"name":"Bad Muskau","country":"DEU","state":"SN"},{"id":14,"name":"Bad Schandau","country":"DEU","state":"SN"},{"id":15,"name":"Bad Schlema","country":"DEU","state":"SN"},{"id":16,"name":"Bannewitz","country":"DEU","state":"SN"},{"id":17,"name":"B\u00e4renstein","country":"DEU","state":"SN"},{"id":18,"name":"Bautzen","country":"DEU","state":"SN"},{"id":19,"name":"Beierfeld","country":"DEU","state":"SN"},{"id":20,"name":"Beiersdorf","country":"DEU","state":"SN"},{"id":21,"name":"Beilrode","country":"DEU","state":"SN"},{"id":22,"name":"Belgern","country":"DEU","state":"SN"},{"id":23,"name":"Belgershain","country":"DEU","state":"SN"},{"id":24,"name":"Bennewitz","country":"DEU","state":"SN"},{"id":25,"name":"Bergen","country":"DEU","state":"SN"},{"id":26,"name":"Bernsbach","country":"DEU","state":"SN"},{"id":27,"name":"Bernsdorf","country":"DEU","state":"SN"},{"id":28,"name":"Bernstadt","country":"DEU","state":"SN"},{"id":29,"name":"Berthelsdorf","country":"DEU","state":"SN"},{"id":30,"name":"Bertsdorf-H\u00f6rnitz","country":"DEU","state":"SN"},{"id":31,"name":"Bischofswerda","country":"DEU","state":"SN"},{"id":32,"name":"Bockau","country":"DEU","state":"SN"},{"id":33,"name":"Bockelwitz","country":"DEU","state":"SN"},{"id":34,"name":"B\u00f6hlen","country":"DEU","state":"SN"},{"id":35,"name":"Borna","country":"DEU","state":"SN"},{"id":36,"name":"B\u00f6rnichen","country":"DEU","state":"SN"},{"id":37,"name":"Borsdorf","country":"DEU","state":"SN"},{"id":38,"name":"Borstendorf","country":"DEU","state":"SN"},{"id":39,"name":"B\u00f6senbrunn","country":"DEU","state":"SN"},{"id":40,"name":"Boxberg","country":"DEU","state":"SN"},{"id":41,"name":"Brand-Erbisdorf","country":"DEU","state":"SN"},{"id":42,"name":"Brandis","country":"DEU","state":"SN"},{"id":43,"name":"Breitenbrunn","country":"DEU","state":"SN"},{"id":44,"name":"Burgst\u00e4dt","country":"DEU","state":"SN"},{"id":45,"name":"Burkau","country":"DEU","state":"SN"},{"id":46,"name":"Burkhardtsdorf","country":"DEU","state":"SN"},{"id":47,"name":"Callenberg","country":"DEU","state":"SN"},{"id":48,"name":"Cavertitz","country":"DEU","state":"SN"},{"id":49,"name":"Chemnitz","country":"DEU","state":"SN"},{"id":50,"name":"Clau\u00dfnitz","country":"DEU","state":"SN"},{"id":51,"name":"Colditz","country":"DEU","state":"SN"},{"id":52,"name":"Coswig","country":"DEU","state":"SN"},{"id":53,"name":"Crimmitschau","country":"DEU","state":"SN"},{"id":54,"name":"Crostau","country":"DEU","state":"SN"},{"id":55,"name":"Crostwitz","country":"DEU","state":"SN"},{"id":56,"name":"Crottendorf","country":"DEU","state":"SN"},{"id":57,"name":"Cunewalde","country":"DEU","state":"SN"},{"id":58,"name":"Dahlen","country":"DEU","state":"SN"},{"id":59,"name":"Delitzsch","country":"DEU","state":"SN"},{"id":60,"name":"Demitz-Thumitz","country":"DEU","state":"SN"},{"id":61,"name":"Dennheritz","country":"DEU","state":"SN"},{"id":62,"name":"Deutzen","country":"DEU","state":"SN"},{"id":63,"name":"Dippoldiswalde","country":"DEU","state":"SN"},{"id":64,"name":"D\u00f6beln","country":"DEU","state":"SN"},{"id":65,"name":"D\u00f6bernitz","country":"DEU","state":"SN"},{"id":66,"name":"Dobersch\u00fctz","country":"DEU","state":"SN"},{"id":67,"name":"Dohma","country":"DEU","state":"SN"},{"id":68,"name":"Dohna","country":"DEU","state":"SN"},{"id":69,"name":"Dommitzsch","country":"DEU","state":"SN"},{"id":70,"name":"Dorfchemnitz","country":"DEU","state":"SN"},{"id":71,"name":"Dorfhain","country":"DEU","state":"SN"},{"id":72,"name":"Drebach","country":"DEU","state":"SN"},{"id":73,"name":"Dresden","country":"DEU","state":"SN"},{"id":74,"name":"D\u00fcrrhennersdorf","country":"DEU","state":"SN"},{"id":75,"name":"D\u00fcrrr\u00f6hrsdorf","country":"DEU","state":"SN"},{"id":76,"name":"Ebersbach","country":"DEU","state":"SN"},{"id":77,"name":"Ehrenfriedersdorf","country":"DEU","state":"SN"},{"id":78,"name":"Eibau","country":"DEU","state":"SN"},{"id":79,"name":"Eibenstock","country":"DEU","state":"SN"},{"id":80,"name":"Eichigt","country":"DEU","state":"SN"},{"id":81,"name":"Eilenburg","country":"DEU","state":"SN"},{"id":82,"name":"Ellefeld","country":"DEU","state":"SN"},{"id":83,"name":"Elsnig","country":"DEU","state":"SN"},{"id":84,"name":"Elsterberg","country":"DEU","state":"SN"},{"id":85,"name":"Elstertrebnitz","country":"DEU","state":"SN"},{"id":86,"name":"Elstra","country":"DEU","state":"SN"},{"id":87,"name":"Elterlein","country":"DEU","state":"SN"},{"id":88,"name":"Eppendorf","country":"DEU","state":"SN"},{"id":89,"name":"Erlau","country":"DEU","state":"SN"},{"id":90,"name":"Erlbach","country":"DEU","state":"SN"},{"id":91,"name":"Espenhain","country":"DEU","state":"SN"},{"id":92,"name":"Falkenau","country":"DEU","state":"SN"},{"id":93,"name":"Falkenhain","country":"DEU","state":"SN"},{"id":94,"name":"Falkenstein","country":"DEU","state":"SN"},{"id":95,"name":"Fl\u00f6ha","country":"DEU","state":"SN"},{"id":96,"name":"Frankenberg","country":"DEU","state":"SN"},{"id":97,"name":"Frankenstein","country":"DEU","state":"SN"},{"id":98,"name":"Frankenthal","country":"DEU","state":"SN"},{"id":99,"name":"Frauenstein","country":"DEU","state":"SN"},{"id":100,"name":"Fraureuth","country":"DEU","state":"SN"},{"id":101,"name":"Freiberg","country":"DEU","state":"SN"},{"id":102,"name":"Freital","country":"DEU","state":"SN"},{"id":103,"name":"Friedersdorf","country":"DEU","state":"SN"},{"id":104,"name":"Frohburg","country":"DEU","state":"SN"},{"id":105,"name":"Gablenz","country":"DEU","state":"SN"},{"id":106,"name":"Geising","country":"DEU","state":"SN"},{"id":107,"name":"Geithain","country":"DEU","state":"SN"},{"id":108,"name":"Gelenau","country":"DEU","state":"SN"},{"id":109,"name":"Geringswalde","country":"DEU","state":"SN"},{"id":110,"name":"Gersdorf","country":"DEU","state":"SN"},{"id":111,"name":"Geyer","country":"DEU","state":"SN"},{"id":112,"name":"Glash\u00fctte","country":"DEU","state":"SN"},{"id":113,"name":"Glaubitz","country":"DEU","state":"SN"},{"id":114,"name":"Glauchau","country":"DEU","state":"SN"},{"id":115,"name":"G\u00f6da","country":"DEU","state":"SN"},{"id":116,"name":"G\u00f6rlitz","country":"DEU","state":"SN"},{"id":117,"name":"Gornau","country":"DEU","state":"SN"},{"id":118,"name":"Gornsdorf","country":"DEU","state":"SN"},{"id":119,"name":"Grimma","country":"DEU","state":"SN"},{"id":120,"name":"Groitzsch","country":"DEU","state":"SN"},{"id":121,"name":"Gro\u00df D\u00fcben","country":"DEU","state":"SN"},{"id":122,"name":"Gro\u00dfbardau","country":"DEU","state":"SN"},{"id":123,"name":"Gro\u00dfbothen","country":"DEU","state":"SN"},{"id":124,"name":"Gro\u00dfdubrau","country":"DEU","state":"SN"},{"id":125,"name":"Gro\u00dfenhain","country":"DEU","state":"SN"},{"id":126,"name":"Gro\u00dfharthau","country":"DEU","state":"SN"},{"id":127,"name":"Gro\u00dfhartmannsdorf","country":"DEU","state":"SN"},{"id":128,"name":"Gro\u00dfhennersdorf","country":"DEU","state":"SN"},{"id":129,"name":"Gro\u00dflehna","country":"DEU","state":"SN"},{"id":130,"name":"Gro\u00dfnaundorf","country":"DEU","state":"SN"},{"id":131,"name":"Gro\u00dfolbersdorf","country":"DEU","state":"SN"},{"id":132,"name":"Gro\u00dfp\u00f6sna","country":"DEU","state":"SN"},{"id":133,"name":"Gro\u00dfpostwitz","country":"DEU","state":"SN"},{"id":134,"name":"Gro\u00dfr\u00f6hrsdorf","country":"DEU","state":"SN"},{"id":135,"name":"Gro\u00dfr\u00fcckerswalde","country":"DEU","state":"SN"},{"id":136,"name":"Gro\u00dfschirma","country":"DEU","state":"SN"},{"id":137,"name":"Gro\u00dfsch\u00f6nau","country":"DEU","state":"SN"},{"id":138,"name":"Gro\u00dfschweidnitz","country":"DEU","state":"SN"},{"id":139,"name":"Gro\u00dfweitzschen","country":"DEU","state":"SN"},{"id":140,"name":"Gr\u00fcnbach","country":"DEU","state":"SN"},{"id":141,"name":"Gr\u00fcnhain","country":"DEU","state":"SN"},{"id":142,"name":"Gr\u00fcnhainichen","country":"DEU","state":"SN"},{"id":143,"name":"Guttau","country":"DEU","state":"SN"},{"id":144,"name":"H\u00e4hnichen","country":"DEU","state":"SN"},{"id":145,"name":"Hainewalde","country":"DEU","state":"SN"},{"id":146,"name":"Hainichen","country":"DEU","state":"SN"},{"id":147,"name":"Halsbr\u00fccke","country":"DEU","state":"SN"},{"id":148,"name":"Hammerbr\u00fccke","country":"DEU","state":"SN"},{"id":149,"name":"Hartenstein","country":"DEU","state":"SN"},{"id":150,"name":"Hartha","country":"DEU","state":"SN"},{"id":151,"name":"Hartmannsdorf","country":"DEU","state":"SN"},{"id":152,"name":"Haselbachtal","country":"DEU","state":"SN"},{"id":153,"name":"Hauswalde","country":"DEU","state":"SN"},{"id":154,"name":"Heidenau","country":"DEU","state":"SN"},{"id":155,"name":"Hermsdorf","country":"DEU","state":"SN"},{"id":156,"name":"Herrnhut","country":"DEU","state":"SN"},{"id":157,"name":"Hilbersdorf","country":"DEU","state":"SN"},{"id":158,"name":"Hirschfeld","country":"DEU","state":"SN"},{"id":159,"name":"Hirschfelde","country":"DEU","state":"SN"},{"id":160,"name":"Hochkirch","country":"DEU","state":"SN"},{"id":161,"name":"H\u00f6ckendorf","country":"DEU","state":"SN"},{"id":162,"name":"Hohburg","country":"DEU","state":"SN"},{"id":163,"name":"Hohenstein-Ernstthal","country":"DEU","state":"SN"},{"id":164,"name":"Hohndorf","country":"DEU","state":"SN"},{"id":165,"name":"Hohnstein","country":"DEU","state":"SN"},{"id":166,"name":"Horka","country":"DEU","state":"SN"},{"id":167,"name":"Hormersdorf","country":"DEU","state":"SN"},{"id":168,"name":"Hoyerswerda","country":"DEU","state":"SN"},{"id":169,"name":"Jahnsdorf","country":"DEU","state":"SN"},{"id":170,"name":"Jesewitz","country":"DEU","state":"SN"},{"id":171,"name":"Johanngeorgenstadt","country":"DEU","state":"SN"},{"id":172,"name":"J\u00f6hstadt","country":"DEU","state":"SN"},{"id":173,"name":"Kamenz","country":"DEU","state":"SN"},{"id":174,"name":"Kirchberg","country":"DEU","state":"SN"},{"id":175,"name":"Kirschau","country":"DEU","state":"SN"},{"id":176,"name":"Kitzen","country":"DEU","state":"SN"},{"id":177,"name":"Kitzscher","country":"DEU","state":"SN"},{"id":178,"name":"Klingenthal","country":"DEU","state":"SN"},{"id":179,"name":"Klipphausen","country":"DEU","state":"SN"},{"id":180,"name":"Klitten","country":"DEU","state":"SN"},{"id":181,"name":"Kodersdorf","country":"DEU","state":"SN"},{"id":182,"name":"K\u00f6nigsbr\u00fcck","country":"DEU","state":"SN"},{"id":183,"name":"K\u00f6nigsfeld","country":"DEU","state":"SN"},{"id":184,"name":"K\u00f6nigshain","country":"DEU","state":"SN"},{"id":185,"name":"K\u00f6nigstein","country":"DEU","state":"SN"},{"id":186,"name":"K\u00f6nigswalde","country":"DEU","state":"SN"},{"id":187,"name":"K\u00f6nigswartha","country":"DEU","state":"SN"},{"id":188,"name":"Kossa","country":"DEU","state":"SN"},{"id":189,"name":"Krauschwitz","country":"DEU","state":"SN"},{"id":190,"name":"Kreischa","country":"DEU","state":"SN"},{"id":191,"name":"Kriebstein","country":"DEU","state":"SN"},{"id":192,"name":"Krostitz","country":"DEU","state":"SN"},{"id":193,"name":"Kubsch\u00fctz","country":"DEU","state":"SN"},{"id":194,"name":"Kurort Gohrisch","country":"DEU","state":"SN"},{"id":195,"name":"Kurort Jonsdorf","country":"DEU","state":"SN"},{"id":196,"name":"Kurort Oberwiesenthal","country":"DEU","state":"SN"},{"id":197,"name":"Kurort Oybin","country":"DEU","state":"SN"},{"id":198,"name":"Lampertswalde","country":"DEU","state":"SN"},{"id":199,"name":"Langenbernsdorf","country":"DEU","state":"SN"},{"id":200,"name":"Lau\u00dfig","country":"DEU","state":"SN"},{"id":201,"name":"Lau\u00dfnitz","country":"DEU","state":"SN"},{"id":202,"name":"Lauter","country":"DEU","state":"SN"},{"id":203,"name":"Lawalde","country":"DEU","state":"SN"},{"id":204,"name":"Leipzig","country":"DEU","state":"SN"},{"id":205,"name":"Leisnig","country":"DEU","state":"SN"},{"id":206,"name":"Lengefeld","country":"DEU","state":"SN"},{"id":207,"name":"Lengenfeld","country":"DEU","state":"SN"},{"id":208,"name":"Leubnitz","country":"DEU","state":"SN"},{"id":209,"name":"Leubsdorf","country":"DEU","state":"SN"},{"id":210,"name":"Leutersdorf","country":"DEU","state":"SN"},{"id":211,"name":"Lichtenberg","country":"DEU","state":"SN"},{"id":212,"name":"Lichtenstein","country":"DEU","state":"SN"},{"id":213,"name":"Lichtentanne","country":"DEU","state":"SN"},{"id":214,"name":"Liebstadt","country":"DEU","state":"SN"},{"id":215,"name":"Limbach","country":"DEU","state":"SN"},{"id":216,"name":"Limbach-Oberfrohna","country":"DEU","state":"SN"},{"id":217,"name":"L\u00f6bau","country":"DEU","state":"SN"},{"id":218,"name":"L\u00f6bnitz","country":"DEU","state":"SN"},{"id":219,"name":"Lobst\u00e4dt","country":"DEU","state":"SN"},{"id":220,"name":"Lohmen","country":"DEU","state":"SN"},{"id":221,"name":"Lohsa","country":"DEU","state":"SN"},{"id":222,"name":"Lommatzsch","country":"DEU","state":"SN"},{"id":223,"name":"L\u00f6\u00dfnitz","country":"DEU","state":"SN"},{"id":224,"name":"Lugau","country":"DEU","state":"SN"},{"id":225,"name":"Lunzenau","country":"DEU","state":"SN"},{"id":226,"name":"Machern","country":"DEU","state":"SN"},{"id":227,"name":"Malschwitz","country":"DEU","state":"SN"},{"id":228,"name":"Marienberg","country":"DEU","state":"SN"},{"id":229,"name":"Markersbach","country":"DEU","state":"SN"},{"id":230,"name":"Markersdorf","country":"DEU","state":"SN"},{"id":231,"name":"Markkleeberg","country":"DEU","state":"SN"},{"id":232,"name":"Markneukirchen","country":"DEU","state":"SN"},{"id":233,"name":"Markranst\u00e4dt","country":"DEU","state":"SN"},{"id":234,"name":"Meerane","country":"DEU","state":"SN"},{"id":235,"name":"Mehltheuer","country":"DEU","state":"SN"},{"id":236,"name":"Meissen","country":"DEU","state":"SN"},{"id":237,"name":"Mildenau","country":"DEU","state":"SN"},{"id":238,"name":"Mittelherwigsdorf","country":"DEU","state":"SN"},{"id":239,"name":"Mittweida","country":"DEU","state":"SN"},{"id":240,"name":"Mochau","country":"DEU","state":"SN"},{"id":241,"name":"Mockrehna","country":"DEU","state":"SN"},{"id":242,"name":"Moritzburg","country":"DEU","state":"SN"},{"id":243,"name":"M\u00fccka","country":"DEU","state":"SN"},{"id":244,"name":"M\u00fcgeln","country":"DEU","state":"SN"},{"id":245,"name":"M\u00fchlau","country":"DEU","state":"SN"},{"id":246,"name":"M\u00fchltroff","country":"DEU","state":"SN"},{"id":247,"name":"Mulda","country":"DEU","state":"SN"},{"id":248,"name":"M\u00fclsen","country":"DEU","state":"SN"},{"id":249,"name":"Mutzschen","country":"DEU","state":"SN"},{"id":250,"name":"Mylau","country":"DEU","state":"SN"},{"id":251,"name":"Narsdorf","country":"DEU","state":"SN"},{"id":252,"name":"Naundorf","country":"DEU","state":"SN"},{"id":253,"name":"Naunhof","country":"DEU","state":"SN"},{"id":254,"name":"Nauwalde","country":"DEU","state":"SN"},{"id":255,"name":"Nebelsch\u00fctz","country":"DEU","state":"SN"},{"id":256,"name":"Nerchau","country":"DEU","state":"SN"},{"id":257,"name":"Neschwitz","country":"DEU","state":"SN"},{"id":258,"name":"Netzschkau","country":"DEU","state":"SN"},{"id":259,"name":"Neuensalz","country":"DEU","state":"SN"},{"id":260,"name":"Neugersdorf","country":"DEU","state":"SN"},{"id":261,"name":"Neuhausen","country":"DEU","state":"SN"},{"id":262,"name":"Neukieritzsch","country":"DEU","state":"SN"},{"id":263,"name":"Neukirch","country":"DEU","state":"SN"},{"id":264,"name":"Neukirch\/Lausitz","country":"DEU","state":"SN"},{"id":265,"name":"Neukirchen","country":"DEU","state":"SN"},{"id":266,"name":"Neumark","country":"DEU","state":"SN"},{"id":267,"name":"Neusalza-Spremberg","country":"DEU","state":"SN"},{"id":268,"name":"Neustadt in Sachsen","country":"DEU","state":"SN"},{"id":269,"name":"Neustadt Vogtland","country":"DEU","state":"SN"},{"id":270,"name":"Niederau","country":"DEU","state":"SN"},{"id":271,"name":"Niedercunnersdorf","country":"DEU","state":"SN"},{"id":272,"name":"Niederdorf","country":"DEU","state":"SN"},{"id":273,"name":"Niederfrohna","country":"DEU","state":"SN"},{"id":274,"name":"Niedersch\u00f6na","country":"DEU","state":"SN"},{"id":275,"name":"Niederstriegis","country":"DEU","state":"SN"},{"id":276,"name":"Niederwiesa","country":"DEU","state":"SN"},{"id":277,"name":"Niesky","country":"DEU","state":"SN"},{"id":278,"name":"Nossen","country":"DEU","state":"SN"},{"id":279,"name":"N\u00fcnchritz","country":"DEU","state":"SN"},{"id":280,"name":"Obercunnersdorf","country":"DEU","state":"SN"},{"id":281,"name":"Obergurig","country":"DEU","state":"SN"},{"id":282,"name":"Oberlichtenau","country":"DEU","state":"SN"},{"id":283,"name":"Oberlungwitz","country":"DEU","state":"SN"},{"id":284,"name":"Obersch\u00f6na","country":"DEU","state":"SN"},{"id":285,"name":"Oberwiera","country":"DEU","state":"SN"},{"id":286,"name":"Oederan","country":"DEU","state":"SN"},{"id":287,"name":"Oelsnitz","country":"DEU","state":"SN"},{"id":288,"name":"Ohorn","country":"DEU","state":"SN"},{"id":289,"name":"Olbernhau","country":"DEU","state":"SN"},{"id":290,"name":"Olbersdorf","country":"DEU","state":"SN"},{"id":291,"name":"Oppach","country":"DEU","state":"SN"},{"id":292,"name":"Oschatz","country":"DEU","state":"SN"},{"id":293,"name":"O\u00dfling","country":"DEU","state":"SN"},{"id":294,"name":"Ostrau","country":"DEU","state":"SN"},{"id":295,"name":"Ostritz","country":"DEU","state":"SN"},{"id":296,"name":"Ottendorf-Okrilla","country":"DEU","state":"SN"},{"id":297,"name":"Otterwisch","country":"DEU","state":"SN"},{"id":298,"name":"Panschwitz-Kuckau","country":"DEU","state":"SN"},{"id":299,"name":"Pausa","country":"DEU","state":"SN"},{"id":300,"name":"Pegau","country":"DEU","state":"SN"},{"id":301,"name":"Penig","country":"DEU","state":"SN"},{"id":302,"name":"Pfaffroda","country":"DEU","state":"SN"},{"id":303,"name":"Pirna","country":"DEU","state":"SN"},{"id":304,"name":"Plauen","country":"DEU","state":"SN"},{"id":305,"name":"Pobershau","country":"DEU","state":"SN"},{"id":306,"name":"Pockau","country":"DEU","state":"SN"},{"id":307,"name":"P\u00f6hl","country":"DEU","state":"SN"},{"id":308,"name":"P\u00f6hla","country":"DEU","state":"SN"},{"id":309,"name":"Porschdorf","country":"DEU","state":"SN"},{"id":310,"name":"Pretzschendorf","country":"DEU","state":"SN"},{"id":311,"name":"Priestewitz","country":"DEU","state":"SN"},{"id":312,"name":"Puschwitz","country":"DEU","state":"SN"},{"id":313,"name":"Quitzdorf","country":"DEU","state":"SN"},{"id":314,"name":"Rabenau","country":"DEU","state":"SN"},{"id":315,"name":"R\u00e4ckelwitz","country":"DEU","state":"SN"},{"id":316,"name":"Rackwitz","country":"DEU","state":"SN"},{"id":317,"name":"Radeberg","country":"DEU","state":"SN"},{"id":318,"name":"Radebeul","country":"DEU","state":"SN"},{"id":319,"name":"Radeburg","country":"DEU","state":"SN"},{"id":320,"name":"Radibor","country":"DEU","state":"SN"},{"id":321,"name":"Rammenau","country":"DEU","state":"SN"},{"id":322,"name":"Raschau","country":"DEU","state":"SN"},{"id":323,"name":"Rathmannsdorf","country":"DEU","state":"SN"},{"id":324,"name":"Rechenberg-Bienenm\u00fchle","country":"DEU","state":"SN"},{"id":325,"name":"Regis-Breitingen","country":"DEU","state":"SN"},{"id":326,"name":"Reichenbach","country":"DEU","state":"SN"},{"id":327,"name":"Reichenbach\/Vogtland","country":"DEU","state":"SN"},{"id":328,"name":"Reinhardtsgrimma","country":"DEU","state":"SN"},{"id":329,"name":"Reinsberg","country":"DEU","state":"SN"},{"id":330,"name":"Reinsdorf","country":"DEU","state":"SN"},{"id":331,"name":"Remse","country":"DEU","state":"SN"},{"id":332,"name":"Reuth","country":"DEU","state":"SN"},{"id":333,"name":"Riesa","country":"DEU","state":"SN"},{"id":334,"name":"Rietschen","country":"DEU","state":"SN"},{"id":335,"name":"Rittersgr\u00fcn","country":"DEU","state":"SN"},{"id":336,"name":"Rochlitz","country":"DEU","state":"SN"},{"id":337,"name":"Rodewisch","country":"DEU","state":"SN"},{"id":338,"name":"Rossau","country":"DEU","state":"SN"},{"id":339,"name":"Ro\u00dfwein","country":"DEU","state":"SN"},{"id":340,"name":"R\u00f6tha","country":"DEU","state":"SN"},{"id":341,"name":"Rothenburg","country":"DEU","state":"SN"},{"id":342,"name":"Sankt Egidien","country":"DEU","state":"SN"},{"id":343,"name":"Sayda","country":"DEU","state":"SN"},{"id":344,"name":"Scharfenstein","country":"DEU","state":"SN"},{"id":345,"name":"Scheibenberg","country":"DEU","state":"SN"},{"id":346,"name":"Schildau","country":"DEU","state":"SN"},{"id":347,"name":"Schirgiswalde","country":"DEU","state":"SN"},{"id":348,"name":"Schkeuditz","country":"DEU","state":"SN"},{"id":349,"name":"Schlegel","country":"DEU","state":"SN"},{"id":350,"name":"Schleife","country":"DEU","state":"SN"},{"id":351,"name":"Schlettau","country":"DEU","state":"SN"},{"id":352,"name":"Schmiedeberg","country":"DEU","state":"SN"},{"id":353,"name":"Schneeberg","country":"DEU","state":"SN"},{"id":354,"name":"Sch\u00f6nau-Berzdorf","country":"DEU","state":"SN"},{"id":355,"name":"Sch\u00f6nbach","country":"DEU","state":"SN"},{"id":356,"name":"Sch\u00f6nberg","country":"DEU","state":"SN"},{"id":357,"name":"Sch\u00f6neck","country":"DEU","state":"SN"},{"id":358,"name":"Sch\u00f6nfeld","country":"DEU","state":"SN"},{"id":359,"name":"Sch\u00f6nheide","country":"DEU","state":"SN"},{"id":360,"name":"Schwarzenberg","country":"DEU","state":"SN"},{"id":361,"name":"Schwepnitz","country":"DEU","state":"SN"},{"id":362,"name":"Sebnitz","country":"DEU","state":"SN"},{"id":363,"name":"Seelitz","country":"DEU","state":"SN"},{"id":364,"name":"Seiffen","country":"DEU","state":"SN"},{"id":365,"name":"Seifhennersdorf","country":"DEU","state":"SN"},{"id":366,"name":"Sohland","country":"DEU","state":"SN"},{"id":367,"name":"Sohland am Rotstein","country":"DEU","state":"SN"},{"id":368,"name":"Sosa","country":"DEU","state":"SN"},{"id":369,"name":"Stadt Wehlen","country":"DEU","state":"SN"},{"id":370,"name":"Stauchitz","country":"DEU","state":"SN"},{"id":371,"name":"Steina","country":"DEU","state":"SN"},{"id":372,"name":"Steinigtwolmsdorf","country":"DEU","state":"SN"},{"id":373,"name":"Stollberg","country":"DEU","state":"SN"},{"id":374,"name":"Stolpen","country":"DEU","state":"SN"},{"id":375,"name":"Strehla","country":"DEU","state":"SN"},{"id":376,"name":"Struppen","country":"DEU","state":"SN"},{"id":377,"name":"St\u00fctzengr\u00fcn","country":"DEU","state":"SN"},{"id":378,"name":"Syrau","country":"DEU","state":"SN"},{"id":379,"name":"Tannenberg","country":"DEU","state":"SN"},{"id":380,"name":"Tannenbergsthal","country":"DEU","state":"SN"},{"id":381,"name":"Taucha","country":"DEU","state":"SN"},{"id":382,"name":"Taura","country":"DEU","state":"SN"},{"id":383,"name":"Tauscha","country":"DEU","state":"SN"},{"id":384,"name":"Thalheim","country":"DEU","state":"SN"},{"id":385,"name":"Thallwitz","country":"DEU","state":"SN"},{"id":386,"name":"Tharandt","country":"DEU","state":"SN"},{"id":387,"name":"Theuma","country":"DEU","state":"SN"},{"id":388,"name":"Thiendorf","country":"DEU","state":"SN"},{"id":389,"name":"Thum","country":"DEU","state":"SN"},{"id":390,"name":"Tirpersdorf","country":"DEU","state":"SN"},{"id":391,"name":"Torgau","country":"DEU","state":"SN"},{"id":392,"name":"Trebendorf","country":"DEU","state":"SN"},{"id":393,"name":"Trebsen","country":"DEU","state":"SN"},{"id":394,"name":"Treuen","country":"DEU","state":"SN"},{"id":395,"name":"Triebel","country":"DEU","state":"SN"},{"id":396,"name":"Trossin","country":"DEU","state":"SN"},{"id":397,"name":"Uhyst","country":"DEU","state":"SN"},{"id":398,"name":"Venusberg","country":"DEU","state":"SN"},{"id":399,"name":"Wachau","country":"DEU","state":"SN"},{"id":400,"name":"Waldenburg","country":"DEU","state":"SN"},{"id":401,"name":"Waldheim","country":"DEU","state":"SN"},{"id":402,"name":"Waldkirchen","country":"DEU","state":"SN"},{"id":403,"name":"Wechselburg","country":"DEU","state":"SN"},{"id":404,"name":"Weinb\u00f6hla","country":"DEU","state":"SN"},{"id":405,"name":"Weischlitz","country":"DEU","state":"SN"},{"id":406,"name":"Wei\u00dfenberg","country":"DEU","state":"SN"},{"id":407,"name":"Wei\u00dfenborn","country":"DEU","state":"SN"},{"id":408,"name":"Wei\u00dfig","country":"DEU","state":"SN"},{"id":409,"name":"Wei\u00dfkei\u00dfel","country":"DEU","state":"SN"},{"id":410,"name":"Wei\u00dfwasser","country":"DEU","state":"SN"},{"id":411,"name":"Werda","country":"DEU","state":"SN"},{"id":412,"name":"Werdau","country":"DEU","state":"SN"},{"id":413,"name":"Wermsdorf","country":"DEU","state":"SN"},{"id":414,"name":"Wiedemar","country":"DEU","state":"SN"},{"id":415,"name":"Wiednitz","country":"DEU","state":"SN"},{"id":416,"name":"Wiesa","country":"DEU","state":"SN"},{"id":417,"name":"Wildenfels","country":"DEU","state":"SN"},{"id":418,"name":"Wildenhain","country":"DEU","state":"SN"},{"id":419,"name":"Wilkau-Ha\u00dflau","country":"DEU","state":"SN"},{"id":420,"name":"Wilsdruff","country":"DEU","state":"SN"},{"id":421,"name":"Wilthen","country":"DEU","state":"SN"},{"id":422,"name":"Wittgensdorf","country":"DEU","state":"SN"},{"id":423,"name":"Wittichenau","country":"DEU","state":"SN"},{"id":424,"name":"Wolkenstein","country":"DEU","state":"SN"},{"id":425,"name":"W\u00fclknitz","country":"DEU","state":"SN"},{"id":426,"name":"Wurzen","country":"DEU","state":"SN"},{"id":427,"name":"Zabeltitz","country":"DEU","state":"SN"},{"id":428,"name":"Zeithain","country":"DEU","state":"SN"},{"id":429,"name":"Zinna","country":"DEU","state":"SN"},{"id":430,"name":"Zittau","country":"DEU","state":"SN"},{"id":431,"name":"Z\u00f6blitz","country":"DEU","state":"SN"},{"id":432,"name":"Zschadrass","country":"DEU","state":"SN"},{"id":433,"name":"Zschepplin","country":"DEU","state":"SN"},{"id":434,"name":"Zschopau","country":"DEU","state":"SN"},{"id":435,"name":"Zschorlau","country":"DEU","state":"SN"},{"id":436,"name":"Zschortau","country":"DEU","state":"SN"},{"id":437,"name":"Zwenkau","country":"DEU","state":"SN"},{"id":438,"name":"Zwickau","country":"DEU","state":"SN"},{"id":439,"name":"Zwochau","country":"DEU","state":"SN"},{"id":440,"name":"Zw\u00f6nitz","country":"DEU","state":"SN"},{"id":441,"name":"Zwota","country":"DEU","state":"SN"}]
+[
+    {
+        "id": 23493,
+        "name": "Adorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23537,
+        "name": "Albertstadt",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23593,
+        "name": "Altenberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23629,
+        "name": "Altmittweida",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23661,
+        "name": "Annaberg-Buchholz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23696,
+        "name": "Arzberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23724,
+        "name": "Aue",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23726,
+        "name": "Auerbach",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23733,
+        "name": "Augustusburg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23775,
+        "name": "Bad Brambach",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23784,
+        "name": "Bad Düben",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23789,
+        "name": "Bad Elster",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23826,
+        "name": "Bad Lausick",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23836,
+        "name": "Bad Muskau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23860,
+        "name": "Bad Schandau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23861,
+        "name": "Bad Schlema",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23921,
+        "name": "Bannewitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24459,
+        "name": "Bärenstein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23963,
+        "name": "Bautzen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23992,
+        "name": "Beierfeld",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23993,
+        "name": "Beiersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23994,
+        "name": "Beilrode",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23998,
+        "name": "Belgern",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 23999,
+        "name": "Belgershain",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24012,
+        "name": "Bennewitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24034,
+        "name": "Bergen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24069,
+        "name": "Bernsbach",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24070,
+        "name": "Bernsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24071,
+        "name": "Bernstadt",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24075,
+        "name": "Berthelsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24076,
+        "name": "Bertsdorf-Hörnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24150,
+        "name": "Bischofswerda",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24195,
+        "name": "Bockau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24196,
+        "name": "Bockelwitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24466,
+        "name": "Böhlen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24250,
+        "name": "Borna",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24474,
+        "name": "Börnichen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24257,
+        "name": "Borsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24260,
+        "name": "Borstendorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24480,
+        "name": "Bösenbrunn",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24267,
+        "name": "Boxberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24278,
+        "name": "Brand-Erbisdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24281,
+        "name": "Brandis",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24308,
+        "name": "Breitenbrunn",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24435,
+        "name": "Burgstädt",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24441,
+        "name": "Burkau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24442,
+        "name": "Burkhardtsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24517,
+        "name": "Callenberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24527,
+        "name": "Cavertitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24533,
+        "name": "Chemnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24539,
+        "name": "Claußnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24549,
+        "name": "Colditz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24554,
+        "name": "Coswig",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24563,
+        "name": "Crimmitschau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24566,
+        "name": "Crostau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24567,
+        "name": "Crostwitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24568,
+        "name": "Crottendorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24569,
+        "name": "Cunewalde",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24579,
+        "name": "Dahlen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24623,
+        "name": "Delitzsch",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24628,
+        "name": "Demitz-Thumitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24633,
+        "name": "Dennheritz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24660,
+        "name": "Deutzen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24701,
+        "name": "Dippoldiswalde",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24792,
+        "name": "Döbeln",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24793,
+        "name": "Döbernitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24714,
+        "name": "Doberschütz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24718,
+        "name": "Dohma",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24719,
+        "name": "Dohna",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24727,
+        "name": "Dommitzsch",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24734,
+        "name": "Dorfchemnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24736,
+        "name": "Dorfhain",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24757,
+        "name": "Drebach",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24768,
+        "name": "Dresden",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24813,
+        "name": "Dürrhennersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24815,
+        "name": "Dürrröhrsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24832,
+        "name": "Ebersbach",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24893,
+        "name": "Ehrenfriedersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24895,
+        "name": "Eibau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24897,
+        "name": "Eibenstock",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24904,
+        "name": "Eichigt",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24913,
+        "name": "Eilenburg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24946,
+        "name": "Ellefeld",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24968,
+        "name": "Elsnig",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24970,
+        "name": "Elsterberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24971,
+        "name": "Elstertrebnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24973,
+        "name": "Elstra",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 24974,
+        "name": "Elterlein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25022,
+        "name": "Eppendorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25053,
+        "name": "Erlau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25054,
+        "name": "Erlbach",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25091,
+        "name": "Espenhain",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25131,
+        "name": "Falkenau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25137,
+        "name": "Falkenhain",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25139,
+        "name": "Falkenstein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25199,
+        "name": "Flöha",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25214,
+        "name": "Frankenberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25216,
+        "name": "Frankenstein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25219,
+        "name": "Frankenthal",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25230,
+        "name": "Frauenstein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25233,
+        "name": "Fraureuth",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25238,
+        "name": "Freiberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25252,
+        "name": "Freital",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25277,
+        "name": "Friedersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25304,
+        "name": "Frohburg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25340,
+        "name": "Gablenz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25404,
+        "name": "Geising",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25410,
+        "name": "Geithain",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25414,
+        "name": "Gelenau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25443,
+        "name": "Geringswalde",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25458,
+        "name": "Gersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25479,
+        "name": "Geyer",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25503,
+        "name": "Glashütte",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25508,
+        "name": "Glaubitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25510,
+        "name": "Glauchau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25775,
+        "name": "Göda",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25781,
+        "name": "Görlitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25543,
+        "name": "Gornau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25544,
+        "name": "Gornsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25610,
+        "name": "Grimma",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25612,
+        "name": "Groitzsch",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25621,
+        "name": "Groß Düben",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25650,
+        "name": "Großbardau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25656,
+        "name": "Großbothen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25659,
+        "name": "Großdubrau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25664,
+        "name": "Großenhain",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25675,
+        "name": "Großharthau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25676,
+        "name": "Großhartmannsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25678,
+        "name": "Großhennersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25689,
+        "name": "Großlehna",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25693,
+        "name": "Großnaundorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25695,
+        "name": "Großolbersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25698,
+        "name": "Großpösna",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25697,
+        "name": "Großpostwitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25704,
+        "name": "Großröhrsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25705,
+        "name": "Großrückerswalde",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25706,
+        "name": "Großschirma",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25708,
+        "name": "Großschönau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25707,
+        "name": "Großschweidnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25713,
+        "name": "Großweitzschen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25735,
+        "name": "Grünbach",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25739,
+        "name": "Grünhain",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25740,
+        "name": "Grünhainichen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25770,
+        "name": "Guttau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26295,
+        "name": "Hähnichen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25837,
+        "name": "Hainewalde",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25838,
+        "name": "Hainichen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25858,
+        "name": "Halsbrücke",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25878,
+        "name": "Hammerbrücke",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25913,
+        "name": "Hartenstein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25914,
+        "name": "Hartha",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25917,
+        "name": "Hartmannsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25924,
+        "name": "Haselbachtal",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25954,
+        "name": "Hauswalde",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 25985,
+        "name": "Heidenau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26081,
+        "name": "Hermsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26090,
+        "name": "Herrnhut",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26132,
+        "name": "Hilbersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26165,
+        "name": "Hirschfeld",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26167,
+        "name": "Hirschfelde",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26177,
+        "name": "Hochkirch",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26305,
+        "name": "Höckendorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26194,
+        "name": "Hohburg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26215,
+        "name": "Hohenstein-Ernstthal",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26224,
+        "name": "Hohndorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26226,
+        "name": "Hohnstein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26262,
+        "name": "Horka",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26263,
+        "name": "Hormersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26277,
+        "name": "Hoyerswerda",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26427,
+        "name": "Jahnsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26443,
+        "name": "Jesewitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26455,
+        "name": "Johanngeorgenstadt",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26467,
+        "name": "Jöhstadt",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26500,
+        "name": "Kamenz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26595,
+        "name": "Kirchberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26644,
+        "name": "Kirschau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26651,
+        "name": "Kitzen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26653,
+        "name": "Kitzscher",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26689,
+        "name": "Klingenthal",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26691,
+        "name": "Klipphausen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26692,
+        "name": "Klitten",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26707,
+        "name": "Kodersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26826,
+        "name": "Königsbrück",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26829,
+        "name": "Königsfeld",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26832,
+        "name": "Königshain",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26834,
+        "name": "Königstein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26837,
+        "name": "Königswalde",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26838,
+        "name": "Königswartha",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26729,
+        "name": "Kossa",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26742,
+        "name": "Krauschwitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26748,
+        "name": "Kreischa",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26761,
+        "name": "Kriebstein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26776,
+        "name": "Krostitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26788,
+        "name": "Kubschütz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26801,
+        "name": "Kurort Gohrisch",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26802,
+        "name": "Kurort Jonsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26803,
+        "name": "Kurort Oberwiesenthal",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26804,
+        "name": "Kurort Oybin",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26886,
+        "name": "Lampertswalde",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26910,
+        "name": "Langenbernsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26991,
+        "name": "Laußig",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26992,
+        "name": "Laußnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26982,
+        "name": "Lauter",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 26993,
+        "name": "Lawalde",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27028,
+        "name": "Leipzig",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27029,
+        "name": "Leisnig",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27040,
+        "name": "Lengefeld",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27041,
+        "name": "Lengenfeld",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27057,
+        "name": "Leubnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27058,
+        "name": "Leubsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27067,
+        "name": "Leutersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27080,
+        "name": "Lichtenberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27083,
+        "name": "Lichtenstein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27084,
+        "name": "Lichtentanne",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27091,
+        "name": "Liebstadt",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27097,
+        "name": "Limbach",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27098,
+        "name": "Limbach-Oberfrohna",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27185,
+        "name": "Löbau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27189,
+        "name": "Löbnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27125,
+        "name": "Lobstädt",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27134,
+        "name": "Lohmen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27138,
+        "name": "Lohsa",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27142,
+        "name": "Lommatzsch",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27200,
+        "name": "Lößnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27169,
+        "name": "Lugau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27176,
+        "name": "Lunzenau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27227,
+        "name": "Machern",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27257,
+        "name": "Malschwitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27273,
+        "name": "Marienberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27284,
+        "name": "Markersbach",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27285,
+        "name": "Markersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27287,
+        "name": "Markkleeberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27290,
+        "name": "Markneukirchen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27291,
+        "name": "Markranstädt",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27365,
+        "name": "Meerane",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27373,
+        "name": "Mehltheuer",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27385,
+        "name": "Meissen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27465,
+        "name": "Mildenau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27482,
+        "name": "Mittelherwigsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27493,
+        "name": "Mittweida",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27497,
+        "name": "Mochau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27498,
+        "name": "Mockrehna",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27525,
+        "name": "Moritzburg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27584,
+        "name": "Mücka",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27586,
+        "name": "Mügeln",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27591,
+        "name": "Mühlau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27603,
+        "name": "Mühltroff",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27535,
+        "name": "Mulda",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27608,
+        "name": "Mülsen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27551,
+        "name": "Mutzschen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27552,
+        "name": "Mylau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27643,
+        "name": "Narsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27651,
+        "name": "Naundorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27652,
+        "name": "Naunhof",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27655,
+        "name": "Nauwalde",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27656,
+        "name": "Nebelschütz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27677,
+        "name": "Nerchau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27680,
+        "name": "Neschwitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27686,
+        "name": "Netzschkau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27726,
+        "name": "Neuensalz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27736,
+        "name": "Neugersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27745,
+        "name": "Neuhausen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27755,
+        "name": "Neukieritzsch",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27756,
+        "name": "Neukirch",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27758,
+        "name": "Neukirch/Lausitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27762,
+        "name": "Neukirchen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27770,
+        "name": "Neumark",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27788,
+        "name": "Neusalza-Spremberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27806,
+        "name": "Neustadt in Sachsen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27796,
+        "name": "Neustadt Vogtland",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27831,
+        "name": "Niederau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27836,
+        "name": "Niedercunnersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27837,
+        "name": "Niederdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27847,
+        "name": "Niederfrohna",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27871,
+        "name": "Niederschöna",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27877,
+        "name": "Niederstriegis",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27883,
+        "name": "Niederwiesa",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27898,
+        "name": "Niesky",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27934,
+        "name": "Nossen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27953,
+        "name": "Nünchritz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27969,
+        "name": "Obercunnersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27979,
+        "name": "Obergurig",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27993,
+        "name": "Oberlichtenau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 27994,
+        "name": "Oberlungwitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28033,
+        "name": "Oberschöna",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28055,
+        "name": "Oberwiera",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28073,
+        "name": "Oederan",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28078,
+        "name": "Oelsnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28101,
+        "name": "Ohorn",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28102,
+        "name": "Olbernhau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28103,
+        "name": "Olbersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28117,
+        "name": "Oppach",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28136,
+        "name": "Oschatz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28206,
+        "name": "Oßling",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28165,
+        "name": "Ostrau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28167,
+        "name": "Ostritz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28178,
+        "name": "Ottendorf-Okrilla",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28193,
+        "name": "Otterwisch",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28217,
+        "name": "Panschwitz-Kuckau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28238,
+        "name": "Pausa",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28240,
+        "name": "Pegau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28251,
+        "name": "Penig",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28278,
+        "name": "Pfaffroda",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28309,
+        "name": "Pirna",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28319,
+        "name": "Plauen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28336,
+        "name": "Pobershau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28337,
+        "name": "Pockau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28414,
+        "name": "Pöhl",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28415,
+        "name": "Pöhla",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28355,
+        "name": "Porschdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28383,
+        "name": "Pretzschendorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28388,
+        "name": "Priestewitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28407,
+        "name": "Puschwitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28434,
+        "name": "Quitzdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28436,
+        "name": "Rabenau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28772,
+        "name": "Räckelwitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28438,
+        "name": "Rackwitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28441,
+        "name": "Radeberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28442,
+        "name": "Radebeul",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28443,
+        "name": "Radeburg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28446,
+        "name": "Radibor",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28462,
+        "name": "Rammenau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28477,
+        "name": "Raschau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28486,
+        "name": "Rathmannsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28501,
+        "name": "Rechenberg-Bienenmühle",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28526,
+        "name": "Regis-Breitingen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28540,
+        "name": "Reichenbach",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28543,
+        "name": "Reichenbach/Vogtland",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28559,
+        "name": "Reinhardtsgrimma",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28563,
+        "name": "Reinsberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28564,
+        "name": "Reinsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28577,
+        "name": "Remse",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28594,
+        "name": "Reuth",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28645,
+        "name": "Riesa",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28653,
+        "name": "Rietschen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28669,
+        "name": "Rittersgrün",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28670,
+        "name": "Rochlitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28678,
+        "name": "Rodewisch",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28713,
+        "name": "Rossau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28747,
+        "name": "Roßwein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28789,
+        "name": "Rötha",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28724,
+        "name": "Rothenburg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28863,
+        "name": "Sankt Egidien",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28899,
+        "name": "Sayda",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28911,
+        "name": "Scharfenstein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28921,
+        "name": "Scheibenberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28945,
+        "name": "Schildau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28952,
+        "name": "Schirgiswalde",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28955,
+        "name": "Schkeuditz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28966,
+        "name": "Schlegel",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28970,
+        "name": "Schleife",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28973,
+        "name": "Schlettau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 28994,
+        "name": "Schmiedeberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29004,
+        "name": "Schneeberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29109,
+        "name": "Schönau-Berzdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29110,
+        "name": "Schönbach",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29112,
+        "name": "Schönberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29117,
+        "name": "Schöneck",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29123,
+        "name": "Schönfeld",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29126,
+        "name": "Schönheide",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29070,
+        "name": "Schwarzenberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29089,
+        "name": "Schwepnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29139,
+        "name": "Sebnitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29159,
+        "name": "Seelitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29172,
+        "name": "Seiffen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29173,
+        "name": "Seifhennersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29255,
+        "name": "Sohland",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29256,
+        "name": "Sohland am Rotstein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29280,
+        "name": "Sosa",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29318,
+        "name": "Stadt Wehlen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29342,
+        "name": "Stauchitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29358,
+        "name": "Steina",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29386,
+        "name": "Steinigtwolmsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29417,
+        "name": "Stollberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29419,
+        "name": "Stolpen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29435,
+        "name": "Strehla",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29438,
+        "name": "Struppen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29456,
+        "name": "Stützengrün",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29488,
+        "name": "Syrau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29523,
+        "name": "Tannenberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29524,
+        "name": "Tannenbergsthal",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29534,
+        "name": "Taucha",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29538,
+        "name": "Taura",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29539,
+        "name": "Tauscha",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29579,
+        "name": "Thalheim",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29580,
+        "name": "Thallwitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29585,
+        "name": "Tharandt",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29591,
+        "name": "Theuma",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29592,
+        "name": "Thiendorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29600,
+        "name": "Thum",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29617,
+        "name": "Tirpersdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29632,
+        "name": "Torgau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29649,
+        "name": "Trebendorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29652,
+        "name": "Trebsen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29662,
+        "name": "Treuen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29666,
+        "name": "Triebel",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29680,
+        "name": "Trossin",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29735,
+        "name": "Uhyst",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29833,
+        "name": "Venusberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29900,
+        "name": "Wachau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29946,
+        "name": "Waldenburg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29952,
+        "name": "Waldheim",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 29955,
+        "name": "Waldkirchen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30045,
+        "name": "Wechselburg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30098,
+        "name": "Weinböhla",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30105,
+        "name": "Weischlitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30124,
+        "name": "Weißenberg",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30126,
+        "name": "Weißenborn",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30138,
+        "name": "Weißig",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30139,
+        "name": "Weißkeißel",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30140,
+        "name": "Weißwasser",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30168,
+        "name": "Werda",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30169,
+        "name": "Werdau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30177,
+        "name": "Wermsdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30239,
+        "name": "Wiedemar",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30243,
+        "name": "Wiednitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30252,
+        "name": "Wiesa",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30276,
+        "name": "Wildenfels",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30277,
+        "name": "Wildenhain",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30291,
+        "name": "Wilkau-Haßlau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30301,
+        "name": "Wilsdruff",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30305,
+        "name": "Wilthen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30357,
+        "name": "Wittgensdorf",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30358,
+        "name": "Wittichenau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30391,
+        "name": "Wolkenstein",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30455,
+        "name": "Wülknitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30426,
+        "name": "Wurzen",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30462,
+        "name": "Zabeltitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30479,
+        "name": "Zeithain",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30510,
+        "name": "Zinna",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30512,
+        "name": "Zittau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30541,
+        "name": "Zöblitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30518,
+        "name": "Zschadrass",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30519,
+        "name": "Zschepplin",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30522,
+        "name": "Zschopau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30523,
+        "name": "Zschorlau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30525,
+        "name": "Zschortau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30533,
+        "name": "Zwenkau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30534,
+        "name": "Zwickau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30538,
+        "name": "Zwochau",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30540,
+        "name": "Zwönitz",
+        "country": "DEU",
+        "state": "SN"
+    },
+    {
+        "id": 30539,
+        "name": "Zwota",
+        "country": "DEU",
+        "state": "SN"
+    }
+]

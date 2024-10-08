@@ -1,1 +1,3998 @@
-[{"id":0,"name":"Acign\u00e9","country":"FRA","state":"BRE"},{"id":1,"name":"Allaire","country":"FRA","state":"BRE"},{"id":2,"name":"Amanlis","country":"FRA","state":"BRE"},{"id":3,"name":"Ambon","country":"FRA","state":"BRE"},{"id":4,"name":"Antrain","country":"FRA","state":"BRE"},{"id":5,"name":"Argentr\u00e9-du-Plessis","country":"FRA","state":"BRE"},{"id":6,"name":"Arradon","country":"FRA","state":"BRE"},{"id":7,"name":"Arzano","country":"FRA","state":"BRE"},{"id":8,"name":"Arzon","country":"FRA","state":"BRE"},{"id":9,"name":"Audierne","country":"FRA","state":"BRE"},{"id":10,"name":"Augan","country":"FRA","state":"BRE"},{"id":11,"name":"Auray","country":"FRA","state":"BRE"},{"id":12,"name":"Baden","country":"FRA","state":"BRE"},{"id":13,"name":"Baguer-Morvan","country":"FRA","state":"BRE"},{"id":14,"name":"Baguer-Pican","country":"FRA","state":"BRE"},{"id":15,"name":"Bain-de-Bretagne","country":"FRA","state":"BRE"},{"id":16,"name":"Bains-sur-Oust","country":"FRA","state":"BRE"},{"id":17,"name":"Bais","country":"FRA","state":"BRE"},{"id":18,"name":"Balaz\u00e9","country":"FRA","state":"BRE"},{"id":19,"name":"Bannalec","country":"FRA","state":"BRE"},{"id":20,"name":"Baud","country":"FRA","state":"BRE"},{"id":21,"name":"Baulon","country":"FRA","state":"BRE"},{"id":22,"name":"Bazouges-la-P\u00e9rouse","country":"FRA","state":"BRE"},{"id":23,"name":"Beauc\u00e9","country":"FRA","state":"BRE"},{"id":24,"name":"B\u00e9d\u00e9e","country":"FRA","state":"BRE"},{"id":25,"name":"B\u00e9ganne","country":"FRA","state":"BRE"},{"id":26,"name":"B\u00e9gard","country":"FRA","state":"BRE"},{"id":27,"name":"Beignon","country":"FRA","state":"BRE"},{"id":28,"name":"Belle-Isle-en-Terre","country":"FRA","state":"BRE"},{"id":29,"name":"Belz","country":"FRA","state":"BRE"},{"id":30,"name":"B\u00e9nodet","country":"FRA","state":"BRE"},{"id":31,"name":"Bern\u00e9","country":"FRA","state":"BRE"},{"id":32,"name":"Berric","country":"FRA","state":"BRE"},{"id":33,"name":"Berrien","country":"FRA","state":"BRE"},{"id":34,"name":"Betton","country":"FRA","state":"BRE"},{"id":35,"name":"Beuzec-Cap-Sizun","country":"FRA","state":"BRE"},{"id":36,"name":"Bignan","country":"FRA","state":"BRE"},{"id":37,"name":"Binic","country":"FRA","state":"BRE"},{"id":38,"name":"Bodilis","country":"FRA","state":"BRE"},{"id":39,"name":"Bohars","country":"FRA","state":"BRE"},{"id":40,"name":"Boisgervilly","country":"FRA","state":"BRE"},{"id":41,"name":"Bonnemain","country":"FRA","state":"BRE"},{"id":42,"name":"Bourbriac","country":"FRA","state":"BRE"},{"id":43,"name":"Bourg-Blanc","country":"FRA","state":"BRE"},{"id":44,"name":"Bourg-des-Comptes","country":"FRA","state":"BRE"},{"id":45,"name":"Bourgbarr\u00e9","country":"FRA","state":"BRE"},{"id":46,"name":"Brand\u00e9rion","country":"FRA","state":"BRE"},{"id":47,"name":"Brasparts","country":"FRA","state":"BRE"},{"id":48,"name":"Br\u00e9al-sous-Montfort","country":"FRA","state":"BRE"},{"id":49,"name":"Br\u00e9c\u00e9","country":"FRA","state":"BRE"},{"id":50,"name":"Brech","country":"FRA","state":"BRE"},{"id":51,"name":"Br\u00e9hand","country":"FRA","state":"BRE"},{"id":52,"name":"Brest","country":"FRA","state":"BRE"},{"id":53,"name":"Breteil","country":"FRA","state":"BRE"},{"id":54,"name":"Briec","country":"FRA","state":"BRE"},{"id":55,"name":"Broons","country":"FRA","state":"BRE"},{"id":56,"name":"Bruz","country":"FRA","state":"BRE"},{"id":57,"name":"Bubry","country":"FRA","state":"BRE"},{"id":58,"name":"Caden","country":"FRA","state":"BRE"},{"id":59,"name":"Callac","country":"FRA","state":"BRE"},{"id":60,"name":"Camaret-sur-Mer","country":"FRA","state":"BRE"},{"id":61,"name":"Camors","country":"FRA","state":"BRE"},{"id":62,"name":"Camp\u00e9n\u00e9ac","country":"FRA","state":"BRE"},{"id":63,"name":"Cancale","country":"FRA","state":"BRE"},{"id":64,"name":"Carantec","country":"FRA","state":"BRE"},{"id":65,"name":"Carentoir","country":"FRA","state":"BRE"},{"id":66,"name":"Carhaix-Plouguer","country":"FRA","state":"BRE"},{"id":67,"name":"Carnac","country":"FRA","state":"BRE"},{"id":68,"name":"Caro","country":"FRA","state":"BRE"},{"id":69,"name":"Cast","country":"FRA","state":"BRE"},{"id":70,"name":"Caudan","country":"FRA","state":"BRE"},{"id":71,"name":"Caulnes","country":"FRA","state":"BRE"},{"id":72,"name":"Cavan","country":"FRA","state":"BRE"},{"id":73,"name":"Cesson-S\u00e9vign\u00e9","country":"FRA","state":"BRE"},{"id":74,"name":"Chanteloup","country":"FRA","state":"BRE"},{"id":75,"name":"Chantepie","country":"FRA","state":"BRE"},{"id":76,"name":"Chartres-de-Bretagne","country":"FRA","state":"BRE"},{"id":77,"name":"Chasn\u00e9-sur-Illet","country":"FRA","state":"BRE"},{"id":78,"name":"Ch\u00e2teaubourg","country":"FRA","state":"BRE"},{"id":79,"name":"Ch\u00e2teaugiron","country":"FRA","state":"BRE"},{"id":80,"name":"Ch\u00e2teaulin","country":"FRA","state":"BRE"},{"id":81,"name":"Ch\u00e2teauneuf-d\u2019Ille-et-Vilaine","country":"FRA","state":"BRE"},{"id":82,"name":"Ch\u00e2teauneuf-du-Faou","country":"FRA","state":"BRE"},{"id":83,"name":"Ch\u00e2tillon-en-Vendelais","country":"FRA","state":"BRE"},{"id":84,"name":"Ch\u00e2tillon-sur-Seiche","country":"FRA","state":"BRE"},{"id":85,"name":"Chavagne","country":"FRA","state":"BRE"},{"id":86,"name":"Cherrueix","country":"FRA","state":"BRE"},{"id":87,"name":"Chevaign\u00e9","country":"FRA","state":"BRE"},{"id":88,"name":"Cintr\u00e9","country":"FRA","state":"BRE"},{"id":89,"name":"Cl\u00e9den-Poher","country":"FRA","state":"BRE"},{"id":90,"name":"Cl\u00e9der","country":"FRA","state":"BRE"},{"id":91,"name":"Cl\u00e9guer","country":"FRA","state":"BRE"},{"id":92,"name":"Cl\u00e9gu\u00e9rec","country":"FRA","state":"BRE"},{"id":93,"name":"Clohars-Carno\u00ebt","country":"FRA","state":"BRE"},{"id":94,"name":"Clohars-Fouesnant","country":"FRA","state":"BRE"},{"id":95,"name":"Co\u00ebsmes","country":"FRA","state":"BRE"},{"id":96,"name":"Co\u00ebtmieux","country":"FRA","state":"BRE"},{"id":97,"name":"Colpo","country":"FRA","state":"BRE"},{"id":98,"name":"Combourg","country":"FRA","state":"BRE"},{"id":99,"name":"Combrit","country":"FRA","state":"BRE"},{"id":100,"name":"Concarneau","country":"FRA","state":"BRE"},{"id":101,"name":"Coray","country":"FRA","state":"BRE"},{"id":102,"name":"Corlay","country":"FRA","state":"BRE"},{"id":103,"name":"Corps-Nuds","country":"FRA","state":"BRE"},{"id":104,"name":"Corseul","country":"FRA","state":"BRE"},{"id":105,"name":"Crach","country":"FRA","state":"BRE"},{"id":106,"name":"Cr\u00e9din","country":"FRA","state":"BRE"},{"id":107,"name":"Cr\u00e9hen","country":"FRA","state":"BRE"},{"id":108,"name":"Crevin","country":"FRA","state":"BRE"},{"id":109,"name":"Crozon","country":"FRA","state":"BRE"},{"id":110,"name":"Damgan","country":"FRA","state":"BRE"},{"id":111,"name":"Daoulas","country":"FRA","state":"BRE"},{"id":112,"name":"D\u00e9partement d'Ille-et-Vilaine","country":"FRA","state":"BRE"},{"id":113,"name":"D\u00e9partement des C\u00f4tes-d\u2019Armor","country":"FRA","state":"BRE"},{"id":114,"name":"D\u00e9partement du Finist\u00e8re","country":"FRA","state":"BRE"},{"id":115,"name":"Dinan","country":"FRA","state":"BRE"},{"id":116,"name":"Dinard","country":"FRA","state":"BRE"},{"id":117,"name":"Din\u00e9ault","country":"FRA","state":"BRE"},{"id":118,"name":"Ding\u00e9","country":"FRA","state":"BRE"},{"id":119,"name":"Dirinon","country":"FRA","state":"BRE"},{"id":120,"name":"Dol-de-Bretagne","country":"FRA","state":"BRE"},{"id":121,"name":"Domagn\u00e9","country":"FRA","state":"BRE"},{"id":122,"name":"Domalain","country":"FRA","state":"BRE"},{"id":123,"name":"Douarnenez","country":"FRA","state":"BRE"},{"id":124,"name":"Edern","country":"FRA","state":"BRE"},{"id":125,"name":"Elliant","country":"FRA","state":"BRE"},{"id":126,"name":"Elven","country":"FRA","state":"BRE"},{"id":127,"name":"Epiniac","country":"FRA","state":"BRE"},{"id":128,"name":"Erbr\u00e9e","country":"FRA","state":"BRE"},{"id":129,"name":"Erc\u00e9-en-Lam\u00e9e","country":"FRA","state":"BRE"},{"id":130,"name":"Erc\u00e9-pr\u00e8s-Liffr\u00e9","country":"FRA","state":"BRE"},{"id":131,"name":"Erdeven","country":"FRA","state":"BRE"},{"id":132,"name":"Ergu\u00e9-Gab\u00e9ric","country":"FRA","state":"BRE"},{"id":133,"name":"Erquy","country":"FRA","state":"BRE"},{"id":134,"name":"Esquibien","country":"FRA","state":"BRE"},{"id":135,"name":"\u00c9tables-sur-Mer","country":"FRA","state":"BRE"},{"id":136,"name":"\u00c9tel","country":"FRA","state":"BRE"},{"id":137,"name":"\u00c9trelles","country":"FRA","state":"BRE"},{"id":138,"name":"\u00c9vran","country":"FRA","state":"BRE"},{"id":139,"name":"F\u00e9rel","country":"FRA","state":"BRE"},{"id":140,"name":"Fouesnant","country":"FRA","state":"BRE"},{"id":141,"name":"Foug\u00e8res","country":"FRA","state":"BRE"},{"id":142,"name":"Fouillard","country":"FRA","state":"BRE"},{"id":143,"name":"Fr\u00e9hel","country":"FRA","state":"BRE"},{"id":144,"name":"Ga\u00ebl","country":"FRA","state":"BRE"},{"id":145,"name":"Gestel","country":"FRA","state":"BRE"},{"id":146,"name":"G\u00e9vez\u00e9","country":"FRA","state":"BRE"},{"id":147,"name":"Glomel","country":"FRA","state":"BRE"},{"id":148,"name":"Gosn\u00e9","country":"FRA","state":"BRE"},{"id":149,"name":"Gouarec","country":"FRA","state":"BRE"},{"id":150,"name":"Goudelin","country":"FRA","state":"BRE"},{"id":151,"name":"Gouesnach","country":"FRA","state":"BRE"},{"id":152,"name":"Gouesnou","country":"FRA","state":"BRE"},{"id":153,"name":"Gou\u00e9zec","country":"FRA","state":"BRE"},{"id":154,"name":"Gourin","country":"FRA","state":"BRE"},{"id":155,"name":"Goven","country":"FRA","state":"BRE"},{"id":156,"name":"Gr\u00e2ces","country":"FRA","state":"BRE"},{"id":157,"name":"Grand-Champ","country":"FRA","state":"BRE"},{"id":158,"name":"Grand-Fougeray","country":"FRA","state":"BRE"},{"id":159,"name":"Groix","country":"FRA","state":"BRE"},{"id":160,"name":"Gu\u00e9gon","country":"FRA","state":"BRE"},{"id":161,"name":"Gu\u00e9men\u00e9-sur-Scorff","country":"FRA","state":"BRE"},{"id":162,"name":"Guengat","country":"FRA","state":"BRE"},{"id":163,"name":"Gu\u00e9nin","country":"FRA","state":"BRE"},{"id":164,"name":"Guer","country":"FRA","state":"BRE"},{"id":165,"name":"Guerlesquin","country":"FRA","state":"BRE"},{"id":166,"name":"Guern","country":"FRA","state":"BRE"},{"id":167,"name":"Guichen","country":"FRA","state":"BRE"},{"id":168,"name":"Guiclan","country":"FRA","state":"BRE"},{"id":169,"name":"Guidel-Plage","country":"FRA","state":"BRE"},{"id":170,"name":"Guignen","country":"FRA","state":"BRE"},{"id":171,"name":"Guilers","country":"FRA","state":"BRE"},{"id":172,"name":"Guillac","country":"FRA","state":"BRE"},{"id":173,"name":"Guilliers","country":"FRA","state":"BRE"},{"id":174,"name":"Guilvinec","country":"FRA","state":"BRE"},{"id":175,"name":"Guingamp","country":"FRA","state":"BRE"},{"id":176,"name":"Guipavas","country":"FRA","state":"BRE"},{"id":177,"name":"Guipel","country":"FRA","state":"BRE"},{"id":178,"name":"Guipry","country":"FRA","state":"BRE"},{"id":179,"name":"Guiscriff","country":"FRA","state":"BRE"},{"id":180,"name":"Guiss\u00e9ny","country":"FRA","state":"BRE"},{"id":181,"name":"Hanvec","country":"FRA","state":"BRE"},{"id":182,"name":"H\u00e9d\u00e9-Bazouges","country":"FRA","state":"BRE"},{"id":183,"name":"H\u00e9nanbihen","country":"FRA","state":"BRE"},{"id":184,"name":"Hennebont","country":"FRA","state":"BRE"},{"id":185,"name":"H\u00e9non","country":"FRA","state":"BRE"},{"id":186,"name":"Henvic","country":"FRA","state":"BRE"},{"id":187,"name":"Hillion","country":"FRA","state":"BRE"},{"id":188,"name":"Hirel","country":"FRA","state":"BRE"},{"id":189,"name":"H\u00f4pital-Camfrout","country":"FRA","state":"BRE"},{"id":190,"name":"Huelgoat","country":"FRA","state":"BRE"},{"id":191,"name":"Iffendic","country":"FRA","state":"BRE"},{"id":192,"name":"Inguiniel","country":"FRA","state":"BRE"},{"id":193,"name":"Irodou\u00ebr","country":"FRA","state":"BRE"},{"id":194,"name":"Irvillac","country":"FRA","state":"BRE"},{"id":195,"name":"Janz\u00e9","country":"FRA","state":"BRE"},{"id":196,"name":"Javen\u00e9","country":"FRA","state":"BRE"},{"id":197,"name":"Josselin","country":"FRA","state":"BRE"},{"id":198,"name":"Jugon-les-Lacs","country":"FRA","state":"BRE"},{"id":199,"name":"Kerlouan","country":"FRA","state":"BRE"},{"id":200,"name":"Kernilis","country":"FRA","state":"BRE"},{"id":201,"name":"Kersaint-Plabennec","country":"FRA","state":"BRE"},{"id":202,"name":"Kervignac","country":"FRA","state":"BRE"},{"id":203,"name":"La Bou\u00ebxi\u00e8re","country":"FRA","state":"BRE"},{"id":204,"name":"La Boussac","country":"FRA","state":"BRE"},{"id":205,"name":"La Chapelle-des-Fougeretz","country":"FRA","state":"BRE"},{"id":206,"name":"La Chapelle-Janson","country":"FRA","state":"BRE"},{"id":207,"name":"La Chapelle-Thouarault","country":"FRA","state":"BRE"},{"id":208,"name":"La Dominelais","country":"FRA","state":"BRE"},{"id":209,"name":"La Forest-Landerneau","country":"FRA","state":"BRE"},{"id":210,"name":"La For\u00eat-Fouesnant","country":"FRA","state":"BRE"},{"id":211,"name":"La Fresnais","country":"FRA","state":"BRE"},{"id":212,"name":"La Gacilly","country":"FRA","state":"BRE"},{"id":213,"name":"La Gouesni\u00e8re","country":"FRA","state":"BRE"},{"id":214,"name":"La Guerche-de-Bretagne","country":"FRA","state":"BRE"},{"id":215,"name":"La M\u00e9augon","country":"FRA","state":"BRE"},{"id":216,"name":"La M\u00e9zi\u00e8re","country":"FRA","state":"BRE"},{"id":217,"name":"La Motte","country":"FRA","state":"BRE"},{"id":218,"name":"La Richardais","country":"FRA","state":"BRE"},{"id":219,"name":"La Roche-Derrien","country":"FRA","state":"BRE"},{"id":220,"name":"La Roche-Maurice","country":"FRA","state":"BRE"},{"id":221,"name":"La Trinit\u00e9-sur-Mer","country":"FRA","state":"BRE"},{"id":222,"name":"La Vraie-Croix","country":"FRA","state":"BRE"},{"id":223,"name":"Laill\u00e9","country":"FRA","state":"BRE"},{"id":224,"name":"Lamballe","country":"FRA","state":"BRE"},{"id":225,"name":"Lampaul-Guimiliau","country":"FRA","state":"BRE"},{"id":226,"name":"Lampaul-Plouarzel","country":"FRA","state":"BRE"},{"id":227,"name":"Lancieux","country":"FRA","state":"BRE"},{"id":228,"name":"Landaul","country":"FRA","state":"BRE"},{"id":229,"name":"Land\u00e9an","country":"FRA","state":"BRE"},{"id":230,"name":"Land\u00e9da","country":"FRA","state":"BRE"},{"id":231,"name":"Land\u00e9hen","country":"FRA","state":"BRE"},{"id":232,"name":"Landeleau","country":"FRA","state":"BRE"},{"id":233,"name":"Landerneau","country":"FRA","state":"BRE"},{"id":234,"name":"Land\u00e9vant","country":"FRA","state":"BRE"},{"id":235,"name":"Landivisiau","country":"FRA","state":"BRE"},{"id":236,"name":"Landr\u00e9varzec","country":"FRA","state":"BRE"},{"id":237,"name":"Landudec","country":"FRA","state":"BRE"},{"id":238,"name":"Landunvez","country":"FRA","state":"BRE"},{"id":239,"name":"Lanester","country":"FRA","state":"BRE"},{"id":240,"name":"Langoat","country":"FRA","state":"BRE"},{"id":241,"name":"Langon","country":"FRA","state":"BRE"},{"id":242,"name":"Langonnet","country":"FRA","state":"BRE"},{"id":243,"name":"Langueux","country":"FRA","state":"BRE"},{"id":244,"name":"Languidic","country":"FRA","state":"BRE"},{"id":245,"name":"Lanmeur","country":"FRA","state":"BRE"},{"id":246,"name":"Lannilis","country":"FRA","state":"BRE"},{"id":247,"name":"Lannion","country":"FRA","state":"BRE"},{"id":248,"name":"Lanou\u00e9e","country":"FRA","state":"BRE"},{"id":249,"name":"Lanrivoar\u00e9","country":"FRA","state":"BRE"},{"id":250,"name":"Lanrodec","country":"FRA","state":"BRE"},{"id":251,"name":"Lantic","country":"FRA","state":"BRE"},{"id":252,"name":"Lanvallay","country":"FRA","state":"BRE"},{"id":253,"name":"Lanv\u00e9n\u00e9gen","country":"FRA","state":"BRE"},{"id":254,"name":"Lanv\u00e9oc","country":"FRA","state":"BRE"},{"id":255,"name":"Lanvollon","country":"FRA","state":"BRE"},{"id":256,"name":"Larmor-Baden","country":"FRA","state":"BRE"},{"id":257,"name":"Larmor-Plage","country":"FRA","state":"BRE"},{"id":258,"name":"Lassy","country":"FRA","state":"BRE"},{"id":259,"name":"Le Bono","country":"FRA","state":"BRE"},{"id":260,"name":"Le Conquet","country":"FRA","state":"BRE"},{"id":261,"name":"Le Drennec","country":"FRA","state":"BRE"},{"id":262,"name":"Le Faou","country":"FRA","state":"BRE"},{"id":263,"name":"Le Faou\u00ebt","country":"FRA","state":"BRE"},{"id":264,"name":"Le F\u0153il","country":"FRA","state":"BRE"},{"id":265,"name":"Le Folgo\u00ebt","country":"FRA","state":"BRE"},{"id":266,"name":"Le Minihic-sur-Rance","country":"FRA","state":"BRE"},{"id":267,"name":"Le Palais","country":"FRA","state":"BRE"},{"id":268,"name":"Le Pertre","country":"FRA","state":"BRE"},{"id":269,"name":"Le Relecq-Kerhuon","country":"FRA","state":"BRE"},{"id":270,"name":"Le Rheu","country":"FRA","state":"BRE"},{"id":271,"name":"Le Sourn","country":"FRA","state":"BRE"},{"id":272,"name":"Le Theil-de-Bretagne","country":"FRA","state":"BRE"},{"id":273,"name":"Le Tr\u00e9voux","country":"FRA","state":"BRE"},{"id":274,"name":"Le Vieux-March\u00e9","country":"FRA","state":"BRE"},{"id":275,"name":"Le Vivier-sur-Mer","country":"FRA","state":"BRE"},{"id":276,"name":"L\u00e9cousse","country":"FRA","state":"BRE"},{"id":277,"name":"L\u00e9hon","country":"FRA","state":"BRE"},{"id":278,"name":"Les Champs-G\u00e9raux","country":"FRA","state":"BRE"},{"id":279,"name":"Lesneven","country":"FRA","state":"BRE"},{"id":280,"name":"L\u00e9zardrieux","country":"FRA","state":"BRE"},{"id":281,"name":"Liffr\u00e9","country":"FRA","state":"BRE"},{"id":282,"name":"Limerzel","country":"FRA","state":"BRE"},{"id":283,"name":"Livr\u00e9-sur-Changeon","country":"FRA","state":"BRE"},{"id":284,"name":"Locmariaquer","country":"FRA","state":"BRE"},{"id":285,"name":"Locmin\u00e9","country":"FRA","state":"BRE"},{"id":286,"name":"Locmiqu\u00e9lic","country":"FRA","state":"BRE"},{"id":287,"name":"Locoal-Mendon","country":"FRA","state":"BRE"},{"id":288,"name":"Locqu\u00e9meau","country":"FRA","state":"BRE"},{"id":289,"name":"Locquirec","country":"FRA","state":"BRE"},{"id":290,"name":"Loctudy","country":"FRA","state":"BRE"},{"id":291,"name":"Logonna-Daoulas","country":"FRA","state":"BRE"},{"id":292,"name":"Lop\u00e9rec","country":"FRA","state":"BRE"},{"id":293,"name":"Loperhet","country":"FRA","state":"BRE"},{"id":294,"name":"Lorient","country":"FRA","state":"BRE"},{"id":295,"name":"Louannec","country":"FRA","state":"BRE"},{"id":296,"name":"Louargat","country":"FRA","state":"BRE"},{"id":297,"name":"Loud\u00e9ac","country":"FRA","state":"BRE"},{"id":298,"name":"Louvign\u00e9-de-Bais","country":"FRA","state":"BRE"},{"id":299,"name":"Louvign\u00e9-du-D\u00e9sert","country":"FRA","state":"BRE"},{"id":300,"name":"Loyat","country":"FRA","state":"BRE"},{"id":301,"name":"Luitr\u00e9","country":"FRA","state":"BRE"},{"id":302,"name":"Ma\u00ebl-Carhaix","country":"FRA","state":"BRE"},{"id":303,"name":"Malansac","country":"FRA","state":"BRE"},{"id":304,"name":"Malestroit","country":"FRA","state":"BRE"},{"id":305,"name":"Malgu\u00e9nac","country":"FRA","state":"BRE"},{"id":306,"name":"Martign\u00e9-Ferchaud","country":"FRA","state":"BRE"},{"id":307,"name":"Marzan","country":"FRA","state":"BRE"},{"id":308,"name":"Matignon","country":"FRA","state":"BRE"},{"id":309,"name":"Maure-de-Bretagne","country":"FRA","state":"BRE"},{"id":310,"name":"Mauron","country":"FRA","state":"BRE"},{"id":311,"name":"Maxent","country":"FRA","state":"BRE"},{"id":312,"name":"M\u00e9dr\u00e9ac","country":"FRA","state":"BRE"},{"id":313,"name":"Meillac","country":"FRA","state":"BRE"},{"id":314,"name":"Melesse","country":"FRA","state":"BRE"},{"id":315,"name":"Melgven","country":"FRA","state":"BRE"},{"id":316,"name":"Mellac","country":"FRA","state":"BRE"},{"id":317,"name":"Melrand","country":"FRA","state":"BRE"},{"id":318,"name":"M\u00e9n\u00e9ac","country":"FRA","state":"BRE"},{"id":319,"name":"Merdrignac","country":"FRA","state":"BRE"},{"id":320,"name":"Merlevenez","country":"FRA","state":"BRE"},{"id":321,"name":"Meslan","country":"FRA","state":"BRE"},{"id":322,"name":"Messac","country":"FRA","state":"BRE"},{"id":323,"name":"Meucon","country":"FRA","state":"BRE"},{"id":324,"name":"Milizac","country":"FRA","state":"BRE"},{"id":325,"name":"Miniac-Morvan","country":"FRA","state":"BRE"},{"id":326,"name":"Minihy-Tr\u00e9guier","country":"FRA","state":"BRE"},{"id":327,"name":"Mo\u00eblan-sur-Mer","country":"FRA","state":"BRE"},{"id":328,"name":"Molac","country":"FRA","state":"BRE"},{"id":329,"name":"Montauban-de-Bretagne","country":"FRA","state":"BRE"},{"id":330,"name":"Monterblanc","country":"FRA","state":"BRE"},{"id":331,"name":"Monterfil","country":"FRA","state":"BRE"},{"id":332,"name":"Montfort-sur-Meu","country":"FRA","state":"BRE"},{"id":333,"name":"Montgermont","country":"FRA","state":"BRE"},{"id":334,"name":"Montreuil-le-Gast","country":"FRA","state":"BRE"},{"id":335,"name":"Montreuil-sous-P\u00e9rouse","country":"FRA","state":"BRE"},{"id":336,"name":"Montreuil-sur-Ille","country":"FRA","state":"BRE"},{"id":337,"name":"Morbihan","country":"FRA","state":"BRE"},{"id":338,"name":"Mordelles","country":"FRA","state":"BRE"},{"id":339,"name":"Mor\u00e9ac","country":"FRA","state":"BRE"},{"id":340,"name":"Morlaix","country":"FRA","state":"BRE"},{"id":341,"name":"Moustoir-Ac","country":"FRA","state":"BRE"},{"id":342,"name":"M\u00fbr-de-Bretagne","country":"FRA","state":"BRE"},{"id":343,"name":"Muzillac","country":"FRA","state":"BRE"},{"id":344,"name":"Naizin","country":"FRA","state":"BRE"},{"id":345,"name":"Neulliac","country":"FRA","state":"BRE"},{"id":346,"name":"N\u00e9vez","country":"FRA","state":"BRE"},{"id":347,"name":"Nivillac","country":"FRA","state":"BRE"},{"id":348,"name":"Nostang","country":"FRA","state":"BRE"},{"id":349,"name":"Nouvoitou","country":"FRA","state":"BRE"},{"id":350,"name":"Noyal-Muzillac","country":"FRA","state":"BRE"},{"id":351,"name":"Noyal-Pontivy","country":"FRA","state":"BRE"},{"id":352,"name":"Noyal-sur-Vilaine","country":"FRA","state":"BRE"},{"id":353,"name":"Org\u00e8res","country":"FRA","state":"BRE"},{"id":354,"name":"Oss\u00e9","country":"FRA","state":"BRE"},{"id":355,"name":"Pabu","country":"FRA","state":"BRE"},{"id":356,"name":"Pac\u00e9","country":"FRA","state":"BRE"},{"id":357,"name":"Paimpol","country":"FRA","state":"BRE"},{"id":358,"name":"Paimpont","country":"FRA","state":"BRE"},{"id":359,"name":"Panc\u00e9","country":"FRA","state":"BRE"},{"id":360,"name":"Parign\u00e9","country":"FRA","state":"BRE"},{"id":361,"name":"P\u00e9aule","country":"FRA","state":"BRE"},{"id":362,"name":"P\u00e9dernec","country":"FRA","state":"BRE"},{"id":363,"name":"Peillac","country":"FRA","state":"BRE"},{"id":364,"name":"Pencran","country":"FRA","state":"BRE"},{"id":365,"name":"P\u00e9nestin","country":"FRA","state":"BRE"},{"id":366,"name":"Penv\u00e9nan","country":"FRA","state":"BRE"},{"id":367,"name":"Perros-Guirec","country":"FRA","state":"BRE"},{"id":368,"name":"Pipriac","country":"FRA","state":"BRE"},{"id":369,"name":"Pir\u00e9-sur-Seiche","country":"FRA","state":"BRE"},{"id":370,"name":"Plabennec","country":"FRA","state":"BRE"},{"id":371,"name":"Plaine-Haute","country":"FRA","state":"BRE"},{"id":372,"name":"Plaintel","country":"FRA","state":"BRE"},{"id":373,"name":"Planco\u00ebt","country":"FRA","state":"BRE"},{"id":374,"name":"Planguenoual","country":"FRA","state":"BRE"},{"id":375,"name":"Plaudren","country":"FRA","state":"BRE"},{"id":376,"name":"Pl\u00e9ch\u00e2tel","country":"FRA","state":"BRE"},{"id":377,"name":"Pl\u00e9d\u00e9liac","country":"FRA","state":"BRE"},{"id":378,"name":"Pl\u00e9dran","country":"FRA","state":"BRE"},{"id":379,"name":"Pl\u00e9guien","country":"FRA","state":"BRE"},{"id":380,"name":"Pl\u00e9h\u00e9del","country":"FRA","state":"BRE"},{"id":381,"name":"Pleine-Foug\u00e8res","country":"FRA","state":"BRE"},{"id":382,"name":"Pl\u00e9lan-le-Grand","country":"FRA","state":"BRE"},{"id":383,"name":"Pl\u00e9lan-le-Petit","country":"FRA","state":"BRE"},{"id":384,"name":"Pl\u00e9lo","country":"FRA","state":"BRE"},{"id":385,"name":"Pl\u00e9met","country":"FRA","state":"BRE"},{"id":386,"name":"Pl\u00e9my","country":"FRA","state":"BRE"},{"id":387,"name":"Pl\u00e9n\u00e9e-Jugon","country":"FRA","state":"BRE"},{"id":388,"name":"Pl\u00e9neuf-Val-Andr\u00e9","country":"FRA","state":"BRE"},{"id":389,"name":"Plerguer","country":"FRA","state":"BRE"},{"id":390,"name":"Pl\u00e9rin","country":"FRA","state":"BRE"},{"id":391,"name":"Plescop","country":"FRA","state":"BRE"},{"id":392,"name":"Pleslin-Trigavou","country":"FRA","state":"BRE"},{"id":393,"name":"Plessala","country":"FRA","state":"BRE"},{"id":394,"name":"Plestan","country":"FRA","state":"BRE"},{"id":395,"name":"Plestin-les-Gr\u00e8ves","country":"FRA","state":"BRE"},{"id":396,"name":"Pleubian","country":"FRA","state":"BRE"},{"id":397,"name":"Pleucadeuc","country":"FRA","state":"BRE"},{"id":398,"name":"Pleudaniel","country":"FRA","state":"BRE"},{"id":399,"name":"Pleudihen-sur-Rance","country":"FRA","state":"BRE"},{"id":400,"name":"Pleugriffet","country":"FRA","state":"BRE"},{"id":401,"name":"Pleugueneuc","country":"FRA","state":"BRE"},{"id":402,"name":"Pleumeleuc","country":"FRA","state":"BRE"},{"id":403,"name":"Pleumeur-Bodou","country":"FRA","state":"BRE"},{"id":404,"name":"Pleumeur-Gautier","country":"FRA","state":"BRE"},{"id":405,"name":"Pleurtuit","country":"FRA","state":"BRE"},{"id":406,"name":"Pleuven","country":"FRA","state":"BRE"},{"id":407,"name":"Pleyben","country":"FRA","state":"BRE"},{"id":408,"name":"Pleyber-Christ","country":"FRA","state":"BRE"},{"id":409,"name":"Plobannalec-Lesconil","country":"FRA","state":"BRE"},{"id":410,"name":"Ploemel","country":"FRA","state":"BRE"},{"id":411,"name":"Ploemeur","country":"FRA","state":"BRE"},{"id":412,"name":"Plo\u00ebrdut","country":"FRA","state":"BRE"},{"id":413,"name":"Ploeren","country":"FRA","state":"BRE"},{"id":414,"name":"Plo\u00ebrmel","country":"FRA","state":"BRE"},{"id":415,"name":"Pl\u0153uc-sur-Li\u00e9","country":"FRA","state":"BRE"},{"id":416,"name":"Plo\u00ebzal","country":"FRA","state":"BRE"},{"id":417,"name":"Plogastel-Saint-Germain","country":"FRA","state":"BRE"},{"id":418,"name":"Plogoff","country":"FRA","state":"BRE"},{"id":419,"name":"Plogonnec","country":"FRA","state":"BRE"},{"id":420,"name":"Plomelin","country":"FRA","state":"BRE"},{"id":421,"name":"Plomeur","country":"FRA","state":"BRE"},{"id":422,"name":"Plomodiern","country":"FRA","state":"BRE"},{"id":423,"name":"Plon\u00e9is","country":"FRA","state":"BRE"},{"id":424,"name":"Plon\u00e9our-Lanvern","country":"FRA","state":"BRE"},{"id":425,"name":"Plon\u00e9vez-du-Faou","country":"FRA","state":"BRE"},{"id":426,"name":"Plon\u00e9vez-Porzay","country":"FRA","state":"BRE"},{"id":427,"name":"Plouagat","country":"FRA","state":"BRE"},{"id":428,"name":"Plouaret","country":"FRA","state":"BRE"},{"id":429,"name":"Plouarzel","country":"FRA","state":"BRE"},{"id":430,"name":"Plouasne","country":"FRA","state":"BRE"},{"id":431,"name":"Plouay","country":"FRA","state":"BRE"},{"id":432,"name":"Ploubalay","country":"FRA","state":"BRE"},{"id":433,"name":"Ploubazlanec","country":"FRA","state":"BRE"},{"id":434,"name":"Ploubezre","country":"FRA","state":"BRE"},{"id":435,"name":"Ploudalm\u00e9zeau","country":"FRA","state":"BRE"},{"id":436,"name":"Ploudaniel","country":"FRA","state":"BRE"},{"id":437,"name":"Plou\u00ebc-du-Trieux","country":"FRA","state":"BRE"},{"id":438,"name":"Plou\u00e9dern","country":"FRA","state":"BRE"},{"id":439,"name":"Plou\u00e9nan","country":"FRA","state":"BRE"},{"id":440,"name":"Plou\u00ebr-sur-Rance","country":"FRA","state":"BRE"},{"id":441,"name":"Plouescat","country":"FRA","state":"BRE"},{"id":442,"name":"Plou\u00e9zec","country":"FRA","state":"BRE"},{"id":443,"name":"Plouezoc'h","country":"FRA","state":"BRE"},{"id":444,"name":"Ploufragan","country":"FRA","state":"BRE"},{"id":445,"name":"Plougasnou","country":"FRA","state":"BRE"},{"id":446,"name":"Plougastel-Daoulas","country":"FRA","state":"BRE"},{"id":447,"name":"Plougonvelin","country":"FRA","state":"BRE"},{"id":448,"name":"Plougonven","country":"FRA","state":"BRE"},{"id":449,"name":"Plougoulm","country":"FRA","state":"BRE"},{"id":450,"name":"Plougoumelen","country":"FRA","state":"BRE"},{"id":451,"name":"Plougourvest","country":"FRA","state":"BRE"},{"id":452,"name":"Plougrescant","country":"FRA","state":"BRE"},{"id":453,"name":"Plouguenast","country":"FRA","state":"BRE"},{"id":454,"name":"Plouguerneau","country":"FRA","state":"BRE"},{"id":455,"name":"Plouguern\u00e9vel","country":"FRA","state":"BRE"},{"id":456,"name":"Plouguiel","country":"FRA","state":"BRE"},{"id":457,"name":"Plouguin","country":"FRA","state":"BRE"},{"id":458,"name":"Plouha","country":"FRA","state":"BRE"},{"id":459,"name":"Plouharnel","country":"FRA","state":"BRE"},{"id":460,"name":"Plouhinec","country":"FRA","state":"BRE"},{"id":461,"name":"Plouider","country":"FRA","state":"BRE"},{"id":462,"name":"Plouigneau","country":"FRA","state":"BRE"},{"id":463,"name":"Plouisy","country":"FRA","state":"BRE"},{"id":464,"name":"Ploumagoar","country":"FRA","state":"BRE"},{"id":465,"name":"Ploumilliau","country":"FRA","state":"BRE"},{"id":466,"name":"Ploumoguer","country":"FRA","state":"BRE"},{"id":467,"name":"Ploun\u00e9our-M\u00e9nez","country":"FRA","state":"BRE"},{"id":468,"name":"Ploun\u00e9our-Trez","country":"FRA","state":"BRE"},{"id":469,"name":"Ploun\u00e9venter","country":"FRA","state":"BRE"},{"id":470,"name":"Ploun\u00e9vez-Lochrist","country":"FRA","state":"BRE"},{"id":471,"name":"Ploun\u00e9vez-Mo\u00ebdec","country":"FRA","state":"BRE"},{"id":472,"name":"Ploun\u00e9vez-Quintin","country":"FRA","state":"BRE"},{"id":473,"name":"Ploun\u00e9v\u00e9zel","country":"FRA","state":"BRE"},{"id":474,"name":"Plouray","country":"FRA","state":"BRE"},{"id":475,"name":"Plourin-l\u00e8s-Morlaix","country":"FRA","state":"BRE"},{"id":476,"name":"Plourivo","country":"FRA","state":"BRE"},{"id":477,"name":"Plouvien","country":"FRA","state":"BRE"},{"id":478,"name":"Plouvorn","country":"FRA","state":"BRE"},{"id":479,"name":"Plouzan\u00e9","country":"FRA","state":"BRE"},{"id":480,"name":"Plouz\u00e9v\u00e9d\u00e9","country":"FRA","state":"BRE"},{"id":481,"name":"Ploz\u00e9vet","country":"FRA","state":"BRE"},{"id":482,"name":"Pluduno","country":"FRA","state":"BRE"},{"id":483,"name":"Pluguffan","country":"FRA","state":"BRE"},{"id":484,"name":"Pluherlin","country":"FRA","state":"BRE"},{"id":485,"name":"Plumaugat","country":"FRA","state":"BRE"},{"id":486,"name":"Plumelec","country":"FRA","state":"BRE"},{"id":487,"name":"Plum\u00e9liau","country":"FRA","state":"BRE"},{"id":488,"name":"Plumelin","country":"FRA","state":"BRE"},{"id":489,"name":"Plumergat","country":"FRA","state":"BRE"},{"id":490,"name":"Plumieux","country":"FRA","state":"BRE"},{"id":491,"name":"Pluneret","country":"FRA","state":"BRE"},{"id":492,"name":"Plurien","country":"FRA","state":"BRE"},{"id":493,"name":"Pluvigner","country":"FRA","state":"BRE"},{"id":494,"name":"Pluzunet","country":"FRA","state":"BRE"},{"id":495,"name":"Poc\u00e9-les-Bois","country":"FRA","state":"BRE"},{"id":496,"name":"Pommeret","country":"FRA","state":"BRE"},{"id":497,"name":"Pommerit-Jaudy","country":"FRA","state":"BRE"},{"id":498,"name":"Pommerit-le-Vicomte","country":"FRA","state":"BRE"},{"id":499,"name":"Pont-Aven","country":"FRA","state":"BRE"},{"id":500,"name":"Pont-Croix","country":"FRA","state":"BRE"},{"id":501,"name":"Pont-l\u2019Abb\u00e9","country":"FRA","state":"BRE"},{"id":502,"name":"Pont-Scorff","country":"FRA","state":"BRE"},{"id":503,"name":"Pontivy","country":"FRA","state":"BRE"},{"id":504,"name":"Pontrieux","country":"FRA","state":"BRE"},{"id":505,"name":"Pordic","country":"FRA","state":"BRE"},{"id":506,"name":"Porspoder","country":"FRA","state":"BRE"},{"id":507,"name":"Port-Louis","country":"FRA","state":"BRE"},{"id":508,"name":"Pouldergat","country":"FRA","state":"BRE"},{"id":509,"name":"Pouldreuzic","country":"FRA","state":"BRE"},{"id":510,"name":"Poullan-sur-Mer","country":"FRA","state":"BRE"},{"id":511,"name":"Poullaouen","country":"FRA","state":"BRE"},{"id":512,"name":"Prat","country":"FRA","state":"BRE"},{"id":513,"name":"Priziac","country":"FRA","state":"BRE"},{"id":514,"name":"Qu\u00e9briac","country":"FRA","state":"BRE"},{"id":515,"name":"Qu\u00e9dillac","country":"FRA","state":"BRE"},{"id":516,"name":"Qu\u00e9m\u00e9n\u00e9ven","country":"FRA","state":"BRE"},{"id":517,"name":"Quemper-Gu\u00e9zennec","country":"FRA","state":"BRE"},{"id":518,"name":"Querrien","country":"FRA","state":"BRE"},{"id":519,"name":"Quessoy","country":"FRA","state":"BRE"},{"id":520,"name":"Questembert","country":"FRA","state":"BRE"},{"id":521,"name":"Qu\u00e9ven","country":"FRA","state":"BRE"},{"id":522,"name":"Qu\u00e9vert","country":"FRA","state":"BRE"},{"id":523,"name":"Quiberon","country":"FRA","state":"BRE"},{"id":524,"name":"Quimper","country":"FRA","state":"BRE"},{"id":525,"name":"Quimperl\u00e9","country":"FRA","state":"BRE"},{"id":526,"name":"Quintin","country":"FRA","state":"BRE"},{"id":527,"name":"Quistinic","country":"FRA","state":"BRE"},{"id":528,"name":"Rann\u00e9e","country":"FRA","state":"BRE"},{"id":529,"name":"R\u00e9den\u00e9","country":"FRA","state":"BRE"},{"id":530,"name":"Redon","country":"FRA","state":"BRE"},{"id":531,"name":"R\u00e9guiny","country":"FRA","state":"BRE"},{"id":532,"name":"Rennes","country":"FRA","state":"BRE"},{"id":533,"name":"Retiers","country":"FRA","state":"BRE"},{"id":534,"name":"Riantec","country":"FRA","state":"BRE"},{"id":535,"name":"Riec-sur-Belon","country":"FRA","state":"BRE"},{"id":536,"name":"Rieux","country":"FRA","state":"BRE"},{"id":537,"name":"Rohan","country":"FRA","state":"BRE"},{"id":538,"name":"Romagn\u00e9","country":"FRA","state":"BRE"},{"id":539,"name":"Romill\u00e9","country":"FRA","state":"BRE"},{"id":540,"name":"Roscanvel","country":"FRA","state":"BRE"},{"id":541,"name":"Roscoff","country":"FRA","state":"BRE"},{"id":542,"name":"Rospez","country":"FRA","state":"BRE"},{"id":543,"name":"Rosporden","country":"FRA","state":"BRE"},{"id":544,"name":"Rostrenen","country":"FRA","state":"BRE"},{"id":545,"name":"Roz-Landrieux","country":"FRA","state":"BRE"},{"id":546,"name":"Roz-sur-Couesnon","country":"FRA","state":"BRE"},{"id":547,"name":"Ruffiac","country":"FRA","state":"BRE"},{"id":548,"name":"Saint-Agathon","country":"FRA","state":"BRE"},{"id":549,"name":"Saint-Alban","country":"FRA","state":"BRE"},{"id":550,"name":"Saint-Armel","country":"FRA","state":"BRE"},{"id":551,"name":"Saint-Aubin-du-Cormier","country":"FRA","state":"BRE"},{"id":552,"name":"Saint-Av\u00e9","country":"FRA","state":"BRE"},{"id":553,"name":"Saint-Barnab\u00e9","country":"FRA","state":"BRE"},{"id":554,"name":"Saint-Brandan","country":"FRA","state":"BRE"},{"id":555,"name":"Saint-Briac-sur-Mer","country":"FRA","state":"BRE"},{"id":556,"name":"Saint-Brice-en-Cogl\u00e8s","country":"FRA","state":"BRE"},{"id":557,"name":"Saint-Brieuc","country":"FRA","state":"BRE"},{"id":558,"name":"Saint-Broladre","country":"FRA","state":"BRE"},{"id":559,"name":"Saint-Caradec","country":"FRA","state":"BRE"},{"id":560,"name":"Saint-Carreuc","country":"FRA","state":"BRE"},{"id":561,"name":"Saint-Cast-le-Guildo","country":"FRA","state":"BRE"},{"id":562,"name":"Saint-Coulomb","country":"FRA","state":"BRE"},{"id":563,"name":"Saint-Didier","country":"FRA","state":"BRE"},{"id":564,"name":"Saint-Dolay","country":"FRA","state":"BRE"},{"id":565,"name":"Saint-Domineuc","country":"FRA","state":"BRE"},{"id":566,"name":"Saint-Donan","country":"FRA","state":"BRE"},{"id":567,"name":"Saint-Erblon","country":"FRA","state":"BRE"},{"id":568,"name":"Saint-\u00c9tienne-en-Cogl\u00e8s","country":"FRA","state":"BRE"},{"id":569,"name":"Saint-\u00c9varzec","country":"FRA","state":"BRE"},{"id":570,"name":"Saint-Georges-de-Reintembault","country":"FRA","state":"BRE"},{"id":571,"name":"Saint-Germain-en-Cogl\u00e8s","country":"FRA","state":"BRE"},{"id":572,"name":"Saint-Gildas-de-Rhuys","country":"FRA","state":"BRE"},{"id":573,"name":"Saint-Gilles","country":"FRA","state":"BRE"},{"id":574,"name":"Saint-Gonnery","country":"FRA","state":"BRE"},{"id":575,"name":"Saint-Gr\u00e9goire","country":"FRA","state":"BRE"},{"id":576,"name":"Saint-H\u00e9len","country":"FRA","state":"BRE"},{"id":577,"name":"Saint-Jacques-de-la-Lande","country":"FRA","state":"BRE"},{"id":578,"name":"Saint-Jacut-les-Pins","country":"FRA","state":"BRE"},{"id":579,"name":"Saint-Jean-Br\u00e9velay","country":"FRA","state":"BRE"},{"id":580,"name":"Saint-Jean-la-Poterie","country":"FRA","state":"BRE"},{"id":581,"name":"Saint-Jean-sur-Couesnon","country":"FRA","state":"BRE"},{"id":582,"name":"Saint-Jouan-des-Gu\u00e9rets","country":"FRA","state":"BRE"},{"id":583,"name":"Saint-Julien","country":"FRA","state":"BRE"},{"id":584,"name":"Saint-Just","country":"FRA","state":"BRE"},{"id":585,"name":"Saint-Lunaire","country":"FRA","state":"BRE"},{"id":586,"name":"Saint-Malo","country":"FRA","state":"BRE"},{"id":587,"name":"Saint-Marc-le-Blanc","country":"FRA","state":"BRE"},{"id":588,"name":"Saint-Martin-des-Champs","country":"FRA","state":"BRE"},{"id":589,"name":"Saint-Martin-sur-Oust","country":"FRA","state":"BRE"},{"id":590,"name":"Saint-M\u00e9dard-sur-Ille","country":"FRA","state":"BRE"},{"id":591,"name":"Saint-M\u00e9en-le-Grand","country":"FRA","state":"BRE"},{"id":592,"name":"Saint-M\u00e9loir-des-Ondes","country":"FRA","state":"BRE"},{"id":593,"name":"Saint-Nicolas-du-P\u00e9lem","country":"FRA","state":"BRE"},{"id":594,"name":"Saint-Nolff","country":"FRA","state":"BRE"},{"id":595,"name":"Saint-Ouen-des-Alleux","country":"FRA","state":"BRE"},{"id":596,"name":"Saint-Pabu","country":"FRA","state":"BRE"},{"id":597,"name":"Saint-P\u00e8re","country":"FRA","state":"BRE"},{"id":598,"name":"Saint-Perreux","country":"FRA","state":"BRE"},{"id":599,"name":"Saint-Philibert","country":"FRA","state":"BRE"},{"id":600,"name":"Saint-Pierre-de-Plesguen","country":"FRA","state":"BRE"},{"id":601,"name":"Saint-Pierre-Quiberon","country":"FRA","state":"BRE"},{"id":602,"name":"Saint-Pol-de-L\u00e9on","country":"FRA","state":"BRE"},{"id":603,"name":"Saint-Quay-Perros","country":"FRA","state":"BRE"},{"id":604,"name":"Saint-Quay-Portrieux","country":"FRA","state":"BRE"},{"id":605,"name":"Saint-Renan","country":"FRA","state":"BRE"},{"id":606,"name":"Saint-Samson-sur-Rance","country":"FRA","state":"BRE"},{"id":607,"name":"Saint-Sauveur-des-Landes","country":"FRA","state":"BRE"},{"id":608,"name":"Saint-Senoux","country":"FRA","state":"BRE"},{"id":609,"name":"Saint-Sulpice-la-For\u00eat","country":"FRA","state":"BRE"},{"id":610,"name":"Saint-Th\u00e9gonnec","country":"FRA","state":"BRE"},{"id":611,"name":"Saint-Thonan","country":"FRA","state":"BRE"},{"id":612,"name":"Saint-Thurial","country":"FRA","state":"BRE"},{"id":613,"name":"Saint-Thuriau","country":"FRA","state":"BRE"},{"id":614,"name":"Saint-Urbain","country":"FRA","state":"BRE"},{"id":615,"name":"Saint-Vincent-sur-Oust","country":"FRA","state":"BRE"},{"id":616,"name":"Saint-Yvi","country":"FRA","state":"BRE"},{"id":617,"name":"Sainte-Anne-d'Auray","country":"FRA","state":"BRE"},{"id":618,"name":"Sainte-H\u00e9l\u00e8ne","country":"FRA","state":"BRE"},{"id":619,"name":"Sainte-Marie","country":"FRA","state":"BRE"},{"id":620,"name":"Santec","country":"FRA","state":"BRE"},{"id":621,"name":"Sarzeau","country":"FRA","state":"BRE"},{"id":622,"name":"Sca\u00ebr","country":"FRA","state":"BRE"},{"id":623,"name":"S\u00e9n\u00e9","country":"FRA","state":"BRE"},{"id":624,"name":"Sens-de-Bretagne","country":"FRA","state":"BRE"},{"id":625,"name":"S\u00e9rent","country":"FRA","state":"BRE"},{"id":626,"name":"Servon-sur-Vilaine","country":"FRA","state":"BRE"},{"id":627,"name":"S\u00e9vignac","country":"FRA","state":"BRE"},{"id":628,"name":"Sibiril","country":"FRA","state":"BRE"},{"id":629,"name":"Sixt-sur-Aff","country":"FRA","state":"BRE"},{"id":630,"name":"Sizun","country":"FRA","state":"BRE"},{"id":631,"name":"Sp\u00e9zet","country":"FRA","state":"BRE"},{"id":632,"name":"Sulniac","country":"FRA","state":"BRE"},{"id":633,"name":"Surzur","country":"FRA","state":"BRE"},{"id":634,"name":"Taden","country":"FRA","state":"BRE"},{"id":635,"name":"Talensac","country":"FRA","state":"BRE"},{"id":636,"name":"Taul\u00e9","country":"FRA","state":"BRE"},{"id":637,"name":"Taupont","country":"FRA","state":"BRE"},{"id":638,"name":"Telgruc-sur-Mer","country":"FRA","state":"BRE"},{"id":639,"name":"Theix","country":"FRA","state":"BRE"},{"id":640,"name":"Tint\u00e9niac","country":"FRA","state":"BRE"},{"id":641,"name":"Tonqu\u00e9dec","country":"FRA","state":"BRE"},{"id":642,"name":"Torc\u00e9","country":"FRA","state":"BRE"},{"id":643,"name":"Tr\u00e9beurden","country":"FRA","state":"BRE"},{"id":644,"name":"Tr\u00e9darzec","country":"FRA","state":"BRE"},{"id":645,"name":"Tr\u00e9drez-Locqu\u00e9meau","country":"FRA","state":"BRE"},{"id":646,"name":"Treffiagat","country":"FRA","state":"BRE"},{"id":647,"name":"Treffl\u00e9an","country":"FRA","state":"BRE"},{"id":648,"name":"Tr\u00e9gastel","country":"FRA","state":"BRE"},{"id":649,"name":"Tr\u00e9guier","country":"FRA","state":"BRE"},{"id":650,"name":"Tr\u00e9gunc","country":"FRA","state":"BRE"},{"id":651,"name":"Tr\u00e9l\u00e9vern","country":"FRA","state":"BRE"},{"id":652,"name":"Tr\u00e9livan","country":"FRA","state":"BRE"},{"id":653,"name":"Tremblay","country":"FRA","state":"BRE"},{"id":654,"name":"Tr\u00e9m\u00e9ven","country":"FRA","state":"BRE"},{"id":655,"name":"Tr\u00e9muson","country":"FRA","state":"BRE"},{"id":656,"name":"Tresb\u0153uf","country":"FRA","state":"BRE"},{"id":657,"name":"Tr\u00e9v\u00e9","country":"FRA","state":"BRE"},{"id":658,"name":"Tr\u00e9vou-Tr\u00e9guignec","country":"FRA","state":"BRE"},{"id":659,"name":"Vannes","country":"FRA","state":"BRE"},{"id":660,"name":"Vern-sur-Seiche","country":"FRA","state":"BRE"},{"id":661,"name":"Vezin-le-Coquet","country":"FRA","state":"BRE"},{"id":662,"name":"Vignoc","country":"FRA","state":"BRE"},{"id":663,"name":"Vitr\u00e9","country":"FRA","state":"BRE"},{"id":664,"name":"Yffiniac","country":"FRA","state":"BRE"},{"id":665,"name":"Yvignac-la-Tour","country":"FRA","state":"BRE"}]
+[
+    {
+        "id": 39254,
+        "name": "Acigné",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39318,
+        "name": "Allaire",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39345,
+        "name": "Amanlis",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39356,
+        "name": "Ambon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39436,
+        "name": "Antrain",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39485,
+        "name": "Argentré-du-Plessis",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39510,
+        "name": "Arradon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39534,
+        "name": "Arzano",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39536,
+        "name": "Arzon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39597,
+        "name": "Audierne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39604,
+        "name": "Augan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39623,
+        "name": "Auray",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39703,
+        "name": "Baden",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39716,
+        "name": "Baguer-Morvan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39717,
+        "name": "Baguer-Pican",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39732,
+        "name": "Bain-de-Bretagne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39736,
+        "name": "Bains-sur-Oust",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39738,
+        "name": "Bais",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39747,
+        "name": "Balazé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39760,
+        "name": "Bannalec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39808,
+        "name": "Baud",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39813,
+        "name": "Baulon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39834,
+        "name": "Bazouges-la-Pérouse",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39844,
+        "name": "Beaucé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40415,
+        "name": "Bédée",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40417,
+        "name": "Béganne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40418,
+        "name": "Bégard",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39900,
+        "name": "Beignon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39910,
+        "name": "Belle-Isle-en-Terre",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39937,
+        "name": "Belz",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40425,
+        "name": "Bénodet",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39958,
+        "name": "Berné",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39961,
+        "name": "Berric",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39962,
+        "name": "Berrien",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39987,
+        "name": "Betton",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 39994,
+        "name": "Beuzec-Cap-Sizun",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40016,
+        "name": "Bignan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40026,
+        "name": "Binic",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40078,
+        "name": "Bodilis",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40082,
+        "name": "Bohars",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40092,
+        "name": "Boisgervilly",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40120,
+        "name": "Bonnemain",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40182,
+        "name": "Bourbriac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40188,
+        "name": "Bourg-Blanc",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40193,
+        "name": "Bourg-des-Comptes",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40198,
+        "name": "Bourgbarré",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40253,
+        "name": "Brandérion",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40260,
+        "name": "Brasparts",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40354,
+        "name": "Bréal-sous-Montfort",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40357,
+        "name": "Brécé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40272,
+        "name": "Brech",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40359,
+        "name": "Bréhand",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40279,
+        "name": "Brest",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40280,
+        "name": "Breteil",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40307,
+        "name": "Briec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40333,
+        "name": "Broons",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40352,
+        "name": "Bruz",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40367,
+        "name": "Bubry",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40452,
+        "name": "Caden",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40471,
+        "name": "Callac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40482,
+        "name": "Camaret-sur-Mer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40495,
+        "name": "Camors",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40503,
+        "name": "Campénéac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40504,
+        "name": "Cancale",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40535,
+        "name": "Carantec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40542,
+        "name": "Carentoir",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40544,
+        "name": "Carhaix-Plouguer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40550,
+        "name": "Carnac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40553,
+        "name": "Caro",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40573,
+        "name": "Cast",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40601,
+        "name": "Caudan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40606,
+        "name": "Caulnes",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40619,
+        "name": "Cavan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40661,
+        "name": "Cesson-Sévigné",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40770,
+        "name": "Chanteloup",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40774,
+        "name": "Chantepie",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40820,
+        "name": "Chartres-de-Bretagne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40823,
+        "name": "Chasné-sur-Illet",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40951,
+        "name": "Châteaubourg",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40956,
+        "name": "Châteaugiron",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40957,
+        "name": "Châteaulin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40966,
+        "name": "Châteauneuf-d’Ille-et-Vilaine",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40963,
+        "name": "Châteauneuf-du-Faou",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40996,
+        "name": "Châtillon-en-Vendelais",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41004,
+        "name": "Châtillon-sur-Seiche",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40855,
+        "name": "Chavagne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40884,
+        "name": "Cherrueix",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 40891,
+        "name": "Chevaigné",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41024,
+        "name": "Cintré",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41067,
+        "name": "Cléden-Poher",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41068,
+        "name": "Cléder",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41069,
+        "name": "Cléguer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41070,
+        "name": "Cléguérec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41057,
+        "name": "Clohars-Carnoët",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41058,
+        "name": "Clohars-Fouesnant",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41291,
+        "name": "Coësmes",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41292,
+        "name": "Coëtmieux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41107,
+        "name": "Colpo",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41110,
+        "name": "Combourg",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41112,
+        "name": "Combrit",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41127,
+        "name": "Concarneau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41160,
+        "name": "Coray",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41177,
+        "name": "Corlay",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41200,
+        "name": "Corps-Nuds",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41204,
+        "name": "Corseul",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41294,
+        "name": "Crach",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41343,
+        "name": "Crédin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41346,
+        "name": "Créhen",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41314,
+        "name": "Crevin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41334,
+        "name": "Crozon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41412,
+        "name": "Damgan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41431,
+        "name": "Daoulas",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41604,
+        "name": "Département d'Ille-et-Vilaine",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41635,
+        "name": "Département des Côtes-d’Armor",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41640,
+        "name": "Département du Finistère",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41482,
+        "name": "Dinan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41483,
+        "name": "Dinard",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41488,
+        "name": "Dinéault",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41486,
+        "name": "Dingé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41491,
+        "name": "Dirinon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41503,
+        "name": "Dol-de-Bretagne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41509,
+        "name": "Domagné",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41510,
+        "name": "Domalain",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41546,
+        "name": "Douarnenez",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41659,
+        "name": "Edern",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41663,
+        "name": "Elliant",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41665,
+        "name": "Elven",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41687,
+        "name": "Epiniac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41690,
+        "name": "Erbrée",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41692,
+        "name": "Ercé-en-Lamée",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41693,
+        "name": "Ercé-près-Liffré",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41694,
+        "name": "Erdeven",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41695,
+        "name": "Ergué-Gabéric",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41700,
+        "name": "Erquy",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41722,
+        "name": "Esquibien",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 48090,
+        "name": "Étables-sur-Mer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 48101,
+        "name": "Étel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 48108,
+        "name": "Étrelles",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 48121,
+        "name": "Évran",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42004,
+        "name": "Férel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41923,
+        "name": "Fouesnant",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41927,
+        "name": "Fougères",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41928,
+        "name": "Fouillard",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 41983,
+        "name": "Fréhel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42057,
+        "name": "Gaël",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42079,
+        "name": "Gestel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42301,
+        "name": "Gévezé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42114,
+        "name": "Glomel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42141,
+        "name": "Gosné",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42143,
+        "name": "Gouarec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42145,
+        "name": "Goudelin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42146,
+        "name": "Gouesnach",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42147,
+        "name": "Gouesnou",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42161,
+        "name": "Gouézec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42151,
+        "name": "Gourin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42162,
+        "name": "Goven",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42232,
+        "name": "Grâces",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42170,
+        "name": "Grand-Champ",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42174,
+        "name": "Grand-Fougeray",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42221,
+        "name": "Groix",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42278,
+        "name": "Guégon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42281,
+        "name": "Guémené-sur-Scorff",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42240,
+        "name": "Guengat",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42283,
+        "name": "Guénin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42242,
+        "name": "Guer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42243,
+        "name": "Guerlesquin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42245,
+        "name": "Guern",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42252,
+        "name": "Guichen",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42253,
+        "name": "Guiclan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42254,
+        "name": "Guidel-Plage",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42255,
+        "name": "Guignen",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42258,
+        "name": "Guilers",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42260,
+        "name": "Guillac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42262,
+        "name": "Guilliers",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42263,
+        "name": "Guilvinec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42264,
+        "name": "Guingamp",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42265,
+        "name": "Guipavas",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42266,
+        "name": "Guipel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42267,
+        "name": "Guipry",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42269,
+        "name": "Guiscriff",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42271,
+        "name": "Guissény",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42324,
+        "name": "Hanvec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42449,
+        "name": "Hédé-Bazouges",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42452,
+        "name": "Hénanbihen",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42368,
+        "name": "Hennebont",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42454,
+        "name": "Hénon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42370,
+        "name": "Henvic",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42395,
+        "name": "Hillion",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42400,
+        "name": "Hirel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42466,
+        "name": "Hôpital-Camfrout",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42435,
+        "name": "Huelgoat",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42471,
+        "name": "Iffendic",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42490,
+        "name": "Inguiniel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42495,
+        "name": "Irodouër",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42496,
+        "name": "Irvillac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42529,
+        "name": "Janzé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42544,
+        "name": "Javené",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42564,
+        "name": "Josselin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42581,
+        "name": "Jugon-les-Lacs",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42608,
+        "name": "Kerlouan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42609,
+        "name": "Kernilis",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42610,
+        "name": "Kersaint-Plabennec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42612,
+        "name": "Kervignac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42652,
+        "name": "La Bouëxière",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42651,
+        "name": "La Boussac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42693,
+        "name": "La Chapelle-des-Fougeretz",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42681,
+        "name": "La Chapelle-Janson",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42690,
+        "name": "La Chapelle-Thouarault",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42731,
+        "name": "La Dominelais",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42750,
+        "name": "La Forest-Landerneau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42751,
+        "name": "La Forêt-Fouesnant",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42757,
+        "name": "La Fresnais",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42760,
+        "name": "La Gacilly",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42770,
+        "name": "La Gouesnière",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42775,
+        "name": "La Guerche-de-Bretagne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42821,
+        "name": "La Méaugon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42823,
+        "name": "La Mézière",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42812,
+        "name": "La Motte",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42846,
+        "name": "La Richardais",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42852,
+        "name": "La Roche-Derrien",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42853,
+        "name": "La Roche-Maurice",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42899,
+        "name": "La Trinité-sur-Mer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42919,
+        "name": "La Vraie-Croix",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42970,
+        "name": "Laillé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42985,
+        "name": "Lamballe",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42993,
+        "name": "Lampaul-Guimiliau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42994,
+        "name": "Lampaul-Plouarzel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 42997,
+        "name": "Lancieux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43000,
+        "name": "Landaul",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43015,
+        "name": "Landéan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43016,
+        "name": "Landéda",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43017,
+        "name": "Landéhen",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43001,
+        "name": "Landeleau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43003,
+        "name": "Landerneau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43018,
+        "name": "Landévant",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43007,
+        "name": "Landivisiau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43011,
+        "name": "Landrévarzec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43013,
+        "name": "Landudec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43014,
+        "name": "Landunvez",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43019,
+        "name": "Lanester",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43024,
+        "name": "Langoat",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43027,
+        "name": "Langon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43029,
+        "name": "Langonnet",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43032,
+        "name": "Langueux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43033,
+        "name": "Languidic",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43034,
+        "name": "Lanmeur",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43036,
+        "name": "Lannilis",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43037,
+        "name": "Lannion",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43041,
+        "name": "Lanouée",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43043,
+        "name": "Lanrivoaré",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43044,
+        "name": "Lanrodec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43048,
+        "name": "Lantic",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43052,
+        "name": "Lanvallay",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43054,
+        "name": "Lanvénégen",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43055,
+        "name": "Lanvéoc",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43053,
+        "name": "Lanvollon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43072,
+        "name": "Larmor-Baden",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43073,
+        "name": "Larmor-Plage",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43088,
+        "name": "Lassy",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43134,
+        "name": "Le Bono",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43170,
+        "name": "Le Conquet",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43182,
+        "name": "Le Drennec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43183,
+        "name": "Le Faou",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43184,
+        "name": "Le Faouët",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43192,
+        "name": "Le Fœil",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43189,
+        "name": "Le Folgoët",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43233,
+        "name": "Le Minihic-sur-Rance",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43243,
+        "name": "Le Palais",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43253,
+        "name": "Le Pertre",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43293,
+        "name": "Le Relecq-Kerhuon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43295,
+        "name": "Le Rheu",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43302,
+        "name": "Le Sourn",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43311,
+        "name": "Le Theil-de-Bretagne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43325,
+        "name": "Le Trévoux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43333,
+        "name": "Le Vieux-Marché",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43336,
+        "name": "Le Vivier-sur-Mer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43682,
+        "name": "Lécousse",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43686,
+        "name": "Léhon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43375,
+        "name": "Les Champs-Géraux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43437,
+        "name": "Lesneven",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43696,
+        "name": "Lézardrieux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43474,
+        "name": "Liffré",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43491,
+        "name": "Limerzel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43522,
+        "name": "Livré-sur-Changeon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43528,
+        "name": "Locmariaquer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43529,
+        "name": "Locminé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43530,
+        "name": "Locmiquélic",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43531,
+        "name": "Locoal-Mendon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43534,
+        "name": "Locquémeau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43533,
+        "name": "Locquirec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43535,
+        "name": "Loctudy",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43539,
+        "name": "Logonna-Daoulas",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43583,
+        "name": "Lopérec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43582,
+        "name": "Loperhet",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43587,
+        "name": "Lorient",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43598,
+        "name": "Louannec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43599,
+        "name": "Louargat",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43602,
+        "name": "Loudéac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43616,
+        "name": "Louvigné-de-Bais",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43617,
+        "name": "Louvigné-du-Désert",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43623,
+        "name": "Loyat",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43645,
+        "name": "Luitré",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43981,
+        "name": "Maël-Carhaix",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43749,
+        "name": "Malansac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43757,
+        "name": "Malestroit",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43758,
+        "name": "Malguénac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43914,
+        "name": "Martigné-Ferchaud",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43924,
+        "name": "Marzan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43940,
+        "name": "Matignon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43951,
+        "name": "Maure-de-Bretagne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43957,
+        "name": "Mauron",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43965,
+        "name": "Maxent",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44459,
+        "name": "Médréac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43988,
+        "name": "Meillac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43992,
+        "name": "Melesse",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43993,
+        "name": "Melgven",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43994,
+        "name": "Mellac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 43997,
+        "name": "Melrand",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44466,
+        "name": "Ménéac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44015,
+        "name": "Merdrignac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44016,
+        "name": "Merlevenez",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44028,
+        "name": "Meslan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44032,
+        "name": "Messac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44044,
+        "name": "Meucon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44072,
+        "name": "Milizac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44081,
+        "name": "Miniac-Morvan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44082,
+        "name": "Minihy-Tréguier",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44427,
+        "name": "Moëlan-sur-Mer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44121,
+        "name": "Molac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44184,
+        "name": "Montauban-de-Bretagne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44221,
+        "name": "Monterblanc",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44223,
+        "name": "Monterfil",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44242,
+        "name": "Montfort-sur-Meu",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44245,
+        "name": "Montgermont",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44311,
+        "name": "Montreuil-le-Gast",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44312,
+        "name": "Montreuil-sous-Pérouse",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44313,
+        "name": "Montreuil-sur-Ille",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44345,
+        "name": "Morbihan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44347,
+        "name": "Mordelles",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44378,
+        "name": "Moréac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44357,
+        "name": "Morlaix",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44410,
+        "name": "Moustoir-Ac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44493,
+        "name": "Mûr-de-Bretagne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44450,
+        "name": "Muzillac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44498,
+        "name": "Naizin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44556,
+        "name": "Neulliac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44697,
+        "name": "Névez",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44603,
+        "name": "Nivillac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44647,
+        "name": "Nostang",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44662,
+        "name": "Nouvoitou",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44669,
+        "name": "Noyal-Muzillac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44670,
+        "name": "Noyal-Pontivy",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44671,
+        "name": "Noyal-sur-Vilaine",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44766,
+        "name": "Orgères",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44791,
+        "name": "Ossé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44823,
+        "name": "Pabu",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44825,
+        "name": "Pacé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44829,
+        "name": "Paimpol",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44830,
+        "name": "Paimpont",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44841,
+        "name": "Pancé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44854,
+        "name": "Parigné",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45342,
+        "name": "Péaule",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45344,
+        "name": "Pédernec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44881,
+        "name": "Peillac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44890,
+        "name": "Pencran",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45348,
+        "name": "Pénestin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44894,
+        "name": "Penvénan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44906,
+        "name": "Perros-Guirec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44976,
+        "name": "Pipriac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44980,
+        "name": "Piré-sur-Seiche",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44987,
+        "name": "Plabennec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44990,
+        "name": "Plaine-Haute",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 44992,
+        "name": "Plaintel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45000,
+        "name": "Plancoët",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45001,
+        "name": "Planguenoual",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45003,
+        "name": "Plaudren",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45116,
+        "name": "Pléchâtel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45118,
+        "name": "Plédéliac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45117,
+        "name": "Plédran",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45119,
+        "name": "Pléguien",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45120,
+        "name": "Pléhédel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45006,
+        "name": "Pleine-Fougères",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45121,
+        "name": "Plélan-le-Grand",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45122,
+        "name": "Plélan-le-Petit",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45123,
+        "name": "Plélo",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45124,
+        "name": "Plémet",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45125,
+        "name": "Plémy",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45127,
+        "name": "Plénée-Jugon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45126,
+        "name": "Pléneuf-Val-André",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45007,
+        "name": "Plerguer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45128,
+        "name": "Plérin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45008,
+        "name": "Plescop",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45009,
+        "name": "Pleslin-Trigavou",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45010,
+        "name": "Plessala",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45012,
+        "name": "Plestan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45013,
+        "name": "Plestin-les-Grèves",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45014,
+        "name": "Pleubian",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45015,
+        "name": "Pleucadeuc",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45016,
+        "name": "Pleudaniel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45017,
+        "name": "Pleudihen-sur-Rance",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45018,
+        "name": "Pleugriffet",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45019,
+        "name": "Pleugueneuc",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45021,
+        "name": "Pleumeleuc",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45022,
+        "name": "Pleumeur-Bodou",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45023,
+        "name": "Pleumeur-Gautier",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45024,
+        "name": "Pleurtuit",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45025,
+        "name": "Pleuven",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45026,
+        "name": "Pleyben",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45027,
+        "name": "Pleyber-Christ",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45028,
+        "name": "Plobannalec-Lesconil",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45030,
+        "name": "Ploemel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45031,
+        "name": "Ploemeur",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45100,
+        "name": "Ploërdut",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45032,
+        "name": "Ploeren",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45101,
+        "name": "Ploërmel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45129,
+        "name": "Plœuc-sur-Lié",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45102,
+        "name": "Ploëzal",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45033,
+        "name": "Plogastel-Saint-Germain",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45034,
+        "name": "Plogoff",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45035,
+        "name": "Plogonnec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45038,
+        "name": "Plomelin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45039,
+        "name": "Plomeur",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45040,
+        "name": "Plomodiern",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45041,
+        "name": "Plonéis",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45042,
+        "name": "Plonéour-Lanvern",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45044,
+        "name": "Plonévez-du-Faou",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45043,
+        "name": "Plonévez-Porzay",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45045,
+        "name": "Plouagat",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45046,
+        "name": "Plouaret",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45047,
+        "name": "Plouarzel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45048,
+        "name": "Plouasne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45049,
+        "name": "Plouay",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45050,
+        "name": "Ploubalay",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45051,
+        "name": "Ploubazlanec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45052,
+        "name": "Ploubezre",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45053,
+        "name": "Ploudalmézeau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45054,
+        "name": "Ploudaniel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45097,
+        "name": "Plouëc-du-Trieux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45094,
+        "name": "Plouédern",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45095,
+        "name": "Plouénan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45098,
+        "name": "Plouër-sur-Rance",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45055,
+        "name": "Plouescat",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45096,
+        "name": "Plouézec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45056,
+        "name": "Plouezoc'h",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45057,
+        "name": "Ploufragan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45058,
+        "name": "Plougasnou",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45059,
+        "name": "Plougastel-Daoulas",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45060,
+        "name": "Plougonvelin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45061,
+        "name": "Plougonven",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45062,
+        "name": "Plougoulm",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45063,
+        "name": "Plougoumelen",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45064,
+        "name": "Plougourvest",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45065,
+        "name": "Plougrescant",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45066,
+        "name": "Plouguenast",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45067,
+        "name": "Plouguerneau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45068,
+        "name": "Plouguernével",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45069,
+        "name": "Plouguiel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45070,
+        "name": "Plouguin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45071,
+        "name": "Plouha",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45072,
+        "name": "Plouharnel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45073,
+        "name": "Plouhinec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45074,
+        "name": "Plouider",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45075,
+        "name": "Plouigneau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45076,
+        "name": "Plouisy",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45077,
+        "name": "Ploumagoar",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45078,
+        "name": "Ploumilliau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45079,
+        "name": "Ploumoguer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45080,
+        "name": "Plounéour-Ménez",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45081,
+        "name": "Plounéour-Trez",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45082,
+        "name": "Plounéventer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45083,
+        "name": "Plounévez-Lochrist",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45084,
+        "name": "Plounévez-Moëdec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45085,
+        "name": "Plounévez-Quintin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45086,
+        "name": "Plounévézel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45087,
+        "name": "Plouray",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45088,
+        "name": "Plourin-lès-Morlaix",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45089,
+        "name": "Plourivo",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45090,
+        "name": "Plouvien",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45091,
+        "name": "Plouvorn",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45092,
+        "name": "Plouzané",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45093,
+        "name": "Plouzévédé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45099,
+        "name": "Plozévet",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45103,
+        "name": "Pluduno",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45104,
+        "name": "Pluguffan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45105,
+        "name": "Pluherlin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45106,
+        "name": "Plumaugat",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45107,
+        "name": "Plumelec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45111,
+        "name": "Pluméliau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45108,
+        "name": "Plumelin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45109,
+        "name": "Plumergat",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45110,
+        "name": "Plumieux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45112,
+        "name": "Pluneret",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45113,
+        "name": "Plurien",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45114,
+        "name": "Pluvigner",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45115,
+        "name": "Pluzunet",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45130,
+        "name": "Pocé-les-Bois",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45148,
+        "name": "Pommeret",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45149,
+        "name": "Pommerit-Jaudy",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45150,
+        "name": "Pommerit-le-Vicomte",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45165,
+        "name": "Pont-Aven",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45166,
+        "name": "Pont-Croix",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45189,
+        "name": "Pont-l’Abbé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45176,
+        "name": "Pont-Scorff",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45211,
+        "name": "Pontivy",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45217,
+        "name": "Pontrieux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45222,
+        "name": "Pordic",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45225,
+        "name": "Porspoder",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45228,
+        "name": "Port-Louis",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45259,
+        "name": "Pouldergat",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45260,
+        "name": "Pouldreuzic",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45262,
+        "name": "Poullan-sur-Mer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45263,
+        "name": "Poullaouen",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45277,
+        "name": "Prat",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45293,
+        "name": "Priziac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45406,
+        "name": "Québriac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45407,
+        "name": "Quédillac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45408,
+        "name": "Quéménéven",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45373,
+        "name": "Quemper-Guézennec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45376,
+        "name": "Querrien",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45378,
+        "name": "Quessoy",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45379,
+        "name": "Questembert",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45409,
+        "name": "Quéven",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45410,
+        "name": "Quévert",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45384,
+        "name": "Quiberon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45389,
+        "name": "Quimper",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45390,
+        "name": "Quimperlé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45401,
+        "name": "Quintin",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45403,
+        "name": "Quistinic",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45429,
+        "name": "Rannée",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45685,
+        "name": "Rédené",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45443,
+        "name": "Redon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45688,
+        "name": "Réguiny",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45460,
+        "name": "Rennes",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45468,
+        "name": "Retiers",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45488,
+        "name": "Riantec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45499,
+        "name": "Riec-sur-Belon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45504,
+        "name": "Rieux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45561,
+        "name": "Rohan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45572,
+        "name": "Romagné",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45581,
+        "name": "Romillé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45598,
+        "name": "Roscanvel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45599,
+        "name": "Roscoff",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45608,
+        "name": "Rospez",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45609,
+        "name": "Rosporden",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45611,
+        "name": "Rostrenen",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45650,
+        "name": "Roz-Landrieux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45651,
+        "name": "Roz-sur-Couesnon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45665,
+        "name": "Ruffiac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45728,
+        "name": "Saint-Agathon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45734,
+        "name": "Saint-Alban",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45775,
+        "name": "Saint-Armel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45786,
+        "name": "Saint-Aubin-du-Cormier",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45799,
+        "name": "Saint-Avé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45802,
+        "name": "Saint-Barnabé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45822,
+        "name": "Saint-Brandan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45824,
+        "name": "Saint-Briac-sur-Mer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45827,
+        "name": "Saint-Brice-en-Coglès",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45830,
+        "name": "Saint-Brieuc",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45833,
+        "name": "Saint-Broladre",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45839,
+        "name": "Saint-Caradec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45840,
+        "name": "Saint-Carreuc",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45842,
+        "name": "Saint-Cast-le-Guildo",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45876,
+        "name": "Saint-Coulomb",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45906,
+        "name": "Saint-Didier",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45914,
+        "name": "Saint-Dolay",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45915,
+        "name": "Saint-Domineuc",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45916,
+        "name": "Saint-Donan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45921,
+        "name": "Saint-Erblon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46656,
+        "name": "Saint-Étienne-en-Coglès",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46659,
+        "name": "Saint-Évarzec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 45979,
+        "name": "Saint-Georges-de-Reintembault",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46014,
+        "name": "Saint-Germain-en-Coglès",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46032,
+        "name": "Saint-Gildas-de-Rhuys",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46035,
+        "name": "Saint-Gilles",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46040,
+        "name": "Saint-Gonnery",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46042,
+        "name": "Saint-Grégoire",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46073,
+        "name": "Saint-Hélen",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46075,
+        "name": "Saint-Jacques-de-la-Lande",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46077,
+        "name": "Saint-Jacut-les-Pins",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46084,
+        "name": "Saint-Jean-Brévelay",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46115,
+        "name": "Saint-Jean-la-Poterie",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46119,
+        "name": "Saint-Jean-sur-Couesnon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46131,
+        "name": "Saint-Jouan-des-Guérets",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46135,
+        "name": "Saint-Julien",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46152,
+        "name": "Saint-Just",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46205,
+        "name": "Saint-Lunaire",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46229,
+        "name": "Saint-Malo",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46240,
+        "name": "Saint-Marc-le-Blanc",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46284,
+        "name": "Saint-Martin-des-Champs",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46304,
+        "name": "Saint-Martin-sur-Oust",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46351,
+        "name": "Saint-Médard-sur-Ille",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46352,
+        "name": "Saint-Méen-le-Grand",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46353,
+        "name": "Saint-Méloir-des-Ondes",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46368,
+        "name": "Saint-Nicolas-du-Pélem",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46371,
+        "name": "Saint-Nolff",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46380,
+        "name": "Saint-Ouen-des-Alleux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46386,
+        "name": "Saint-Pabu",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46477,
+        "name": "Saint-Père",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46422,
+        "name": "Saint-Perreux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46426,
+        "name": "Saint-Philibert",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46433,
+        "name": "Saint-Pierre-de-Plesguen",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46430,
+        "name": "Saint-Pierre-Quiberon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46455,
+        "name": "Saint-Pol-de-Léon",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46483,
+        "name": "Saint-Quay-Perros",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46484,
+        "name": "Saint-Quay-Portrieux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46495,
+        "name": "Saint-Renan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46517,
+        "name": "Saint-Samson-sur-Rance",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46535,
+        "name": "Saint-Sauveur-des-Landes",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46547,
+        "name": "Saint-Senoux",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46565,
+        "name": "Saint-Sulpice-la-Forêt",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46584,
+        "name": "Saint-Thégonnec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46581,
+        "name": "Saint-Thonan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46582,
+        "name": "Saint-Thurial",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46583,
+        "name": "Saint-Thuriau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46591,
+        "name": "Saint-Urbain",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46618,
+        "name": "Saint-Vincent-sur-Oust",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46632,
+        "name": "Saint-Yvi",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46664,
+        "name": "Sainte-Anne-d'Auray",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46698,
+        "name": "Sainte-Hélène",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46707,
+        "name": "Sainte-Marie",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46797,
+        "name": "Santec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46824,
+        "name": "Sarzeau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46894,
+        "name": "Scaër",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47140,
+        "name": "Séné",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46946,
+        "name": "Sens-de-Bretagne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47142,
+        "name": "Sérent",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46974,
+        "name": "Servon-sur-Vilaine",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47148,
+        "name": "Sévignac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 46988,
+        "name": "Sibiril",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47011,
+        "name": "Sixt-sur-Aff",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47012,
+        "name": "Sizun",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47096,
+        "name": "Spézet",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47115,
+        "name": "Sulniac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47125,
+        "name": "Surzur",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47154,
+        "name": "Taden",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47163,
+        "name": "Talensac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47186,
+        "name": "Taulé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47187,
+        "name": "Taupont",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47195,
+        "name": "Telgruc-sur-Mer",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47221,
+        "name": "Theix",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47290,
+        "name": "Tinténiac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47298,
+        "name": "Tonquédec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47301,
+        "name": "Torcé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47390,
+        "name": "Trébeurden",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47391,
+        "name": "Trédarzec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47392,
+        "name": "Trédrez-Locquémeau",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47351,
+        "name": "Treffiagat",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47352,
+        "name": "Treffléan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47393,
+        "name": "Trégastel",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47394,
+        "name": "Tréguier",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47395,
+        "name": "Trégunc",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47400,
+        "name": "Trélévern",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47398,
+        "name": "Trélivan",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47357,
+        "name": "Tremblay",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47404,
+        "name": "Tréméven",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47403,
+        "name": "Trémuson",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47360,
+        "name": "Tresbœuf",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47409,
+        "name": "Trévé",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47407,
+        "name": "Trévou-Tréguignec",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47504,
+        "name": "Vannes",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47607,
+        "name": "Vern-sur-Seiche",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47657,
+        "name": "Vezin-le-Coquet",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47698,
+        "name": "Vignoc",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 47876,
+        "name": "Vitré",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 48006,
+        "name": "Yffiniac",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 48017,
+        "name": "Yvignac-la-Tour",
+        "country": "FRA",
+        "state": "BRE"
+    }
+]

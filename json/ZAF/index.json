@@ -1,1 +1,56 @@
-[{"id":0,"name":"Eastern Cape","iso3":"EC","country":"ZAF"},{"id":1,"name":"Free State","iso3":"FS","country":"ZAF"},{"id":2,"name":"Gauteng","iso3":"GP","country":"ZAF"},{"id":3,"name":"KwaZulu-Natal","iso3":"KZN","country":"ZAF"},{"id":4,"name":"Limpopo","iso3":"LP","country":"ZAF"},{"id":5,"name":"Mpumalanga","iso3":"MP","country":"ZAF"},{"id":6,"name":"North West","iso3":"NW","country":"ZAF"},{"id":7,"name":"Northern Cape","iso3":"NC","country":"ZAF"},{"id":8,"name":"Western Cape","iso3":"WC","country":"ZAF"}]
+[
+    {
+        "id": 938,
+        "name": "Eastern Cape",
+        "country": "ZAF",
+        "state": "EC"
+    },
+    {
+        "id": 932,
+        "name": "Free State",
+        "country": "ZAF",
+        "state": "FS"
+    },
+    {
+        "id": 936,
+        "name": "Gauteng",
+        "country": "ZAF",
+        "state": "GP"
+    },
+    {
+        "id": 935,
+        "name": "KwaZulu-Natal",
+        "country": "ZAF",
+        "state": "KZN"
+    },
+    {
+        "id": 933,
+        "name": "Limpopo",
+        "country": "ZAF",
+        "state": "LP"
+    },
+    {
+        "id": 937,
+        "name": "Mpumalanga",
+        "country": "ZAF",
+        "state": "MP"
+    },
+    {
+        "id": 934,
+        "name": "North West",
+        "country": "ZAF",
+        "state": "NW"
+    },
+    {
+        "id": 931,
+        "name": "Northern Cape",
+        "country": "ZAF",
+        "state": "NC"
+    },
+    {
+        "id": 939,
+        "name": "Western Cape",
+        "country": "ZAF",
+        "state": "WC"
+    }
+]

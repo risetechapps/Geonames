@@ -1,1 +1,212 @@
-[{"id":0,"name":"Bokino","country":"RUS","state":"TAM"},{"id":1,"name":"Bondarskiy Rayon","country":"RUS","state":"TAM"},{"id":2,"name":"Donskoye","country":"RUS","state":"TAM"},{"id":3,"name":"Gavrilovka Vtoraya","country":"RUS","state":"TAM"},{"id":4,"name":"Goreloye","country":"RUS","state":"TAM"},{"id":5,"name":"Inzhavino","country":"RUS","state":"TAM"},{"id":6,"name":"Kirsanov","country":"RUS","state":"TAM"},{"id":7,"name":"Kirsanovskiy Rayon","country":"RUS","state":"TAM"},{"id":8,"name":"Komsomolets","country":"RUS","state":"TAM"},{"id":9,"name":"Kotovsk","country":"RUS","state":"TAM"},{"id":10,"name":"Michurinsk","country":"RUS","state":"TAM"},{"id":11,"name":"Mordovo","country":"RUS","state":"TAM"},{"id":12,"name":"Morshansk","country":"RUS","state":"TAM"},{"id":13,"name":"Muchkapskiy","country":"RUS","state":"TAM"},{"id":14,"name":"Novaya Lyada","country":"RUS","state":"TAM"},{"id":15,"name":"Novopokrovka","country":"RUS","state":"TAM"},{"id":16,"name":"Pervomayskiy","country":"RUS","state":"TAM"},{"id":17,"name":"Pichayevo","country":"RUS","state":"TAM"},{"id":18,"name":"Platonovka","country":"RUS","state":"TAM"},{"id":19,"name":"Pokrovo-Prigorodnoye","country":"RUS","state":"TAM"},{"id":20,"name":"Rasskazovo","country":"RUS","state":"TAM"},{"id":21,"name":"Rasskazovskiy Rayon","country":"RUS","state":"TAM"},{"id":22,"name":"Rzhaksa","country":"RUS","state":"TAM"},{"id":23,"name":"Sampurskiy Rayon","country":"RUS","state":"TAM"},{"id":24,"name":"Satinka","country":"RUS","state":"TAM"},{"id":25,"name":"Selezni","country":"RUS","state":"TAM"},{"id":26,"name":"Sosnovka","country":"RUS","state":"TAM"},{"id":27,"name":"Staroyur\u2019yevo","country":"RUS","state":"TAM"},{"id":28,"name":"Tambov","country":"RUS","state":"TAM"},{"id":29,"name":"Tokarevskiy Rayon","country":"RUS","state":"TAM"},{"id":30,"name":"Uvarovo","country":"RUS","state":"TAM"},{"id":31,"name":"Zavoronezhskoye","country":"RUS","state":"TAM"},{"id":32,"name":"Zherdevka","country":"RUS","state":"TAM"},{"id":33,"name":"Znamenka","country":"RUS","state":"TAM"},{"id":34,"name":"Znamenskiy Rayon","country":"RUS","state":"TAM"}]
+[
+    {
+        "id": 97984,
+        "name": "Bokino",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 98018,
+        "name": "Bondarskiy Rayon",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 98314,
+        "name": "Donskoye",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 98464,
+        "name": "Gavrilovka Vtoraya",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 98524,
+        "name": "Goreloye",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 98683,
+        "name": "Inzhavino",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 99074,
+        "name": "Kirsanov",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 99075,
+        "name": "Kirsanovskiy Rayon",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 99170,
+        "name": "Komsomolets",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 99250,
+        "name": "Kotovsk",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 99892,
+        "name": "Michurinsk",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 99961,
+        "name": "Mordovo",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 99967,
+        "name": "Morshansk",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 99993,
+        "name": "Muchkapskiy",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 100205,
+        "name": "Novaya Lyada",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 100284,
+        "name": "Novopokrovka",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 100618,
+        "name": "Pervomayskiy",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 100670,
+        "name": "Pichayevo",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 100698,
+        "name": "Platonovka",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 100744,
+        "name": "Pokrovo-Prigorodnoye",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 100942,
+        "name": "Rasskazovo",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 100943,
+        "name": "Rasskazovskiy Rayon",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 101057,
+        "name": "Rzhaksa",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 101092,
+        "name": "Sampurskiy Rayon",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 101130,
+        "name": "Satinka",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 101153,
+        "name": "Selezni",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 101488,
+        "name": "Sosnovka",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 101602,
+        "name": "Staroyur’yevo",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 101761,
+        "name": "Tambov",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 101873,
+        "name": "Tokarevskiy Rayon",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 102155,
+        "name": "Uvarovo",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 102681,
+        "name": "Zavoronezhskoye",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 102725,
+        "name": "Zherdevka",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 102756,
+        "name": "Znamenka",
+        "country": "RUS",
+        "state": "TAM"
+    },
+    {
+        "id": 102760,
+        "name": "Znamenskiy Rayon",
+        "country": "RUS",
+        "state": "TAM"
+    }
+]

@@ -1,1 +1,2330 @@
-[{"id":0,"name":"Adair County","country":"USA","state":"KY"},{"id":1,"name":"Albany","country":"USA","state":"KY"},{"id":2,"name":"Alexandria","country":"USA","state":"KY"},{"id":3,"name":"Allen County","country":"USA","state":"KY"},{"id":4,"name":"Anchorage","country":"USA","state":"KY"},{"id":5,"name":"Anderson County","country":"USA","state":"KY"},{"id":6,"name":"Annville","country":"USA","state":"KY"},{"id":7,"name":"Ashland","country":"USA","state":"KY"},{"id":8,"name":"Auburn","country":"USA","state":"KY"},{"id":9,"name":"Audubon Park","country":"USA","state":"KY"},{"id":10,"name":"Augusta","country":"USA","state":"KY"},{"id":11,"name":"Ballard County","country":"USA","state":"KY"},{"id":12,"name":"Barbourmeade","country":"USA","state":"KY"},{"id":13,"name":"Barbourville","country":"USA","state":"KY"},{"id":14,"name":"Bardstown","country":"USA","state":"KY"},{"id":15,"name":"Bardwell","country":"USA","state":"KY"},{"id":16,"name":"Barren County","country":"USA","state":"KY"},{"id":17,"name":"Bath County","country":"USA","state":"KY"},{"id":18,"name":"Beattyville","country":"USA","state":"KY"},{"id":19,"name":"Beaver Dam","country":"USA","state":"KY"},{"id":20,"name":"Bedford","country":"USA","state":"KY"},{"id":21,"name":"Beechwood Village","country":"USA","state":"KY"},{"id":22,"name":"Bell County","country":"USA","state":"KY"},{"id":23,"name":"Bellevue","country":"USA","state":"KY"},{"id":24,"name":"Benton","country":"USA","state":"KY"},{"id":25,"name":"Berea","country":"USA","state":"KY"},{"id":26,"name":"Bloomfield","country":"USA","state":"KY"},{"id":27,"name":"Boone County","country":"USA","state":"KY"},{"id":28,"name":"Booneville","country":"USA","state":"KY"},{"id":29,"name":"Bourbon County","country":"USA","state":"KY"},{"id":30,"name":"Bowling Green","country":"USA","state":"KY"},{"id":31,"name":"Boyd County","country":"USA","state":"KY"},{"id":32,"name":"Boyle County","country":"USA","state":"KY"},{"id":33,"name":"Bracken County","country":"USA","state":"KY"},{"id":34,"name":"Brandenburg","country":"USA","state":"KY"},{"id":35,"name":"Breathitt County","country":"USA","state":"KY"},{"id":36,"name":"Breckinridge Center","country":"USA","state":"KY"},{"id":37,"name":"Breckinridge County","country":"USA","state":"KY"},{"id":38,"name":"Brodhead","country":"USA","state":"KY"},{"id":39,"name":"Brooks","country":"USA","state":"KY"},{"id":40,"name":"Brooksville","country":"USA","state":"KY"},{"id":41,"name":"Brownsville","country":"USA","state":"KY"},{"id":42,"name":"Buckner","country":"USA","state":"KY"},{"id":43,"name":"Buechel","country":"USA","state":"KY"},{"id":44,"name":"Bullitt County","country":"USA","state":"KY"},{"id":45,"name":"Burkesville","country":"USA","state":"KY"},{"id":46,"name":"Burlington","country":"USA","state":"KY"},{"id":47,"name":"Butler County","country":"USA","state":"KY"},{"id":48,"name":"Cadiz","country":"USA","state":"KY"},{"id":49,"name":"Caldwell County","country":"USA","state":"KY"},{"id":50,"name":"Calhoun","country":"USA","state":"KY"},{"id":51,"name":"Calloway County","country":"USA","state":"KY"},{"id":52,"name":"Calvert City","country":"USA","state":"KY"},{"id":53,"name":"Camargo","country":"USA","state":"KY"},{"id":54,"name":"Campbell County","country":"USA","state":"KY"},{"id":55,"name":"Campbellsville","country":"USA","state":"KY"},{"id":56,"name":"Campton","country":"USA","state":"KY"},{"id":57,"name":"Carlisle","country":"USA","state":"KY"},{"id":58,"name":"Carlisle County","country":"USA","state":"KY"},{"id":59,"name":"Carroll County","country":"USA","state":"KY"},{"id":60,"name":"Carrollton","country":"USA","state":"KY"},{"id":61,"name":"Carter County","country":"USA","state":"KY"},{"id":62,"name":"Casey County","country":"USA","state":"KY"},{"id":63,"name":"Catlettsburg","country":"USA","state":"KY"},{"id":64,"name":"Cave City","country":"USA","state":"KY"},{"id":65,"name":"Central City","country":"USA","state":"KY"},{"id":66,"name":"Christian County","country":"USA","state":"KY"},{"id":67,"name":"Clark County","country":"USA","state":"KY"},{"id":68,"name":"Claryville","country":"USA","state":"KY"},{"id":69,"name":"Clay","country":"USA","state":"KY"},{"id":70,"name":"Clay City","country":"USA","state":"KY"},{"id":71,"name":"Clay County","country":"USA","state":"KY"},{"id":72,"name":"Clinton","country":"USA","state":"KY"},{"id":73,"name":"Clinton County","country":"USA","state":"KY"},{"id":74,"name":"Cloverport","country":"USA","state":"KY"},{"id":75,"name":"Coal Run Village","country":"USA","state":"KY"},{"id":76,"name":"Cold Spring","country":"USA","state":"KY"},{"id":77,"name":"Coldstream","country":"USA","state":"KY"},{"id":78,"name":"Columbia","country":"USA","state":"KY"},{"id":79,"name":"Corbin","country":"USA","state":"KY"},{"id":80,"name":"Covington","country":"USA","state":"KY"},{"id":81,"name":"Crescent Springs","country":"USA","state":"KY"},{"id":82,"name":"Crestview Hills","country":"USA","state":"KY"},{"id":83,"name":"Crestwood","country":"USA","state":"KY"},{"id":84,"name":"Crittenden","country":"USA","state":"KY"},{"id":85,"name":"Crittenden County","country":"USA","state":"KY"},{"id":86,"name":"Cumberland","country":"USA","state":"KY"},{"id":87,"name":"Cumberland County","country":"USA","state":"KY"},{"id":88,"name":"Cynthiana","country":"USA","state":"KY"},{"id":89,"name":"Danville","country":"USA","state":"KY"},{"id":90,"name":"Daviess County","country":"USA","state":"KY"},{"id":91,"name":"Dawson Springs","country":"USA","state":"KY"},{"id":92,"name":"Dayton","country":"USA","state":"KY"},{"id":93,"name":"Dixon","country":"USA","state":"KY"},{"id":94,"name":"Doe Valley","country":"USA","state":"KY"},{"id":95,"name":"Douglass Hills","country":"USA","state":"KY"},{"id":96,"name":"Dry Ridge","country":"USA","state":"KY"},{"id":97,"name":"Earlington","country":"USA","state":"KY"},{"id":98,"name":"Eddyville","country":"USA","state":"KY"},{"id":99,"name":"Edgewood","country":"USA","state":"KY"},{"id":100,"name":"Edmonson County","country":"USA","state":"KY"},{"id":101,"name":"Edmonton","country":"USA","state":"KY"},{"id":102,"name":"Elizabethtown","country":"USA","state":"KY"},{"id":103,"name":"Elk Creek","country":"USA","state":"KY"},{"id":104,"name":"Elkfork","country":"USA","state":"KY"},{"id":105,"name":"Elkton","country":"USA","state":"KY"},{"id":106,"name":"Elliott County","country":"USA","state":"KY"},{"id":107,"name":"Elsmere","country":"USA","state":"KY"},{"id":108,"name":"Eminence","country":"USA","state":"KY"},{"id":109,"name":"Erlanger","country":"USA","state":"KY"},{"id":110,"name":"Estill County","country":"USA","state":"KY"},{"id":111,"name":"Fairdale","country":"USA","state":"KY"},{"id":112,"name":"Falmouth","country":"USA","state":"KY"},{"id":113,"name":"Farley","country":"USA","state":"KY"},{"id":114,"name":"Fayette County","country":"USA","state":"KY"},{"id":115,"name":"Fern Creek","country":"USA","state":"KY"},{"id":116,"name":"Flatwoods","country":"USA","state":"KY"},{"id":117,"name":"Fleming County","country":"USA","state":"KY"},{"id":118,"name":"Flemingsburg","country":"USA","state":"KY"},{"id":119,"name":"Florence","country":"USA","state":"KY"},{"id":120,"name":"Floyd County","country":"USA","state":"KY"},{"id":121,"name":"Fort Campbell North","country":"USA","state":"KY"},{"id":122,"name":"Fort Knox","country":"USA","state":"KY"},{"id":123,"name":"Fort Mitchell","country":"USA","state":"KY"},{"id":124,"name":"Fort Thomas","country":"USA","state":"KY"},{"id":125,"name":"Fort Wright","country":"USA","state":"KY"},{"id":126,"name":"Francisville","country":"USA","state":"KY"},{"id":127,"name":"Frankfort","country":"USA","state":"KY"},{"id":128,"name":"Franklin","country":"USA","state":"KY"},{"id":129,"name":"Franklin County","country":"USA","state":"KY"},{"id":130,"name":"Frenchburg","country":"USA","state":"KY"},{"id":131,"name":"Fulton","country":"USA","state":"KY"},{"id":132,"name":"Fulton County","country":"USA","state":"KY"},{"id":133,"name":"Gallatin County","country":"USA","state":"KY"},{"id":134,"name":"Garrard County","country":"USA","state":"KY"},{"id":135,"name":"Georgetown","country":"USA","state":"KY"},{"id":136,"name":"Glasgow","country":"USA","state":"KY"},{"id":137,"name":"Grant County","country":"USA","state":"KY"},{"id":138,"name":"Graves County","country":"USA","state":"KY"},{"id":139,"name":"Graymoor-Devondale","country":"USA","state":"KY"},{"id":140,"name":"Grayson","country":"USA","state":"KY"},{"id":141,"name":"Grayson County","country":"USA","state":"KY"},{"id":142,"name":"Green County","country":"USA","state":"KY"},{"id":143,"name":"Greensburg","country":"USA","state":"KY"},{"id":144,"name":"Greenup","country":"USA","state":"KY"},{"id":145,"name":"Greenup County","country":"USA","state":"KY"},{"id":146,"name":"Greenville","country":"USA","state":"KY"},{"id":147,"name":"Guthrie","country":"USA","state":"KY"},{"id":148,"name":"Hancock County","country":"USA","state":"KY"},{"id":149,"name":"Hardin County","country":"USA","state":"KY"},{"id":150,"name":"Hardinsburg","country":"USA","state":"KY"},{"id":151,"name":"Harlan","country":"USA","state":"KY"},{"id":152,"name":"Harlan County","country":"USA","state":"KY"},{"id":153,"name":"Harrison County","country":"USA","state":"KY"},{"id":154,"name":"Harrodsburg","country":"USA","state":"KY"},{"id":155,"name":"Hart County","country":"USA","state":"KY"},{"id":156,"name":"Hartford","country":"USA","state":"KY"},{"id":157,"name":"Hawesville","country":"USA","state":"KY"},{"id":158,"name":"Hazard","country":"USA","state":"KY"},{"id":159,"name":"Hebron","country":"USA","state":"KY"},{"id":160,"name":"Hebron Estates","country":"USA","state":"KY"},{"id":161,"name":"Henderson","country":"USA","state":"KY"},{"id":162,"name":"Henderson County","country":"USA","state":"KY"},{"id":163,"name":"Hendron","country":"USA","state":"KY"},{"id":164,"name":"Henry County","country":"USA","state":"KY"},{"id":165,"name":"Heritage Creek","country":"USA","state":"KY"},{"id":166,"name":"Hickman","country":"USA","state":"KY"},{"id":167,"name":"Hickman County","country":"USA","state":"KY"},{"id":168,"name":"Highland Heights","country":"USA","state":"KY"},{"id":169,"name":"Highview","country":"USA","state":"KY"},{"id":170,"name":"Hillview","country":"USA","state":"KY"},{"id":171,"name":"Hindman","country":"USA","state":"KY"},{"id":172,"name":"Hodgenville","country":"USA","state":"KY"},{"id":173,"name":"Hopkins County","country":"USA","state":"KY"},{"id":174,"name":"Hopkinsville","country":"USA","state":"KY"},{"id":175,"name":"Horse Cave","country":"USA","state":"KY"},{"id":176,"name":"Hurstbourne","country":"USA","state":"KY"},{"id":177,"name":"Hurstbourne Acres","country":"USA","state":"KY"},{"id":178,"name":"Hyden","country":"USA","state":"KY"},{"id":179,"name":"Independence","country":"USA","state":"KY"},{"id":180,"name":"Indian Hills","country":"USA","state":"KY"},{"id":181,"name":"Indian Hills Cherokee Section","country":"USA","state":"KY"},{"id":182,"name":"Inez","country":"USA","state":"KY"},{"id":183,"name":"Ironville","country":"USA","state":"KY"},{"id":184,"name":"Irvine","country":"USA","state":"KY"},{"id":185,"name":"Irvington","country":"USA","state":"KY"},{"id":186,"name":"Jackson","country":"USA","state":"KY"},{"id":187,"name":"Jackson County","country":"USA","state":"KY"},{"id":188,"name":"Jamestown","country":"USA","state":"KY"},{"id":189,"name":"Jefferson County","country":"USA","state":"KY"},{"id":190,"name":"Jeffersontown","country":"USA","state":"KY"},{"id":191,"name":"Jeffersonville","country":"USA","state":"KY"},{"id":192,"name":"Jenkins","country":"USA","state":"KY"},{"id":193,"name":"Jessamine County","country":"USA","state":"KY"},{"id":194,"name":"Johnson County","country":"USA","state":"KY"},{"id":195,"name":"Junction City","country":"USA","state":"KY"},{"id":196,"name":"Kenton County","country":"USA","state":"KY"},{"id":197,"name":"Knott County","country":"USA","state":"KY"},{"id":198,"name":"Knottsville","country":"USA","state":"KY"},{"id":199,"name":"Knox County","country":"USA","state":"KY"},{"id":200,"name":"La Center","country":"USA","state":"KY"},{"id":201,"name":"La Grange","country":"USA","state":"KY"},{"id":202,"name":"Lakeside Park","country":"USA","state":"KY"},{"id":203,"name":"Lancaster","country":"USA","state":"KY"},{"id":204,"name":"Larue County","country":"USA","state":"KY"},{"id":205,"name":"Laurel County","country":"USA","state":"KY"},{"id":206,"name":"Lawrence County","country":"USA","state":"KY"},{"id":207,"name":"Lawrenceburg","country":"USA","state":"KY"},{"id":208,"name":"Lebanon","country":"USA","state":"KY"},{"id":209,"name":"Lebanon Junction","country":"USA","state":"KY"},{"id":210,"name":"Ledbetter","country":"USA","state":"KY"},{"id":211,"name":"Lee County","country":"USA","state":"KY"},{"id":212,"name":"Leitchfield","country":"USA","state":"KY"},{"id":213,"name":"Leslie County","country":"USA","state":"KY"},{"id":214,"name":"Letcher County","country":"USA","state":"KY"},{"id":215,"name":"Lewis County","country":"USA","state":"KY"},{"id":216,"name":"Lewisport","country":"USA","state":"KY"},{"id":217,"name":"Lexington","country":"USA","state":"KY"},{"id":218,"name":"Lexington-Fayette","country":"USA","state":"KY"},{"id":219,"name":"Liberty","country":"USA","state":"KY"},{"id":220,"name":"Lincoln County","country":"USA","state":"KY"},{"id":221,"name":"Livermore","country":"USA","state":"KY"},{"id":222,"name":"Livingston County","country":"USA","state":"KY"},{"id":223,"name":"Logan County","country":"USA","state":"KY"},{"id":224,"name":"London","country":"USA","state":"KY"},{"id":225,"name":"Louisa","country":"USA","state":"KY"},{"id":226,"name":"Louisville","country":"USA","state":"KY"},{"id":227,"name":"Ludlow","country":"USA","state":"KY"},{"id":228,"name":"Lyndon","country":"USA","state":"KY"},{"id":229,"name":"Lyon County","country":"USA","state":"KY"},{"id":230,"name":"Madison County","country":"USA","state":"KY"},{"id":231,"name":"Madisonville","country":"USA","state":"KY"},{"id":232,"name":"Magoffin County","country":"USA","state":"KY"},{"id":233,"name":"Manchester","country":"USA","state":"KY"},{"id":234,"name":"Marion","country":"USA","state":"KY"},{"id":235,"name":"Marion County","country":"USA","state":"KY"},{"id":236,"name":"Marshall County","country":"USA","state":"KY"},{"id":237,"name":"Martin County","country":"USA","state":"KY"},{"id":238,"name":"Mason County","country":"USA","state":"KY"},{"id":239,"name":"Masonville","country":"USA","state":"KY"},{"id":240,"name":"Massac","country":"USA","state":"KY"},{"id":241,"name":"Mayfield","country":"USA","state":"KY"},{"id":242,"name":"Maysville","country":"USA","state":"KY"},{"id":243,"name":"McCracken County","country":"USA","state":"KY"},{"id":244,"name":"McCreary County","country":"USA","state":"KY"},{"id":245,"name":"McKee","country":"USA","state":"KY"},{"id":246,"name":"McLean County","country":"USA","state":"KY"},{"id":247,"name":"Meade County","country":"USA","state":"KY"},{"id":248,"name":"Meads","country":"USA","state":"KY"},{"id":249,"name":"Menifee County","country":"USA","state":"KY"},{"id":250,"name":"Mercer County","country":"USA","state":"KY"},{"id":251,"name":"Metcalfe County","country":"USA","state":"KY"},{"id":252,"name":"Middlesboro","country":"USA","state":"KY"},{"id":253,"name":"Middletown","country":"USA","state":"KY"},{"id":254,"name":"Midway","country":"USA","state":"KY"},{"id":255,"name":"Monroe County","country":"USA","state":"KY"},{"id":256,"name":"Montgomery County","country":"USA","state":"KY"},{"id":257,"name":"Monticello","country":"USA","state":"KY"},{"id":258,"name":"Morehead","country":"USA","state":"KY"},{"id":259,"name":"Morgan County","country":"USA","state":"KY"},{"id":260,"name":"Morganfield","country":"USA","state":"KY"},{"id":261,"name":"Morgantown","country":"USA","state":"KY"},{"id":262,"name":"Mount Olivet","country":"USA","state":"KY"},{"id":263,"name":"Mount Sterling","country":"USA","state":"KY"},{"id":264,"name":"Mount Vernon","country":"USA","state":"KY"},{"id":265,"name":"Mount Washington","country":"USA","state":"KY"},{"id":266,"name":"Muhlenberg County","country":"USA","state":"KY"},{"id":267,"name":"Munfordville","country":"USA","state":"KY"},{"id":268,"name":"Murray","country":"USA","state":"KY"},{"id":269,"name":"Nelson County","country":"USA","state":"KY"},{"id":270,"name":"New Castle","country":"USA","state":"KY"},{"id":271,"name":"Newburg","country":"USA","state":"KY"},{"id":272,"name":"Newport","country":"USA","state":"KY"},{"id":273,"name":"Nicholas County","country":"USA","state":"KY"},{"id":274,"name":"Nicholasville","country":"USA","state":"KY"},{"id":275,"name":"North Corbin","country":"USA","state":"KY"},{"id":276,"name":"Northfield","country":"USA","state":"KY"},{"id":277,"name":"Nortonville","country":"USA","state":"KY"},{"id":278,"name":"Oak Grove","country":"USA","state":"KY"},{"id":279,"name":"Oakbrook","country":"USA","state":"KY"},{"id":280,"name":"Ohio County","country":"USA","state":"KY"},{"id":281,"name":"Okolona","country":"USA","state":"KY"},{"id":282,"name":"Oldham County","country":"USA","state":"KY"},{"id":283,"name":"Olive Hill","country":"USA","state":"KY"},{"id":284,"name":"Orchard Grass Hills","country":"USA","state":"KY"},{"id":285,"name":"Owen County","country":"USA","state":"KY"},{"id":286,"name":"Owensboro","country":"USA","state":"KY"},{"id":287,"name":"Owenton","country":"USA","state":"KY"},{"id":288,"name":"Owingsville","country":"USA","state":"KY"},{"id":289,"name":"Owsley County","country":"USA","state":"KY"},{"id":290,"name":"Paducah","country":"USA","state":"KY"},{"id":291,"name":"Paintsville","country":"USA","state":"KY"},{"id":292,"name":"Paris","country":"USA","state":"KY"},{"id":293,"name":"Park Hills","country":"USA","state":"KY"},{"id":294,"name":"Pendleton County","country":"USA","state":"KY"},{"id":295,"name":"Perry County","country":"USA","state":"KY"},{"id":296,"name":"Pewee Valley","country":"USA","state":"KY"},{"id":297,"name":"Pike County","country":"USA","state":"KY"},{"id":298,"name":"Pikeville","country":"USA","state":"KY"},{"id":299,"name":"Pine Knot","country":"USA","state":"KY"},{"id":300,"name":"Pineville","country":"USA","state":"KY"},{"id":301,"name":"Pioneer Village","country":"USA","state":"KY"},{"id":302,"name":"Plano","country":"USA","state":"KY"},{"id":303,"name":"Pleasure Ridge Park","country":"USA","state":"KY"},{"id":304,"name":"Powell County","country":"USA","state":"KY"},{"id":305,"name":"Prestonsburg","country":"USA","state":"KY"},{"id":306,"name":"Princeton","country":"USA","state":"KY"},{"id":307,"name":"Prospect","country":"USA","state":"KY"},{"id":308,"name":"Providence","country":"USA","state":"KY"},{"id":309,"name":"Pulaski County","country":"USA","state":"KY"},{"id":310,"name":"Raceland","country":"USA","state":"KY"},{"id":311,"name":"Radcliff","country":"USA","state":"KY"},{"id":312,"name":"Reidland","country":"USA","state":"KY"},{"id":313,"name":"Richmond","country":"USA","state":"KY"},{"id":314,"name":"Robertson County","country":"USA","state":"KY"},{"id":315,"name":"Rockcastle County","country":"USA","state":"KY"},{"id":316,"name":"Rowan County","country":"USA","state":"KY"},{"id":317,"name":"Russell","country":"USA","state":"KY"},{"id":318,"name":"Russell County","country":"USA","state":"KY"},{"id":319,"name":"Russell Springs","country":"USA","state":"KY"},{"id":320,"name":"Russellville","country":"USA","state":"KY"},{"id":321,"name":"Ryland Heights","country":"USA","state":"KY"},{"id":322,"name":"Saint Dennis","country":"USA","state":"KY"},{"id":323,"name":"Saint Matthews","country":"USA","state":"KY"},{"id":324,"name":"Saint Regis Park","country":"USA","state":"KY"},{"id":325,"name":"Salyersville","country":"USA","state":"KY"},{"id":326,"name":"Sandy Hook","country":"USA","state":"KY"},{"id":327,"name":"Scott County","country":"USA","state":"KY"},{"id":328,"name":"Scottsville","country":"USA","state":"KY"},{"id":329,"name":"Sebree","country":"USA","state":"KY"},{"id":330,"name":"Shelby County","country":"USA","state":"KY"},{"id":331,"name":"Shelbyville","country":"USA","state":"KY"},{"id":332,"name":"Shepherdsville","country":"USA","state":"KY"},{"id":333,"name":"Shively","country":"USA","state":"KY"},{"id":334,"name":"Silver Grove","country":"USA","state":"KY"},{"id":335,"name":"Simpson County","country":"USA","state":"KY"},{"id":336,"name":"Simpsonville","country":"USA","state":"KY"},{"id":337,"name":"Smithland","country":"USA","state":"KY"},{"id":338,"name":"Somerset","country":"USA","state":"KY"},{"id":339,"name":"South Shore","country":"USA","state":"KY"},{"id":340,"name":"Southgate","country":"USA","state":"KY"},{"id":341,"name":"Spencer County","country":"USA","state":"KY"},{"id":342,"name":"Springfield","country":"USA","state":"KY"},{"id":343,"name":"Stanford","country":"USA","state":"KY"},{"id":344,"name":"Stanton","country":"USA","state":"KY"},{"id":345,"name":"Stearns","country":"USA","state":"KY"},{"id":346,"name":"Sturgis","country":"USA","state":"KY"},{"id":347,"name":"Taylor County","country":"USA","state":"KY"},{"id":348,"name":"Taylor Mill","country":"USA","state":"KY"},{"id":349,"name":"Taylorsville","country":"USA","state":"KY"},{"id":350,"name":"Todd County","country":"USA","state":"KY"},{"id":351,"name":"Tompkinsville","country":"USA","state":"KY"},{"id":352,"name":"Trigg County","country":"USA","state":"KY"},{"id":353,"name":"Trimble County","country":"USA","state":"KY"},{"id":354,"name":"Union","country":"USA","state":"KY"},{"id":355,"name":"Union County","country":"USA","state":"KY"},{"id":356,"name":"Valley Station","country":"USA","state":"KY"},{"id":357,"name":"Van Lear","country":"USA","state":"KY"},{"id":358,"name":"Vanceburg","country":"USA","state":"KY"},{"id":359,"name":"Verona","country":"USA","state":"KY"},{"id":360,"name":"Versailles","country":"USA","state":"KY"},{"id":361,"name":"Villa Hills","country":"USA","state":"KY"},{"id":362,"name":"Vine Grove","country":"USA","state":"KY"},{"id":363,"name":"Walton","country":"USA","state":"KY"},{"id":364,"name":"Warren County","country":"USA","state":"KY"},{"id":365,"name":"Warsaw","country":"USA","state":"KY"},{"id":366,"name":"Washington County","country":"USA","state":"KY"},{"id":367,"name":"Watterson Park","country":"USA","state":"KY"},{"id":368,"name":"Wayne County","country":"USA","state":"KY"},{"id":369,"name":"Webster County","country":"USA","state":"KY"},{"id":370,"name":"West Buechel","country":"USA","state":"KY"},{"id":371,"name":"West Liberty","country":"USA","state":"KY"},{"id":372,"name":"Westwood","country":"USA","state":"KY"},{"id":373,"name":"Whitesburg","country":"USA","state":"KY"},{"id":374,"name":"Whitley City","country":"USA","state":"KY"},{"id":375,"name":"Whitley County","country":"USA","state":"KY"},{"id":376,"name":"Wickliffe","country":"USA","state":"KY"},{"id":377,"name":"Wilder","country":"USA","state":"KY"},{"id":378,"name":"Williamsburg","country":"USA","state":"KY"},{"id":379,"name":"Williamstown","country":"USA","state":"KY"},{"id":380,"name":"Wilmore","country":"USA","state":"KY"},{"id":381,"name":"Winchester","country":"USA","state":"KY"},{"id":382,"name":"Windy Hills","country":"USA","state":"KY"},{"id":383,"name":"Wolfe County","country":"USA","state":"KY"},{"id":384,"name":"Woodford County","country":"USA","state":"KY"},{"id":385,"name":"Worthington","country":"USA","state":"KY"},{"id":386,"name":"Worthington Hills","country":"USA","state":"KY"},{"id":387,"name":"Wurtland","country":"USA","state":"KY"}]
+[
+    {
+        "id": 111008,
+        "name": "Adair County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111102,
+        "name": "Albany",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111149,
+        "name": "Alexandria",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111189,
+        "name": "Allen County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111304,
+        "name": "Anchorage",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111316,
+        "name": "Anderson County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111356,
+        "name": "Annville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111526,
+        "name": "Ashland",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111620,
+        "name": "Auburn",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111642,
+        "name": "Audubon Park",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111648,
+        "name": "Augusta",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111771,
+        "name": "Ballard County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111816,
+        "name": "Barbourmeade",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111818,
+        "name": "Barbourville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111820,
+        "name": "Bardstown",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111821,
+        "name": "Bardwell",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111843,
+        "name": "Barren County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111901,
+        "name": "Bath County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 111984,
+        "name": "Beattyville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112000,
+        "name": "Beaver Dam",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112019,
+        "name": "Bedford",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112043,
+        "name": "Beechwood Village",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112068,
+        "name": "Bell County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112109,
+        "name": "Bellevue",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112192,
+        "name": "Benton",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112213,
+        "name": "Berea",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112433,
+        "name": "Bloomfield",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112554,
+        "name": "Boone County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112563,
+        "name": "Booneville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112614,
+        "name": "Bourbon County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112628,
+        "name": "Bowling Green",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112642,
+        "name": "Boyd County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112648,
+        "name": "Boyle County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112655,
+        "name": "Bracken County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112686,
+        "name": "Brandenburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112708,
+        "name": "Breathitt County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112715,
+        "name": "Breckinridge Center",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112716,
+        "name": "Breckinridge County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112837,
+        "name": "Brodhead",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112881,
+        "name": "Brooks",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112891,
+        "name": "Brooksville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112929,
+        "name": "Brownsville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112989,
+        "name": "Buckner",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 112996,
+        "name": "Buechel",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113032,
+        "name": "Bullitt County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113059,
+        "name": "Burkesville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113067,
+        "name": "Burlington",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113116,
+        "name": "Butler County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113165,
+        "name": "Cadiz",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113183,
+        "name": "Caldwell County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113198,
+        "name": "Calhoun",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113227,
+        "name": "Calloway County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113234,
+        "name": "Calvert City",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113241,
+        "name": "Camargo",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113300,
+        "name": "Campbell County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113305,
+        "name": "Campbellsville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113310,
+        "name": "Campton",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113402,
+        "name": "Carlisle",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113406,
+        "name": "Carlisle County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113452,
+        "name": "Carroll County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113466,
+        "name": "Carrollton",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113480,
+        "name": "Carter County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113520,
+        "name": "Casey County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113572,
+        "name": "Catlettsburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113584,
+        "name": "Cave City",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113666,
+        "name": "Central City",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 113996,
+        "name": "Christian County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114125,
+        "name": "Clark County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114159,
+        "name": "Claryville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114166,
+        "name": "Clay",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114172,
+        "name": "Clay City",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114180,
+        "name": "Clay County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114269,
+        "name": "Clinton",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114290,
+        "name": "Clinton County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114314,
+        "name": "Cloverport",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114332,
+        "name": "Coal Run Village",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114385,
+        "name": "Cold Spring",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114391,
+        "name": "Coldstream",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114464,
+        "name": "Columbia",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114631,
+        "name": "Corbin",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114736,
+        "name": "Covington",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114797,
+        "name": "Crescent Springs",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114808,
+        "name": "Crestview Hills",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114809,
+        "name": "Crestwood",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114824,
+        "name": "Crittenden",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114826,
+        "name": "Crittenden County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114906,
+        "name": "Cumberland",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114913,
+        "name": "Cumberland County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 114952,
+        "name": "Cynthiana",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115033,
+        "name": "Danville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115070,
+        "name": "Daviess County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115087,
+        "name": "Dawson Springs",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115091,
+        "name": "Dayton",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115364,
+        "name": "Dixon",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115383,
+        "name": "Doe Valley",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115438,
+        "name": "Douglass Hills",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115483,
+        "name": "Dry Ridge",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115619,
+        "name": "Earlington",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115826,
+        "name": "Eddyville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115858,
+        "name": "Edgewood",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115879,
+        "name": "Edmonson County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115881,
+        "name": "Edmonton",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115978,
+        "name": "Elizabethtown",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115986,
+        "name": "Elk Creek",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 115996,
+        "name": "Elkfork",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116012,
+        "name": "Elkton",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116028,
+        "name": "Elliott County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116071,
+        "name": "Elsmere",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116099,
+        "name": "Eminence",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116172,
+        "name": "Erlanger",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116212,
+        "name": "Estill County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116299,
+        "name": "Fairdale",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116386,
+        "name": "Falmouth",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116400,
+        "name": "Farley",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116447,
+        "name": "Fayette County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116482,
+        "name": "Fern Creek",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116557,
+        "name": "Flatwoods",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116559,
+        "name": "Fleming County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116561,
+        "name": "Flemingsburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116578,
+        "name": "Florence",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116608,
+        "name": "Floyd County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116698,
+        "name": "Fort Campbell North",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116721,
+        "name": "Fort Knox",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116731,
+        "name": "Fort Mitchell",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116754,
+        "name": "Fort Thomas",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116765,
+        "name": "Fort Wright",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116815,
+        "name": "Francisville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116818,
+        "name": "Frankfort",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116825,
+        "name": "Franklin",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116850,
+        "name": "Franklin County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116933,
+        "name": "Frenchburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116985,
+        "name": "Fulton",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 116994,
+        "name": "Fulton County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117035,
+        "name": "Gallatin County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117096,
+        "name": "Garrard County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117157,
+        "name": "Georgetown",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117246,
+        "name": "Glasgow",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117509,
+        "name": "Grant County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117547,
+        "name": "Graves County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117557,
+        "name": "Graymoor-Devondale",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117561,
+        "name": "Grayson",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117562,
+        "name": "Grayson County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117592,
+        "name": "Green County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117668,
+        "name": "Greensburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117677,
+        "name": "Greenup",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117678,
+        "name": "Greenup County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117682,
+        "name": "Greenville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117811,
+        "name": "Guthrie",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 117952,
+        "name": "Hancock County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118000,
+        "name": "Hardin County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118006,
+        "name": "Hardinsburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118015,
+        "name": "Harlan",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118018,
+        "name": "Harlan County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118063,
+        "name": "Harrison County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118078,
+        "name": "Harrodsburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118083,
+        "name": "Hart County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118086,
+        "name": "Hartford",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118164,
+        "name": "Hawesville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118200,
+        "name": "Hazard",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118232,
+        "name": "Hebron",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118240,
+        "name": "Hebron Estates",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118274,
+        "name": "Henderson",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118280,
+        "name": "Henderson County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118288,
+        "name": "Hendron",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118300,
+        "name": "Henry County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118317,
+        "name": "Heritage Creek",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118361,
+        "name": "Hickman",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118363,
+        "name": "Hickman County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118406,
+        "name": "Highland Heights",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118425,
+        "name": "Highview",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118470,
+        "name": "Hillview",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118478,
+        "name": "Hindman",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118508,
+        "name": "Hodgenville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118653,
+        "name": "Hopkins County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118655,
+        "name": "Hopkinsville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118670,
+        "name": "Horse Cave",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118830,
+        "name": "Hurstbourne",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118831,
+        "name": "Hurstbourne Acres",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118854,
+        "name": "Hyden",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118890,
+        "name": "Independence",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118906,
+        "name": "Indian Hills",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118910,
+        "name": "Indian Hills Cherokee Section",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118931,
+        "name": "Inez",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 118998,
+        "name": "Ironville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119003,
+        "name": "Irvine",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119007,
+        "name": "Irvington",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119062,
+        "name": "Jackson",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119082,
+        "name": "Jackson County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119120,
+        "name": "Jamestown",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119182,
+        "name": "Jefferson County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119205,
+        "name": "Jeffersontown",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119206,
+        "name": "Jeffersonville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119214,
+        "name": "Jenkins",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119236,
+        "name": "Jessamine County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119265,
+        "name": "Johnson County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119333,
+        "name": "Junction City",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119499,
+        "name": "Kenton County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119680,
+        "name": "Knott County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119681,
+        "name": "Knottsville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119686,
+        "name": "Knox County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119737,
+        "name": "La Center",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 119749,
+        "name": "La Grange",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120035,
+        "name": "Lakeside Park",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120080,
+        "name": "Lancaster",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120152,
+        "name": "Larue County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120195,
+        "name": "Laurel County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120233,
+        "name": "Lawrence County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120241,
+        "name": "Lawrenceburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120285,
+        "name": "Lebanon",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120296,
+        "name": "Lebanon Junction",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120301,
+        "name": "Ledbetter",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120310,
+        "name": "Lee County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120347,
+        "name": "Leitchfield",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120397,
+        "name": "Leslie County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120400,
+        "name": "Letcher County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120411,
+        "name": "Lewis County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120422,
+        "name": "Lewisport",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120439,
+        "name": "Lexington",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120456,
+        "name": "Lexington-Fayette",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120459,
+        "name": "Liberty",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120519,
+        "name": "Lincoln County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120642,
+        "name": "Livermore",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120654,
+        "name": "Livingston County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120697,
+        "name": "Logan County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120721,
+        "name": "London",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120804,
+        "name": "Louisa",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120813,
+        "name": "Louisville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120869,
+        "name": "Ludlow",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120923,
+        "name": "Lyndon",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 120936,
+        "name": "Lyon County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121007,
+        "name": "Madison County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121025,
+        "name": "Madisonville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121039,
+        "name": "Magoffin County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121091,
+        "name": "Manchester",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121235,
+        "name": "Marion",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121254,
+        "name": "Marion County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121312,
+        "name": "Marshall County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121339,
+        "name": "Martin County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121377,
+        "name": "Mason County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121385,
+        "name": "Masonville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121387,
+        "name": "Massac",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121436,
+        "name": "Mayfield",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121450,
+        "name": "Maysville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121485,
+        "name": "McCracken County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121486,
+        "name": "McCreary County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121517,
+        "name": "McKee",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121528,
+        "name": "McLean County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121556,
+        "name": "Meade County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121572,
+        "name": "Meads",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121660,
+        "name": "Menifee County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121675,
+        "name": "Mercer County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121733,
+        "name": "Metcalfe County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121776,
+        "name": "Middlesboro",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121787,
+        "name": "Middletown",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 121814,
+        "name": "Midway",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122073,
+        "name": "Monroe County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122144,
+        "name": "Montgomery County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122162,
+        "name": "Monticello",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122225,
+        "name": "Morehead",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122240,
+        "name": "Morgan County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122248,
+        "name": "Morganfield",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122251,
+        "name": "Morgantown",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122371,
+        "name": "Mount Olivet",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122391,
+        "name": "Mount Sterling",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122397,
+        "name": "Mount Vernon",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122406,
+        "name": "Mount Washington",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122448,
+        "name": "Muhlenberg County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122472,
+        "name": "Munfordville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122491,
+        "name": "Murray",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122626,
+        "name": "Nelson County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122685,
+        "name": "New Castle",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122814,
+        "name": "Newburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122841,
+        "name": "Newport",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122887,
+        "name": "Nicholas County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 122889,
+        "name": "Nicholasville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123010,
+        "name": "North Corbin",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123148,
+        "name": "Northfield",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123188,
+        "name": "Nortonville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123234,
+        "name": "Oak Grove",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123268,
+        "name": "Oakbrook",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123383,
+        "name": "Ohio County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123408,
+        "name": "Okolona",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123432,
+        "name": "Oldham County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123440,
+        "name": "Olive Hill",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123533,
+        "name": "Orchard Grass Hills",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123662,
+        "name": "Owen County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123664,
+        "name": "Owensboro",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123667,
+        "name": "Owenton",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123670,
+        "name": "Owingsville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123673,
+        "name": "Owsley County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123715,
+        "name": "Paducah",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123728,
+        "name": "Paintsville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123831,
+        "name": "Paris",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 123849,
+        "name": "Park Hills",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124019,
+        "name": "Pendleton County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124078,
+        "name": "Perry County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124116,
+        "name": "Pewee Valley",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124190,
+        "name": "Pike County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124198,
+        "name": "Pikeville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124232,
+        "name": "Pine Knot",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124259,
+        "name": "Pineville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124275,
+        "name": "Pioneer Village",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124342,
+        "name": "Plano",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124389,
+        "name": "Pleasure Ridge Park",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124612,
+        "name": "Powell County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124661,
+        "name": "Prestonsburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124682,
+        "name": "Princeton",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124705,
+        "name": "Prospect",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124715,
+        "name": "Providence",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124740,
+        "name": "Pulaski County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124812,
+        "name": "Raceland",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 124815,
+        "name": "Radcliff",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125006,
+        "name": "Reidland",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125085,
+        "name": "Richmond",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125245,
+        "name": "Robertson County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125293,
+        "name": "Rockcastle County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125477,
+        "name": "Rowan County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125534,
+        "name": "Russell",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125538,
+        "name": "Russell County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125540,
+        "name": "Russell Springs",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125544,
+        "name": "Russellville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125565,
+        "name": "Ryland Heights",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125631,
+        "name": "Saint Dennis",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125695,
+        "name": "Saint Matthews",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125711,
+        "name": "Saint Regis Park",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125776,
+        "name": "Salyersville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 125883,
+        "name": "Sandy Hook",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126046,
+        "name": "Scott County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126064,
+        "name": "Scottsville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126110,
+        "name": "Sebree",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126275,
+        "name": "Shelby County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126282,
+        "name": "Shelbyville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126312,
+        "name": "Shepherdsville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126362,
+        "name": "Shively",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126425,
+        "name": "Silver Grove",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126449,
+        "name": "Simpson County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126451,
+        "name": "Simpsonville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126522,
+        "name": "Smithland",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126580,
+        "name": "Somerset",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126728,
+        "name": "South Shore",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126774,
+        "name": "Southgate",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126829,
+        "name": "Spencer County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126892,
+        "name": "Springfield",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126953,
+        "name": "Stanford",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 126966,
+        "name": "Stanton",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 127004,
+        "name": "Stearns",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 127150,
+        "name": "Sturgis",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 127453,
+        "name": "Taylor County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 127460,
+        "name": "Taylor Mill",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 127463,
+        "name": "Taylorsville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 127692,
+        "name": "Todd County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 127714,
+        "name": "Tompkinsville",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 127821,
+        "name": "Trigg County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 127822,
+        "name": "Trimble County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 127971,
+        "name": "Union",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 127993,
+        "name": "Union County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128116,
+        "name": "Valley Station",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128134,
+        "name": "Van Lear",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128142,
+        "name": "Vanceburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128200,
+        "name": "Verona",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128209,
+        "name": "Versailles",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128242,
+        "name": "Villa Hills",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128268,
+        "name": "Vine Grove",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128434,
+        "name": "Walton",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128487,
+        "name": "Warren County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128515,
+        "name": "Warsaw",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128559,
+        "name": "Washington County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128642,
+        "name": "Watterson Park",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128692,
+        "name": "Wayne County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128737,
+        "name": "Webster County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128837,
+        "name": "West Buechel",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 128916,
+        "name": "West Liberty",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129083,
+        "name": "Westwood",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129185,
+        "name": "Whitesburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129199,
+        "name": "Whitley City",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129200,
+        "name": "Whitley County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129221,
+        "name": "Wickliffe",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129231,
+        "name": "Wilder",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129266,
+        "name": "Williamsburg",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129285,
+        "name": "Williamstown",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129327,
+        "name": "Wilmore",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129353,
+        "name": "Winchester",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129391,
+        "name": "Windy Hills",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129477,
+        "name": "Wolfe County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129519,
+        "name": "Woodford County",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129597,
+        "name": "Worthington",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129599,
+        "name": "Worthington Hills",
+        "country": "USA",
+        "state": "KY"
+    },
+    {
+        "id": 129618,
+        "name": "Wurtland",
+        "country": "USA",
+        "state": "KY"
+    }
+]

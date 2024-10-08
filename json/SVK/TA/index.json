@@ -1,1 +1,140 @@
-[{"id":0,"name":"Dunajsk\u00e1 Streda","country":"SVK","state":"TA"},{"id":1,"name":"Gab\u010d\u00edkovo","country":"SVK","state":"TA"},{"id":2,"name":"Galanta","country":"SVK","state":"TA"},{"id":3,"name":"Gbely","country":"SVK","state":"TA"},{"id":4,"name":"Hlohovec","country":"SVK","state":"TA"},{"id":5,"name":"Hol\u00ed\u010d","country":"SVK","state":"TA"},{"id":6,"name":"Leopoldov","country":"SVK","state":"TA"},{"id":7,"name":"Okres Dunajsk\u00e1 Streda","country":"SVK","state":"TA"},{"id":8,"name":"Okres Galanta","country":"SVK","state":"TA"},{"id":9,"name":"Okres Hlohovec","country":"SVK","state":"TA"},{"id":10,"name":"Okres Pie\u0161\u0165any","country":"SVK","state":"TA"},{"id":11,"name":"Okres Senica","country":"SVK","state":"TA"},{"id":12,"name":"Okres Skalica","country":"SVK","state":"TA"},{"id":13,"name":"Okres Trnava","country":"SVK","state":"TA"},{"id":14,"name":"Pie\u0161\u0165any","country":"SVK","state":"TA"},{"id":15,"name":"\u0160amor\u00edn","country":"SVK","state":"TA"},{"id":16,"name":"Senica","country":"SVK","state":"TA"},{"id":17,"name":"Skalica","country":"SVK","state":"TA"},{"id":18,"name":"Sl\u00e1dkovi\u010dovo","country":"SVK","state":"TA"},{"id":19,"name":"Smolenice","country":"SVK","state":"TA"},{"id":20,"name":"Trnava","country":"SVK","state":"TA"},{"id":21,"name":"Ve\u013ek\u00fd Meder","country":"SVK","state":"TA"},{"id":22,"name":"Vrbov\u00e9","country":"SVK","state":"TA"}]
+[
+    {
+        "id": 104387,
+        "name": "Dunajská Streda",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104389,
+        "name": "Gabčíkovo",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104390,
+        "name": "Galanta",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104391,
+        "name": "Gbely",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104395,
+        "name": "Hlohovec",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104396,
+        "name": "Holíč",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104420,
+        "name": "Leopoldov",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104460,
+        "name": "Okres Dunajská Streda",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104461,
+        "name": "Okres Galanta",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104463,
+        "name": "Okres Hlohovec",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104486,
+        "name": "Okres Piešťany",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104498,
+        "name": "Okres Senica",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104499,
+        "name": "Okres Skalica",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104509,
+        "name": "Okres Trnava",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104525,
+        "name": "Piešťany",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104592,
+        "name": "Šamorín",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104541,
+        "name": "Senica",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104543,
+        "name": "Skalica",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104544,
+        "name": "Sládkovičovo",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104545,
+        "name": "Smolenice",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104568,
+        "name": "Trnava",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104574,
+        "name": "Veľký Meder",
+        "country": "SVK",
+        "state": "TA"
+    },
+    {
+        "id": 104579,
+        "name": "Vrbové",
+        "country": "SVK",
+        "state": "TA"
+    }
+]

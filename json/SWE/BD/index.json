@@ -1,1 +1,176 @@
-[{"id":0,"name":"\u00c4lvsbyn","country":"SWE","state":"BD"},{"id":1,"name":"Arjeplog","country":"SWE","state":"BD"},{"id":2,"name":"Arvidsjaur","country":"SWE","state":"BD"},{"id":3,"name":"Bergn\u00e4set","country":"SWE","state":"BD"},{"id":4,"name":"Bergsviken","country":"SWE","state":"BD"},{"id":5,"name":"Bj\u00f6rkskatan","country":"SWE","state":"BD"},{"id":6,"name":"Boden","country":"SWE","state":"BD"},{"id":7,"name":"G\u00e4llivare","country":"SWE","state":"BD"},{"id":8,"name":"Gammelstad","country":"SWE","state":"BD"},{"id":9,"name":"Haparanda","country":"SWE","state":"BD"},{"id":10,"name":"Hortlax","country":"SWE","state":"BD"},{"id":11,"name":"Jokkmokk","country":"SWE","state":"BD"},{"id":12,"name":"Kalix","country":"SWE","state":"BD"},{"id":13,"name":"Kiruna","country":"SWE","state":"BD"},{"id":14,"name":"Lule\u00e5","country":"SWE","state":"BD"},{"id":15,"name":"Malmberget","country":"SWE","state":"BD"},{"id":16,"name":"Marielund","country":"SWE","state":"BD"},{"id":17,"name":"Norrfj\u00e4rden","country":"SWE","state":"BD"},{"id":18,"name":"\u00d6verkalix","country":"SWE","state":"BD"},{"id":19,"name":"\u00d6vertorne\u00e5","country":"SWE","state":"BD"},{"id":20,"name":"Pajala","country":"SWE","state":"BD"},{"id":21,"name":"Pite\u00e5","country":"SWE","state":"BD"},{"id":22,"name":"R\u00e5ne\u00e5","country":"SWE","state":"BD"},{"id":23,"name":"Rokn\u00e4s","country":"SWE","state":"BD"},{"id":24,"name":"Rolfs","country":"SWE","state":"BD"},{"id":25,"name":"Rosvik","country":"SWE","state":"BD"},{"id":26,"name":"S\u00e4vast","country":"SWE","state":"BD"},{"id":27,"name":"S\u00f6dra Sunderbyn","country":"SWE","state":"BD"},{"id":28,"name":"T\u00f6re","country":"SWE","state":"BD"}]
+[
+    {
+        "id": 103993,
+        "name": "Älvsbyn",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103010,
+        "name": "Arjeplog",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103015,
+        "name": "Arvidsjaur",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103036,
+        "name": "Bergnäset",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103039,
+        "name": "Bergsviken",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103054,
+        "name": "Björkskatan",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103061,
+        "name": "Boden",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103237,
+        "name": "Gällivare",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103202,
+        "name": "Gammelstad",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103267,
+        "name": "Haparanda",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103299,
+        "name": "Hortlax",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103353,
+        "name": "Jokkmokk",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103369,
+        "name": "Kalix",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103394,
+        "name": "Kiruna",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103493,
+        "name": "Luleå",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103513,
+        "name": "Malmberget",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103528,
+        "name": "Marielund",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103585,
+        "name": "Norrfjärden",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 104052,
+        "name": "Överkalix",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 104054,
+        "name": "Övertorneå",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103630,
+        "name": "Pajala",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103637,
+        "name": "Piteå",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103668,
+        "name": "Råneå",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103652,
+        "name": "Roknäs",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103653,
+        "name": "Rolfs",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103658,
+        "name": "Rosvik",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103812,
+        "name": "Sävast",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103828,
+        "name": "Södra Sunderbyn",
+        "country": "SWE",
+        "state": "BD"
+    },
+    {
+        "id": 103891,
+        "name": "Töre",
+        "country": "SWE",
+        "state": "BD"
+    }
+]

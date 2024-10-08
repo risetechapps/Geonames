@@ -1,1 +1,212 @@
-[{"id":0,"name":"Byt\u010da","country":"SVK","state":"ZI"},{"id":1,"name":"\u010cadca","country":"SVK","state":"ZI"},{"id":2,"name":"Doln\u00fd Kub\u00edn","country":"SVK","state":"ZI"},{"id":3,"name":"Hybe","country":"SVK","state":"ZI"},{"id":4,"name":"Kras\u0148any","country":"SVK","state":"ZI"},{"id":5,"name":"Kysuck\u00e9 Nov\u00e9 Mesto","country":"SVK","state":"ZI"},{"id":6,"name":"Liptovsk\u00fd Hr\u00e1dok","country":"SVK","state":"ZI"},{"id":7,"name":"Liptovsk\u00fd Mikul\u00e1\u0161","country":"SVK","state":"ZI"},{"id":8,"name":"L\u00fa\u010dky","country":"SVK","state":"ZI"},{"id":9,"name":"Martin","country":"SVK","state":"ZI"},{"id":10,"name":"N\u00e1mestovo","country":"SVK","state":"ZI"},{"id":11,"name":"Ni\u017en\u00e1","country":"SVK","state":"ZI"},{"id":12,"name":"Okres Byt\u010da","country":"SVK","state":"ZI"},{"id":13,"name":"Okres \u010cadca","country":"SVK","state":"ZI"},{"id":14,"name":"Okres Doln\u00fd Kub\u00edn","country":"SVK","state":"ZI"},{"id":15,"name":"Okres Kysuck\u00e9 Nov\u00e9 Mesto","country":"SVK","state":"ZI"},{"id":16,"name":"Okres Liptovsk\u00fd Mikul\u00e1\u0161","country":"SVK","state":"ZI"},{"id":17,"name":"Okres Martin","country":"SVK","state":"ZI"},{"id":18,"name":"Okres Namestovo","country":"SVK","state":"ZI"},{"id":19,"name":"Okres Ru\u017eomberok","country":"SVK","state":"ZI"},{"id":20,"name":"Okres Tur\u010dianske Teplice","country":"SVK","state":"ZI"},{"id":21,"name":"Okres Tvrdo\u0161\u00edn","country":"SVK","state":"ZI"},{"id":22,"name":"Okres \u017dilina","country":"SVK","state":"ZI"},{"id":23,"name":"Oravsk\u00e1 Lesn\u00e1","country":"SVK","state":"ZI"},{"id":24,"name":"Oravsk\u00fd Podz\u00e1mok","country":"SVK","state":"ZI"},{"id":25,"name":"Pribylina","country":"SVK","state":"ZI"},{"id":26,"name":"Rajec","country":"SVK","state":"ZI"},{"id":27,"name":"Ru\u017eomberok","country":"SVK","state":"ZI"},{"id":28,"name":"Terchov\u00e1","country":"SVK","state":"ZI"},{"id":29,"name":"Trsten\u00e1","country":"SVK","state":"ZI"},{"id":30,"name":"Tur\u010dianske Teplice","country":"SVK","state":"ZI"},{"id":31,"name":"Turzovka","country":"SVK","state":"ZI"},{"id":32,"name":"Tvrdo\u0161\u00edn","country":"SVK","state":"ZI"},{"id":33,"name":"Vr\u00fatky","country":"SVK","state":"ZI"},{"id":34,"name":"\u017dilina","country":"SVK","state":"ZI"}]
+[
+    {
+        "id": 104378,
+        "name": "Bytča",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104587,
+        "name": "Čadca",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104383,
+        "name": "Dolný Kubín",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104401,
+        "name": "Hybe",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104414,
+        "name": "Krasňany",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104418,
+        "name": "Kysucké Nové Mesto",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104424,
+        "name": "Liptovský Hrádok",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104425,
+        "name": "Liptovský Mikuláš",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104427,
+        "name": "Lúčky",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104430,
+        "name": "Martin",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104446,
+        "name": "Námestovo",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104439,
+        "name": "Nižná",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104456,
+        "name": "Okres Bytča",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104516,
+        "name": "Okres Čadca",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104459,
+        "name": "Okres Dolný Kubín",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104470,
+        "name": "Okres Kysucké Nové Mesto",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104473,
+        "name": "Okres Liptovský Mikuláš",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104476,
+        "name": "Okres Martin",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104480,
+        "name": "Okres Namestovo",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104495,
+        "name": "Okres Ružomberok",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104510,
+        "name": "Okres Turčianske Teplice",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104511,
+        "name": "Okres Tvrdošín",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104520,
+        "name": "Okres Žilina",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104521,
+        "name": "Oravská Lesná",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104522,
+        "name": "Oravský Podzámok",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104531,
+        "name": "Pribylina",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104534,
+        "name": "Rajec",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104538,
+        "name": "Ružomberok",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104561,
+        "name": "Terchová",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104569,
+        "name": "Trstená",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104571,
+        "name": "Turčianske Teplice",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104570,
+        "name": "Turzovka",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104572,
+        "name": "Tvrdošín",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104581,
+        "name": "Vrútky",
+        "country": "SVK",
+        "state": "ZI"
+    },
+    {
+        "id": 104602,
+        "name": "Žilina",
+        "country": "SVK",
+        "state": "ZI"
+    }
+]

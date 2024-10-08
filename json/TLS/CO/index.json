@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 106843,
@@ -29,4 +30,37 @@
         "country": "TLS",
         "state": "CO"
     }
+=======
+[
+    {
+        "id": 106843,
+        "name": "Fatumean",
+        "country": "TLS",
+        "state": "CO"
+    },
+    {
+        "id": 106844,
+        "name": "Fohorem",
+        "country": "TLS",
+        "state": "CO"
+    },
+    {
+        "id": 106863,
+        "name": "Maucatar",
+        "country": "TLS",
+        "state": "CO"
+    },
+    {
+        "id": 106871,
+        "name": "Suai",
+        "country": "TLS",
+        "state": "CO"
+    },
+    {
+        "id": 106872,
+        "name": "Tilomar",
+        "country": "TLS",
+        "state": "CO"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

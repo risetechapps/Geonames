@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104842,
@@ -41,4 +42,49 @@
         "country": "SLV",
         "state": "AH"
     }
+=======
+[
+    {
+        "id": 104842,
+        "name": "Ahuachapán",
+        "country": "SLV",
+        "state": "AH"
+    },
+    {
+        "id": 104848,
+        "name": "Atiquizaya",
+        "country": "SLV",
+        "state": "AH"
+    },
+    {
+        "id": 104863,
+        "name": "Concepción de Ataco",
+        "country": "SLV",
+        "state": "AH"
+    },
+    {
+        "id": 104873,
+        "name": "Guaymango",
+        "country": "SLV",
+        "state": "AH"
+    },
+    {
+        "id": 104883,
+        "name": "Jujutla",
+        "country": "SLV",
+        "state": "AH"
+    },
+    {
+        "id": 104906,
+        "name": "San Francisco Menéndez",
+        "country": "SLV",
+        "state": "AH"
+    },
+    {
+        "id": 104931,
+        "name": "Tacuba",
+        "country": "SLV",
+        "state": "AH"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

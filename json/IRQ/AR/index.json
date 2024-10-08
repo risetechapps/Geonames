@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 134496,
@@ -35,4 +36,43 @@
         "country": "IRQ",
         "state": "AR"
     }
+=======
+[
+    {
+        "id": 134496,
+        "name": "Arbil",
+        "country": "IRQ",
+        "state": "AR"
+    },
+    {
+        "id": 134513,
+        "name": "Erbil",
+        "country": "IRQ",
+        "state": "AR"
+    },
+    {
+        "id": 134522,
+        "name": "Koysinceq",
+        "country": "IRQ",
+        "state": "AR"
+    },
+    {
+        "id": 134534,
+        "name": "Ruwāndiz",
+        "country": "IRQ",
+        "state": "AR"
+    },
+    {
+        "id": 134536,
+        "name": "Shaqlāwah",
+        "country": "IRQ",
+        "state": "AR"
+    },
+    {
+        "id": 134539,
+        "name": "Soran",
+        "country": "IRQ",
+        "state": "AR"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

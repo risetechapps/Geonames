@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31756,
@@ -23,4 +24,31 @@
         "country": "EGY",
         "state": "ASN"
     }
+=======
+[
+    {
+        "id": 31756,
+        "name": "Abu Simbel",
+        "country": "EGY",
+        "state": "ASN"
+    },
+    {
+        "id": 31791,
+        "name": "Aswan",
+        "country": "EGY",
+        "state": "ASN"
+    },
+    {
+        "id": 31819,
+        "name": "Idfū",
+        "country": "EGY",
+        "state": "ASN"
+    },
+    {
+        "id": 31829,
+        "name": "Kawm Umbū",
+        "country": "EGY",
+        "state": "ASN"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 54,
@@ -23,4 +24,31 @@
         "country": "AFG",
         "state": "BGL"
     }
+=======
+[
+    {
+        "id": 54,
+        "name": "Baghlān",
+        "country": "AFG",
+        "state": "BGL"
+    },
+    {
+        "id": 140,
+        "name": "Ḩukūmatī Dahanah-ye Ghōrī",
+        "country": "AFG",
+        "state": "BGL"
+    },
+    {
+        "id": 101,
+        "name": "Nahrīn",
+        "country": "AFG",
+        "state": "BGL"
+    },
+    {
+        "id": 105,
+        "name": "Pul-e Khumrī",
+        "country": "AFG",
+        "state": "BGL"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

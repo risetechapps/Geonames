@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 106830,
@@ -17,4 +18,25 @@
         "country": "TLS",
         "state": "AL"
     }
+=======
+[
+    {
+        "id": 106830,
+        "name": "Aileu",
+        "country": "TLS",
+        "state": "AL"
+    },
+    {
+        "id": 106854,
+        "name": "Lequidoe",
+        "country": "TLS",
+        "state": "AL"
+    },
+    {
+        "id": 106868,
+        "name": "Remexio",
+        "country": "TLS",
+        "state": "AL"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

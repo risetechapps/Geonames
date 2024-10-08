@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 15705,
@@ -17,4 +18,25 @@
         "country": "BTN",
         "state": "22"
     }
+=======
+[
+    {
+        "id": 15705,
+        "name": "Daga",
+        "country": "BTN",
+        "state": "22"
+    },
+    {
+        "id": 15728,
+        "name": "Sibsu",
+        "country": "BTN",
+        "state": "22"
+    },
+    {
+        "id": 153828,
+        "name": "Thumgaon",
+        "country": "BTN",
+        "state": "22"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

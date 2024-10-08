@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130542,
@@ -47,4 +48,55 @@
         "country": "VNM",
         "state": "28"
     }
+=======
+[
+    {
+        "id": 130542,
+        "name": "Huyện Đắk Glei",
+        "country": "VNM",
+        "state": "28"
+    },
+    {
+        "id": 130543,
+        "name": "Huyện Đắk Hà",
+        "country": "VNM",
+        "state": "28"
+    },
+    {
+        "id": 130545,
+        "name": "Huyện Đắk Tô",
+        "country": "VNM",
+        "state": "28"
+    },
+    {
+        "id": 130321,
+        "name": "Huyện Ia H'Drai",
+        "country": "VNM",
+        "state": "28"
+    },
+    {
+        "id": 130332,
+        "name": "Huyện Kon Plông",
+        "country": "VNM",
+        "state": "28"
+    },
+    {
+        "id": 130388,
+        "name": "Huyện Ngọc Hồi",
+        "country": "VNM",
+        "state": "28"
+    },
+    {
+        "id": 130419,
+        "name": "Huyện Sa Thầy",
+        "country": "VNM",
+        "state": "28"
+    },
+    {
+        "id": 130565,
+        "name": "Kon Tum",
+        "country": "VNM",
+        "state": "28"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

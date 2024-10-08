@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130050,
@@ -47,4 +48,55 @@
         "country": "VEN",
         "state": "V"
     }
+=======
+[
+    {
+        "id": 130050,
+        "name": "Cabimas",
+        "country": "VEN",
+        "state": "V"
+    },
+    {
+        "id": 130069,
+        "name": "Ciudad Ojeda",
+        "country": "VEN",
+        "state": "V"
+    },
+    {
+        "id": 130094,
+        "name": "La Villa del Rosario",
+        "country": "VEN",
+        "state": "V"
+    },
+    {
+        "id": 130095,
+        "name": "Lagunillas",
+        "country": "VEN",
+        "state": "V"
+    },
+    {
+        "id": 130101,
+        "name": "Machiques",
+        "country": "VEN",
+        "state": "V"
+    },
+    {
+        "id": 130103,
+        "name": "Maracaibo",
+        "country": "VEN",
+        "state": "V"
+    },
+    {
+        "id": 130143,
+        "name": "San Carlos del Zulia",
+        "country": "VEN",
+        "state": "V"
+    },
+    {
+        "id": 130154,
+        "name": "Santa Rita",
+        "country": "VEN",
+        "state": "V"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31505,
@@ -41,4 +42,49 @@
         "country": "ECU",
         "state": "E"
     }
+=======
+[
+    {
+        "id": 31505,
+        "name": "Esmeraldas",
+        "country": "ECU",
+        "state": "E"
+    },
+    {
+        "id": 31531,
+        "name": "Muisne",
+        "country": "ECU",
+        "state": "E"
+    },
+    {
+        "id": 31541,
+        "name": "Pampanal de Bolívar",
+        "country": "ECU",
+        "state": "E"
+    },
+    {
+        "id": 31561,
+        "name": "Rio Verde",
+        "country": "ECU",
+        "state": "E"
+    },
+    {
+        "id": 31564,
+        "name": "Rosa Zarate",
+        "country": "ECU",
+        "state": "E"
+    },
+    {
+        "id": 31568,
+        "name": "San Lorenzo de Esmeraldas",
+        "country": "ECU",
+        "state": "E"
+    },
+    {
+        "id": 31585,
+        "name": "Valdez",
+        "country": "ECU",
+        "state": "E"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

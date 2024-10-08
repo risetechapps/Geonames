@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 8075,
@@ -23,4 +24,31 @@
         "country": "AZE",
         "state": "SKR"
     }
+=======
+[
+    {
+        "id": 8075,
+        "name": "Dolyar",
+        "country": "AZE",
+        "state": "SKR"
+    },
+    {
+        "id": 8077,
+        "name": "Dzagam",
+        "country": "AZE",
+        "state": "SKR"
+    },
+    {
+        "id": 8143,
+        "name": "Qasım İsmayılov",
+        "country": "AZE",
+        "state": "SKR"
+    },
+    {
+        "id": 8174,
+        "name": "Shamkhor",
+        "country": "AZE",
+        "state": "SKR"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

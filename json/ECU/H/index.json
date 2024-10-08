@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31479,
@@ -17,4 +18,25 @@
         "country": "ECU",
         "state": "H"
     }
+=======
+[
+    {
+        "id": 31479,
+        "name": "Alausí",
+        "country": "ECU",
+        "state": "H"
+    },
+    {
+        "id": 31509,
+        "name": "Guano",
+        "country": "ECU",
+        "state": "H"
+    },
+    {
+        "id": 31562,
+        "name": "Riobamba",
+        "country": "ECU",
+        "state": "H"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

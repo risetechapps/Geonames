@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 285,
@@ -83,4 +84,91 @@
         "country": "ARM",
         "state": "VD"
     }
+=======
+[
+    {
+        "id": 285,
+        "name": "Agarakadzor",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 288,
+        "name": "Aghavnadzor",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 313,
+        "name": "Areni",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 393,
+        "name": "Getap’",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 397,
+        "name": "Gladzor",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 420,
+        "name": "Jermuk",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 451,
+        "name": "Malishka",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 505,
+        "name": "Rrind",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 518,
+        "name": "Shatin",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 559,
+        "name": "Vayk’",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 565,
+        "name": "Vernashen",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 572,
+        "name": "Yeghegis",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 573,
+        "name": "Yeghegnadzor",
+        "country": "ARM",
+        "state": "VD"
+    },
+    {
+        "id": 584,
+        "name": "Zarrit’ap’",
+        "country": "ARM",
+        "state": "VD"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

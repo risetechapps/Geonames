@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 5227,
@@ -17,4 +18,25 @@
         "country": "NCL",
         "state_code": "01"
     }
+=======
+[
+    {
+        "id": 5227,
+        "name": "Loyalty Islands Province",
+        "country": "NCL",
+        "state": "03"
+    },
+    {
+        "id": 5226,
+        "name": "North Province",
+        "country": "NCL",
+        "state": "02"
+    },
+    {
+        "id": 5225,
+        "name": "South Province",
+        "country": "NCL",
+        "state": "01"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 9816,
@@ -29,4 +30,37 @@
         "country": "BRN",
         "state": "BM"
     }
+=======
+[
+    {
+        "id": 9816,
+        "name": "Bandar Seri Begawan",
+        "country": "BRN",
+        "state": "BM"
+    },
+    {
+        "id": 9818,
+        "name": "Berakas A",
+        "country": "BRN",
+        "state": "BM"
+    },
+    {
+        "id": 9819,
+        "name": "Kapok",
+        "country": "BRN",
+        "state": "BM"
+    },
+    {
+        "id": 9821,
+        "name": "Mentiri",
+        "country": "BRN",
+        "state": "BM"
+    },
+    {
+        "id": 9822,
+        "name": "Serasa",
+        "country": "BRN",
+        "state": "BM"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

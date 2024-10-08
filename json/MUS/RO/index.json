@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67829,
@@ -11,4 +12,19 @@
         "country": "MUS",
         "state": "RO"
     }
+=======
+[
+    {
+        "id": 67829,
+        "name": "Baie aux Huîtres",
+        "country": "MUS",
+        "state": "RO"
+    },
+    {
+        "id": 67896,
+        "name": "Port Mathurin",
+        "country": "MUS",
+        "state": "RO"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

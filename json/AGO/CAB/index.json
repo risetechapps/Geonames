@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 591,
@@ -5,4 +6,13 @@
         "country": "AGO",
         "state": "CAB"
     }
+=======
+[
+    {
+        "id": 591,
+        "name": "Cabinda",
+        "country": "AGO",
+        "state": "CAB"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

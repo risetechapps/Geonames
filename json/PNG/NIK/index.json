@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 81060,
@@ -11,4 +12,19 @@
         "country": "PNG",
         "state": "NIK"
     }
+=======
+[
+    {
+        "id": 81060,
+        "name": "Kavieng",
+        "country": "PNG",
+        "state": "NIK"
+    },
+    {
+        "id": 81087,
+        "name": "Namatanai",
+        "country": "PNG",
+        "state": "NIK"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

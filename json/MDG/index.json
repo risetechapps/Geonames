@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 2951,
@@ -35,4 +36,43 @@
         "country": "MDG",
         "state_code": "U"
     }
+=======
+[
+    {
+        "id": 2951,
+        "name": "Antananarivo Province",
+        "country": "MDG",
+        "state": "T"
+    },
+    {
+        "id": 2950,
+        "name": "Antsiranana Province",
+        "country": "MDG",
+        "state": "D"
+    },
+    {
+        "id": 2948,
+        "name": "Fianarantsoa Province",
+        "country": "MDG",
+        "state": "F"
+    },
+    {
+        "id": 2953,
+        "name": "Mahajanga Province",
+        "country": "MDG",
+        "state": "M"
+    },
+    {
+        "id": 2952,
+        "name": "Toamasina Province",
+        "country": "MDG",
+        "state": "A"
+    },
+    {
+        "id": 2949,
+        "name": "Toliara Province",
+        "country": "MDG",
+        "state": "U"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

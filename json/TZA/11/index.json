@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 109132,
@@ -29,4 +30,37 @@
         "country": "TZA",
         "state": "11"
     }
+=======
+[
+    {
+        "id": 109132,
+        "name": "Koani",
+        "country": "TZA",
+        "state": "11"
+    },
+    {
+        "id": 109133,
+        "name": "Koani Ndogo",
+        "country": "TZA",
+        "state": "11"
+    },
+    {
+        "id": 109161,
+        "name": "Mahonda",
+        "country": "TZA",
+        "state": "11"
+    },
+    {
+        "id": 109250,
+        "name": "Nganane",
+        "country": "TZA",
+        "state": "11"
+    },
+    {
+        "id": 109281,
+        "name": "Sokoni",
+        "country": "TZA",
+        "state": "11"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

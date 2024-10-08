@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67804,
@@ -11,4 +12,19 @@
         "country": "MLT",
         "state": "52"
     }
+=======
+[
+    {
+        "id": 67804,
+        "name": "San Pawl il-Baħar",
+        "country": "MLT",
+        "state": "52"
+    },
+    {
+        "id": 67806,
+        "name": "Sannat",
+        "country": "MLT",
+        "state": "52"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

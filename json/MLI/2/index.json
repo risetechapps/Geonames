@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67588,
@@ -29,4 +30,37 @@
         "country": "MLI",
         "state": "2"
     }
+=======
+[
+    {
+        "id": 67588,
+        "name": "Banamba",
+        "country": "MLI",
+        "state": "2"
+    },
+    {
+        "id": 67606,
+        "name": "Kangaba",
+        "country": "MLI",
+        "state": "2"
+    },
+    {
+        "id": 67607,
+        "name": "Kati",
+        "country": "MLI",
+        "state": "2"
+    },
+    {
+        "id": 67613,
+        "name": "Kolokani",
+        "country": "MLI",
+        "state": "2"
+    },
+    {
+        "id": 67615,
+        "name": "Koulikoro",
+        "country": "MLI",
+        "state": "2"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67589,
@@ -35,4 +36,43 @@
         "country": "MLI",
         "state": "5"
     }
+=======
+[
+    {
+        "id": 67589,
+        "name": "Bandiagara",
+        "country": "MLI",
+        "state": "5"
+    },
+    {
+        "id": 67598,
+        "name": "Djénné",
+        "country": "MLI",
+        "state": "5"
+    },
+    {
+        "id": 67599,
+        "name": "Douentza",
+        "country": "MLI",
+        "state": "5"
+    },
+    {
+        "id": 67600,
+        "name": "Douentza Cercle",
+        "country": "MLI",
+        "state": "5"
+    },
+    {
+        "id": 67620,
+        "name": "Mopti",
+        "country": "MLI",
+        "state": "5"
+    },
+    {
+        "id": 67629,
+        "name": "Ténenkou",
+        "country": "MLI",
+        "state": "5"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

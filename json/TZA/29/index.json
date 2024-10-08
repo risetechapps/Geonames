@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 109078,
@@ -41,4 +42,49 @@
         "country": "TZA",
         "state": "29"
     }
+=======
+[
+    {
+        "id": 109078,
+        "name": "Ilembula",
+        "country": "TZA",
+        "state": "29"
+    },
+    {
+        "id": 109165,
+        "name": "Makumbako",
+        "country": "TZA",
+        "state": "29"
+    },
+    {
+        "id": 109172,
+        "name": "Manda",
+        "country": "TZA",
+        "state": "29"
+    },
+    {
+        "id": 109181,
+        "name": "Matamba",
+        "country": "TZA",
+        "state": "29"
+    },
+    {
+        "id": 109205,
+        "name": "Mlangali",
+        "country": "TZA",
+        "state": "29"
+    },
+    {
+        "id": 109219,
+        "name": "Mtwango",
+        "country": "TZA",
+        "state": "29"
+    },
+    {
+        "id": 109256,
+        "name": "Njombe",
+        "country": "TZA",
+        "state": "29"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

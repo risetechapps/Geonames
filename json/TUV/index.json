@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 3951,
@@ -47,4 +48,55 @@
         "country": "TUV",
         "state_code": "VAI"
     }
+=======
+[
+    {
+        "id": 3951,
+        "name": "Funafuti",
+        "country": "TUV",
+        "state": "FUN"
+    },
+    {
+        "id": 3947,
+        "name": "Nanumanga",
+        "country": "TUV",
+        "state": "NMG"
+    },
+    {
+        "id": 3949,
+        "name": "Nanumea",
+        "country": "TUV",
+        "state": "NMA"
+    },
+    {
+        "id": 3946,
+        "name": "Niutao Island Council",
+        "country": "TUV",
+        "state": "NIT"
+    },
+    {
+        "id": 3948,
+        "name": "Nui",
+        "country": "TUV",
+        "state": "NUI"
+    },
+    {
+        "id": 3952,
+        "name": "Nukufetau",
+        "country": "TUV",
+        "state": "NKF"
+    },
+    {
+        "id": 3953,
+        "name": "Nukulaelae",
+        "country": "TUV",
+        "state": "NKL"
+    },
+    {
+        "id": 3950,
+        "name": "Vaitupu",
+        "country": "TUV",
+        "state": "VAI"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 106928,
@@ -35,4 +36,43 @@
         "country": "TUN",
         "state": "34"
     }
+=======
+[
+    {
+        "id": 106928,
+        "name": "Bou Arada",
+        "country": "TUN",
+        "state": "34"
+    },
+    {
+        "id": 106953,
+        "name": "Gafour",
+        "country": "TUN",
+        "state": "34"
+    },
+    {
+        "id": 106971,
+        "name": "Kesra",
+        "country": "TUN",
+        "state": "34"
+    },
+    {
+        "id": 106978,
+        "name": "Le Krib",
+        "country": "TUN",
+        "state": "34"
+    },
+    {
+        "id": 106981,
+        "name": "Maktar",
+        "country": "TUN",
+        "state": "34"
+    },
+    {
+        "id": 107026,
+        "name": "Siliana",
+        "country": "TUN",
+        "state": "34"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

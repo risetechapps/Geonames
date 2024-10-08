@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 134494,
@@ -11,4 +12,19 @@
         "country": "IRQ",
         "state": "MU"
     }
+=======
+[
+    {
+        "id": 134494,
+        "name": "Ar Rumaythah",
+        "country": "IRQ",
+        "state": "MU"
+    },
+    {
+        "id": 134497,
+        "name": "As Samawah",
+        "country": "IRQ",
+        "state": "MU"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

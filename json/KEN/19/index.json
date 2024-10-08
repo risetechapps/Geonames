@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 64785,
@@ -29,4 +30,37 @@
         "country": "KEN",
         "state": "19"
     }
+=======
+[
+    {
+        "id": 64785,
+        "name": "Gazi",
+        "country": "KEN",
+        "state": "19"
+    },
+    {
+        "id": 64807,
+        "name": "Kinango",
+        "country": "KEN",
+        "state": "19"
+    },
+    {
+        "id": 64815,
+        "name": "Kwale",
+        "country": "KEN",
+        "state": "19"
+    },
+    {
+        "id": 64867,
+        "name": "Sawa Sawa",
+        "country": "KEN",
+        "state": "19"
+    },
+    {
+        "id": 64868,
+        "name": "Shimoni",
+        "country": "KEN",
+        "state": "19"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

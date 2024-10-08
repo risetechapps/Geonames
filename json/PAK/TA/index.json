@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 85336,
@@ -47,4 +48,55 @@
         "country": "PAK",
         "state": "TA"
     }
+=======
+[
+    {
+        "id": 85336,
+        "name": "Alizai",
+        "country": "PAK",
+        "state": "TA"
+    },
+    {
+        "id": 85458,
+        "name": "Gulishah Kach",
+        "country": "PAK",
+        "state": "TA"
+    },
+    {
+        "id": 85577,
+        "name": "Landi Kotal",
+        "country": "PAK",
+        "state": "TA"
+    },
+    {
+        "id": 85611,
+        "name": "Miran Shah",
+        "country": "PAK",
+        "state": "TA"
+    },
+    {
+        "id": 85645,
+        "name": "North Wazīristān Agency",
+        "country": "PAK",
+        "state": "TA"
+    },
+    {
+        "id": 85717,
+        "name": "Shinpokh",
+        "country": "PAK",
+        "state": "TA"
+    },
+    {
+        "id": 85728,
+        "name": "South Wazīristān Agency",
+        "country": "PAK",
+        "state": "TA"
+    },
+    {
+        "id": 85764,
+        "name": "Wana",
+        "country": "PAK",
+        "state": "TA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

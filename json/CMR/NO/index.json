@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 19176,
@@ -59,4 +60,67 @@
         "country": "CMR",
         "state": "NO"
     }
+=======
+[
+    {
+        "id": 19176,
+        "name": "Faro Department",
+        "country": "CMR",
+        "state": "NO"
+    },
+    {
+        "id": 19181,
+        "name": "Garoua",
+        "country": "CMR",
+        "state": "NO"
+    },
+    {
+        "id": 19183,
+        "name": "Guider",
+        "country": "CMR",
+        "state": "NO"
+    },
+    {
+        "id": 19194,
+        "name": "Lagdo",
+        "country": "CMR",
+        "state": "NO"
+    },
+    {
+        "id": 19204,
+        "name": "Mayo-Louti",
+        "country": "CMR",
+        "state": "NO"
+    },
+    {
+        "id": 19205,
+        "name": "Mayo-Rey",
+        "country": "CMR",
+        "state": "NO"
+    },
+    {
+        "id": 19251,
+        "name": "Pitoa",
+        "country": "CMR",
+        "state": "NO"
+    },
+    {
+        "id": 19252,
+        "name": "Poli",
+        "country": "CMR",
+        "state": "NO"
+    },
+    {
+        "id": 19253,
+        "name": "Rey Bouba",
+        "country": "CMR",
+        "state": "NO"
+    },
+    {
+        "id": 19257,
+        "name": "Tcholliré",
+        "country": "CMR",
+        "state": "NO"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

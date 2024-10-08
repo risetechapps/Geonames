@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130557,
@@ -41,4 +42,49 @@
         "country": "VNM",
         "state": "23"
     }
+=======
+[
+    {
+        "id": 130557,
+        "name": "Hà Tĩnh",
+        "country": "VNM",
+        "state": "23"
+    },
+    {
+        "id": 130277,
+        "name": "Huyện Cẩm Xuyên",
+        "country": "VNM",
+        "state": "23"
+    },
+    {
+        "id": 130243,
+        "name": "Huyện Can Lộc",
+        "country": "VNM",
+        "state": "23"
+    },
+    {
+        "id": 130525,
+        "name": "Huyện Ðức Thọ",
+        "country": "VNM",
+        "state": "23"
+    },
+    {
+        "id": 130337,
+        "name": "Huyện Kỳ Anh",
+        "country": "VNM",
+        "state": "23"
+    },
+    {
+        "id": 130382,
+        "name": "Huyện Nghi Xuân",
+        "country": "VNM",
+        "state": "23"
+    },
+    {
+        "id": 130447,
+        "name": "Huyện Thạch Hà",
+        "country": "VNM",
+        "state": "23"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

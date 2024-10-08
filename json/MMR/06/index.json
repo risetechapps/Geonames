@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67641,
@@ -35,4 +36,43 @@
         "country": "MMR",
         "state": "06"
     }
+=======
+[
+    {
+        "id": 67641,
+        "name": "Kanbe",
+        "country": "MMR",
+        "state": "06"
+    },
+    {
+        "id": 67643,
+        "name": "Kayan",
+        "country": "MMR",
+        "state": "06"
+    },
+    {
+        "id": 67688,
+        "name": "Syriam",
+        "country": "MMR",
+        "state": "06"
+    },
+    {
+        "id": 67699,
+        "name": "Thongwa",
+        "country": "MMR",
+        "state": "06"
+    },
+    {
+        "id": 67700,
+        "name": "Twante",
+        "country": "MMR",
+        "state": "06"
+    },
+    {
+        "id": 67703,
+        "name": "Yangon",
+        "country": "MMR",
+        "state": "06"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 85368,
@@ -41,4 +42,49 @@
         "country": "PAK",
         "state": "JK"
     }
+=======
+[
+    {
+        "id": 85368,
+        "name": "Bhimbar",
+        "country": "PAK",
+        "state": "JK"
+    },
+    {
+        "id": 85562,
+        "name": "Kotli",
+        "country": "PAK",
+        "state": "JK"
+    },
+    {
+        "id": 85563,
+        "name": "Kotli District",
+        "country": "PAK",
+        "state": "JK"
+    },
+    {
+        "id": 85614,
+        "name": "Mirpur District",
+        "country": "PAK",
+        "state": "JK"
+    },
+    {
+        "id": 85628,
+        "name": "Muzaffarābād",
+        "country": "PAK",
+        "state": "JK"
+    },
+    {
+        "id": 85643,
+        "name": "New Mirpur",
+        "country": "PAK",
+        "state": "JK"
+    },
+    {
+        "id": 85682,
+        "name": "Rawala Kot",
+        "country": "PAK",
+        "state": "JK"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

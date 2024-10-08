@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 129777,
@@ -29,4 +30,37 @@
         "country": "URY",
         "state": "AR"
     }
+=======
+[
+    {
+        "id": 129777,
+        "name": "Artigas",
+        "country": "URY",
+        "state": "AR"
+    },
+    {
+        "id": 129779,
+        "name": "Baltasar Brum",
+        "country": "URY",
+        "state": "AR"
+    },
+    {
+        "id": 129782,
+        "name": "Bella Unión",
+        "country": "URY",
+        "state": "AR"
+    },
+    {
+        "id": 129820,
+        "name": "Las Piedras",
+        "country": "URY",
+        "state": "AR"
+    },
+    {
+        "id": 129881,
+        "name": "Tomás Gomensoro",
+        "country": "URY",
+        "state": "AR"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

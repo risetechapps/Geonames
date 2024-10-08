@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 64,
@@ -29,4 +30,37 @@
         "country": "AFG",
         "state": "KDZ"
     }
+=======
+[
+    {
+        "id": 64,
+        "name": "Dasht-e Archī",
+        "country": "AFG",
+        "state": "KDZ"
+    },
+    {
+        "id": 75,
+        "name": "Imām Şāḩib",
+        "country": "AFG",
+        "state": "KDZ"
+    },
+    {
+        "id": 83,
+        "name": "Khanabad",
+        "country": "AFG",
+        "state": "KDZ"
+    },
+    {
+        "id": 89,
+        "name": "Kunduz",
+        "country": "AFG",
+        "state": "KDZ"
+    },
+    {
+        "id": 114,
+        "name": "Qarāwul",
+        "country": "AFG",
+        "state": "KDZ"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

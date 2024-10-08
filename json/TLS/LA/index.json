@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 106848,
@@ -29,4 +30,37 @@
         "country": "TLS",
         "state": "LA"
     }
+=======
+[
+    {
+        "id": 106848,
+        "name": "Iliomar",
+        "country": "TLS",
+        "state": "LA"
+    },
+    {
+        "id": 106853,
+        "name": "Lautem",
+        "country": "TLS",
+        "state": "LA"
+    },
+    {
+        "id": 106857,
+        "name": "Lospalos",
+        "country": "TLS",
+        "state": "LA"
+    },
+    {
+        "id": 106858,
+        "name": "Luro",
+        "country": "TLS",
+        "state": "LA"
+    },
+    {
+        "id": 106874,
+        "name": "Tutuala",
+        "country": "TLS",
+        "state": "LA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

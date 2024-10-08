@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67312,
@@ -11,4 +12,19 @@
         "country": "MDA",
         "state": "TE"
     }
+=======
+[
+    {
+        "id": 67312,
+        "name": "Mîndreşti",
+        "country": "MDA",
+        "state": "TE"
+    },
+    {
+        "id": 67330,
+        "name": "Teleneşti",
+        "country": "MDA",
+        "state": "TE"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

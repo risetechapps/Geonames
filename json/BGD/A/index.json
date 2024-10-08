@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 153858,
@@ -35,4 +36,43 @@
         "country": "BGD",
         "state": "A"
     }
+=======
+[
+    {
+        "id": 153858,
+        "name": "Barguna ",
+        "country": "BGD",
+        "state": "A"
+    },
+    {
+        "id": 153857,
+        "name": "Barisal ",
+        "country": "BGD",
+        "state": "A"
+    },
+    {
+        "id": 153859,
+        "name": "Bhola ",
+        "country": "BGD",
+        "state": "A"
+    },
+    {
+        "id": 153860,
+        "name": "Jhalokati ",
+        "country": "BGD",
+        "state": "A"
+    },
+    {
+        "id": 153861,
+        "name": "Patuakhali ",
+        "country": "BGD",
+        "state": "A"
+    },
+    {
+        "id": 153862,
+        "name": "Pirojpur ",
+        "country": "BGD",
+        "state": "A"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

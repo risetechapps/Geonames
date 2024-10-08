@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 19148,
@@ -71,4 +72,79 @@
         "country": "CMR",
         "state": "AD"
     }
+=======
+[
+    {
+        "id": 19148,
+        "name": "Bankim",
+        "country": "CMR",
+        "state": "AD"
+    },
+    {
+        "id": 19150,
+        "name": "Banyo",
+        "country": "CMR",
+        "state": "AD"
+    },
+    {
+        "id": 19162,
+        "name": "Bélel",
+        "country": "CMR",
+        "state": "AD"
+    },
+    {
+        "id": 19168,
+        "name": "Djohong",
+        "country": "CMR",
+        "state": "AD"
+    },
+    {
+        "id": 19187,
+        "name": "Kontcha",
+        "country": "CMR",
+        "state": "AD"
+    },
+    {
+        "id": 19203,
+        "name": "Mayo-Banyo",
+        "country": "CMR",
+        "state": "AD"
+    },
+    {
+        "id": 19218,
+        "name": "Meïganga",
+        "country": "CMR",
+        "state": "AD"
+    },
+    {
+        "id": 19236,
+        "name": "Ngaoundéré",
+        "country": "CMR",
+        "state": "AD"
+    },
+    {
+        "id": 19256,
+        "name": "Somié",
+        "country": "CMR",
+        "state": "AD"
+    },
+    {
+        "id": 19258,
+        "name": "Tibati",
+        "country": "CMR",
+        "state": "AD"
+    },
+    {
+        "id": 19259,
+        "name": "Tignère",
+        "country": "CMR",
+        "state": "AD"
+    },
+    {
+        "id": 19262,
+        "name": "Vina",
+        "country": "CMR",
+        "state": "AD"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

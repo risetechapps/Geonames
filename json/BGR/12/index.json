@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 9274,
@@ -107,4 +108,115 @@
         "country": "BGR",
         "state": "12"
     }
+=======
+[
+    {
+        "id": 9274,
+        "name": "Berkovitsa",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9283,
+        "name": "Boychinovtsi",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9290,
+        "name": "Brusartsi",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9301,
+        "name": "Chiprovtsi",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9387,
+        "name": "Lom",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9398,
+        "name": "Medkovets",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9404,
+        "name": "Montana",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9437,
+        "name": "Obshtina Boychinovtsi",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9450,
+        "name": "Obshtina Chiprovtsi",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9478,
+        "name": "Obshtina Georgi Damyanovo",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9522,
+        "name": "Obshtina Lom",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9536,
+        "name": "Obshtina Montana",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9622,
+        "name": "Obshtina Valchedram",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9625,
+        "name": "Obshtina Varshets",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9632,
+        "name": "Obshtina Yakimovo",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9733,
+        "name": "Valchedram",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9736,
+        "name": "Varshets",
+        "country": "BGR",
+        "state": "12"
+    },
+    {
+        "id": 9744,
+        "name": "Yakimovo",
+        "country": "BGR",
+        "state": "12"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

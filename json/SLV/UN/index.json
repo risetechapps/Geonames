@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104843,
@@ -47,4 +48,55 @@
         "country": "SLV",
         "state": "UN"
     }
+=======
+[
+    {
+        "id": 104843,
+        "name": "Anamorós",
+        "country": "SLV",
+        "state": "UN"
+    },
+    {
+        "id": 104864,
+        "name": "Conchagua",
+        "country": "SLV",
+        "state": "UN"
+    },
+    {
+        "id": 104876,
+        "name": "Intipucá",
+        "country": "SLV",
+        "state": "UN"
+    },
+    {
+        "id": 104885,
+        "name": "La Unión",
+        "country": "SLV",
+        "state": "UN"
+    },
+    {
+        "id": 104892,
+        "name": "Nueva Esparta",
+        "country": "SLV",
+        "state": "UN"
+    },
+    {
+        "id": 104898,
+        "name": "Pasaquina",
+        "country": "SLV",
+        "state": "UN"
+    },
+    {
+        "id": 104903,
+        "name": "San Alejo",
+        "country": "SLV",
+        "state": "UN"
+    },
+    {
+        "id": 104919,
+        "name": "Santa Rosa de Lima",
+        "country": "SLV",
+        "state": "UN"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

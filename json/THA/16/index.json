@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 105203,
@@ -77,4 +78,85 @@
         "country": "THA",
         "state": "16"
     }
+=======
+[
+    {
+        "id": 105203,
+        "name": "Amphoe Ban Mi",
+        "country": "THA",
+        "state": "16"
+    },
+    {
+        "id": 105269,
+        "name": "Amphoe Chai Badan",
+        "country": "THA",
+        "state": "16"
+    },
+    {
+        "id": 105415,
+        "name": "Amphoe Khok Charoen",
+        "country": "THA",
+        "state": "16"
+    },
+    {
+        "id": 105418,
+        "name": "Amphoe Khok Samrong",
+        "country": "THA",
+        "state": "16"
+    },
+    {
+        "id": 105475,
+        "name": "Amphoe Lam Sonthi",
+        "country": "THA",
+        "state": "16"
+    },
+    {
+        "id": 105672,
+        "name": "Amphoe Nong Muang",
+        "country": "THA",
+        "state": "16"
+    },
+    {
+        "id": 105732,
+        "name": "Amphoe Phatthana Nikhom",
+        "country": "THA",
+        "state": "16"
+    },
+    {
+        "id": 105816,
+        "name": "Amphoe Sa Bot",
+        "country": "THA",
+        "state": "16"
+    },
+    {
+        "id": 106276,
+        "name": "Amphoe Tha Luang",
+        "country": "THA",
+        "state": "16"
+    },
+    {
+        "id": 106291,
+        "name": "Amphoe Tha Wung",
+        "country": "THA",
+        "state": "16"
+    },
+    {
+        "id": 106461,
+        "name": "Chai Badan",
+        "country": "THA",
+        "state": "16"
+    },
+    {
+        "id": 106560,
+        "name": "Lop Buri",
+        "country": "THA",
+        "state": "16"
+    },
+    {
+        "id": 106571,
+        "name": "Muang Lop Buri District",
+        "country": "THA",
+        "state": "16"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104151,
@@ -11,4 +12,19 @@
         "country": "SVN",
         "state": "053"
     }
+=======
+[
+    {
+        "id": 104151,
+        "name": "Kranjska Gora",
+        "country": "SVN",
+        "state": "053"
+    },
+    {
+        "id": 104194,
+        "name": "Mojstrana",
+        "country": "SVN",
+        "state": "053"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104712,
@@ -23,4 +24,31 @@
         "country": "SEN",
         "state": "KL"
     }
+=======
+[
+    {
+        "id": 104712,
+        "name": "Gandiaye",
+        "country": "SEN",
+        "state": "KL"
+    },
+    {
+        "id": 104721,
+        "name": "Kaolack",
+        "country": "SEN",
+        "state": "KL"
+    },
+    {
+        "id": 104741,
+        "name": "Ndofane",
+        "country": "SEN",
+        "state": "KL"
+    },
+    {
+        "id": 104743,
+        "name": "Nioro du Rip",
+        "country": "SEN",
+        "state": "KL"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

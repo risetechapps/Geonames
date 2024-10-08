@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 149568,
@@ -23,4 +24,31 @@
         "country": "VIR",
         "state": "SJ"
     }
+=======
+[
+    {
+        "id": 149568,
+        "name": "Central",
+        "country": "VIR",
+        "state": "SJ"
+    },
+    {
+        "id": 149569,
+        "name": "Coral Bay",
+        "country": "VIR",
+        "state": "SJ"
+    },
+    {
+        "id": 149570,
+        "name": "Cruz Bay",
+        "country": "VIR",
+        "state": "SJ"
+    },
+    {
+        "id": 149571,
+        "name": "East End",
+        "country": "VIR",
+        "state": "SJ"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

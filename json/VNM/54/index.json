@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130177,
@@ -23,4 +24,31 @@
         "country": "VNM",
         "state": "54"
     }
+=======
+[
+    {
+        "id": 130177,
+        "name": "Bắc Giang",
+        "country": "VNM",
+        "state": "54"
+    },
+    {
+        "id": 130353,
+        "name": "Huyện Lục Nam",
+        "country": "VNM",
+        "state": "54"
+    },
+    {
+        "id": 130354,
+        "name": "Huyện Lục Ngạn",
+        "country": "VNM",
+        "state": "54"
+    },
+    {
+        "id": 130521,
+        "name": "Huyện Yên Thế",
+        "country": "VNM",
+        "state": "54"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

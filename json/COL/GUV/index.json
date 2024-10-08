@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 20627,
@@ -23,4 +24,31 @@
         "country": "COL",
         "state": "GUV"
     }
+=======
+[
+    {
+        "id": 20627,
+        "name": "Calamar",
+        "country": "COL",
+        "state": "GUV"
+    },
+    {
+        "id": 20823,
+        "name": "El Retorno",
+        "country": "COL",
+        "state": "GUV"
+    },
+    {
+        "id": 21083,
+        "name": "Miraflores",
+        "country": "COL",
+        "state": "GUV"
+    },
+    {
+        "id": 21370,
+        "name": "San José del Guaviare",
+        "country": "COL",
+        "state": "GUV"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

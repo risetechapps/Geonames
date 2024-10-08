@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 66821,
@@ -17,4 +18,25 @@
         "country": "LUX",
         "state": "VD"
     }
+=======
+[
+    {
+        "id": 66821,
+        "name": "Putscheid",
+        "country": "LUX",
+        "state": "VD"
+    },
+    {
+        "id": 66848,
+        "name": "Tandel",
+        "country": "LUX",
+        "state": "VD"
+    },
+    {
+        "id": 66853,
+        "name": "Vianden",
+        "country": "LUX",
+        "state": "VD"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

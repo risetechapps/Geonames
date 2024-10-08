@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 106776,
@@ -23,4 +24,31 @@
         "country": "TJK",
         "state": "GB"
     }
+=======
+[
+    {
+        "id": 106776,
+        "name": "Ishqoshim",
+        "country": "TJK",
+        "state": "GB"
+    },
+    {
+        "id": 106781,
+        "name": "Khorugh",
+        "country": "TJK",
+        "state": "GB"
+    },
+    {
+        "id": 106790,
+        "name": "Murghob",
+        "country": "TJK",
+        "state": "GB"
+    },
+    {
+        "id": 106796,
+        "name": "Nohiyai Shughnon",
+        "country": "TJK",
+        "state": "GB"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

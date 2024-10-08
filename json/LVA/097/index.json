@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 66955,
@@ -23,4 +24,31 @@
         "country": "LVA",
         "state": "097"
     }
+=======
+[
+    {
+        "id": 66955,
+        "name": "Sabile",
+        "country": "LVA",
+        "state": "097"
+    },
+    {
+        "id": 66968,
+        "name": "Stende",
+        "country": "LVA",
+        "state": "097"
+    },
+    {
+        "id": 66970,
+        "name": "Talsi",
+        "country": "LVA",
+        "state": "097"
+    },
+    {
+        "id": 66976,
+        "name": "Valdemārpils",
+        "country": "LVA",
+        "state": "097"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

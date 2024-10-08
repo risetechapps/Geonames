@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 56361,
@@ -41,4 +42,49 @@
         "country": "IDN",
         "state": "KR"
     }
+=======
+[
+    {
+        "id": 56361,
+        "name": "Kabupaten Bintan",
+        "country": "IDN",
+        "state": "KR"
+    },
+    {
+        "id": 56441,
+        "name": "Kabupaten Karimun",
+        "country": "IDN",
+        "state": "KR"
+    },
+    {
+        "id": 56450,
+        "name": "Kabupaten Kepulauan Anambas",
+        "country": "IDN",
+        "state": "KR"
+    },
+    {
+        "id": 56495,
+        "name": "Kabupaten Lingga",
+        "country": "IDN",
+        "state": "KR"
+    },
+    {
+        "id": 56554,
+        "name": "Kabupaten Natuna",
+        "country": "IDN",
+        "state": "KR"
+    },
+    {
+        "id": 56716,
+        "name": "Kijang",
+        "country": "IDN",
+        "state": "KR"
+    },
+    {
+        "id": 57018,
+        "name": "Tanjung Pinang",
+        "country": "IDN",
+        "state": "KR"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

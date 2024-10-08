@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67281,
@@ -11,4 +12,19 @@
         "country": "MDA",
         "state": "CA"
     }
+=======
+[
+    {
+        "id": 67281,
+        "name": "Cahul",
+        "country": "MDA",
+        "state": "CA"
+    },
+    {
+        "id": 67305,
+        "name": "Giurgiuleşti",
+        "country": "MDA",
+        "state": "CA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

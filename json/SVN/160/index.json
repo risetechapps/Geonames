@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104116,
@@ -23,4 +24,31 @@
         "country": "SVN",
         "state": "160"
     }
+=======
+[
+    {
+        "id": 104116,
+        "name": "Hotinja Vas",
+        "country": "SVN",
+        "state": "160"
+    },
+    {
+        "id": 104242,
+        "name": "Radizel",
+        "country": "SVN",
+        "state": "160"
+    },
+    {
+        "id": 104260,
+        "name": "Rogoza",
+        "country": "SVN",
+        "state": "160"
+    },
+    {
+        "id": 104281,
+        "name": "Spodnje Hoče",
+        "country": "SVN",
+        "state": "160"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

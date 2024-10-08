@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 129903,
@@ -89,4 +90,97 @@
         "country": "UZB",
         "state": "FA"
     }
+=======
+[
+    {
+        "id": 129903,
+        "name": "Beshariq",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 129923,
+        "name": "Fergana",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 129932,
+        "name": "Hamza",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 129948,
+        "name": "Kirguli",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 129955,
+        "name": "Marg‘ilon",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 129969,
+        "name": "Oltiariq",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 129986,
+        "name": "Qo‘qon",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 129988,
+        "name": "Quva",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 129989,
+        "name": "Quvasoy",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 129992,
+        "name": "Rishton",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 130000,
+        "name": "Shohimardon",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 130004,
+        "name": "So‘x Tumani",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 130008,
+        "name": "Toshloq",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 130019,
+        "name": "Yangi Marg‘ilon",
+        "country": "UZB",
+        "state": "FA"
+    },
+    {
+        "id": 130025,
+        "name": "Yaypan",
+        "country": "UZB",
+        "state": "FA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

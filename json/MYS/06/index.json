@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 76428,
@@ -65,4 +66,73 @@
         "country": "MYS",
         "state": "06"
     }
+=======
+[
+    {
+        "id": 76428,
+        "name": "Bentong Town",
+        "country": "MYS",
+        "state": "06"
+    },
+    {
+        "id": 76452,
+        "name": "Jerantut",
+        "country": "MYS",
+        "state": "06"
+    },
+    {
+        "id": 76469,
+        "name": "Kampung Bukit Tinggi Bentong",
+        "country": "MYS",
+        "state": "06"
+    },
+    {
+        "id": 76477,
+        "name": "Kampung Tekek",
+        "country": "MYS",
+        "state": "06"
+    },
+    {
+        "id": 76496,
+        "name": "Kuala Lipis",
+        "country": "MYS",
+        "state": "06"
+    },
+    {
+        "id": 76505,
+        "name": "Kuantan",
+        "country": "MYS",
+        "state": "06"
+    },
+    {
+        "id": 76523,
+        "name": "Mentekab",
+        "country": "MYS",
+        "state": "06"
+    },
+    {
+        "id": 76537,
+        "name": "Pekan",
+        "country": "MYS",
+        "state": "06"
+    },
+    {
+        "id": 76551,
+        "name": "Raub",
+        "country": "MYS",
+        "state": "06"
+    },
+    {
+        "id": 76575,
+        "name": "Tanah Rata",
+        "country": "MYS",
+        "state": "06"
+    },
+    {
+        "id": 76584,
+        "name": "Temerluh",
+        "country": "MYS",
+        "state": "06"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

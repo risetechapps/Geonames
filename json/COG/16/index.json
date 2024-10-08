@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 17347,
@@ -11,4 +12,19 @@
         "country": "COG",
         "state": "16"
     }
+=======
+[
+    {
+        "id": 17347,
+        "name": "Loandjili",
+        "country": "COG",
+        "state": "16"
+    },
+    {
+        "id": 17353,
+        "name": "Pointe-Noire",
+        "country": "COG",
+        "state": "16"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

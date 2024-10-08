@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 17294,
@@ -17,4 +18,25 @@
         "country": "CAF",
         "state": "BK"
     }
+=======
+[
+    {
+        "id": 17294,
+        "name": "Alindao",
+        "country": "CAF",
+        "state": "BK"
+    },
+    {
+        "id": 17323,
+        "name": "Kembé",
+        "country": "CAF",
+        "state": "BK"
+    },
+    {
+        "id": 17327,
+        "name": "Mobaye",
+        "country": "CAF",
+        "state": "BK"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

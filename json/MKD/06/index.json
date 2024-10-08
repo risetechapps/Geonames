@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67396,
@@ -23,4 +24,31 @@
         "country": "MKD",
         "state": "06"
     }
+=======
+[
+    {
+        "id": 67396,
+        "name": "Bogovinje",
+        "country": "MKD",
+        "state": "06"
+    },
+    {
+        "id": 67421,
+        "name": "Dolno Palčište",
+        "country": "MKD",
+        "state": "06"
+    },
+    {
+        "id": 67434,
+        "name": "Gradec",
+        "country": "MKD",
+        "state": "06"
+    },
+    {
+        "id": 67447,
+        "name": "Kamenjane",
+        "country": "MKD",
+        "state": "06"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

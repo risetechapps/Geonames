@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 153653,
@@ -65,4 +66,73 @@
         "country": "AGO",
         "state": "BGU"
     }
+=======
+[
+    {
+        "id": 153653,
+        "name": "Baía Farta",
+        "country": "AGO",
+        "state": "BGU"
+    },
+    {
+        "id": 153654,
+        "name": "Balombo",
+        "country": "AGO",
+        "state": "BGU"
+    },
+    {
+        "id": 590,
+        "name": "Benguela",
+        "country": "AGO",
+        "state": "BGU"
+    },
+    {
+        "id": 153656,
+        "name": "Bocoio",
+        "country": "AGO",
+        "state": "BGU"
+    },
+    {
+        "id": 153659,
+        "name": "Caimbambo",
+        "country": "AGO",
+        "state": "BGU"
+    },
+    {
+        "id": 597,
+        "name": "Catumbela",
+        "country": "AGO",
+        "state": "BGU"
+    },
+    {
+        "id": 153655,
+        "name": "Chongoroi",
+        "country": "AGO",
+        "state": "BGU"
+    },
+    {
+        "id": 153658,
+        "name": "Cubal",
+        "country": "AGO",
+        "state": "BGU"
+    },
+    {
+        "id": 153657,
+        "name": "Ganda",
+        "country": "AGO",
+        "state": "BGU"
+    },
+    {
+        "id": 613,
+        "name": "Lobito",
+        "country": "AGO",
+        "state": "BGU"
+    },
+    {
+        "id": 153660,
+        "name": "Sumbe",
+        "country": "AGO",
+        "state": "BGU"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

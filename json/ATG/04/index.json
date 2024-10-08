@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 149,
@@ -11,4 +12,19 @@
         "country": "ATG",
         "state": "04"
     }
+=======
+[
+    {
+        "id": 149,
+        "name": "Potters Village",
+        "country": "ATG",
+        "state": "04"
+    },
+    {
+        "id": 150,
+        "name": "Saint John’s",
+        "country": "ATG",
+        "state": "04"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

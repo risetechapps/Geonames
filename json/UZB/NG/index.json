@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 129917,
@@ -65,4 +66,73 @@
         "country": "UZB",
         "state": "NG"
     }
+=======
+[
+    {
+        "id": 129917,
+        "name": "Chortoq",
+        "country": "UZB",
+        "state": "NG"
+    },
+    {
+        "id": 129918,
+        "name": "Chust",
+        "country": "UZB",
+        "state": "NG"
+    },
+    {
+        "id": 129933,
+        "name": "Haqqulobod",
+        "country": "UZB",
+        "state": "NG"
+    },
+    {
+        "id": 129952,
+        "name": "Kosonsoy",
+        "country": "UZB",
+        "state": "NG"
+    },
+    {
+        "id": 129960,
+        "name": "Namangan",
+        "country": "UZB",
+        "state": "NG"
+    },
+    {
+        "id": 129980,
+        "name": "Pop",
+        "country": "UZB",
+        "state": "NG"
+    },
+    {
+        "id": 130009,
+        "name": "To‘rqao‘rg‘on",
+        "country": "UZB",
+        "state": "NG"
+    },
+    {
+        "id": 130007,
+        "name": "Toshbuloq",
+        "country": "UZB",
+        "state": "NG"
+    },
+    {
+        "id": 130011,
+        "name": "Uchqŭrghon Shahri",
+        "country": "UZB",
+        "state": "NG"
+    },
+    {
+        "id": 130015,
+        "name": "Uychi",
+        "country": "UZB",
+        "state": "NG"
+    },
+    {
+        "id": 130021,
+        "name": "Yangiqo‘rg‘on",
+        "country": "UZB",
+        "state": "NG"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

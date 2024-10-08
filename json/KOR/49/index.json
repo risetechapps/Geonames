@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 65317,
@@ -23,4 +24,31 @@
         "country": "KOR",
         "state": "49"
     }
+=======
+[
+    {
+        "id": 65317,
+        "name": "Gaigeturi",
+        "country": "KOR",
+        "state": "49"
+    },
+    {
+        "id": 65406,
+        "name": "Jeju City",
+        "country": "KOR",
+        "state": "49"
+    },
+    {
+        "id": 65407,
+        "name": "Jeju-si",
+        "country": "KOR",
+        "state": "49"
+    },
+    {
+        "id": 65490,
+        "name": "Seogwipo",
+        "country": "KOR",
+        "state": "49"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

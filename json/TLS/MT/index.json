@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 106835,
@@ -35,4 +36,43 @@
         "country": "TLS",
         "state": "MT"
     }
+=======
+[
+    {
+        "id": 106835,
+        "name": "Barique",
+        "country": "TLS",
+        "state": "MT"
+    },
+    {
+        "id": 106849,
+        "name": "Laclo",
+        "country": "TLS",
+        "state": "MT"
+    },
+    {
+        "id": 106850,
+        "name": "Laclubar",
+        "country": "TLS",
+        "state": "MT"
+    },
+    {
+        "id": 106860,
+        "name": "Manatuto",
+        "country": "TLS",
+        "state": "MT"
+    },
+    {
+        "id": 106861,
+        "name": "Manatutu",
+        "country": "TLS",
+        "state": "MT"
+    },
+    {
+        "id": 106870,
+        "name": "Soibada",
+        "country": "TLS",
+        "state": "MT"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

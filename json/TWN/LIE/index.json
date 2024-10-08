@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 109018,
@@ -11,4 +12,19 @@
         "country": "TWN",
         "state": "LIE"
     }
+=======
+[
+    {
+        "id": 109018,
+        "name": "Lienchiang",
+        "country": "TWN",
+        "state": "LIE"
+    },
+    {
+        "id": 109022,
+        "name": "Nangan",
+        "country": "TWN",
+        "state": "LIE"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

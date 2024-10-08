@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 65962,
@@ -47,4 +48,55 @@
         "country": "LCA",
         "state": "12"
     }
+=======
+[
+    {
+        "id": 65962,
+        "name": "Anse Cochon",
+        "country": "LCA",
+        "state": "12"
+    },
+    {
+        "id": 65963,
+        "name": "Anse Galet",
+        "country": "LCA",
+        "state": "12"
+    },
+    {
+        "id": 65966,
+        "name": "Anse La Verdue",
+        "country": "LCA",
+        "state": "12"
+    },
+    {
+        "id": 66006,
+        "name": "Belvedere",
+        "country": "LCA",
+        "state": "12"
+    },
+    {
+        "id": 66063,
+        "name": "Chalon",
+        "country": "LCA",
+        "state": "12"
+    },
+    {
+        "id": 66359,
+        "name": "Riverside Road",
+        "country": "LCA",
+        "state": "12"
+    },
+    {
+        "id": 66397,
+        "name": "Theodrine",
+        "country": "LCA",
+        "state": "12"
+    },
+    {
+        "id": 66428,
+        "name": "Village",
+        "country": "LCA",
+        "state": "12"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

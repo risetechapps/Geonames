@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 8058,
@@ -11,4 +12,19 @@
         "country": "AZE",
         "state": "BAL"
     }
+=======
+[
+    {
+        "id": 8058,
+        "name": "Belokany",
+        "country": "AZE",
+        "state": "BAL"
+    },
+    {
+        "id": 8135,
+        "name": "Qabaqçöl",
+        "country": "AZE",
+        "state": "BAL"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

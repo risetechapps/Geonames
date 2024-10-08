@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 8038,
@@ -17,4 +18,25 @@
         "country": "AZE",
         "state": "AGA"
     }
+=======
+[
+    {
+        "id": 8038,
+        "name": "Aghstafa",
+        "country": "AZE",
+        "state": "AGA"
+    },
+    {
+        "id": 8163,
+        "name": "Saloğlu",
+        "country": "AZE",
+        "state": "AGA"
+    },
+    {
+        "id": 8188,
+        "name": "Vurğun",
+        "country": "AZE",
+        "state": "AGA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

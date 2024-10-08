@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 102804,
@@ -47,4 +48,55 @@
         "country": "SAU",
         "state": "14"
     }
+=======
+[
+    {
+        "id": 102804,
+        "name": "Abha",
+        "country": "SAU",
+        "state": "14"
+    },
+    {
+        "id": 102827,
+        "name": "Al Majāridah",
+        "country": "SAU",
+        "state": "14"
+    },
+    {
+        "id": 148594,
+        "name": "Al Qahab",
+        "country": "SAU",
+        "state": "14"
+    },
+    {
+        "id": 102861,
+        "name": "Khamis Mushait",
+        "country": "SAU",
+        "state": "14"
+    },
+    {
+        "id": 148596,
+        "name": "Ma`riyah",
+        "country": "SAU",
+        "state": "14"
+    },
+    {
+        "id": 148597,
+        "name": "Mifa",
+        "country": "SAU",
+        "state": "14"
+    },
+    {
+        "id": 148598,
+        "name": "Munayzir",
+        "country": "SAU",
+        "state": "14"
+    },
+    {
+        "id": 102882,
+        "name": "Tabālah",
+        "country": "SAU",
+        "state": "14"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104924,
@@ -11,4 +12,19 @@
         "country": "SLV",
         "state": "CA"
     }
+=======
+[
+    {
+        "id": 104924,
+        "name": "Sensuntepeque",
+        "country": "SLV",
+        "state": "CA"
+    },
+    {
+        "id": 104937,
+        "name": "Victoria",
+        "country": "SLV",
+        "state": "CA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

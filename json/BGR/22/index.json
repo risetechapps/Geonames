@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 9291,
@@ -17,4 +18,25 @@
         "country": "BGR",
         "state": "22"
     }
+=======
+[
+    {
+        "id": 9291,
+        "name": "Buhovo",
+        "country": "BGR",
+        "state": "22"
+    },
+    {
+        "id": 9701,
+        "name": "Sofia",
+        "country": "BGR",
+        "state": "22"
+    },
+    {
+        "id": 9707,
+        "name": "Stolichna Obshtina",
+        "country": "BGR",
+        "state": "22"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

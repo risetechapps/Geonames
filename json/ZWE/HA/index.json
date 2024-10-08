@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 131425,
@@ -17,4 +18,25 @@
         "country": "ZWE",
         "state": "HA"
     }
+=======
+[
+    {
+        "id": 131425,
+        "name": "Chitungwiza",
+        "country": "ZWE",
+        "state": "HA"
+    },
+    {
+        "id": 131431,
+        "name": "Epworth",
+        "country": "ZWE",
+        "state": "HA"
+    },
+    {
+        "id": 131443,
+        "name": "Harare",
+        "country": "ZWE",
+        "state": "HA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

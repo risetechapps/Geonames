@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 18873,
@@ -35,4 +36,43 @@
         "country": "CIV",
         "state": "WR"
     }
+=======
+[
+    {
+        "id": 18873,
+        "name": "Bafing",
+        "country": "CIV",
+        "state": "WR"
+    },
+    {
+        "id": 18888,
+        "name": "Béré",
+        "country": "CIV",
+        "state": "WR"
+    },
+    {
+        "id": 18920,
+        "name": "Mankono",
+        "country": "CIV",
+        "state": "WR"
+    },
+    {
+        "id": 18932,
+        "name": "Séguéla",
+        "country": "CIV",
+        "state": "WR"
+    },
+    {
+        "id": 18937,
+        "name": "Touba",
+        "country": "CIV",
+        "state": "WR"
+    },
+    {
+        "id": 18941,
+        "name": "Worodougou",
+        "country": "CIV",
+        "state": "WR"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

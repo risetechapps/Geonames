@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 109048,
@@ -83,4 +84,91 @@
         "country": "TZA",
         "state": "05"
     }
+=======
+[
+    {
+        "id": 109048,
+        "name": "Biharamulo",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109049,
+        "name": "Bugarama",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109050,
+        "name": "Bugene",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109052,
+        "name": "Bukoba",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109088,
+        "name": "Kabanga",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109092,
+        "name": "Kamachumu",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109096,
+        "name": "Katerero",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109099,
+        "name": "Katoro",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109138,
+        "name": "Kyaka",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109251,
+        "name": "Ngara",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109259,
+        "name": "Nshamba",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109260,
+        "name": "Nsunga",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109263,
+        "name": "Nyakahanga",
+        "country": "TZA",
+        "state": "05"
+    },
+    {
+        "id": 109273,
+        "name": "Rulenge",
+        "country": "TZA",
+        "state": "05"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

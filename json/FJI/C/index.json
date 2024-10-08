@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 39145,
@@ -35,4 +36,43 @@
         "country": "FJI",
         "state": "C"
     }
+=======
+[
+    {
+        "id": 39145,
+        "name": "Naitasiri Province",
+        "country": "FJI",
+        "state": "C"
+    },
+    {
+        "id": 39146,
+        "name": "Namosi Province",
+        "country": "FJI",
+        "state": "C"
+    },
+    {
+        "id": 39149,
+        "name": "Rewa Province",
+        "country": "FJI",
+        "state": "C"
+    },
+    {
+        "id": 39150,
+        "name": "Serua Province",
+        "country": "FJI",
+        "state": "C"
+    },
+    {
+        "id": 39151,
+        "name": "Suva",
+        "country": "FJI",
+        "state": "C"
+    },
+    {
+        "id": 39152,
+        "name": "Tailevu Province",
+        "country": "FJI",
+        "state": "C"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

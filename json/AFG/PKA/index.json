@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 120,
@@ -17,4 +18,25 @@
         "country": "AFG",
         "state": "PKA"
     }
+=======
+[
+    {
+        "id": 120,
+        "name": "Saṟōbī",
+        "country": "AFG",
+        "state": "PKA"
+    },
+    {
+        "id": 134,
+        "name": "Zaṟah Sharan",
+        "country": "AFG",
+        "state": "PKA"
+    },
+    {
+        "id": 133,
+        "name": "Zarghūn Shahr",
+        "country": "AFG",
+        "state": "PKA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

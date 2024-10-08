@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 129810,
@@ -29,4 +30,37 @@
         "country": "URY",
         "state": "LA"
     }
+=======
+[
+    {
+        "id": 129810,
+        "name": "José Batlle y Ordóñez",
+        "country": "URY",
+        "state": "LA"
+    },
+    {
+        "id": 129812,
+        "name": "José Pedro Varela",
+        "country": "URY",
+        "state": "LA"
+    },
+    {
+        "id": 129826,
+        "name": "Mariscala",
+        "country": "URY",
+        "state": "LA"
+    },
+    {
+        "id": 129830,
+        "name": "Minas",
+        "country": "URY",
+        "state": "LA"
+    },
+    {
+        "id": 129876,
+        "name": "Solís de Mataojo",
+        "country": "URY",
+        "state": "LA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

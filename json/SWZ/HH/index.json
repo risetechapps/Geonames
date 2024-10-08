@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 105084,
@@ -35,4 +36,43 @@
         "country": "SWZ",
         "state": "HH"
     }
+=======
+[
+    {
+        "id": 105084,
+        "name": "Bulembu",
+        "country": "SWZ",
+        "state": "HH"
+    },
+    {
+        "id": 105087,
+        "name": "Hhukwini",
+        "country": "SWZ",
+        "state": "HH"
+    },
+    {
+        "id": 105093,
+        "name": "Lobamba",
+        "country": "SWZ",
+        "state": "HH"
+    },
+    {
+        "id": 105099,
+        "name": "Mbabane",
+        "country": "SWZ",
+        "state": "HH"
+    },
+    {
+        "id": 105105,
+        "name": "Nkhaba",
+        "country": "SWZ",
+        "state": "HH"
+    },
+    {
+        "id": 105109,
+        "name": "Piggs Peak",
+        "country": "SWZ",
+        "state": "HH"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

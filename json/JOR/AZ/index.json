@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 63130,
@@ -17,4 +18,25 @@
         "country": "JOR",
         "state": "AZ"
     }
+=======
+[
+    {
+        "id": 63130,
+        "name": "Al Azraq ash Shamālī",
+        "country": "JOR",
+        "state": "AZ"
+    },
+    {
+        "id": 63181,
+        "name": "Russeifa",
+        "country": "JOR",
+        "state": "AZ"
+    },
+    {
+        "id": 63196,
+        "name": "Zarqa",
+        "country": "JOR",
+        "state": "AZ"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

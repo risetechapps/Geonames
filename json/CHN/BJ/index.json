@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 19332,
@@ -47,4 +48,55 @@
         "country": "CHN",
         "state": "BJ"
     }
+=======
+[
+    {
+        "id": 19332,
+        "name": "Beijing",
+        "country": "CHN",
+        "state": "BJ"
+    },
+    {
+        "id": 19370,
+        "name": "Changping",
+        "country": "CHN",
+        "state": "BJ"
+    },
+    {
+        "id": 19439,
+        "name": "Daxing",
+        "country": "CHN",
+        "state": "BJ"
+    },
+    {
+        "id": 19499,
+        "name": "Fangshan",
+        "country": "CHN",
+        "state": "BJ"
+    },
+    {
+        "id": 19817,
+        "name": "Liangxiang",
+        "country": "CHN",
+        "state": "BJ"
+    },
+    {
+        "id": 19916,
+        "name": "Mentougou",
+        "country": "CHN",
+        "state": "BJ"
+    },
+    {
+        "id": 20126,
+        "name": "Shunyi",
+        "country": "CHN",
+        "state": "BJ"
+    },
+    {
+        "id": 20197,
+        "name": "Tongzhou",
+        "country": "CHN",
+        "state": "BJ"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

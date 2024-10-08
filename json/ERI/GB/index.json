@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31882,
@@ -17,4 +18,25 @@
         "country": "ERI",
         "state": "GB"
     }
+=======
+[
+    {
+        "id": 31882,
+        "name": "Ak’ordat",
+        "country": "ERI",
+        "state": "GB"
+    },
+    {
+        "id": 31885,
+        "name": "Barentu",
+        "country": "ERI",
+        "state": "GB"
+    },
+    {
+        "id": 31891,
+        "name": "Teseney",
+        "country": "ERI",
+        "state": "GB"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 106841,
@@ -29,4 +30,37 @@
         "country": "TLS",
         "state": "ER"
     }
+=======
+[
+    {
+        "id": 106841,
+        "name": "Ermera Villa",
+        "country": "TLS",
+        "state": "ER"
+    },
+    {
+        "id": 106845,
+        "name": "Gleno",
+        "country": "TLS",
+        "state": "ER"
+    },
+    {
+        "id": 106847,
+        "name": "Hatulia",
+        "country": "TLS",
+        "state": "ER"
+    },
+    {
+        "id": 106855,
+        "name": "Letefoho",
+        "country": "TLS",
+        "state": "ER"
+    },
+    {
+        "id": 106867,
+        "name": "Railaco",
+        "country": "TLS",
+        "state": "ER"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

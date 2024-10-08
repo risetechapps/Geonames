@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 77180,
@@ -29,4 +30,37 @@
         "country": "NIC",
         "state": "SJ"
     }
+=======
+[
+    {
+        "id": 77180,
+        "name": "El Almendro",
+        "country": "NIC",
+        "state": "SJ"
+    },
+    {
+        "id": 77193,
+        "name": "Greytown",
+        "country": "NIC",
+        "state": "SJ"
+    },
+    {
+        "id": 77219,
+        "name": "Morrito",
+        "country": "NIC",
+        "state": "SJ"
+    },
+    {
+        "id": 77255,
+        "name": "San Carlos",
+        "country": "NIC",
+        "state": "SJ"
+    },
+    {
+        "id": 77268,
+        "name": "San Miguelito",
+        "country": "NIC",
+        "state": "SJ"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

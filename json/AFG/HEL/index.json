@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 141,
@@ -29,4 +30,37 @@
         "country": "AFG",
         "state": "HEL"
     }
+=======
+[
+    {
+        "id": 141,
+        "name": "‘Alāqahdārī Dīshū",
+        "country": "AFG",
+        "state": "HEL"
+    },
+    {
+        "id": 70,
+        "name": "Gereshk",
+        "country": "AFG",
+        "state": "HEL"
+    },
+    {
+        "id": 93,
+        "name": "Lashkar Gāh",
+        "country": "AFG",
+        "state": "HEL"
+    },
+    {
+        "id": 95,
+        "name": "Markaz-e Ḩukūmat-e Darwēshān",
+        "country": "AFG",
+        "state": "HEL"
+    },
+    {
+        "id": 118,
+        "name": "Sangīn",
+        "country": "AFG",
+        "state": "HEL"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

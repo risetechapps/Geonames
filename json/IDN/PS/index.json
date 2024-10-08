@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 56321,
@@ -23,4 +24,31 @@
         "country": "IDN",
         "state": "PS"
     }
+=======
+[
+    {
+        "id": 56321,
+        "name": "Kabupaten Asmat",
+        "country": "IDN",
+        "state": "PS"
+    },
+    {
+        "id": 56376,
+        "name": "Kabupaten Boven Digoel",
+        "country": "IDN",
+        "state": "PS"
+    },
+    {
+        "id": 56529,
+        "name": "Kabupaten Mappi",
+        "country": "IDN",
+        "state": "PS"
+    },
+    {
+        "id": 56533,
+        "name": "Kabupaten Merauke",
+        "country": "IDN",
+        "state": "PS"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 9158,
@@ -23,4 +24,31 @@
         "country": "BFA",
         "state": "02"
     }
+=======
+[
+    {
+        "id": 9158,
+        "name": "Banfora",
+        "country": "BFA",
+        "state": "02"
+    },
+    {
+        "id": 9200,
+        "name": "Province de la Comoé",
+        "country": "BFA",
+        "state": "02"
+    },
+    {
+        "id": 9204,
+        "name": "Province de la Léraba",
+        "country": "BFA",
+        "state": "02"
+    },
+    {
+        "id": 9241,
+        "name": "Sindou",
+        "country": "BFA",
+        "state": "02"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

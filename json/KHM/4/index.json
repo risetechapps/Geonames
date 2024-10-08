@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 64939,
@@ -29,4 +30,37 @@
         "country": "KHM",
         "state": "4"
     }
+=======
+[
+    {
+        "id": 64939,
+        "name": "Baribour",
+        "country": "KHM",
+        "state": "4"
+    },
+    {
+        "id": 64945,
+        "name": "Kampong Chhnang",
+        "country": "KHM",
+        "state": "4"
+    },
+    {
+        "id": 64974,
+        "name": "Rolea B'ier",
+        "country": "KHM",
+        "state": "4"
+    },
+    {
+        "id": 64997,
+        "name": "Srŏk Chol Kiri",
+        "country": "KHM",
+        "state": "4"
+    },
+    {
+        "id": 65019,
+        "name": "Srŏk Sameakki Mean Chey",
+        "country": "KHM",
+        "state": "4"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

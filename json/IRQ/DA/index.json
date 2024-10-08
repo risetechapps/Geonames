@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 134489,
@@ -29,4 +30,37 @@
         "country": "IRQ",
         "state": "DA"
     }
+=======
+[
+    {
+        "id": 134489,
+        "name": "Al ‘Amādīyah",
+        "country": "IRQ",
+        "state": "DA"
+    },
+    {
+        "id": 134509,
+        "name": "Batifa",
+        "country": "IRQ",
+        "state": "DA"
+    },
+    {
+        "id": 134512,
+        "name": "Dihok",
+        "country": "IRQ",
+        "state": "DA"
+    },
+    {
+        "id": 134541,
+        "name": "Sīnah",
+        "country": "IRQ",
+        "state": "DA"
+    },
+    {
+        "id": 134547,
+        "name": "Zaxo",
+        "country": "IRQ",
+        "state": "DA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

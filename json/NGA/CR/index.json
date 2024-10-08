@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 76761,
@@ -29,4 +30,37 @@
         "country": "NGA",
         "state": "CR"
     }
+=======
+[
+    {
+        "id": 76761,
+        "name": "Akankpa",
+        "country": "NGA",
+        "state": "CR"
+    },
+    {
+        "id": 76821,
+        "name": "Calabar",
+        "country": "NGA",
+        "state": "CR"
+    },
+    {
+        "id": 76873,
+        "name": "Gakem",
+        "country": "NGA",
+        "state": "CR"
+    },
+    {
+        "id": 76931,
+        "name": "Ikang",
+        "country": "NGA",
+        "state": "CR"
+    },
+    {
+        "id": 77122,
+        "name": "Ugep",
+        "country": "NGA",
+        "state": "CR"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

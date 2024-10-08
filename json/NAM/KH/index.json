@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 76638,
@@ -11,4 +12,19 @@
         "country": "NAM",
         "state": "KH"
     }
+=======
+[
+    {
+        "id": 76638,
+        "name": "Katutura",
+        "country": "NAM",
+        "state": "KH"
+    },
+    {
+        "id": 76673,
+        "name": "Windhoek",
+        "country": "NAM",
+        "state": "KH"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

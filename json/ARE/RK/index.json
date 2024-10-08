@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 43,
@@ -11,4 +12,19 @@
         "country": "ARE",
         "state": "RK"
     }
+=======
+[
+    {
+        "id": 43,
+        "name": "Ras Al Khaimah",
+        "country": "ARE",
+        "state": "RK"
+    },
+    {
+        "id": 44,
+        "name": "Ras Al Khaimah City",
+        "country": "ARE",
+        "state": "RK"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

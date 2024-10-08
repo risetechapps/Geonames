@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 65021,
@@ -11,4 +12,19 @@
         "country": "KHM",
         "state": "20"
     }
+=======
+[
+    {
+        "id": 65021,
+        "name": "Srŏk Svay Chrŭm",
+        "country": "KHM",
+        "state": "20"
+    },
+    {
+        "id": 65036,
+        "name": "Svay Rieng",
+        "country": "KHM",
+        "state": "20"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

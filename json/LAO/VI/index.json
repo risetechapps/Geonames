@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 65892,
@@ -11,4 +12,19 @@
         "country": "LAO",
         "state": "VI"
     }
+=======
+[
+    {
+        "id": 65892,
+        "name": "Muang Phôn-Hông",
+        "country": "LAO",
+        "state": "VI"
+    },
+    {
+        "id": 65926,
+        "name": "Vangviang",
+        "country": "LAO",
+        "state": "VI"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

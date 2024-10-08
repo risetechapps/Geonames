@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 65573,
@@ -11,4 +12,19 @@
         "country": "KWT",
         "state": "FA"
     }
+=======
+[
+    {
+        "id": 65573,
+        "name": "Al Farwānīyah",
+        "country": "KWT",
+        "state": "FA"
+    },
+    {
+        "id": 65589,
+        "name": "Janūb as Surrah",
+        "country": "KWT",
+        "state": "FA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

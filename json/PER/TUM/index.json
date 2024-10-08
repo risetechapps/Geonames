@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 80557,
@@ -47,4 +48,55 @@
         "country": "PER",
         "state": "TUM"
     }
+=======
+[
+    {
+        "id": 80557,
+        "name": "Aguas Verdes",
+        "country": "PER",
+        "state": "TUM"
+    },
+    {
+        "id": 80751,
+        "name": "Papayal",
+        "country": "PER",
+        "state": "TUM"
+    },
+    {
+        "id": 80813,
+        "name": "Provincia de Contralmirante Villar",
+        "country": "PER",
+        "state": "TUM"
+    },
+    {
+        "id": 80905,
+        "name": "Provincia de Tumbes",
+        "country": "PER",
+        "state": "TUM"
+    },
+    {
+        "id": 80912,
+        "name": "Provincia de Zarumilla",
+        "country": "PER",
+        "state": "TUM"
+    },
+    {
+        "id": 80999,
+        "name": "Tumbes",
+        "country": "PER",
+        "state": "TUM"
+    },
+    {
+        "id": 81021,
+        "name": "Zarumilla",
+        "country": "PER",
+        "state": "TUM"
+    },
+    {
+        "id": 81022,
+        "name": "Zorritos",
+        "country": "PER",
+        "state": "TUM"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

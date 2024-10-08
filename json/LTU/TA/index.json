@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 66590,
@@ -29,4 +30,37 @@
         "country": "LTU",
         "state": "TA"
     }
+=======
+[
+    {
+        "id": 66590,
+        "name": "Būgai",
+        "country": "LTU",
+        "state": "TA"
+    },
+    {
+        "id": 66609,
+        "name": "Jurbarkas",
+        "country": "LTU",
+        "state": "TA"
+    },
+    {
+        "id": 66648,
+        "name": "Pagėgiai",
+        "country": "LTU",
+        "state": "TA"
+    },
+    {
+        "id": 66715,
+        "name": "Šilalė",
+        "country": "LTU",
+        "state": "TA"
+    },
+    {
+        "id": 66683,
+        "name": "Taurage",
+        "country": "LTU",
+        "state": "TA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

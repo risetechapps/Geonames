@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 89727,
@@ -17,4 +18,25 @@
         "country": "PRY",
         "state": "15"
     }
+=======
+[
+    {
+        "id": 89727,
+        "name": "Benjamín Aceval",
+        "country": "PRY",
+        "state": "15"
+    },
+    {
+        "id": 89798,
+        "name": "Nanawua",
+        "country": "PRY",
+        "state": "15"
+    },
+    {
+        "id": 89845,
+        "name": "Villa Hayes",
+        "country": "PRY",
+        "state": "15"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

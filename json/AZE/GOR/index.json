@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 8084,
@@ -11,4 +12,19 @@
         "country": "AZE",
         "state": "GOR"
     }
+=======
+[
+    {
+        "id": 8084,
+        "name": "Goranboy",
+        "country": "AZE",
+        "state": "GOR"
+    },
+    {
+        "id": 8158,
+        "name": "Qızılhacılı",
+        "country": "AZE",
+        "state": "GOR"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

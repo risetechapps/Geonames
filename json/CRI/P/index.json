@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 21654,
@@ -113,4 +114,121 @@
         "country": "CRI",
         "state": "P"
     }
+=======
+[
+    {
+        "id": 21654,
+        "name": "Buenos Aires",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21656,
+        "name": "Canoas",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21661,
+        "name": "Chacarita",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21662,
+        "name": "Ciudad Cortés",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21666,
+        "name": "Corredor",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21667,
+        "name": "Corredores",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21669,
+        "name": "Coto Brus",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21677,
+        "name": "Esparza",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21681,
+        "name": "Garabito",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21683,
+        "name": "Golfito",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21693,
+        "name": "Jacó",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21709,
+        "name": "Miramar",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21711,
+        "name": "Montes de Oro",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21720,
+        "name": "Osa",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21724,
+        "name": "Paquera",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21726,
+        "name": "Parrita",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21734,
+        "name": "Puntarenas",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21738,
+        "name": "Quepos",
+        "country": "CRI",
+        "state": "P"
+    },
+    {
+        "id": 21773,
+        "name": "San Vito",
+        "country": "CRI",
+        "state": "P"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

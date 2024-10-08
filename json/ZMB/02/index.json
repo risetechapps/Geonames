@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 131332,
@@ -41,4 +42,49 @@
         "country": "ZMB",
         "state": "02"
     }
+=======
+[
+    {
+        "id": 131332,
+        "name": "Chibombo",
+        "country": "ZMB",
+        "state": "02"
+    },
+    {
+        "id": 131333,
+        "name": "Chibombo District",
+        "country": "ZMB",
+        "state": "02"
+    },
+    {
+        "id": 131345,
+        "name": "Kabwe",
+        "country": "ZMB",
+        "state": "02"
+    },
+    {
+        "id": 131352,
+        "name": "Kapiri Mposhi",
+        "country": "ZMB",
+        "state": "02"
+    },
+    {
+        "id": 131371,
+        "name": "Mkushi",
+        "country": "ZMB",
+        "state": "02"
+    },
+    {
+        "id": 131380,
+        "name": "Mumbwa",
+        "country": "ZMB",
+        "state": "02"
+    },
+    {
+        "id": 131393,
+        "name": "Serenje",
+        "country": "ZMB",
+        "state": "02"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

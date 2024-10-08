@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 969,
@@ -23,4 +24,31 @@
         "country": "SWZ",
         "state_code": "SH"
     }
+=======
+[
+    {
+        "id": 969,
+        "name": "Hhohho District",
+        "country": "SWZ",
+        "state": "HH"
+    },
+    {
+        "id": 970,
+        "name": "Lubombo District",
+        "country": "SWZ",
+        "state": "LU"
+    },
+    {
+        "id": 968,
+        "name": "Manzini District",
+        "country": "SWZ",
+        "state": "MA"
+    },
+    {
+        "id": 971,
+        "name": "Shiselweni District",
+        "country": "SWZ",
+        "state": "SH"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

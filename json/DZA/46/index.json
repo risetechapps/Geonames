@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31250,
@@ -29,4 +30,37 @@
         "country": "DZA",
         "state": "46"
     }
+=======
+[
+    {
+        "id": 31250,
+        "name": "Aïn Temouchent",
+        "country": "DZA",
+        "state": "46"
+    },
+    {
+        "id": 31265,
+        "name": "Beni Saf",
+        "country": "DZA",
+        "state": "46"
+    },
+    {
+        "id": 31329,
+        "name": "El Amria",
+        "country": "DZA",
+        "state": "46"
+    },
+    {
+        "id": 31340,
+        "name": "El Malah",
+        "country": "DZA",
+        "state": "46"
+    },
+    {
+        "id": 31351,
+        "name": "Hammam Bou Hadjar",
+        "country": "DZA",
+        "state": "46"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

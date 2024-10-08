@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 66460,
@@ -35,4 +36,43 @@
         "country": "LKA",
         "state": "6"
     }
+=======
+[
+    {
+        "id": 66460,
+        "name": "Chilaw",
+        "country": "LKA",
+        "state": "6"
+    },
+    {
+        "id": 66501,
+        "name": "Kuliyapitiya",
+        "country": "LKA",
+        "state": "6"
+    },
+    {
+        "id": 66502,
+        "name": "Kurunegala",
+        "country": "LKA",
+        "state": "6"
+    },
+    {
+        "id": 66503,
+        "name": "Kurunegala District",
+        "country": "LKA",
+        "state": "6"
+    },
+    {
+        "id": 66525,
+        "name": "Puttalam",
+        "country": "LKA",
+        "state": "6"
+    },
+    {
+        "id": 66526,
+        "name": "Puttalam District",
+        "country": "LKA",
+        "state": "6"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

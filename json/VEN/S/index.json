@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130070,
@@ -47,4 +48,55 @@
         "country": "VEN",
         "state": "S"
     }
+=======
+[
+    {
+        "id": 130070,
+        "name": "Colón",
+        "country": "VEN",
+        "state": "S"
+    },
+    {
+        "id": 130090,
+        "name": "La Fría",
+        "country": "VEN",
+        "state": "S"
+    },
+    {
+        "id": 130091,
+        "name": "La Grita",
+        "country": "VEN",
+        "state": "S"
+    },
+    {
+        "id": 130114,
+        "name": "Municipio José María Vargas",
+        "country": "VEN",
+        "state": "S"
+    },
+    {
+        "id": 130138,
+        "name": "Rubio",
+        "country": "VEN",
+        "state": "S"
+    },
+    {
+        "id": 130140,
+        "name": "San Antonio del Táchira",
+        "country": "VEN",
+        "state": "S"
+    },
+    {
+        "id": 130144,
+        "name": "San Cristóbal",
+        "country": "VEN",
+        "state": "S"
+    },
+    {
+        "id": 130163,
+        "name": "Táriba",
+        "country": "VEN",
+        "state": "S"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

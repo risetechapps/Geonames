@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 682,
@@ -59,4 +60,67 @@
         "country": "ARG",
         "state": "B"
     }
+=======
+[
+    {
+        "id": 682,
+        "name": "Balvanera",
+        "country": "ARG",
+        "state": "B"
+    },
+    {
+        "id": 683,
+        "name": "Barracas",
+        "country": "ARG",
+        "state": "B"
+    },
+    {
+        "id": 687,
+        "name": "Belgrano",
+        "country": "ARG",
+        "state": "B"
+    },
+    {
+        "id": 697,
+        "name": "Boedo",
+        "country": "ARG",
+        "state": "B"
+    },
+    {
+        "id": 704,
+        "name": "Buenos Aires",
+        "country": "ARG",
+        "state": "B"
+    },
+    {
+        "id": 773,
+        "name": "Colegiales",
+        "country": "ARG",
+        "state": "B"
+    },
+    {
+        "id": 1380,
+        "name": "Retiro",
+        "country": "ARG",
+        "state": "B"
+    },
+    {
+        "id": 1561,
+        "name": "Villa Lugano",
+        "country": "ARG",
+        "state": "B"
+    },
+    {
+        "id": 1570,
+        "name": "Villa Ortúzar",
+        "country": "ARG",
+        "state": "B"
+    },
+    {
+        "id": 1576,
+        "name": "Villa Santa Rita",
+        "country": "ARG",
+        "state": "B"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

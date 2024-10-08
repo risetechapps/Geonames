@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 109058,
@@ -41,4 +42,49 @@
         "country": "TZA",
         "state": "20"
     }
+=======
+[
+    {
+        "id": 109058,
+        "name": "Chala",
+        "country": "TZA",
+        "state": "20"
+    },
+    {
+        "id": 109120,
+        "name": "Kirando",
+        "country": "TZA",
+        "state": "20"
+    },
+    {
+        "id": 109139,
+        "name": "Laela",
+        "country": "TZA",
+        "state": "20"
+    },
+    {
+        "id": 109180,
+        "name": "Matai",
+        "country": "TZA",
+        "state": "20"
+    },
+    {
+        "id": 109239,
+        "name": "Namanyere",
+        "country": "TZA",
+        "state": "20"
+    },
+    {
+        "id": 109258,
+        "name": "Nkove",
+        "country": "TZA",
+        "state": "20"
+    },
+    {
+        "id": 109286,
+        "name": "Sumbawanga",
+        "country": "TZA",
+        "state": "20"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

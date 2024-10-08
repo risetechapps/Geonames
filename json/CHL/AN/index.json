@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 18946,
@@ -53,4 +54,61 @@
         "country": "CHL",
         "state": "AN"
     }
+=======
+[
+    {
+        "id": 18946,
+        "name": "Antofagasta",
+        "country": "CHL",
+        "state": "AN"
+    },
+    {
+        "id": 18952,
+        "name": "Calama",
+        "country": "CHL",
+        "state": "AN"
+    },
+    {
+        "id": 148326,
+        "name": "María Elena",
+        "country": "CHL",
+        "state": "AN"
+    },
+    {
+        "id": 19033,
+        "name": "Mejillones",
+        "country": "CHL",
+        "state": "AN"
+    },
+    {
+        "id": 19074,
+        "name": "Ollagüe",
+        "country": "CHL",
+        "state": "AN"
+    },
+    {
+        "id": 19107,
+        "name": "San Pedro de Atacama",
+        "country": "CHL",
+        "state": "AN"
+    },
+    {
+        "id": 19051,
+        "name": "Sierra Gorda",
+        "country": "CHL",
+        "state": "AN"
+    },
+    {
+        "id": 19115,
+        "name": "Taltal",
+        "country": "CHL",
+        "state": "AN"
+    },
+    {
+        "id": 19118,
+        "name": "Tocopilla",
+        "country": "CHL",
+        "state": "AN"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

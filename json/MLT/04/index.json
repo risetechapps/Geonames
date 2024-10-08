@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67760,
@@ -17,4 +18,25 @@
         "country": "MLT",
         "state": "04"
     }
+=======
+[
+    {
+        "id": 67760,
+        "name": "Birkirkara",
+        "country": "MLT",
+        "state": "04"
+    },
+    {
+        "id": 153733,
+        "name": "Fleur De Lys",
+        "country": "MLT",
+        "state": "04"
+    },
+    {
+        "id": 153742,
+        "name": "Swatar",
+        "country": "MLT",
+        "state": "04"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

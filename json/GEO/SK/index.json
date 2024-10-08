@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 52038,
@@ -41,4 +42,49 @@
         "country": "GEO",
         "state": "SK"
     }
+=======
+[
+    {
+        "id": 52038,
+        "name": "Agara",
+        "country": "GEO",
+        "state": "SK"
+    },
+    {
+        "id": 52070,
+        "name": "Gori",
+        "country": "GEO",
+        "state": "SK"
+    },
+    {
+        "id": 52071,
+        "name": "Goris Munitsip’alit’et’i",
+        "country": "GEO",
+        "state": "SK"
+    },
+    {
+        "id": 52077,
+        "name": "Kaspi",
+        "country": "GEO",
+        "state": "SK"
+    },
+    {
+        "id": 52080,
+        "name": "Khashuri",
+        "country": "GEO",
+        "state": "SK"
+    },
+    {
+        "id": 52125,
+        "name": "Surami",
+        "country": "GEO",
+        "state": "SK"
+    },
+    {
+        "id": 52139,
+        "name": "Ts’khinvali",
+        "country": "GEO",
+        "state": "SK"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

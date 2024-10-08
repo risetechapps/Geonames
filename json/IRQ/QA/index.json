@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 134550,
@@ -29,4 +30,37 @@
         "country": "IRQ",
         "state": "QA"
     }
+=======
+[
+    {
+        "id": 134550,
+        "name": "‘Afak",
+        "country": "IRQ",
+        "state": "QA"
+    },
+    {
+        "id": 134476,
+        "name": "Ad Dīwānīyah",
+        "country": "IRQ",
+        "state": "QA"
+    },
+    {
+        "id": 134501,
+        "name": "Ash Shāmīyah",
+        "country": "IRQ",
+        "state": "QA"
+    },
+    {
+        "id": 134530,
+        "name": "Nāḩiyat ash Shināfīyah",
+        "country": "IRQ",
+        "state": "QA"
+    },
+    {
+        "id": 134526,
+        "name": "Nahiyat Ghammas",
+        "country": "IRQ",
+        "state": "QA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

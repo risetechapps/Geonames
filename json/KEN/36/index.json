@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 64851,
@@ -17,4 +18,25 @@
         "country": "KEN",
         "state": "36"
     }
+=======
+[
+    {
+        "id": 64851,
+        "name": "Naro Moru",
+        "country": "KEN",
+        "state": "36"
+    },
+    {
+        "id": 64856,
+        "name": "Nyeri",
+        "country": "KEN",
+        "state": "36"
+    },
+    {
+        "id": 64859,
+        "name": "Othaya",
+        "country": "KEN",
+        "state": "36"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

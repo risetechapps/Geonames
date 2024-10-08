@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67402,
@@ -11,4 +12,19 @@
         "country": "MKD",
         "state": "46"
     }
+=======
+[
+    {
+        "id": 67402,
+        "name": "Bučin",
+        "country": "MKD",
+        "state": "46"
+    },
+    {
+        "id": 67461,
+        "name": "Krusevo",
+        "country": "MKD",
+        "state": "46"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

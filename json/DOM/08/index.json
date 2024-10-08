@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31131,
@@ -17,4 +18,25 @@
         "country": "DOM",
         "state": "08"
     }
+=======
+[
+    {
+        "id": 31131,
+        "name": "Miches",
+        "country": "DOM",
+        "state": "08"
+    },
+    {
+        "id": 31151,
+        "name": "Pedro Sánchez",
+        "country": "DOM",
+        "state": "08"
+    },
+    {
+        "id": 31195,
+        "name": "Santa Cruz de El Seibo",
+        "country": "DOM",
+        "state": "08"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

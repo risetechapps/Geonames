@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 76925,
@@ -35,4 +36,43 @@
         "country": "NGA",
         "state": "IM"
     }
+=======
+[
+    {
+        "id": 76925,
+        "name": "Iho",
+        "country": "NGA",
+        "state": "IM"
+    },
+    {
+        "id": 77055,
+        "name": "Oguta",
+        "country": "NGA",
+        "state": "IM"
+    },
+    {
+        "id": 77062,
+        "name": "Okigwe",
+        "country": "NGA",
+        "state": "IM"
+    },
+    {
+        "id": 77073,
+        "name": "Orlu",
+        "country": "NGA",
+        "state": "IM"
+    },
+    {
+        "id": 77074,
+        "name": "Orodo",
+        "country": "NGA",
+        "state": "IM"
+    },
+    {
+        "id": 77078,
+        "name": "Owerri",
+        "country": "NGA",
+        "state": "IM"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

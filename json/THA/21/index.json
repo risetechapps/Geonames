@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 105187,
@@ -71,4 +72,79 @@
         "country": "THA",
         "state": "21"
     }
+=======
+[
+    {
+        "id": 105187,
+        "name": "Amphoe Ban Chang",
+        "country": "THA",
+        "state": "21"
+    },
+    {
+        "id": 105195,
+        "name": "Amphoe Ban Khai",
+        "country": "THA",
+        "state": "21"
+    },
+    {
+        "id": 105393,
+        "name": "Amphoe Khao Chamao",
+        "country": "THA",
+        "state": "21"
+    },
+    {
+        "id": 105437,
+        "name": "Amphoe Klaeng",
+        "country": "THA",
+        "state": "21"
+    },
+    {
+        "id": 105580,
+        "name": "Amphoe Mueang Rayong",
+        "country": "THA",
+        "state": "21"
+    },
+    {
+        "id": 105645,
+        "name": "Amphoe Nikhom Phattana",
+        "country": "THA",
+        "state": "21"
+    },
+    {
+        "id": 105790,
+        "name": "Amphoe Pluak Daeng",
+        "country": "THA",
+        "state": "21"
+    },
+    {
+        "id": 106334,
+        "name": "Amphoe Wang Chan",
+        "country": "THA",
+        "state": "21"
+    },
+    {
+        "id": 106387,
+        "name": "Ban Chang",
+        "country": "THA",
+        "state": "21"
+    },
+    {
+        "id": 106408,
+        "name": "Ban Phe",
+        "country": "THA",
+        "state": "21"
+    },
+    {
+        "id": 106532,
+        "name": "Klaeng",
+        "country": "THA",
+        "state": "21"
+    },
+    {
+        "id": 106667,
+        "name": "Rayong",
+        "country": "THA",
+        "state": "21"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 8207,
@@ -35,4 +36,43 @@
         "country": "AZE",
         "state": "TOV"
     }
+=======
+[
+    {
+        "id": 8207,
+        "name": "Çatax",
+        "country": "AZE",
+        "state": "TOV"
+    },
+    {
+        "id": 8209,
+        "name": "Çobansığnaq",
+        "country": "AZE",
+        "state": "TOV"
+    },
+    {
+        "id": 8076,
+        "name": "Dondar Quşçu",
+        "country": "AZE",
+        "state": "TOV"
+    },
+    {
+        "id": 8139,
+        "name": "Qaraxanlı",
+        "country": "AZE",
+        "state": "TOV"
+    },
+    {
+        "id": 8183,
+        "name": "Tovuz",
+        "country": "AZE",
+        "state": "TOV"
+    },
+    {
+        "id": 8193,
+        "name": "Yanıqlı",
+        "country": "AZE",
+        "state": "TOV"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

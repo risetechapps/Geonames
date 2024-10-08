@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 52148,
@@ -71,4 +72,79 @@
         "country": "GHA",
         "state": "EP"
     }
+=======
+[
+    {
+        "id": 52148,
+        "name": "Aburi",
+        "country": "GHA",
+        "state": "EP"
+    },
+    {
+        "id": 52152,
+        "name": "Akim Oda",
+        "country": "GHA",
+        "state": "EP"
+    },
+    {
+        "id": 52153,
+        "name": "Akim Swedru",
+        "country": "GHA",
+        "state": "EP"
+    },
+    {
+        "id": 52154,
+        "name": "Akropong",
+        "country": "GHA",
+        "state": "EP"
+    },
+    {
+        "id": 52155,
+        "name": "Akwatia",
+        "country": "GHA",
+        "state": "EP"
+    },
+    {
+        "id": 52158,
+        "name": "Asamankese",
+        "country": "GHA",
+        "state": "EP"
+    },
+    {
+        "id": 52163,
+        "name": "Begoro",
+        "country": "GHA",
+        "state": "EP"
+    },
+    {
+        "id": 52182,
+        "name": "Kibi",
+        "country": "GHA",
+        "state": "EP"
+    },
+    {
+        "id": 52184,
+        "name": "Koforidua",
+        "country": "GHA",
+        "state": "EP"
+    },
+    {
+        "id": 52191,
+        "name": "Mpraeso",
+        "country": "GHA",
+        "state": "EP"
+    },
+    {
+        "id": 52194,
+        "name": "Nsawam",
+        "country": "GHA",
+        "state": "EP"
+    },
+    {
+        "id": 52203,
+        "name": "Suhum",
+        "country": "GHA",
+        "state": "EP"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

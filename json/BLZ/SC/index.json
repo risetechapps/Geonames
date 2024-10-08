@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 16137,
@@ -11,4 +12,19 @@
         "country": "BLZ",
         "state": "SC"
     }
+=======
+[
+    {
+        "id": 16137,
+        "name": "Dangriga",
+        "country": "BLZ",
+        "state": "SC"
+    },
+    {
+        "id": 16140,
+        "name": "Placencia",
+        "country": "BLZ",
+        "state": "SC"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

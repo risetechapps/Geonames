@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104785,
@@ -17,4 +18,25 @@
         "country": "SOM",
         "state": "JH"
     }
+=======
+[
+    {
+        "id": 104785,
+        "name": "Buur Gaabo",
+        "country": "SOM",
+        "state": "JH"
+    },
+    {
+        "id": 104802,
+        "name": "Jamaame",
+        "country": "SOM",
+        "state": "JH"
+    },
+    {
+        "id": 104805,
+        "name": "Kismayo",
+        "country": "SOM",
+        "state": "JH"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

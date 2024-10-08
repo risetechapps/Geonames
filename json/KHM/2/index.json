@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 64940,
@@ -29,4 +30,37 @@
         "country": "KHM",
         "state": "2"
     }
+=======
+[
+    {
+        "id": 64940,
+        "name": "Battambang",
+        "country": "KHM",
+        "state": "2"
+    },
+    {
+        "id": 65028,
+        "name": "Srŏk Âk Phnŭm",
+        "country": "KHM",
+        "state": "2"
+    },
+    {
+        "id": 64988,
+        "name": "Srŏk Banăn",
+        "country": "KHM",
+        "state": "2"
+    },
+    {
+        "id": 64995,
+        "name": "Srŏk Bâvĭl",
+        "country": "KHM",
+        "state": "2"
+    },
+    {
+        "id": 65017,
+        "name": "Srŏk Rotanak Mondol",
+        "country": "KHM",
+        "state": "2"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

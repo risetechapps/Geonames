@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 66547,
@@ -11,4 +12,19 @@
         "country": "LBR",
         "state": "MO"
     }
+=======
+[
+    {
+        "id": 66547,
+        "name": "Bensonville",
+        "country": "LBR",
+        "state": "MO"
+    },
+    {
+        "id": 66557,
+        "name": "Monrovia",
+        "country": "LBR",
+        "state": "MO"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130646,
@@ -23,4 +24,31 @@
         "country": "WSM",
         "state": "AT"
     }
+=======
+[
+    {
+        "id": 130646,
+        "name": "Falefa",
+        "country": "WSM",
+        "state": "AT"
+    },
+    {
+        "id": 130650,
+        "name": "Lotofagā",
+        "country": "WSM",
+        "state": "AT"
+    },
+    {
+        "id": 130651,
+        "name": "Lufilufi",
+        "country": "WSM",
+        "state": "AT"
+    },
+    {
+        "id": 130659,
+        "name": "Solosolo",
+        "country": "WSM",
+        "state": "AT"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 153726,
@@ -23,4 +24,31 @@
         "country": "MLT",
         "state": "38"
     }
+=======
+[
+    {
+        "id": 153726,
+        "name": "Baħar iċ-Ċagħaq",
+        "country": "MLT",
+        "state": "38"
+    },
+    {
+        "id": 153736,
+        "name": "Magħtab",
+        "country": "MLT",
+        "state": "38"
+    },
+    {
+        "id": 67793,
+        "name": "Naxxar",
+        "country": "MLT",
+        "state": "38"
+    },
+    {
+        "id": 153741,
+        "name": "Salina",
+        "country": "MLT",
+        "state": "38"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

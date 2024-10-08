@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 149220,
@@ -83,4 +84,91 @@
         "country": "EGY",
         "state": "SHR"
     }
+=======
+[
+    {
+        "id": 149220,
+        "name": "10th of Ramadan",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149228,
+        "name": "Al Qurein",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149223,
+        "name": "Awlad Saqr",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149224,
+        "name": "Bilbeis",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149225,
+        "name": "Diyarb Negm",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149226,
+        "name": "El Husseiniya",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149229,
+        "name": "Faqous",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149230,
+        "name": "Hihya",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149231,
+        "name": "Kafr Saqr",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149221,
+        "name": "Markaz Abū Ḩammād",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149232,
+        "name": "Mashtoul El Souk",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149233,
+        "name": "Minya El Qamh",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149234,
+        "name": "New Salhia",
+        "country": "EGY",
+        "state": "SHR"
+    },
+    {
+        "id": 149235,
+        "name": "Zagazig",
+        "country": "EGY",
+        "state": "SHR"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

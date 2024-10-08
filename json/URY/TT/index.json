@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 129868,
@@ -23,4 +24,31 @@
         "country": "URY",
         "state": "TT"
     }
+=======
+[
+    {
+        "id": 129868,
+        "name": "Santa Clara de Olimar",
+        "country": "URY",
+        "state": "TT"
+    },
+    {
+        "id": 129883,
+        "name": "Treinta y Tres",
+        "country": "URY",
+        "state": "TT"
+    },
+    {
+        "id": 129887,
+        "name": "Vergara",
+        "country": "URY",
+        "state": "TT"
+    },
+    {
+        "id": 129890,
+        "name": "Villa Sara",
+        "country": "URY",
+        "state": "TT"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

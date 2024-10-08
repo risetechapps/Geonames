@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 107180,
@@ -53,4 +54,61 @@
         "country": "TUR",
         "state": "08"
     }
+=======
+[
+    {
+        "id": 107180,
+        "name": "Ardanuç",
+        "country": "TUR",
+        "state": "08"
+    },
+    {
+        "id": 107184,
+        "name": "Arhavi",
+        "country": "TUR",
+        "state": "08"
+    },
+    {
+        "id": 107371,
+        "name": "Borçka",
+        "country": "TUR",
+        "state": "08"
+    },
+    {
+        "id": 107834,
+        "name": "Hopa",
+        "country": "TUR",
+        "state": "08"
+    },
+    {
+        "id": 107975,
+        "name": "Kemalpaşa",
+        "country": "TUR",
+        "state": "08"
+    },
+    {
+        "id": 107196,
+        "name": "Merkez",
+        "country": "TUR",
+        "state": "08"
+    },
+    {
+        "id": 108226,
+        "name": "Murgul",
+        "country": "TUR",
+        "state": "08"
+    },
+    {
+        "id": 108940,
+        "name": "Şavşat",
+        "country": "TUR",
+        "state": "08"
+    },
+    {
+        "id": 108741,
+        "name": "Yusufeli",
+        "country": "TUR",
+        "state": "08"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

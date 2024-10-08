@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 134488,
@@ -23,4 +24,31 @@
         "country": "IRQ",
         "state": "BB"
     }
+=======
+[
+    {
+        "id": 134488,
+        "name": "Al Ḩillah",
+        "country": "IRQ",
+        "state": "BB"
+    },
+    {
+        "id": 134486,
+        "name": "Al Musayyib",
+        "country": "IRQ",
+        "state": "BB"
+    },
+    {
+        "id": 134516,
+        "name": "Imam Qasim",
+        "country": "IRQ",
+        "state": "BB"
+    },
+    {
+        "id": 134531,
+        "name": "Nāḩīyat Saddat al Hindīyah",
+        "country": "IRQ",
+        "state": "BB"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67443,
@@ -41,4 +42,49 @@
         "country": "MKD",
         "state": "48"
     }
+=======
+[
+    {
+        "id": 67443,
+        "name": "Izvor",
+        "country": "MKD",
+        "state": "48"
+    },
+    {
+        "id": 67469,
+        "name": "Lipkovo",
+        "country": "MKD",
+        "state": "48"
+    },
+    {
+        "id": 67473,
+        "name": "Lojane",
+        "country": "MKD",
+        "state": "48"
+    },
+    {
+        "id": 67480,
+        "name": "Matejce",
+        "country": "MKD",
+        "state": "48"
+    },
+    {
+        "id": 67502,
+        "name": "Otlja",
+        "country": "MKD",
+        "state": "48"
+    },
+    {
+        "id": 67547,
+        "name": "Vaksince",
+        "country": "MKD",
+        "state": "48"
+    },
+    {
+        "id": 67579,
+        "name": "Слупчане",
+        "country": "MKD",
+        "state": "48"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

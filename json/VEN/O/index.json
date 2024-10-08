@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130087,
@@ -17,4 +18,25 @@
         "country": "VEN",
         "state": "O"
     }
+=======
+[
+    {
+        "id": 130087,
+        "name": "Juan Griego",
+        "country": "VEN",
+        "state": "O"
+    },
+    {
+        "id": 130088,
+        "name": "La Asunción",
+        "country": "VEN",
+        "state": "O"
+    },
+    {
+        "id": 130130,
+        "name": "Porlamar",
+        "country": "VEN",
+        "state": "O"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

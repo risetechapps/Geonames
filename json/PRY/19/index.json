@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 89750,
@@ -17,4 +18,25 @@
         "country": "PRY",
         "state": "19"
     }
+=======
+[
+    {
+        "id": 89750,
+        "name": "Colonia Menno",
+        "country": "PRY",
+        "state": "19"
+    },
+    {
+        "id": 89752,
+        "name": "Colonia Neuland",
+        "country": "PRY",
+        "state": "19"
+    },
+    {
+        "id": 89766,
+        "name": "Filadelfia",
+        "country": "PRY",
+        "state": "19"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 134475,
@@ -35,4 +36,43 @@
         "country": "IRQ",
         "state": "SD"
     }
+=======
+[
+    {
+        "id": 134475,
+        "name": "Ad Dujayl",
+        "country": "IRQ",
+        "state": "SD"
+    },
+    {
+        "id": 134505,
+        "name": "Balad",
+        "country": "IRQ",
+        "state": "SD"
+    },
+    {
+        "id": 134510,
+        "name": "Bayjī",
+        "country": "IRQ",
+        "state": "SD"
+    },
+    {
+        "id": 134540,
+        "name": "Sāmarrā’",
+        "country": "IRQ",
+        "state": "SD"
+    },
+    {
+        "id": 134544,
+        "name": "Tikrīt",
+        "country": "IRQ",
+        "state": "SD"
+    },
+    {
+        "id": 134545,
+        "name": "Tozkhurmato",
+        "country": "IRQ",
+        "state": "SD"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

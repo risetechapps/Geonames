@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 153478,
@@ -17,4 +18,25 @@
         "country": "SGP",
         "state": "04"
     }
+=======
+[
+    {
+        "id": 153478,
+        "name": "Bedok",
+        "country": "SGP",
+        "state": "04"
+    },
+    {
+        "id": 153479,
+        "name": "Pasir Ris",
+        "country": "SGP",
+        "state": "04"
+    },
+    {
+        "id": 153477,
+        "name": "Tampines",
+        "country": "SGP",
+        "state": "04"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 153841,
@@ -23,4 +24,31 @@
         "country": "BTN",
         "state": "31"
     }
+=======
+[
+    {
+        "id": 153841,
+        "name": "Bhurgaon",
+        "country": "BTN",
+        "state": "31"
+    },
+    {
+        "id": 153840,
+        "name": "Galechugaon",
+        "country": "BTN",
+        "state": "31"
+    },
+    {
+        "id": 153839,
+        "name": "Geylegphug",
+        "country": "BTN",
+        "state": "31"
+    },
+    {
+        "id": 15720,
+        "name": "Sarpang",
+        "country": "BTN",
+        "state": "31"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

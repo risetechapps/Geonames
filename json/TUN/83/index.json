@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 107009,
@@ -11,4 +12,19 @@
         "country": "TUN",
         "state": "83"
     }
+=======
+[
+    {
+        "id": 107009,
+        "name": "Remada",
+        "country": "TUN",
+        "state": "83"
+    },
+    {
+        "id": 107034,
+        "name": "Tataouine",
+        "country": "TUN",
+        "state": "83"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

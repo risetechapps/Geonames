@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104870,
@@ -29,4 +30,37 @@
         "country": "SLV",
         "state": "PA"
     }
+=======
+[
+    {
+        "id": 104870,
+        "name": "El Rosario",
+        "country": "SLV",
+        "state": "PA"
+    },
+    {
+        "id": 104895,
+        "name": "Olocuilta",
+        "country": "SLV",
+        "state": "PA"
+    },
+    {
+        "id": 104912,
+        "name": "San Pedro Masahuat",
+        "country": "SLV",
+        "state": "PA"
+    },
+    {
+        "id": 104921,
+        "name": "Santiago Nonualco",
+        "country": "SLV",
+        "state": "PA"
+    },
+    {
+        "id": 104938,
+        "name": "Zacatecoluca",
+        "country": "SLV",
+        "state": "PA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

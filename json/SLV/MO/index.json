@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104851,
@@ -35,4 +36,43 @@
         "country": "SLV",
         "state": "MO"
     }
+=======
+[
+    {
+        "id": 104851,
+        "name": "Cacaopera",
+        "country": "SLV",
+        "state": "MO"
+    },
+    {
+        "id": 104865,
+        "name": "Corinto",
+        "country": "SLV",
+        "state": "MO"
+    },
+    {
+        "id": 104872,
+        "name": "Guatajiagua",
+        "country": "SLV",
+        "state": "MO"
+    },
+    {
+        "id": 104879,
+        "name": "Jocoro",
+        "country": "SLV",
+        "state": "MO"
+    },
+    {
+        "id": 104905,
+        "name": "San Francisco",
+        "country": "SLV",
+        "state": "MO"
+    },
+    {
+        "id": 104926,
+        "name": "Sociedad",
+        "country": "SLV",
+        "state": "MO"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

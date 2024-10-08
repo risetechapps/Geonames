@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 749,
@@ -35,4 +36,43 @@
         "country": "CYP",
         "state_code": "05"
     }
+=======
+[
+    {
+        "id": 749,
+        "name": "Famagusta District (Mağusa)",
+        "country": "CYP",
+        "state": "04"
+    },
+    {
+        "id": 744,
+        "name": "Kyrenia District (Keryneia)",
+        "country": "CYP",
+        "state": "06"
+    },
+    {
+        "id": 747,
+        "name": "Larnaca District (Larnaka)",
+        "country": "CYP",
+        "state": "03"
+    },
+    {
+        "id": 748,
+        "name": "Limassol District (Leymasun)",
+        "country": "CYP",
+        "state": "02"
+    },
+    {
+        "id": 745,
+        "name": "Nicosia District (Lefkoşa)",
+        "country": "CYP",
+        "state": "01"
+    },
+    {
+        "id": 746,
+        "name": "Paphos District (Pafos)",
+        "country": "CYP",
+        "state": "05"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

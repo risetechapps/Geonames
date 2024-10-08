@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130269,
@@ -17,4 +18,25 @@
         "country": "VNM",
         "state": "72"
     }
+=======
+[
+    {
+        "id": 130269,
+        "name": "Huyện Cư Jút",
+        "country": "VNM",
+        "state": "72"
+    },
+    {
+        "id": 130544,
+        "name": "Huyện Đắk R’Lấp",
+        "country": "VNM",
+        "state": "72"
+    },
+    {
+        "id": 130333,
+        "name": "Huyện Krông Nô",
+        "country": "VNM",
+        "state": "72"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

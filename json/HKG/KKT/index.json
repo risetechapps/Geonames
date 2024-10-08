@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 153505,
@@ -11,4 +12,19 @@
         "country": "HKG",
         "state": "KKT"
     }
+=======
+[
+    {
+        "id": 153505,
+        "name": "Kwun Tong",
+        "country": "HKG",
+        "state": "KKT"
+    },
+    {
+        "id": 153504,
+        "name": "Lam Tin",
+        "country": "HKG",
+        "state": "KKT"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

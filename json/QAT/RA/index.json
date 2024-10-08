@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 89861,
@@ -11,4 +12,19 @@
         "country": "QAT",
         "state": "RA"
     }
+=======
+[
+    {
+        "id": 89861,
+        "name": "Ar Rayyān",
+        "country": "QAT",
+        "state": "RA"
+    },
+    {
+        "id": 89869,
+        "name": "Umm Bāb",
+        "country": "QAT",
+        "state": "RA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

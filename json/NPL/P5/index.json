@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 79708,
@@ -71,4 +72,79 @@
         "country": "NPL",
         "state": "P5"
     }
+=======
+[
+    {
+        "id": 79708,
+        "name": "Arghakhanchi ",
+        "country": "NPL",
+        "state": "P5"
+    },
+    {
+        "id": 79714,
+        "name": "Banke",
+        "country": "NPL",
+        "state": "P5"
+    },
+    {
+        "id": 79715,
+        "name": "Bardiya ",
+        "country": "NPL",
+        "state": "P5"
+    },
+    {
+        "id": 79716,
+        "name": "Dang ",
+        "country": "NPL",
+        "state": "P5"
+    },
+    {
+        "id": 79723,
+        "name": "Eastern Rukum",
+        "country": "NPL",
+        "state": "P5"
+    },
+    {
+        "id": 79725,
+        "name": "Gulmi ",
+        "country": "NPL",
+        "state": "P5"
+    },
+    {
+        "id": 79748,
+        "name": "Kapilvastu ",
+        "country": "NPL",
+        "state": "P5"
+    },
+    {
+        "id": 79752,
+        "name": "Nawalparasi (West of Bardaghat Susta)",
+        "country": "NPL",
+        "state": "P5"
+    },
+    {
+        "id": 79757,
+        "name": "Palpa ",
+        "country": "NPL",
+        "state": "P5"
+    },
+    {
+        "id": 79758,
+        "name": "Pyuthan ",
+        "country": "NPL",
+        "state": "P5"
+    },
+    {
+        "id": 153799,
+        "name": "Rolpa ",
+        "country": "NPL",
+        "state": "P5"
+    },
+    {
+        "id": 153800,
+        "name": "Rupandehi ",
+        "country": "NPL",
+        "state": "P5"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

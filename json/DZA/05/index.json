@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31251,
@@ -47,4 +48,55 @@
         "country": "DZA",
         "state": "05"
     }
+=======
+[
+    {
+        "id": 31251,
+        "name": "Aïn Touta",
+        "country": "DZA",
+        "state": "05"
+    },
+    {
+        "id": 31237,
+        "name": "Arris",
+        "country": "DZA",
+        "state": "05"
+    },
+    {
+        "id": 31257,
+        "name": "Barika",
+        "country": "DZA",
+        "state": "05"
+    },
+    {
+        "id": 31258,
+        "name": "Batna",
+        "country": "DZA",
+        "state": "05"
+    },
+    {
+        "id": 31292,
+        "name": "Boumagueur",
+        "country": "DZA",
+        "state": "05"
+    },
+    {
+        "id": 31382,
+        "name": "Merouana",
+        "country": "DZA",
+        "state": "05"
+    },
+    {
+        "id": 31415,
+        "name": "Râs el Aïoun",
+        "country": "DZA",
+        "state": "05"
+    },
+    {
+        "id": 31444,
+        "name": "Tazoult-Lambese",
+        "country": "DZA",
+        "state": "05"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

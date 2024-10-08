@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 17400,
@@ -23,4 +24,31 @@
         "country": "CHE",
         "state": "AI"
     }
+=======
+[
+    {
+        "id": 17400,
+        "name": "Appenzell",
+        "country": "CHE",
+        "state": "AI"
+    },
+    {
+        "id": 17852,
+        "name": "Gonten",
+        "country": "CHE",
+        "state": "AI"
+    },
+    {
+        "id": 17894,
+        "name": "Haslen",
+        "country": "CHE",
+        "state": "AI"
+    },
+    {
+        "id": 18245,
+        "name": "Oberegg",
+        "country": "CHE",
+        "state": "AI"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

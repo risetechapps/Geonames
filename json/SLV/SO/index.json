@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104840,
@@ -47,4 +48,55 @@
         "country": "SLV",
         "state": "SO"
     }
+=======
+[
+    {
+        "id": 104840,
+        "name": "Acajutla",
+        "country": "SLV",
+        "state": "SO"
+    },
+    {
+        "id": 104847,
+        "name": "Armenia",
+        "country": "SLV",
+        "state": "SO"
+    },
+    {
+        "id": 104877,
+        "name": "Izalco",
+        "country": "SLV",
+        "state": "SO"
+    },
+    {
+        "id": 104880,
+        "name": "Juayúa",
+        "country": "SLV",
+        "state": "SO"
+    },
+    {
+        "id": 104890,
+        "name": "Nahuizalco",
+        "country": "SLV",
+        "state": "SO"
+    },
+    {
+        "id": 104904,
+        "name": "San Antonio del Monte",
+        "country": "SLV",
+        "state": "SO"
+    },
+    {
+        "id": 104927,
+        "name": "Sonsonate",
+        "country": "SLV",
+        "state": "SO"
+    },
+    {
+        "id": 104928,
+        "name": "Sonzacate",
+        "country": "SLV",
+        "state": "SO"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

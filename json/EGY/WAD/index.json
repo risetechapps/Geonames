@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31772,
@@ -11,4 +12,19 @@
         "country": "EGY",
         "state": "WAD"
     }
+=======
+[
+    {
+        "id": 31772,
+        "name": "Al Khārijah",
+        "country": "EGY",
+        "state": "WAD"
+    },
+    {
+        "id": 31852,
+        "name": "Qaşr al Farāfirah",
+        "country": "EGY",
+        "state": "WAD"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

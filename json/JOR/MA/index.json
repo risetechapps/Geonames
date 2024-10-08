@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 63140,
@@ -35,4 +36,43 @@
         "country": "JOR",
         "state": "MA"
     }
+=======
+[
+    {
+        "id": 63140,
+        "name": "Al Ḩamrā’",
+        "country": "JOR",
+        "state": "MA"
+    },
+    {
+        "id": 63171,
+        "name": "Mafraq",
+        "country": "JOR",
+        "state": "MA"
+    },
+    {
+        "id": 63179,
+        "name": "Rehab",
+        "country": "JOR",
+        "state": "MA"
+    },
+    {
+        "id": 63180,
+        "name": "Rukban",
+        "country": "JOR",
+        "state": "MA"
+    },
+    {
+        "id": 63198,
+        "name": "Şabḩā",
+        "country": "JOR",
+        "state": "MA"
+    },
+    {
+        "id": 63191,
+        "name": "Umm al Qiţţayn",
+        "country": "JOR",
+        "state": "MA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

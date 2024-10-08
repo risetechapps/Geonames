@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31027,
@@ -35,4 +36,43 @@
         "country": "DOM",
         "state": "17"
     }
+=======
+[
+    {
+        "id": 31027,
+        "name": "Baní",
+        "country": "DOM",
+        "state": "17"
+    },
+    {
+        "id": 31128,
+        "name": "Matanzas",
+        "country": "DOM",
+        "state": "17"
+    },
+    {
+        "id": 31139,
+        "name": "Nizao",
+        "country": "DOM",
+        "state": "17"
+    },
+    {
+        "id": 31147,
+        "name": "Paya",
+        "country": "DOM",
+        "state": "17"
+    },
+    {
+        "id": 31157,
+        "name": "Pizarrete",
+        "country": "DOM",
+        "state": "17"
+    },
+    {
+        "id": 31170,
+        "name": "Sabana Buey",
+        "country": "DOM",
+        "state": "17"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

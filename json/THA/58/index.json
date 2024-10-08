@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 105434,
@@ -47,4 +48,55 @@
         "country": "THA",
         "state": "58"
     }
+=======
+[
+    {
+        "id": 105434,
+        "name": "Amphoe Khun Yuam",
+        "country": "THA",
+        "state": "58"
+    },
+    {
+        "id": 105502,
+        "name": "Amphoe Mae La Noi",
+        "country": "THA",
+        "state": "58"
+    },
+    {
+        "id": 105512,
+        "name": "Amphoe Mae Sariang",
+        "country": "THA",
+        "state": "58"
+    },
+    {
+        "id": 105550,
+        "name": "Amphoe Mueang Mae Hong Son",
+        "country": "THA",
+        "state": "58"
+    },
+    {
+        "id": 105699,
+        "name": "Amphoe Pai",
+        "country": "THA",
+        "state": "58"
+    },
+    {
+        "id": 105711,
+        "name": "Amphoe Pang Mapha",
+        "country": "THA",
+        "state": "58"
+    },
+    {
+        "id": 106248,
+        "name": "Amphoe Sop Moei",
+        "country": "THA",
+        "state": "58"
+    },
+    {
+        "id": 106563,
+        "name": "Mae Hong Son",
+        "country": "THA",
+        "state": "58"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

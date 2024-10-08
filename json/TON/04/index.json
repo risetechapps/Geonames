@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 107044,
@@ -23,4 +24,31 @@
         "country": "TON",
         "state": "04"
     }
+=======
+[
+    {
+        "id": 107044,
+        "name": "Haveluloto",
+        "country": "TON",
+        "state": "04"
+    },
+    {
+        "id": 107046,
+        "name": "Kolonga",
+        "country": "TON",
+        "state": "04"
+    },
+    {
+        "id": 107048,
+        "name": "Nuku‘alofa",
+        "country": "TON",
+        "state": "04"
+    },
+    {
+        "id": 107050,
+        "name": "Vaini",
+        "country": "TON",
+        "state": "04"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

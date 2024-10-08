@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 2666,
@@ -35,4 +36,43 @@
         "country": "GMB",
         "state_code": "W"
     }
+=======
+[
+    {
+        "id": 2666,
+        "name": "Banjul",
+        "country": "GMB",
+        "state": "B"
+    },
+    {
+        "id": 2669,
+        "name": "Central River Division",
+        "country": "GMB",
+        "state": "M"
+    },
+    {
+        "id": 2670,
+        "name": "Lower River Division",
+        "country": "GMB",
+        "state": "L"
+    },
+    {
+        "id": 2671,
+        "name": "North Bank Division",
+        "country": "GMB",
+        "state": "N"
+    },
+    {
+        "id": 2668,
+        "name": "Upper River Division",
+        "country": "GMB",
+        "state": "U"
+    },
+    {
+        "id": 2667,
+        "name": "West Coast Division",
+        "country": "GMB",
+        "state": "W"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

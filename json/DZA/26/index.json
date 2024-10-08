@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31471,
@@ -23,4 +24,31 @@
         "country": "DZA",
         "state": "26"
     }
+=======
+[
+    {
+        "id": 31471,
+        "name": "’Aïn Boucif",
+        "country": "DZA",
+        "state": "26"
+    },
+    {
+        "id": 31269,
+        "name": "Berrouaghia",
+        "country": "DZA",
+        "state": "26"
+    },
+    {
+        "id": 31366,
+        "name": "Ksar el Boukhari",
+        "country": "DZA",
+        "state": "26"
+    },
+    {
+        "id": 31390,
+        "name": "Médéa",
+        "country": "DZA",
+        "state": "26"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

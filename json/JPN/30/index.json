@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 63255,
@@ -95,4 +96,103 @@
         "country": "JPN",
         "state": "30"
     }
+=======
+[
+    {
+        "id": 63255,
+        "name": "Arida Shi",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 63388,
+        "name": "Gobō",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 63444,
+        "name": "Hashimoto",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 63445,
+        "name": "Hashimoto Shi",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 63618,
+        "name": "Iwade",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 63619,
+        "name": "Iwade Shi",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 63662,
+        "name": "Kainan",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 63663,
+        "name": "Kainan Shi",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 63788,
+        "name": "Kinokawa Shi",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 63904,
+        "name": "Kōya",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 63973,
+        "name": "Minato",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 64339,
+        "name": "Shingū",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 64341,
+        "name": "Shingū-shi",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 64464,
+        "name": "Tanabe-shi",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 64616,
+        "name": "Wakayama",
+        "country": "JPN",
+        "state": "30"
+    },
+    {
+        "id": 64617,
+        "name": "Wakayama Shi",
+        "country": "JPN",
+        "state": "30"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

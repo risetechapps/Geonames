@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 76750,
@@ -89,4 +90,97 @@
         "country": "NGA",
         "state": "EN"
     }
+=======
+[
+    {
+        "id": 76750,
+        "name": "Adani",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 76762,
+        "name": "Ake-Eze",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 76764,
+        "name": "Aku",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 76768,
+        "name": "Amagunze",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 76784,
+        "name": "Awgu",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 76855,
+        "name": "Eha Amufu",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 76861,
+        "name": "Enugu",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 76862,
+        "name": "Enugu-Ezike",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 76866,
+        "name": "Ete",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 76933,
+        "name": "Ikem",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 77028,
+        "name": "Mberubu",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 77045,
+        "name": "Nsukka",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 77048,
+        "name": "Obolo-Eke (1)",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 77069,
+        "name": "Opi",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 77119,
+        "name": "Udi",
+        "country": "NGA",
+        "state": "EN"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

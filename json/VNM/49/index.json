@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130342,
@@ -35,4 +36,43 @@
         "country": "VNM",
         "state": "49"
     }
+=======
+[
+    {
+        "id": 130342,
+        "name": "Huyện Long Hồ",
+        "country": "VNM",
+        "state": "49"
+    },
+    {
+        "id": 130357,
+        "name": "Huyện Mang Thít",
+        "country": "VNM",
+        "state": "49"
+    },
+    {
+        "id": 130428,
+        "name": "Huyện Tam Bình",
+        "country": "VNM",
+        "state": "49"
+    },
+    {
+        "id": 130468,
+        "name": "Huyện Trà Ôn",
+        "country": "VNM",
+        "state": "49"
+    },
+    {
+        "id": 130505,
+        "name": "Huyện Vũng Liêm",
+        "country": "VNM",
+        "state": "49"
+    },
+    {
+        "id": 130624,
+        "name": "Vĩnh Long",
+        "country": "VNM",
+        "state": "49"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 105157,
@@ -29,4 +30,37 @@
         "country": "TGO",
         "state": "P"
     }
+=======
+[
+    {
+        "id": 105157,
+        "name": "Amlamé",
+        "country": "TGO",
+        "state": "P"
+    },
+    {
+        "id": 105159,
+        "name": "Atakpamé",
+        "country": "TGO",
+        "state": "P"
+    },
+    {
+        "id": 105160,
+        "name": "Badou",
+        "country": "TGO",
+        "state": "P"
+    },
+    {
+        "id": 105166,
+        "name": "Kpalimé",
+        "country": "TGO",
+        "state": "P"
+    },
+    {
+        "id": 105169,
+        "name": "Notsé",
+        "country": "TGO",
+        "state": "P"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

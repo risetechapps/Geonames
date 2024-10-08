@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31768,
@@ -23,4 +24,31 @@
         "country": "EGY",
         "state": "BNS"
     }
+=======
+[
+    {
+        "id": 31768,
+        "name": "Al Fashn",
+        "country": "EGY",
+        "state": "BNS"
+    },
+    {
+        "id": 31798,
+        "name": "Banī Suwayf",
+        "country": "EGY",
+        "state": "BNS"
+    },
+    {
+        "id": 31801,
+        "name": "Būsh",
+        "country": "EGY",
+        "state": "BNS"
+    },
+    {
+        "id": 31869,
+        "name": "Sumusţā as Sulţānī",
+        "country": "EGY",
+        "state": "BNS"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

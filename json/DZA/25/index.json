@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31469,
@@ -35,4 +36,43 @@
         "country": "DZA",
         "state": "25"
     }
+=======
+[
+    {
+        "id": 31469,
+        "name": "’Aïn Abid",
+        "country": "DZA",
+        "state": "25"
+    },
+    {
+        "id": 31248,
+        "name": "Aïn Smara",
+        "country": "DZA",
+        "state": "25"
+    },
+    {
+        "id": 31310,
+        "name": "Constantine",
+        "country": "DZA",
+        "state": "25"
+    },
+    {
+        "id": 31315,
+        "name": "Didouche Mourad",
+        "country": "DZA",
+        "state": "25"
+    },
+    {
+        "id": 31338,
+        "name": "El Khroub",
+        "country": "DZA",
+        "state": "25"
+    },
+    {
+        "id": 31350,
+        "name": "Hamma Bouziane",
+        "country": "DZA",
+        "state": "25"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

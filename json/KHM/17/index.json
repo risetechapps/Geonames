@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 64979,
@@ -29,4 +30,37 @@
         "country": "KHM",
         "state": "17"
     }
+=======
+[
+    {
+        "id": 64979,
+        "name": "Siem Reap",
+        "country": "KHM",
+        "state": "17"
+    },
+    {
+        "id": 65031,
+        "name": "Srŏk Ângkôr Thum",
+        "country": "KHM",
+        "state": "17"
+    },
+    {
+        "id": 65015,
+        "name": "Srŏk Prasat Bakong",
+        "country": "KHM",
+        "state": "17"
+    },
+    {
+        "id": 65035,
+        "name": "Svay Leu",
+        "country": "KHM",
+        "state": "17"
+    },
+    {
+        "id": 65040,
+        "name": "Varin",
+        "country": "KHM",
+        "state": "17"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

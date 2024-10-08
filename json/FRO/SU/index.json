@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 153771,
@@ -41,4 +42,49 @@
         "country": "FRO",
         "state": "SU"
     }
+=======
+[
+    {
+        "id": 153771,
+        "name": "Fámjin",
+        "country": "FRO",
+        "state": "SU"
+    },
+    {
+        "id": 153770,
+        "name": "Hov",
+        "country": "FRO",
+        "state": "SU"
+    },
+    {
+        "id": 153759,
+        "name": "Hvalba",
+        "country": "FRO",
+        "state": "SU"
+    },
+    {
+        "id": 153766,
+        "name": "Porkeri",
+        "country": "FRO",
+        "state": "SU"
+    },
+    {
+        "id": 153764,
+        "name": "Sumba",
+        "country": "FRO",
+        "state": "SU"
+    },
+    {
+        "id": 153751,
+        "name": "Tvøroyri",
+        "country": "FRO",
+        "state": "SU"
+    },
+    {
+        "id": 153753,
+        "name": "Vágur",
+        "country": "FRO",
+        "state": "SU"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

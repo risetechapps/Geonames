@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67400,
@@ -23,4 +24,31 @@
         "country": "MKD",
         "state": "68"
     }
+=======
+[
+    {
+        "id": 67400,
+        "name": "Bukovik",
+        "country": "MKD",
+        "state": "68"
+    },
+    {
+        "id": 67438,
+        "name": "Grčec",
+        "country": "MKD",
+        "state": "68"
+    },
+    {
+        "id": 67454,
+        "name": "Kondovo",
+        "country": "MKD",
+        "state": "68"
+    },
+    {
+        "id": 67462,
+        "name": "Krušopek",
+        "country": "MKD",
+        "state": "68"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

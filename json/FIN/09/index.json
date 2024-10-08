@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 38735,
@@ -65,4 +66,73 @@
         "country": "FIN",
         "state": "09"
     }
+=======
+[
+    {
+        "id": 38735,
+        "name": "Anjala",
+        "country": "FIN",
+        "state": "09"
+    },
+    {
+        "id": 38744,
+        "name": "Elimäki",
+        "country": "FIN",
+        "state": "09"
+    },
+    {
+        "id": 38759,
+        "name": "Hamina",
+        "country": "FIN",
+        "state": "09"
+    },
+    {
+        "id": 38784,
+        "name": "Iitti",
+        "country": "FIN",
+        "state": "09"
+    },
+    {
+        "id": 38794,
+        "name": "Jaala",
+        "country": "FIN",
+        "state": "09"
+    },
+    {
+        "id": 38825,
+        "name": "Karhula",
+        "country": "FIN",
+        "state": "09"
+    },
+    {
+        "id": 38872,
+        "name": "Kotka",
+        "country": "FIN",
+        "state": "09"
+    },
+    {
+        "id": 38874,
+        "name": "Kouvola",
+        "country": "FIN",
+        "state": "09"
+    },
+    {
+        "id": 38935,
+        "name": "Miehikkälä",
+        "country": "FIN",
+        "state": "09"
+    },
+    {
+        "id": 39001,
+        "name": "Pyhtää",
+        "country": "FIN",
+        "state": "09"
+    },
+    {
+        "id": 39112,
+        "name": "Virojoki",
+        "country": "FIN",
+        "state": "09"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

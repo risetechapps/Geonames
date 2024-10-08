@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 129773,
@@ -29,4 +30,37 @@
         "country": "URY",
         "state": "CL"
     }
+=======
+[
+    {
+        "id": 129773,
+        "name": "Aceguá",
+        "country": "URY",
+        "state": "CL"
+    },
+    {
+        "id": 129808,
+        "name": "Isidoro Noblía",
+        "country": "URY",
+        "state": "CL"
+    },
+    {
+        "id": 129827,
+        "name": "Melo",
+        "country": "URY",
+        "state": "CL"
+    },
+    {
+        "id": 129856,
+        "name": "Río Branco",
+        "country": "URY",
+        "state": "CL"
+    },
+    {
+        "id": 129885,
+        "name": "Tupambaé",
+        "country": "URY",
+        "state": "CL"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

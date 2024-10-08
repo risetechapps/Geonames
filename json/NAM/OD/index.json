@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 76632,
@@ -29,4 +30,37 @@
         "country": "NAM",
         "state": "OD"
     }
+=======
+[
+    {
+        "id": 76632,
+        "name": "Grootfontein",
+        "country": "NAM",
+        "state": "OD"
+    },
+    {
+        "id": 76645,
+        "name": "Okahandja",
+        "country": "NAM",
+        "state": "OD"
+    },
+    {
+        "id": 76647,
+        "name": "Okakarara",
+        "country": "NAM",
+        "state": "OD"
+    },
+    {
+        "id": 76658,
+        "name": "Otavi",
+        "country": "NAM",
+        "state": "OD"
+    },
+    {
+        "id": 76660,
+        "name": "Otjiwarongo",
+        "country": "NAM",
+        "state": "OD"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

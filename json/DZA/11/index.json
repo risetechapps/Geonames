@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31356,
@@ -11,4 +12,19 @@
         "country": "DZA",
         "state": "11"
     }
+=======
+[
+    {
+        "id": 31356,
+        "name": "I-n-Salah",
+        "country": "DZA",
+        "state": "11"
+    },
+    {
+        "id": 31443,
+        "name": "Tamanrasset",
+        "country": "DZA",
+        "state": "11"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

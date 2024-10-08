@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 65933,
@@ -11,4 +12,19 @@
         "country": "LBN",
         "state": "BH"
     }
+=======
+[
+    {
+        "id": 65933,
+        "name": "Baalbek",
+        "country": "LBN",
+        "state": "BH"
+    },
+    {
+        "id": 65941,
+        "name": "Caza de Baalbek",
+        "country": "LBN",
+        "state": "BH"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

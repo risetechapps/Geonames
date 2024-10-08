@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130647,
@@ -23,4 +24,31 @@
         "country": "WSM",
         "state": "AA"
     }
+=======
+[
+    {
+        "id": 130647,
+        "name": "Fasito‘outa",
+        "country": "WSM",
+        "state": "AA"
+    },
+    {
+        "id": 130649,
+        "name": "Leulumoega",
+        "country": "WSM",
+        "state": "AA"
+    },
+    {
+        "id": 130655,
+        "name": "Nofoali‘i",
+        "country": "WSM",
+        "state": "AA"
+    },
+    {
+        "id": 130658,
+        "name": "Satapuala",
+        "country": "WSM",
+        "state": "AA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

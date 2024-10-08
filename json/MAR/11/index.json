@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67052,
@@ -41,4 +42,49 @@
         "country": "MAR",
         "state": "11"
     }
+=======
+[
+    {
+        "id": 67052,
+        "name": "Akhfennir",
+        "country": "MAR",
+        "state": "11"
+    },
+    {
+        "id": 67089,
+        "name": "Boujdour",
+        "country": "MAR",
+        "state": "11"
+    },
+    {
+        "id": 67115,
+        "name": "Es-Semara",
+        "country": "MAR",
+        "state": "11"
+    },
+    {
+        "id": 67127,
+        "name": "Gueltat Zemmour",
+        "country": "MAR",
+        "state": "11"
+    },
+    {
+        "id": 67154,
+        "name": "Laayoune",
+        "country": "MAR",
+        "state": "11"
+    },
+    {
+        "id": 67220,
+        "name": "Smara",
+        "country": "MAR",
+        "state": "11"
+    },
+    {
+        "id": 67239,
+        "name": "Tarfaya",
+        "country": "MAR",
+        "state": "11"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 102936,
@@ -17,4 +18,25 @@
         "country": "SDN",
         "state": "KA"
     }
+=======
+[
+    {
+        "id": 102936,
+        "name": "Aroma",
+        "country": "SDN",
+        "state": "KA"
+    },
+    {
+        "id": 102956,
+        "name": "Kassala",
+        "country": "SDN",
+        "state": "KA"
+    },
+    {
+        "id": 102983,
+        "name": "Wagar",
+        "country": "SDN",
+        "state": "KA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

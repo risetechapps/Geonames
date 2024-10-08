@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130175,
@@ -17,4 +18,25 @@
         "country": "VNM",
         "state": "55"
     }
+=======
+[
+    {
+        "id": 130175,
+        "name": "Bạc Liêu",
+        "country": "VNM",
+        "state": "55"
+    },
+    {
+        "id": 130289,
+        "name": "Huyện Giá Rai",
+        "country": "VNM",
+        "state": "55"
+    },
+    {
+        "id": 130318,
+        "name": "Huyện Hồng Dân",
+        "country": "VNM",
+        "state": "55"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

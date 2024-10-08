@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 153506,
@@ -17,4 +18,25 @@
         "country": "HKG",
         "state": "HSO"
     }
+=======
+[
+    {
+        "id": 153506,
+        "name": "Aberdeen",
+        "country": "HKG",
+        "state": "HSO"
+    },
+    {
+        "id": 153496,
+        "name": "Stanley",
+        "country": "HKG",
+        "state": "HSO"
+    },
+    {
+        "id": 153507,
+        "name": "Stanley Peninsula",
+        "country": "HKG",
+        "state": "HSO"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

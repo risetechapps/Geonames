@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 105142,
@@ -11,4 +12,19 @@
         "country": "TCD",
         "state": "MC"
     }
+=======
+[
+    {
+        "id": 105142,
+        "name": "Kyabé",
+        "country": "TCD",
+        "state": "MC"
+    },
+    {
+        "id": 105156,
+        "name": "Sarh",
+        "country": "TCD",
+        "state": "MC"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

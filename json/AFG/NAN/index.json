@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 58,
@@ -17,4 +18,25 @@
         "country": "AFG",
         "state": "NAN"
     }
+=======
+[
+    {
+        "id": 58,
+        "name": "Bāsawul",
+        "country": "AFG",
+        "state": "NAN"
+    },
+    {
+        "id": 77,
+        "name": "Jalālābād",
+        "country": "AFG",
+        "state": "NAN"
+    },
+    {
+        "id": 94,
+        "name": "Markaz-e Woluswalī-ye Āchīn",
+        "country": "AFG",
+        "state": "NAN"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

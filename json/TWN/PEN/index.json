@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 109020,
@@ -11,4 +12,19 @@
         "country": "TWN",
         "state": "PEN"
     }
+=======
+[
+    {
+        "id": 109020,
+        "name": "Magong",
+        "country": "TWN",
+        "state": "PEN"
+    },
+    {
+        "id": 109024,
+        "name": "Penghu County",
+        "country": "TWN",
+        "state": "PEN"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

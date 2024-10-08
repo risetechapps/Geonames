@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31603,
@@ -41,4 +42,49 @@
         "country": "EST",
         "state": "57"
     }
+=======
+[
+    {
+        "id": 31603,
+        "name": "Haapsalu",
+        "country": "EST",
+        "state": "57"
+    },
+    {
+        "id": 31604,
+        "name": "Haapsalu linn",
+        "country": "EST",
+        "state": "57"
+    },
+    {
+        "id": 31609,
+        "name": "Hullo",
+        "country": "EST",
+        "state": "57"
+    },
+    {
+        "id": 31656,
+        "name": "Lääne-Nigula vald",
+        "country": "EST",
+        "state": "57"
+    },
+    {
+        "id": 31715,
+        "name": "Taebla",
+        "country": "EST",
+        "state": "57"
+    },
+    {
+        "id": 31731,
+        "name": "Uuemõisa",
+        "country": "EST",
+        "state": "57"
+    },
+    {
+        "id": 31746,
+        "name": "Vormsi vald",
+        "country": "EST",
+        "state": "57"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

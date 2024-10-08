@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 52091,
@@ -23,4 +24,31 @@
         "country": "GEO",
         "state": "GU"
     }
+=======
+[
+    {
+        "id": 52091,
+        "name": "Lanchkhuti",
+        "country": "GEO",
+        "state": "GU"
+    },
+    {
+        "id": 52102,
+        "name": "Naruja",
+        "country": "GEO",
+        "state": "GU"
+    },
+    {
+        "id": 52108,
+        "name": "Ozurgeti",
+        "country": "GEO",
+        "state": "GU"
+    },
+    {
+        "id": 52141,
+        "name": "Urek’i",
+        "country": "GEO",
+        "state": "GU"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

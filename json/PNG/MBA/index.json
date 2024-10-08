@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 81027,
@@ -29,4 +30,37 @@
         "country": "PNG",
         "state": "MBA"
     }
+=======
+[
+    {
+        "id": 81027,
+        "name": "Alotau",
+        "country": "PNG",
+        "state": "MBA"
+    },
+    {
+        "id": 81038,
+        "name": "Esa’ala",
+        "country": "PNG",
+        "state": "MBA"
+    },
+    {
+        "id": 81066,
+        "name": "Kiriwina Goodenough",
+        "country": "PNG",
+        "state": "MBA"
+    },
+    {
+        "id": 81105,
+        "name": "Samarai",
+        "country": "PNG",
+        "state": "MBA"
+    },
+    {
+        "id": 81106,
+        "name": "Samarai Murua",
+        "country": "PNG",
+        "state": "MBA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

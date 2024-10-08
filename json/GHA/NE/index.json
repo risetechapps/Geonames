@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 149098,
@@ -35,4 +36,43 @@
         "country": "GHA",
         "state": "NE"
     }
+=======
+[
+    {
+        "id": 149098,
+        "name": "Bunkpurugu-Nyakpanduri",
+        "country": "GHA",
+        "state": "NE"
+    },
+    {
+        "id": 149099,
+        "name": "Chereponi",
+        "country": "GHA",
+        "state": "NE"
+    },
+    {
+        "id": 149100,
+        "name": "East Mamprusi",
+        "country": "GHA",
+        "state": "NE"
+    },
+    {
+        "id": 149101,
+        "name": "Mamprugu-Moagduri",
+        "country": "GHA",
+        "state": "NE"
+    },
+    {
+        "id": 149102,
+        "name": "West Mamprusi",
+        "country": "GHA",
+        "state": "NE"
+    },
+    {
+        "id": 149103,
+        "name": "Yunyoo-Nasuan",
+        "country": "GHA",
+        "state": "NE"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

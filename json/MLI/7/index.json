@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67584,
@@ -29,4 +30,37 @@
         "country": "MLI",
         "state": "7"
     }
+=======
+[
+    {
+        "id": 67584,
+        "name": "Ansongo",
+        "country": "MLI",
+        "state": "7"
+    },
+    {
+        "id": 67592,
+        "name": "Cercle de Bourem",
+        "country": "MLI",
+        "state": "7"
+    },
+    {
+        "id": 67601,
+        "name": "Gao",
+        "country": "MLI",
+        "state": "7"
+    },
+    {
+        "id": 67602,
+        "name": "Gao Cercle",
+        "country": "MLI",
+        "state": "7"
+    },
+    {
+        "id": 67605,
+        "name": "Inékar",
+        "country": "MLI",
+        "state": "7"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

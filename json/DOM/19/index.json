@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31178,
@@ -23,4 +24,31 @@
         "country": "DOM",
         "state": "19"
     }
+=======
+[
+    {
+        "id": 31178,
+        "name": "Salcedo",
+        "country": "DOM",
+        "state": "19"
+    },
+    {
+        "id": 31179,
+        "name": "Salsipuedes",
+        "country": "DOM",
+        "state": "19"
+    },
+    {
+        "id": 31205,
+        "name": "Tenares",
+        "country": "DOM",
+        "state": "19"
+    },
+    {
+        "id": 31220,
+        "name": "Villa Tapia",
+        "country": "DOM",
+        "state": "19"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

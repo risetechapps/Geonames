@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31832,
@@ -11,4 +12,19 @@
         "country": "EGY",
         "state": "LX"
     }
+=======
+[
+    {
+        "id": 31832,
+        "name": "Luxor",
+        "country": "EGY",
+        "state": "LX"
+    },
+    {
+        "id": 31840,
+        "name": "Markaz al Uqşur",
+        "country": "EGY",
+        "state": "LX"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

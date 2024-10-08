@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130065,
@@ -41,4 +42,49 @@
         "country": "VEN",
         "state": "I"
     }
+=======
+[
+    {
+        "id": 130065,
+        "name": "Chichiriviche",
+        "country": "VEN",
+        "state": "I"
+    },
+    {
+        "id": 130071,
+        "name": "Coro",
+        "country": "VEN",
+        "state": "I"
+    },
+    {
+        "id": 130116,
+        "name": "Municipio Los Taques",
+        "country": "VEN",
+        "state": "I"
+    },
+    {
+        "id": 130118,
+        "name": "Municipio Miranda",
+        "country": "VEN",
+        "state": "I"
+    },
+    {
+        "id": 130135,
+        "name": "Punta Cardón",
+        "country": "VEN",
+        "state": "I"
+    },
+    {
+        "id": 130136,
+        "name": "Punto Fijo",
+        "country": "VEN",
+        "state": "I"
+    },
+    {
+        "id": 130160,
+        "name": "Tucacas",
+        "country": "VEN",
+        "state": "I"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

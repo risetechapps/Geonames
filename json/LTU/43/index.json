@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 66577,
@@ -77,4 +78,85 @@
         "country": "LTU",
         "state": "43"
     }
+=======
+[
+    {
+        "id": 66577,
+        "name": "Akmenė",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 66607,
+        "name": "Joniškis",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 66619,
+        "name": "Kelmė",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 66627,
+        "name": "Kuršėnai",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 66633,
+        "name": "Linkuva",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 66642,
+        "name": "Naujoji Akmene",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 66649,
+        "name": "Pakruojis",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 66662,
+        "name": "Radviliskis",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 66710,
+        "name": "Šeduva",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 66712,
+        "name": "Šiauliai",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 66688,
+        "name": "Tytuvėnėliai",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 66696,
+        "name": "Venta",
+        "country": "LTU",
+        "state": "43"
+    },
+    {
+        "id": 66721,
+        "name": "Žagarė",
+        "country": "LTU",
+        "state": "43"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

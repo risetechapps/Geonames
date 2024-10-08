@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 270,
@@ -11,4 +12,19 @@
         "country": "STP",
         "state_code": "S"
     }
+=======
+[
+    {
+        "id": 270,
+        "name": "Príncipe Province",
+        "country": "STP",
+        "state": "P"
+    },
+    {
+        "id": 271,
+        "name": "São Tomé Province",
+        "country": "STP",
+        "state": "S"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

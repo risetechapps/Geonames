@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130355,
@@ -41,4 +42,49 @@
         "country": "VNM",
         "state": "06"
     }
+=======
+[
+    {
+        "id": 130355,
+        "name": "Huyện Lục Yên",
+        "country": "VNM",
+        "state": "06"
+    },
+    {
+        "id": 130360,
+        "name": "Huyện Mù Cang Chải",
+        "country": "VNM",
+        "state": "06"
+    },
+    {
+        "id": 130470,
+        "name": "Huyện Trạm Tấu",
+        "country": "VNM",
+        "state": "06"
+    },
+    {
+        "id": 130473,
+        "name": "Huyện Trấn Yên",
+        "country": "VNM",
+        "state": "06"
+    },
+    {
+        "id": 130496,
+        "name": "Huyện Văn Chấn",
+        "country": "VNM",
+        "state": "06"
+    },
+    {
+        "id": 130497,
+        "name": "Huyện Văn Yên",
+        "country": "VNM",
+        "state": "06"
+    },
+    {
+        "id": 130628,
+        "name": "Yên Bái",
+        "country": "VNM",
+        "state": "06"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

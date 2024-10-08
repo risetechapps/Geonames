@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 52379,
@@ -35,4 +36,43 @@
         "country": "GNQ",
         "state": "LI"
     }
+=======
+[
+    {
+        "id": 52379,
+        "name": "Bata",
+        "country": "GNQ",
+        "state": "LI"
+    },
+    {
+        "id": 52381,
+        "name": "Bitica",
+        "country": "GNQ",
+        "state": "LI"
+    },
+    {
+        "id": 52382,
+        "name": "Cogo",
+        "country": "GNQ",
+        "state": "LI"
+    },
+    {
+        "id": 52386,
+        "name": "Machinda",
+        "country": "GNQ",
+        "state": "LI"
+    },
+    {
+        "id": 52388,
+        "name": "Mbini",
+        "country": "GNQ",
+        "state": "LI"
+    },
+    {
+        "id": 52396,
+        "name": "Río Campo",
+        "country": "GNQ",
+        "state": "LI"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

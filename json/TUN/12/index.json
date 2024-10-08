@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 106915,
@@ -41,4 +42,49 @@
         "country": "TUN",
         "state": "12"
     }
+=======
+[
+    {
+        "id": 106915,
+        "name": "Ariana",
+        "country": "TUN",
+        "state": "12"
+    },
+    {
+        "id": 153381,
+        "name": "Ettadhamen-Mnihla",
+        "country": "TUN",
+        "state": "12"
+    },
+    {
+        "id": 106955,
+        "name": "Kalaat el-Andalous",
+        "country": "TUN",
+        "state": "12"
+    },
+    {
+        "id": 153380,
+        "name": "La Soukra",
+        "country": "TUN",
+        "state": "12"
+    },
+    {
+        "id": 153382,
+        "name": "Mnihla",
+        "country": "TUN",
+        "state": "12"
+    },
+    {
+        "id": 153378,
+        "name": "Raoued",
+        "country": "TUN",
+        "state": "12"
+    },
+    {
+        "id": 153379,
+        "name": "Sidi Thabet",
+        "country": "TUN",
+        "state": "12"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 17295,
@@ -23,4 +24,31 @@
         "country": "CAF",
         "state": "UK"
     }
+=======
+[
+    {
+        "id": 17295,
+        "name": "Bambari",
+        "country": "CAF",
+        "state": "UK"
+    },
+    {
+        "id": 17318,
+        "name": "Grimari",
+        "country": "CAF",
+        "state": "UK"
+    },
+    {
+        "id": 17319,
+        "name": "Ippy",
+        "country": "CAF",
+        "state": "UK"
+    },
+    {
+        "id": 17324,
+        "name": "Kouango",
+        "country": "CAF",
+        "state": "UK"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

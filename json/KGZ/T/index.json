@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 64907,
@@ -17,4 +18,25 @@
         "country": "KGZ",
         "state": "T"
     }
+=======
+[
+    {
+        "id": 64907,
+        "name": "Kara-Buurinskiy Rayon",
+        "country": "KGZ",
+        "state": "T"
+    },
+    {
+        "id": 64925,
+        "name": "Talas",
+        "country": "KGZ",
+        "state": "T"
+    },
+    {
+        "id": 64926,
+        "name": "Talasskiy Rayon",
+        "country": "KGZ",
+        "state": "T"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

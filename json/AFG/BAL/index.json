@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 55,
@@ -35,4 +36,43 @@
         "country": "AFG",
         "state": "BAL"
     }
+=======
+[
+    {
+        "id": 55,
+        "name": "Balkh",
+        "country": "AFG",
+        "state": "BAL"
+    },
+    {
+        "id": 65,
+        "name": "Dowlatābād",
+        "country": "AFG",
+        "state": "BAL"
+    },
+    {
+        "id": 85,
+        "name": "Khulm",
+        "country": "AFG",
+        "state": "BAL"
+    },
+    {
+        "id": 91,
+        "name": "Lab-Sar",
+        "country": "AFG",
+        "state": "BAL"
+    },
+    {
+        "id": 97,
+        "name": "Mazār-e Sharīf",
+        "country": "AFG",
+        "state": "BAL"
+    },
+    {
+        "id": 112,
+        "name": "Qarchī Gak",
+        "country": "AFG",
+        "state": "BAL"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

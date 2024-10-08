@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 81040,
@@ -23,4 +24,31 @@
         "country": "PNG",
         "state": "EBR"
     }
+=======
+[
+    {
+        "id": 81040,
+        "name": "Gazelle",
+        "country": "PNG",
+        "state": "EBR"
+    },
+    {
+        "id": 81069,
+        "name": "Kokopo",
+        "country": "PNG",
+        "state": "EBR"
+    },
+    {
+        "id": 81098,
+        "name": "Pomio",
+        "country": "PNG",
+        "state": "EBR"
+    },
+    {
+        "id": 81102,
+        "name": "Rabaul",
+        "country": "PNG",
+        "state": "EBR"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 102919,
@@ -17,4 +18,25 @@
         "country": "SDN",
         "state": "NB"
     }
+=======
+[
+    {
+        "id": 102919,
+        "name": "Ad-Damazin",
+        "country": "SDN",
+        "state": "NB"
+    },
+    {
+        "id": 102934,
+        "name": "Ar Ruseris",
+        "country": "SDN",
+        "state": "NB"
+    },
+    {
+        "id": 102961,
+        "name": "Kurmuk",
+        "country": "SDN",
+        "state": "NB"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

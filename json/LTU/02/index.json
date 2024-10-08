@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 66581,
@@ -41,4 +42,49 @@
         "country": "LTU",
         "state": "02"
     }
+=======
+[
+    {
+        "id": 66581,
+        "name": "Alytus",
+        "country": "LTU",
+        "state": "02"
+    },
+    {
+        "id": 66592,
+        "name": "Daugai",
+        "country": "LTU",
+        "state": "02"
+    },
+    {
+        "id": 66593,
+        "name": "Druskininkai",
+        "country": "LTU",
+        "state": "02"
+    },
+    {
+        "id": 66630,
+        "name": "Lazdijai",
+        "country": "LTU",
+        "state": "02"
+    },
+    {
+        "id": 66678,
+        "name": "Simnas",
+        "country": "LTU",
+        "state": "02"
+    },
+    {
+        "id": 66694,
+        "name": "Varėna",
+        "country": "LTU",
+        "state": "02"
+    },
+    {
+        "id": 66695,
+        "name": "Veisiejai",
+        "country": "LTU",
+        "state": "02"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

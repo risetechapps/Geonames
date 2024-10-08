@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 129905,
@@ -41,4 +42,49 @@
         "country": "UZB",
         "state": "XO"
     }
+=======
+[
+    {
+        "id": 129905,
+        "name": "Boghot Tumani",
+        "country": "UZB",
+        "state": "XO"
+    },
+    {
+        "id": 129929,
+        "name": "Gurlan",
+        "country": "UZB",
+        "state": "XO"
+    },
+    {
+        "id": 129934,
+        "name": "Hazorasp",
+        "country": "UZB",
+        "state": "XO"
+    },
+    {
+        "id": 129945,
+        "name": "Khiwa",
+        "country": "UZB",
+        "state": "XO"
+    },
+    {
+        "id": 129991,
+        "name": "Qŭshkŭpir",
+        "country": "UZB",
+        "state": "XO"
+    },
+    {
+        "id": 130001,
+        "name": "Showot",
+        "country": "UZB",
+        "state": "XO"
+    },
+    {
+        "id": 130013,
+        "name": "Urganch",
+        "country": "UZB",
+        "state": "XO"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

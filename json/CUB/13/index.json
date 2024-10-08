@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 21841,
@@ -41,4 +42,49 @@
         "country": "CUB",
         "state": "13"
     }
+=======
+[
+    {
+        "id": 21841,
+        "name": "Contramaestre",
+        "country": "CUB",
+        "state": "13"
+    },
+    {
+        "id": 21849,
+        "name": "El Cobre",
+        "country": "CUB",
+        "state": "13"
+    },
+    {
+        "id": 21929,
+        "name": "Municipio de Palma Soriano",
+        "country": "CUB",
+        "state": "13"
+    },
+    {
+        "id": 21934,
+        "name": "Municipio de Santiago de Cuba",
+        "country": "CUB",
+        "state": "13"
+    },
+    {
+        "id": 21939,
+        "name": "Palma Soriano",
+        "country": "CUB",
+        "state": "13"
+    },
+    {
+        "id": 21964,
+        "name": "San Luis",
+        "country": "CUB",
+        "state": "13"
+    },
+    {
+        "id": 21972,
+        "name": "Santiago de Cuba",
+        "country": "CUB",
+        "state": "13"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

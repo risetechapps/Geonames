@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 64816,
@@ -11,4 +12,19 @@
         "country": "KEN",
         "state": "21"
     }
+=======
+[
+    {
+        "id": 64816,
+        "name": "Lamu",
+        "country": "KEN",
+        "state": "21"
+    },
+    {
+        "id": 64878,
+        "name": "Witu",
+        "country": "KEN",
+        "state": "21"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 52047,
@@ -23,4 +24,31 @@
         "country": "GEO",
         "state": "RL"
     }
+=======
+[
+    {
+        "id": 52047,
+        "name": "Ambrolauri",
+        "country": "GEO",
+        "state": "RL"
+    },
+    {
+        "id": 52048,
+        "name": "Ambrolauris Munitsip’alit’et’i",
+        "country": "GEO",
+        "state": "RL"
+    },
+    {
+        "id": 52092,
+        "name": "Lent’ekhi",
+        "country": "GEO",
+        "state": "RL"
+    },
+    {
+        "id": 52106,
+        "name": "Oni",
+        "country": "GEO",
+        "state": "RL"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

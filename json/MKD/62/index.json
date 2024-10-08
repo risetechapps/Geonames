@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67448,
@@ -23,4 +24,31 @@
         "country": "MKD",
         "state": "62"
     }
+=======
+[
+    {
+        "id": 67448,
+        "name": "Kanatlarci",
+        "country": "MKD",
+        "state": "62"
+    },
+    {
+        "id": 67479,
+        "name": "Markov Grad",
+        "country": "MKD",
+        "state": "62"
+    },
+    {
+        "id": 67509,
+        "name": "Prilep",
+        "country": "MKD",
+        "state": "62"
+    },
+    {
+        "id": 67544,
+        "name": "Topolčani",
+        "country": "MKD",
+        "state": "62"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

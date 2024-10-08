@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 9834,
@@ -65,4 +66,73 @@
         "country": "BOL",
         "state": "T"
     }
+=======
+[
+    {
+        "id": 9834,
+        "name": "Bermejo",
+        "country": "BOL",
+        "state": "T"
+    },
+    {
+        "id": 9862,
+        "name": "Entre Ríos",
+        "country": "BOL",
+        "state": "T"
+    },
+    {
+        "id": 9903,
+        "name": "Provincia Arce",
+        "country": "BOL",
+        "state": "T"
+    },
+    {
+        "id": 9907,
+        "name": "Provincia Avilez",
+        "country": "BOL",
+        "state": "T"
+    },
+    {
+        "id": 9919,
+        "name": "Provincia Cercado",
+        "country": "BOL",
+        "state": "T"
+    },
+    {
+        "id": 9934,
+        "name": "Provincia Gran Chaco",
+        "country": "BOL",
+        "state": "T"
+    },
+    {
+        "id": 9959,
+        "name": "Provincia Méndez",
+        "country": "BOL",
+        "state": "T"
+    },
+    {
+        "id": 9967,
+        "name": "Provincia O’Connor",
+        "country": "BOL",
+        "state": "T"
+    },
+    {
+        "id": 10035,
+        "name": "Tarija",
+        "country": "BOL",
+        "state": "T"
+    },
+    {
+        "id": 10047,
+        "name": "Villamontes",
+        "country": "BOL",
+        "state": "T"
+    },
+    {
+        "id": 10051,
+        "name": "Yacuiba",
+        "country": "BOL",
+        "state": "T"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

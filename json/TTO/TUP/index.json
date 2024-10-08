@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 108969,
@@ -17,4 +18,25 @@
         "country": "TTO",
         "state": "TUP"
     }
+=======
+[
+    {
+        "id": 108969,
+        "name": "Arouca",
+        "country": "TTO",
+        "state": "TUP"
+    },
+    {
+        "id": 108977,
+        "name": "Paradise",
+        "country": "TTO",
+        "state": "TUP"
+    },
+    {
+        "id": 108989,
+        "name": "Tunapuna",
+        "country": "TTO",
+        "state": "TUP"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

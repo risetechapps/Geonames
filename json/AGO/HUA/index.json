@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 600,
@@ -23,4 +24,31 @@
         "country": "AGO",
         "state": "HUA"
     }
+=======
+[
+    {
+        "id": 600,
+        "name": "Caála",
+        "country": "AGO",
+        "state": "HUA"
+    },
+    {
+        "id": 601,
+        "name": "Chela",
+        "country": "AGO",
+        "state": "HUA"
+    },
+    {
+        "id": 609,
+        "name": "Huambo",
+        "country": "AGO",
+        "state": "HUA"
+    },
+    {
+        "id": 614,
+        "name": "Longonjo",
+        "country": "AGO",
+        "state": "HUA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

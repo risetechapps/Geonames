@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 10776,
@@ -11,4 +12,19 @@
         "country": "BRA",
         "state": "DF"
     }
+=======
+[
+    {
+        "id": 10776,
+        "name": "Brasília",
+        "country": "BRA",
+        "state": "DF"
+    },
+    {
+        "id": 13934,
+        "name": "Planaltina",
+        "country": "BRA",
+        "state": "DF"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

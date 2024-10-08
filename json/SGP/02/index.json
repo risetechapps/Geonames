@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 153475,
@@ -29,4 +30,37 @@
         "country": "SGP",
         "state": "02"
     }
+=======
+[
+    {
+        "id": 153475,
+        "name": "Ang Mo Kio",
+        "country": "SGP",
+        "state": "02"
+    },
+    {
+        "id": 153472,
+        "name": "Hougang",
+        "country": "SGP",
+        "state": "02"
+    },
+    {
+        "id": 153474,
+        "name": "Punggol",
+        "country": "SGP",
+        "state": "02"
+    },
+    {
+        "id": 153471,
+        "name": "Sengkang",
+        "country": "SGP",
+        "state": "02"
+    },
+    {
+        "id": 153473,
+        "name": "Serangoon",
+        "country": "SGP",
+        "state": "02"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 153514,
@@ -11,4 +12,19 @@
         "country": "BMU",
         "state": "SGE"
     }
+=======
+[
+    {
+        "id": 153514,
+        "name": "St. George's",
+        "country": "BMU",
+        "state": "SGE"
+    },
+    {
+        "id": 153517,
+        "name": "Tucker’s Town",
+        "country": "BMU",
+        "state": "SGE"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

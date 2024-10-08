@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 17303,
@@ -17,4 +18,25 @@
         "country": "CAF",
         "state": "MP"
     }
+=======
+[
+    {
+        "id": 17303,
+        "name": "Bimbo",
+        "country": "CAF",
+        "state": "MP"
+    },
+    {
+        "id": 17305,
+        "name": "Boali",
+        "country": "CAF",
+        "state": "MP"
+    },
+    {
+        "id": 17315,
+        "name": "Damara",
+        "country": "CAF",
+        "state": "MP"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

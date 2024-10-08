@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 79775,
@@ -11,4 +12,19 @@
         "country": "NZL",
         "state": "MBH"
     }
+=======
+[
+    {
+        "id": 79775,
+        "name": "Blenheim",
+        "country": "NZL",
+        "state": "MBH"
+    },
+    {
+        "id": 79860,
+        "name": "Picton",
+        "country": "NZL",
+        "state": "MBH"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

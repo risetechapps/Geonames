@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 76590,
@@ -17,4 +18,25 @@
         "country": "MOZ",
         "state": "S"
     }
+=======
+[
+    {
+        "id": 76590,
+        "name": "Beira",
+        "country": "MOZ",
+        "state": "S"
+    },
+    {
+        "id": 76599,
+        "name": "Dondo",
+        "country": "MOZ",
+        "state": "S"
+    },
+    {
+        "id": 76620,
+        "name": "Nhamatanda District",
+        "country": "MOZ",
+        "state": "S"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

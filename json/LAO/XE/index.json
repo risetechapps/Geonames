@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 65859,
@@ -35,4 +36,43 @@
         "country": "LAO",
         "state": "XE"
     }
+=======
+[
+    {
+        "id": 65859,
+        "name": "Ban Thatèng",
+        "country": "LAO",
+        "state": "XE"
+    },
+    {
+        "id": 65862,
+        "name": "Lamam",
+        "country": "LAO",
+        "state": "XE"
+    },
+    {
+        "id": 65871,
+        "name": "Muang Dakchung",
+        "country": "LAO",
+        "state": "XE"
+    },
+    {
+        "id": 65873,
+        "name": "Muang Khaleum",
+        "country": "LAO",
+        "state": "XE"
+    },
+    {
+        "id": 65877,
+        "name": "Muang Laman",
+        "country": "LAO",
+        "state": "XE"
+    },
+    {
+        "id": 65906,
+        "name": "Muang Thatèng",
+        "country": "LAO",
+        "state": "XE"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

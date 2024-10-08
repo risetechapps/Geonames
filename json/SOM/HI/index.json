@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104780,
@@ -17,4 +18,25 @@
         "country": "SOM",
         "state": "HI"
     }
+=======
+[
+    {
+        "id": 104780,
+        "name": "Beledweyne",
+        "country": "SOM",
+        "state": "HI"
+    },
+    {
+        "id": 104784,
+        "name": "Buulobarde",
+        "country": "SOM",
+        "state": "HI"
+    },
+    {
+        "id": 104801,
+        "name": "Jalalaqsi",
+        "country": "SOM",
+        "state": "HI"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

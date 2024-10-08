@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31784,
@@ -41,4 +42,49 @@
         "country": "EGY",
         "state": "KFS"
     }
+=======
+[
+    {
+        "id": 31784,
+        "name": "Al Ḩāmūl",
+        "country": "EGY",
+        "state": "KFS"
+    },
+    {
+        "id": 31810,
+        "name": "Disūq",
+        "country": "EGY",
+        "state": "KFS"
+    },
+    {
+        "id": 31814,
+        "name": "Fuwwah",
+        "country": "EGY",
+        "state": "KFS"
+    },
+    {
+        "id": 31827,
+        "name": "Kafr ash Shaykh",
+        "country": "EGY",
+        "state": "KFS"
+    },
+    {
+        "id": 31837,
+        "name": "Markaz Disūq",
+        "country": "EGY",
+        "state": "KFS"
+    },
+    {
+        "id": 31845,
+        "name": "Munshāt ‘Alī Āghā",
+        "country": "EGY",
+        "state": "KFS"
+    },
+    {
+        "id": 31870,
+        "name": "Sīdī Sālim",
+        "country": "EGY",
+        "state": "KFS"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 9757,
@@ -17,4 +18,25 @@
         "country": "BHR",
         "state": "13"
     }
+=======
+[
+    {
+        "id": 9757,
+        "name": "Jidd Ḩafş",
+        "country": "BHR",
+        "state": "13"
+    },
+    {
+        "id": 9760,
+        "name": "Manama",
+        "country": "BHR",
+        "state": "13"
+    },
+    {
+        "id": 9761,
+        "name": "Sitrah",
+        "country": "BHR",
+        "state": "13"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

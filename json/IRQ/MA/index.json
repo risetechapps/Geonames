@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 134551,
@@ -17,4 +18,25 @@
         "country": "IRQ",
         "state": "MA"
     }
+=======
+[
+    {
+        "id": 134551,
+        "name": "‘Alī al Gharbī",
+        "country": "IRQ",
+        "state": "MA"
+    },
+    {
+        "id": 134490,
+        "name": "Al ‘Amārah",
+        "country": "IRQ",
+        "state": "MA"
+    },
+    {
+        "id": 134493,
+        "name": "Al-Mejar Al-Kabi District",
+        "country": "IRQ",
+        "state": "MA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

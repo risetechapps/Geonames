@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 63206,
@@ -29,4 +30,37 @@
         "country": "JOR",
         "state": "AJ"
     }
+=======
+[
+    {
+        "id": 63206,
+        "name": "‘Ajlūn",
+        "country": "JOR",
+        "state": "AJ"
+    },
+    {
+        "id": 63207,
+        "name": "‘Anjarah",
+        "country": "JOR",
+        "state": "AJ"
+    },
+    {
+        "id": 63208,
+        "name": "‘Ayn Jannah",
+        "country": "JOR",
+        "state": "AJ"
+    },
+    {
+        "id": 63202,
+        "name": "Ḩalāwah",
+        "country": "JOR",
+        "state": "AJ"
+    },
+    {
+        "id": 63199,
+        "name": "Şakhrah",
+        "country": "JOR",
+        "state": "AJ"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

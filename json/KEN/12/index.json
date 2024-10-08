@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 64799,
@@ -23,4 +24,31 @@
         "country": "KEN",
         "state": "12"
     }
+=======
+[
+    {
+        "id": 64799,
+        "name": "Kericho",
+        "country": "KEN",
+        "state": "12"
+    },
+    {
+        "id": 64809,
+        "name": "Kipkelion",
+        "country": "KEN",
+        "state": "12"
+    },
+    {
+        "id": 64818,
+        "name": "Litein",
+        "country": "KEN",
+        "state": "12"
+    },
+    {
+        "id": 64820,
+        "name": "Londiani",
+        "country": "KEN",
+        "state": "12"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

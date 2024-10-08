@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 130637,
@@ -11,4 +12,19 @@
         "country": "VUT",
         "state": "MAP"
     }
+=======
+[
+    {
+        "id": 130637,
+        "name": "Lakatoro",
+        "country": "VUT",
+        "state": "MAP"
+    },
+    {
+        "id": 130639,
+        "name": "Norsup",
+        "country": "VUT",
+        "state": "MAP"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

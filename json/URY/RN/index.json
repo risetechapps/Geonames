@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 129806,
@@ -23,4 +24,31 @@
         "country": "URY",
         "state": "RN"
     }
+=======
+[
+    {
+        "id": 129806,
+        "name": "Fray Bentos",
+        "country": "URY",
+        "state": "RN"
+    },
+    {
+        "id": 129836,
+        "name": "Nuevo Berlín",
+        "country": "URY",
+        "state": "RN"
+    },
+    {
+        "id": 129863,
+        "name": "San Javier",
+        "country": "URY",
+        "state": "RN"
+    },
+    {
+        "id": 129893,
+        "name": "Young",
+        "country": "URY",
+        "state": "RN"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

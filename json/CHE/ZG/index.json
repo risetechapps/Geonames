@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 17428,
@@ -53,4 +54,61 @@
         "country": "CHE",
         "state": "ZG"
     }
+=======
+[
+    {
+        "id": 17428,
+        "name": "Baar",
+        "country": "CHE",
+        "state": "ZG"
+    },
+    {
+        "id": 17622,
+        "name": "Cham",
+        "country": "CHE",
+        "state": "ZG"
+    },
+    {
+        "id": 17944,
+        "name": "Hünenberg",
+        "country": "CHE",
+        "state": "ZG"
+    },
+    {
+        "id": 18152,
+        "name": "Menzingen",
+        "country": "CHE",
+        "state": "ZG"
+    },
+    {
+        "id": 18395,
+        "name": "Rotkreuz",
+        "country": "CHE",
+        "state": "ZG"
+    },
+    {
+        "id": 18554,
+        "name": "Steinhausen",
+        "country": "CHE",
+        "state": "ZG"
+    },
+    {
+        "id": 18638,
+        "name": "Unterägeri",
+        "country": "CHE",
+        "state": "ZG"
+    },
+    {
+        "id": 18708,
+        "name": "Walchwil",
+        "country": "CHE",
+        "state": "ZG"
+    },
+    {
+        "id": 18801,
+        "name": "Zug",
+        "country": "CHE",
+        "state": "ZG"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

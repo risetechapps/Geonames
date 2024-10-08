@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31881,
@@ -17,4 +18,25 @@
         "country": "ERI",
         "state": "DU"
     }
+=======
+[
+    {
+        "id": 31881,
+        "name": "Adi Keyh",
+        "country": "ERI",
+        "state": "DU"
+    },
+    {
+        "id": 31886,
+        "name": "Dek’emhāre",
+        "country": "ERI",
+        "state": "DU"
+    },
+    {
+        "id": 31890,
+        "name": "Mendefera",
+        "country": "ERI",
+        "state": "DU"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

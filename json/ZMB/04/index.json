@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 131357,
@@ -29,4 +30,37 @@
         "country": "ZMB",
         "state": "04"
     }
+=======
+[
+    {
+        "id": 131357,
+        "name": "Kawambwa",
+        "country": "ZMB",
+        "state": "04"
+    },
+    {
+        "id": 131368,
+        "name": "Mansa",
+        "country": "ZMB",
+        "state": "04"
+    },
+    {
+        "id": 131382,
+        "name": "Mwense",
+        "country": "ZMB",
+        "state": "04"
+    },
+    {
+        "id": 131387,
+        "name": "Nchelenge",
+        "country": "ZMB",
+        "state": "04"
+    },
+    {
+        "id": 131391,
+        "name": "Samfya",
+        "country": "ZMB",
+        "state": "04"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

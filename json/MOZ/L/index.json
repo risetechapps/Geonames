@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 76591,
@@ -59,4 +60,67 @@
         "country": "MOZ",
         "state": "L"
     }
+=======
+[
+    {
+        "id": 76591,
+        "name": "Boane District",
+        "country": "MOZ",
+        "state": "L"
+    },
+    {
+        "id": 76597,
+        "name": "Concelho de Matola",
+        "country": "MOZ",
+        "state": "L"
+    },
+    {
+        "id": 76605,
+        "name": "Magude District",
+        "country": "MOZ",
+        "state": "L"
+    },
+    {
+        "id": 76607,
+        "name": "Manhica",
+        "country": "MOZ",
+        "state": "L"
+    },
+    {
+        "id": 76609,
+        "name": "Marracuene District",
+        "country": "MOZ",
+        "state": "L"
+    },
+    {
+        "id": 76610,
+        "name": "Matola",
+        "country": "MOZ",
+        "state": "L"
+    },
+    {
+        "id": 76611,
+        "name": "Matutiune District",
+        "country": "MOZ",
+        "state": "L"
+    },
+    {
+        "id": 76613,
+        "name": "Moamba District",
+        "country": "MOZ",
+        "state": "L"
+    },
+    {
+        "id": 76618,
+        "name": "Namaacha District",
+        "country": "MOZ",
+        "state": "L"
+    },
+    {
+        "id": 76623,
+        "name": "Ressano Garcia",
+        "country": "MOZ",
+        "state": "L"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

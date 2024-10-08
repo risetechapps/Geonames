@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 109002,
@@ -23,4 +24,31 @@
         "country": "TWN",
         "state": "TPE"
     }
+=======
+[
+    {
+        "id": 109002,
+        "name": "Banqiao",
+        "country": "TWN",
+        "state": "TPE"
+    },
+    {
+        "id": 109015,
+        "name": "Jiufen",
+        "country": "TWN",
+        "state": "TPE"
+    },
+    {
+        "id": 109031,
+        "name": "Taipei",
+        "country": "TWN",
+        "state": "TPE"
+    },
+    {
+        "id": 109032,
+        "name": "Taipei City",
+        "country": "TWN",
+        "state": "TPE"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

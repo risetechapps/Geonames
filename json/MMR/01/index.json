@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67657,
@@ -23,4 +24,31 @@
         "country": "MMR",
         "state": "01"
     }
+=======
+[
+    {
+        "id": 67657,
+        "name": "Mawlaik",
+        "country": "MMR",
+        "state": "01"
+    },
+    {
+        "id": 67664,
+        "name": "Monywa",
+        "country": "MMR",
+        "state": "01"
+    },
+    {
+        "id": 67685,
+        "name": "Sagaing",
+        "country": "MMR",
+        "state": "01"
+    },
+    {
+        "id": 67686,
+        "name": "Shwebo",
+        "country": "MMR",
+        "state": "01"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

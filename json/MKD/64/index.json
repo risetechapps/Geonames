@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67499,
@@ -17,4 +18,25 @@
         "country": "MKD",
         "state": "64"
     }
+=======
+[
+    {
+        "id": 67499,
+        "name": "Oraovica",
+        "country": "MKD",
+        "state": "64"
+    },
+    {
+        "id": 67507,
+        "name": "Podareš",
+        "country": "MKD",
+        "state": "64"
+    },
+    {
+        "id": 67514,
+        "name": "Radovis",
+        "country": "MKD",
+        "state": "64"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

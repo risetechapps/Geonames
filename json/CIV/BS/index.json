@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 18901,
@@ -29,4 +30,37 @@
         "country": "CIV",
         "state": "BS"
     }
+=======
+[
+    {
+        "id": 18901,
+        "name": "Gbôklé",
+        "country": "CIV",
+        "state": "BS"
+    },
+    {
+        "id": 18924,
+        "name": "Nawa",
+        "country": "CIV",
+        "state": "BS"
+    },
+    {
+        "id": 18928,
+        "name": "San-Pédro",
+        "country": "CIV",
+        "state": "BS"
+    },
+    {
+        "id": 18929,
+        "name": "Sassandra",
+        "country": "CIV",
+        "state": "BS"
+    },
+    {
+        "id": 18933,
+        "name": "Tabou",
+        "country": "CIV",
+        "state": "BS"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

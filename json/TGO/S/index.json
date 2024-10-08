@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 105163,
@@ -11,4 +12,19 @@
         "country": "TGO",
         "state": "S"
     }
+=======
+[
+    {
+        "id": 105163,
+        "name": "Dapaong",
+        "country": "TGO",
+        "state": "S"
+    },
+    {
+        "id": 105172,
+        "name": "Sansanné-Mango",
+        "country": "TGO",
+        "state": "S"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

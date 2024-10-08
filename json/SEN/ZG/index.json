@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104702,
@@ -29,4 +30,37 @@
         "country": "SEN",
         "state": "ZG"
     }
+=======
+[
+    {
+        "id": 104702,
+        "name": "Adéane",
+        "country": "SEN",
+        "state": "ZG"
+    },
+    {
+        "id": 104703,
+        "name": "Bignona",
+        "country": "SEN",
+        "state": "ZG"
+    },
+    {
+        "id": 104746,
+        "name": "Oussouye",
+        "country": "SEN",
+        "state": "ZG"
+    },
+    {
+        "id": 104767,
+        "name": "Tionk Essil",
+        "country": "SEN",
+        "state": "ZG"
+    },
+    {
+        "id": 104774,
+        "name": "Ziguinchor",
+        "country": "SEN",
+        "state": "ZG"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

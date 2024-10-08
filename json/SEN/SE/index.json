@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104714,
@@ -11,4 +12,19 @@
         "country": "SEN",
         "state": "SE"
     }
+=======
+[
+    {
+        "id": 104714,
+        "name": "Goudomp Department",
+        "country": "SEN",
+        "state": "SE"
+    },
+    {
+        "id": 104760,
+        "name": "Sédhiou",
+        "country": "SEN",
+        "state": "SE"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

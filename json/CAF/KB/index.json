@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 17321,
@@ -11,4 +12,19 @@
         "country": "CAF",
         "state": "KB"
     }
+=======
+[
+    {
+        "id": 17321,
+        "name": "Kaga Bandoro",
+        "country": "CAF",
+        "state": "KB"
+    },
+    {
+        "id": 17322,
+        "name": "Kaga-Bandoro",
+        "country": "CAF",
+        "state": "KB"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

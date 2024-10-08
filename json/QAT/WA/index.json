@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 89859,
@@ -17,4 +18,25 @@
         "country": "QAT",
         "state": "WA"
     }
+=======
+[
+    {
+        "id": 89859,
+        "name": "Al Wakrah",
+        "country": "QAT",
+        "state": "WA"
+    },
+    {
+        "id": 89860,
+        "name": "Al Wukayr",
+        "country": "QAT",
+        "state": "WA"
+    },
+    {
+        "id": 89868,
+        "name": "Musay‘īd",
+        "country": "QAT",
+        "state": "WA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

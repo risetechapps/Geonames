@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 38787,
@@ -77,4 +78,85 @@
         "country": "FIN",
         "state": "02"
     }
+=======
+[
+    {
+        "id": 38787,
+        "name": "Imatra",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 38802,
+        "name": "Joutseno",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 38899,
+        "name": "Lappeenranta",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 38908,
+        "name": "Lemi",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 38923,
+        "name": "Luumäki",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 38956,
+        "name": "Nuijamaa",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 38973,
+        "name": "Parikkala",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 39019,
+        "name": "Rautjärvi",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 39028,
+        "name": "Ruokolahti",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 39034,
+        "name": "Saari",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 39040,
+        "name": "Savitaipale",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 39067,
+        "name": "Taipalsaari",
+        "country": "FIN",
+        "state": "02"
+    },
+    {
+        "id": 39127,
+        "name": "Ylämaa",
+        "country": "FIN",
+        "state": "02"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

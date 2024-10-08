@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 136,
@@ -23,4 +24,31 @@
         "country": "AFG",
         "state": "JOW"
     }
+=======
+[
+    {
+        "id": 136,
+        "name": "Āqchah",
+        "country": "AFG",
+        "state": "JOW"
+    },
+    {
+        "id": 63,
+        "name": "Darzāb",
+        "country": "AFG",
+        "state": "JOW"
+    },
+    {
+        "id": 113,
+        "name": "Qarqīn",
+        "country": "AFG",
+        "state": "JOW"
+    },
+    {
+        "id": 122,
+        "name": "Shibirghān",
+        "country": "AFG",
+        "state": "JOW"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

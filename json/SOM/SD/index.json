@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104787,
@@ -17,4 +18,25 @@
         "country": "SOM",
         "state": "SD"
     }
+=======
+[
+    {
+        "id": 104787,
+        "name": "Cadale",
+        "country": "SOM",
+        "state": "SD"
+    },
+    {
+        "id": 104803,
+        "name": "Jawhar",
+        "country": "SOM",
+        "state": "SD"
+    },
+    {
+        "id": 104808,
+        "name": "Mahaddayweyne",
+        "country": "SOM",
+        "state": "SD"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

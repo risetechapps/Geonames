@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 150050,
@@ -47,4 +48,55 @@
         "country": "NLD",
         "state": "BQ1"
     }
+=======
+[
+    {
+        "id": 150050,
+        "name": "Boven Bolivia",
+        "country": "NLD",
+        "state": "BQ1"
+    },
+    {
+        "id": 150051,
+        "name": "Dorp Tera Kora",
+        "country": "NLD",
+        "state": "BQ1"
+    },
+    {
+        "id": 150052,
+        "name": "Oranjestad",
+        "country": "NLD",
+        "state": "BQ1"
+    },
+    {
+        "id": 150053,
+        "name": "Rincon",
+        "country": "NLD",
+        "state": "BQ1"
+    },
+    {
+        "id": 150054,
+        "name": "St. Johns",
+        "country": "NLD",
+        "state": "BQ1"
+    },
+    {
+        "id": 150055,
+        "name": "The Bottom",
+        "country": "NLD",
+        "state": "BQ1"
+    },
+    {
+        "id": 150056,
+        "name": "Windwardside",
+        "country": "NLD",
+        "state": "BQ1"
+    },
+    {
+        "id": 150057,
+        "name": "Zion's Hill",
+        "country": "NLD",
+        "state": "BQ1"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

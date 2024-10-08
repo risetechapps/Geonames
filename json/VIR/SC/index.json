@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 149573,
@@ -53,4 +54,61 @@
         "country": "VIR",
         "state": "SC"
     }
+=======
+[
+    {
+        "id": 149573,
+        "name": "Christiansted",
+        "country": "VIR",
+        "state": "SC"
+    },
+    {
+        "id": 149574,
+        "name": "East End",
+        "country": "VIR",
+        "state": "SC"
+    },
+    {
+        "id": 149575,
+        "name": "Frederiksted",
+        "country": "VIR",
+        "state": "SC"
+    },
+    {
+        "id": 149572,
+        "name": "Good Hope",
+        "country": "VIR",
+        "state": "SC"
+    },
+    {
+        "id": 149576,
+        "name": "Northcentral",
+        "country": "VIR",
+        "state": "SC"
+    },
+    {
+        "id": 149577,
+        "name": "Northwest",
+        "country": "VIR",
+        "state": "SC"
+    },
+    {
+        "id": 149578,
+        "name": "Sion Farm",
+        "country": "VIR",
+        "state": "SC"
+    },
+    {
+        "id": 149579,
+        "name": "Southcentral",
+        "country": "VIR",
+        "state": "SC"
+    },
+    {
+        "id": 149580,
+        "name": "Southwest",
+        "country": "VIR",
+        "state": "SC"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

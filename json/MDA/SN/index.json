@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67282,
@@ -65,4 +66,73 @@
         "country": "MDA",
         "state": "SN"
     }
+=======
+[
+    {
+        "id": 67282,
+        "name": "Camenca",
+        "country": "MDA",
+        "state": "SN"
+    },
+    {
+        "id": 67291,
+        "name": "Crasnoe",
+        "country": "MDA",
+        "state": "SN"
+    },
+    {
+        "id": 67297,
+        "name": "Dnestrovsc",
+        "country": "MDA",
+        "state": "SN"
+    },
+    {
+        "id": 67300,
+        "name": "Dubăsari",
+        "country": "MDA",
+        "state": "SN"
+    },
+    {
+        "id": 67307,
+        "name": "Hryhoriopol",
+        "country": "MDA",
+        "state": "SN"
+    },
+    {
+        "id": 67311,
+        "name": "Maiac",
+        "country": "MDA",
+        "state": "SN"
+    },
+    {
+        "id": 67318,
+        "name": "Pervomaisc",
+        "country": "MDA",
+        "state": "SN"
+    },
+    {
+        "id": 67320,
+        "name": "Rîbniţa",
+        "country": "MDA",
+        "state": "SN"
+    },
+    {
+        "id": 67323,
+        "name": "Slobozia",
+        "country": "MDA",
+        "state": "SN"
+    },
+    {
+        "id": 67331,
+        "name": "Tiraspol",
+        "country": "MDA",
+        "state": "SN"
+    },
+    {
+        "id": 67332,
+        "name": "Tiraspolul Nou",
+        "country": "MDA",
+        "state": "SN"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

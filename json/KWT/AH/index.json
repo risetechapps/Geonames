@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 65572,
@@ -41,4 +42,49 @@
         "country": "KWT",
         "state": "AH"
     }
+=======
+[
+    {
+        "id": 65572,
+        "name": "Al Aḩmadī",
+        "country": "KWT",
+        "state": "AH"
+    },
+    {
+        "id": 65574,
+        "name": "Al Faḩāḩīl",
+        "country": "KWT",
+        "state": "AH"
+    },
+    {
+        "id": 65575,
+        "name": "Al Finţās",
+        "country": "KWT",
+        "state": "AH"
+    },
+    {
+        "id": 65578,
+        "name": "Al Mahbūlah",
+        "country": "KWT",
+        "state": "AH"
+    },
+    {
+        "id": 65579,
+        "name": "Al Manqaf",
+        "country": "KWT",
+        "state": "AH"
+    },
+    {
+        "id": 65580,
+        "name": "Al Wafrah",
+        "country": "KWT",
+        "state": "AH"
+    },
+    {
+        "id": 65582,
+        "name": "Ar Riqqah",
+        "country": "KWT",
+        "state": "AH"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

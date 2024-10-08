@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 80651,
@@ -53,4 +54,61 @@
         "country": "PER",
         "state": "HUV"
     }
+=======
+[
+    {
+        "id": 80651,
+        "name": "Huancavelica",
+        "country": "PER",
+        "state": "HUV"
+    },
+    {
+        "id": 80662,
+        "name": "Huaytara",
+        "country": "PER",
+        "state": "HUV"
+    },
+    {
+        "id": 80749,
+        "name": "Pampas",
+        "country": "PER",
+        "state": "HUV"
+    },
+    {
+        "id": 80768,
+        "name": "Provincia de Acobamba",
+        "country": "PER",
+        "state": "HUV"
+    },
+    {
+        "id": 80773,
+        "name": "Provincia de Angaraes",
+        "country": "PER",
+        "state": "HUV"
+    },
+    {
+        "id": 80799,
+        "name": "Provincia de Castrovirreyna",
+        "country": "PER",
+        "state": "HUV"
+    },
+    {
+        "id": 80810,
+        "name": "Provincia de Churcampa",
+        "country": "PER",
+        "state": "HUV"
+    },
+    {
+        "id": 80833,
+        "name": "Provincia de Huancavelica",
+        "country": "PER",
+        "state": "HUV"
+    },
+    {
+        "id": 80903,
+        "name": "Provincia de Tayacaja",
+        "country": "PER",
+        "state": "HUV"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

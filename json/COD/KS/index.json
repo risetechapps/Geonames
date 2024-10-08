@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 17248,
@@ -23,4 +24,31 @@
         "country": "COD",
         "state": "KS"
     }
+=======
+[
+    {
+        "id": 17248,
+        "name": "Ilebo",
+        "country": "COD",
+        "state": "KS"
+    },
+    {
+        "id": 17273,
+        "name": "Luebo",
+        "country": "COD",
+        "state": "KS"
+    },
+    {
+        "id": 17284,
+        "name": "Mweka",
+        "country": "COD",
+        "state": "KS"
+    },
+    {
+        "id": 17289,
+        "name": "Tshikapa",
+        "country": "COD",
+        "state": "KS"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

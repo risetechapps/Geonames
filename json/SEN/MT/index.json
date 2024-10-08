@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 104707,
@@ -47,4 +48,55 @@
         "country": "SEN",
         "state": "MT"
     }
+=======
+[
+    {
+        "id": 104707,
+        "name": "Diawara",
+        "country": "SEN",
+        "state": "MT"
+    },
+    {
+        "id": 104720,
+        "name": "Kanel",
+        "country": "SEN",
+        "state": "MT"
+    },
+    {
+        "id": 104732,
+        "name": "Matam",
+        "country": "SEN",
+        "state": "MT"
+    },
+    {
+        "id": 104733,
+        "name": "Matam Department",
+        "country": "SEN",
+        "state": "MT"
+    },
+    {
+        "id": 104745,
+        "name": "Ouro Sogui",
+        "country": "SEN",
+        "state": "MT"
+    },
+    {
+        "id": 104753,
+        "name": "Ranérou",
+        "country": "SEN",
+        "state": "MT"
+    },
+    {
+        "id": 104761,
+        "name": "Sémé",
+        "country": "SEN",
+        "state": "MT"
+    },
+    {
+        "id": 104772,
+        "name": "Waoundé",
+        "country": "SEN",
+        "state": "MT"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

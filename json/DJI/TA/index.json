@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 30566,
@@ -11,4 +12,19 @@
         "country": "DJI",
         "state": "TA"
     }
+=======
+[
+    {
+        "id": 30566,
+        "name": "Dorra",
+        "country": "DJI",
+        "state": "TA"
+    },
+    {
+        "id": 30572,
+        "name": "Tadjourah",
+        "country": "DJI",
+        "state": "TA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 102950,
@@ -23,4 +24,31 @@
         "country": "SDN",
         "state": "RS"
     }
+=======
+[
+    {
+        "id": 102950,
+        "name": "Gebeit",
+        "country": "SDN",
+        "state": "RS"
+    },
+    {
+        "id": 102968,
+        "name": "Port Sudan",
+        "country": "SDN",
+        "state": "RS"
+    },
+    {
+        "id": 102970,
+        "name": "Sawākin",
+        "country": "SDN",
+        "state": "RS"
+    },
+    {
+        "id": 102976,
+        "name": "Tokār",
+        "country": "SDN",
+        "state": "RS"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

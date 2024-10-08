@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 105260,
@@ -59,4 +60,67 @@
         "country": "THA",
         "state": "38"
     }
+=======
+[
+    {
+        "id": 105260,
+        "name": "Amphoe Bueng Khong Long",
+        "country": "THA",
+        "state": "38"
+    },
+    {
+        "id": 105264,
+        "name": "Amphoe Bung Khla",
+        "country": "THA",
+        "state": "38"
+    },
+    {
+        "id": 105533,
+        "name": "Amphoe Mueang Bueng Kan",
+        "country": "THA",
+        "state": "38"
+    },
+    {
+        "id": 105702,
+        "name": "Amphoe Pak Khat",
+        "country": "THA",
+        "state": "38"
+    },
+    {
+        "id": 105752,
+        "name": "Amphoe Phon Charoen",
+        "country": "THA",
+        "state": "38"
+    },
+    {
+        "id": 106205,
+        "name": "Amphoe Seka",
+        "country": "THA",
+        "state": "38"
+    },
+    {
+        "id": 106230,
+        "name": "Amphoe Si Wilai",
+        "country": "THA",
+        "state": "38"
+    },
+    {
+        "id": 106239,
+        "name": "Amphoe So Phisai",
+        "country": "THA",
+        "state": "38"
+    },
+    {
+        "id": 106455,
+        "name": "Bueng Kan",
+        "country": "THA",
+        "state": "38"
+    },
+    {
+        "id": 106696,
+        "name": "Seka",
+        "country": "THA",
+        "state": "38"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

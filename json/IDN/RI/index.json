@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 56188,
@@ -83,4 +84,91 @@
         "country": "IDN",
         "state": "RI"
     }
+=======
+[
+    {
+        "id": 56188,
+        "name": "Balaipungut",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56208,
+        "name": "Batam",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56270,
+        "name": "Dumai",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56354,
+        "name": "Kabupaten Bengkalis",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56424,
+        "name": "Kabupaten Indragiri Hilir",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56425,
+        "name": "Kabupaten Indragiri Hulu",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56436,
+        "name": "Kabupaten Kampar",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56453,
+        "name": "Kabupaten Kepulauan Meranti",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56471,
+        "name": "Kabupaten Kuantan Singingi",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56586,
+        "name": "Kabupaten Pelalawan",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56611,
+        "name": "Kabupaten Rokan Hilir",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56612,
+        "name": "Kabupaten Rokan Hulu",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56626,
+        "name": "Kabupaten Siak",
+        "country": "IDN",
+        "state": "RI"
+    },
+    {
+        "id": 56927,
+        "name": "Pekanbaru",
+        "country": "IDN",
+        "state": "RI"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

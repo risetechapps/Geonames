@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 129796,
@@ -17,4 +18,25 @@
         "country": "URY",
         "state": "TA"
     }
+=======
+[
+    {
+        "id": 129796,
+        "name": "Curtina",
+        "country": "URY",
+        "state": "TA"
+    },
+    {
+        "id": 129843,
+        "name": "Paso de los Toros",
+        "country": "URY",
+        "state": "TA"
+    },
+    {
+        "id": 129877,
+        "name": "Tacuarembó",
+        "country": "URY",
+        "state": "TA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 1992,
@@ -29,4 +30,37 @@
         "country": "BHR",
         "state_code": "14"
     }
+=======
+[
+    {
+        "id": 1992,
+        "name": "Capital",
+        "country": "BHR",
+        "state": "13"
+    },
+    {
+        "id": 1996,
+        "name": "Central",
+        "country": "BHR",
+        "state": "16"
+    },
+    {
+        "id": 1995,
+        "name": "Muharraq",
+        "country": "BHR",
+        "state": "15"
+    },
+    {
+        "id": 1994,
+        "name": "Northern",
+        "country": "BHR",
+        "state": "17"
+    },
+    {
+        "id": 1993,
+        "name": "Southern",
+        "country": "BHR",
+        "state": "14"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

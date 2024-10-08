@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 102933,
@@ -23,4 +24,31 @@
         "country": "SDN",
         "state": "KN"
     }
+=======
+[
+    {
+        "id": 102933,
+        "name": "Ar Rahad",
+        "country": "SDN",
+        "state": "KN"
+    },
+    {
+        "id": 102940,
+        "name": "Bārah",
+        "country": "SDN",
+        "state": "KN"
+    },
+    {
+        "id": 102949,
+        "name": "El Obeid",
+        "country": "SDN",
+        "state": "KN"
+    },
+    {
+        "id": 102979,
+        "name": "Umm Ruwaba",
+        "country": "SDN",
+        "state": "KN"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

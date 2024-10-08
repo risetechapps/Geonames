@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 8081,
@@ -5,4 +6,13 @@
         "country": "AZE",
         "state": "GA"
     }
+=======
+[
+    {
+        "id": 8081,
+        "name": "Ganja",
+        "country": "AZE",
+        "state": "GA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

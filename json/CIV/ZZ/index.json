@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 18878,
@@ -35,4 +36,43 @@
         "country": "CIV",
         "state": "ZZ"
     }
+=======
+[
+    {
+        "id": 18878,
+        "name": "Bondoukou",
+        "country": "CIV",
+        "state": "ZZ"
+    },
+    {
+        "id": 18884,
+        "name": "Bouna",
+        "country": "CIV",
+        "state": "ZZ"
+    },
+    {
+        "id": 18885,
+        "name": "Bounkani",
+        "country": "CIV",
+        "state": "ZZ"
+    },
+    {
+        "id": 18902,
+        "name": "Gontougo",
+        "country": "CIV",
+        "state": "ZZ"
+    },
+    {
+        "id": 18930,
+        "name": "Sinfra",
+        "country": "CIV",
+        "state": "ZZ"
+    },
+    {
+        "id": 18934,
+        "name": "Tanda",
+        "country": "CIV",
+        "state": "ZZ"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

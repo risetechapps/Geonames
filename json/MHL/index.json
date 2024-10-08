@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 2574,
@@ -11,4 +12,19 @@
         "country": "MHL",
         "state_code": "T"
     }
+=======
+[
+    {
+        "id": 2574,
+        "name": "Ralik Chain",
+        "country": "MHL",
+        "state": "L"
+    },
+    {
+        "id": 2573,
+        "name": "Ratak Chain",
+        "country": "MHL",
+        "state": "T"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

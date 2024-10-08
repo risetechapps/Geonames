@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 667,
@@ -59,4 +60,67 @@
         "country": "ARG",
         "state": "F"
     }
+=======
+[
+    {
+        "id": 667,
+        "name": "Arauco",
+        "country": "ARG",
+        "state": "F"
+    },
+    {
+        "id": 738,
+        "name": "Castro Barros",
+        "country": "ARG",
+        "state": "F"
+    },
+    {
+        "id": 752,
+        "name": "Chamical",
+        "country": "ARG",
+        "state": "F"
+    },
+    {
+        "id": 761,
+        "name": "Chilecito",
+        "country": "ARG",
+        "state": "F"
+    },
+    {
+        "id": 831,
+        "name": "Departamento de Arauco",
+        "country": "ARG",
+        "state": "F"
+    },
+    {
+        "id": 893,
+        "name": "Departamento de General Lamadrid",
+        "country": "ARG",
+        "state": "F"
+    },
+    {
+        "id": 910,
+        "name": "Departamento de Independencia",
+        "country": "ARG",
+        "state": "F"
+    },
+    {
+        "id": 1200,
+        "name": "La Rioja",
+        "country": "ARG",
+        "state": "F"
+    },
+    {
+        "id": 1543,
+        "name": "Villa Bustos",
+        "country": "ARG",
+        "state": "F"
+    },
+    {
+        "id": 1588,
+        "name": "Vinchina",
+        "country": "ARG",
+        "state": "F"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

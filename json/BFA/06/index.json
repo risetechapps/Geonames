@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 9178,
@@ -65,4 +66,73 @@
         "country": "BFA",
         "state": "06"
     }
+=======
+[
+    {
+        "id": 9178,
+        "name": "Goulouré",
+        "country": "BFA",
+        "state": "06"
+    },
+    {
+        "id": 9183,
+        "name": "Kokologo",
+        "country": "BFA",
+        "state": "06"
+    },
+    {
+        "id": 9186,
+        "name": "Koudougou",
+        "country": "BFA",
+        "state": "06"
+    },
+    {
+        "id": 9189,
+        "name": "Léo",
+        "country": "BFA",
+        "state": "06"
+    },
+    {
+        "id": 9198,
+        "name": "Pitmoaga",
+        "country": "BFA",
+        "state": "06"
+    },
+    {
+        "id": 9205,
+        "name": "Province de la Sissili",
+        "country": "BFA",
+        "state": "06"
+    },
+    {
+        "id": 9212,
+        "name": "Province du Boulkiemdé",
+        "country": "BFA",
+        "state": "06"
+    },
+    {
+        "id": 9227,
+        "name": "Province du Sanguié",
+        "country": "BFA",
+        "state": "06"
+    },
+    {
+        "id": 9235,
+        "name": "Province du Ziro",
+        "country": "BFA",
+        "state": "06"
+    },
+    {
+        "id": 9238,
+        "name": "Réo",
+        "country": "BFA",
+        "state": "06"
+    },
+    {
+        "id": 9240,
+        "name": "Sapouy",
+        "country": "BFA",
+        "state": "06"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

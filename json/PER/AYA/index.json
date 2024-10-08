@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 80568,
@@ -107,4 +108,115 @@
         "country": "PER",
         "state": "AYA"
     }
+=======
+[
+    {
+        "id": 80568,
+        "name": "Ayacucho",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80570,
+        "name": "Ayna",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80633,
+        "name": "Coracora",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80653,
+        "name": "Huanta",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80755,
+        "name": "Paucar Del Sara Sara",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80792,
+        "name": "Provincia de Cangallo",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80829,
+        "name": "Provincia de Huamanga",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80830,
+        "name": "Provincia de Huanca Sancos",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80835,
+        "name": "Provincia de Huanta",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80850,
+        "name": "Provincia de La Mar",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80856,
+        "name": "Provincia de Lucanas",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80873,
+        "name": "Provincia de Parinacochas",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80895,
+        "name": "Provincia de Sucre",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80908,
+        "name": "Provincia de Víctor Fajardo",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80907,
+        "name": "Provincia de Vilcas Huamán",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80924,
+        "name": "Puquio",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80951,
+        "name": "San Miguel",
+        "country": "PER",
+        "state": "AYA"
+    },
+    {
+        "id": 80985,
+        "name": "Tambo",
+        "country": "PER",
+        "state": "AYA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

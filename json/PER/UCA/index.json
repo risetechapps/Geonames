@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 80565,
@@ -35,4 +36,43 @@
         "country": "PER",
         "state": "UCA"
     }
+=======
+[
+    {
+        "id": 80565,
+        "name": "Atalaya",
+        "country": "PER",
+        "state": "UCA"
+    },
+    {
+        "id": 80589,
+        "name": "Campoverde",
+        "country": "PER",
+        "state": "UCA"
+    },
+    {
+        "id": 80744,
+        "name": "Padre Abad",
+        "country": "PER",
+        "state": "UCA"
+    },
+    {
+        "id": 80815,
+        "name": "Provincia de Coronel Portillo",
+        "country": "PER",
+        "state": "UCA"
+    },
+    {
+        "id": 80913,
+        "name": "Pucallpa",
+        "country": "PER",
+        "state": "UCA"
+    },
+    {
+        "id": 80925,
+        "name": "Purus",
+        "country": "PER",
+        "state": "UCA"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

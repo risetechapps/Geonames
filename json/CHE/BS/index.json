@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 149129,
@@ -17,4 +18,25 @@
         "country": "CHE",
         "state": "BS"
     }
+=======
+[
+    {
+        "id": 149129,
+        "name": "Basel",
+        "country": "CHE",
+        "state": "BS"
+    },
+    {
+        "id": 149130,
+        "name": "Bettingen",
+        "country": "CHE",
+        "state": "BS"
+    },
+    {
+        "id": 149131,
+        "name": "Riehen",
+        "country": "CHE",
+        "state": "BS"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

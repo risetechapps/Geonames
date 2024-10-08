@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 67634,
@@ -47,4 +48,55 @@
         "country": "MMR",
         "state": "03"
     }
+=======
+[
+    {
+        "id": 67634,
+        "name": "Chauk",
+        "country": "MMR",
+        "state": "03"
+    },
+    {
+        "id": 67653,
+        "name": "Magway",
+        "country": "MMR",
+        "state": "03"
+    },
+    {
+        "id": 67662,
+        "name": "Minbu",
+        "country": "MMR",
+        "state": "03"
+    },
+    {
+        "id": 67668,
+        "name": "Myaydo",
+        "country": "MMR",
+        "state": "03"
+    },
+    {
+        "id": 67676,
+        "name": "Pakokku",
+        "country": "MMR",
+        "state": "03"
+    },
+    {
+        "id": 67692,
+        "name": "Taungdwingyi",
+        "country": "MMR",
+        "state": "03"
+    },
+    {
+        "id": 67698,
+        "name": "Thayetmyo",
+        "country": "MMR",
+        "state": "03"
+    },
+    {
+        "id": 67704,
+        "name": "Yenangyaung",
+        "country": "MMR",
+        "state": "03"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

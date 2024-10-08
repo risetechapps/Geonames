@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 53483,
@@ -41,4 +42,49 @@
         "country": "GTM",
         "state": "18"
     }
+=======
+[
+    {
+        "id": 53483,
+        "name": "El Estor",
+        "country": "GTM",
+        "state": "18"
+    },
+    {
+        "id": 53526,
+        "name": "Lívingston",
+        "country": "GTM",
+        "state": "18"
+    },
+    {
+        "id": 53525,
+        "name": "Los Amates",
+        "country": "GTM",
+        "state": "18"
+    },
+    {
+        "id": 53537,
+        "name": "Morales",
+        "country": "GTM",
+        "state": "18"
+    },
+    {
+        "id": 53571,
+        "name": "Municipio de Morales",
+        "country": "GTM",
+        "state": "18"
+    },
+    {
+        "id": 53577,
+        "name": "Municipio de Puerto Barrios",
+        "country": "GTM",
+        "state": "18"
+    },
+    {
+        "id": 53634,
+        "name": "Puerto Barrios",
+        "country": "GTM",
+        "state": "18"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

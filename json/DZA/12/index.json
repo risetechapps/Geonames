@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31271,
@@ -23,4 +24,31 @@
         "country": "DZA",
         "state": "12"
     }
+=======
+[
+    {
+        "id": 31271,
+        "name": "Bir el Ater",
+        "country": "DZA",
+        "state": "12"
+    },
+    {
+        "id": 31305,
+        "name": "Cheria",
+        "country": "DZA",
+        "state": "12"
+    },
+    {
+        "id": 31352,
+        "name": "Hammamet",
+        "country": "DZA",
+        "state": "12"
+    },
+    {
+        "id": 31463,
+        "name": "Tébessa",
+        "country": "DZA",
+        "state": "12"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

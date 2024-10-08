@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 9848,
@@ -35,4 +36,43 @@
         "country": "BOL",
         "state": "N"
     }
+=======
+[
+    {
+        "id": 9848,
+        "name": "Cobija",
+        "country": "BOL",
+        "state": "N"
+    },
+    {
+        "id": 9899,
+        "name": "Provincia Abuná",
+        "country": "BOL",
+        "state": "N"
+    },
+    {
+        "id": 9931,
+        "name": "Provincia General Federico Román",
+        "country": "BOL",
+        "state": "N"
+    },
+    {
+        "id": 9948,
+        "name": "Provincia Madre de Dios",
+        "country": "BOL",
+        "state": "N"
+    },
+    {
+        "id": 9952,
+        "name": "Provincia Manuripi",
+        "country": "BOL",
+        "state": "N"
+    },
+    {
+        "id": 9960,
+        "name": "Provincia Nicolás Suárez",
+        "country": "BOL",
+        "state": "N"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

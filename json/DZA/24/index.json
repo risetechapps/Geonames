@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 31293,
@@ -17,4 +18,25 @@
         "country": "DZA",
         "state": "24"
     }
+=======
+[
+    {
+        "id": 31293,
+        "name": "Boumahra Ahmed",
+        "country": "DZA",
+        "state": "24"
+    },
+    {
+        "id": 31348,
+        "name": "Guelma",
+        "country": "DZA",
+        "state": "24"
+    },
+    {
+        "id": 31355,
+        "name": "Héliopolis",
+        "country": "DZA",
+        "state": "24"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

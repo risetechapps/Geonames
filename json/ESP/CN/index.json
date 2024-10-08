@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 153544,
@@ -41,4 +42,49 @@
         "country": "ESP",
         "state": "CN"
     }
+=======
+[
+    {
+        "id": 153544,
+        "name": "Arrecife",
+        "country": "ESP",
+        "state": "CN"
+    },
+    {
+        "id": 153543,
+        "name": "Las Palmas de Gran Canaria",
+        "country": "ESP",
+        "state": "CN"
+    },
+    {
+        "id": 153545,
+        "name": "Puerto del Rosario",
+        "country": "ESP",
+        "state": "CN"
+    },
+    {
+        "id": 153547,
+        "name": "San Sebastián de La Gomera",
+        "country": "ESP",
+        "state": "CN"
+    },
+    {
+        "id": 153546,
+        "name": "Santa Cruz de La Palma",
+        "country": "ESP",
+        "state": "CN"
+    },
+    {
+        "id": 153542,
+        "name": "Santa Cruz de Tenerife",
+        "country": "ESP",
+        "state": "CN"
+    },
+    {
+        "id": 153548,
+        "name": "Valverde",
+        "country": "ESP",
+        "state": "CN"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

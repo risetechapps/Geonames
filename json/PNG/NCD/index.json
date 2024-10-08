@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 81088,
@@ -11,4 +12,19 @@
         "country": "PNG",
         "state": "NCD"
     }
+=======
+[
+    {
+        "id": 81088,
+        "name": "National Capital District",
+        "country": "PNG",
+        "state": "NCD"
+    },
+    {
+        "id": 81101,
+        "name": "Port Moresby",
+        "country": "PNG",
+        "state": "NCD"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

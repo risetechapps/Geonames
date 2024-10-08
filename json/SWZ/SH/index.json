@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 105088,
@@ -59,4 +60,67 @@
         "country": "SWZ",
         "state": "SH"
     }
+=======
+[
+    {
+        "id": 105088,
+        "name": "Hlatikulu",
+        "country": "SWZ",
+        "state": "SH"
+    },
+    {
+        "id": 105089,
+        "name": "Hluti",
+        "country": "SWZ",
+        "state": "SH"
+    },
+    {
+        "id": 105090,
+        "name": "Kubuta",
+        "country": "SWZ",
+        "state": "SH"
+    },
+    {
+        "id": 105092,
+        "name": "Lavumisa",
+        "country": "SWZ",
+        "state": "SH"
+    },
+    {
+        "id": 105098,
+        "name": "Matsanjeni",
+        "country": "SWZ",
+        "state": "SH"
+    },
+    {
+        "id": 105102,
+        "name": "Ngudzeni",
+        "country": "SWZ",
+        "state": "SH"
+    },
+    {
+        "id": 105104,
+        "name": "Nhlangano",
+        "country": "SWZ",
+        "state": "SH"
+    },
+    {
+        "id": 105106,
+        "name": "Nkwene",
+        "country": "SWZ",
+        "state": "SH"
+    },
+    {
+        "id": 105111,
+        "name": "Sigwe Inkhundla",
+        "country": "SWZ",
+        "state": "SH"
+    },
+    {
+        "id": 105115,
+        "name": "Zombodze Ikhundla",
+        "country": "SWZ",
+        "state": "SH"
+    }
+>>>>>>> ce49e0655ff9c699c17f3083ea87de294a9b2441
 ]

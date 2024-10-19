@@ -1,0 +1,566 @@
+[
+    {
+        "id": 55177,
+        "name": "Ajak",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55187,
+        "name": "Anarcs",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55189,
+        "name": "Apagy",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55193,
+        "name": "Aranyosapáti",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55208,
+        "name": "Baktalórántháza",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55209,
+        "name": "Baktalórántházai Járás",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55224,
+        "name": "Balkány",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55307,
+        "name": "Bököny",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55285,
+        "name": "Buj",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55329,
+        "name": "Csenger",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55330,
+        "name": "Csengeri Járás",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55356,
+        "name": "Demecser",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55391,
+        "name": "Döge",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55367,
+        "name": "Dombrád",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55406,
+        "name": "Encsencs",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55420,
+        "name": "Fehérgyarmat",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55421,
+        "name": "Fehérgyarmati Járás",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55435,
+        "name": "Fényeslitke",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55473,
+        "name": "Gégény",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55454,
+        "name": "Gyulaháza",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55513,
+        "name": "Hodász",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55524,
+        "name": "Ibrány",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55525,
+        "name": "Ibrányi Járás",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55636,
+        "name": "Kállósemjén",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55637,
+        "name": "Kálmánháza",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55639,
+        "name": "Kántorjánosi",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55641,
+        "name": "Kék",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55582,
+        "name": "Kemecse",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55583,
+        "name": "Kemecsei Járás",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55605,
+        "name": "Kisléta",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55612,
+        "name": "Kisvárda",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55613,
+        "name": "Kisvárdai Járás",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55616,
+        "name": "Kocsord",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55646,
+        "name": "Kótaj",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55662,
+        "name": "Levelek",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55721,
+        "name": "Mándok",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55723,
+        "name": "Máriapócs",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55728,
+        "name": "Mátészalka",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55729,
+        "name": "Mátészalkai Járás",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55732,
+        "name": "Mérk",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55743,
+        "name": "Nagycserkesz",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55744,
+        "name": "Nagydobos",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55746,
+        "name": "Nagyecsed",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55747,
+        "name": "Nagyhalász",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55751,
+        "name": "Nagykálló",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55752,
+        "name": "Nagykállói Járás",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55764,
+        "name": "Napkor",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55775,
+        "name": "Nyírbátor",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55776,
+        "name": "Nyírbátori Járás",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55777,
+        "name": "Nyírbéltek",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55774,
+        "name": "Nyírbogát",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55773,
+        "name": "Nyírbogdány",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55778,
+        "name": "Nyírcsaholy",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55779,
+        "name": "Nyíregyháza",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55780,
+        "name": "Nyíregyházi Járás",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55781,
+        "name": "Nyírgyulaj",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55782,
+        "name": "Nyírkarász",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55783,
+        "name": "Nyírlugos",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55784,
+        "name": "Nyírmada",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55785,
+        "name": "Nyírmeggyes",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55786,
+        "name": "Nyírmihálydi",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55788,
+        "name": "Nyírpazony",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55789,
+        "name": "Nyírtass",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55790,
+        "name": "Nyírtelek",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55791,
+        "name": "Nyírvasvári",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56150,
+        "name": "Ófehértó",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56157,
+        "name": "Ököritófülpös",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56153,
+        "name": "Ópályi",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55846,
+        "name": "Pátroha",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55815,
+        "name": "Petneháza",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55830,
+        "name": "Porcsalma",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55862,
+        "name": "Rakamaz",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55916,
+        "name": "Szakoly",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 55918,
+        "name": "Szamosszeg",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56015,
+        "name": "Tarpa",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56022,
+        "name": "Tiszabercel",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56023,
+        "name": "Tiszabezdéd",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56027,
+        "name": "Tiszadada",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56028,
+        "name": "Tiszadob",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56029,
+        "name": "Tiszaeszlár",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56037,
+        "name": "Tiszalök",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56039,
+        "name": "Tiszanagyfalu",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56046,
+        "name": "Tiszavasvári",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56047,
+        "name": "Tiszavasvári Járás",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56056,
+        "name": "Tornyospálca",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56057,
+        "name": "Tunyogmatolcs",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56059,
+        "name": "Tuzsér",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56060,
+        "name": "Tyukod",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56160,
+        "name": "Újfehértó",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56088,
+        "name": "Vaja",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56114,
+        "name": "Vásárosnamény",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56115,
+        "name": "Vásárosnaményi Járás",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56134,
+        "name": "Záhony",
+        "country": "HUN",
+        "state": "SZ"
+    },
+    {
+        "id": 56135,
+        "name": "Záhonyi Járás",
+        "country": "HUN",
+        "state": "SZ"
+    }
+]

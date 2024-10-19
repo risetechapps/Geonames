@@ -1,0 +1,578 @@
+[
+    {
+        "id": 111039,
+        "name": "Addison",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 111040,
+        "name": "Addison County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 111469,
+        "name": "Arlington",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 111842,
+        "name": "Barre",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 112124,
+        "name": "Bellows Falls",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 112177,
+        "name": "Bennington",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 112178,
+        "name": "Bennington County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 112690,
+        "name": "Brandon",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 112699,
+        "name": "Brattleboro",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 112780,
+        "name": "Bridport",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 112810,
+        "name": "Bristol",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 113072,
+        "name": "Burlington",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 113193,
+        "name": "Caledonia County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 113552,
+        "name": "Castleton",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 113780,
+        "name": "Charlotte",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 113835,
+        "name": "Chelsea",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 113891,
+        "name": "Chester",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 113982,
+        "name": "Chittenden",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 113983,
+        "name": "Chittenden County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 114111,
+        "name": "Clarendon",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 114384,
+        "name": "Colchester",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 115017,
+        "name": "Danby",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 115452,
+        "name": "Dover",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 116146,
+        "name": "Enosburg Falls",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 116197,
+        "name": "Essex County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 116199,
+        "name": "Essex Junction",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 116283,
+        "name": "Fair Haven",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 116495,
+        "name": "Ferrisburgh",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 116863,
+        "name": "Franklin County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 117464,
+        "name": "Grand Isle County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 117783,
+        "name": "Guildhall",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 118010,
+        "name": "Hardwick",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 118092,
+        "name": "Hartford",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 118481,
+        "name": "Hinesburg",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 118852,
+        "name": "Hyde Park",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 119112,
+        "name": "Jamaica",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 119225,
+        "name": "Jericho",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 119255,
+        "name": "Johnson",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 120072,
+        "name": "Lamoille County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 120338,
+        "name": "Leicester",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 120508,
+        "name": "Lincoln",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 120724,
+        "name": "Londonderry",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 120888,
+        "name": "Lunenburg",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 120924,
+        "name": "Lyndon",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 120925,
+        "name": "Lyndonville",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 121103,
+        "name": "Manchester Center",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 121654,
+        "name": "Mendon",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 121773,
+        "name": "Middlebury (village)",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 121919,
+        "name": "Milton",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 122137,
+        "name": "Montgomery",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 122177,
+        "name": "Montpelier",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 122232,
+        "name": "Moretown",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 122283,
+        "name": "Morristown",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 122287,
+        "name": "Morrisville",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 122350,
+        "name": "Mount Holly",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 122827,
+        "name": "Newfane",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 122850,
+        "name": "Newport",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 122986,
+        "name": "North Bennington",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 123038,
+        "name": "North Hero",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 123154,
+        "name": "Northfield",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 123520,
+        "name": "Orange County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 123566,
+        "name": "Orleans County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 123931,
+        "name": "Pawlet",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 124604,
+        "name": "Poultney",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 124619,
+        "name": "Pownal",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 124868,
+        "name": "Randolph",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 125065,
+        "name": "Richford",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 125304,
+        "name": "Rockingham",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 125557,
+        "name": "Rutland",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 125558,
+        "name": "Rutland County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 125596,
+        "name": "Saint Albans",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 125668,
+        "name": "Saint Johnsbury",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 125760,
+        "name": "Salisbury",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 126616,
+        "name": "South Barre",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 126634,
+        "name": "South Burlington",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 126904,
+        "name": "Springfield",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 126925,
+        "name": "St Johnsbury",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 126988,
+        "name": "Starksboro",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 127114,
+        "name": "Stowe",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 127327,
+        "name": "Swanton",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 127767,
+        "name": "Townshend",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 128182,
+        "name": "Vergennes",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 128550,
+        "name": "Washington",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 128575,
+        "name": "Washington County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 128603,
+        "name": "Waterbury",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 128834,
+        "name": "West Brattleboro",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 128970,
+        "name": "West Rutland",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 129157,
+        "name": "White River Junction",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 129232,
+        "name": "Wilder",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 129289,
+        "name": "Williamstown",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 129298,
+        "name": "Williston",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 129374,
+        "name": "Windham County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 129384,
+        "name": "Windsor",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 129388,
+        "name": "Windsor County",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 129427,
+        "name": "Winooski",
+        "country": "USA",
+        "state": "VT"
+    },
+    {
+        "id": 129566,
+        "name": "Woodstock",
+        "country": "USA",
+        "state": "VT"
+    }
+]

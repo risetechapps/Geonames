@@ -1,0 +1,848 @@
+[
+    {
+        "id": 89903,
+        "name": "Agârbiciu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 89898,
+        "name": "Agnita",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 89945,
+        "name": "Alămor",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 89934,
+        "name": "Alma",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 89946,
+        "name": "Alțâna",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 89973,
+        "name": "Apoldu de Jos",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 89998,
+        "name": "Arpaşu de Jos",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 89999,
+        "name": "Arpașu de Sus",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90016,
+        "name": "Aţel",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90008,
+        "name": "Avrig",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90011,
+        "name": "Axente Sever",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90447,
+        "name": "Bârghiş",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90072,
+        "name": "Bazna",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90130,
+        "name": "Biertan",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90166,
+        "name": "Blăjel",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90202,
+        "name": "Boian",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90207,
+        "name": "Boița",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90322,
+        "name": "Brădeni",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90261,
+        "name": "Bradu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90275,
+        "name": "Brateiu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90314,
+        "name": "Bruiu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93819,
+        "name": "Cârţa",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93821,
+        "name": "Cârţişoara",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90680,
+        "name": "Chirpăr",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90737,
+        "name": "Cisnădie",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90854,
+        "name": "Comuna Alma",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90862,
+        "name": "Comuna Alțâna",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90880,
+        "name": "Comuna Apoldu de Jos",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90897,
+        "name": "Comuna Arpaşu de Jos",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90912,
+        "name": "Comuna Aţel",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90908,
+        "name": "Comuna Axente Sever",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 91186,
+        "name": "Comuna Bârghiş",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90941,
+        "name": "Comuna Bazna",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 90985,
+        "name": "Comuna Biertan",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 91009,
+        "name": "Comuna Blăjel",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 91036,
+        "name": "Comuna Boiţa",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 91112,
+        "name": "Comuna Brădeni",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 91083,
+        "name": "Comuna Brateiu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 91105,
+        "name": "Comuna Bruiu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 91556,
+        "name": "Comuna Cârţa",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 91557,
+        "name": "Comuna Cârţişoara",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 91323,
+        "name": "Comuna Chirpăr",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 91499,
+        "name": "Comuna Cristian",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 91729,
+        "name": "Comuna Dârlos",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 91951,
+        "name": "Comuna Gura Râului",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92006,
+        "name": "Comuna Hoghilag",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92051,
+        "name": "Comuna Iacobeni",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92125,
+        "name": "Comuna Jina",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92139,
+        "name": "Comuna Laslea",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92181,
+        "name": "Comuna Loamneş",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92191,
+        "name": "Comuna Ludoş",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92244,
+        "name": "Comuna Marpod",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92260,
+        "name": "Comuna Merghindeal",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92269,
+        "name": "Comuna Micăsasa",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92284,
+        "name": "Comuna Mihăileni",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92346,
+        "name": "Comuna Moşna",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92451,
+        "name": "Comuna Nocrich",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92508,
+        "name": "Comuna Orlat",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92725,
+        "name": "Comuna Păuca",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92631,
+        "name": "Comuna Poiana Sibiului",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92657,
+        "name": "Comuna Poplaca",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92661,
+        "name": "Comuna Porumbacu de Jos",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92735,
+        "name": "Comuna Racoviţa",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92855,
+        "name": "Comuna Răşinari",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92826,
+        "name": "Comuna Râu Sadului",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92796,
+        "name": "Comuna Roşia",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92860,
+        "name": "Comuna Sadu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93501,
+        "name": "Comuna Şeica Mare",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93502,
+        "name": "Comuna Şeica Mică",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93505,
+        "name": "Comuna Şelimbăr",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 92950,
+        "name": "Comuna Slimnic",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93562,
+        "name": "Comuna Şura Mare",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93563,
+        "name": "Comuna Şura Mică",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93228,
+        "name": "Comuna Târnava",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93154,
+        "name": "Comuna Tilişca",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93215,
+        "name": "Comuna Turnu Roşu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93328,
+        "name": "Comuna Valea Viilor",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93424,
+        "name": "Comuna Vurpăr",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93609,
+        "name": "Copşa Mică",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 93722,
+        "name": "Cristian",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94110,
+        "name": "Dârlos",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94084,
+        "name": "Dumbrăveni",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94459,
+        "name": "Gura Râului",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94546,
+        "name": "Hoghilag",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94616,
+        "name": "Iacobeni",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94649,
+        "name": "Ighișu Nou",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94739,
+        "name": "Jina",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94763,
+        "name": "Laslea",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94828,
+        "name": "Loamneş",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94843,
+        "name": "Ludoş",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95256,
+        "name": "Mălâncrav",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94932,
+        "name": "Marpod",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95225,
+        "name": "Mârșa",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94943,
+        "name": "Mediaş",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94956,
+        "name": "Merghindeal",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94971,
+        "name": "Micăsasa",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94972,
+        "name": "Miercurea Sibiului",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 94991,
+        "name": "Mihăileni",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95089,
+        "name": "Moşna",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95155,
+        "name": "Municipiul Mediaş",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95181,
+        "name": "Municipiul Sibiu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95353,
+        "name": "Nocrich",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95355,
+        "name": "Nou",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95396,
+        "name": "Ocna Sibiului",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95447,
+        "name": "Oraş Agnita",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95451,
+        "name": "Oraş Avrig",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95494,
+        "name": "Oraş Cisnãdie",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95497,
+        "name": "Oraş Copşa Micã",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95511,
+        "name": "Oraş Dumbrãveni",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95540,
+        "name": "Oraş Miercurea Sibiului",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95557,
+        "name": "Oraş Ocna Sibiului",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95599,
+        "name": "Oraş Sãlişte",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95610,
+        "name": "Oraş Tãlmaciu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95658,
+        "name": "Orlat",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96027,
+        "name": "Păuca",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95880,
+        "name": "Poiana Sibiului",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95916,
+        "name": "Poplaca",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 95922,
+        "name": "Porumbacu de Jos",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96044,
+        "name": "Racoviţa",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96218,
+        "name": "Răşinari",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96175,
+        "name": "Râu Sadului",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96126,
+        "name": "Roşia",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96151,
+        "name": "Ruja",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96226,
+        "name": "Sadu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 106017,
+        "name": "Sălişte",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 97115,
+        "name": "Șaroș pe Târnave",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 97041,
+        "name": "Şeíca Mare",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 97033,
+        "name": "Şeica Mică",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 97036,
+        "name": "Şelimbăr",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96332,
+        "name": "Sibiu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96366,
+        "name": "Slimnic",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 97094,
+        "name": "Şura Mare",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 97095,
+        "name": "Şura Mică",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96602,
+        "name": "Tălmăcel",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96601,
+        "name": "Tălmaciu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96593,
+        "name": "Târnava",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 106100,
+        "name": "Tilişca",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96566,
+        "name": "Turnu Roşu",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96762,
+        "name": "Valea Viilor",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96799,
+        "name": "Veștem",
+        "country": "ROU",
+        "state": "SB"
+    },
+    {
+        "id": 96916,
+        "name": "Vurpăr",
+        "country": "ROU",
+        "state": "SB"
+    }
+]

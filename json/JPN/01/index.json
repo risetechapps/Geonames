@@ -1,0 +1,488 @@
+[
+    {
+        "id": 63211,
+        "name": "Abashiri",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63212,
+        "name": "Abashiri Shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63225,
+        "name": "Akabira",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63226,
+        "name": "Akabira-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63259,
+        "name": "Asahikawa",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63264,
+        "name": "Ashibetsu",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63265,
+        "name": "Ashibetsu-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63285,
+        "name": "Bibai",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63309,
+        "name": "Chitose",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63310,
+        "name": "Chitose Shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63322,
+        "name": "Date",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63324,
+        "name": "Date-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63326,
+        "name": "Ebetsu",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63333,
+        "name": "Eniwa-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63356,
+        "name": "Fukagawa",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63357,
+        "name": "Fukagawa-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63378,
+        "name": "Furano-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63416,
+        "name": "Hakodate",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63417,
+        "name": "Hakodate Shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63516,
+        "name": "Hokuto",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63519,
+        "name": "Hokuto-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63521,
+        "name": "Honchō",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63594,
+        "name": "Ishikari",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63595,
+        "name": "Ishikari-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63626,
+        "name": "Iwamizawa",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63627,
+        "name": "Iwamizawa-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63628,
+        "name": "Iwanai",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63691,
+        "name": "Kamiiso",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63692,
+        "name": "Kamikawa",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63800,
+        "name": "Kitahiroshima",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63801,
+        "name": "Kitahiroshima-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63809,
+        "name": "Kitami",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63851,
+        "name": "Ktiami Shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63886,
+        "name": "Kushiro",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63887,
+        "name": "Kushiro Shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63917,
+        "name": "Makubetsu",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63951,
+        "name": "Mikasa",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 63952,
+        "name": "Mikasa-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64024,
+        "name": "Mombetsu",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64025,
+        "name": "Monbetsu Shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64038,
+        "name": "Motomachi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64049,
+        "name": "Muroran",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64050,
+        "name": "Muroran-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64117,
+        "name": "Nayoro",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64118,
+        "name": "Nayoro Shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64120,
+        "name": "Nemuro",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64121,
+        "name": "Nemuro-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64145,
+        "name": "Niseko Town",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64161,
+        "name": "Noboribetsu",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64162,
+        "name": "Noboribetsu-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64180,
+        "name": "Obihiro",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64181,
+        "name": "Obihiro Shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64215,
+        "name": "Otaru",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64216,
+        "name": "Otaru-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64217,
+        "name": "Otofuke",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64224,
+        "name": "Rebun Gun",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64227,
+        "name": "Rishiri Gun",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64228,
+        "name": "Rishiri Town",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64230,
+        "name": "Rumoi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64231,
+        "name": "Rumoi-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64285,
+        "name": "Sapporo",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64286,
+        "name": "Sapporo-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64310,
+        "name": "Shibetsu",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64311,
+        "name": "Shibetsu Shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64329,
+        "name": "Shimo-furano",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64354,
+        "name": "Shiraoi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64365,
+        "name": "Shizunai-furukawachō",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64386,
+        "name": "Sunagawa",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64387,
+        "name": "Sunagawa-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64451,
+        "name": "Takikawa",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64452,
+        "name": "Takikawa-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64565,
+        "name": "Tōbetsu",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64501,
+        "name": "Tomakomai",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64502,
+        "name": "Tomakomai Shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64607,
+        "name": "Utashinai",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64608,
+        "name": "Utashinai-shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64619,
+        "name": "Wakkanai",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64620,
+        "name": "Wakkanai Shi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64668,
+        "name": "Yoichi",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64704,
+        "name": "Yūbari",
+        "country": "JPN",
+        "state": "01"
+    },
+    {
+        "id": 64705,
+        "name": "Yūbari-shi",
+        "country": "JPN",
+        "state": "01"
+    }
+]

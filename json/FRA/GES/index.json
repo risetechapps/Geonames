@@ -1,0 +1,5324 @@
+[
+    {
+        "id": 39245,
+        "name": "Abreschviller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39249,
+        "name": "Achenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39269,
+        "name": "Aiglemont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39293,
+        "name": "Aix-en-Othe",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39312,
+        "name": "Algolsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39313,
+        "name": "Algrange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39336,
+        "name": "Alsting",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39338,
+        "name": "Altkirch",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39339,
+        "name": "Altorf",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39346,
+        "name": "Amanvillers",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39366,
+        "name": "Ammerschwihr",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39367,
+        "name": "Amnéville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39372,
+        "name": "Ancerville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39374,
+        "name": "Ancy-sur-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39384,
+        "name": "Andlau",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39385,
+        "name": "Andolsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39400,
+        "name": "Angevillers",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39426,
+        "name": "Anould",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39461,
+        "name": "Arches",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39462,
+        "name": "Archettes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39464,
+        "name": "Arcis-sur-Aube",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39466,
+        "name": "Ardennes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39473,
+        "name": "Argancy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39515,
+        "name": "Ars-sur-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39517,
+        "name": "Art-sur-Meurthe",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39545,
+        "name": "Aspach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39546,
+        "name": "Aspach-le-Bas",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39547,
+        "name": "Aspach-le-Haut",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39564,
+        "name": "Attigny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39587,
+        "name": "Auboué",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39600,
+        "name": "Audun-le-Roman",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39601,
+        "name": "Audun-le-Tiche",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39605,
+        "name": "Augny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39616,
+        "name": "Aumetz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39674,
+        "name": "Avize",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39683,
+        "name": "Ay",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39684,
+        "name": "Ay-sur-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39686,
+        "name": "Aydoilles",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39699,
+        "name": "Baccarat",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39704,
+        "name": "Badonviller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39735,
+        "name": "Bains-les-Bains",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39737,
+        "name": "Bainville-sur-Madon",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39743,
+        "name": "Balan",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39749,
+        "name": "Baldersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39758,
+        "name": "Ban-de-Laveline",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39761,
+        "name": "Bantzenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39765,
+        "name": "Bar-le-Duc",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39766,
+        "name": "Bar-sur-Aube",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39767,
+        "name": "Bar-sur-Seine",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39790,
+        "name": "Barr",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39794,
+        "name": "Bartenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39795,
+        "name": "Bas-Rhin",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39799,
+        "name": "Basse-Ham",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39805,
+        "name": "Batilly",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39806,
+        "name": "Battenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39821,
+        "name": "Bayard-sur-Marne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39823,
+        "name": "Bayon",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39826,
+        "name": "Bazancourt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39828,
+        "name": "Bazeilles",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39899,
+        "name": "Behren-lès-Forbach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39923,
+        "name": "Belleville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39925,
+        "name": "Belleville-sur-Meuse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39939,
+        "name": "Benfeld",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40424,
+        "name": "Béning-lès-Saint-Avold",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39941,
+        "name": "Bennwihr",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39946,
+        "name": "Bergheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39947,
+        "name": "Bergholtz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39950,
+        "name": "Bernardswiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39963,
+        "name": "Berrwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39965,
+        "name": "Berstett",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39969,
+        "name": "Bertrange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40431,
+        "name": "Bétheny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39985,
+        "name": "Betschdorf",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 39986,
+        "name": "Bettancourt-la-Ferrée",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40001,
+        "name": "Bezannes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40011,
+        "name": "Bienville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40013,
+        "name": "Biesheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40014,
+        "name": "Biesles",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40027,
+        "name": "Bining",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40031,
+        "name": "Bischheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40032,
+        "name": "Bischoffsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40033,
+        "name": "Bischwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40034,
+        "name": "Bitche",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40035,
+        "name": "Bitschwiller-lès-Thann",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40043,
+        "name": "Blaesheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40045,
+        "name": "Blagny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40073,
+        "name": "Blénod-lès-Pont-à-Mousson",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40074,
+        "name": "Blénod-lès-Toul",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40066,
+        "name": "Bliesbruck",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40068,
+        "name": "Blodelsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40071,
+        "name": "Blotzheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40439,
+        "name": "Bœrsch",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40104,
+        "name": "Bollwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40106,
+        "name": "Bologne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40133,
+        "name": "Boofzheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40158,
+        "name": "Bouilly",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40162,
+        "name": "Boulange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40163,
+        "name": "Boulay-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40169,
+        "name": "Bouligny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40176,
+        "name": "Boult-sur-Suippe",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40180,
+        "name": "Bourbonne-les-Bains",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40203,
+        "name": "Bourgogne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40218,
+        "name": "Bousse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40231,
+        "name": "Bouxières-aux-Chênes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40232,
+        "name": "Bouxières-aux-Dames",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40233,
+        "name": "Bouxwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40236,
+        "name": "Bouzonville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40298,
+        "name": "Breuschwickersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40362,
+        "name": "Bréviandes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40308,
+        "name": "Brienne-le-Château",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40311,
+        "name": "Briey",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40345,
+        "name": "Brumath",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40347,
+        "name": "Brunstatt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40348,
+        "name": "Bruyères",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40371,
+        "name": "Buchères",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40377,
+        "name": "Buhl",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40380,
+        "name": "Bulgnéville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40389,
+        "name": "Burnhaupt-le-Bas",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40390,
+        "name": "Burnhaupt-le-Haut",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40396,
+        "name": "Bussang",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40545,
+        "name": "Carignan",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40548,
+        "name": "Carling",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40565,
+        "name": "Carspach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40599,
+        "name": "Cattenom",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40650,
+        "name": "Cernay",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40652,
+        "name": "Cernay-lès-Reims",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40687,
+        "name": "Chalampé",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40690,
+        "name": "Chaligny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40691,
+        "name": "Chalindrey",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40933,
+        "name": "Châlons-en-Champagne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40704,
+        "name": "Chamarandes-Choignes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40734,
+        "name": "Champenoux",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40740,
+        "name": "Champigneulles",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40759,
+        "name": "Chancenay",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40768,
+        "name": "Chanteheux",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40777,
+        "name": "Chantraine",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40780,
+        "name": "Chaource",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40802,
+        "name": "Charleville-Mézières",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40806,
+        "name": "Charmes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40942,
+        "name": "Château-Porcien",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40945,
+        "name": "Château-Salins",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40979,
+        "name": "Châteauvillain",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40982,
+        "name": "Châtel-Saint-Germain",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40983,
+        "name": "Châtel-sur-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40988,
+        "name": "Châtenois",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41003,
+        "name": "Châtillon-sur-Marne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40843,
+        "name": "Chaumont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40860,
+        "name": "Chavelot",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40862,
+        "name": "Chavigny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40873,
+        "name": "Cheniménil",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 40897,
+        "name": "Chevillon",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41026,
+        "name": "Cirey-sur-Vezouze",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41050,
+        "name": "Clermont-en-Argonne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41060,
+        "name": "Clouange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41077,
+        "name": "Cocheren",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41096,
+        "name": "Colmar",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41101,
+        "name": "Colombey-les-Belles",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41121,
+        "name": "Commercy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41123,
+        "name": "Compertrix",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41143,
+        "name": "Conflans-en-Jarnisy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41149,
+        "name": "Connantre",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41157,
+        "name": "Contrexéville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41171,
+        "name": "Corcieux",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41184,
+        "name": "Cormicy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41185,
+        "name": "Cormontreuil",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41195,
+        "name": "Cornimont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41196,
+        "name": "Corny-sur-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41209,
+        "name": "Cosnes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41242,
+        "name": "Courcelles-Chaussy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41250,
+        "name": "Courcy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41270,
+        "name": "Courtisols",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41345,
+        "name": "Créhange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41305,
+        "name": "Creney-près-Troyes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41312,
+        "name": "Creutzwald",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41338,
+        "name": "Crusnes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41382,
+        "name": "Custines",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41401,
+        "name": "Dabo",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41402,
+        "name": "Dachstein",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41409,
+        "name": "Dambach-la-Ville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41410,
+        "name": "Damelevières",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41411,
+        "name": "Damery",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41428,
+        "name": "Dannemarie",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41434,
+        "name": "Darney",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41435,
+        "name": "Darnieulles",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41439,
+        "name": "Dauendorf",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41613,
+        "name": "Département de l'Aube",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41456,
+        "name": "Dessenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41458,
+        "name": "Dettwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41461,
+        "name": "Deville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41462,
+        "name": "Deyvillers",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41465,
+        "name": "Didenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41467,
+        "name": "Diebling",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41468,
+        "name": "Diemeringen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41470,
+        "name": "Diesen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41471,
+        "name": "Dietwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41472,
+        "name": "Dieue-sur-Meuse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41474,
+        "name": "Dieulouard",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41475,
+        "name": "Dieuze",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41484,
+        "name": "Dingsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41487,
+        "name": "Dinsheim-sur-Bruche",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41493,
+        "name": "Distroff",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41498,
+        "name": "Dizy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41500,
+        "name": "Docelles",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41501,
+        "name": "Dogneville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41508,
+        "name": "Dom-le-Mesnil",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41514,
+        "name": "Dombasle-sur-Meurthe",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41517,
+        "name": "Domgermain",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41518,
+        "name": "Dommartin-lès-Remiremont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41519,
+        "name": "Dommartin-lès-Toul",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41529,
+        "name": "Donchery",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41530,
+        "name": "Doncourt-lès-Conflans",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41540,
+        "name": "Dorlisheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41541,
+        "name": "Dormans",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41544,
+        "name": "Dossenheim-sur-Zinsel",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41552,
+        "name": "Doulaincourt-Saucourt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41561,
+        "name": "Douzy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41579,
+        "name": "Drulingen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41581,
+        "name": "Drusenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41587,
+        "name": "Dugny-sur-Meuse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41593,
+        "name": "Duppigheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41595,
+        "name": "Durrenbach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41599,
+        "name": "Duttlenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41654,
+        "name": "Ebersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41655,
+        "name": "Eckbolsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41656,
+        "name": "Eckwersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 48052,
+        "name": "Écrouves",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41660,
+        "name": "Eguisheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41661,
+        "name": "Einville-au-Jard",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 48065,
+        "name": "Éloyes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41668,
+        "name": "Enchenberg",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41671,
+        "name": "Ennery",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41676,
+        "name": "Ensisheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41680,
+        "name": "Entrange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41683,
+        "name": "Entzheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 48073,
+        "name": "Épernay",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41686,
+        "name": "Epfig",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 48078,
+        "name": "Épinal",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41697,
+        "name": "Ernolsheim-Bruche",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41702,
+        "name": "Erstein",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41703,
+        "name": "Ervy-le-Châtel",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41709,
+        "name": "Eschau",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41710,
+        "name": "Eschbach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41711,
+        "name": "Eschentzwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41726,
+        "name": "Essey-lès-Nancy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41731,
+        "name": "Esternay",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41734,
+        "name": "Estissac",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 48092,
+        "name": "Étain",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 48104,
+        "name": "Étival-Clairefontaine",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41741,
+        "name": "Etzling",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41743,
+        "name": "Eulmont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41745,
+        "name": "Eurville-Bienville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41746,
+        "name": "Euville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41763,
+        "name": "Fagnières",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41764,
+        "name": "Fains-Véel",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41766,
+        "name": "Falck",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41770,
+        "name": "Fameck",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41777,
+        "name": "Farébersviller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41776,
+        "name": "Farschviller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41778,
+        "name": "Faulquemont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41779,
+        "name": "Faulx",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41790,
+        "name": "Fayl-Billot",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41791,
+        "name": "Fegersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41795,
+        "name": "Fellering",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41997,
+        "name": "Fère-Champenoise",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41804,
+        "name": "Ferrette",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41808,
+        "name": "Fessenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41825,
+        "name": "Fismes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41831,
+        "name": "Flavigny-sur-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41834,
+        "name": "Flaxlanden",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41846,
+        "name": "Fleury",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41865,
+        "name": "Fléville-devant-Nancy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41856,
+        "name": "Flize",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41858,
+        "name": "Floing",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41861,
+        "name": "Florange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41869,
+        "name": "Folkling",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41871,
+        "name": "Folschviller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41906,
+        "name": "Fontoy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41908,
+        "name": "Forbach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41918,
+        "name": "Fortschwihr",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41924,
+        "name": "Foug",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41945,
+        "name": "Fraize",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41986,
+        "name": "Fréland",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41961,
+        "name": "Fresse-sur-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41964,
+        "name": "Freyming-Merlebach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41965,
+        "name": "Frignicourt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41970,
+        "name": "Fromelennes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41971,
+        "name": "Froncles",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41980,
+        "name": "Frouard",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41991,
+        "name": "Fumay",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 41993,
+        "name": "Furdenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42026,
+        "name": "Gambsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42028,
+        "name": "Gandrange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42058,
+        "name": "Geispolsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42299,
+        "name": "Gérardmer",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42072,
+        "name": "Gerbéviller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42076,
+        "name": "Gerstheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42078,
+        "name": "Gespunsart",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42081,
+        "name": "Geudertheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42100,
+        "name": "Giraumont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42107,
+        "name": "Givet",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42302,
+        "name": "Gœrsdorf",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42117,
+        "name": "Goetzenbruck",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42119,
+        "name": "Golbey",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42126,
+        "name": "Gondrecourt-le-Château",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42127,
+        "name": "Gondreville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42135,
+        "name": "Gorcy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42139,
+        "name": "Gorze",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42183,
+        "name": "Granges-sur-Vologne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42199,
+        "name": "Grendelbruch",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42201,
+        "name": "Gresswiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42205,
+        "name": "Gries",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42206,
+        "name": "Griesheim-près-Molsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42207,
+        "name": "Griesheim-sur-Souffel",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42223,
+        "name": "Gros-Réderching",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42224,
+        "name": "Grosbliederstroff",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42239,
+        "name": "Guebwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42279,
+        "name": "Guémar",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42282,
+        "name": "Guénange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42249,
+        "name": "Gueux",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42250,
+        "name": "Guewenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42273,
+        "name": "Gumbrechtshoffen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42274,
+        "name": "Gundershoffen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42305,
+        "name": "Habsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42306,
+        "name": "Hadol",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42307,
+        "name": "Hagenthal-le-Bas",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42309,
+        "name": "Hagondange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42310,
+        "name": "Haguenau",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42318,
+        "name": "Ham-sous-Varsberg",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42319,
+        "name": "Hambach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42323,
+        "name": "Hangenbieten",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42329,
+        "name": "Hargarten-aux-Mines",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42335,
+        "name": "Hatten",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42337,
+        "name": "Haucourt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42340,
+        "name": "Haut-Rhin",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42344,
+        "name": "Haute-Marne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42360,
+        "name": "Hayange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42361,
+        "name": "Haybes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42450,
+        "name": "Hégenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42363,
+        "name": "Heillecourt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42364,
+        "name": "Heimsbrunn",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42374,
+        "name": "Herbitzheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42381,
+        "name": "Hermonville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42382,
+        "name": "Herrlisheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42383,
+        "name": "Herrlisheim-près-Colmar",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42385,
+        "name": "Herserange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42465,
+        "name": "Hésingue",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42389,
+        "name": "Hettange-Grande",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42396,
+        "name": "Hilsenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42397,
+        "name": "Hindisheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42401,
+        "name": "Hirsingue",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42403,
+        "name": "Hirtzbach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42404,
+        "name": "Hirtzfelden",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42406,
+        "name": "Hochfelden",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42407,
+        "name": "Hochstatt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42467,
+        "name": "Hœnheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42468,
+        "name": "Hœrdt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42409,
+        "name": "Holtzheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42410,
+        "name": "Holtzwihr",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42411,
+        "name": "Holving",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42414,
+        "name": "Hombourg-Haut",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42415,
+        "name": "Homécourt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42418,
+        "name": "Horbourg-Wihr",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42425,
+        "name": "Houdemont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42433,
+        "name": "Houssen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42441,
+        "name": "Hundling",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42442,
+        "name": "Huningue",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42445,
+        "name": "Husseren-Wesserling",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42446,
+        "name": "Hussigny-Godbrange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42447,
+        "name": "Huttenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42473,
+        "name": "Igney",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42477,
+        "name": "Illange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42480,
+        "name": "Illfurth",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42482,
+        "name": "Illkirch-Graffenstaden",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42483,
+        "name": "Illzach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42487,
+        "name": "Ingersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42491,
+        "name": "Ingwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42492,
+        "name": "Innenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42494,
+        "name": "Irmstett",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42504,
+        "name": "Issenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42513,
+        "name": "Ittenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42534,
+        "name": "Jarny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42536,
+        "name": "Jarville-la-Malgrange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42546,
+        "name": "Jeanménil",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42547,
+        "name": "Jebsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42603,
+        "name": "Jœuf",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42553,
+        "name": "Joinville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42557,
+        "name": "Jonchery-sur-Vesle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42567,
+        "name": "Joudreville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42573,
+        "name": "Jouy-aux-Arches",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42604,
+        "name": "Kaltenhouse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42605,
+        "name": "Kaysersberg",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42623,
+        "name": "Kédange-sur-Canner",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42606,
+        "name": "Kembs",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42607,
+        "name": "Kerbach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42611,
+        "name": "Kertzfeld",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42613,
+        "name": "Keskastel",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42615,
+        "name": "Kilstett",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42616,
+        "name": "Kingersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42617,
+        "name": "Kintzheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42618,
+        "name": "Knutange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42624,
+        "name": "Kœnigsmacker",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42619,
+        "name": "Krautergersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42620,
+        "name": "Kruth",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42621,
+        "name": "Kunheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42622,
+        "name": "Kuntzig",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42653,
+        "name": "La Bresse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42655,
+        "name": "La Broque",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42687,
+        "name": "La Chapelle-Saint-Luc",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42756,
+        "name": "La Francheville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42849,
+        "name": "La Rivière-de-Corps",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42920,
+        "name": "La Wantzenau",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42921,
+        "name": "Labaroche",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42938,
+        "name": "Labry",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42981,
+        "name": "Lamarche",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 42995,
+        "name": "Lampertheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43010,
+        "name": "Landres",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43012,
+        "name": "Landser",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43020,
+        "name": "Laneuveville-devant-Nancy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43030,
+        "name": "Langres",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43062,
+        "name": "Lapoutroie",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43101,
+        "name": "Lautenbach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43102,
+        "name": "Lautenbachzell",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43103,
+        "name": "Lauterbourg",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43121,
+        "name": "Laxou",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43122,
+        "name": "Lay-Saint-Christophe",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43124,
+        "name": "Le Ban Saint-Martin",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43240,
+        "name": "Le Ménil",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43231,
+        "name": "Le Mesnil-sur-Oger",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43303,
+        "name": "Le Syndicat",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43313,
+        "name": "Le Thillot",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43315,
+        "name": "Le Tholy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43345,
+        "name": "Lembach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43346,
+        "name": "Lemberg",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43689,
+        "name": "Lérouville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43388,
+        "name": "Les Forges",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43394,
+        "name": "Les Hautes-Rivières",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43415,
+        "name": "Les Noës-près-Troyes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43423,
+        "name": "Les Riceys",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43455,
+        "name": "Lexy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43457,
+        "name": "Leymen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43524,
+        "name": "Lièpvre",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43473,
+        "name": "Liffol-le-Grand",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43477,
+        "name": "Ligny-en-Barrois",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43501,
+        "name": "Lingolsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43506,
+        "name": "Lipsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43515,
+        "name": "Liverdun",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43546,
+        "name": "Loivre",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43556,
+        "name": "Longeville-en-Barrois",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43557,
+        "name": "Longeville-lès-Metz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43558,
+        "name": "Longeville-lès-Saint-Avold",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43562,
+        "name": "Longlaville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43573,
+        "name": "Longuyon",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43575,
+        "name": "Longwy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43593,
+        "name": "Lorquin",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43641,
+        "name": "Ludres",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43648,
+        "name": "Lumes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43656,
+        "name": "Lunéville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43663,
+        "name": "Lusigny-sur-Barse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43666,
+        "name": "Lutterbach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43667,
+        "name": "Lutzelhouse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43713,
+        "name": "Macheren",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43718,
+        "name": "Magenta",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43731,
+        "name": "Maidières",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43736,
+        "name": "Mailly-le-Camp",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43746,
+        "name": "Maizières-la-Grande-Paroisse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43747,
+        "name": "Maizières-lès-Metz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43767,
+        "name": "Malzéville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43772,
+        "name": "Mancieulles",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43779,
+        "name": "Manom",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43790,
+        "name": "Marange-Silvange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43793,
+        "name": "Marbache",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43810,
+        "name": "Marckolsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43817,
+        "name": "Mardeuil",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43826,
+        "name": "Mareuil-le-Port",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43828,
+        "name": "Mareuil-sur-Ay",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43842,
+        "name": "Marigny-le-Châtel",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43849,
+        "name": "Marlenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43854,
+        "name": "Marly",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43860,
+        "name": "Marmoutier",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43863,
+        "name": "Marne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43928,
+        "name": "Masevaux",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43942,
+        "name": "Matzenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43967,
+        "name": "Maxéville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44456,
+        "name": "Mécleuves",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 43990,
+        "name": "Meistratzheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44014,
+        "name": "Mercy-le-Bas",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44481,
+        "name": "Méréville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44019,
+        "name": "Merten",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44020,
+        "name": "Mertzwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44026,
+        "name": "Merxheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44479,
+        "name": "Méry-sur-Seine",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44034,
+        "name": "Messein",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44041,
+        "name": "Metz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44042,
+        "name": "Metzeral",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44043,
+        "name": "Metzervisse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44051,
+        "name": "Meurthe-et-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44052,
+        "name": "Meuse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44054,
+        "name": "Mexy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44055,
+        "name": "Meyenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44094,
+        "name": "Mirecourt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44107,
+        "name": "Mittelhausbergen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44126,
+        "name": "Molsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44127,
+        "name": "Mommenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44135,
+        "name": "Mondelange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44151,
+        "name": "Monswiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44157,
+        "name": "Mont-Saint-Martin",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44188,
+        "name": "Montauville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44203,
+        "name": "Montbronn",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44213,
+        "name": "Montcy-Notre-Dame",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44250,
+        "name": "Monthermé",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44253,
+        "name": "Montier-en-Der",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44262,
+        "name": "Montigny-lès-Metz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44290,
+        "name": "Montmédy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44285,
+        "name": "Montmirail",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44294,
+        "name": "Montois-la-Montagne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44337,
+        "name": "Moosch",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44352,
+        "name": "Morhange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44366,
+        "name": "Morsbach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44367,
+        "name": "Morschwiller-le-Bas",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44380,
+        "name": "Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44396,
+        "name": "Moulins-lès-Metz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44402,
+        "name": "Mourmelon-le-Grand",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44412,
+        "name": "Moutiers",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44419,
+        "name": "Mouzon",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44422,
+        "name": "Moyenmoutier",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44423,
+        "name": "Moyeuvre-Grande",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44432,
+        "name": "Muizon",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44433,
+        "name": "Mulhouse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44435,
+        "name": "Munchhouse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44436,
+        "name": "Mundolsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44437,
+        "name": "Munster",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44446,
+        "name": "Mussig",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44447,
+        "name": "Mussy-sur-Seine",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44448,
+        "name": "Muttersholtz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44449,
+        "name": "Mutzig",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44501,
+        "name": "Nancy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44538,
+        "name": "Neuf-Brisach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44540,
+        "name": "Neufchâteau",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44539,
+        "name": "Neufchef",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44543,
+        "name": "Neufgrange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44544,
+        "name": "Neufmanil",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44560,
+        "name": "Neuves-Maisons",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44582,
+        "name": "Neuwiller-lès-Saverne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44588,
+        "name": "Niderviller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44589,
+        "name": "Niederbronn-les-Bains",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44590,
+        "name": "Niederhaslach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44591,
+        "name": "Niederhausbergen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44592,
+        "name": "Niedernai",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44593,
+        "name": "Niederschaeffolsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44600,
+        "name": "Nilvange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44610,
+        "name": "Nogent-le-Bas",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44617,
+        "name": "Nogent-sur-Seine",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44635,
+        "name": "Nomeny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44636,
+        "name": "Nomexy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44641,
+        "name": "Nordhouse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44644,
+        "name": "Norroy-lès-Pont-à-Mousson",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44661,
+        "name": "Nouvion-sur-Meuse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44664,
+        "name": "Nouzonville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44668,
+        "name": "Novéant-sur-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44702,
+        "name": "Obenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44703,
+        "name": "Oberbronn",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44704,
+        "name": "Oberhaslach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44705,
+        "name": "Oberhausbergen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44706,
+        "name": "Oberhergheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44707,
+        "name": "Oberhoffen-sur-Moder",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44708,
+        "name": "Obermodern-Zutzendorf",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44709,
+        "name": "Obernai",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44710,
+        "name": "Oberschaeffolsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44714,
+        "name": "Oderen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44716,
+        "name": "Oermingen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 48128,
+        "name": "Œting",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44719,
+        "name": "Offenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44723,
+        "name": "Ohlungen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44755,
+        "name": "Orbey",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44793,
+        "name": "Ostheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44795,
+        "name": "Ostwald",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44797,
+        "name": "Ottange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44798,
+        "name": "Otterswiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44799,
+        "name": "Ottmarsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44800,
+        "name": "Ottrott",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44826,
+        "name": "Pagny-sur-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44852,
+        "name": "Pargny-sur-Saulx",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44875,
+        "name": "Payns",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44889,
+        "name": "Peltre",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44918,
+        "name": "Petit-Réderching",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44920,
+        "name": "Petite-Rosselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44937,
+        "name": "Pfaffenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44938,
+        "name": "Pfaffenhoffen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44939,
+        "name": "Pfastatt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44940,
+        "name": "Pfetterhouse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44941,
+        "name": "Pfulgriesheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44943,
+        "name": "Phalsbourg",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44948,
+        "name": "Piennes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44961,
+        "name": "Pierrepont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44964,
+        "name": "Pierrevillers",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44965,
+        "name": "Pierry",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44971,
+        "name": "Piney",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 44991,
+        "name": "Plainfaing",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45002,
+        "name": "Plappeville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45029,
+        "name": "Plobsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45036,
+        "name": "Plombières-les-Bains",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45155,
+        "name": "Pompey",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45197,
+        "name": "Pont-à-Mousson",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45172,
+        "name": "Pont-Saint-Vincent",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45173,
+        "name": "Pont-Sainte-Marie",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45209,
+        "name": "Pontfaverger-Moronvilliers",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45219,
+        "name": "Porcelette",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45226,
+        "name": "Port à Binson",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45243,
+        "name": "Portieux",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45267,
+        "name": "Pouru-Saint-Remy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45269,
+        "name": "Pouxeux",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45292,
+        "name": "Prix-lès-Mézières",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45327,
+        "name": "Pulligny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45328,
+        "name": "Pulnoy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45329,
+        "name": "Pulversheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45416,
+        "name": "Raedersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45422,
+        "name": "Rambervillers",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45424,
+        "name": "Ramonchamp",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45432,
+        "name": "Raon-aux-Bois",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45686,
+        "name": "Réding",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45689,
+        "name": "Réguisheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45691,
+        "name": "Réhon",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45444,
+        "name": "Reichshoffen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45445,
+        "name": "Reichstett",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45450,
+        "name": "Reims",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45451,
+        "name": "Reiningue",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45693,
+        "name": "Rémelfing",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45694,
+        "name": "Rémilly",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45452,
+        "name": "Remiremont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45461,
+        "name": "Renwez",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45467,
+        "name": "Rethel",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45469,
+        "name": "Retonfey",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45477,
+        "name": "Revigny-sur-Ornain",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45478,
+        "name": "Revin",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45483,
+        "name": "Rhinau",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45490,
+        "name": "Ribeauvillé",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45493,
+        "name": "Richardménil",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45497,
+        "name": "Richemont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45498,
+        "name": "Richwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45500,
+        "name": "Riedisheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45513,
+        "name": "Rilly-la-Montagne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45514,
+        "name": "Rimogne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45523,
+        "name": "Riquewihr",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45534,
+        "name": "Rixheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45553,
+        "name": "Rocroi",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45556,
+        "name": "Roeschwoog",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45562,
+        "name": "Rohrbach-lès-Bitche",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45567,
+        "name": "Rolampont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45575,
+        "name": "Romanswiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45577,
+        "name": "Rombas",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45580,
+        "name": "Romilly-sur-Seine",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45600,
+        "name": "Rosenau",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45601,
+        "name": "Rosheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45603,
+        "name": "Rosières-aux-Salines",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45605,
+        "name": "Rosières-près-Troyes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45610,
+        "name": "Rosselange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45613,
+        "name": "Rothau",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45619,
+        "name": "Rouffach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45626,
+        "name": "Rouhling",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45655,
+        "name": "Rozérieulles",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45661,
+        "name": "Ruelisheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45671,
+        "name": "Rumersheim-le-Haut",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45677,
+        "name": "Rupt-sur-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45678,
+        "name": "Rurange-lès-Thionville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45679,
+        "name": "Russ",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45680,
+        "name": "Russange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45750,
+        "name": "Saint-Amarin",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45753,
+        "name": "Saint-Amé",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45765,
+        "name": "Saint-André-les-Vergers",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45798,
+        "name": "Saint-Avold",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45826,
+        "name": "Saint-Brice-Courcelles",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45913,
+        "name": "Saint-Dié-des-Vosges",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45912,
+        "name": "Saint-Dizier",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46657,
+        "name": "Saint-Étienne-lès-Remiremont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 45994,
+        "name": "Saint-Germain",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46068,
+        "name": "Saint-Hippolyte",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46148,
+        "name": "Saint-Julien-lès-Metz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46147,
+        "name": "Saint-Julien-les-Villas",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46158,
+        "name": "Saint-Just-Sauvage",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46172,
+        "name": "Saint-Laurent",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46223,
+        "name": "Saint-Léonard",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46196,
+        "name": "Saint-Louis",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46209,
+        "name": "Saint-Lyé",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46321,
+        "name": "Saint-Maurice-sur-Moselle",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46323,
+        "name": "Saint-Max",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46328,
+        "name": "Saint-Memmie",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46330,
+        "name": "Saint-Menges",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46340,
+        "name": "Saint-Michel-sur-Meurthe",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46342,
+        "name": "Saint-Mihiel",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46356,
+        "name": "Saint-Nabord",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46364,
+        "name": "Saint-Nicolas-de-Port",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46397,
+        "name": "Saint-Parres-aux-Tertres",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46461,
+        "name": "Saint-Pouange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46471,
+        "name": "Saint-Privat-la-Montagne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46672,
+        "name": "Sainte-Croix-aux-Mines",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46673,
+        "name": "Sainte-Croix-en-Plaine",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46704,
+        "name": "Sainte-Marguerite",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46710,
+        "name": "Sainte-Marie-aux-Chênes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46711,
+        "name": "Sainte-Marie-aux-Mines",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46716,
+        "name": "Sainte-Maure",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46719,
+        "name": "Sainte-Menehould",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46725,
+        "name": "Sainte-Savine",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46739,
+        "name": "Saizerais",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46785,
+        "name": "Sand",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46809,
+        "name": "Sarralbe",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46811,
+        "name": "Sarre-Union",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46812,
+        "name": "Sarrebourg",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46813,
+        "name": "Sarreguemines",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46814,
+        "name": "Sarreinsming",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46815,
+        "name": "Sarrewerden",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46818,
+        "name": "Sarry",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46839,
+        "name": "Saulcy-sur-Meurthe",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46842,
+        "name": "Saulnes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46843,
+        "name": "Saulny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46846,
+        "name": "Sault-lès-Rethel",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46849,
+        "name": "Saulxures-lès-Nancy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46850,
+        "name": "Saulxures-sur-Moselotte",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46853,
+        "name": "Sausheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46874,
+        "name": "Saverne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46897,
+        "name": "Scherwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46898,
+        "name": "Schiltigheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46899,
+        "name": "Schirmeck",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46900,
+        "name": "Schirrhein",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46901,
+        "name": "Schnersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46904,
+        "name": "Schœneck",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46902,
+        "name": "Schweighouse-sur-Moder",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46903,
+        "name": "Schwindratzheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46908,
+        "name": "Scy-Chazelles",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46913,
+        "name": "Sedan",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46916,
+        "name": "Seichamps",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46928,
+        "name": "Seingbouse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47136,
+        "name": "Sélestat",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46934,
+        "name": "Seltz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46944,
+        "name": "Senones",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46947,
+        "name": "Sentheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46975,
+        "name": "Serémange-Erzange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46957,
+        "name": "Sermaize-les-Bains",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46976,
+        "name": "Sessenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47151,
+        "name": "Sézanne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46989,
+        "name": "Sierck-les-Bains",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46990,
+        "name": "Sierentz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46993,
+        "name": "Signy-le-Petit",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46994,
+        "name": "Sigolsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 46996,
+        "name": "Sillery",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47026,
+        "name": "Solgne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47059,
+        "name": "Soucht",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47065,
+        "name": "Souffelweyersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47066,
+        "name": "Soufflenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47074,
+        "name": "Soultz-Haut-Rhin",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47075,
+        "name": "Soultz-sous-Forêts",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47076,
+        "name": "Soultzeren",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47077,
+        "name": "Soultzmatt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47093,
+        "name": "Spicheren",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47097,
+        "name": "Staffelfelden",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47103,
+        "name": "Steinbach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47104,
+        "name": "Steinbourg",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47105,
+        "name": "Stenay",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47106,
+        "name": "Still",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47107,
+        "name": "Stiring-Wendel",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47108,
+        "name": "Stosswihr",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47109,
+        "name": "Stotzheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47110,
+        "name": "Strasbourg",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47113,
+        "name": "Suippes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47117,
+        "name": "Sundhoffen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47118,
+        "name": "Sundhouse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47119,
+        "name": "Surbourg",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47158,
+        "name": "Taintrux",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47159,
+        "name": "Taissy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47160,
+        "name": "Talange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47204,
+        "name": "Tenteling",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47211,
+        "name": "Terville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47214,
+        "name": "Teting-sur-Nied",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47217,
+        "name": "Thann",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47219,
+        "name": "Thaon-les-Vosges",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47266,
+        "name": "Théding",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47231,
+        "name": "Thierville-sur-Meuse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47232,
+        "name": "Thil",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47234,
+        "name": "Thilay",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47236,
+        "name": "Thionville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47289,
+        "name": "Tinqueux",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47293,
+        "name": "Tomblaine",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47309,
+        "name": "Toul",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47326,
+        "name": "Tournes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47334,
+        "name": "Tours-sur-Marne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47402,
+        "name": "Trémery",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47362,
+        "name": "Tressange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47372,
+        "name": "Trieux",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47380,
+        "name": "Tronville-en-Barrois",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47385,
+        "name": "Troyes",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47386,
+        "name": "Truchtersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47410,
+        "name": "Tucquegnieux",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47415,
+        "name": "Turckheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47419,
+        "name": "Uberach",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47422,
+        "name": "Uckange",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47423,
+        "name": "Uffholtz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47426,
+        "name": "Ungersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47431,
+        "name": "Uriménil",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47432,
+        "name": "Urmatt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47443,
+        "name": "Uxegney",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47446,
+        "name": "Uzemain",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47450,
+        "name": "Vacon",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47453,
+        "name": "Vagney",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47463,
+        "name": "Val-de-Meuse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47481,
+        "name": "Valff",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47488,
+        "name": "Valleroy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47496,
+        "name": "Valmont",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47503,
+        "name": "Vandœuvre-lès-Nancy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47508,
+        "name": "Varangéville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47529,
+        "name": "Vaucouleurs",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47553,
+        "name": "Vecoux",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47557,
+        "name": "Velaine-en-Haye",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47558,
+        "name": "Velaines",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47570,
+        "name": "Vendenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47572,
+        "name": "Vendeuvre-sur-Barse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47593,
+        "name": "Verdun",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47626,
+        "name": "Verny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47629,
+        "name": "Verrières",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47643,
+        "name": "Vertus",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47645,
+        "name": "Verzenay",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47646,
+        "name": "Verzy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47932,
+        "name": "Vézelise",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47669,
+        "name": "Vic-sur-Seille",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47691,
+        "name": "Vieux-Thann",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47695,
+        "name": "Vigneulles-lès-Hattonchâtel",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47699,
+        "name": "Vignot",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47702,
+        "name": "Vigy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47706,
+        "name": "Village-Neuf",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47837,
+        "name": "Villé",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47720,
+        "name": "Ville-sous-la-Ferté",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47757,
+        "name": "Villenauxe-la-Grande",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47804,
+        "name": "Villers-la-Montagne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47806,
+        "name": "Villers-lès-Nancy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47802,
+        "name": "Villers-Semeuse",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47812,
+        "name": "Villerupt",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47824,
+        "name": "Villey-Saint-Étienne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47827,
+        "name": "Villiers-en-Lieu",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47845,
+        "name": "Vincey",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47858,
+        "name": "Vireux-Molhain",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47859,
+        "name": "Vireux-Wallerand",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47873,
+        "name": "Vitry-le-François",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47874,
+        "name": "Vitry-sur-Orne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47878,
+        "name": "Vittel",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47881,
+        "name": "Vivier-au-Court",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47891,
+        "name": "Void-Vacon",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47895,
+        "name": "Volgelsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47896,
+        "name": "Volmerange-les-Mines",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47898,
+        "name": "Volstroff",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47904,
+        "name": "Vosges",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47916,
+        "name": "Vouziers",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47920,
+        "name": "Vrigne-aux-Bois",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47937,
+        "name": "Walbourg",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47938,
+        "name": "Waldighofen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47941,
+        "name": "Walscheid",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47944,
+        "name": "Wangenbourg-Engenthal",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47945,
+        "name": "Warcq",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47950,
+        "name": "Warmeriville",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47952,
+        "name": "Wasselonne",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47954,
+        "name": "Wassy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47958,
+        "name": "Wattwiller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47963,
+        "name": "Weitbruch",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47965,
+        "name": "Westhoffen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47966,
+        "name": "Wettolsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47967,
+        "name": "Weyersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47968,
+        "name": "Widensolen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47969,
+        "name": "Wiesviller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47971,
+        "name": "Wihr-au-Val",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47973,
+        "name": "Willerwald",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47976,
+        "name": "Wimmenau",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47977,
+        "name": "Wingen-sur-Moder",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47978,
+        "name": "Wingersheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47981,
+        "name": "Wintzenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47982,
+        "name": "Wisches",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47984,
+        "name": "Wissembourg",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47986,
+        "name": "Witry-lès-Reims",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47987,
+        "name": "Wittelsheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47988,
+        "name": "Wittenheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47989,
+        "name": "Wittisheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47991,
+        "name": "Woerth",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47993,
+        "name": "Woippy",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47994,
+        "name": "Wolfgantzen",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47995,
+        "name": "Wolfisheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47997,
+        "name": "Woustviller",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47998,
+        "name": "Xertigny",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 47999,
+        "name": "Xonrupt-Longemer",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 48013,
+        "name": "Yutz",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 48026,
+        "name": "Zillisheim",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 48027,
+        "name": "Zimmersheim",
+        "country": "FRA",
+        "state": "GES"
+    }
+]

@@ -1,0 +1,926 @@
+[
+    {
+        "id": 68066,
+        "name": "Acopinalco del Peñón",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68075,
+        "name": "Acuamanala",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68078,
+        "name": "Acuitlapilco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68085,
+        "name": "Acxotla del Monte",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68086,
+        "name": "Acxotla del Río",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68229,
+        "name": "Altzayanca",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68248,
+        "name": "Amaxac de Guerrero",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68306,
+        "name": "Apetatitlán Antonio Carbajal",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68308,
+        "name": "Apizaco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68403,
+        "name": "Atexcatzingo",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68415,
+        "name": "Atlangatepec",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68424,
+        "name": "Atlzayanca",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68462,
+        "name": "Ayometitla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68583,
+        "name": "Belén Atzitzimititlán",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68589,
+        "name": "Benito Juárez",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68747,
+        "name": "Calpulalpan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 68809,
+        "name": "Capula",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 69191,
+        "name": "Ciudad de Nanacamilpa",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 69289,
+        "name": "Colonia Cuauhtémoc",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 69312,
+        "name": "Colonia Ignacio Allende",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 69364,
+        "name": "Colonia San Isidro",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 69375,
+        "name": "Colonia Venustiano Carranza",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 69435,
+        "name": "Concepción Chimalpa",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 69437,
+        "name": "Concepción Hidalgo",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 69468,
+        "name": "Contla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 69561,
+        "name": "Cuapiaxtla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 69597,
+        "name": "Cuaxomulco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 69877,
+        "name": "El Carmen Aztama",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 69879,
+        "name": "El Carmen Xalpatlahuaya",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70173,
+        "name": "El Rosario",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70279,
+        "name": "Emiliano Zapata",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70395,
+        "name": "Felipe Carrillo Puerto",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70454,
+        "name": "Fraccionamiento la Virgen",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70463,
+        "name": "Francisco I. Madero",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70479,
+        "name": "Francisco Villa",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70585,
+        "name": "Guadalupe Hidalgo",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70592,
+        "name": "Guadalupe Texcalac",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70593,
+        "name": "Guadalupe Tlachco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70725,
+        "name": "Hualcaltzinco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70727,
+        "name": "Huamantla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70781,
+        "name": "Hueyotlipan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70792,
+        "name": "Huiloapan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 70848,
+        "name": "Ignacio Zaragoza",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71026,
+        "name": "Jesús Huitznahuac",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71035,
+        "name": "Jesús Tepactepec",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71096,
+        "name": "José María Morelos",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71177,
+        "name": "La Aurora",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71197,
+        "name": "La Candelaria Teotlalpan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71385,
+        "name": "La Magdalena Tlaltelulco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71490,
+        "name": "La Soledad",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71513,
+        "name": "La Trinidad Chimalpa",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71514,
+        "name": "La Trinidad Tenexyecac",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71562,
+        "name": "Lagunilla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71886,
+        "name": "Lázaro Cárdenas",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71830,
+        "name": "Los Pilares",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 71849,
+        "name": "Los Reyes Quiahuixtlan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 72037,
+        "name": "Mazapa",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 72041,
+        "name": "Mazatecochco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 72258,
+        "name": "Muñoz",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 72289,
+        "name": "Natívitas",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 72322,
+        "name": "Nicolás Bravo",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 72623,
+        "name": "Panotla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 72634,
+        "name": "Papalotla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73053,
+        "name": "Ranchería de Pocitos",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73269,
+        "name": "San Andrés Ahuashuatepec",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73423,
+        "name": "San Bartolomé Cuahuixmatlac",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73427,
+        "name": "San Bartolomé Tenango",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73431,
+        "name": "San Benito Xaltocan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73453,
+        "name": "San Buenaventura Atempan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73470,
+        "name": "San Cosme Atlamaxac",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73485,
+        "name": "San Damián Texoloc",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73508,
+        "name": "San Esteban Tizatlán",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73523,
+        "name": "San Felipe Sultepec",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73563,
+        "name": "San Francisco Cuexcontzi",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73594,
+        "name": "San Francisco Temetzontla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73600,
+        "name": "San Francisco Tlacuilohcan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73646,
+        "name": "San Hipólito Chimalpa",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73676,
+        "name": "San Isidro Buen Suceso",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73723,
+        "name": "San Jerónimo Zacualpan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73733,
+        "name": "San Jorge Tezoquipan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73743,
+        "name": "San José Atoyatenco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73745,
+        "name": "San José Aztatla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73761,
+        "name": "San José Cuamantzingo",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73784,
+        "name": "San José Teacalco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73790,
+        "name": "San José Tepeyahualco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73792,
+        "name": "San José Tetel",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73800,
+        "name": "San José Villarreal",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73802,
+        "name": "San José Xicohténcatl",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73918,
+        "name": "San Juan Quetzalcoapan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 73998,
+        "name": "San Lorenzo Axocomanitla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74011,
+        "name": "San Lorenzo Sóltepec",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74020,
+        "name": "San Lorenzo Xaltelulco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74034,
+        "name": "San Lucas Tecopilco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74036,
+        "name": "San Lucas Tlacochcalco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74047,
+        "name": "San Luis Apizaquito",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74069,
+        "name": "San Marcos Contla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74147,
+        "name": "San Matías Tepetomatitlán",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74174,
+        "name": "San Miguel Contla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74215,
+        "name": "San Miguel Tlamahuco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74221,
+        "name": "San Miguel Xochitecatitla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74334,
+        "name": "San Pedro Ecatepec",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74355,
+        "name": "San Pedro Muñoztla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74385,
+        "name": "San Pedro Tlacotepec",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74396,
+        "name": "San Pedro Xalcaltzinco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74398,
+        "name": "San Pedro Xochiteotla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74434,
+        "name": "San Rafael Tenanyecac",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74435,
+        "name": "San Rafael Tepatlaxco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74480,
+        "name": "San Simeón Xipetzingo",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74486,
+        "name": "San Simón Tlatlahuquitepec",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74517,
+        "name": "Sanctórum",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74531,
+        "name": "Santa Ana Chiautempan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74561,
+        "name": "Santa Anita Huiloac",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74563,
+        "name": "Santa Apolonia Teacalco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74580,
+        "name": "Santa Catarina Ayometla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74617,
+        "name": "Santa Cruz Aquiahuac",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74635,
+        "name": "Santa Cruz Pocitos",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74641,
+        "name": "Santa Cruz Tetela",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74679,
+        "name": "Santa Isabel Xiloxoxtla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74684,
+        "name": "Santa Justina Ecatepec",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74718,
+        "name": "Santa María Atlihuetzian",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74748,
+        "name": "Santa María Ixtulco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74783,
+        "name": "Santa María Texcalac",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74924,
+        "name": "Santiago Michac",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74946,
+        "name": "Santiago Tepeticpac",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 74960,
+        "name": "Santiago Tlacochcalco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75034,
+        "name": "Santo Tomás la Concordia",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75348,
+        "name": "Tenancingo",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75377,
+        "name": "Teolocholco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75417,
+        "name": "Tepetitla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75444,
+        "name": "Tepeyanco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75470,
+        "name": "Terrenate",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75491,
+        "name": "Tetla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75493,
+        "name": "Tetlanohcán",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75685,
+        "name": "Tlatempan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75693,
+        "name": "Tlaxcala",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75698,
+        "name": "Tlaxco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75712,
+        "name": "Tocatlán",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75724,
+        "name": "Toluca de Guadalupe",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75744,
+        "name": "Topilco de Juárez",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75749,
+        "name": "Totolac",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75851,
+        "name": "Tzompantepec",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75883,
+        "name": "Unión Ejidal Tierra y Libertad",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 75991,
+        "name": "Villa Alta",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 76063,
+        "name": "Villa de El Carmen Tequexquitla",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 76055,
+        "name": "Villa Vicente Guerrero",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 76126,
+        "name": "Xaltocan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 76138,
+        "name": "Xicohtzinco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 76188,
+        "name": "Xocoyucan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 76220,
+        "name": "Yauhquemehcan",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 76273,
+        "name": "Zacatelco",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 76319,
+        "name": "Zaragoza",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 76337,
+        "name": "Zimatepec",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 76353,
+        "name": "Zitlaltépec",
+        "country": "MEX",
+        "state": "TLA"
+    },
+    {
+        "id": 76386,
+        "name": "Zumpango",
+        "country": "MEX",
+        "state": "TLA"
+    }
+]

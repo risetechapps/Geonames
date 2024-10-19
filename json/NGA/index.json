@@ -1,0 +1,224 @@
+[
+    {
+        "id": 303,
+        "name": "Abia",
+        "country": "NGA",
+        "state": "AB"
+    },
+    {
+        "id": 293,
+        "name": "Abuja Federal Capital Territory",
+        "country": "NGA",
+        "state": "FC"
+    },
+    {
+        "id": 320,
+        "name": "Adamawa",
+        "country": "NGA",
+        "state": "AD"
+    },
+    {
+        "id": 304,
+        "name": "Akwa Ibom",
+        "country": "NGA",
+        "state": "AK"
+    },
+    {
+        "id": 315,
+        "name": "Anambra",
+        "country": "NGA",
+        "state": "AN"
+    },
+    {
+        "id": 312,
+        "name": "Bauchi",
+        "country": "NGA",
+        "state": "BA"
+    },
+    {
+        "id": 305,
+        "name": "Bayelsa",
+        "country": "NGA",
+        "state": "BY"
+    },
+    {
+        "id": 291,
+        "name": "Benue",
+        "country": "NGA",
+        "state": "BE"
+    },
+    {
+        "id": 307,
+        "name": "Borno",
+        "country": "NGA",
+        "state": "BO"
+    },
+    {
+        "id": 314,
+        "name": "Cross River",
+        "country": "NGA",
+        "state": "CR"
+    },
+    {
+        "id": 316,
+        "name": "Delta",
+        "country": "NGA",
+        "state": "DE"
+    },
+    {
+        "id": 311,
+        "name": "Ebonyi",
+        "country": "NGA",
+        "state": "EB"
+    },
+    {
+        "id": 318,
+        "name": "Edo",
+        "country": "NGA",
+        "state": "ED"
+    },
+    {
+        "id": 309,
+        "name": "Ekiti",
+        "country": "NGA",
+        "state": "EK"
+    },
+    {
+        "id": 289,
+        "name": "Enugu",
+        "country": "NGA",
+        "state": "EN"
+    },
+    {
+        "id": 310,
+        "name": "Gombe",
+        "country": "NGA",
+        "state": "GO"
+    },
+    {
+        "id": 308,
+        "name": "Imo",
+        "country": "NGA",
+        "state": "IM"
+    },
+    {
+        "id": 288,
+        "name": "Jigawa",
+        "country": "NGA",
+        "state": "JI"
+    },
+    {
+        "id": 294,
+        "name": "Kaduna",
+        "country": "NGA",
+        "state": "KD"
+    },
+    {
+        "id": 300,
+        "name": "Kano",
+        "country": "NGA",
+        "state": "KN"
+    },
+    {
+        "id": 313,
+        "name": "Katsina",
+        "country": "NGA",
+        "state": "KT"
+    },
+    {
+        "id": 290,
+        "name": "Kebbi",
+        "country": "NGA",
+        "state": "KE"
+    },
+    {
+        "id": 298,
+        "name": "Kogi",
+        "country": "NGA",
+        "state": "KO"
+    },
+    {
+        "id": 295,
+        "name": "Kwara",
+        "country": "NGA",
+        "state": "KW"
+    },
+    {
+        "id": 306,
+        "name": "Lagos",
+        "country": "NGA",
+        "state": "LA"
+    },
+    {
+        "id": 301,
+        "name": "Nasarawa",
+        "country": "NGA",
+        "state": "NA"
+    },
+    {
+        "id": 317,
+        "name": "Niger",
+        "country": "NGA",
+        "state": "NI"
+    },
+    {
+        "id": 323,
+        "name": "Ogun",
+        "country": "NGA",
+        "state": "OG"
+    },
+    {
+        "id": 321,
+        "name": "Ondo",
+        "country": "NGA",
+        "state": "ON"
+    },
+    {
+        "id": 322,
+        "name": "Osun",
+        "country": "NGA",
+        "state": "OS"
+    },
+    {
+        "id": 296,
+        "name": "Oyo",
+        "country": "NGA",
+        "state": "OY"
+    },
+    {
+        "id": 302,
+        "name": "Plateau",
+        "country": "NGA",
+        "state": "PL"
+    },
+    {
+        "id": 4926,
+        "name": "Rivers",
+        "country": "NGA",
+        "state": "RI"
+    },
+    {
+        "id": 292,
+        "name": "Sokoto",
+        "country": "NGA",
+        "state": "SO"
+    },
+    {
+        "id": 319,
+        "name": "Taraba",
+        "country": "NGA",
+        "state": "TA"
+    },
+    {
+        "id": 297,
+        "name": "Yobe",
+        "country": "NGA",
+        "state": "YO"
+    },
+    {
+        "id": 299,
+        "name": "Zamfara",
+        "country": "NGA",
+        "state": "ZA"
+    }
+]

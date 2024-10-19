@@ -1,0 +1,800 @@
+[
+    {
+        "id": 111026,
+        "name": "Adams County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 111287,
+        "name": "Amidon",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 111543,
+        "name": "Ashley",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 111826,
+        "name": "Barnes County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 111962,
+        "name": "Beach",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 112052,
+        "name": "Belcourt",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 112058,
+        "name": "Belfield",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 112186,
+        "name": "Benson County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 112296,
+        "name": "Beulah",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 112345,
+        "name": "Billings County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 112367,
+        "name": "Bismarck",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 112598,
+        "name": "Bottineau",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 112599,
+        "name": "Bottineau County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 112621,
+        "name": "Bowbells",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 112632,
+        "name": "Bowman",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 112633,
+        "name": "Bowman County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 113058,
+        "name": "Burke County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 113060,
+        "name": "Burleigh County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 113075,
+        "name": "Burlington",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 113326,
+        "name": "Cando",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 113446,
+        "name": "Carrington",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 113475,
+        "name": "Carson",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 113533,
+        "name": "Cass County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 113536,
+        "name": "Casselton",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 113581,
+        "name": "Cavalier",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 113582,
+        "name": "Cavalier County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 113639,
+        "name": "Center",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 114606,
+        "name": "Cooperstown",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 114844,
+        "name": "Crosby",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 115298,
+        "name": "Devils Lake",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 115323,
+        "name": "Dickey County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 115326,
+        "name": "Dickinson",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 115357,
+        "name": "Divide County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 115548,
+        "name": "Dunn County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 115823,
+        "name": "Eddy County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 116017,
+        "name": "Ellendale",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 116107,
+        "name": "Emmons County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 116396,
+        "name": "Fargo",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 116501,
+        "name": "Fessenden",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 116516,
+        "name": "Finley",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 116676,
+        "name": "Forman",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 116756,
+        "name": "Fort Totten",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 116766,
+        "name": "Fort Yates",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 116777,
+        "name": "Foster County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 117103,
+        "name": "Garrison",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 117359,
+        "name": "Golden Valley County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 117431,
+        "name": "Grafton",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 117457,
+        "name": "Grand Forks",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 117458,
+        "name": "Grand Forks Air Force Base",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 117459,
+        "name": "Grand Forks County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 117518,
+        "name": "Grant County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 117734,
+        "name": "Griggs County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 118114,
+        "name": "Harvey",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 118210,
+        "name": "Hazen",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 118346,
+        "name": "Hettinger",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 118347,
+        "name": "Hettinger County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 118450,
+        "name": "Hillsboro",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 118661,
+        "name": "Horace",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 119123,
+        "name": "Jamestown",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 119461,
+        "name": "Kenmare",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 119552,
+        "name": "Kidder County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 119558,
+        "name": "Killdeer",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 120057,
+        "name": "Lakota",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 119803,
+        "name": "LaMoure County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 120109,
+        "name": "Langdon",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 120146,
+        "name": "Larimore",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 120510,
+        "name": "Lincoln",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 120590,
+        "name": "Linton",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 120600,
+        "name": "Lisbon",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 120701,
+        "name": "Logan County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121106,
+        "name": "Mandan",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121136,
+        "name": "Manning",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121454,
+        "name": "Mayville",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121472,
+        "name": "McClusky",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121510,
+        "name": "McHenry County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121515,
+        "name": "McIntosh County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121521,
+        "name": "McKenzie County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121530,
+        "name": "McLean County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121608,
+        "name": "Medora",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121681,
+        "name": "Mercer County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121959,
+        "name": "Minnewaukan",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121966,
+        "name": "Minot",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 121967,
+        "name": "Minot Air Force Base",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 122018,
+        "name": "Mohall",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 122297,
+        "name": "Morton County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 122312,
+        "name": "Mott",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 122440,
+        "name": "Mountrail County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 122559,
+        "name": "Napoleon",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 122628,
+        "name": "Nelson County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 122774,
+        "name": "New Rockford",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 122787,
+        "name": "New Town",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 123275,
+        "name": "Oakes",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 123443,
+        "name": "Oliver County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 123853,
+        "name": "Park River",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 123889,
+        "name": "Parshall",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 124003,
+        "name": "Pembina County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 124174,
+        "name": "Pierce County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 124844,
+        "name": "Ramsey County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 124888,
+        "name": "Ransom County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 125029,
+        "name": "Renville County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 125076,
+        "name": "Richland County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 125362,
+        "name": "Rolette County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 125364,
+        "name": "Rolla",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 125503,
+        "name": "Rugby",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 125950,
+        "name": "Sargent County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 126288,
+        "name": "Sheldon",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 126293,
+        "name": "Shell Valley",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 126326,
+        "name": "Sheridan County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 126460,
+        "name": "Sioux County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 126507,
+        "name": "Slope County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 126961,
+        "name": "Stanley",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 126970,
+        "name": "Stanton",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 126985,
+        "name": "Stark County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 127009,
+        "name": "Steele",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 127011,
+        "name": "Steele County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 127154,
+        "name": "Stutsman County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 127291,
+        "name": "Surrey",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 127591,
+        "name": "Thompson",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 127668,
+        "name": "Tioga",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 127761,
+        "name": "Towner",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 127762,
+        "name": "Towner County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 127778,
+        "name": "Traill County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 128101,
+        "name": "Valley City",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 128165,
+        "name": "Velva",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 128335,
+        "name": "Wahpeton",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 128427,
+        "name": "Walsh County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 128459,
+        "name": "Ward County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 128535,
+        "name": "Washburn",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 128632,
+        "name": "Watford City",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 128787,
+        "name": "Wells County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 128869,
+        "name": "West Fargo",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 129264,
+        "name": "Williams County",
+        "country": "USA",
+        "state": "ND"
+    },
+    {
+        "id": 129299,
+        "name": "Williston",
+        "country": "USA",
+        "state": "ND"
+    }
+]

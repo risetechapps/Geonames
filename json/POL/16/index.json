@@ -1,0 +1,626 @@
+[
+    {
+        "id": 85792,
+        "name": "Baborów",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 85833,
+        "name": "Biała",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 85864,
+        "name": "Bierawa",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 85865,
+        "name": "Bierdzany",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 85935,
+        "name": "Branice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 85958,
+        "name": "Brzeg",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 85998,
+        "name": "Byczyna",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86037,
+        "name": "Chmielowice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86065,
+        "name": "Chróścice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86059,
+        "name": "Chrościna",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86064,
+        "name": "Chrząstowice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86089,
+        "name": "Cisek",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86115,
+        "name": "Czarnowąsy",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86236,
+        "name": "Dąbrowa",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86153,
+        "name": "Dalachów",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86259,
+        "name": "Długomiłowice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86173,
+        "name": "Dobrodzień",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86177,
+        "name": "Dobrzeń Wielki",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86187,
+        "name": "Domaszowice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86221,
+        "name": "Dziergowice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86429,
+        "name": "Głogówek",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86431,
+        "name": "Głubczyce",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86432,
+        "name": "Głuchołazy",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86323,
+        "name": "Gogolin",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86412,
+        "name": "Górażdże",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86343,
+        "name": "Gorzów Śląski",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86373,
+        "name": "Grodków",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86470,
+        "name": "Izbicko",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86502,
+        "name": "Januszkowice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86552,
+        "name": "Jemielnica",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86591,
+        "name": "Kamienica",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86597,
+        "name": "Kamiennik",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86853,
+        "name": "Kędzierzyn-Koźle",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86635,
+        "name": "Kietrz",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86653,
+        "name": "Kluczbork",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86680,
+        "name": "Kolonowskie",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86688,
+        "name": "Komprachcice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86703,
+        "name": "Korfantów",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86757,
+        "name": "Koźle",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86766,
+        "name": "Krapkowice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86840,
+        "name": "Kup",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86892,
+        "name": "Leśnica",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86885,
+        "name": "Lewin Brzeski",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86959,
+        "name": "Lubrza",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 86961,
+        "name": "Lubsza",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88815,
+        "name": "Łąka Prudnicka",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88763,
+        "name": "Łambinowice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88793,
+        "name": "Łosiów",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88797,
+        "name": "Łubniany",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87097,
+        "name": "Moszczanka",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87114,
+        "name": "Murów",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87134,
+        "name": "Nakło",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87136,
+        "name": "Namysłów",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87164,
+        "name": "Niemodlin",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87214,
+        "name": "Nysa",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87238,
+        "name": "Olesno",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87246,
+        "name": "Olszanka",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87262,
+        "name": "Opole",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87315,
+        "name": "Otmuchów",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87320,
+        "name": "Ozimek",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87333,
+        "name": "Paczków",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87337,
+        "name": "Pakosławice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87359,
+        "name": "Pawłowiczki",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87429,
+        "name": "Pokój",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87437,
+        "name": "Polska Cerekiew",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87442,
+        "name": "Popielów",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87475,
+        "name": "Powiat brzeski",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87521,
+        "name": "Powiat głubczycki",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87559,
+        "name": "Powiat kędzierzyńsko-kozielski",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87539,
+        "name": "Powiat kluczborski",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87551,
+        "name": "Powiat krapkowicki",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87598,
+        "name": "Powiat namysłowski",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87608,
+        "name": "Powiat nyski",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87611,
+        "name": "Powiat oleski",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87618,
+        "name": "Powiat opolski",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87642,
+        "name": "Powiat prudnicki",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87684,
+        "name": "Powiat strzelecki",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87787,
+        "name": "Praszka",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87837,
+        "name": "Prószków",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87795,
+        "name": "Prudnik",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87878,
+        "name": "Racławice Śląskie",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87915,
+        "name": "Raszowa",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87941,
+        "name": "Reńska Wieś",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 87967,
+        "name": "Rozwadza",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88062,
+        "name": "Sidzina",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88097,
+        "name": "Skarbimierz Osiedle",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88112,
+        "name": "Skorogoszcz",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88113,
+        "name": "Skoroszyce",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88336,
+        "name": "Sławięcice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88228,
+        "name": "Strzelce Opolskie",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88230,
+        "name": "Strzeleczki",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88853,
+        "name": "Świerczów",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88366,
+        "name": "Tarnów Opolski",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88430,
+        "name": "Tułowice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88431,
+        "name": "Twardawa",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88450,
+        "name": "Ujazd",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88473,
+        "name": "Walce",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88643,
+        "name": "Węgry",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88558,
+        "name": "Większyce",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88542,
+        "name": "Wilków",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88598,
+        "name": "Wołczyn",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88701,
+        "name": "Zawadzkie",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88719,
+        "name": "Zdzieszowice",
+        "country": "POL",
+        "state": "16"
+    },
+    {
+        "id": 88740,
+        "name": "Zębowice",
+        "country": "POL",
+        "state": "16"
+    }
+]

@@ -1,0 +1,5138 @@
+[
+    {
+        "id": 10054,
+        "name": "Abadia dos Dourados",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10057,
+        "name": "Abaeté",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10065,
+        "name": "Abre Campo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10068,
+        "name": "Acaiaca",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10465,
+        "name": "Açucena",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15650,
+        "name": "Água Boa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15655,
+        "name": "Água Comprida",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10095,
+        "name": "Aguanil",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15666,
+        "name": "Águas Formosas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15670,
+        "name": "Águas Vermelhas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10102,
+        "name": "Aimorés",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10105,
+        "name": "Aiuruoca",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10107,
+        "name": "Alagoa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10115,
+        "name": "Albertina",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10201,
+        "name": "Além Paraíba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10130,
+        "name": "Alfenas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10133,
+        "name": "Alfredo Vasconcelos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10142,
+        "name": "Almenara",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10147,
+        "name": "Alpercata",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10149,
+        "name": "Alpinópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10157,
+        "name": "Alterosa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10168,
+        "name": "Alto Caparaó",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10172,
+        "name": "Alto Jequitibá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10181,
+        "name": "Alto Rio Doce",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10190,
+        "name": "Alvarenga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10193,
+        "name": "Alvinópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10197,
+        "name": "Alvorada de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10220,
+        "name": "Amparo da Serra",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10245,
+        "name": "Andradas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10247,
+        "name": "Andrelândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10252,
+        "name": "Angelândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10273,
+        "name": "Antônio Carlos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10275,
+        "name": "Antônio Dias",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10281,
+        "name": "Antônio Prado de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10369,
+        "name": "Araçaí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10312,
+        "name": "Aracitaba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10373,
+        "name": "Araçuaí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10324,
+        "name": "Araguari",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10335,
+        "name": "Arantina",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10339,
+        "name": "Araponga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10341,
+        "name": "Araporã",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10344,
+        "name": "Arapuá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10375,
+        "name": "Araújos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10365,
+        "name": "Araxá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10376,
+        "name": "Arceburgo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10378,
+        "name": "Arcos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10380,
+        "name": "Areado",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10392,
+        "name": "Argirita",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10393,
+        "name": "Aricanduva",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10394,
+        "name": "Arinos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10432,
+        "name": "Astolfo Dutra",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10438,
+        "name": "Ataléia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10446,
+        "name": "Augusto de Lima",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10472,
+        "name": "Baependi",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10482,
+        "name": "Baldim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10493,
+        "name": "Bambuí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10497,
+        "name": "Bandeira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10498,
+        "name": "Bandeira do Sul",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10572,
+        "name": "Barão de Cocais",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10576,
+        "name": "Barão de Monte Alto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10507,
+        "name": "Barbacena",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10519,
+        "name": "Barra Longa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10555,
+        "name": "Barreiro do Jaíba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10568,
+        "name": "Barroso",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10597,
+        "name": "Bela Vista de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10603,
+        "name": "Belmiro Braga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10607,
+        "name": "Belo Horizonte",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10610,
+        "name": "Belo Oriente",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10611,
+        "name": "Belo Vale",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10632,
+        "name": "Berilo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10633,
+        "name": "Berizal",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10640,
+        "name": "Bertópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10642,
+        "name": "Betim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10646,
+        "name": "Bias Fortes",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10647,
+        "name": "Bicas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10650,
+        "name": "Biquinhas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10658,
+        "name": "Boa Esperança",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10681,
+        "name": "Bocaina de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10683,
+        "name": "Bocaiúva",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10691,
+        "name": "Bom Despacho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10697,
+        "name": "Bom Jardim de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10704,
+        "name": "Bom Jesus da Penha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10708,
+        "name": "Bom Jesus do Amparo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10710,
+        "name": "Bom Jesus do Galho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10722,
+        "name": "Bom Repouso",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10726,
+        "name": "Bom Sucesso",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10731,
+        "name": "Bonfim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10734,
+        "name": "Bonfinópolis de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10740,
+        "name": "Bonito de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10752,
+        "name": "Borda da Mata",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10757,
+        "name": "Botelhos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10759,
+        "name": "Botumirim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10813,
+        "name": "Brás Pires",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10771,
+        "name": "Brasilândia de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10777,
+        "name": "Brasília de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10783,
+        "name": "Braúnas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10779,
+        "name": "Brazópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10809,
+        "name": "Brumadinho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10814,
+        "name": "Bueno Brandão",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10816,
+        "name": "Buenópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10818,
+        "name": "Bugre",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10835,
+        "name": "Buritis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10837,
+        "name": "Buritizeiro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10847,
+        "name": "Cabeceira Grande",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10854,
+        "name": "Cabo Verde",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10867,
+        "name": "Cachoeira da Prata",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10869,
+        "name": "Cachoeira de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10870,
+        "name": "Cachoeira de Pajeú",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10863,
+        "name": "Cachoeira Dourada",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10889,
+        "name": "Caetanópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10891,
+        "name": "Caeté",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10899,
+        "name": "Caiana",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10921,
+        "name": "Cajuri",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10923,
+        "name": "Caldas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10935,
+        "name": "Camacho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10938,
+        "name": "Camanducaia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10950,
+        "name": "Cambuí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10949,
+        "name": "Cambuquira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10956,
+        "name": "Campanário",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10955,
+        "name": "Campanha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10958,
+        "name": "Campestre",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10964,
+        "name": "Campina Verde",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10981,
+        "name": "Campo Azul",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10982,
+        "name": "Campo Belo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11006,
+        "name": "Campo do Meio",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 10987,
+        "name": "Campo Florido",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11008,
+        "name": "Campos Altos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11011,
+        "name": "Campos Gerais",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11021,
+        "name": "Cana Verde",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11030,
+        "name": "Canaã",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11061,
+        "name": "Canápolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11034,
+        "name": "Candeias",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11053,
+        "name": "Cantagalo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11064,
+        "name": "Caparaó",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11067,
+        "name": "Capela Nova",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11071,
+        "name": "Capelinha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11072,
+        "name": "Capetinga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11074,
+        "name": "Capim Branco",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11078,
+        "name": "Capinópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11081,
+        "name": "Capitão Andrade",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11082,
+        "name": "Capitão Enéas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11087,
+        "name": "Capitólio",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11093,
+        "name": "Caputira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11115,
+        "name": "Caraí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11105,
+        "name": "Caranaíba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11106,
+        "name": "Carandaí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11107,
+        "name": "Carangola",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11110,
+        "name": "Caratinga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11120,
+        "name": "Carbonita",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11124,
+        "name": "Careaçu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11139,
+        "name": "Carlos Chagas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11151,
+        "name": "Carmésia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11143,
+        "name": "Carmo da Cachoeira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11144,
+        "name": "Carmo da Mata",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11145,
+        "name": "Carmo de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11146,
+        "name": "Carmo do Cajuru",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11147,
+        "name": "Carmo do Paranaíba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11148,
+        "name": "Carmo do Rio Claro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11153,
+        "name": "Carmópolis de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11159,
+        "name": "Carneirinho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11163,
+        "name": "Carrancas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11169,
+        "name": "Carvalhópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11168,
+        "name": "Carvalhos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11172,
+        "name": "Casa Grande",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11175,
+        "name": "Cascalho Rico",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11543,
+        "name": "Cássia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11193,
+        "name": "Cataguases",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11199,
+        "name": "Catas Altas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11200,
+        "name": "Catas Altas da Noruega",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11207,
+        "name": "Catuji",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11212,
+        "name": "Catuti",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11216,
+        "name": "Caxambu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11233,
+        "name": "Cedro do Abaeté",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11239,
+        "name": "Central de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11241,
+        "name": "Centralina",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11285,
+        "name": "Chácara",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11258,
+        "name": "Chalé",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11263,
+        "name": "Chapada do Norte",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11260,
+        "name": "Chapada Gaúcha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11276,
+        "name": "Chiador",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11294,
+        "name": "Cipotânea",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11297,
+        "name": "Claraval",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11298,
+        "name": "Claro dos Poções",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11302,
+        "name": "Cláudio",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11316,
+        "name": "Coimbra",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11332,
+        "name": "Coluna",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11340,
+        "name": "Comendador Gomes",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11342,
+        "name": "Comercinho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11345,
+        "name": "Conceição da Aparecida",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11347,
+        "name": "Conceição da Barra de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11349,
+        "name": "Conceição das Alagoas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11350,
+        "name": "Conceição das Pedras",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11351,
+        "name": "Conceição de Ipanema",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11360,
+        "name": "Conceição do Mato Dentro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11361,
+        "name": "Conceição do Pará",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11362,
+        "name": "Conceição do Rio Verde",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11364,
+        "name": "Conceição dos Ouros",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11558,
+        "name": "Cônego Marinho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11375,
+        "name": "Confins",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11378,
+        "name": "Congonhal",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11379,
+        "name": "Congonhas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11380,
+        "name": "Congonhas do Norte",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11382,
+        "name": "Conquista",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11384,
+        "name": "Conselheiro Lafaiete",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11386,
+        "name": "Conselheiro Pena",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11387,
+        "name": "Consolação",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11389,
+        "name": "Contagem",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11392,
+        "name": "Coqueiral",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11396,
+        "name": "Coração de Jesus",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11403,
+        "name": "Cordisburgo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11404,
+        "name": "Cordislândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11409,
+        "name": "Corinto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11411,
+        "name": "Coroaci",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11414,
+        "name": "Coromandel",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11419,
+        "name": "Coronel Fabriciano",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11426,
+        "name": "Coronel Murta",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11427,
+        "name": "Coronel Pacheco",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11431,
+        "name": "Coronel Xavier Chaves",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11553,
+        "name": "Córrego Danta",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11556,
+        "name": "Córrego do Bom Jesus",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11554,
+        "name": "Córrego Fundo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11555,
+        "name": "Córrego Novo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11456,
+        "name": "Couto de Magalhães de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11481,
+        "name": "Crisólita",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11467,
+        "name": "Cristais",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11479,
+        "name": "Cristália",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11474,
+        "name": "Cristiano Otoni",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11476,
+        "name": "Cristina",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11487,
+        "name": "Crucilândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11495,
+        "name": "Cruzeiro da Fortaleza",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11504,
+        "name": "Cruzília",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11519,
+        "name": "Cuparaque",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11532,
+        "name": "Curral de Dentro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11538,
+        "name": "Curvelo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11563,
+        "name": "Datas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11567,
+        "name": "Delfim Moreira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11568,
+        "name": "Delfinópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11570,
+        "name": "Delta",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11578,
+        "name": "Descoberto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11580,
+        "name": "Desterro de Entre Rios",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11581,
+        "name": "Desterro do Melo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11588,
+        "name": "Diamantina",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11593,
+        "name": "Diogo de Vasconcelos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11594,
+        "name": "Dionísio",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11605,
+        "name": "Divinésia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11600,
+        "name": "Divino",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11601,
+        "name": "Divino das Laranjeiras",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11604,
+        "name": "Divinolândia de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11606,
+        "name": "Divinópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11609,
+        "name": "Divisa Alegre",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11610,
+        "name": "Divisa Nova",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11611,
+        "name": "Divisópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11624,
+        "name": "Dom Bosco",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11625,
+        "name": "Dom Cavati",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11630,
+        "name": "Dom Joaquim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11635,
+        "name": "Dom Silvério",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11636,
+        "name": "Dom Viçoso",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11640,
+        "name": "Dona Eusébia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11643,
+        "name": "Dores de Campos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11644,
+        "name": "Dores de Guanhães",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11645,
+        "name": "Dores do Indaiá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11647,
+        "name": "Dores do Turvo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11648,
+        "name": "Doresópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11653,
+        "name": "Douradoquara",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11670,
+        "name": "Durandé",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11686,
+        "name": "Elói Mendes",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11699,
+        "name": "Engenheiro Caldas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11701,
+        "name": "Engenheiro Navarro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11704,
+        "name": "Entre Folhas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11707,
+        "name": "Entre Rios de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11723,
+        "name": "Ervália",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11726,
+        "name": "Esmeraldas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11727,
+        "name": "Espera Feliz",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11736,
+        "name": "Espinosa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11740,
+        "name": "Espírito Santo do Dourado",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11745,
+        "name": "Estiva",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11749,
+        "name": "Estrela Dalva",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11753,
+        "name": "Estrela do Indaiá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11756,
+        "name": "Estrela do Sul",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11761,
+        "name": "Eugenópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11765,
+        "name": "Ewbank da Câmara",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11767,
+        "name": "Extrema",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11773,
+        "name": "Fama",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11774,
+        "name": "Faria Lemos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11801,
+        "name": "Felício dos Santos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11796,
+        "name": "Felisburgo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11797,
+        "name": "Felixlândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11803,
+        "name": "Fernandes Tourinho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11814,
+        "name": "Ferros",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11815,
+        "name": "Fervedouro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11839,
+        "name": "Florestal",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11850,
+        "name": "Formiga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11857,
+        "name": "Formoso",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11864,
+        "name": "Fortaleza de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11870,
+        "name": "Fortuna de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11878,
+        "name": "Francisco Badaró",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11881,
+        "name": "Francisco Dumont",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11885,
+        "name": "Francisco Sá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11886,
+        "name": "Franciscópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11891,
+        "name": "Frei Gaspar",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11892,
+        "name": "Frei Inocêncio",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11893,
+        "name": "Frei Lagonegro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11898,
+        "name": "Fronteira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11899,
+        "name": "Fronteira dos Vales",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11901,
+        "name": "Fruta de Leite",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11902,
+        "name": "Frutal",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11905,
+        "name": "Funilândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11912,
+        "name": "Galiléia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11917,
+        "name": "Gameleiras",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11947,
+        "name": "Glaucilândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11956,
+        "name": "Goiabeira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11962,
+        "name": "Goianá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11974,
+        "name": "Gonçalves",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11973,
+        "name": "Gonzaga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11976,
+        "name": "Gouveia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 11990,
+        "name": "Governador Valadares",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12008,
+        "name": "Grão Mogol",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12007,
+        "name": "Grupiara",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12025,
+        "name": "Guanhães",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12032,
+        "name": "Guapé",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12037,
+        "name": "Guaraciaba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12040,
+        "name": "Guaraciama",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12050,
+        "name": "Guaranésia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12043,
+        "name": "Guarani",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12056,
+        "name": "Guarará",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12063,
+        "name": "Guarda-Mor",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12074,
+        "name": "Guaxupé",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12080,
+        "name": "Guidoval",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12081,
+        "name": "Guimarânia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12084,
+        "name": "Guiricema",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12085,
+        "name": "Gurinhatã",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12094,
+        "name": "Heliodora",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12116,
+        "name": "Iapu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12127,
+        "name": "Ibertioga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12164,
+        "name": "Ibiá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12133,
+        "name": "Ibiaí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12144,
+        "name": "Ibiracatu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12145,
+        "name": "Ibiraci",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12155,
+        "name": "Ibirité",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12162,
+        "name": "Ibitiúra de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12163,
+        "name": "Ibituruna",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12168,
+        "name": "Icaraí de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12181,
+        "name": "Igarapé",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12189,
+        "name": "Igaratinga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12199,
+        "name": "Iguatama",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12204,
+        "name": "Ijaci",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12215,
+        "name": "Ilicínea",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12224,
+        "name": "Imbé de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12230,
+        "name": "Inconfidentes",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12231,
+        "name": "Indaiabira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12237,
+        "name": "Indianópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12244,
+        "name": "Ingaí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12250,
+        "name": "Inhapim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12251,
+        "name": "Inhaúma",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12254,
+        "name": "Inimutaba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12259,
+        "name": "Ipaba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12261,
+        "name": "Ipanema",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12264,
+        "name": "Ipatinga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12271,
+        "name": "Ipiaçu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12295,
+        "name": "Ipuiúna",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12316,
+        "name": "Iraí de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12333,
+        "name": "Itabira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12334,
+        "name": "Itabirinha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12335,
+        "name": "Itabirito",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12339,
+        "name": "Itacambira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12340,
+        "name": "Itacarambi",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12351,
+        "name": "Itaguara",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12361,
+        "name": "Itaipé",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12370,
+        "name": "Itajubá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12377,
+        "name": "Itamarandiba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12379,
+        "name": "Itamarati de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12381,
+        "name": "Itambacuri",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12386,
+        "name": "Itambé do Mato Dentro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12387,
+        "name": "Itamogi",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12388,
+        "name": "Itamonte",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12390,
+        "name": "Itanhandu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12393,
+        "name": "Itanhomi",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12395,
+        "name": "Itaobim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12399,
+        "name": "Itapagipe",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12404,
+        "name": "Itapecerica",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12415,
+        "name": "Itapeva",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12455,
+        "name": "Itatiaiuçu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12469,
+        "name": "Itaú de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12471,
+        "name": "Itaúna",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12465,
+        "name": "Itaverava",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12473,
+        "name": "Itinga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12485,
+        "name": "Itueta",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12486,
+        "name": "Ituiutaba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12488,
+        "name": "Itumirim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12492,
+        "name": "Iturama",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12493,
+        "name": "Itutinga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12516,
+        "name": "Jaboticatubas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12525,
+        "name": "Jacinto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12534,
+        "name": "Jacuí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12533,
+        "name": "Jacutinga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12539,
+        "name": "Jaguaraçu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12608,
+        "name": "Jaíba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12554,
+        "name": "Jampruca",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12555,
+        "name": "Janaúba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12564,
+        "name": "Januária",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12568,
+        "name": "Japaraíba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12573,
+        "name": "Japonvar",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12611,
+        "name": "Jeceaba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12612,
+        "name": "Jenipapo de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12614,
+        "name": "Jequeri",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12615,
+        "name": "Jequitaí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12616,
+        "name": "Jequitibá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12617,
+        "name": "Jequitinhonha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12625,
+        "name": "Jesuânia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12642,
+        "name": "Joaíma",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12634,
+        "name": "Joanésia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12663,
+        "name": "João Monlevade",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12666,
+        "name": "João Pinheiro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12636,
+        "name": "Joaquim Felício",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12646,
+        "name": "Jordânia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12652,
+        "name": "José Gonçalves de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12653,
+        "name": "José Raydan",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12649,
+        "name": "Josenópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12671,
+        "name": "Juatuba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12680,
+        "name": "Juiz de Fora",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12694,
+        "name": "Juramento",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12700,
+        "name": "Juruaia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12712,
+        "name": "Juvenília",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12722,
+        "name": "Ladainha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12725,
+        "name": "Lagamar",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12751,
+        "name": "Lagoa da Prata",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12766,
+        "name": "Lagoa dos Patos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12736,
+        "name": "Lagoa Dourada",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12737,
+        "name": "Lagoa Formosa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12739,
+        "name": "Lagoa Grande",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12744,
+        "name": "Lagoa Santa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12786,
+        "name": "Lajinha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12788,
+        "name": "Lambari",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12790,
+        "name": "Lamim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12795,
+        "name": "Laranjal",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12801,
+        "name": "Lassance",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12808,
+        "name": "Lavras",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12813,
+        "name": "Leandro Ferreira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12816,
+        "name": "Leme do Prado",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12820,
+        "name": "Leopoldina",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12824,
+        "name": "Liberdade",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12828,
+        "name": "Lima Duarte",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12830,
+        "name": "Limeira do Oeste",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12850,
+        "name": "Lontra",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12863,
+        "name": "Luisburgo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12864,
+        "name": "Luislândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12868,
+        "name": "Luminárias",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12873,
+        "name": "Luz",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12897,
+        "name": "Machacalis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12900,
+        "name": "Machado",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12908,
+        "name": "Madre de Deus de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12924,
+        "name": "Malacacheta",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12934,
+        "name": "Mamonas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12946,
+        "name": "Manga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12949,
+        "name": "Manhuaçu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12950,
+        "name": "Manhumirim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12958,
+        "name": "Mantena",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12962,
+        "name": "Mar de Espanha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 12987,
+        "name": "Maravilhas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13005,
+        "name": "Maria da Fé",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13007,
+        "name": "Mariana",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13013,
+        "name": "Marilac",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13290,
+        "name": "Mário Campos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13021,
+        "name": "Maripá de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13026,
+        "name": "Marliéria",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13028,
+        "name": "Marmelópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13031,
+        "name": "Martinho Campos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13033,
+        "name": "Martins Soares",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13048,
+        "name": "Mata Verde",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13053,
+        "name": "Materlândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13054,
+        "name": "Mateus Leme",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13055,
+        "name": "Mathias Lobato",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13056,
+        "name": "Matias Barbosa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13057,
+        "name": "Matias Cardoso",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13063,
+        "name": "Matipó",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13069,
+        "name": "Mato Verde",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13071,
+        "name": "Matozinhos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13076,
+        "name": "Matutina",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13090,
+        "name": "Medeiros",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13094,
+        "name": "Medina",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13098,
+        "name": "Mendes Pimentel",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13101,
+        "name": "Mercês",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13105,
+        "name": "Mesquita",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13122,
+        "name": "Minas Novas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13125,
+        "name": "Minduri",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13130,
+        "name": "Mirabela",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13136,
+        "name": "Miradouro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13153,
+        "name": "Miraí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13152,
+        "name": "Miravânia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13162,
+        "name": "Moeda",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13163,
+        "name": "Moema",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13176,
+        "name": "Monjolos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13179,
+        "name": "Monsenhor Paulo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13182,
+        "name": "Montalvânia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13189,
+        "name": "Monte Alegre de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13196,
+        "name": "Monte Azul",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13198,
+        "name": "Monte Belo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13201,
+        "name": "Monte Carmelo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13204,
+        "name": "Monte Formoso",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13209,
+        "name": "Monte Santo de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13211,
+        "name": "Monte Sião",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13212,
+        "name": "Monte Verde",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13220,
+        "name": "Montes Claros",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13222,
+        "name": "Montezuma",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13228,
+        "name": "Morada Nova de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13247,
+        "name": "Morro da Garça",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13250,
+        "name": "Morro do Pilar",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13272,
+        "name": "Munhoz",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13278,
+        "name": "Muriaé",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13285,
+        "name": "Mutum",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13288,
+        "name": "Muzambinho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13294,
+        "name": "Nacip Raydan",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13296,
+        "name": "Nanuque",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13297,
+        "name": "Naque",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13300,
+        "name": "Natalândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13305,
+        "name": "Natércia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13308,
+        "name": "Nazareno",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13317,
+        "name": "Nepomuceno",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13327,
+        "name": "Ninheira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13357,
+        "name": "Nova Belém",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13372,
+        "name": "Nova Era",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13398,
+        "name": "Nova Lima",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13406,
+        "name": "Nova Módica",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13419,
+        "name": "Nova Ponte",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13420,
+        "name": "Nova Porteirinha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13426,
+        "name": "Nova Resende",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13436,
+        "name": "Nova Serrana",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13443,
+        "name": "Nova União",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13457,
+        "name": "Novo Cruzeiro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13472,
+        "name": "Novo Oriente de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13483,
+        "name": "Novorizonte",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13493,
+        "name": "Olaria",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13501,
+        "name": "Olhos-d'Água",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13512,
+        "name": "Olímpio Noronha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13506,
+        "name": "Oliveira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13507,
+        "name": "Oliveira Fortes",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13514,
+        "name": "Onça de Pitangui",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13515,
+        "name": "Oratórios",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13520,
+        "name": "Orizânia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13540,
+        "name": "Ouro Branco",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13541,
+        "name": "Ouro Fino",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13542,
+        "name": "Ouro Preto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13548,
+        "name": "Ouro Verde de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13562,
+        "name": "Padre Carvalho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13564,
+        "name": "Padre Paraíso",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13566,
+        "name": "Pai Pedro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13569,
+        "name": "Paineiras",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13571,
+        "name": "Pains",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13572,
+        "name": "Paiva",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13581,
+        "name": "Palma",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13610,
+        "name": "Palmópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13620,
+        "name": "Papagaios",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13684,
+        "name": "Pará de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13624,
+        "name": "Paracatu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13627,
+        "name": "Paraguaçu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13632,
+        "name": "Paraisópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13650,
+        "name": "Paraopeba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13685,
+        "name": "Passa Quatro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13687,
+        "name": "Passa Tempo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13689,
+        "name": "Passa-Vinte",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13690,
+        "name": "Passabém",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13700,
+        "name": "Passos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13703,
+        "name": "Patis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13707,
+        "name": "Patos de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13709,
+        "name": "Patrocínio",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13711,
+        "name": "Patrocínio do Muriaé",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13721,
+        "name": "Paula Cândido",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13729,
+        "name": "Paulistas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13741,
+        "name": "Pavão",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13822,
+        "name": "Peçanha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13746,
+        "name": "Pedra Azul",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13748,
+        "name": "Pedra Bonita",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13758,
+        "name": "Pedra do Anta",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13759,
+        "name": "Pedra do Indaiá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13752,
+        "name": "Pedra Dourada",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13760,
+        "name": "Pedralva",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13765,
+        "name": "Pedras de Maria da Cruz",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13771,
+        "name": "Pedrinópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13779,
+        "name": "Pedro Leopoldo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13782,
+        "name": "Pedro Teixeira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13799,
+        "name": "Pequeri",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13800,
+        "name": "Pequi",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13802,
+        "name": "Perdigão",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13803,
+        "name": "Perdizes",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13804,
+        "name": "Perdões",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13809,
+        "name": "Periquito",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13815,
+        "name": "Pescador",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13826,
+        "name": "Piau",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13832,
+        "name": "Piedade de Caratinga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13833,
+        "name": "Piedade de Ponte Nova",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13834,
+        "name": "Piedade do Rio Grande",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13835,
+        "name": "Piedade dos Gerais",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13844,
+        "name": "Pimenta",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13857,
+        "name": "Pingo-d'Água",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13877,
+        "name": "Pintópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13885,
+        "name": "Piracema",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13889,
+        "name": "Pirajuba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13892,
+        "name": "Piranga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13895,
+        "name": "Piranguçu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13894,
+        "name": "Piranguinho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13899,
+        "name": "Pirapetinga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13900,
+        "name": "Pirapora",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13913,
+        "name": "Piraúba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13924,
+        "name": "Pitangui",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13928,
+        "name": "Piuí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13927,
+        "name": "Piumhi",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13943,
+        "name": "Planura",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14047,
+        "name": "Poço Fundo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14053,
+        "name": "Poços de Caldas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13948,
+        "name": "Pocrane",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13955,
+        "name": "Pompéu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13970,
+        "name": "Ponte Nova",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13976,
+        "name": "Ponto Chique",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13978,
+        "name": "Ponto dos Volantes",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 13988,
+        "name": "Porteirinha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14006,
+        "name": "Porto Firme",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14037,
+        "name": "Poté",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14038,
+        "name": "Pouso Alegre",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14039,
+        "name": "Pouso Alto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14061,
+        "name": "Prados",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14069,
+        "name": "Prata",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14072,
+        "name": "Pratápolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14071,
+        "name": "Pratinha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14076,
+        "name": "Presidente Bernardes",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14085,
+        "name": "Presidente Juscelino",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14089,
+        "name": "Presidente Kubitschek",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14094,
+        "name": "Presidente Olegário",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14113,
+        "name": "Prudente de Morais",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14127,
+        "name": "Quartel Geral",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14144,
+        "name": "Queluzito",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14175,
+        "name": "Raposos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14176,
+        "name": "Raul Soares",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14180,
+        "name": "Recreio",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14187,
+        "name": "Reduto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14198,
+        "name": "Resende Costa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14203,
+        "name": "Resplendor",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14204,
+        "name": "Ressaquinha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14209,
+        "name": "Riachinho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14217,
+        "name": "Riacho dos Machados",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14247,
+        "name": "Ribeirão das Neves",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14245,
+        "name": "Ribeirão Vermelho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14257,
+        "name": "Rio Acima",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14268,
+        "name": "Rio Casca",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14315,
+        "name": "Rio do Prado",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14272,
+        "name": "Rio Doce",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14273,
+        "name": "Rio Espera",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14280,
+        "name": "Rio Manso",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14285,
+        "name": "Rio Novo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14287,
+        "name": "Rio Paranaíba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14289,
+        "name": "Rio Pardo de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14290,
+        "name": "Rio Piracicaba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14291,
+        "name": "Rio Pomba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14292,
+        "name": "Rio Preto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14302,
+        "name": "Rio Vermelho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14323,
+        "name": "Ritápolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14327,
+        "name": "Rochedo de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14330,
+        "name": "Rodeiro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14338,
+        "name": "Romaria",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14352,
+        "name": "Rosário da Limeira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14357,
+        "name": "Rubelita",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14359,
+        "name": "Rubim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14366,
+        "name": "Sabará",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14368,
+        "name": "Sabinópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14372,
+        "name": "Sacramento",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14387,
+        "name": "Salinas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14398,
+        "name": "Salto da Divisa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14423,
+        "name": "Santa Bárbara",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14426,
+        "name": "Santa Bárbara do Leste",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14427,
+        "name": "Santa Bárbara do Monte Verde",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14430,
+        "name": "Santa Bárbara do Tugúrio",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14448,
+        "name": "Santa Cruz de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14450,
+        "name": "Santa Cruz de Salinas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14453,
+        "name": "Santa Cruz do Escalvado",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14459,
+        "name": "Santa Efigênia de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14466,
+        "name": "Santa Fé de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14475,
+        "name": "Santa Helena de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14486,
+        "name": "Santa Juliana",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14490,
+        "name": "Santa Luzia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14500,
+        "name": "Santa Margarida",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14509,
+        "name": "Santa Maria de Itabira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14515,
+        "name": "Santa Maria do Salto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14516,
+        "name": "Santa Maria do Suaçuí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14527,
+        "name": "Santa Rita de Caldas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14529,
+        "name": "Santa Rita de Ibitipoca",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14530,
+        "name": "Santa Rita de Jacutinga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14531,
+        "name": "Santa Rita de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14533,
+        "name": "Santa Rita do Itueto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14537,
+        "name": "Santa Rita do Sapucaí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14541,
+        "name": "Santa Rosa da Serra",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14565,
+        "name": "Santa Vitória",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14572,
+        "name": "Santana da Vargem",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14573,
+        "name": "Santana de Cataguases",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14576,
+        "name": "Santana de Pirapama",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14580,
+        "name": "Santana do Deserto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14581,
+        "name": "Santana do Garambéu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14584,
+        "name": "Santana do Jacaré",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14586,
+        "name": "Santana do Manhuaçu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14590,
+        "name": "Santana do Paraíso",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14592,
+        "name": "Santana do Riacho",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14596,
+        "name": "Santana dos Montes",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14621,
+        "name": "Santo Antônio do Amparo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14623,
+        "name": "Santo Antônio do Aventureiro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14626,
+        "name": "Santo Antônio do Grama",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14627,
+        "name": "Santo Antônio do Itambé",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14629,
+        "name": "Santo Antônio do Jacinto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14633,
+        "name": "Santo Antônio do Monte",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14638,
+        "name": "Santo Antônio do Retiro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14639,
+        "name": "Santo Antônio do Rio Abaixo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14649,
+        "name": "Santo Hipólito",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14654,
+        "name": "Santos Dumont",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14837,
+        "name": "São Bento Abade",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14851,
+        "name": "São Brás do Suaçuí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14866,
+        "name": "São Domingos das Dores",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14873,
+        "name": "São Domingos do Prata",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14901,
+        "name": "São Félix de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14882,
+        "name": "São Francisco",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14888,
+        "name": "São Francisco de Paula",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14889,
+        "name": "São Francisco de Sales",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14892,
+        "name": "São Francisco do Glória",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14912,
+        "name": "São Geraldo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14913,
+        "name": "São Geraldo da Piedade",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14915,
+        "name": "São Geraldo do Baixio",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14917,
+        "name": "São Gonçalo do Abaeté",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14921,
+        "name": "São Gonçalo do Pará",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14923,
+        "name": "São Gonçalo do Rio Abaixo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14924,
+        "name": "São Gonçalo do Rio Preto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14925,
+        "name": "São Gonçalo do Sapucaí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14927,
+        "name": "São Gotardo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15002,
+        "name": "São João Batista do Glória",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15010,
+        "name": "São João da Lagoa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15011,
+        "name": "São João da Mata",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15014,
+        "name": "São João da Ponte",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15019,
+        "name": "São João das Missões",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15023,
+        "name": "São João del Rei",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15032,
+        "name": "São João do Manhuaçu",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15033,
+        "name": "São João do Manteninha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15035,
+        "name": "São João do Oriente",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15036,
+        "name": "São João do Pacuí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15038,
+        "name": "São João do Paraíso",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15003,
+        "name": "São João Evangelista",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15004,
+        "name": "São João Nepomuceno",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14932,
+        "name": "São Joaquim de Bicas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14939,
+        "name": "São José da Barra",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14945,
+        "name": "São José da Lapa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14946,
+        "name": "São José da Safira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14948,
+        "name": "São José da Varginha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14959,
+        "name": "São José do Alegre",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14969,
+        "name": "São José do Divino",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14971,
+        "name": "São José do Goiabal",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14975,
+        "name": "São José do Jacuri",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14977,
+        "name": "São José do Mantimento",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15052,
+        "name": "São Lourenço",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15086,
+        "name": "São Miguel do Anta",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15111,
+        "name": "São Pedro da União",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15120,
+        "name": "São Pedro do Suaçuí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15124,
+        "name": "São Pedro dos Ferros",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15130,
+        "name": "São Romão",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15132,
+        "name": "São Roque de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15138,
+        "name": "São Sebastião da Bela Vista",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15141,
+        "name": "São Sebastião da Vargem Alegre",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15144,
+        "name": "São Sebastião do Anta",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15146,
+        "name": "São Sebastião do Maranhão",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15147,
+        "name": "São Sebastião do Oeste",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15148,
+        "name": "São Sebastião do Paraíso",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15150,
+        "name": "São Sebastião do Rio Preto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15151,
+        "name": "São Sebastião do Rio Verde",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15158,
+        "name": "São Thomé das Letras",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15159,
+        "name": "São Tiago",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15160,
+        "name": "São Tomás de Aquino",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15172,
+        "name": "São Vicente de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14664,
+        "name": "Sapucaí-Mirim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14670,
+        "name": "Sardoá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14672,
+        "name": "Sarzedo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14691,
+        "name": "Sem-Peixe",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14694,
+        "name": "Senador Amaral",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14696,
+        "name": "Senador Cortes",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14698,
+        "name": "Senador Firmino",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14701,
+        "name": "Senador José Bento",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14704,
+        "name": "Senador Modestino Gonçalves",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14711,
+        "name": "Senhora de Oliveira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14712,
+        "name": "Senhora do Porto",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14713,
+        "name": "Senhora dos Remédios",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14717,
+        "name": "Sericita",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14719,
+        "name": "Seritinga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14724,
+        "name": "Serra Azul de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14736,
+        "name": "Serra da Saudade",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14741,
+        "name": "Serra do Salitre",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14742,
+        "name": "Serra dos Aimorés",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14744,
+        "name": "Serrania",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14748,
+        "name": "Serranópolis de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14746,
+        "name": "Serranos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14755,
+        "name": "Serro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14765,
+        "name": "Sete Lagoas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14768,
+        "name": "Setubinha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14779,
+        "name": "Silveirânia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14781,
+        "name": "Silvianópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14787,
+        "name": "Simão Pereira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14784,
+        "name": "Simonésia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14799,
+        "name": "Sobrália",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 14804,
+        "name": "Soledade de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15191,
+        "name": "Tabuleiro",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15202,
+        "name": "Taiobeiras",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15224,
+        "name": "Taparuba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15233,
+        "name": "Tapira",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15237,
+        "name": "Tapiraí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15244,
+        "name": "Taquaraçu de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15256,
+        "name": "Tarumirim",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15268,
+        "name": "Teixeiras",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15301,
+        "name": "Teófilo Otoni",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15319,
+        "name": "Timóteo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15321,
+        "name": "Tiradentes",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15323,
+        "name": "Tiros",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15325,
+        "name": "Tocantins",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15328,
+        "name": "Tocos do Moji",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15330,
+        "name": "Toledo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15333,
+        "name": "Tombos",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15373,
+        "name": "Três Corações",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15378,
+        "name": "Três Marias",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15381,
+        "name": "Três Pontas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15392,
+        "name": "Tumiritinga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15398,
+        "name": "Tupaciguara",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15413,
+        "name": "Turmalina",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15420,
+        "name": "Turvolândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15438,
+        "name": "Ubá",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15431,
+        "name": "Ubaí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15427,
+        "name": "Ubaporanga",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15433,
+        "name": "Uberaba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15434,
+        "name": "Uberlândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15448,
+        "name": "Umburatiba",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15453,
+        "name": "Unaí",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15460,
+        "name": "União de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15470,
+        "name": "Uruana de Minas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15478,
+        "name": "Urucânia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15476,
+        "name": "Urucuia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15508,
+        "name": "Vargem Alegre",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15510,
+        "name": "Vargem Bonita",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15514,
+        "name": "Vargem Grande do Rio Pardo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15517,
+        "name": "Varginha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15520,
+        "name": "Varjão de MInas",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15621,
+        "name": "Várzea da Palma",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15523,
+        "name": "Varzelândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15525,
+        "name": "Vazante",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15540,
+        "name": "Verdelândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15542,
+        "name": "Veredinha",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15547,
+        "name": "Veríssimo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15543,
+        "name": "Vermelho Novo",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15548,
+        "name": "Vespasiano",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15607,
+        "name": "Viçosa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15562,
+        "name": "Vieiras",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15582,
+        "name": "Virgem da Lapa",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15585,
+        "name": "Virgínia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15583,
+        "name": "Virginópolis",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15584,
+        "name": "Virgolândia",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15587,
+        "name": "Visconde do Rio Branco",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15609,
+        "name": "Volta Grande",
+        "country": "BRA",
+        "state": "MG"
+    },
+    {
+        "id": 15628,
+        "name": "Wenceslau Braz",
+        "country": "BRA",
+        "state": "MG"
+    }
+]

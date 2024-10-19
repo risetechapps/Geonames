@@ -1,0 +1,5642 @@
+[
+    {
+        "id": 68023,
+        "name": "Acachuén",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68031,
+        "name": "Acalpican de Morelos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68032,
+        "name": "Acambay",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68054,
+        "name": "Acatzingo (Acatzingo de la Piedra)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68063,
+        "name": "Acolman de Netzahualcóyotl",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68079,
+        "name": "Acuitlapilco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68082,
+        "name": "Aculco de Espinoza",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68104,
+        "name": "Agua Blanca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68107,
+        "name": "Agua Caliente",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68111,
+        "name": "Agua Escondida",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68133,
+        "name": "Ahuacatitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68134,
+        "name": "Ahuacatitlán Cuarto y Quinto Cuartel",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68178,
+        "name": "Alborada Jaltenco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68215,
+        "name": "Almoloya de Alquisiras",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68216,
+        "name": "Almoloya del Río",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68235,
+        "name": "Amanalco de Becerra",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68239,
+        "name": "Amatepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68252,
+        "name": "Amecameca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68260,
+        "name": "Ampliación San Mateo (Colonia Solidaridad)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68261,
+        "name": "Ampliación Tezoyuca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68301,
+        "name": "Apaxco de Ocampo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68334,
+        "name": "Arbolada los Sauces",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68346,
+        "name": "Arenal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68400,
+        "name": "Atenguillo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68407,
+        "name": "Atizapán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68411,
+        "name": "Atlacomulco de Fabela",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68418,
+        "name": "Atlatongo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68419,
+        "name": "Atlautla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68448,
+        "name": "Axapusco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68453,
+        "name": "Axotlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68461,
+        "name": "Ayapango",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68525,
+        "name": "Barrio Bordo Nuevo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68526,
+        "name": "Barrio Chiquichuca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68527,
+        "name": "Barrio Cuarto (La Loma)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68536,
+        "name": "Barrio de Arriba de San Juan Xoconusco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68537,
+        "name": "Barrio de Boyecha",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68538,
+        "name": "Barrio de Canales",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68539,
+        "name": "Barrio de Centro del Cerrillo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68540,
+        "name": "Barrio de Ensido",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68541,
+        "name": "Barrio de España",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68542,
+        "name": "Barrio de Guadalupe",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68544,
+        "name": "Barrio de Jesús Fracción Primera",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68554,
+        "name": "Barrio de la Barranca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68545,
+        "name": "Barrio de México",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68547,
+        "name": "Barrio de Puentecillas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68548,
+        "name": "Barrio de San Isidro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68549,
+        "name": "Barrio de San Juan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68551,
+        "name": "Barrio de San Miguel",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68552,
+        "name": "Barrio de San Pedro la Cabecera",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68553,
+        "name": "Barrio de San Ramón",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68555,
+        "name": "Barrio del Cajón",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68556,
+        "name": "Barrio el Boncho",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68557,
+        "name": "Barrio el Vivero",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68558,
+        "name": "Barrio la Joya",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68559,
+        "name": "Barrio la Tenería",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68560,
+        "name": "Barrio los Tules",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68531,
+        "name": "Barrio San Joaquín el Junco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68532,
+        "name": "Barrio San Miguel Dorami",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68533,
+        "name": "Barrio Santa Cruz",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68534,
+        "name": "Barrio Tepetitlán Emilio Portes Gil",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68535,
+        "name": "Barrio Tlatenco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68571,
+        "name": "Bejucos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68572,
+        "name": "Belem",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68595,
+        "name": "Benito Juárez",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68620,
+        "name": "Bobashi de Guadalupe",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68642,
+        "name": "Boshindó",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68645,
+        "name": "Bosques de la Magdalena",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68670,
+        "name": "Buenavista",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68687,
+        "name": "Buenos Aires",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68701,
+        "name": "Cabecera de Indígenas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68709,
+        "name": "Cacalomacan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68721,
+        "name": "Caja de Agua",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68738,
+        "name": "Calimaya",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68740,
+        "name": "Calixtlahuaca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68750,
+        "name": "Calvario Buenavista",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68751,
+        "name": "Calvario del Carmen",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68876,
+        "name": "Cañada de Cisneros",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68877,
+        "name": "Cañada de Guadarrama",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68783,
+        "name": "Canalejas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68808,
+        "name": "Capula",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68811,
+        "name": "Capulhuac de Mirafuentes",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68815,
+        "name": "Carapán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68849,
+        "name": "Casa Nueva",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68854,
+        "name": "Casas Viejas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68855,
+        "name": "Caserío de Cortés",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68887,
+        "name": "Cedro de la Manzana",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68892,
+        "name": "Celayita",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68919,
+        "name": "Cerritos del Pilar",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68935,
+        "name": "Cerro de San Francisco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68939,
+        "name": "Cerro del Murciélago",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68931,
+        "name": "Cerro La Calera",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68957,
+        "name": "Chalchihuapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68962,
+        "name": "Chalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68963,
+        "name": "Chalma",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68965,
+        "name": "Chalmita",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68977,
+        "name": "Chapa de Mota",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68982,
+        "name": "Chaparaco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 68990,
+        "name": "Chapultepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69013,
+        "name": "Chiautla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69036,
+        "name": "Chicoloapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69040,
+        "name": "Chiconcuac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69066,
+        "name": "Chilchota",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69073,
+        "name": "Chiltepec de Hidalgo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69077,
+        "name": "Chimalpa Viejo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69108,
+        "name": "Chosto de los Jarros",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69165,
+        "name": "Ciudad López Mateos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69173,
+        "name": "Ciudad Nezahualcoyotl",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69203,
+        "name": "Coacalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69221,
+        "name": "Coamilpa de Juárez",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69225,
+        "name": "Coatepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69228,
+        "name": "Coatepec Harinas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69239,
+        "name": "Cocotitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69265,
+        "name": "Colonia 2 de Septiembre",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69268,
+        "name": "Colonia 3 de Mayo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69269,
+        "name": "Colonia 3 de Mayo (La Cruz)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69271,
+        "name": "Colonia Adolfo López Mateos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69277,
+        "name": "Colonia Agrícola Álvaro Obregón",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69274,
+        "name": "Colonia Agrícola Analco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69405,
+        "name": "Colonia Álvaro Obregón",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69281,
+        "name": "Colonia Arboledas (San Andrés)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69282,
+        "name": "Colonia Aviación Autopan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69283,
+        "name": "Colonia Azteca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69284,
+        "name": "Colonia Bellavista",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69290,
+        "name": "Colonia Cuauhtémoc",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69292,
+        "name": "Colonia Doctor Gustavo Baz",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69385,
+        "name": "Colonia el Mirador",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69388,
+        "name": "Colonia el Pirame",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69389,
+        "name": "Colonia el Refugio",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69391,
+        "name": "Colonia el Salado",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69296,
+        "name": "Colonia Emiliano Zapata",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69298,
+        "name": "Colonia Emiliano Zapata Ejido de Tenancingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69306,
+        "name": "Colonia Guadalupe",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69307,
+        "name": "Colonia Guadalupe Victoria",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69308,
+        "name": "Colonia Guadalupe Victoria (La Capilla)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69309,
+        "name": "Colonia Gustavo Baz Prada",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69314,
+        "name": "Colonia Isidro Fabela",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69318,
+        "name": "Colonia Juárez",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69392,
+        "name": "Colonia la Asunción",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69395,
+        "name": "Colonia la Libertad",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69325,
+        "name": "Colonia Lázaro Cárdenas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69326,
+        "name": "Colonia Lázaro Cárdenas (Los Hornos)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69322,
+        "name": "Colonia Lindavista",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69399,
+        "name": "Colonia los Aguiluchos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69400,
+        "name": "Colonia los Cedros",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69402,
+        "name": "Colonia los Remedios",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69333,
+        "name": "Colonia Morelos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69346,
+        "name": "Colonia Palma",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69354,
+        "name": "Colonia Reforma Tlalmimilolpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69357,
+        "name": "Colonia Ricardo Flores Magón",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69359,
+        "name": "Colonia Rincón Villa del Valle",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69360,
+        "name": "Colonia Río Lerma (Tic Ti)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69363,
+        "name": "Colonia San Francisco de Asís",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69368,
+        "name": "Colonia San Ramón",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69373,
+        "name": "Colonia Tulteca Teopan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69379,
+        "name": "Colonia Wenceslao Labra",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69409,
+        "name": "Colorines",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69434,
+        "name": "Concepción Caro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69440,
+        "name": "Concepción del Monte",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69438,
+        "name": "Concepción Jolalpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69442,
+        "name": "Concepción la Venta",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69448,
+        "name": "Conejeras",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69455,
+        "name": "Conjunto Habitacional Ecológico SUTEYM",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69458,
+        "name": "Conjunto Urbano la Loma I",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69467,
+        "name": "Contepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69501,
+        "name": "Coscomate del Progreso",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69521,
+        "name": "Coyotepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69530,
+        "name": "Cozotlán Norte",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69552,
+        "name": "Cuadrilla de Dolores",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69551,
+        "name": "Cuadrilla Vieja",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69590,
+        "name": "Cuautitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69592,
+        "name": "Cuautlacingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69610,
+        "name": "Cuecuecuatitla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69613,
+        "name": "Cuendo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69679,
+        "name": "Denjhi",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69682,
+        "name": "Detiña (San Antonio Detiña)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69688,
+        "name": "Dios Padre",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69702,
+        "name": "Dolores",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69704,
+        "name": "Dolores Hidalgo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69715,
+        "name": "Dongu",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69723,
+        "name": "Dotegiare",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69725,
+        "name": "Doxhicho",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69726,
+        "name": "Doxteje Barrio Primero",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69727,
+        "name": "Doxteje Centro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69752,
+        "name": "Ecatepec de Morelos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69753,
+        "name": "Ecatzingo de Hidalgo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69802,
+        "name": "Ejido de Coscomate del Progreso",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69803,
+        "name": "Ejido de Dolores",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69804,
+        "name": "Ejido de Guadalupe",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69807,
+        "name": "Ejido de la Finca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69805,
+        "name": "Ejido de Mozoquilpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69806,
+        "name": "Ejido de San Mateo Coapexco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69808,
+        "name": "Ejido del Tejocote",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69809,
+        "name": "Ejido del Tunal Nenaxi",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69810,
+        "name": "Ejido el Castillo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69817,
+        "name": "Ejido la Soledad",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69773,
+        "name": "Ejido Loma de Malacota",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69777,
+        "name": "Ejido Miraflores",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69783,
+        "name": "Ejido Palma (Ejido San Francisco)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69788,
+        "name": "Ejido San Cristóbal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69789,
+        "name": "Ejido San Diego",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69791,
+        "name": "Ejido San Lorenzo Cuauhtenco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70266,
+        "name": "El Águila (La Mesa)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69831,
+        "name": "El Arco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69853,
+        "name": "El Cabi",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69875,
+        "name": "El Carmen (El Desierto del Carmen)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69878,
+        "name": "El Carmen Ocotepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69894,
+        "name": "El Cerrillo Vista Hermosa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69895,
+        "name": "El Cerrito",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69914,
+        "name": "El Colorado",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69915,
+        "name": "El Coloso",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69921,
+        "name": "El Contadero de Matamoros",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69941,
+        "name": "El Cóporo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69938,
+        "name": "El Curtidor",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69954,
+        "name": "El Esclavo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69962,
+        "name": "El Espinal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69980,
+        "name": "El Habillal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69982,
+        "name": "El Hielo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 69996,
+        "name": "El Jacal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70025,
+        "name": "El Llano del Compromiso",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70024,
+        "name": "El Llano Santa María",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70030,
+        "name": "El Magueyal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70042,
+        "name": "El Mogote",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70069,
+        "name": "El Obraje",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70070,
+        "name": "El Ocotal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70075,
+        "name": "El Oro de Hidalgo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70077,
+        "name": "El Palacio",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70084,
+        "name": "El Palmito",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70097,
+        "name": "El Pedregal de Guadalupe Hidalgo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70103,
+        "name": "El Pilar",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70104,
+        "name": "El Pino",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70109,
+        "name": "El Plan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70121,
+        "name": "El Porvenir I",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70124,
+        "name": "El Potrero",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70126,
+        "name": "El Potrero de San Diego",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70135,
+        "name": "El Progreso Hidalgo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70140,
+        "name": "El Puerto Magú",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70147,
+        "name": "El Recodo de San José Axalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70164,
+        "name": "El Rincón de la Candelaria",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70165,
+        "name": "El Rincón de los Perales",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70170,
+        "name": "El Rosal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70186,
+        "name": "El Salitre",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70217,
+        "name": "El Tepetatal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70223,
+        "name": "El Terrero",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70286,
+        "name": "Emiliano Zapata",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70292,
+        "name": "Emiliano Zapata (San José Bata)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70293,
+        "name": "Emiliano Zapata (Santo Domingo)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70297,
+        "name": "Emilio Portes Gil",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70312,
+        "name": "Epitacio Huerta",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70376,
+        "name": "Etúcuaro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70382,
+        "name": "Ex-Hacienda de Guadalupe",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70388,
+        "name": "Ex-hacienda de Xalpa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70381,
+        "name": "Ex-Hacienda Santa Inés",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70386,
+        "name": "Ex-Rancho San Dimas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70498,
+        "name": "Fábrica Concepción",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70462,
+        "name": "Fracción San Roque (El Prieto)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70416,
+        "name": "Fraccionamiento Colinas del Sol",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70423,
+        "name": "Fraccionamiento Hacienda del Bosque",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70453,
+        "name": "Fraccionamiento la Trinidad",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70436,
+        "name": "Fraccionamiento Real de San Pablo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70439,
+        "name": "Fraccionamiento Rinconada del Valle",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70460,
+        "name": "Fraccionamiento y Club de Golf los Encinos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70489,
+        "name": "Fresno Nichi",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70496,
+        "name": "Fuentes del Valle",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70507,
+        "name": "Galaxias Toluca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70510,
+        "name": "Galeana",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70519,
+        "name": "Ganzda",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70564,
+        "name": "Granjas Ampliación Santa Rosa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70577,
+        "name": "Guadalupe Buenavista",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70578,
+        "name": "Guadalupe Cachi",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70580,
+        "name": "Guadalupe Coté",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70594,
+        "name": "Guadalupe Totoltepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70637,
+        "name": "Gunyo Poniente (San José Gunyo)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70730,
+        "name": "Huancito",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70761,
+        "name": "Huehuetoca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70768,
+        "name": "Huemetla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70782,
+        "name": "Hueypoxtla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70791,
+        "name": "Huilango",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70814,
+        "name": "Huitzoltepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70818,
+        "name": "Huixquilucan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70819,
+        "name": "Huixquilucan de Degollado",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70836,
+        "name": "Ignacio Allende",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70929,
+        "name": "Ixtapaluca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70931,
+        "name": "Ixtapan de la Sal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70932,
+        "name": "Ixtapan del Oro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70940,
+        "name": "Ixtlahuaca de Cuauhtémoc",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70941,
+        "name": "Ixtlahuaca de Rayón",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70960,
+        "name": "Jacona de Plancarte",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70974,
+        "name": "Jalmolonga (La Hacienda)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70978,
+        "name": "Jalpa de los Baños",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70984,
+        "name": "Jaltenco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 70999,
+        "name": "Janambo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71000,
+        "name": "Janamuato",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71023,
+        "name": "Jesús Carranza (Rancho de Jesús)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71036,
+        "name": "Jesús del Monte",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71027,
+        "name": "Jesús María",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71039,
+        "name": "Jicaltepec Autopan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71040,
+        "name": "Jicaltepec Cuexcontitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71045,
+        "name": "Jilotepec de Molina Enríquez",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71046,
+        "name": "Jilotzingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71056,
+        "name": "Jiquipilco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71067,
+        "name": "Jocotitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71083,
+        "name": "Joquicingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71084,
+        "name": "Jorge Jiménez Cantú",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71085,
+        "name": "Jorobas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71132,
+        "name": "Juchitepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71169,
+        "name": "La Albarrada (San Francisco la Albarrada)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71187,
+        "name": "La Cabecera",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71188,
+        "name": "La Cabecera Concepción",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71192,
+        "name": "La Calle",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71194,
+        "name": "La Campanilla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71207,
+        "name": "La Cañada",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71198,
+        "name": "La Candelaria Tlapala",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71199,
+        "name": "La Cantera",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71204,
+        "name": "La Caridad",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71217,
+        "name": "La Ciénega",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71220,
+        "name": "La Colonia",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71225,
+        "name": "La Compañía",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71227,
+        "name": "La Comunidad",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71233,
+        "name": "La Concepción",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71235,
+        "name": "La Concepción Coatipac (La Conchita)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71238,
+        "name": "La Concepción de Hidalgo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71239,
+        "name": "La Concepción de los Baños",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71236,
+        "name": "La Concepción Enyege",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71237,
+        "name": "La Concepción Xochicuautla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71245,
+        "name": "La Constitución Toltepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71253,
+        "name": "La Cruz y Carrizal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71270,
+        "name": "La Esperanza",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71283,
+        "name": "La Estancia Sector Uno (La Estancia)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71290,
+        "name": "La Finca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71303,
+        "name": "La Glorieta",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71309,
+        "name": "La Guadalupana",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71315,
+        "name": "La Herradura",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71333,
+        "name": "La Joya",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71365,
+        "name": "La Loma",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71368,
+        "name": "La Loma Cuexcontitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71381,
+        "name": "La Magdalena",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71382,
+        "name": "La Magdalena Chichicaspa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71387,
+        "name": "La Magdalena de los Reyes (La Magdalena)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71383,
+        "name": "La Magdalena Tenexpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71389,
+        "name": "La Mesa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71392,
+        "name": "La Mesa de Chosto",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71433,
+        "name": "La Pastoría",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71451,
+        "name": "La Planada",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71452,
+        "name": "La Planada (El Arenal)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71459,
+        "name": "La Presita Segundo Cuartel",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71462,
+        "name": "La Providencia",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71466,
+        "name": "La Puerta del Pilar",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71468,
+        "name": "La Purificación",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71480,
+        "name": "La Rosa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71496,
+        "name": "La Soledad Barrio",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71510,
+        "name": "La Trinidad",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71536,
+        "name": "La Y",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71555,
+        "name": "Laguna de Tabernillas (El Resbaloso)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71604,
+        "name": "Las Huertas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71615,
+        "name": "Las Manzanas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71631,
+        "name": "Las Peñas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71633,
+        "name": "Las Pintas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71636,
+        "name": "Las Ranas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71638,
+        "name": "Las Rosas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71664,
+        "name": "Lerma de Villada",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71695,
+        "name": "Llano de la Y",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71696,
+        "name": "Llano de las Flores (Barrio del Hueso)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71692,
+        "name": "Llano de Zacapexco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71684,
+        "name": "Llano Grande",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71708,
+        "name": "Loma Alta",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71710,
+        "name": "Loma Alta Taxhimay",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71716,
+        "name": "Loma Bonita",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71726,
+        "name": "Loma de Guadalupe (La Biznaga)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71728,
+        "name": "Loma de Juárez",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71729,
+        "name": "Loma de San Francisco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71730,
+        "name": "Loma de San José",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71731,
+        "name": "Loma de San Miguel",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71739,
+        "name": "Loma del Río",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71720,
+        "name": "Loma Larga",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71721,
+        "name": "Loma Larga (Barrio de Loma Larga)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71744,
+        "name": "Lomas de Altavista",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71751,
+        "name": "Lomas de San Pablo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71752,
+        "name": "Lomas de San Sebastián",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71755,
+        "name": "Lomas de Tenopalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71771,
+        "name": "Los Arana",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71780,
+        "name": "Los Berros",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71807,
+        "name": "Los Hucuares",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71823,
+        "name": "Los Nogales",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71842,
+        "name": "Los Remedios",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71844,
+        "name": "Los Reyes",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71847,
+        "name": "Los Reyes Acaquilpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71848,
+        "name": "Los Reyes Acatlixhuayán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71861,
+        "name": "Los Saucos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71884,
+        "name": "Luvianos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71922,
+        "name": "Magdalena Atlicpac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71945,
+        "name": "Malinalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71957,
+        "name": "Manto del Río Ejido",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71969,
+        "name": "Manzana Quinta (La Cañada)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71970,
+        "name": "Manzana Segunda",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71971,
+        "name": "Manzana Sexta Parte Centro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 71972,
+        "name": "Manzana Tercera de Santa Cruz Tepexpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72025,
+        "name": "Mavoro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72028,
+        "name": "Maxtleca de Galeana",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72034,
+        "name": "Mayorazgo de León",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72069,
+        "name": "Melchor Ocampo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72088,
+        "name": "Metepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72100,
+        "name": "Mexicaltzingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72103,
+        "name": "Mextepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72104,
+        "name": "Mezapa la Fábrica",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72142,
+        "name": "Mina México",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72143,
+        "name": "Mina Vieja",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72152,
+        "name": "Miraflores",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72183,
+        "name": "Molino Abajo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72198,
+        "name": "Monte Calvario",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72210,
+        "name": "Montecillo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72233,
+        "name": "Morelos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72290,
+        "name": "Naucalpan de Juárez",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72311,
+        "name": "Nepantla de Sor Juana Inés de la Cruz",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72327,
+        "name": "Nicolás Romero",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72347,
+        "name": "Nopaltepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72358,
+        "name": "Nueva Ameyalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72374,
+        "name": "Nueva Santa Rosa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72449,
+        "name": "Ocopulco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72463,
+        "name": "Ocoyoacac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72468,
+        "name": "Octeyuco Dos Mil",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72470,
+        "name": "Ocuilan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72471,
+        "name": "Ocuilan de Arteaga",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72474,
+        "name": "Ocumicho",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72485,
+        "name": "Ojo de Agua",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72542,
+        "name": "Otumba",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72543,
+        "name": "Otzoloapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72544,
+        "name": "Otzolotepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72554,
+        "name": "Oxtotipac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72560,
+        "name": "Ozumba de Alzate",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72583,
+        "name": "Palizada",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72588,
+        "name": "Palmar Chico",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72600,
+        "name": "Palmillas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72615,
+        "name": "Palos Amarillos (Palos Amarillos Yebuciví)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72633,
+        "name": "Papalotla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72647,
+        "name": "Paraje el Mirador",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72648,
+        "name": "Paraje la Pera",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72646,
+        "name": "Paraje Trejo (El Chaparral)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72669,
+        "name": "Paseos de San Juan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72706,
+        "name": "Pathé",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72809,
+        "name": "Playa Azul",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72817,
+        "name": "Plaza Nueva",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72843,
+        "name": "Polígonos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72838,
+        "name": "Polotitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72839,
+        "name": "Polotitlán de la Ilustración",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72841,
+        "name": "Polvillos (San Bartolo Quinta Sección)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72849,
+        "name": "Popo Park",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72852,
+        "name": "Porfirío Díaz",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72860,
+        "name": "Pothé",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72868,
+        "name": "Potreros",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72881,
+        "name": "Prados de San Juan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72880,
+        "name": "Prados San Francisco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72897,
+        "name": "Primera de Analco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72906,
+        "name": "Profesor Carlos Hank González",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72917,
+        "name": "Progreso Industrial",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72939,
+        "name": "Pueblo Nuevo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72944,
+        "name": "Pueblo Nuevo Tlalmimilolpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72958,
+        "name": "Puentecillas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72969,
+        "name": "Puerto Escondido (Tepeolulco Puerto Escondido)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 72994,
+        "name": "Purísima Concepción Mayorazgo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73029,
+        "name": "Quetzalapa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73039,
+        "name": "Quinto Barrio (Ejido Cahuacán)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73055,
+        "name": "Rancho Alegre",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73121,
+        "name": "Rincón de Aguirre",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73127,
+        "name": "Rincón de Guadalupe",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73129,
+        "name": "Rincón de Jaimes",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73135,
+        "name": "Rincón de los Pirules",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73120,
+        "name": "Rincón Verde",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73174,
+        "name": "Río Frío de Juárez",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73218,
+        "name": "Salitrillo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73238,
+        "name": "San Agustín",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73243,
+        "name": "San Agustín Berros",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73244,
+        "name": "San Agustín Buenavista",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73246,
+        "name": "San Agustín Citlali",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73260,
+        "name": "San Agustín de las Palmas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73248,
+        "name": "San Agustín Huitzizilapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73251,
+        "name": "San Agustín Mextepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73252,
+        "name": "San Agustín Mimbres",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73264,
+        "name": "San Alejo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73307,
+        "name": "San Andrés de las Peras",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73308,
+        "name": "San Andrés de los Gama",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73309,
+        "name": "San Andrés del Pedregal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73285,
+        "name": "San Andrés Metla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73287,
+        "name": "San Andrés Nicolás Bravo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73288,
+        "name": "San Andrés Ocotepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73297,
+        "name": "San Andrés Tepetitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73298,
+        "name": "San Andrés Timilpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73299,
+        "name": "San Andrés Tlalamac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73319,
+        "name": "San Antonio Acahualco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73323,
+        "name": "San Antonio Bonixi",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73324,
+        "name": "San Antonio Buenavista",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73369,
+        "name": "San Antonio de la Laguna",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73371,
+        "name": "San Antonio de las Huertas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73373,
+        "name": "San Antonio de las Palmas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73382,
+        "name": "San Antonio del Rosario",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73385,
+        "name": "San Antonio el Llanito",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73333,
+        "name": "San Antonio Enchisi",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73335,
+        "name": "San Antonio Guaracha",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73388,
+        "name": "San Antonio la Isla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73341,
+        "name": "San Antonio Nixini",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73349,
+        "name": "San Antonio Solís",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73357,
+        "name": "San Antonio Tlaltecahuacán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73361,
+        "name": "San Antonio Xahuento",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73398,
+        "name": "San Bartolito Tlaltelolco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73399,
+        "name": "San Bartolo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73403,
+        "name": "San Bartolo Cuautlalpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73412,
+        "name": "San Bartolo del Llano",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73413,
+        "name": "San Bartolo del Llano (San Isidro)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73414,
+        "name": "San Bartolo del Progreso",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73415,
+        "name": "San Bartolo el Viejo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73405,
+        "name": "San Bartolo Lanzados",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73406,
+        "name": "San Bartolo Morelos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73407,
+        "name": "San Bartolo Oxtotitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73418,
+        "name": "San Bartolomé",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73420,
+        "name": "San Bartolomé Atlatlahuca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73422,
+        "name": "San Bartolomé Coatepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73434,
+        "name": "San Bernardino",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73443,
+        "name": "San Bernardo Tlalmimilolpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73452,
+        "name": "San Buenaventura",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73462,
+        "name": "San Carlos Autopan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73481,
+        "name": "San Cristóbal Nexquipayac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73491,
+        "name": "San Diego",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73497,
+        "name": "San Diego del Cerrito",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73493,
+        "name": "San Diego Huehuecalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73499,
+        "name": "San Diego la Huerta",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73501,
+        "name": "San Diego los Padres Cuexcontitlán Sección 5 B",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73515,
+        "name": "San Felipe Coamango",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73531,
+        "name": "San Felipe del Progreso",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73532,
+        "name": "San Felipe el Mirasol",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73520,
+        "name": "San Felipe Pueblo Nuevo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73522,
+        "name": "San Felipe Santiago",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73527,
+        "name": "San Felipe Tlalmimilolpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73545,
+        "name": "San Francisco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73549,
+        "name": "San Francisco Acuautla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73551,
+        "name": "San Francisco Ayotuzco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73553,
+        "name": "San Francisco Chalchihuapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73554,
+        "name": "San Francisco Chejé",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73561,
+        "name": "San Francisco Cuaxusco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73612,
+        "name": "San Francisco de Guzmán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73577,
+        "name": "San Francisco Magú",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73578,
+        "name": "San Francisco Mazapa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73579,
+        "name": "San Francisco Mihualtepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73583,
+        "name": "San Francisco Oxtotilpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73589,
+        "name": "San Francisco Putla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73591,
+        "name": "San Francisco Solis",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73595,
+        "name": "San Francisco Tenopalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73596,
+        "name": "San Francisco Tepeolulco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73597,
+        "name": "San Francisco Tepexoxica",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73601,
+        "name": "San Francisco Tlalcilalcalpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73602,
+        "name": "San Francisco Tlaltica",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73605,
+        "name": "San Francisco Xochicuautla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73628,
+        "name": "San Gabriel Ixtla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73631,
+        "name": "San Gabriel Zepayautla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73634,
+        "name": "San Gaspar",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73636,
+        "name": "San Gaspar Tonatico",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73644,
+        "name": "San Gregorio Cuautzingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73657,
+        "name": "San Ildefonso",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73668,
+        "name": "San Isidro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73672,
+        "name": "San Isidro (El Reservado)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73675,
+        "name": "San Isidro Boxipe",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73692,
+        "name": "San Jacinto",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73700,
+        "name": "San Jerónimo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73703,
+        "name": "San Jerónimo Amanalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73705,
+        "name": "San Jerónimo Bonchete",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73710,
+        "name": "San Jerónimo Cuatro Vientos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73726,
+        "name": "San Jerónimo de los Jarros",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73711,
+        "name": "San Jerónimo Ixtapantongo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73719,
+        "name": "San Jerónimo Totoltepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73729,
+        "name": "San Joaquín Coapango",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73730,
+        "name": "San Joaquín del Monte",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73732,
+        "name": "San Jorge Pueblo Nuevo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73746,
+        "name": "San José Barbabosa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73747,
+        "name": "San José Boqui",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73755,
+        "name": "San José Chalmita",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73838,
+        "name": "San José del Progreso",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73840,
+        "name": "San José del Puente",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73841,
+        "name": "San José del Rincón Centro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73843,
+        "name": "San José del Sitio",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73846,
+        "name": "San José del Tunal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73848,
+        "name": "San José el Cuartel",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73852,
+        "name": "San José el Vidrio",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73765,
+        "name": "San José Guadalupe Otzacatipan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73856,
+        "name": "San José las Lomas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73857,
+        "name": "San José las Palmas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73774,
+        "name": "San José Mezapa Sección I",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73779,
+        "name": "San José Pathé",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73785,
+        "name": "San José Tejamanil",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73789,
+        "name": "San José Tenería (Tenería)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73794,
+        "name": "San José Tlacotitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73796,
+        "name": "San José Toxi",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73799,
+        "name": "San José Villa de Allende",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73859,
+        "name": "San Juan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73867,
+        "name": "San Juan Atezcapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73879,
+        "name": "San Juan Coajomulco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73883,
+        "name": "San Juan Cote Ejido",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73885,
+        "name": "San Juan Coxtocan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73888,
+        "name": "San Juan Daxthi",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73967,
+        "name": "San Juan de las Huertas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73968,
+        "name": "San Juan de las Manzanas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73970,
+        "name": "San Juan de los Jarros",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73901,
+        "name": "San Juan Jalpa Centro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73928,
+        "name": "San Juan Tehuixtitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73933,
+        "name": "San Juan Tepecoculco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73942,
+        "name": "San Juan Tlacotompa (Tlacotompa)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73943,
+        "name": "San Juan Tomasquillo Herradura",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73944,
+        "name": "San Juan Totolapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73947,
+        "name": "San Juan Tuxtepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73951,
+        "name": "San Juan Xoconusco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73979,
+        "name": "San Juan y San Pedro Tezompa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 73981,
+        "name": "San Juanico Sector Uno",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74003,
+        "name": "San Lorenzo Huehuetitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74006,
+        "name": "San Lorenzo Malacota",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74013,
+        "name": "San Lorenzo Tlacotepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74015,
+        "name": "San Lorenzo Tlalmimilolpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74017,
+        "name": "San Lorenzo Toxico",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74024,
+        "name": "San Lucas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74025,
+        "name": "San Lucas Amalinalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74039,
+        "name": "San Lucas del Pulque",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74029,
+        "name": "San Lucas Huitzilhuacán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74030,
+        "name": "San Lucas Ocotepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74035,
+        "name": "San Lucas Texcaltitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74037,
+        "name": "San Lucas Totolmaloya",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74046,
+        "name": "San Luis Anáhuac (Toriles)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74049,
+        "name": "San Luis Boro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74054,
+        "name": "San Luis Taxhimay",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74081,
+        "name": "San Marcos de la Loma",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74072,
+        "name": "San Marcos Huixtoco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74073,
+        "name": "San Marcos Nepantla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74074,
+        "name": "San Marcos Tecomaxusco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74076,
+        "name": "San Marcos Tlazalpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74077,
+        "name": "San Marcos Yachihuacaltepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74086,
+        "name": "San Martín",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74088,
+        "name": "San Martín Ahuatepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74089,
+        "name": "San Martín Azcatepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74090,
+        "name": "San Martín Cachihuapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74093,
+        "name": "San Martín Coapaxtongo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74094,
+        "name": "San Martín Cuautlalpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74113,
+        "name": "San Martín de las Pirámides",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74095,
+        "name": "San Martín Ejido",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74101,
+        "name": "San Martín Obispo (San Martín San Pedro)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74105,
+        "name": "San Martín Tequesquipan (Tequesquipan)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74110,
+        "name": "San Martín Toltepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74112,
+        "name": "San Martín Tuchicuitlapilco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74116,
+        "name": "San Mateo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74117,
+        "name": "San Mateo Almomoloha",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74119,
+        "name": "San Mateo Atenco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74122,
+        "name": "San Mateo Capulhuac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74124,
+        "name": "San Mateo Coapexco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74143,
+        "name": "San Mateo el Viejo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74126,
+        "name": "San Mateo Huitzilzingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74127,
+        "name": "San Mateo Ixtacalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74128,
+        "name": "San Mateo Ixtlahuaca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74129,
+        "name": "San Mateo Mozoquilpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74137,
+        "name": "San Mateo Tecalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74138,
+        "name": "San Mateo Texcalyacac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74139,
+        "name": "San Mateo Tlalchichilpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74140,
+        "name": "San Mateo Xoloc",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74146,
+        "name": "San Matías Cuijingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74149,
+        "name": "San Miguel",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74155,
+        "name": "San Miguel Agua Bendita",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74159,
+        "name": "San Miguel Almoloyan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74165,
+        "name": "San Miguel Atlamajac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74172,
+        "name": "San Miguel Coatlinchán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74234,
+        "name": "San Miguel del Centro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74177,
+        "name": "San Miguel Enyege",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74181,
+        "name": "San Miguel Hila",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74183,
+        "name": "San Miguel Ixtapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74184,
+        "name": "San Miguel Jaltocan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74185,
+        "name": "San Miguel Laderas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74187,
+        "name": "San Miguel Mimlapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74192,
+        "name": "San Miguel Oxtotilpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74199,
+        "name": "San Miguel Tecomatlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74200,
+        "name": "San Miguel Tecpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74206,
+        "name": "San Miguel Tenochtitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74213,
+        "name": "San Miguel Tlaixpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74217,
+        "name": "San Miguel Totocuitlapilco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74222,
+        "name": "San Miguel Xoltepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74224,
+        "name": "San Miguel Yuxtepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74252,
+        "name": "San Nicolás",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74253,
+        "name": "San Nicolás Amealco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74277,
+        "name": "San Nicolás el Oro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74256,
+        "name": "San Nicolás Guadalupe",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74266,
+        "name": "San Nicolás Tolentino",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74282,
+        "name": "San Pablo Atlazalpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74283,
+        "name": "San Pablo Atotonilco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74304,
+        "name": "San Pablo de las Salinas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74306,
+        "name": "San Pablo de los Gallos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74307,
+        "name": "San Pablo de los Remedios",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74291,
+        "name": "San Pablo Huantepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74294,
+        "name": "San Pablo Ixayoc",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74295,
+        "name": "San Pablo Ixquitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74300,
+        "name": "San Pablo Tecalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74301,
+        "name": "San Pablo Tejalpa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74310,
+        "name": "San Pedro Abajo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74314,
+        "name": "San Pedro Arriba",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74315,
+        "name": "San Pedro Arriba 3ra. Sección",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74323,
+        "name": "San Pedro Chiautzingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74326,
+        "name": "San Pedro Cholula",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74406,
+        "name": "San Pedro de la Hortaliza (Ejido Almoloyán)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74407,
+        "name": "San Pedro de los Baños",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74408,
+        "name": "San Pedro de los Metates",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74412,
+        "name": "San Pedro del Rincón",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74413,
+        "name": "San Pedro del Rosal",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74333,
+        "name": "San Pedro Denxhi Centro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74414,
+        "name": "San Pedro el Alto",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74342,
+        "name": "San Pedro Huitzizilapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74350,
+        "name": "San Pedro Limón",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74351,
+        "name": "San Pedro Los Baños",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74361,
+        "name": "San Pedro Nexapa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74373,
+        "name": "San Pedro Tarímbaro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74376,
+        "name": "San Pedro Tejalpa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74379,
+        "name": "San Pedro Tenayac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74380,
+        "name": "San Pedro Tepetitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74424,
+        "name": "San Rafael",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74441,
+        "name": "San Roque",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74446,
+        "name": "San Salvador Atenco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74449,
+        "name": "San Salvador Tizatlalli",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74457,
+        "name": "San Sebastián",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74460,
+        "name": "San Sebastián Buenos Aires",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74461,
+        "name": "San Sebastián Chimalpa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74474,
+        "name": "San Sebastián Xolalpa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74487,
+        "name": "San Simón de Guerrero",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74488,
+        "name": "San Simón de la Laguna",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74489,
+        "name": "San Simón el Alto",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74481,
+        "name": "San Simonito",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74495,
+        "name": "San Vicente (Calpulalpan Tercera Manzana)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74497,
+        "name": "San Vicente Chimalhuacán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74515,
+        "name": "Sanata Lucía",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74522,
+        "name": "Santa Ana",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74535,
+        "name": "Santa Ana Ixtlahuaca (Santa Ana Ixtlahuacingo)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74536,
+        "name": "Santa Ana Ixtlahuatzingo (Santa Ana)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74537,
+        "name": "Santa Ana Jilotzingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74557,
+        "name": "Santa Ana la Ladera",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74540,
+        "name": "Santa Ana Mayorazgo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74542,
+        "name": "Santa Ana Nextlalpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74543,
+        "name": "Santa Ana Nichi Ejido",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74551,
+        "name": "Santa Ana Zicatecoyan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74576,
+        "name": "Santa Catarina",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74581,
+        "name": "Santa Catarina Ayotzingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74594,
+        "name": "Santa Catarina del Monte",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74602,
+        "name": "Santa Clara de Juárez",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74609,
+        "name": "Santa Cruz",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74618,
+        "name": "Santa Cruz Atizapán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74620,
+        "name": "Santa Cruz Bombatevi",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74621,
+        "name": "Santa Cruz Cuauhtenco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74650,
+        "name": "Santa Cruz del Monte",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74626,
+        "name": "Santa Cruz Huitzizilapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74629,
+        "name": "Santa Cruz Mextepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74638,
+        "name": "Santa Cruz Pueblo Nuevo (Pueblo Nuevo)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74665,
+        "name": "Santa Gertrudis",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74676,
+        "name": "Santa Isabel Chalma",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74678,
+        "name": "Santa Isabel Ixtapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74682,
+        "name": "Santa Juana Centro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74683,
+        "name": "Santa Juana Primera Sección",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74686,
+        "name": "Santa Lucía",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74702,
+        "name": "Santa María",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74708,
+        "name": "Santa María Ajoloapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74714,
+        "name": "Santa María Aranzazú (Santa María)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74723,
+        "name": "Santa María Canchesdá",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74728,
+        "name": "Santa María Chimalhuacán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74729,
+        "name": "Santa María Citendejé",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74733,
+        "name": "Santa María Cuevas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74805,
+        "name": "Santa María de Guadalupe",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74811,
+        "name": "Santa María del Llano",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74813,
+        "name": "Santa María del Monte",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74735,
+        "name": "Santa María Endare",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74742,
+        "name": "Santa María Huecatitla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74743,
+        "name": "Santa María Huexoculco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74750,
+        "name": "Santa María Jajalpa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74822,
+        "name": "Santa María la Asunción",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74756,
+        "name": "Santa María Magdalena Cahuacán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74759,
+        "name": "Santa María Mazatla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74762,
+        "name": "Santa María Nativitas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74767,
+        "name": "Santa María Palapa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74769,
+        "name": "Santa María Pipioltepec (Pipioltepec)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74774,
+        "name": "Santa María Rayón",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74778,
+        "name": "Santa María Tecuanulco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74787,
+        "name": "Santa María Tlalmimilolpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74789,
+        "name": "Santa María Totoltepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74803,
+        "name": "Santa María Zolotepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74699,
+        "name": "Santa Martha",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74827,
+        "name": "Santa Mónica",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74849,
+        "name": "Santa Rosa de Lima",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74861,
+        "name": "Santa Teresa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74874,
+        "name": "Santiago Acutzilapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74886,
+        "name": "Santiago Casandeje",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74890,
+        "name": "Santiago Chimalpa (Chimalpa)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74892,
+        "name": "Santiago Citendejé",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74893,
+        "name": "Santiago Coachochitlan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74897,
+        "name": "Santiago Cuautenco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74898,
+        "name": "Santiago Cuautlalpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74987,
+        "name": "Santiago del Monte",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74904,
+        "name": "Santiago Huitlapaltepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74920,
+        "name": "Santiago Mamalhuazuca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74932,
+        "name": "Santiago Oxtempan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74934,
+        "name": "Santiago Oxtotitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74942,
+        "name": "Santiago Tejocotillos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74947,
+        "name": "Santiago Tepetitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74950,
+        "name": "Santiago Tepopula",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74954,
+        "name": "Santiago Teyahualco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74956,
+        "name": "Santiago Tianguistenco de Galeana",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74961,
+        "name": "Santiago Tlacotepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74966,
+        "name": "Santiago Tolman",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74974,
+        "name": "Santiago Yancuitlalpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74975,
+        "name": "Santiago Yeché",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74980,
+        "name": "Santiago Zacualuca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 74991,
+        "name": "Santiaguito Tlalcilalcalli",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75017,
+        "name": "Santo Domingo de Guzmán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75008,
+        "name": "Santo Domingo Shomege (Shomege)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75023,
+        "name": "Santo Tomás",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75025,
+        "name": "Santo Tomás Atzingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75027,
+        "name": "Santo Tomás Chiconautla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75033,
+        "name": "Santo Tomás de los Plátanos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75050,
+        "name": "Sebastián Lerdo de Tejada",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75053,
+        "name": "Sección del Cerrito",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75075,
+        "name": "Sierra de Guadalupe",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75101,
+        "name": "Sitio Ejido",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75110,
+        "name": "Solalpan 1ra. Sección",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75130,
+        "name": "Soyaniquilpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75146,
+        "name": "Sultepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75197,
+        "name": "Tamándaro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75201,
+        "name": "Tanaquillo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75209,
+        "name": "Tangancícuaro de Arista",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75234,
+        "name": "Tarécuato",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75294,
+        "name": "Tecámac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75295,
+        "name": "Tecámac de Felipe Villanueva",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75264,
+        "name": "Tecamachalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75269,
+        "name": "Tecaxic",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75270,
+        "name": "Techachaltitla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75271,
+        "name": "Techichili",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75272,
+        "name": "Tecoac (Santa María Nativitas)",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75280,
+        "name": "Tecomatepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75303,
+        "name": "Tejalpa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75306,
+        "name": "Tejupilco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75307,
+        "name": "Tejupilco de Hidalgo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75326,
+        "name": "Temamatla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75330,
+        "name": "Temascalapa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75331,
+        "name": "Temascalcingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75332,
+        "name": "Temascaltepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75333,
+        "name": "Temascaltepec de González",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75339,
+        "name": "Temoaya",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75349,
+        "name": "Tenancingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75350,
+        "name": "Tenancingo de Degollado",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75354,
+        "name": "Tenango de Arista",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75357,
+        "name": "Tenango del Aire",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75361,
+        "name": "Tenería",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75366,
+        "name": "Tengüecho",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75368,
+        "name": "Tenjay",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75378,
+        "name": "Teoloyucan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75382,
+        "name": "Teotihuacán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75383,
+        "name": "Teotihuacán de Arista",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75392,
+        "name": "Tepalcatepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75419,
+        "name": "Tepetitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75425,
+        "name": "Tepetlaoxtoc",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75426,
+        "name": "Tepetlaoxtoc de Hidalgo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75428,
+        "name": "Tepetlixpa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75431,
+        "name": "Tepetongo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75434,
+        "name": "Tepetzingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75441,
+        "name": "Tepexpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75450,
+        "name": "Tepotzotlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75451,
+        "name": "Tepoxtepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75457,
+        "name": "Tequexquináhuac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75461,
+        "name": "Tequisistlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75462,
+        "name": "Tequisistlán Primero",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75465,
+        "name": "Tequixquiac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75466,
+        "name": "Tercera Manzana de Zaragoza",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75467,
+        "name": "Teremendo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75507,
+        "name": "Texcaltitlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75509,
+        "name": "Texcalyacac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75511,
+        "name": "Texcapilla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75515,
+        "name": "Texcoco de Mora",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75533,
+        "name": "Tezoyuca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75546,
+        "name": "Tierra Blanca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75571,
+        "name": "Timilpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75589,
+        "name": "Tixmadeje Chiquito",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75612,
+        "name": "Tlacomulco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75642,
+        "name": "Tlalmanalco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75645,
+        "name": "Tlalnepantla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75648,
+        "name": "Tlalnepantla de Baz",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75651,
+        "name": "Tlaltecahuacán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75666,
+        "name": "Tlaminca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75690,
+        "name": "Tlatlaya",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75707,
+        "name": "Tlazala de Fabela",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75708,
+        "name": "Tlazazalca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75723,
+        "name": "Toluca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75740,
+        "name": "Tonanitla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75741,
+        "name": "Tonatico",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75753,
+        "name": "Totolmajac",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75765,
+        "name": "Transfiguración",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75772,
+        "name": "Tres Estrellas",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75775,
+        "name": "Tres Mezquites",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75794,
+        "name": "Tulantongo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75802,
+        "name": "Tultepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75803,
+        "name": "Tultitlán de Mariano Escobedo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75813,
+        "name": "Tupátaro",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75814,
+        "name": "Turcio Segunda Sección",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75868,
+        "name": "Unidad Acaquilpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75875,
+        "name": "Unidad Habitacional Santa Teresa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75877,
+        "name": "Unidad San Miguel Jagüeyes",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75900,
+        "name": "Urén",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75921,
+        "name": "Valle de Bravo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75937,
+        "name": "Vare Chiquichuca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75948,
+        "name": "Veintidós de Febrero",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75954,
+        "name": "Venta de Bravo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75955,
+        "name": "Venta de Ocotillos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 75997,
+        "name": "Villa Cuauhtémoc",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76060,
+        "name": "Villa de Almoloya de Juárez",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76073,
+        "name": "Villa del Carbón",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76005,
+        "name": "Villa Guerrero",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76027,
+        "name": "Villa Luvianos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76036,
+        "name": "Villa Morelos",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76048,
+        "name": "Villa URBI del Rey",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76056,
+        "name": "Villa Victoria",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76076,
+        "name": "Villachuato",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76089,
+        "name": "Villas de la Laguna",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76091,
+        "name": "Villas del Campo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76093,
+        "name": "Vista Hermosa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76114,
+        "name": "Xalatlaco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76132,
+        "name": "Xhimojay",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76133,
+        "name": "Xhitey",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76134,
+        "name": "Xhixhata",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76136,
+        "name": "Xico",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76165,
+        "name": "Xochimanca",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76186,
+        "name": "Xocotlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76193,
+        "name": "Xometla",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76194,
+        "name": "Xonacatlan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76257,
+        "name": "Zacamulpa",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76259,
+        "name": "Zacamulpa Tlalmimilolpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76260,
+        "name": "Zacango",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76280,
+        "name": "Zacazonapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76283,
+        "name": "Zacualpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76311,
+        "name": "Zapotlán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76330,
+        "name": "Zentlalpan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76339,
+        "name": "Zinacantepec",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76344,
+        "name": "Zipiajo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76365,
+        "name": "Zopoco",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76367,
+        "name": "Zoquiapan",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76379,
+        "name": "Zoyatzingo",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76383,
+        "name": "Zula",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76384,
+        "name": "Zumpahuacán",
+        "country": "MEX",
+        "state": "MEX"
+    },
+    {
+        "id": 76385,
+        "name": "Zumpango",
+        "country": "MEX",
+        "state": "MEX"
+    }
+]

@@ -1,0 +1,530 @@
+[
+    {
+        "id": 5134,
+        "name": "Adjuntas",
+        "country": "PRI",
+        "state": "001"
+    },
+    {
+        "id": 5135,
+        "name": "Aguada",
+        "country": "PRI",
+        "state": "003"
+    },
+    {
+        "id": 5136,
+        "name": "Aguadilla",
+        "country": "PRI",
+        "state": "005"
+    },
+    {
+        "id": 5137,
+        "name": "Aguas Buenas",
+        "country": "PRI",
+        "state": "007"
+    },
+    {
+        "id": 5138,
+        "name": "Aibonito",
+        "country": "PRI",
+        "state": "009"
+    },
+    {
+        "id": 5139,
+        "name": "Añasco",
+        "country": "PRI",
+        "state": "011"
+    },
+    {
+        "id": 5140,
+        "name": "Arecibo",
+        "country": "PRI",
+        "state": "013"
+    },
+    {
+        "id": 5081,
+        "name": "Arecibo",
+        "country": "PRI",
+        "state": "AR"
+    },
+    {
+        "id": 5141,
+        "name": "Arroyo",
+        "country": "PRI",
+        "state": "015"
+    },
+    {
+        "id": 5142,
+        "name": "Barceloneta",
+        "country": "PRI",
+        "state": "017"
+    },
+    {
+        "id": 5143,
+        "name": "Barranquitas",
+        "country": "PRI",
+        "state": "019"
+    },
+    {
+        "id": 5076,
+        "name": "Bayamon",
+        "country": "PRI",
+        "state": "BY"
+    },
+    {
+        "id": 5144,
+        "name": "Bayamón",
+        "country": "PRI",
+        "state": "021"
+    },
+    {
+        "id": 5145,
+        "name": "Cabo Rojo",
+        "country": "PRI",
+        "state": "023"
+    },
+    {
+        "id": 5079,
+        "name": "Caguas",
+        "country": "PRI",
+        "state": "CG"
+    },
+    {
+        "id": 5146,
+        "name": "Caguas",
+        "country": "PRI",
+        "state": "025"
+    },
+    {
+        "id": 5147,
+        "name": "Camuy",
+        "country": "PRI",
+        "state": "027"
+    },
+    {
+        "id": 5148,
+        "name": "Canóvanas",
+        "country": "PRI",
+        "state": "029"
+    },
+    {
+        "id": 5077,
+        "name": "Carolina",
+        "country": "PRI",
+        "state": "CL"
+    },
+    {
+        "id": 5149,
+        "name": "Carolina",
+        "country": "PRI",
+        "state": "031"
+    },
+    {
+        "id": 5150,
+        "name": "Cataño",
+        "country": "PRI",
+        "state": "033"
+    },
+    {
+        "id": 5151,
+        "name": "Cayey",
+        "country": "PRI",
+        "state": "035"
+    },
+    {
+        "id": 5152,
+        "name": "Ceiba",
+        "country": "PRI",
+        "state": "037"
+    },
+    {
+        "id": 5153,
+        "name": "Ciales",
+        "country": "PRI",
+        "state": "039"
+    },
+    {
+        "id": 5154,
+        "name": "Cidra",
+        "country": "PRI",
+        "state": "041"
+    },
+    {
+        "id": 5155,
+        "name": "Coamo",
+        "country": "PRI",
+        "state": "043"
+    },
+    {
+        "id": 5156,
+        "name": "Comerío",
+        "country": "PRI",
+        "state": "045"
+    },
+    {
+        "id": 5157,
+        "name": "Corozal",
+        "country": "PRI",
+        "state": "047"
+    },
+    {
+        "id": 5158,
+        "name": "Culebra",
+        "country": "PRI",
+        "state": "049"
+    },
+    {
+        "id": 5159,
+        "name": "Dorado",
+        "country": "PRI",
+        "state": "051"
+    },
+    {
+        "id": 5160,
+        "name": "Fajardo",
+        "country": "PRI",
+        "state": "053"
+    },
+    {
+        "id": 5161,
+        "name": "Florida",
+        "country": "PRI",
+        "state": "054"
+    },
+    {
+        "id": 5162,
+        "name": "Guánica",
+        "country": "PRI",
+        "state": "055"
+    },
+    {
+        "id": 5163,
+        "name": "Guayama",
+        "country": "PRI",
+        "state": "057"
+    },
+    {
+        "id": 5164,
+        "name": "Guayanilla",
+        "country": "PRI",
+        "state": "059"
+    },
+    {
+        "id": 5080,
+        "name": "Guaynabo",
+        "country": "PRI",
+        "state": "GN"
+    },
+    {
+        "id": 5165,
+        "name": "Guaynabo",
+        "country": "PRI",
+        "state": "061"
+    },
+    {
+        "id": 5166,
+        "name": "Gurabo",
+        "country": "PRI",
+        "state": "063"
+    },
+    {
+        "id": 5167,
+        "name": "Hatillo",
+        "country": "PRI",
+        "state": "065"
+    },
+    {
+        "id": 5168,
+        "name": "Hormigueros",
+        "country": "PRI",
+        "state": "067"
+    },
+    {
+        "id": 5169,
+        "name": "Humacao",
+        "country": "PRI",
+        "state": "069"
+    },
+    {
+        "id": 5170,
+        "name": "Isabela",
+        "country": "PRI",
+        "state": "071"
+    },
+    {
+        "id": 5171,
+        "name": "Jayuya",
+        "country": "PRI",
+        "state": "073"
+    },
+    {
+        "id": 5172,
+        "name": "Juana Díaz",
+        "country": "PRI",
+        "state": "075"
+    },
+    {
+        "id": 5173,
+        "name": "Juncos",
+        "country": "PRI",
+        "state": "077"
+    },
+    {
+        "id": 5174,
+        "name": "Lajas",
+        "country": "PRI",
+        "state": "079"
+    },
+    {
+        "id": 5175,
+        "name": "Lares",
+        "country": "PRI",
+        "state": "081"
+    },
+    {
+        "id": 5176,
+        "name": "Las Marías",
+        "country": "PRI",
+        "state": "083"
+    },
+    {
+        "id": 5177,
+        "name": "Las Piedras",
+        "country": "PRI",
+        "state": "085"
+    },
+    {
+        "id": 5178,
+        "name": "Loíza",
+        "country": "PRI",
+        "state": "087"
+    },
+    {
+        "id": 5179,
+        "name": "Luquillo",
+        "country": "PRI",
+        "state": "089"
+    },
+    {
+        "id": 5180,
+        "name": "Manatí",
+        "country": "PRI",
+        "state": "091"
+    },
+    {
+        "id": 5181,
+        "name": "Maricao",
+        "country": "PRI",
+        "state": "093"
+    },
+    {
+        "id": 5182,
+        "name": "Maunabo",
+        "country": "PRI",
+        "state": "095"
+    },
+    {
+        "id": 5083,
+        "name": "Mayagüez",
+        "country": "PRI",
+        "state": "MG"
+    },
+    {
+        "id": 5183,
+        "name": "Mayagüez",
+        "country": "PRI",
+        "state": "097"
+    },
+    {
+        "id": 5184,
+        "name": "Moca",
+        "country": "PRI",
+        "state": "099"
+    },
+    {
+        "id": 5185,
+        "name": "Morovis",
+        "country": "PRI",
+        "state": "101"
+    },
+    {
+        "id": 5186,
+        "name": "Naguabo",
+        "country": "PRI",
+        "state": "103"
+    },
+    {
+        "id": 5187,
+        "name": "Naranjito",
+        "country": "PRI",
+        "state": "105"
+    },
+    {
+        "id": 5188,
+        "name": "Orocovis",
+        "country": "PRI",
+        "state": "107"
+    },
+    {
+        "id": 5189,
+        "name": "Patillas",
+        "country": "PRI",
+        "state": "109"
+    },
+    {
+        "id": 5190,
+        "name": "Peñuelas",
+        "country": "PRI",
+        "state": "111"
+    },
+    {
+        "id": 5078,
+        "name": "Ponce",
+        "country": "PRI",
+        "state": "PO"
+    },
+    {
+        "id": 5191,
+        "name": "Ponce",
+        "country": "PRI",
+        "state": "113"
+    },
+    {
+        "id": 5192,
+        "name": "Quebradillas",
+        "country": "PRI",
+        "state": "115"
+    },
+    {
+        "id": 5193,
+        "name": "Rincón",
+        "country": "PRI",
+        "state": "117"
+    },
+    {
+        "id": 5194,
+        "name": "Río Grande",
+        "country": "PRI",
+        "state": "119"
+    },
+    {
+        "id": 5195,
+        "name": "Sabana Grande",
+        "country": "PRI",
+        "state": "121"
+    },
+    {
+        "id": 5196,
+        "name": "Salinas",
+        "country": "PRI",
+        "state": "123"
+    },
+    {
+        "id": 5197,
+        "name": "San Germán",
+        "country": "PRI",
+        "state": "125"
+    },
+    {
+        "id": 5198,
+        "name": "San Juan",
+        "country": "PRI",
+        "state": "127"
+    },
+    {
+        "id": 5075,
+        "name": "San Juan",
+        "country": "PRI",
+        "state": "SJ"
+    },
+    {
+        "id": 5199,
+        "name": "San Lorenzo",
+        "country": "PRI",
+        "state": "129"
+    },
+    {
+        "id": 5200,
+        "name": "San Sebastián",
+        "country": "PRI",
+        "state": "131"
+    },
+    {
+        "id": 5201,
+        "name": "Santa Isabel",
+        "country": "PRI",
+        "state": "133"
+    },
+    {
+        "id": 5202,
+        "name": "Toa Alta",
+        "country": "PRI",
+        "state": "135"
+    },
+    {
+        "id": 5082,
+        "name": "Toa Baja",
+        "country": "PRI",
+        "state": "TB"
+    },
+    {
+        "id": 5203,
+        "name": "Toa Baja",
+        "country": "PRI",
+        "state": "137"
+    },
+    {
+        "id": 5084,
+        "name": "Trujillo Alto",
+        "country": "PRI",
+        "state": "TA"
+    },
+    {
+        "id": 5204,
+        "name": "Trujillo Alto",
+        "country": "PRI",
+        "state": "139"
+    },
+    {
+        "id": 5205,
+        "name": "Utuado",
+        "country": "PRI",
+        "state": "141"
+    },
+    {
+        "id": 5206,
+        "name": "Vega Alta",
+        "country": "PRI",
+        "state": "143"
+    },
+    {
+        "id": 5207,
+        "name": "Vega Baja",
+        "country": "PRI",
+        "state": "145"
+    },
+    {
+        "id": 5208,
+        "name": "Vieques",
+        "country": "PRI",
+        "state": "147"
+    },
+    {
+        "id": 5209,
+        "name": "Villalba",
+        "country": "PRI",
+        "state": "149"
+    },
+    {
+        "id": 5210,
+        "name": "Yabucoa",
+        "country": "PRI",
+        "state": "151"
+    },
+    {
+        "id": 5211,
+        "name": "Yauco",
+        "country": "PRI",
+        "state": "153"
+    }
+]

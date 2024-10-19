@@ -1,0 +1,722 @@
+[
+    {
+        "id": 48200,
+        "name": "Ahoghill",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48253,
+        "name": "Annahilt",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48254,
+        "name": "Annalong",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48259,
+        "name": "Antrim",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48260,
+        "name": "Antrim and Newtownabbey",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48269,
+        "name": "Ardglass",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48273,
+        "name": "Ards and North Down",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48277,
+        "name": "Armagh",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48278,
+        "name": "Armagh City Banbridge and Craigavon",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48347,
+        "name": "Ballinamallard",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48349,
+        "name": "Ballintoy Harbour",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48351,
+        "name": "Ballycastle",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48352,
+        "name": "Ballyclare",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48353,
+        "name": "Ballygowan",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48354,
+        "name": "Ballykelly",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48355,
+        "name": "Ballymena",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48356,
+        "name": "Ballymoney",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48357,
+        "name": "Ballynahinch",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48358,
+        "name": "Ballypatrick",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48359,
+        "name": "Ballywalter",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48366,
+        "name": "Banbridge",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48371,
+        "name": "Bangor",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48458,
+        "name": "Belfast",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48460,
+        "name": "Bellaghy",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48728,
+        "name": "Broughshane",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48802,
+        "name": "Bushmills",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48866,
+        "name": "Carnlough",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48867,
+        "name": "Carnmoney",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48870,
+        "name": "Carrickfergus",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48873,
+        "name": "Carryduff",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48881,
+        "name": "Castledawson",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48882,
+        "name": "Castlederg",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48884,
+        "name": "Castlereagh",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48885,
+        "name": "Castlerock",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48887,
+        "name": "Castlewellan",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 48896,
+        "name": "Causeway Coast and Glens",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49006,
+        "name": "City of Belfast",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49045,
+        "name": "Coalisland",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49067,
+        "name": "Coleraine",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49081,
+        "name": "Comber",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49090,
+        "name": "Connor",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49096,
+        "name": "Cookstown",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49139,
+        "name": "Craigavon",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49175,
+        "name": "Crossgar",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49178,
+        "name": "Crossmaglen",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49188,
+        "name": "Crumlin",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49202,
+        "name": "Cullybackey",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49203,
+        "name": "Culmore",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49213,
+        "name": "Cushendall",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49272,
+        "name": "Derry",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49273,
+        "name": "Derry City and Strabane",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49296,
+        "name": "Doagh",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49302,
+        "name": "Donaghadee",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49321,
+        "name": "Downpatrick",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49323,
+        "name": "Draperstown",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49328,
+        "name": "Dromore",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49348,
+        "name": "Dundonald",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49350,
+        "name": "Dundrum",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49353,
+        "name": "Dungannon",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49354,
+        "name": "Dungiven",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49359,
+        "name": "Dunloy",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49446,
+        "name": "Eglinton",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49477,
+        "name": "Enniskillen",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49545,
+        "name": "Fermanagh and Omagh",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49560,
+        "name": "Fintona",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49566,
+        "name": "Fivemiletown",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49632,
+        "name": "Garvagh",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49642,
+        "name": "Gilford",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49655,
+        "name": "Glenariff",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49656,
+        "name": "Glenavy",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49746,
+        "name": "Greenisland",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49751,
+        "name": "Greyabbey",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49940,
+        "name": "Hillsborough",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 49975,
+        "name": "Holywood",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50073,
+        "name": "Irvinestown",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50097,
+        "name": "Jordanstown",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50099,
+        "name": "Keady",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50145,
+        "name": "Kilkeel",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50148,
+        "name": "Killyleagh",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50152,
+        "name": "Kilrea",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50194,
+        "name": "Kircubbin",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50253,
+        "name": "Larne",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50303,
+        "name": "Limavady",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50317,
+        "name": "Lisburn",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50318,
+        "name": "Lisburn and Castlereagh",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50320,
+        "name": "Lisnaskea",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50389,
+        "name": "Londonderry County Borough",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50466,
+        "name": "Maghera",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50467,
+        "name": "Magherafelt",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50468,
+        "name": "Magheralin",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50568,
+        "name": "Mid and East Antrim",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50567,
+        "name": "Mid Ulster",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50585,
+        "name": "Millisle",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50612,
+        "name": "Moira",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50616,
+        "name": "Moneymore",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50644,
+        "name": "Moy",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50707,
+        "name": "Newcastle",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50725,
+        "name": "Newry",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50726,
+        "name": "Newry Mourne and Down",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50739,
+        "name": "Newtownabbey",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50740,
+        "name": "Newtownards",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50741,
+        "name": "Newtownstewart",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50811,
+        "name": "Omagh",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50956,
+        "name": "Portadown",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50957,
+        "name": "Portaferry",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50958,
+        "name": "Portavogie",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50959,
+        "name": "Portglenone",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50968,
+        "name": "Portrush",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 50973,
+        "name": "Portstewart",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 51030,
+        "name": "Randalstown",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 51034,
+        "name": "Rathfriland",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 51113,
+        "name": "Rostrevor",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 51178,
+        "name": "Saintfield",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 51314,
+        "name": "Sion Mills",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 51486,
+        "name": "Strabane",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 51553,
+        "name": "Tandragee",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 51572,
+        "name": "Templepatrick",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 51751,
+        "name": "Waringstown",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 51756,
+        "name": "Warrenpoint",
+        "country": "GBR",
+        "state": "NIR"
+    },
+    {
+        "id": 51874,
+        "name": "Whitehead",
+        "country": "GBR",
+        "state": "NIR"
+    }
+]

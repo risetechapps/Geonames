@@ -1,0 +1,890 @@
+[
+    {
+        "id": 89899,
+        "name": "Agrieș",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 89961,
+        "name": "Anieș",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90080,
+        "name": "Beclean",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90129,
+        "name": "Bichigiu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90147,
+        "name": "Bistriţa",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90148,
+        "name": "Bistriţa Bârgăului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90268,
+        "name": "Braniştea",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90284,
+        "name": "Breaza",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90376,
+        "name": "Budacu de Jos",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90377,
+        "name": "Budacu de Sus",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90383,
+        "name": "Budeşti",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93827,
+        "name": "Căianu Mic",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90671,
+        "name": "Chiochiş",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90686,
+        "name": "Chiuza",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90695,
+        "name": "Ciceu-Giurgeşti",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90696,
+        "name": "Ciceu-Mihăiești",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90735,
+        "name": "Cireșoaia",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90777,
+        "name": "Cociu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 90998,
+        "name": "Comuna Bistriţa Bârgăului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91077,
+        "name": "Comuna Braniştea",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91143,
+        "name": "Comuna Budacu de Jos",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91146,
+        "name": "Comuna Budeşti",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91568,
+        "name": "Comuna Căianu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91317,
+        "name": "Comuna Chiochiş",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91328,
+        "name": "Comuna Chiuza",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91331,
+        "name": "Comuna Ciceu-Giurgeşti",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91332,
+        "name": "Comuna Ciceu-Mihăieşti",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91472,
+        "name": "Comuna Coşbuc",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91722,
+        "name": "Comuna Dumitra",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91724,
+        "name": "Comuna Dumitriţa",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91755,
+        "name": "Comuna Feldru",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 91827,
+        "name": "Comuna Galaţii Bistriţei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92075,
+        "name": "Comuna Ilva Mare",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92076,
+        "name": "Comuna Ilva Mică",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92131,
+        "name": "Comuna Josenii Bârgăului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92143,
+        "name": "Comuna Lechinţa",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92160,
+        "name": "Comuna Leşu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92177,
+        "name": "Comuna Livezile",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92204,
+        "name": "Comuna Lunca Ilvei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92391,
+        "name": "Comuna Măgura Ilvei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92395,
+        "name": "Comuna Măieru",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92412,
+        "name": "Comuna Mărişelu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92247,
+        "name": "Comuna Matei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92265,
+        "name": "Comuna Miceştii de Câmpie",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92287,
+        "name": "Comuna Milas",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92330,
+        "name": "Comuna Monor",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92436,
+        "name": "Comuna Negrileşti",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92448,
+        "name": "Comuna Nimigea",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92458,
+        "name": "Comuna Nuşeni",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92540,
+        "name": "Comuna Parva",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92568,
+        "name": "Comuna Petru Rareş",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92624,
+        "name": "Comuna Poiana  Ilvei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92686,
+        "name": "Comuna Prundu Bârgăului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92854,
+        "name": "Comuna Războeni-Cetate",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92750,
+        "name": "Comuna Rebra",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92752,
+        "name": "Comuna Rebrişoara",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92777,
+        "name": "Comuna Rodna",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92784,
+        "name": "Comuna Romuli",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92813,
+        "name": "Comuna Runcu Salvei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92868,
+        "name": "Comuna Salva",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93059,
+        "name": "Comuna Sânmihaiu de Câmpie",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93499,
+        "name": "Comuna Şanţ",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93514,
+        "name": "Comuna Şieu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93516,
+        "name": "Comuna Şieu-Măgheruş",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93517,
+        "name": "Comuna Şieu-Odorhei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93518,
+        "name": "Comuna Şieuţ",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92929,
+        "name": "Comuna Silivaşu De Câmpie",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93526,
+        "name": "Comuna Şintereag",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 92981,
+        "name": "Comuna Spermezeu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93227,
+        "name": "Comuna Târlişua",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93131,
+        "name": "Comuna Teaca",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93135,
+        "name": "Comuna Telciu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93152,
+        "name": "Comuna Tiha Bârgăului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93283,
+        "name": "Comuna Uriu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93284,
+        "name": "Comuna Urmeniş",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93469,
+        "name": "Comuna Zagra",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93629,
+        "name": "Cormaia",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93688,
+        "name": "Coşbuc",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93721,
+        "name": "Cristeștii Ciceului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 93957,
+        "name": "Dobric",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94097,
+        "name": "Dumitra",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94100,
+        "name": "Dumitrița",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94153,
+        "name": "Feldru",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94216,
+        "name": "Frunzi",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94273,
+        "name": "Galaţii Bistriţei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94661,
+        "name": "Ilva Mare",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94662,
+        "name": "Ilva Mică",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94749,
+        "name": "Josenii Bârgăului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94768,
+        "name": "Lechinţa",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94790,
+        "name": "Leşu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94825,
+        "name": "Livezile",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94865,
+        "name": "Lunca Ilvei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94867,
+        "name": "Lunca Leșului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95242,
+        "name": "Măgura Ilvei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95249,
+        "name": "Măieru",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95277,
+        "name": "Mărişelu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94936,
+        "name": "Matei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94966,
+        "name": "Miceştii de Câmpie",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 94999,
+        "name": "Mijlocenii Bârgăului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95000,
+        "name": "Milaş",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95069,
+        "name": "Monor",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95113,
+        "name": "Municipiul Bistriţa",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95376,
+        "name": "Năsăud",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95322,
+        "name": "Negrilești",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95328,
+        "name": "Nepos",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95345,
+        "name": "Nimigea de Jos",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95346,
+        "name": "Nimigea de Sus",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95365,
+        "name": "Nuşeni",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95401,
+        "name": "Ocnița",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95460,
+        "name": "Oraş Beclean",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95554,
+        "name": "Oraş Nãsãud",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95595,
+        "name": "Oraş Sângeorz-Bãi",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95715,
+        "name": "Parva",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95754,
+        "name": "Petriș",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95874,
+        "name": "Poiana Ilvei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 95967,
+        "name": "Prundu Bârgăului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96204,
+        "name": "Răpănaşu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96064,
+        "name": "Rebra",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96066,
+        "name": "Rebrişoara",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96088,
+        "name": "Reteag",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96099,
+        "name": "Rodna",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96108,
+        "name": "Romuli",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96155,
+        "name": "Runcu Salvei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96237,
+        "name": "Salva",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96529,
+        "name": "Sângeorz-Băi",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96536,
+        "name": "Sânmihaiu de Câmpie",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 97113,
+        "name": "Șanț",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 97044,
+        "name": "Şieu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 97045,
+        "name": "Şieu-Măgheruş",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 97046,
+        "name": "Şieu-Odorhei",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 97047,
+        "name": "Şieuţ",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96338,
+        "name": "Silivașu de Câmpie",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 97055,
+        "name": "Şintereag",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96415,
+        "name": "Spermezeu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96513,
+        "name": "Susenii Bârgăului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96592,
+        "name": "Târlişua",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 106066,
+        "name": "Teaca",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 106076,
+        "name": "Telcișor",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 106075,
+        "name": "Telciu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 106097,
+        "name": "Tiha Bârgăului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96560,
+        "name": "Tureac",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96667,
+        "name": "Unirea",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96678,
+        "name": "Uriu",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96682,
+        "name": "Urmeniş",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96712,
+        "name": "Valea Borcutului",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96817,
+        "name": "Viile Tecii",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96825,
+        "name": "Viișoara",
+        "country": "ROU",
+        "state": "BN"
+    },
+    {
+        "id": 96980,
+        "name": "Zagra",
+        "country": "ROU",
+        "state": "BN"
+    }
+]

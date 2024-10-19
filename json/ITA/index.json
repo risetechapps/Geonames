@@ -1,0 +1,668 @@
+[
+    {
+        "id": 1679,
+        "name": "Abruzzo",
+        "country": "ITA",
+        "state": "65"
+    },
+    {
+        "id": 1727,
+        "name": "Agrigento",
+        "country": "ITA",
+        "state": "AG"
+    },
+    {
+        "id": 1783,
+        "name": "Alessandria",
+        "country": "ITA",
+        "state": "AL"
+    },
+    {
+        "id": 1672,
+        "name": "Ancona",
+        "country": "ITA",
+        "state": "AN"
+    },
+    {
+        "id": 1716,
+        "name": "Aosta Valley",
+        "country": "ITA",
+        "state": "23"
+    },
+    {
+        "id": 1688,
+        "name": "Apulia",
+        "country": "ITA",
+        "state": "75"
+    },
+    {
+        "id": 1681,
+        "name": "Ascoli Piceno",
+        "country": "ITA",
+        "state": "AP"
+    },
+    {
+        "id": 1780,
+        "name": "Asti",
+        "country": "ITA",
+        "state": "AT"
+    },
+    {
+        "id": 1692,
+        "name": "Avellino",
+        "country": "ITA",
+        "state": "AV"
+    },
+    {
+        "id": 1686,
+        "name": "Barletta-Andria-Trani",
+        "country": "ITA",
+        "state": "BT"
+    },
+    {
+        "id": 1706,
+        "name": "Basilicata",
+        "country": "ITA",
+        "state": "77"
+    },
+    {
+        "id": 1689,
+        "name": "Belluno",
+        "country": "ITA",
+        "state": "BL"
+    },
+    {
+        "id": 1701,
+        "name": "Benevento",
+        "country": "ITA",
+        "state": "BN"
+    },
+    {
+        "id": 1704,
+        "name": "Bergamo",
+        "country": "ITA",
+        "state": "BG"
+    },
+    {
+        "id": 1778,
+        "name": "Biella",
+        "country": "ITA",
+        "state": "BI"
+    },
+    {
+        "id": 1717,
+        "name": "Brescia",
+        "country": "ITA",
+        "state": "BS"
+    },
+    {
+        "id": 1714,
+        "name": "Brindisi",
+        "country": "ITA",
+        "state": "BR"
+    },
+    {
+        "id": 1703,
+        "name": "Calabria",
+        "country": "ITA",
+        "state": "78"
+    },
+    {
+        "id": 1718,
+        "name": "Caltanissetta",
+        "country": "ITA",
+        "state": "CL"
+    },
+    {
+        "id": 1669,
+        "name": "Campania",
+        "country": "ITA",
+        "state": "72"
+    },
+    {
+        "id": 1721,
+        "name": "Campobasso",
+        "country": "ITA",
+        "state": "CB"
+    },
+    {
+        "id": 1731,
+        "name": "Caserta",
+        "country": "ITA",
+        "state": "CE"
+    },
+    {
+        "id": 1728,
+        "name": "Catanzaro",
+        "country": "ITA",
+        "state": "CZ"
+    },
+    {
+        "id": 1739,
+        "name": "Chieti",
+        "country": "ITA",
+        "state": "CH"
+    },
+    {
+        "id": 1740,
+        "name": "Como",
+        "country": "ITA",
+        "state": "CO"
+    },
+    {
+        "id": 1742,
+        "name": "Cosenza",
+        "country": "ITA",
+        "state": "CS"
+    },
+    {
+        "id": 1751,
+        "name": "Cremona",
+        "country": "ITA",
+        "state": "CR"
+    },
+    {
+        "id": 1754,
+        "name": "Crotone",
+        "country": "ITA",
+        "state": "KR"
+    },
+    {
+        "id": 1775,
+        "name": "Cuneo",
+        "country": "ITA",
+        "state": "CN"
+    },
+    {
+        "id": 1773,
+        "name": "Emilia-Romagna",
+        "country": "ITA",
+        "state": "45"
+    },
+    {
+        "id": 1723,
+        "name": "Enna",
+        "country": "ITA",
+        "state": "EN"
+    },
+    {
+        "id": 1744,
+        "name": "Fermo",
+        "country": "ITA",
+        "state": "FM"
+    },
+    {
+        "id": 1746,
+        "name": "Ferrara",
+        "country": "ITA",
+        "state": "FE"
+    },
+    {
+        "id": 1771,
+        "name": "Foggia",
+        "country": "ITA",
+        "state": "FG"
+    },
+    {
+        "id": 1779,
+        "name": "Forlì-Cesena",
+        "country": "ITA",
+        "state": "FC"
+    },
+    {
+        "id": 1756,
+        "name": "Friuli–Venezia Giulia",
+        "country": "ITA",
+        "state": "36"
+    },
+    {
+        "id": 1776,
+        "name": "Frosinone",
+        "country": "ITA",
+        "state": "FR"
+    },
+    {
+        "id": 1777,
+        "name": "Gorizia",
+        "country": "ITA",
+        "state": "GO"
+    },
+    {
+        "id": 1787,
+        "name": "Grosseto",
+        "country": "ITA",
+        "state": "GR"
+    },
+    {
+        "id": 1788,
+        "name": "Imperia",
+        "country": "ITA",
+        "state": "IM"
+    },
+    {
+        "id": 1789,
+        "name": "Isernia",
+        "country": "ITA",
+        "state": "IS"
+    },
+    {
+        "id": 1781,
+        "name": "L'Aquila",
+        "country": "ITA",
+        "state": "AQ"
+    },
+    {
+        "id": 1791,
+        "name": "La Spezia",
+        "country": "ITA",
+        "state": "SP"
+    },
+    {
+        "id": 1674,
+        "name": "Latina",
+        "country": "ITA",
+        "state": "LT"
+    },
+    {
+        "id": 1678,
+        "name": "Lazio",
+        "country": "ITA",
+        "state": "62"
+    },
+    {
+        "id": 1675,
+        "name": "Lecce",
+        "country": "ITA",
+        "state": "LE"
+    },
+    {
+        "id": 1677,
+        "name": "Lecco",
+        "country": "ITA",
+        "state": "LC"
+    },
+    {
+        "id": 1768,
+        "name": "Liguria",
+        "country": "ITA",
+        "state": "42"
+    },
+    {
+        "id": 1745,
+        "name": "Livorno",
+        "country": "ITA",
+        "state": "LI"
+    },
+    {
+        "id": 1747,
+        "name": "Lodi",
+        "country": "ITA",
+        "state": "LO"
+    },
+    {
+        "id": 1705,
+        "name": "Lombardy",
+        "country": "ITA",
+        "state": "25"
+    },
+    {
+        "id": 1749,
+        "name": "Lucca",
+        "country": "ITA",
+        "state": "LU"
+    },
+    {
+        "id": 1750,
+        "name": "Macerata",
+        "country": "ITA",
+        "state": "MC"
+    },
+    {
+        "id": 1758,
+        "name": "Mantua",
+        "country": "ITA",
+        "state": "MN"
+    },
+    {
+        "id": 1670,
+        "name": "Marche",
+        "country": "ITA",
+        "state": "57"
+    },
+    {
+        "id": 1759,
+        "name": "Massa and Carrara",
+        "country": "ITA",
+        "state": "MS"
+    },
+    {
+        "id": 1760,
+        "name": "Matera",
+        "country": "ITA",
+        "state": "MT"
+    },
+    {
+        "id": 1761,
+        "name": "Medio Campidano",
+        "country": "ITA",
+        "state": "VS"
+    },
+    {
+        "id": 1757,
+        "name": "Modena",
+        "country": "ITA",
+        "state": "MO"
+    },
+    {
+        "id": 1695,
+        "name": "Molise",
+        "country": "ITA",
+        "state": "67"
+    },
+    {
+        "id": 1769,
+        "name": "Monza and Brianza",
+        "country": "ITA",
+        "state": "MB"
+    },
+    {
+        "id": 1774,
+        "name": "Novara",
+        "country": "ITA",
+        "state": "NO"
+    },
+    {
+        "id": 1790,
+        "name": "Nuoro",
+        "country": "ITA",
+        "state": "NU"
+    },
+    {
+        "id": 1786,
+        "name": "Oristano",
+        "country": "ITA",
+        "state": "OR"
+    },
+    {
+        "id": 1665,
+        "name": "Padua",
+        "country": "ITA",
+        "state": "PD"
+    },
+    {
+        "id": 1668,
+        "name": "Palermo",
+        "country": "ITA",
+        "state": "PA"
+    },
+    {
+        "id": 1666,
+        "name": "Parma",
+        "country": "ITA",
+        "state": "PR"
+    },
+    {
+        "id": 1676,
+        "name": "Pavia",
+        "country": "ITA",
+        "state": "PV"
+    },
+    {
+        "id": 1691,
+        "name": "Perugia",
+        "country": "ITA",
+        "state": "PG"
+    },
+    {
+        "id": 1693,
+        "name": "Pesaro and Urbino",
+        "country": "ITA",
+        "state": "PU"
+    },
+    {
+        "id": 1694,
+        "name": "Pescara",
+        "country": "ITA",
+        "state": "PE"
+    },
+    {
+        "id": 1696,
+        "name": "Piacenza",
+        "country": "ITA",
+        "state": "PC"
+    },
+    {
+        "id": 1702,
+        "name": "Piedmont",
+        "country": "ITA",
+        "state": "21"
+    },
+    {
+        "id": 1685,
+        "name": "Pisa",
+        "country": "ITA",
+        "state": "PI"
+    },
+    {
+        "id": 1687,
+        "name": "Pistoia",
+        "country": "ITA",
+        "state": "PT"
+    },
+    {
+        "id": 1690,
+        "name": "Pordenone",
+        "country": "ITA",
+        "state": "PN"
+    },
+    {
+        "id": 1697,
+        "name": "Potenza",
+        "country": "ITA",
+        "state": "PZ"
+    },
+    {
+        "id": 1700,
+        "name": "Prato",
+        "country": "ITA",
+        "state": "PO"
+    },
+    {
+        "id": 1729,
+        "name": "Ragusa",
+        "country": "ITA",
+        "state": "RG"
+    },
+    {
+        "id": 1707,
+        "name": "Ravenna",
+        "country": "ITA",
+        "state": "RA"
+    },
+    {
+        "id": 1708,
+        "name": "Reggio Emilia",
+        "country": "ITA",
+        "state": "RE"
+    },
+    {
+        "id": 1712,
+        "name": "Rieti",
+        "country": "ITA",
+        "state": "RI"
+    },
+    {
+        "id": 1713,
+        "name": "Rimini",
+        "country": "ITA",
+        "state": "RN"
+    },
+    {
+        "id": 1719,
+        "name": "Rovigo",
+        "country": "ITA",
+        "state": "RO"
+    },
+    {
+        "id": 1720,
+        "name": "Salerno",
+        "country": "ITA",
+        "state": "SA"
+    },
+    {
+        "id": 1715,
+        "name": "Sardinia",
+        "country": "ITA",
+        "state": "88"
+    },
+    {
+        "id": 1722,
+        "name": "Sassari",
+        "country": "ITA",
+        "state": "SS"
+    },
+    {
+        "id": 1732,
+        "name": "Savona",
+        "country": "ITA",
+        "state": "SV"
+    },
+    {
+        "id": 1709,
+        "name": "Sicily",
+        "country": "ITA",
+        "state": "82"
+    },
+    {
+        "id": 1734,
+        "name": "Siena",
+        "country": "ITA",
+        "state": "SI"
+    },
+    {
+        "id": 1667,
+        "name": "Siracusa",
+        "country": "ITA",
+        "state": "SR"
+    },
+    {
+        "id": 1741,
+        "name": "Sondrio",
+        "country": "ITA",
+        "state": "SO"
+    },
+    {
+        "id": 1730,
+        "name": "South Sardinia",
+        "country": "ITA",
+        "state": "SU"
+    },
+    {
+        "id": 1743,
+        "name": "Taranto",
+        "country": "ITA",
+        "state": "TA"
+    },
+    {
+        "id": 1752,
+        "name": "Teramo",
+        "country": "ITA",
+        "state": "TE"
+    },
+    {
+        "id": 1755,
+        "name": "Terni",
+        "country": "ITA",
+        "state": "TR"
+    },
+    {
+        "id": 1733,
+        "name": "Trapani",
+        "country": "ITA",
+        "state": "TP"
+    },
+    {
+        "id": 1725,
+        "name": "Trentino-South Tyrol",
+        "country": "ITA",
+        "state": "32"
+    },
+    {
+        "id": 1762,
+        "name": "Treviso",
+        "country": "ITA",
+        "state": "TV"
+    },
+    {
+        "id": 1763,
+        "name": "Trieste",
+        "country": "ITA",
+        "state": "TS"
+    },
+    {
+        "id": 1664,
+        "name": "Tuscany",
+        "country": "ITA",
+        "state": "52"
+    },
+    {
+        "id": 1764,
+        "name": "Udine",
+        "country": "ITA",
+        "state": "UD"
+    },
+    {
+        "id": 1683,
+        "name": "Umbria",
+        "country": "ITA",
+        "state": "55"
+    },
+    {
+        "id": 1765,
+        "name": "Varese",
+        "country": "ITA",
+        "state": "VA"
+    },
+    {
+        "id": 1753,
+        "name": "Veneto",
+        "country": "ITA",
+        "state": "34"
+    },
+    {
+        "id": 1726,
+        "name": "Verbano-Cusio-Ossola",
+        "country": "ITA",
+        "state": "VB"
+    },
+    {
+        "id": 1785,
+        "name": "Vercelli",
+        "country": "ITA",
+        "state": "VC"
+    },
+    {
+        "id": 1736,
+        "name": "Verona",
+        "country": "ITA",
+        "state": "VR"
+    },
+    {
+        "id": 1737,
+        "name": "Vibo Valentia",
+        "country": "ITA",
+        "state": "VV"
+    },
+    {
+        "id": 1738,
+        "name": "Vicenza",
+        "country": "ITA",
+        "state": "VI"
+    },
+    {
+        "id": 1735,
+        "name": "Viterbo",
+        "country": "ITA",
+        "state": "VT"
+    }
+]

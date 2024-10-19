@@ -1,0 +1,890 @@
+[
+    {
+        "id": 68018,
+        "name": "Abdenago C. García",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68091,
+        "name": "Adolfo López Mateos",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68162,
+        "name": "Ahumada",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68187,
+        "name": "Aldama",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68208,
+        "name": "Allende",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68259,
+        "name": "Ampliación Colonia Lázaro Cárdenas",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68286,
+        "name": "Anáhuac",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68323,
+        "name": "Aquiles Serdán",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68379,
+        "name": "Ascensión",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68477,
+        "name": "Baborigame",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68491,
+        "name": "Bachíniva",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68497,
+        "name": "Bahuichivo",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68508,
+        "name": "Balleza",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68563,
+        "name": "Basaseachic",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68565,
+        "name": "Basúchil",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68566,
+        "name": "Batopilas",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68598,
+        "name": "Benito Juárez",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68627,
+        "name": "Bocoyna",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68638,
+        "name": "Boquilla de Babisas (La Boquilla de Conchos)",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68667,
+        "name": "Buenaventura",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68758,
+        "name": "Camargo",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68822,
+        "name": "Carichí",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68834,
+        "name": "Carretas",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68853,
+        "name": "Casas Grandes",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 68907,
+        "name": "Cerocahui",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69056,
+        "name": "Chihuahua",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69126,
+        "name": "Chínipas",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69154,
+        "name": "Ciudad Delicias",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69270,
+        "name": "Colonia Abraham González (La Quemada)",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69286,
+        "name": "Colonia Campesina",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69300,
+        "name": "Colonia Felipe Ángeles",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69338,
+        "name": "Colonia Nicolás Bravo (Kilómetro Noventa y Dos)",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69356,
+        "name": "Colonia Revolución",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69371,
+        "name": "Colonia Terrazas",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69443,
+        "name": "Conchos",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69452,
+        "name": "Congregación Ortíz",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69515,
+        "name": "Coyame",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69516,
+        "name": "Coyame del Sotol",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69532,
+        "name": "Creel",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69583,
+        "name": "Cuauhtémoc",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69648,
+        "name": "Cusihuiriachi",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69676,
+        "name": "Delicias",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69729,
+        "name": "Dr. Belisario Domínguez",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69758,
+        "name": "Ejido Benito Juárez",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69763,
+        "name": "Ejido El Largo",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69764,
+        "name": "Ejido El Vergel",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 69771,
+        "name": "Ejido La Quemada",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70045,
+        "name": "El Molino",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70074,
+        "name": "El Oro",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70200,
+        "name": "El Sauz",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70224,
+        "name": "El Terrero",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70242,
+        "name": "El Tule",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70338,
+        "name": "Estación Conchos",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70339,
+        "name": "Estación Consuelo",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70511,
+        "name": "Galeana",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70645,
+        "name": "Gómez Farías",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70560,
+        "name": "Gran Morelos",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70568,
+        "name": "Guachochi",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70575,
+        "name": "Guadalupe",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70602,
+        "name": "Guadalupe Victoria",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70613,
+        "name": "Guadalupe y Calvo",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70628,
+        "name": "Guazapares",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70631,
+        "name": "Guerrero",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70689,
+        "name": "Hidalgo del Parral",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70765,
+        "name": "Huejotitán",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70852,
+        "name": "Ignacio Zaragoza",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 70870,
+        "name": "Independencia",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71002,
+        "name": "Janos",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71049,
+        "name": "Jiménez",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71090,
+        "name": "José Esteban Coronado",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71094,
+        "name": "José Mariano Jiménez",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71146,
+        "name": "Juárez",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71135,
+        "name": "Julimes",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71159,
+        "name": "Kilómetro Noventa y Nueve",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71244,
+        "name": "La Constitución",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71249,
+        "name": "La Cruz",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71336,
+        "name": "La Junta",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71594,
+        "name": "Las Cruces",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71649,
+        "name": "Las Varas",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71650,
+        "name": "Las Varas (Estación Babícora)",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71654,
+        "name": "Las Yerbitas [Aserradero]",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71890,
+        "name": "Lázaro Cárdenas",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71712,
+        "name": "Loma Blanca",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71917,
+        "name": "Madera",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71937,
+        "name": "Maguarichi",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71958,
+        "name": "Manuel Benavides",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71964,
+        "name": "Manuel Ojinaga",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 71990,
+        "name": "Mariano Balleza",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72015,
+        "name": "Matachí",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72017,
+        "name": "Matamoros",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72075,
+        "name": "Meoqui",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72081,
+        "name": "Mesa del Huracán",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72122,
+        "name": "Miguel Ahumada",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72132,
+        "name": "Miguel Hidalgo",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72207,
+        "name": "Monte Verde",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72229,
+        "name": "Morelos",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72236,
+        "name": "Moris",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72272,
+        "name": "Naica",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72273,
+        "name": "Namiquipa",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72317,
+        "name": "Nicolas Bravo",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72334,
+        "name": "Ninguno [CERESO]",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72344,
+        "name": "Nonoava",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72381,
+        "name": "Nuevo Casas Grandes",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72440,
+        "name": "Ocampo",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72466,
+        "name": "Octaviano López",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72479,
+        "name": "Ojinaga",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72530,
+        "name": "Orranteño",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72532,
+        "name": "Oscar Soto Maynez",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72660,
+        "name": "Parral",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72748,
+        "name": "Peña Blanca",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72858,
+        "name": "Porvenir",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72884,
+        "name": "Praxedis G. Guerrero",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72886,
+        "name": "Praxédis Guerrero",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72929,
+        "name": "Pueblito de Allende",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 72972,
+        "name": "Puerto Palomas",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73142,
+        "name": "Riva Palacio",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73149,
+        "name": "Rodrígo M. Quevedo",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73159,
+        "name": "Rosales",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73163,
+        "name": "Rosario",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73232,
+        "name": "Samachique",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73234,
+        "name": "Samalayuca",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73239,
+        "name": "San Agustín",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73266,
+        "name": "San Andrés",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73451,
+        "name": "San Buenaventura",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73460,
+        "name": "San Carlos",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73609,
+        "name": "San Francisco de Borja",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73610,
+        "name": "San Francisco de Conchos",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73620,
+        "name": "San Francisco del Oro",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73667,
+        "name": "San Isidro",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73982,
+        "name": "San Juanito",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 73992,
+        "name": "San Lorenzo",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 74425,
+        "name": "San Rafael",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 74565,
+        "name": "Santa Bárbara",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 74657,
+        "name": "Santa Eulalia",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 74674,
+        "name": "Santa Isabel",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 75044,
+        "name": "Saucillo",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 75098,
+        "name": "Sisoguichi",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 75856,
+        "name": "Témoris",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 75344,
+        "name": "Temósachic",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 75730,
+        "name": "Tomochic",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 75816,
+        "name": "Turuachi",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 75894,
+        "name": "Urique",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 75897,
+        "name": "Uruachi",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 75910,
+        "name": "Valentín Gómez Farías",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 75919,
+        "name": "Valle de Allende",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 75927,
+        "name": "Valle de Zaragoza",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 75928,
+        "name": "Valle del Rosario",
+        "country": "MEX",
+        "state": "CHH"
+    },
+    {
+        "id": 76252,
+        "name": "Yécora",
+        "country": "MEX",
+        "state": "CHH"
+    }
+]

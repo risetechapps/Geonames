@@ -1,0 +1,878 @@
+[
+    {
+        "id": 85800,
+        "name": "Banino",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 85886,
+        "name": "Bobowo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 85902,
+        "name": "Bojano",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 85915,
+        "name": "Bolszewo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 85929,
+        "name": "Borzytuchom",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 85956,
+        "name": "Brusy",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86008,
+        "name": "Bytów",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86018,
+        "name": "Cedry Wielkie",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86025,
+        "name": "Cewice",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86074,
+        "name": "Chłapowo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86036,
+        "name": "Chmielno",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86042,
+        "name": "Choczewo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86049,
+        "name": "Chojnice",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86067,
+        "name": "Chwaszczyno",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86106,
+        "name": "Czarna Dąbrówka",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86108,
+        "name": "Czarna Woda",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86109,
+        "name": "Czarne",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86138,
+        "name": "Czersk",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86152,
+        "name": "Człuchów",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86157,
+        "name": "Damnica",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86249,
+        "name": "Dębnica Kaszubska",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86161,
+        "name": "Debrzno",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86220,
+        "name": "Dziemiany",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86223,
+        "name": "Dzierzgoń",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86283,
+        "name": "Garcz",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86285,
+        "name": "Gardeja",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86291,
+        "name": "Gdańsk",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86292,
+        "name": "Gdynia",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86437,
+        "name": "Główczyce",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86310,
+        "name": "Gniew",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86311,
+        "name": "Gniewino",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86314,
+        "name": "Gnieżdżewo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86359,
+        "name": "Gościcino",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86367,
+        "name": "Grabowo Kościerskie",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86446,
+        "name": "Hel",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86520,
+        "name": "Jastarnia",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86527,
+        "name": "Jastrzębia Góra",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86585,
+        "name": "Kaliska",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86616,
+        "name": "Karsin",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86617,
+        "name": "Kartuzy",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86854,
+        "name": "Kępice",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86668,
+        "name": "Kobylnica",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86673,
+        "name": "Koczała",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86676,
+        "name": "Kolbudy",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86678,
+        "name": "Koleczkowo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86744,
+        "name": "Kołczygłowy",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86710,
+        "name": "Kosakowo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86756,
+        "name": "Kościerzyna",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86727,
+        "name": "Kowale",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86781,
+        "name": "Krokowa",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86794,
+        "name": "Krynica Morska",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86849,
+        "name": "Kwidzyn",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86978,
+        "name": "Lębork",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86903,
+        "name": "Linia",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86904,
+        "name": "Liniewo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86912,
+        "name": "Lipnica",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86923,
+        "name": "Lipusz",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86925,
+        "name": "Lisewo Malborskie",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86938,
+        "name": "Lubichowo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86946,
+        "name": "Lublewo Gdańskie",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86972,
+        "name": "Luzino",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88778,
+        "name": "Łeba",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88818,
+        "name": "Łęczyce",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88819,
+        "name": "Łęgowo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 86986,
+        "name": "Malbork",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87017,
+        "name": "Miastko",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87043,
+        "name": "Mikołajki Pomorskie",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87073,
+        "name": "Miłoradz",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87096,
+        "name": "Mosty",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87104,
+        "name": "Mrzezino",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87178,
+        "name": "Nowa Wieś Lęborska",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87202,
+        "name": "Nowy Dwór Gdański",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87205,
+        "name": "Nowy Staw",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87267,
+        "name": "Orle",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87287,
+        "name": "Osiek",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87296,
+        "name": "Ostaszewo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87346,
+        "name": "Parchowo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87363,
+        "name": "Pelplin",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87425,
+        "name": "Pogórze",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87456,
+        "name": "Potęgowo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87480,
+        "name": "Powiat bytowski",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87485,
+        "name": "Powiat chojnicki",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87492,
+        "name": "Powiat człuchowski",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87501,
+        "name": "Powiat gdański",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87536,
+        "name": "Powiat kartuski",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87549,
+        "name": "Powiat kościerski",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87558,
+        "name": "Powiat kwidzyński",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87580,
+        "name": "Powiat lęborski",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87582,
+        "name": "Powiat malborski",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87602,
+        "name": "Powiat nowodworski",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87649,
+        "name": "Powiat pucki",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87700,
+        "name": "Powiat słupski",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87682,
+        "name": "Powiat starogardzki",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87694,
+        "name": "Powiat sztumski",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87705,
+        "name": "Powiat tczewski",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87716,
+        "name": "Powiat wejherowski",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87783,
+        "name": "Prabuty",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87798,
+        "name": "Pruszcz Gdański",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87801,
+        "name": "Przechlewo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87818,
+        "name": "Przodkowo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87834,
+        "name": "Przywidz",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87844,
+        "name": "Pszczółki",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87847,
+        "name": "Puck",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87921,
+        "name": "Reda",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87935,
+        "name": "Rekowo Dolne",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87962,
+        "name": "Rotmanka",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 87986,
+        "name": "Rumia",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88007,
+        "name": "Ryjewo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88015,
+        "name": "Rzeczenica",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88042,
+        "name": "Sadlinki",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88087,
+        "name": "Sierakowice",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88098,
+        "name": "Skarszewy",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88121,
+        "name": "Skórcz",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88353,
+        "name": "Słupsk",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88129,
+        "name": "Smętowo Graniczne",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88126,
+        "name": "Smołdzino",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88145,
+        "name": "Somonino",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88148,
+        "name": "Sopot",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88176,
+        "name": "Stara Kiszewa",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88188,
+        "name": "Stare Pole",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88190,
+        "name": "Starogard Gdański",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88195,
+        "name": "Stary Targ",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88202,
+        "name": "Stegna",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88245,
+        "name": "Stężyca",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88213,
+        "name": "Straszyn",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88233,
+        "name": "Strzelno",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88239,
+        "name": "Studzienice",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88246,
+        "name": "Subkowy",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88253,
+        "name": "Suchy Dąb",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88263,
+        "name": "Sulęczyno",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88307,
+        "name": "Szemud",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88311,
+        "name": "Szlachta",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88315,
+        "name": "Sztum",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88316,
+        "name": "Sztutowo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88369,
+        "name": "Tczew",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88416,
+        "name": "Trąbki Wielkie",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88404,
+        "name": "Trzebielino",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88418,
+        "name": "Tuchomie",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88462,
+        "name": "Ustka",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88490,
+        "name": "Wejherowo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88507,
+        "name": "Wielki Kack",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88526,
+        "name": "Wierzchucino",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88646,
+        "name": "Władysławowo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88708,
+        "name": "Zblewo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88883,
+        "name": "Żelistrzewo",
+        "country": "POL",
+        "state": "22"
+    },
+    {
+        "id": 88892,
+        "name": "Żukowo",
+        "country": "POL",
+        "state": "22"
+    }
+]

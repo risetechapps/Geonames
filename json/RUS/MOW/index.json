@@ -1,0 +1,554 @@
+[
+    {
+        "id": 97605,
+        "name": "Altuf’yevskiy",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 97613,
+        "name": "Amin’yevo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 97634,
+        "name": "Annino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 97744,
+        "name": "Babushkin",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 97924,
+        "name": "Bibirevo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 97938,
+        "name": "Biryulëvo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 97971,
+        "name": "Bogorodskoye",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 98052,
+        "name": "Brateyevo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 98190,
+        "name": "Cherëmushki",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 98185,
+        "name": "Chertanovo Yuzhnoye",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 98250,
+        "name": "Davydkovo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 98514,
+        "name": "Gol’yanovo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 98509,
+        "name": "Golovinskiy",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 98735,
+        "name": "Ivanovskoye",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 98848,
+        "name": "Kapotnya",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99132,
+        "name": "Kokoshkino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99142,
+        "name": "Kolomenskoye",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99248,
+        "name": "Kotlovka",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99262,
+        "name": "Kozeyevo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99281,
+        "name": "Krasnaya Pahra",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99482,
+        "name": "Kur’yanovo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99511,
+        "name": "Kuz’minki",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99561,
+        "name": "Lefortovo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99582,
+        "name": "Leonovo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99621,
+        "name": "Lianozovo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99622,
+        "name": "Likhobory",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99529,
+        "name": "LMS",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99696,
+        "name": "Luzhniki",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99718,
+        "name": "Lyublino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99808,
+        "name": "Mar’ino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99817,
+        "name": "Matveyevskoye",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99874,
+        "name": "Metrogorodok",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99894,
+        "name": "Mikhalkovo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99972,
+        "name": "Moscow",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 99977,
+        "name": "Moskovskiy",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100046,
+        "name": "Nagornyy",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100091,
+        "name": "Nekrasovka",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100147,
+        "name": "Nikol’skoye",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100148,
+        "name": "Nikulino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100219,
+        "name": "Novo-Peredelkino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100243,
+        "name": "Novogireyevo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100250,
+        "name": "Novokhovrino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100259,
+        "name": "Novokuz’minki",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100328,
+        "name": "Novovladykino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100358,
+        "name": "Novyye Cherëmushki",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100360,
+        "name": "Novyye Kuz’minki",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100395,
+        "name": "Ochakovo-Matveyevskoye",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100461,
+        "name": "Orekhovo-Borisovo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100462,
+        "name": "Orekhovo-Borisovo Severnoye",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100490,
+        "name": "Ostankinskiy",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100505,
+        "name": "Otradnoye",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100750,
+        "name": "Pokrovskoye-Streshnëvo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100812,
+        "name": "Presnenskiy",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 100934,
+        "name": "Ramenki",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101005,
+        "name": "Rostokino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101018,
+        "name": "Rublëvo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101043,
+        "name": "Ryazanskiy",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101200,
+        "name": "Setun’",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101206,
+        "name": "Severnyy",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101277,
+        "name": "Shcherbinka",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101279,
+        "name": "Shchukino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101408,
+        "name": "Slobodka",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101432,
+        "name": "Sokol",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101441,
+        "name": "Sokol’niki",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101460,
+        "name": "Solntsevo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101630,
+        "name": "Strogino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101710,
+        "name": "Sviblovo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101741,
+        "name": "Taganskiy",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101812,
+        "name": "Tekstil’shchiki",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101879,
+        "name": "Tolstopal’tsevo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101912,
+        "name": "Troitsk",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101926,
+        "name": "Troparëvo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101937,
+        "name": "Tsaritsyno",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101945,
+        "name": "Tsentral’nyy Administrativnyy Okrug",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 101995,
+        "name": "Tyoply Stan",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102174,
+        "name": "Vagonoremont",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102204,
+        "name": "Vatutinki",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102205,
+        "name": "Vatutino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102291,
+        "name": "Veshnyaki",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102333,
+        "name": "Vnukovo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102379,
+        "name": "Vorob’yovo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102395,
+        "name": "Vostochnoe Degunino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102397,
+        "name": "Vostochnyy",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102432,
+        "name": "Vykhino-Zhulebino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102501,
+        "name": "Yaroslavskiy",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102506,
+        "name": "Yasenevo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102629,
+        "name": "Zagor’ye",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102641,
+        "name": "Zamoskvorech’ye",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102698,
+        "name": "Zelenograd",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102746,
+        "name": "Zhulebino",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102784,
+        "name": "Zyablikovo",
+        "country": "RUS",
+        "state": "MOW"
+    },
+    {
+        "id": 102791,
+        "name": "Zyuzino",
+        "country": "RUS",
+        "state": "MOW"
+    }
+]

@@ -1,0 +1,524 @@
+[
+    {
+        "id": 4928,
+        "name": "Agadir-Ida-Ou-Tanane",
+        "country": "MAR",
+        "state": "AGD"
+    },
+    {
+        "id": 3320,
+        "name": "Al Haouz",
+        "country": "MAR",
+        "state": "HAO"
+    },
+    {
+        "id": 3267,
+        "name": "Al Hoceïma",
+        "country": "MAR",
+        "state": "HOC"
+    },
+    {
+        "id": 3266,
+        "name": "Aousserd (EH)",
+        "country": "MAR",
+        "state": "AOU"
+    },
+    {
+        "id": 3297,
+        "name": "Assa-Zag (EH-partial)",
+        "country": "MAR",
+        "state": "ASZ"
+    },
+    {
+        "id": 3321,
+        "name": "Azilal",
+        "country": "MAR",
+        "state": "AZI"
+    },
+    {
+        "id": 3272,
+        "name": "Béni Mellal",
+        "country": "MAR",
+        "state": "BEM"
+    },
+    {
+        "id": 3278,
+        "name": "Béni Mellal-Khénifra",
+        "country": "MAR",
+        "state": "05"
+    },
+    {
+        "id": 3304,
+        "name": "Benslimane",
+        "country": "MAR",
+        "state": "BES"
+    },
+    {
+        "id": 3285,
+        "name": "Berkane",
+        "country": "MAR",
+        "state": "BER"
+    },
+    {
+        "id": 4929,
+        "name": "Berrechid",
+        "country": "MAR",
+        "state": "BRR"
+    },
+    {
+        "id": 3275,
+        "name": "Boujdour (EH)",
+        "country": "MAR",
+        "state": "BOD"
+    },
+    {
+        "id": 3270,
+        "name": "Boulemane",
+        "country": "MAR",
+        "state": "BOM"
+    },
+    {
+        "id": 4930,
+        "name": "Casablanca",
+        "country": "MAR",
+        "state": "CAS"
+    },
+    {
+        "id": 3303,
+        "name": "Casablanca-Settat",
+        "country": "MAR",
+        "state": "06"
+    },
+    {
+        "id": 3310,
+        "name": "Chefchaouen",
+        "country": "MAR",
+        "state": "CHE"
+    },
+    {
+        "id": 3274,
+        "name": "Chichaoua",
+        "country": "MAR",
+        "state": "CHI"
+    },
+    {
+        "id": 3302,
+        "name": "Chtouka-Ait Baha",
+        "country": "MAR",
+        "state": "CHT"
+    },
+    {
+        "id": 3306,
+        "name": "Dakhla-Oued Ed-Dahab (EH)",
+        "country": "MAR",
+        "state": "12"
+    },
+    {
+        "id": 3290,
+        "name": "Drâa-Tafilalet",
+        "country": "MAR",
+        "state": "08"
+    },
+    {
+        "id": 4931,
+        "name": "Driouch",
+        "country": "MAR",
+        "state": "DRI"
+    },
+    {
+        "id": 3291,
+        "name": "El Hajeb",
+        "country": "MAR",
+        "state": "HAJ"
+    },
+    {
+        "id": 3280,
+        "name": "El Jadida",
+        "country": "MAR",
+        "state": "JDI"
+    },
+    {
+        "id": 3309,
+        "name": "El Kelâa des Sraghna",
+        "country": "MAR",
+        "state": "KES"
+    },
+    {
+        "id": 3299,
+        "name": "Errachidia",
+        "country": "MAR",
+        "state": "ERR"
+    },
+    {
+        "id": 3292,
+        "name": "Es-Semara (EH-partial)",
+        "country": "MAR",
+        "state": "ESM"
+    },
+    {
+        "id": 3316,
+        "name": "Essaouira",
+        "country": "MAR",
+        "state": "ESI"
+    },
+    {
+        "id": 3300,
+        "name": "Fahs-Anjra",
+        "country": "MAR",
+        "state": "FAH"
+    },
+    {
+        "id": 4932,
+        "name": "Fès",
+        "country": "MAR",
+        "state": "FES"
+    },
+    {
+        "id": 3313,
+        "name": "Fès-Meknès",
+        "country": "MAR",
+        "state": "03"
+    },
+    {
+        "id": 3301,
+        "name": "Figuig",
+        "country": "MAR",
+        "state": "FIG"
+    },
+    {
+        "id": 4933,
+        "name": "Fquih Ben Salah",
+        "country": "MAR",
+        "state": "FQH"
+    },
+    {
+        "id": 3265,
+        "name": "Guelmim",
+        "country": "MAR",
+        "state": "GUE"
+    },
+    {
+        "id": 3305,
+        "name": "Guelmim-Oued Noun (EH-partial)",
+        "country": "MAR",
+        "state": "10"
+    },
+    {
+        "id": 4934,
+        "name": "Guercif",
+        "country": "MAR",
+        "state": "GUF"
+    },
+    {
+        "id": 3325,
+        "name": "Ifrane",
+        "country": "MAR",
+        "state": "IFR"
+    },
+    {
+        "id": 3294,
+        "name": "Inezgane-Ait Melloul",
+        "country": "MAR",
+        "state": "INE"
+    },
+    {
+        "id": 3307,
+        "name": "Jerada",
+        "country": "MAR",
+        "state": "JRA"
+    },
+    {
+        "id": 3308,
+        "name": "Kénitra",
+        "country": "MAR",
+        "state": "KEN"
+    },
+    {
+        "id": 3276,
+        "name": "Khémisset",
+        "country": "MAR",
+        "state": "KHE"
+    },
+    {
+        "id": 3317,
+        "name": "Khénifra",
+        "country": "MAR",
+        "state": "KHN"
+    },
+    {
+        "id": 3326,
+        "name": "Khouribga",
+        "country": "MAR",
+        "state": "KHO"
+    },
+    {
+        "id": 3271,
+        "name": "L'Oriental",
+        "country": "MAR",
+        "state": "02"
+    },
+    {
+        "id": 3293,
+        "name": "Laâyoune (EH)",
+        "country": "MAR",
+        "state": "LAA"
+    },
+    {
+        "id": 3298,
+        "name": "Laâyoune-Sakia El Hamra (EH-partial)",
+        "country": "MAR",
+        "state": "11"
+    },
+    {
+        "id": 3268,
+        "name": "Larache",
+        "country": "MAR",
+        "state": "LAR"
+    },
+    {
+        "id": 4936,
+        "name": "M’diq-Fnideq",
+        "country": "MAR",
+        "state": "MDF"
+    },
+    {
+        "id": 4935,
+        "name": "Marrakech",
+        "country": "MAR",
+        "state": "MAR"
+    },
+    {
+        "id": 3288,
+        "name": "Marrakesh-Safi",
+        "country": "MAR",
+        "state": "07"
+    },
+    {
+        "id": 3284,
+        "name": "Médiouna",
+        "country": "MAR",
+        "state": "MED"
+    },
+    {
+        "id": 4937,
+        "name": "Meknès",
+        "country": "MAR",
+        "state": "MEK"
+    },
+    {
+        "id": 4938,
+        "name": "Midelt",
+        "country": "MAR",
+        "state": "MID"
+    },
+    {
+        "id": 4939,
+        "name": "Mohammadia",
+        "country": "MAR",
+        "state": "MOH"
+    },
+    {
+        "id": 3315,
+        "name": "Moulay Yacoub",
+        "country": "MAR",
+        "state": "MOU"
+    },
+    {
+        "id": 3281,
+        "name": "Nador",
+        "country": "MAR",
+        "state": "NAD"
+    },
+    {
+        "id": 3287,
+        "name": "Nouaceur",
+        "country": "MAR",
+        "state": "NOU"
+    },
+    {
+        "id": 3269,
+        "name": "Ouarzazate",
+        "country": "MAR",
+        "state": "OUA"
+    },
+    {
+        "id": 3319,
+        "name": "Oued Ed-Dahab (EH)",
+        "country": "MAR",
+        "state": "OUD"
+    },
+    {
+        "id": 4941,
+        "name": "Ouezzane",
+        "country": "MAR",
+        "state": "OUZ"
+    },
+    {
+        "id": 4940,
+        "name": "Oujda-Angad",
+        "country": "MAR",
+        "state": "OUJ"
+    },
+    {
+        "id": 4942,
+        "name": "Rabat",
+        "country": "MAR",
+        "state": "RAB"
+    },
+    {
+        "id": 4927,
+        "name": "Rabat-Salé-Kénitra",
+        "country": "MAR",
+        "state": "04"
+    },
+    {
+        "id": 4943,
+        "name": "Rehamna",
+        "country": "MAR",
+        "state": "REH"
+    },
+    {
+        "id": 3311,
+        "name": "Safi",
+        "country": "MAR",
+        "state": "SAF"
+    },
+    {
+        "id": 4944,
+        "name": "Salé",
+        "country": "MAR",
+        "state": "SAL"
+    },
+    {
+        "id": 3289,
+        "name": "Sefrou",
+        "country": "MAR",
+        "state": "SEF"
+    },
+    {
+        "id": 3282,
+        "name": "Settat",
+        "country": "MAR",
+        "state": "SET"
+    },
+    {
+        "id": 4945,
+        "name": "Sidi Bennour",
+        "country": "MAR",
+        "state": "SIB"
+    },
+    {
+        "id": 4946,
+        "name": "Sidi Ifni",
+        "country": "MAR",
+        "state": "SIF"
+    },
+    {
+        "id": 3279,
+        "name": "Sidi Kacem",
+        "country": "MAR",
+        "state": "SIK"
+    },
+    {
+        "id": 4952,
+        "name": "Sidi Slimane",
+        "country": "MAR",
+        "state": "SIL"
+    },
+    {
+        "id": 4947,
+        "name": "Skhirate-Témara",
+        "country": "MAR",
+        "state": "SKH"
+    },
+    {
+        "id": 3295,
+        "name": "Souss-Massa",
+        "country": "MAR",
+        "state": "09"
+    },
+    {
+        "id": 3286,
+        "name": "Tan-Tan (EH-partial)",
+        "country": "MAR",
+        "state": "TNT"
+    },
+    {
+        "id": 4950,
+        "name": "Tanger-Assilah",
+        "country": "MAR",
+        "state": "TNG"
+    },
+    {
+        "id": 3324,
+        "name": "Tanger-Tétouan-Al Hoceïma",
+        "country": "MAR",
+        "state": "01"
+    },
+    {
+        "id": 3323,
+        "name": "Taounate",
+        "country": "MAR",
+        "state": "TAO"
+    },
+    {
+        "id": 3322,
+        "name": "Taourirt",
+        "country": "MAR",
+        "state": "TAI"
+    },
+    {
+        "id": 4948,
+        "name": "Tarfaya (EH-partial)",
+        "country": "MAR",
+        "state": "TAF"
+    },
+    {
+        "id": 3314,
+        "name": "Taroudannt",
+        "country": "MAR",
+        "state": "TAR"
+    },
+    {
+        "id": 3312,
+        "name": "Tata",
+        "country": "MAR",
+        "state": "TAT"
+    },
+    {
+        "id": 3296,
+        "name": "Taza",
+        "country": "MAR",
+        "state": "TAZ"
+    },
+    {
+        "id": 3318,
+        "name": "Tétouan",
+        "country": "MAR",
+        "state": "TET"
+    },
+    {
+        "id": 4949,
+        "name": "Tinghir",
+        "country": "MAR",
+        "state": "TIN"
+    },
+    {
+        "id": 3277,
+        "name": "Tiznit",
+        "country": "MAR",
+        "state": "TIZ"
+    },
+    {
+        "id": 4951,
+        "name": "Youssoufia",
+        "country": "MAR",
+        "state": "YUS"
+    },
+    {
+        "id": 3283,
+        "name": "Zagora",
+        "country": "MAR",
+        "state": "ZAG"
+    }
+]

@@ -1,0 +1,3236 @@
+[
+    {
+        "id": 3902,
+        "name": "Abbey",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 3930,
+        "name": "Albany",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 3932,
+        "name": "Albany city centre",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 3946,
+        "name": "Alexander Heights",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 3953,
+        "name": "Alfred Cove",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 3958,
+        "name": "Alkimos",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 3992,
+        "name": "Applecross",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4000,
+        "name": "Ardross",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4003,
+        "name": "Armadale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4013,
+        "name": "Ascot",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4017,
+        "name": "Ashburton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4019,
+        "name": "Ashby",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4021,
+        "name": "Ashfield",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4036,
+        "name": "Attadale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4038,
+        "name": "Atwell",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4039,
+        "name": "Aubin Grove",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4042,
+        "name": "Augusta",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4043,
+        "name": "Augusta-Margaret River Shire",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4049,
+        "name": "Australind",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4050,
+        "name": "Aveley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 149550,
+        "name": "Badgingarra",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4066,
+        "name": "Bakers Hill",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4070,
+        "name": "Balcatta",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4072,
+        "name": "Baldivis",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4073,
+        "name": "Balga",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4078,
+        "name": "Ballajura",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4097,
+        "name": "Banjup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4101,
+        "name": "Banksia Grove",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4135,
+        "name": "Bassendean",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4138,
+        "name": "Bateman",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4150,
+        "name": "Baynton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4151,
+        "name": "Bayonet Head",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4154,
+        "name": "Bayswater",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4157,
+        "name": "Beachlands",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4162,
+        "name": "Beaconsfield",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4171,
+        "name": "Beckenham",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4172,
+        "name": "Bedford",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4174,
+        "name": "Bedfordale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4175,
+        "name": "Beechboro",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4178,
+        "name": "Beeliar",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4185,
+        "name": "Beldon",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4201,
+        "name": "Bellevue",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4209,
+        "name": "Belmont",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4220,
+        "name": "Bennett Springs",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4225,
+        "name": "Bentley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4229,
+        "name": "Beresford",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4245,
+        "name": "Bertram",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4249,
+        "name": "Beverley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4255,
+        "name": "Bibra Lake",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4256,
+        "name": "Bicton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4262,
+        "name": "Bilingurr",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4264,
+        "name": "Bindoon",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4266,
+        "name": "Binningup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4312,
+        "name": "Bluff Point",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4315,
+        "name": "Boddington",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4343,
+        "name": "Booragoon",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4356,
+        "name": "Boulder",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4371,
+        "name": "Boyanup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4373,
+        "name": "Boyup Brook",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4374,
+        "name": "Brabham",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4390,
+        "name": "Brentwood",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4395,
+        "name": "Bridgetown",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4396,
+        "name": "Bridgetown-Greenbushes",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4418,
+        "name": "Broadwater",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4419,
+        "name": "Brockman",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4424,
+        "name": "Brookdale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4429,
+        "name": "Brookton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4432,
+        "name": "Broome",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4433,
+        "name": "Broomehill-Tambellup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4437,
+        "name": "Bruce Rock",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4439,
+        "name": "Brunswick",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4451,
+        "name": "Bulgarra",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4453,
+        "name": "Bull Creek",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4458,
+        "name": "Bullsbrook",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4460,
+        "name": "Bunbury",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4485,
+        "name": "Burns Beach",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4498,
+        "name": "Burswood",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4505,
+        "name": "Busselton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4506,
+        "name": "Busselton city cenre",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4507,
+        "name": "Butler",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4510,
+        "name": "Byford",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4516,
+        "name": "Cable Beach",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4530,
+        "name": "Calista",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4541,
+        "name": "Cambridge",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4549,
+        "name": "Camillo",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4569,
+        "name": "Canning",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4570,
+        "name": "Canning Vale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4571,
+        "name": "Cannington",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4581,
+        "name": "Capel",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4589,
+        "name": "Cardup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4591,
+        "name": "Carey Park",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4594,
+        "name": "Carine",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4599,
+        "name": "Carlisle",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4603,
+        "name": "Carnamah",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4604,
+        "name": "Carnarvon",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4610,
+        "name": "Carramar",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4631,
+        "name": "Castletown",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4633,
+        "name": "Casuarina",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 149557,
+        "name": "Cataby",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4641,
+        "name": "Caversham",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 149552,
+        "name": "Cervantes",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4659,
+        "name": "Champion Lakes",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4663,
+        "name": "Chapman Valley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4686,
+        "name": "Chidlow",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4700,
+        "name": "Chittering",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4705,
+        "name": "Churchlands",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4709,
+        "name": "City Beach",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4710,
+        "name": "City of Cockburn",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4711,
+        "name": "City of Perth",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4718,
+        "name": "Claremont",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4727,
+        "name": "Clarkson",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4748,
+        "name": "Cloverdale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4760,
+        "name": "Cockburn Central",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4773,
+        "name": "College Grove",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4774,
+        "name": "Collie",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4783,
+        "name": "Como",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4792,
+        "name": "Connolly",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4795,
+        "name": "Coodanup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4797,
+        "name": "Coogee",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4807,
+        "name": "Coolbellup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4808,
+        "name": "Coolbinia",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4809,
+        "name": "Coolgardie",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4811,
+        "name": "Cooloongup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4825,
+        "name": "Coorow",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4843,
+        "name": "Corrigin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4848,
+        "name": "Cottesloe",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4851,
+        "name": "Cowaramup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4859,
+        "name": "Craigie",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4869,
+        "name": "Cranbrook",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4873,
+        "name": "Crawley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4897,
+        "name": "Cuballing",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4898,
+        "name": "Cue",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4903,
+        "name": "Cunderdin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4909,
+        "name": "Currambine",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4919,
+        "name": "Daglish",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4923,
+        "name": "Dalkeith",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4926,
+        "name": "Dalwallinu",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4927,
+        "name": "Dalyellup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4928,
+        "name": "Dampier",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4929,
+        "name": "Dampier Peninsula",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4930,
+        "name": "Dandaragan",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4934,
+        "name": "Darch",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4935,
+        "name": "Dardanup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4938,
+        "name": "Darling Downs",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4943,
+        "name": "Darlington",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4952,
+        "name": "Dawesville",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4955,
+        "name": "Dayton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4968,
+        "name": "Denham",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4974,
+        "name": "Denmark",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4977,
+        "name": "Derby",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4978,
+        "name": "Derby-West Kimberley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4988,
+        "name": "Dianella",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 4997,
+        "name": "Djugun",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5004,
+        "name": "Dongara",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5005,
+        "name": "Donnybrook",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5006,
+        "name": "Donnybrook-Balingup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5017,
+        "name": "Doubleview",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5023,
+        "name": "Dowerin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5030,
+        "name": "Drummond Cove",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5035,
+        "name": "Dudley Park",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5039,
+        "name": "Dumbleyung Shire",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5040,
+        "name": "Duncraig",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5041,
+        "name": "Dundas",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5047,
+        "name": "Dunsborough",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5069,
+        "name": "East Bunbury",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5070,
+        "name": "East Cannington",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5071,
+        "name": "East Carnarvon",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5074,
+        "name": "East Fremantle",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5091,
+        "name": "East Perth",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5092,
+        "name": "East Pilbara",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5097,
+        "name": "East Victoria Park",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5101,
+        "name": "Eaton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5106,
+        "name": "Eden Hill",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5113,
+        "name": "Edgewater",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5120,
+        "name": "Eglinton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5141,
+        "name": "Ellenbrook",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5149,
+        "name": "Embleton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5170,
+        "name": "Erskine",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5175,
+        "name": "Esperance",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5176,
+        "name": "Esperance Shire",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5202,
+        "name": "Exmouth",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5214,
+        "name": "Falcon",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5226,
+        "name": "Ferndale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5242,
+        "name": "Fitzroy Crossing",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5256,
+        "name": "Floreat",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5271,
+        "name": "Forrestdale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5273,
+        "name": "Forrestfield",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5289,
+        "name": "Fremantle",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5303,
+        "name": "Garden Island",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5321,
+        "name": "Gelorup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5323,
+        "name": "Geographe",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5327,
+        "name": "Geraldton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5328,
+        "name": "Geraldton city centre",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5330,
+        "name": "Gidgegannup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5339,
+        "name": "Gingin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5344,
+        "name": "Girrawheen",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5357,
+        "name": "Glen Forrest",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5361,
+        "name": "Glen Iris",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5368,
+        "name": "Glendalough",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5397,
+        "name": "Gnangara",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5398,
+        "name": "Gnowangerup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5401,
+        "name": "Golden Bay",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5414,
+        "name": "Goomalling",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5417,
+        "name": "Gooseberry Hill",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5425,
+        "name": "Gosnells",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5441,
+        "name": "Grasmere",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 149556,
+        "name": "Green Head",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5455,
+        "name": "Greenfields",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5456,
+        "name": "Greenmount",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5465,
+        "name": "Greenwood",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5475,
+        "name": "Guildford",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5490,
+        "name": "Gwelup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5508,
+        "name": "Halls Creek",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5509,
+        "name": "Halls Head",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5510,
+        "name": "Hamersley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5514,
+        "name": "Hamilton Hill",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5517,
+        "name": "Hammond Park",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5523,
+        "name": "Hannans",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5530,
+        "name": "Harrisdale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5533,
+        "name": "Harvey",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5560,
+        "name": "Heathridge",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5570,
+        "name": "Helena Valley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5578,
+        "name": "Henley Brook",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5585,
+        "name": "Herne Hill",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5593,
+        "name": "High Wycombe",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5597,
+        "name": "Highgate",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5603,
+        "name": "Hilbert",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 149559,
+        "name": "Hill River",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5605,
+        "name": "Hillarys",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5610,
+        "name": "Hillman",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5615,
+        "name": "Hilton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5625,
+        "name": "Hocking",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5671,
+        "name": "Huntingdale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5683,
+        "name": "Iluka",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5692,
+        "name": "Inglewood",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5693,
+        "name": "Innaloo",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5704,
+        "name": "Irwin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5721,
+        "name": "Jandakot",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5723,
+        "name": "Jane Brook",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5725,
+        "name": "Jarrahdale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5729,
+        "name": "Jerramungup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5735,
+        "name": "Jindalee",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5740,
+        "name": "Jolimont",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5741,
+        "name": "Joondalup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5742,
+        "name": "Joondanna",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5752,
+        "name": "Jurien Bay",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5755,
+        "name": "Kalamunda",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5757,
+        "name": "Kalbarri",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5759,
+        "name": "Kalgoorlie",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5760,
+        "name": "Kalgoorlie/Boulder",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5765,
+        "name": "Kallaroo",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5769,
+        "name": "Kambalda East",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5770,
+        "name": "Kambalda West",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5786,
+        "name": "Karawara",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5787,
+        "name": "Kardinya",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5790,
+        "name": "Karnup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5792,
+        "name": "Karratha",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5793,
+        "name": "Karrinyup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5796,
+        "name": "Katanning",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5814,
+        "name": "Kellerberrin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5817,
+        "name": "Kelmscott",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5832,
+        "name": "Kent Shire",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5836,
+        "name": "Kenwick",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5845,
+        "name": "Kewdale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5850,
+        "name": "Kiara",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5880,
+        "name": "Kingsley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5891,
+        "name": "Kinross",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5903,
+        "name": "Kojonup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5904,
+        "name": "Kondinin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5907,
+        "name": "Koondoola",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5910,
+        "name": "Koorda",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5921,
+        "name": "Kulin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5923,
+        "name": "Kununurra",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5933,
+        "name": "Kwinana",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5945,
+        "name": "Lake Grace",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5953,
+        "name": "Lakelands",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5961,
+        "name": "Lamington",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 149555,
+        "name": "Lancelin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5965,
+        "name": "Landsdale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5970,
+        "name": "Langford",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5981,
+        "name": "Lathlain",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5989,
+        "name": "Laverton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5996,
+        "name": "Leda",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5997,
+        "name": "Leederville",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 149554,
+        "name": "Leeman",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 5998,
+        "name": "Leeming",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6003,
+        "name": "Leinster",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6009,
+        "name": "Leonora",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6012,
+        "name": "Leschenault",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6013,
+        "name": "Lesmurdie",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6036,
+        "name": "Little Grove",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6048,
+        "name": "Lockridge",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6049,
+        "name": "Lockyer",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6074,
+        "name": "Lower Chittering",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6076,
+        "name": "Lower King",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6092,
+        "name": "Lynwood",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6118,
+        "name": "Maddington",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6119,
+        "name": "Madeley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6120,
+        "name": "Madora Bay",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6124,
+        "name": "Maida Vale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 149549,
+        "name": "Malaga",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6143,
+        "name": "Mandurah",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6144,
+        "name": "Mandurah city centre",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6150,
+        "name": "Manjimup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6155,
+        "name": "Manning",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6167,
+        "name": "Marangaroo",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6171,
+        "name": "Marble Bar",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6176,
+        "name": "Margaret River",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6185,
+        "name": "Marmion",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6195,
+        "name": "Martin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6211,
+        "name": "Maylands",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6217,
+        "name": "McKail",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6225,
+        "name": "Meadow Springs",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6230,
+        "name": "Medina",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6233,
+        "name": "Meekatharra",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6242,
+        "name": "Melville",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6246,
+        "name": "Menora",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6248,
+        "name": "Menzies",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6259,
+        "name": "Merredin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6262,
+        "name": "Merriwa",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6276,
+        "name": "Middle Swan",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6280,
+        "name": "Midland",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6281,
+        "name": "Midvale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6289,
+        "name": "Millars Well",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6291,
+        "name": "Millbridge",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6306,
+        "name": "Mindarie",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6309,
+        "name": "Mingenew",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6313,
+        "name": "Mira Mar",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6317,
+        "name": "Mirrabooka",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6365,
+        "name": "Moora",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6377,
+        "name": "Morawa",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6385,
+        "name": "Morley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6400,
+        "name": "Mosman Park",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6407,
+        "name": "Mount Barker",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6410,
+        "name": "Mount Claremont",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6425,
+        "name": "Mount Hawthorn",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6427,
+        "name": "Mount Helena",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6433,
+        "name": "Mount Lawley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6439,
+        "name": "Mount Magnet",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6440,
+        "name": "Mount Marshall",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6442,
+        "name": "Mount Melville",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6444,
+        "name": "Mount Nasura",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6450,
+        "name": "Mount Pleasant",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6455,
+        "name": "Mount Richon",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6460,
+        "name": "Mount Tarcoola",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 149551,
+        "name": "Muchea",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6473,
+        "name": "Mukinbudin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6477,
+        "name": "Mullaloo",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6480,
+        "name": "Mundaring",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6481,
+        "name": "Mundijong",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6488,
+        "name": "Munster",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6490,
+        "name": "Murchison",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6491,
+        "name": "Murdoch",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6493,
+        "name": "Murray",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6504,
+        "name": "Myaree",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6519,
+        "name": "Nannup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6528,
+        "name": "Narembeen",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6540,
+        "name": "Narrogin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6546,
+        "name": "Nedlands",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6569,
+        "name": "Newman",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6581,
+        "name": "Ngaanyatjarraku",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6590,
+        "name": "Nickol",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6600,
+        "name": "Nollamara",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6604,
+        "name": "Noranda",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6616,
+        "name": "North Beach",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6624,
+        "name": "North Coogee",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6627,
+        "name": "North Fremantle",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6634,
+        "name": "North Lake",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6644,
+        "name": "North Perth",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6661,
+        "name": "Northam",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6662,
+        "name": "Northampton Shire",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6664,
+        "name": "Northbridge",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6682,
+        "name": "Nullagine",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6683,
+        "name": "Nulsen",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6687,
+        "name": "Nungarin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6699,
+        "name": "Oakford",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6711,
+        "name": "Ocean Reef",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6726,
+        "name": "Onslow",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6730,
+        "name": "Orana",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6736,
+        "name": "Orelia",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6743,
+        "name": "Osborne Park",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6756,
+        "name": "Padbury",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6772,
+        "name": "Palmyra",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6779,
+        "name": "Paraburdoo",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6793,
+        "name": "Parkerville",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6802,
+        "name": "Parkwood",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6803,
+        "name": "Parmelia",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6819,
+        "name": "Pearce",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6822,
+        "name": "Pearsall",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6823,
+        "name": "Pegs Creek",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6825,
+        "name": "Pemberton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6835,
+        "name": "Peppermint Grove",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6838,
+        "name": "Perenjori",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6840,
+        "name": "Perth",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6841,
+        "name": "Perth city centre",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6851,
+        "name": "Piara Waters",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6852,
+        "name": "Piccadilly",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6859,
+        "name": "Pingelly",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6860,
+        "name": "Pinjarra",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6865,
+        "name": "Plantagenet Shire",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6887,
+        "name": "Port Denison",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6892,
+        "name": "Port Hedland",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6894,
+        "name": "Port Kennedy",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6932,
+        "name": "Quairading",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6938,
+        "name": "Queens Park",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6947,
+        "name": "Quindalup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6948,
+        "name": "Quinns Rocks",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6961,
+        "name": "Rangeway",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6969,
+        "name": "Ravensthorpe",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6971,
+        "name": "Ravenswood",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 6981,
+        "name": "Redcliffe",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 149558,
+        "name": "Regans Ford",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7013,
+        "name": "Ridgewood",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7026,
+        "name": "Riverton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7027,
+        "name": "Rivervale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7044,
+        "name": "Rockingham",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7045,
+        "name": "Rockingham city centre",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7049,
+        "name": "Roebuck",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7051,
+        "name": "Roleystone",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7079,
+        "name": "Rossmoyne",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7106,
+        "name": "Safety Bay",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7128,
+        "name": "Salter Point",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7130,
+        "name": "Samson",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7139,
+        "name": "Sandstone",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7149,
+        "name": "Scarborough",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7172,
+        "name": "Secret Harbour",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7181,
+        "name": "Serpentine",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7182,
+        "name": "Serpentine-Jarrahdale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7188,
+        "name": "Seville Grove",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7192,
+        "name": "Shark Bay",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7199,
+        "name": "Shelley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7202,
+        "name": "Shenton Park",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7208,
+        "name": "Shoalwater",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7214,
+        "name": "Silver Sands",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7217,
+        "name": "Sinagra",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7218,
+        "name": "Singleton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7245,
+        "name": "Somerville",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7248,
+        "name": "Sorrento",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7254,
+        "name": "South Bunbury",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7256,
+        "name": "South Carnarvon",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7258,
+        "name": "South Fremantle",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7263,
+        "name": "South Guildford",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7264,
+        "name": "South Hedland",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7267,
+        "name": "South Kalgoorlie",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7271,
+        "name": "South Lake",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7281,
+        "name": "South Perth",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7291,
+        "name": "South Yunderup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7297,
+        "name": "Southern River",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7300,
+        "name": "Spalding",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7301,
+        "name": "Spearwood",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7304,
+        "name": "Spencer Park",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7323,
+        "name": "St George Ranges",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7330,
+        "name": "St James",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7347,
+        "name": "Stirling",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7351,
+        "name": "Stoneville",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7356,
+        "name": "Strathalbyn",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7365,
+        "name": "Stratton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7371,
+        "name": "Subiaco",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7372,
+        "name": "Success",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7383,
+        "name": "Sunset Beach",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7401,
+        "name": "Swan",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7403,
+        "name": "Swan View",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7404,
+        "name": "Swanbourne",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7424,
+        "name": "Tammin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7433,
+        "name": "Tapping",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7436,
+        "name": "Tarcoola Beach",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7458,
+        "name": "Telfer",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7496,
+        "name": "The Vines",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7507,
+        "name": "Thornlie",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7509,
+        "name": "Three Springs",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7526,
+        "name": "Tom Price",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7530,
+        "name": "Toodyay",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7560,
+        "name": "Trayning",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7564,
+        "name": "Trigg",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7571,
+        "name": "Tuart Hill",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7594,
+        "name": "Two Rocks",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7609,
+        "name": "Upper Gascoyne",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7619,
+        "name": "Usher",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7620,
+        "name": "Utakarra",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7627,
+        "name": "Vasse",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7633,
+        "name": "Victoria Park",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7634,
+        "name": "Victoria Plains",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7638,
+        "name": "Vincent",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7645,
+        "name": "Viveash",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7653,
+        "name": "Waggrakine",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7654,
+        "name": "Wagin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7658,
+        "name": "Waikiki",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7682,
+        "name": "Wandering",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7683,
+        "name": "Wandi",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7685,
+        "name": "Wandina",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7691,
+        "name": "Wannanup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7692,
+        "name": "Wanneroo",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7706,
+        "name": "Warnbro",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7709,
+        "name": "Waroona",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7726,
+        "name": "Warwick",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7729,
+        "name": "Waterford",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7732,
+        "name": "Watermans Bay",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7739,
+        "name": "Wattle Grove",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7755,
+        "name": "Wellard",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7760,
+        "name": "Wembley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7761,
+        "name": "Wembley Downs",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7776,
+        "name": "West Arthur",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7780,
+        "name": "West Beach",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7781,
+        "name": "West Busselton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7795,
+        "name": "West Lamington",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7797,
+        "name": "West Leederville",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7803,
+        "name": "West Perth",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7826,
+        "name": "Westminster",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7828,
+        "name": "Westonia",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7833,
+        "name": "White Gum Valley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7848,
+        "name": "Wickepin",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7850,
+        "name": "Wickham",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7853,
+        "name": "Willagee",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7855,
+        "name": "Willetton",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7856,
+        "name": "Williams",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7868,
+        "name": "Wilson",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7873,
+        "name": "Wiluna",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7889,
+        "name": "Winthrop",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7893,
+        "name": "Withers",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7907,
+        "name": "Wongan-Ballidu",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7910,
+        "name": "Wonthella",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7911,
+        "name": "Woodanilling",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7914,
+        "name": "Woodbridge",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 149553,
+        "name": "Woodridge",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7927,
+        "name": "Woodvale",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7947,
+        "name": "Wooroloo",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7948,
+        "name": "Woorree",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7961,
+        "name": "Wundowie",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7966,
+        "name": "Wyalkatchem",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7971,
+        "name": "Wyndham-East Kimberley",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7982,
+        "name": "Yakamia",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7983,
+        "name": "Yalgoo",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7985,
+        "name": "Yallingup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7987,
+        "name": "Yalyalup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7990,
+        "name": "Yanchep",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 7992,
+        "name": "Yangebup",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 8022,
+        "name": "Yilgarn",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 8023,
+        "name": "Yokine",
+        "country": "AUS",
+        "state": "WA"
+    },
+    {
+        "id": 8025,
+        "name": "York",
+        "country": "AUS",
+        "state": "WA"
+    }
+]

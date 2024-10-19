@@ -1,0 +1,488 @@
+[
+    {
+        "id": 2212,
+        "name": "Adana",
+        "country": "TUR",
+        "state": "01"
+    },
+    {
+        "id": 2155,
+        "name": "Adıyaman",
+        "country": "TUR",
+        "state": "02"
+    },
+    {
+        "id": 2179,
+        "name": "Afyonkarahisar",
+        "country": "TUR",
+        "state": "03"
+    },
+    {
+        "id": 2193,
+        "name": "Ağrı",
+        "country": "TUR",
+        "state": "04"
+    },
+    {
+        "id": 2210,
+        "name": "Aksaray",
+        "country": "TUR",
+        "state": "68"
+    },
+    {
+        "id": 2161,
+        "name": "Amasya",
+        "country": "TUR",
+        "state": "05"
+    },
+    {
+        "id": 2217,
+        "name": "Ankara",
+        "country": "TUR",
+        "state": "06"
+    },
+    {
+        "id": 2169,
+        "name": "Antalya",
+        "country": "TUR",
+        "state": "07"
+    },
+    {
+        "id": 2185,
+        "name": "Ardahan",
+        "country": "TUR",
+        "state": "75"
+    },
+    {
+        "id": 2191,
+        "name": "Artvin",
+        "country": "TUR",
+        "state": "08"
+    },
+    {
+        "id": 2187,
+        "name": "Aydın",
+        "country": "TUR",
+        "state": "09"
+    },
+    {
+        "id": 2175,
+        "name": "Balıkesir",
+        "country": "TUR",
+        "state": "10"
+    },
+    {
+        "id": 2148,
+        "name": "Bartın",
+        "country": "TUR",
+        "state": "74"
+    },
+    {
+        "id": 2194,
+        "name": "Batman",
+        "country": "TUR",
+        "state": "72"
+    },
+    {
+        "id": 2177,
+        "name": "Bayburt",
+        "country": "TUR",
+        "state": "69"
+    },
+    {
+        "id": 2221,
+        "name": "Bilecik",
+        "country": "TUR",
+        "state": "11"
+    },
+    {
+        "id": 2153,
+        "name": "Bingöl",
+        "country": "TUR",
+        "state": "12"
+    },
+    {
+        "id": 2215,
+        "name": "Bitlis",
+        "country": "TUR",
+        "state": "13"
+    },
+    {
+        "id": 2172,
+        "name": "Bolu",
+        "country": "TUR",
+        "state": "14"
+    },
+    {
+        "id": 2209,
+        "name": "Burdur",
+        "country": "TUR",
+        "state": "15"
+    },
+    {
+        "id": 2163,
+        "name": "Bursa",
+        "country": "TUR",
+        "state": "16"
+    },
+    {
+        "id": 2216,
+        "name": "Çanakkale",
+        "country": "TUR",
+        "state": "17"
+    },
+    {
+        "id": 2168,
+        "name": "Çankırı",
+        "country": "TUR",
+        "state": "18"
+    },
+    {
+        "id": 2173,
+        "name": "Çorum",
+        "country": "TUR",
+        "state": "19"
+    },
+    {
+        "id": 2157,
+        "name": "Denizli",
+        "country": "TUR",
+        "state": "20"
+    },
+    {
+        "id": 2226,
+        "name": "Diyarbakır",
+        "country": "TUR",
+        "state": "21"
+    },
+    {
+        "id": 2202,
+        "name": "Düzce",
+        "country": "TUR",
+        "state": "81"
+    },
+    {
+        "id": 2151,
+        "name": "Edirne",
+        "country": "TUR",
+        "state": "22"
+    },
+    {
+        "id": 2159,
+        "name": "Elazığ",
+        "country": "TUR",
+        "state": "23"
+    },
+    {
+        "id": 2160,
+        "name": "Erzincan",
+        "country": "TUR",
+        "state": "24"
+    },
+    {
+        "id": 2165,
+        "name": "Erzurum",
+        "country": "TUR",
+        "state": "25"
+    },
+    {
+        "id": 2164,
+        "name": "Eskişehir",
+        "country": "TUR",
+        "state": "26"
+    },
+    {
+        "id": 2203,
+        "name": "Gaziantep",
+        "country": "TUR",
+        "state": "27"
+    },
+    {
+        "id": 2186,
+        "name": "Giresun",
+        "country": "TUR",
+        "state": "28"
+    },
+    {
+        "id": 2204,
+        "name": "Gümüşhane",
+        "country": "TUR",
+        "state": "29"
+    },
+    {
+        "id": 2190,
+        "name": "Hakkâri",
+        "country": "TUR",
+        "state": "30"
+    },
+    {
+        "id": 2211,
+        "name": "Hatay",
+        "country": "TUR",
+        "state": "31"
+    },
+    {
+        "id": 2166,
+        "name": "Iğdır",
+        "country": "TUR",
+        "state": "76"
+    },
+    {
+        "id": 2222,
+        "name": "Isparta",
+        "country": "TUR",
+        "state": "32"
+    },
+    {
+        "id": 2170,
+        "name": "İstanbul",
+        "country": "TUR",
+        "state": "34"
+    },
+    {
+        "id": 2205,
+        "name": "İzmir",
+        "country": "TUR",
+        "state": "35"
+    },
+    {
+        "id": 2227,
+        "name": "Kahramanmaraş",
+        "country": "TUR",
+        "state": "46"
+    },
+    {
+        "id": 2223,
+        "name": "Karabük",
+        "country": "TUR",
+        "state": "78"
+    },
+    {
+        "id": 2184,
+        "name": "Karaman",
+        "country": "TUR",
+        "state": "70"
+    },
+    {
+        "id": 2208,
+        "name": "Kars",
+        "country": "TUR",
+        "state": "36"
+    },
+    {
+        "id": 2197,
+        "name": "Kastamonu",
+        "country": "TUR",
+        "state": "37"
+    },
+    {
+        "id": 2200,
+        "name": "Kayseri",
+        "country": "TUR",
+        "state": "38"
+    },
+    {
+        "id": 2154,
+        "name": "Kilis",
+        "country": "TUR",
+        "state": "79"
+    },
+    {
+        "id": 2178,
+        "name": "Kırıkkale",
+        "country": "TUR",
+        "state": "71"
+    },
+    {
+        "id": 2176,
+        "name": "Kırklareli",
+        "country": "TUR",
+        "state": "39"
+    },
+    {
+        "id": 2180,
+        "name": "Kırşehir",
+        "country": "TUR",
+        "state": "40"
+    },
+    {
+        "id": 2195,
+        "name": "Kocaeli",
+        "country": "TUR",
+        "state": "41"
+    },
+    {
+        "id": 2171,
+        "name": "Konya",
+        "country": "TUR",
+        "state": "42"
+    },
+    {
+        "id": 2149,
+        "name": "Kütahya",
+        "country": "TUR",
+        "state": "43"
+    },
+    {
+        "id": 2158,
+        "name": "Malatya",
+        "country": "TUR",
+        "state": "44"
+    },
+    {
+        "id": 2198,
+        "name": "Manisa",
+        "country": "TUR",
+        "state": "45"
+    },
+    {
+        "id": 2224,
+        "name": "Mardin",
+        "country": "TUR",
+        "state": "47"
+    },
+    {
+        "id": 2156,
+        "name": "Mersin",
+        "country": "TUR",
+        "state": "33"
+    },
+    {
+        "id": 2182,
+        "name": "Muğla",
+        "country": "TUR",
+        "state": "48"
+    },
+    {
+        "id": 2162,
+        "name": "Muş",
+        "country": "TUR",
+        "state": "49"
+    },
+    {
+        "id": 2196,
+        "name": "Nevşehir",
+        "country": "TUR",
+        "state": "50"
+    },
+    {
+        "id": 2189,
+        "name": "Niğde",
+        "country": "TUR",
+        "state": "51"
+    },
+    {
+        "id": 2174,
+        "name": "Ordu",
+        "country": "TUR",
+        "state": "52"
+    },
+    {
+        "id": 2214,
+        "name": "Osmaniye",
+        "country": "TUR",
+        "state": "80"
+    },
+    {
+        "id": 2219,
+        "name": "Rize",
+        "country": "TUR",
+        "state": "53"
+    },
+    {
+        "id": 2150,
+        "name": "Sakarya",
+        "country": "TUR",
+        "state": "54"
+    },
+    {
+        "id": 2220,
+        "name": "Samsun",
+        "country": "TUR",
+        "state": "55"
+    },
+    {
+        "id": 2183,
+        "name": "Şanlıurfa",
+        "country": "TUR",
+        "state": "63"
+    },
+    {
+        "id": 2207,
+        "name": "Siirt",
+        "country": "TUR",
+        "state": "56"
+    },
+    {
+        "id": 4854,
+        "name": "Sinop",
+        "country": "TUR",
+        "state": "57"
+    },
+    {
+        "id": 2181,
+        "name": "Sivas",
+        "country": "TUR",
+        "state": "58"
+    },
+    {
+        "id": 2225,
+        "name": "Şırnak",
+        "country": "TUR",
+        "state": "73"
+    },
+    {
+        "id": 2167,
+        "name": "Tekirdağ",
+        "country": "TUR",
+        "state": "59"
+    },
+    {
+        "id": 2199,
+        "name": "Tokat",
+        "country": "TUR",
+        "state": "60"
+    },
+    {
+        "id": 2206,
+        "name": "Trabzon",
+        "country": "TUR",
+        "state": "61"
+    },
+    {
+        "id": 2192,
+        "name": "Tunceli",
+        "country": "TUR",
+        "state": "62"
+    },
+    {
+        "id": 2201,
+        "name": "Uşak",
+        "country": "TUR",
+        "state": "64"
+    },
+    {
+        "id": 2152,
+        "name": "Van",
+        "country": "TUR",
+        "state": "65"
+    },
+    {
+        "id": 2218,
+        "name": "Yalova",
+        "country": "TUR",
+        "state": "77"
+    },
+    {
+        "id": 2188,
+        "name": "Yozgat",
+        "country": "TUR",
+        "state": "66"
+    },
+    {
+        "id": 2213,
+        "name": "Zonguldak",
+        "country": "TUR",
+        "state": "67"
+    }
+]

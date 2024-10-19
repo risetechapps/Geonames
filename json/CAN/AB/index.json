@@ -1,0 +1,692 @@
+[
+    {
+        "id": 16151,
+        "name": "Airdrie",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16178,
+        "name": "Athabasca",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16190,
+        "name": "Banff",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16192,
+        "name": "Barrhead",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16196,
+        "name": "Bassano",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16204,
+        "name": "Beaumont",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16207,
+        "name": "Beaverlodge",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16219,
+        "name": "Black Diamond",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16220,
+        "name": "Blackfalds",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16226,
+        "name": "Bon Accord",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16229,
+        "name": "Bonnyville",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16234,
+        "name": "Bow Island",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16245,
+        "name": "Brooks",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16259,
+        "name": "Calgary",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16260,
+        "name": "Calmar",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16265,
+        "name": "Camrose",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16267,
+        "name": "Canmore",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16277,
+        "name": "Cardston",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16284,
+        "name": "Carstairs",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16305,
+        "name": "Chestermere",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16314,
+        "name": "Claresholm",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16316,
+        "name": "Coaldale",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16317,
+        "name": "Coalhurst",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16320,
+        "name": "Cochrane",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16323,
+        "name": "Cold Lake",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16349,
+        "name": "Crossfield",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16371,
+        "name": "Devon",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16372,
+        "name": "Didsbury",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16383,
+        "name": "Drayton Valley",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16396,
+        "name": "Edmonton",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16398,
+        "name": "Edson",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16399,
+        "name": "Elk Point",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16413,
+        "name": "Fairview",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16415,
+        "name": "Falher",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16429,
+        "name": "Fort Macleod",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16430,
+        "name": "Fort McMurray",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16433,
+        "name": "Fort Saskatchewan",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16438,
+        "name": "Fox Creek",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16450,
+        "name": "Gibbons",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16463,
+        "name": "Grand Centre",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16466,
+        "name": "Grande Cache",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16467,
+        "name": "Grande Prairie",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16476,
+        "name": "Grimshaw",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16488,
+        "name": "Hanna",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16502,
+        "name": "Heritage Pointe",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16503,
+        "name": "High Level",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16504,
+        "name": "High Prairie",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16505,
+        "name": "High River",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16506,
+        "name": "Hinton",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16526,
+        "name": "Irricana",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16528,
+        "name": "Jasper Park Lodge",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16543,
+        "name": "Killam",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16575,
+        "name": "Lac La Biche",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16585,
+        "name": "Lacombe",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16592,
+        "name": "Lamont",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16602,
+        "name": "Larkspur",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16603,
+        "name": "Laurel",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16610,
+        "name": "Leduc",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16614,
+        "name": "Lethbridge",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16625,
+        "name": "Lloydminster",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16645,
+        "name": "Magrath",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16653,
+        "name": "Manning",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16654,
+        "name": "Mannville",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16657,
+        "name": "Maple Ridge",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16671,
+        "name": "Mayerthorpe",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16675,
+        "name": "Medicine Hat",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16689,
+        "name": "Mill Woods Town Centre",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16691,
+        "name": "Millet",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16719,
+        "name": "Morinville",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16729,
+        "name": "Nanton",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16774,
+        "name": "Okotoks",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16775,
+        "name": "Olds",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16803,
+        "name": "Peace River",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16810,
+        "name": "Penhold",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16820,
+        "name": "Picture Butte",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16824,
+        "name": "Pincher Creek",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16834,
+        "name": "Ponoka",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16861,
+        "name": "Provost",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16871,
+        "name": "Raymond",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16873,
+        "name": "Red Deer",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16889,
+        "name": "Rideau Park",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16892,
+        "name": "Rimbey",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 16901,
+        "name": "Rocky Mountain House",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17029,
+        "name": "Sexsmith",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17040,
+        "name": "Sherwood Park",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17044,
+        "name": "Silver Berry",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17049,
+        "name": "Slave Lake",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17052,
+        "name": "Smoky Lake",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17061,
+        "name": "Spirit River",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17062,
+        "name": "Springbrook",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17065,
+        "name": "Spruce Grove",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17068,
+        "name": "St. Albert",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17078,
+        "name": "Stettler",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17082,
+        "name": "Stony Plain",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17084,
+        "name": "Strathmore",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17088,
+        "name": "Sundre",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17092,
+        "name": "Swan Hills",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17097,
+        "name": "Sylvan Lake",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17098,
+        "name": "Taber",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17099,
+        "name": "Tamarack",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17110,
+        "name": "Three Hills",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17118,
+        "name": "Tofield",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17131,
+        "name": "Two Hills",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17143,
+        "name": "Valleyview",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17151,
+        "name": "Vegreville",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17154,
+        "name": "Vermilion",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17158,
+        "name": "Viking",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17163,
+        "name": "Vulcan",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17166,
+        "name": "Wainwright",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17187,
+        "name": "Wembley",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17194,
+        "name": "Westlake",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17195,
+        "name": "Westlock",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17197,
+        "name": "Wetaskiwin",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17203,
+        "name": "Whitecourt",
+        "country": "CAN",
+        "state": "AB"
+    },
+    {
+        "id": 17205,
+        "name": "Wild Rose",
+        "country": "CAN",
+        "state": "AB"
+    }
+]

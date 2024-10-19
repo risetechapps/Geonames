@@ -1,0 +1,980 @@
+[
+    {
+        "id": 89872,
+        "name": "23 August",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 89879,
+        "name": "Adamclisi",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 89896,
+        "name": "Agigea",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 89917,
+        "name": "Albeşti",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 89931,
+        "name": "Aliman",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 89950,
+        "name": "Amzacea",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90532,
+        "name": "Băneasa",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90546,
+        "name": "Bărăganu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90584,
+        "name": "Castelu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90623,
+        "name": "Cerchezu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90630,
+        "name": "Cernavodă",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90678,
+        "name": "Chirnogeni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90705,
+        "name": "Ciobanu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90711,
+        "name": "Ciocârlia",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90712,
+        "name": "Ciocârlia de Sus",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90775,
+        "name": "Cobadin",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90787,
+        "name": "Cogealac",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90804,
+        "name": "Comana",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90817,
+        "name": "Comuna 23 August",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90821,
+        "name": "Comuna Adamclisi",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90831,
+        "name": "Comuna Agigea",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90842,
+        "name": "Comuna Albeşti",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90852,
+        "name": "Comuna Aliman",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 90864,
+        "name": "Comuna Amzacea",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91242,
+        "name": "Comuna Bărăganu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91264,
+        "name": "Comuna Castelu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91288,
+        "name": "Comuna Cerchezu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91321,
+        "name": "Comuna Chirnogeni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91339,
+        "name": "Comuna Ciobanu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91344,
+        "name": "Comuna Ciocârlia",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91384,
+        "name": "Comuna Cobadin",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91393,
+        "name": "Comuna Cogealac",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91403,
+        "name": "Comuna Comana",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91429,
+        "name": "Comuna Corbu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91459,
+        "name": "Comuna Costineşti",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91508,
+        "name": "Comuna Crucea",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91524,
+        "name": "Comuna Cumpăna",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91534,
+        "name": "Comuna Cuza Voda",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91609,
+        "name": "Comuna Deleni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93583,
+        "name": "Comună Dobromir",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91716,
+        "name": "Comuna Dumbrăveni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91806,
+        "name": "Comuna Fântânele",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91975,
+        "name": "Comuna Gârliciu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91860,
+        "name": "Comuna Ghindăreşti",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 91935,
+        "name": "Comuna Grădina",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92017,
+        "name": "Comuna Horia",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92079,
+        "name": "Comuna Independenţa",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92081,
+        "name": "Comuna Ion Corvin",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92094,
+        "name": "Comuna Istria",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92165,
+        "name": "Comuna Limanu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92166,
+        "name": "Comuna Lipniţa",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92196,
+        "name": "Comuna Lumina",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92258,
+        "name": "Comuna Mereni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92274,
+        "name": "Comuna Mihai Viteazu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92277,
+        "name": "Comuna Mihail Kogălniceanu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92296,
+        "name": "Comuna Mircea Vodă",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92440,
+        "name": "Comuna Nicolae Bălcescu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92498,
+        "name": "Comuna Oltina",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92518,
+        "name": "Comuna Ostrov",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92534,
+        "name": "Comuna Pantelimon",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92544,
+        "name": "Comuna Pecineaga",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92570,
+        "name": "Comuna Peştera",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92607,
+        "name": "Comuna Poarta Albă",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92748,
+        "name": "Comuna Rasova",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93082,
+        "name": "Comuna Săcele",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92867,
+        "name": "Comuna Saligny",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92873,
+        "name": "Comuna Saraiu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92919,
+        "name": "Comuna Seimeni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 92931,
+        "name": "Comuna Siliştea",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93225,
+        "name": "Comuna Târguşor",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93173,
+        "name": "Comuna Topalu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93181,
+        "name": "Comuna Topraisar",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93183,
+        "name": "Comuna Tortoman",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93220,
+        "name": "Comuna Tuzla",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93330,
+        "name": "Comuna Valu lui Traian",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93423,
+        "name": "Comuna Vulturu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93595,
+        "name": "Constanţa",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93618,
+        "name": "Corbu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93667,
+        "name": "Costineşti",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93741,
+        "name": "Crucea",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93768,
+        "name": "Culmea",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93769,
+        "name": "Cumpăna",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93783,
+        "name": "Cuza Vodă",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93913,
+        "name": "Deleni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 93962,
+        "name": "Dobromir",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94004,
+        "name": "Dorobanțu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94074,
+        "name": "Dulcești",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94083,
+        "name": "Dumbrăveni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94101,
+        "name": "Dunăreni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94137,
+        "name": "Eforie Nord",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94138,
+        "name": "Eforie Sud",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94248,
+        "name": "Făclia",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94239,
+        "name": "Fântânele",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94494,
+        "name": "Gârliciu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94329,
+        "name": "Ghindăreşti",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94433,
+        "name": "Grădina",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94594,
+        "name": "Hârşova",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94560,
+        "name": "Horia",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94664,
+        "name": "Independenţa",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94673,
+        "name": "Ion Corvin",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94692,
+        "name": "Istria",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94798,
+        "name": "Limanu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94802,
+        "name": "Lipniţa",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94849,
+        "name": "Lumina",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94920,
+        "name": "Mamaia-Sat",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94922,
+        "name": "Mangalia",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94942,
+        "name": "Medgidia",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94952,
+        "name": "Mereni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94978,
+        "name": "Mihai Viteazu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 94984,
+        "name": "Mihail Kogălniceanu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95012,
+        "name": "Mircea Vodă",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95094,
+        "name": "Moșneni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95127,
+        "name": "Municipiul Constanţa",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95152,
+        "name": "Municipiul Mangalia",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95154,
+        "name": "Municipiul Medgidia",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95204,
+        "name": "Murfatlar",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95377,
+        "name": "Năvodari",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95324,
+        "name": "Negru Vodă",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95337,
+        "name": "Nicolae Bălcescu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95348,
+        "name": "Nisipari",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95364,
+        "name": "Nuntași",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95434,
+        "name": "Oltina",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95488,
+        "name": "Oraş Bãneasa",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95490,
+        "name": "Oraş Cernavodã",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95514,
+        "name": "Oraş Eforie",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95532,
+        "name": "Oraş Hârşova",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95544,
+        "name": "Oraş Murfatlar",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95555,
+        "name": "Oraş Nãvodari",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95550,
+        "name": "Oraş Negru Vodã",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95562,
+        "name": "Oraş Ovidiu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95601,
+        "name": "Oraş Techirghiol",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95676,
+        "name": "Ostrov",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95686,
+        "name": "Ovidiu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95700,
+        "name": "Palazu Mare",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95707,
+        "name": "Pantelimon",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95708,
+        "name": "Pantelimon de Jos",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95723,
+        "name": "Pecineaga",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95759,
+        "name": "Peştera",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95769,
+        "name": "Piatra",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95780,
+        "name": "Pietreni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95818,
+        "name": "Plopeni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 95836,
+        "name": "Poarta Albă",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96061,
+        "name": "Rasova",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 105993,
+        "name": "Săcele",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96235,
+        "name": "Saligny",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96243,
+        "name": "Saraiu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96260,
+        "name": "Satu Nou",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96271,
+        "name": "Schitu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96322,
+        "name": "Seimeni",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96341,
+        "name": "Siliştea",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96348,
+        "name": "Siminoc",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96590,
+        "name": "Târguşor",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 106061,
+        "name": "Tariverde",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 106068,
+        "name": "Techirghiol",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 106127,
+        "name": "Topalu",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 106139,
+        "name": "Topraisar",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 106141,
+        "name": "Tortoman",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96573,
+        "name": "Tuzla",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96721,
+        "name": "Valea Dacilor",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96769,
+        "name": "Valu lui Traian",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96815,
+        "name": "Viile",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96828,
+        "name": "Viișoara",
+        "country": "ROU",
+        "state": "CT"
+    },
+    {
+        "id": 96913,
+        "name": "Vulturu",
+        "country": "ROU",
+        "state": "CT"
+    }
+]

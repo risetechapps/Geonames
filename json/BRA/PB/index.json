@@ -1,0 +1,1340 @@
+[
+    {
+        "id": 15653,
+        "name": "Água Branca",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10100,
+        "name": "Aguiar",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10108,
+        "name": "Alagoa Grande",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10109,
+        "name": "Alagoa Nova",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10110,
+        "name": "Alagoinha",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10116,
+        "name": "Alcantil",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10135,
+        "name": "Algodão de Jandaíra",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10136,
+        "name": "Alhandra",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10219,
+        "name": "Amparo",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10284,
+        "name": "Aparecida",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10366,
+        "name": "Araçagi",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10347,
+        "name": "Arara",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10357,
+        "name": "Araruna",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10383,
+        "name": "Areia",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10386,
+        "name": "Areia de Baraúnas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10387,
+        "name": "Areial",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10405,
+        "name": "Aroeiras",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10430,
+        "name": "Assunção",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10589,
+        "name": "Baía da Traição",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10496,
+        "name": "Bananeiras",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10505,
+        "name": "Baraúna",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10525,
+        "name": "Barra de Santa Rosa",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10526,
+        "name": "Barra de Santana",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10530,
+        "name": "Barra de São Miguel",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10587,
+        "name": "Bayeux",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10614,
+        "name": "Belém",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10619,
+        "name": "Belém do Brejo do Cruz",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10634,
+        "name": "Bernardino Batista",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10664,
+        "name": "Boa Ventura",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10667,
+        "name": "Boa Vista",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10700,
+        "name": "Bom Jesus",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10725,
+        "name": "Bom Sucesso",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10741,
+        "name": "Bonito de Santa Fé",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10743,
+        "name": "Boqueirão",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10751,
+        "name": "Borborema",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10795,
+        "name": "Brejo do Cruz",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10797,
+        "name": "Brejo dos Santos",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10842,
+        "name": "Caaporã",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10845,
+        "name": "Cabaceiras",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10850,
+        "name": "Cabedelo",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10874,
+        "name": "Cachoeira dos Índios",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10880,
+        "name": "Cacimba de Areia",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10881,
+        "name": "Cacimba de Dentro",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10882,
+        "name": "Cacimbas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10907,
+        "name": "Caiçara",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10915,
+        "name": "Cajazeiras",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10917,
+        "name": "Cajazeirinhas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10924,
+        "name": "Caldas Brandão",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10936,
+        "name": "Camalaú",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 10962,
+        "name": "Campina Grande",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11073,
+        "name": "Capim",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11118,
+        "name": "Caraúbas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11164,
+        "name": "Carrapateira",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11182,
+        "name": "Casserengue",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11203,
+        "name": "Catingueira",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11205,
+        "name": "Catolé do Rocha",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11211,
+        "name": "Caturité",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11344,
+        "name": "Conceição",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11370,
+        "name": "Condado",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11371,
+        "name": "Conde",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11377,
+        "name": "Congo",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11406,
+        "name": "Coremas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11459,
+        "name": "Coxixola",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11492,
+        "name": "Cruz do Espírito Santo",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11505,
+        "name": "Cubati",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11509,
+        "name": "Cuité",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11510,
+        "name": "Cuité de Mamanguape",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11508,
+        "name": "Cuitegi",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11531,
+        "name": "Curral de Cima",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11530,
+        "name": "Curral Velho",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11560,
+        "name": "Damião",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11579,
+        "name": "Desterro",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11584,
+        "name": "Diamante",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11642,
+        "name": "Dona Inês",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11665,
+        "name": "Duas Estradas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11687,
+        "name": "Emas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11731,
+        "name": "Esperança",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11770,
+        "name": "Fagundes",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11894,
+        "name": "Frei Martinho",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 11911,
+        "name": "Gado Bravo",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12034,
+        "name": "Guarabira",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12086,
+        "name": "Gurinhém",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12087,
+        "name": "Gurjão",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12130,
+        "name": "Ibiara",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12179,
+        "name": "Igaracy",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12217,
+        "name": "Imaculada",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12245,
+        "name": "Ingá",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12325,
+        "name": "Itabaiana",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12430,
+        "name": "Itaporanga",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12432,
+        "name": "Itapororoca",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12461,
+        "name": "Itatuba",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12518,
+        "name": "Jacaraú",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12621,
+        "name": "Jericó",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12665,
+        "name": "João Pessoa",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12643,
+        "name": "Joca Claudino",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12669,
+        "name": "Juarez Távora",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12672,
+        "name": "Juazeirinho",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12683,
+        "name": "Junco do Seridó",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12698,
+        "name": "Juripiranga",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12699,
+        "name": "Juru",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12733,
+        "name": "Lagoa",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12752,
+        "name": "Lagoa de Dentro",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12746,
+        "name": "Lagoa Seca",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12802,
+        "name": "Lastro",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12842,
+        "name": "Livramento",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12848,
+        "name": "Logradouro",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12858,
+        "name": "Lucena",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13292,
+        "name": "Mãe d'Água",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12930,
+        "name": "Malta",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12931,
+        "name": "Mamanguape",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12940,
+        "name": "Manaíra",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 12990,
+        "name": "Marcação",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13003,
+        "name": "Mari",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13023,
+        "name": "Marizópolis",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13043,
+        "name": "Massaranduba",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13050,
+        "name": "Mataraca",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13061,
+        "name": "Matinhas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13065,
+        "name": "Mato Grosso",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13075,
+        "name": "Maturéia",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13164,
+        "name": "Mogeiro",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13181,
+        "name": "Montadas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13205,
+        "name": "Monte Horebe",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13215,
+        "name": "Monteiro",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13266,
+        "name": "Mulungu",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13304,
+        "name": "Natuba",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13309,
+        "name": "Nazarezinho",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13379,
+        "name": "Nova Floresta",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13410,
+        "name": "Nova Olinda",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13417,
+        "name": "Nova Palmeira",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13494,
+        "name": "Olho d'Água",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13505,
+        "name": "Olivedos",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13544,
+        "name": "Ouro Velho",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13652,
+        "name": "Parari",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13692,
+        "name": "Passagem",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13706,
+        "name": "Patos",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13726,
+        "name": "Paulista",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13750,
+        "name": "Pedra Branca",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13754,
+        "name": "Pedra Lavrada",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13764,
+        "name": "Pedras de Fogo",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13781,
+        "name": "Pedro Régis",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13824,
+        "name": "Piancó",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13830,
+        "name": "Picuí",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13836,
+        "name": "Pilar",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13841,
+        "name": "Pilões",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13843,
+        "name": "Pilõezinhos",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13920,
+        "name": "Pirpirituba",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13925,
+        "name": "Pitimbu",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13946,
+        "name": "Pocinhos",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14046,
+        "name": "Poço Dantas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14052,
+        "name": "Poço de José de Moura",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 13951,
+        "name": "Pombal",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14068,
+        "name": "Prata",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14107,
+        "name": "Princesa Isabel",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14118,
+        "name": "Puxinanã",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14140,
+        "name": "Queimadas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14158,
+        "name": "Quixaba",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14194,
+        "name": "Remígio",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14221,
+        "name": "Riachão",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14223,
+        "name": "Riachão do Bacamarte",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14226,
+        "name": "Riachão do Poço",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14215,
+        "name": "Riacho de Santo Antônio",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14216,
+        "name": "Riacho dos Cavalos",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14299,
+        "name": "Rio Tinto",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14382,
+        "name": "Salgadinho",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14385,
+        "name": "Salgado de São Félix",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14433,
+        "name": "Santa Cecília",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14440,
+        "name": "Santa Cruz",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14471,
+        "name": "Santa Helena",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14478,
+        "name": "Santa Inês",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14489,
+        "name": "Santa Luzia",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14525,
+        "name": "Santa Rita",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14552,
+        "name": "Santa Teresinha",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14574,
+        "name": "Santana de Mangueira",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14595,
+        "name": "Santana dos Garrotes",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14608,
+        "name": "Santo André",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14834,
+        "name": "São Bentinho",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14836,
+        "name": "São Bento",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14862,
+        "name": "São Domingos",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14870,
+        "name": "São Domingos do Cariri",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14879,
+        "name": "São Francisco",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15027,
+        "name": "São João do Cariri",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15042,
+        "name": "São João do Rio do Peixe",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15046,
+        "name": "São João do Tigre",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14943,
+        "name": "São José da Lagoa Tapada",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14952,
+        "name": "São José de Caiana",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14953,
+        "name": "São José de Espinharas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14955,
+        "name": "São José de Piranhas",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14956,
+        "name": "São José de Princesa",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14962,
+        "name": "São José do Bonfim",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14963,
+        "name": "São José do Brejo do Cruz",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14986,
+        "name": "São José do Sabugi",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14994,
+        "name": "São José dos Cordeiros",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14997,
+        "name": "São José dos Ramos",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15068,
+        "name": "São Mamede",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15084,
+        "name": "São Miguel de Taipu",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15142,
+        "name": "São Sebastião de Lagoa de Roça",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15154,
+        "name": "São Sebastião do Umbuzeiro",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15173,
+        "name": "São Vicente do Seridó",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14665,
+        "name": "Sapé",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14725,
+        "name": "Serra Branca",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14735,
+        "name": "Serra da Raiz",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14728,
+        "name": "Serra Grande",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14733,
+        "name": "Serra Redonda",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14750,
+        "name": "Serraria",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14763,
+        "name": "Sertãozinho",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14797,
+        "name": "Sobrado",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14807,
+        "name": "Solânea",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14802,
+        "name": "Soledade",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14813,
+        "name": "Sossêgo",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14815,
+        "name": "Sousa",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 14825,
+        "name": "Sumé",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15196,
+        "name": "Tacima",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15230,
+        "name": "Taperoá",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15262,
+        "name": "Tavares",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15265,
+        "name": "Teixeira",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15277,
+        "name": "Tenório",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15362,
+        "name": "Triunfo",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15442,
+        "name": "Uiraúna",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15449,
+        "name": "Umbuzeiro",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15613,
+        "name": "Várzea",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15563,
+        "name": "Vieirópolis",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15593,
+        "name": "Vista Serrana",
+        "country": "BRA",
+        "state": "PB"
+    },
+    {
+        "id": 15644,
+        "name": "Zabelê",
+        "country": "BRA",
+        "state": "PB"
+    }
+]

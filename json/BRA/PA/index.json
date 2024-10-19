@@ -1,0 +1,884 @@
+[
+    {
+        "id": 10056,
+        "name": "Abaetetuba",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10063,
+        "name": "Abel Figueiredo",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10073,
+        "name": "Acará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10090,
+        "name": "Afuá",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15648,
+        "name": "Água Azul do Norte",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10127,
+        "name": "Alenquer",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10141,
+        "name": "Almeirim",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10153,
+        "name": "Altamira",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10231,
+        "name": "Anajás",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10234,
+        "name": "Ananindeua",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10236,
+        "name": "Anapu",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10443,
+        "name": "Augusto Corrêa",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10452,
+        "name": "Aurora do Pará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10458,
+        "name": "Aveiro",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10473,
+        "name": "Bagre",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10480,
+        "name": "Baião",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10503,
+        "name": "Bannach",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10511,
+        "name": "Barcarena",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10615,
+        "name": "Belém",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10612,
+        "name": "Belterra",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10625,
+        "name": "Benevides",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10716,
+        "name": "Bom Jesus do Tocantins",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10738,
+        "name": "Bonito",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10765,
+        "name": "Bragança",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10768,
+        "name": "Brasil Novo",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10791,
+        "name": "Brejo Grande do Araguaia",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10801,
+        "name": "Breu Branco",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10802,
+        "name": "Breves",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10820,
+        "name": "Bujaru",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10871,
+        "name": "Cachoeira do Arari",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10872,
+        "name": "Cachoeira do Piriá",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 10952,
+        "name": "Cametá",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11031,
+        "name": "Canaã dos Carajás",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11062,
+        "name": "Capanema",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11085,
+        "name": "Capitão Poço",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11184,
+        "name": "Castanhal",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11275,
+        "name": "Chaves",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11319,
+        "name": "Colares",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11354,
+        "name": "Conceição do Araguaia",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11368,
+        "name": "Concórdia do Pará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11514,
+        "name": "Cumaru do Norte",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11523,
+        "name": "Curionópolis",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11533,
+        "name": "Curralinho",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11536,
+        "name": "Curuá",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11537,
+        "name": "Curuçá",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11626,
+        "name": "Dom Eliseu",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11679,
+        "name": "Eldorado do Carajás",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11776,
+        "name": "Faro",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11837,
+        "name": "Floresta do Araguaia",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11923,
+        "name": "Garrafão do Norte",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 11965,
+        "name": "Goianésia do Pará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12089,
+        "name": "Gurupá",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12182,
+        "name": "Igarapé Açu",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12184,
+        "name": "Igarapé Miri",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12186,
+        "name": "Igarapé-Açu",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12187,
+        "name": "Igarapé-Miri",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12248,
+        "name": "Inhangapi",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12282,
+        "name": "Ipixuna do Pará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12320,
+        "name": "Irituia",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12363,
+        "name": "Itaituba",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12490,
+        "name": "Itupiranga",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12519,
+        "name": "Jacareacanga",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12530,
+        "name": "Jacundá",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12702,
+        "name": "Juruti",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12833,
+        "name": "Limoeiro do Ajuru",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13293,
+        "name": "Mãe do Rio",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12911,
+        "name": "Magalhães Barata",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12964,
+        "name": "Marabá",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12969,
+        "name": "Maracanã",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 12979,
+        "name": "Marapanim",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13022,
+        "name": "Marituba",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13093,
+        "name": "Medicilândia",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13096,
+        "name": "Melgaço",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13159,
+        "name": "Mocajuba",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13170,
+        "name": "Moju",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13171,
+        "name": "Mojuí Dos Campos",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13187,
+        "name": "Monte Alegre",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13259,
+        "name": "Muaná",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13375,
+        "name": "Nova Esperança do Piriá",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13393,
+        "name": "Nova Ipixuna",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13439,
+        "name": "Nova Timboteua",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13475,
+        "name": "Novo Progresso",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13476,
+        "name": "Novo Repartimento",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15683,
+        "name": "Óbidos",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13491,
+        "name": "Oeiras do Pará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13518,
+        "name": "Oriximiná",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13552,
+        "name": "Ourém",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13533,
+        "name": "Ourilândia do Norte",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13556,
+        "name": "Pacajá",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13578,
+        "name": "Palestina do Pará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13626,
+        "name": "Paragominas",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13655,
+        "name": "Parauapebas",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13717,
+        "name": "Pau d'Arco",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13788,
+        "name": "Peixe-Boi",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13929,
+        "name": "Piçarra",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13932,
+        "name": "Placas",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13959,
+        "name": "Ponta de Pedras",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 13990,
+        "name": "Portel",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14025,
+        "name": "Porto de Moz",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14066,
+        "name": "Prainha",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14100,
+        "name": "Primavera",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14130,
+        "name": "Quatipuru",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14184,
+        "name": "Redenção",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14281,
+        "name": "Rio Maria",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14345,
+        "name": "Rondon do Pará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14362,
+        "name": "Rurópolis",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14389,
+        "name": "Salinópolis",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14407,
+        "name": "Salvaterra",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14428,
+        "name": "Santa Bárbara do Pará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14451,
+        "name": "Santa Cruz do Arari",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14485,
+        "name": "Santa Izabel do Pará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14497,
+        "name": "Santa Luzia do Pará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14508,
+        "name": "Santa Maria das Barreiras",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14514,
+        "name": "Santa Maria do Pará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14578,
+        "name": "Santana do Araguaia",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14598,
+        "name": "Santarém",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14599,
+        "name": "Santarém Novo",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14641,
+        "name": "Santo Antônio do Tauá",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14852,
+        "name": "São Caetano de Odivelas",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14867,
+        "name": "São Domingos do Araguaia",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14869,
+        "name": "São Domingos do Capim",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14906,
+        "name": "São Félix do Xingu",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14896,
+        "name": "São Francisco do Pará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14914,
+        "name": "São Geraldo do Araguaia",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15013,
+        "name": "São João da Ponta",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15022,
+        "name": "São João de Pirabas",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15024,
+        "name": "São João do Araguaia",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15090,
+        "name": "São Miguel do Guamá",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15139,
+        "name": "São Sebastião da Boa Vista",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14661,
+        "name": "Sapucaia",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14702,
+        "name": "Senador José Porfírio",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 14814,
+        "name": "Soure",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15201,
+        "name": "Tailândia",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15289,
+        "name": "Terra Alta",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15297,
+        "name": "Terra Santa",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15334,
+        "name": "Tomé Açu",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15335,
+        "name": "Tomé-Açu",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15345,
+        "name": "Tracuateua",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15349,
+        "name": "Trairão",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15387,
+        "name": "Tucumã",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15389,
+        "name": "Tucuruí",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15443,
+        "name": "Ulianópolis",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15471,
+        "name": "Uruará",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15564,
+        "name": "Vigia",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15588,
+        "name": "Viseu",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15604,
+        "name": "Vitória do Xingu",
+        "country": "BRA",
+        "state": "PA"
+    },
+    {
+        "id": 15641,
+        "name": "Xinguara",
+        "country": "BRA",
+        "state": "PA"
+    }
+]

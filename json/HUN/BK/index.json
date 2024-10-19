@@ -1,0 +1,452 @@
+[
+    {
+        "id": 56141,
+        "name": "Ágasegyháza",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55180,
+        "name": "Akasztó",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55191,
+        "name": "Apostag",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55287,
+        "name": "Bácsalmás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55288,
+        "name": "Bácsalmási Járás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55289,
+        "name": "Bácsbokod",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55203,
+        "name": "Baja",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55204,
+        "name": "Bajai Járás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55225,
+        "name": "Ballószög",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55295,
+        "name": "Bátya",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55283,
+        "name": "Bugac",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55347,
+        "name": "Császártöltés",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55348,
+        "name": "Csávoly",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55331,
+        "name": "Csengőd",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55386,
+        "name": "Dávod",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55377,
+        "name": "Dunapataj",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55381,
+        "name": "Dunavecse",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55383,
+        "name": "Dusnok",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 56147,
+        "name": "Érsekcsanád",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55424,
+        "name": "Felsőszentiván",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55439,
+        "name": "Fülöpjakab",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55440,
+        "name": "Fülöpszállás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55446,
+        "name": "Gara",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55493,
+        "name": "Hajós",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55499,
+        "name": "Harta",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55504,
+        "name": "Helvécia",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55505,
+        "name": "Hercegszántó",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55531,
+        "name": "Izsák",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55535,
+        "name": "Jánoshalma",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55536,
+        "name": "Jánoshalmai Járás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55552,
+        "name": "Jászszentlászló",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55558,
+        "name": "Kalocsa",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55559,
+        "name": "Kalocsai Járás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55574,
+        "name": "Katymár",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55578,
+        "name": "Kecel",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55579,
+        "name": "Kecskemét",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55580,
+        "name": "Kecskeméti Járás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55581,
+        "name": "Kelebia",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55587,
+        "name": "Kerekegyháza",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55602,
+        "name": "Kiskőrös",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55603,
+        "name": "Kiskőrösi Járás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55594,
+        "name": "Kiskunfélegyháza",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55595,
+        "name": "Kiskunfélegyházi Járás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55596,
+        "name": "Kiskunhalas",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55597,
+        "name": "Kiskunhalasi Járás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55599,
+        "name": "Kiskunmajsa",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55600,
+        "name": "Kiskunmajsai Járás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55608,
+        "name": "Kisszállás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55626,
+        "name": "Kunfehértó",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55630,
+        "name": "Kunszentmiklós",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55631,
+        "name": "Kunszentmiklósi Járás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55654,
+        "name": "Lajosmizse",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55655,
+        "name": "Lakitelek",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55672,
+        "name": "Madaras",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55731,
+        "name": "Mélykút",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55741,
+        "name": "Nagybaracska",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55765,
+        "name": "Nemesnádudvar",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55768,
+        "name": "Nyárlőrinc",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55799,
+        "name": "Orgovány",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55840,
+        "name": "Pálmonostora",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55903,
+        "name": "Solt",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55904,
+        "name": "Soltvadkert",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55997,
+        "name": "Sükösd",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55913,
+        "name": "Szabadszállás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55917,
+        "name": "Szalkszentmárton",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55919,
+        "name": "Szank",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 55942,
+        "name": "Szentkirály",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 56016,
+        "name": "Tass",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 56072,
+        "name": "Tázlár",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 56021,
+        "name": "Tiszaalpár",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 56035,
+        "name": "Tiszakécske",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 56036,
+        "name": "Tiszakécskei Járás",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 56055,
+        "name": "Tompa",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 56111,
+        "name": "Városföld",
+        "country": "HUN",
+        "state": "BK"
+    },
+    {
+        "id": 56091,
+        "name": "Vaskút",
+        "country": "HUN",
+        "state": "BK"
+    }
+]

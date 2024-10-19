@@ -1,0 +1,452 @@
+[
+    {
+        "id": 540,
+        "name": "Absheron District",
+        "country": "AZE",
+        "state": "ABS"
+    },
+    {
+        "id": 559,
+        "name": "Agdam District",
+        "country": "AZE",
+        "state": "AGM"
+    },
+    {
+        "id": 553,
+        "name": "Agdash District",
+        "country": "AZE",
+        "state": "AGS"
+    },
+    {
+        "id": 577,
+        "name": "Aghjabadi District",
+        "country": "AZE",
+        "state": "AGC"
+    },
+    {
+        "id": 543,
+        "name": "Agstafa District",
+        "country": "AZE",
+        "state": "AGA"
+    },
+    {
+        "id": 547,
+        "name": "Agsu District",
+        "country": "AZE",
+        "state": "AGU"
+    },
+    {
+        "id": 528,
+        "name": "Astara District",
+        "country": "AZE",
+        "state": "AST"
+    },
+    {
+        "id": 575,
+        "name": "Babek District",
+        "country": "AZE",
+        "state": "BAB"
+    },
+    {
+        "id": 552,
+        "name": "Baku",
+        "country": "AZE",
+        "state": "BA"
+    },
+    {
+        "id": 560,
+        "name": "Balakan District",
+        "country": "AZE",
+        "state": "BAL"
+    },
+    {
+        "id": 569,
+        "name": "Barda District",
+        "country": "AZE",
+        "state": "BAR"
+    },
+    {
+        "id": 554,
+        "name": "Beylagan District",
+        "country": "AZE",
+        "state": "BEY"
+    },
+    {
+        "id": 532,
+        "name": "Bilasuvar District",
+        "country": "AZE",
+        "state": "BIL"
+    },
+    {
+        "id": 561,
+        "name": "Dashkasan District",
+        "country": "AZE",
+        "state": "DAS"
+    },
+    {
+        "id": 527,
+        "name": "Fizuli District",
+        "country": "AZE",
+        "state": "FUZ"
+    },
+    {
+        "id": 585,
+        "name": "Ganja",
+        "country": "AZE",
+        "state": "GA"
+    },
+    {
+        "id": 589,
+        "name": "Gədəbəy",
+        "country": "AZE",
+        "state": "GAD"
+    },
+    {
+        "id": 573,
+        "name": "Gobustan District",
+        "country": "AZE",
+        "state": "QOB"
+    },
+    {
+        "id": 551,
+        "name": "Goranboy District",
+        "country": "AZE",
+        "state": "GOR"
+    },
+    {
+        "id": 531,
+        "name": "Goychay",
+        "country": "AZE",
+        "state": "GOY"
+    },
+    {
+        "id": 574,
+        "name": "Goygol District",
+        "country": "AZE",
+        "state": "GYG"
+    },
+    {
+        "id": 571,
+        "name": "Hajigabul District",
+        "country": "AZE",
+        "state": "HAC"
+    },
+    {
+        "id": 544,
+        "name": "Imishli District",
+        "country": "AZE",
+        "state": "IMI"
+    },
+    {
+        "id": 564,
+        "name": "Ismailli District",
+        "country": "AZE",
+        "state": "ISM"
+    },
+    {
+        "id": 570,
+        "name": "Jabrayil District",
+        "country": "AZE",
+        "state": "CAB"
+    },
+    {
+        "id": 578,
+        "name": "Jalilabad District",
+        "country": "AZE",
+        "state": "CAL"
+    },
+    {
+        "id": 572,
+        "name": "Julfa District",
+        "country": "AZE",
+        "state": "CUL"
+    },
+    {
+        "id": 525,
+        "name": "Kalbajar District",
+        "country": "AZE",
+        "state": "KAL"
+    },
+    {
+        "id": 567,
+        "name": "Kangarli District",
+        "country": "AZE",
+        "state": "KAN"
+    },
+    {
+        "id": 590,
+        "name": "Khachmaz District",
+        "country": "AZE",
+        "state": "XAC"
+    },
+    {
+        "id": 537,
+        "name": "Khizi District",
+        "country": "AZE",
+        "state": "XIZ"
+    },
+    {
+        "id": 524,
+        "name": "Khojali District",
+        "country": "AZE",
+        "state": "XCI"
+    },
+    {
+        "id": 549,
+        "name": "Kurdamir District",
+        "country": "AZE",
+        "state": "KUR"
+    },
+    {
+        "id": 541,
+        "name": "Lachin District",
+        "country": "AZE",
+        "state": "LAC"
+    },
+    {
+        "id": 587,
+        "name": "Lankaran",
+        "country": "AZE",
+        "state": "LAN"
+    },
+    {
+        "id": 558,
+        "name": "Lankaran District",
+        "country": "AZE",
+        "state": "LA"
+    },
+    {
+        "id": 546,
+        "name": "Lerik District",
+        "country": "AZE",
+        "state": "LER"
+    },
+    {
+        "id": 568,
+        "name": "Martuni",
+        "country": "AZE",
+        "state": "XVD"
+    },
+    {
+        "id": 555,
+        "name": "Masally District",
+        "country": "AZE",
+        "state": "MAS"
+    },
+    {
+        "id": 580,
+        "name": "Mingachevir",
+        "country": "AZE",
+        "state": "MI"
+    },
+    {
+        "id": 562,
+        "name": "Nakhchivan Autonomous Republic",
+        "country": "AZE",
+        "state": "NX"
+    },
+    {
+        "id": 530,
+        "name": "Neftchala District",
+        "country": "AZE",
+        "state": "NEF"
+    },
+    {
+        "id": 556,
+        "name": "Oghuz District",
+        "country": "AZE",
+        "state": "OGU"
+    },
+    {
+        "id": 534,
+        "name": "Ordubad District",
+        "country": "AZE",
+        "state": "ORD"
+    },
+    {
+        "id": 542,
+        "name": "Qabala District",
+        "country": "AZE",
+        "state": "QAB"
+    },
+    {
+        "id": 526,
+        "name": "Qakh District",
+        "country": "AZE",
+        "state": "QAX"
+    },
+    {
+        "id": 521,
+        "name": "Qazakh District",
+        "country": "AZE",
+        "state": "QAZ"
+    },
+    {
+        "id": 563,
+        "name": "Quba District",
+        "country": "AZE",
+        "state": "QBA"
+    },
+    {
+        "id": 548,
+        "name": "Qubadli District",
+        "country": "AZE",
+        "state": "QBI"
+    },
+    {
+        "id": 588,
+        "name": "Qusar District",
+        "country": "AZE",
+        "state": "QUS"
+    },
+    {
+        "id": 557,
+        "name": "Saatly District",
+        "country": "AZE",
+        "state": "SAT"
+    },
+    {
+        "id": 565,
+        "name": "Sabirabad District",
+        "country": "AZE",
+        "state": "SAB"
+    },
+    {
+        "id": 522,
+        "name": "Sadarak District",
+        "country": "AZE",
+        "state": "SAD"
+    },
+    {
+        "id": 545,
+        "name": "Salyan District",
+        "country": "AZE",
+        "state": "SAL"
+    },
+    {
+        "id": 536,
+        "name": "Samukh District",
+        "country": "AZE",
+        "state": "SMX"
+    },
+    {
+        "id": 591,
+        "name": "Shabran District",
+        "country": "AZE",
+        "state": "SBN"
+    },
+    {
+        "id": 579,
+        "name": "Shahbuz District",
+        "country": "AZE",
+        "state": "SAH"
+    },
+    {
+        "id": 518,
+        "name": "Shaki",
+        "country": "AZE",
+        "state": "SA"
+    },
+    {
+        "id": 586,
+        "name": "Shaki District",
+        "country": "AZE",
+        "state": "SAK"
+    },
+    {
+        "id": 529,
+        "name": "Shamakhi District",
+        "country": "AZE",
+        "state": "SMI"
+    },
+    {
+        "id": 583,
+        "name": "Shamkir District",
+        "country": "AZE",
+        "state": "SKR"
+    },
+    {
+        "id": 535,
+        "name": "Sharur District",
+        "country": "AZE",
+        "state": "SAR"
+    },
+    {
+        "id": 520,
+        "name": "Shirvan",
+        "country": "AZE",
+        "state": "SR"
+    },
+    {
+        "id": 592,
+        "name": "Shusha District",
+        "country": "AZE",
+        "state": "SUS"
+    },
+    {
+        "id": 584,
+        "name": "Siazan District",
+        "country": "AZE",
+        "state": "SIY"
+    },
+    {
+        "id": 582,
+        "name": "Sumqayit",
+        "country": "AZE",
+        "state": "SM"
+    },
+    {
+        "id": 519,
+        "name": "Tartar District",
+        "country": "AZE",
+        "state": "TAR"
+    },
+    {
+        "id": 533,
+        "name": "Tovuz District",
+        "country": "AZE",
+        "state": "TOV"
+    },
+    {
+        "id": 539,
+        "name": "Ujar District",
+        "country": "AZE",
+        "state": "UCA"
+    },
+    {
+        "id": 550,
+        "name": "Yardymli District",
+        "country": "AZE",
+        "state": "YAR"
+    },
+    {
+        "id": 538,
+        "name": "Yevlakh",
+        "country": "AZE",
+        "state": "YE"
+    },
+    {
+        "id": 523,
+        "name": "Yevlakh District",
+        "country": "AZE",
+        "state": "YEV"
+    },
+    {
+        "id": 581,
+        "name": "Zangilan District",
+        "country": "AZE",
+        "state": "ZAN"
+    },
+    {
+        "id": 566,
+        "name": "Zaqatala District",
+        "country": "AZE",
+        "state": "ZAQ"
+    },
+    {
+        "id": 576,
+        "name": "Zardab District",
+        "country": "AZE",
+        "state": "ZAR"
+    }
+]

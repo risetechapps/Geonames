@@ -1,0 +1,740 @@
+[
+    {
+        "id": 4967,
+        "name": "Ain",
+        "country": "FRA",
+        "state": "01"
+    },
+    {
+        "id": 4968,
+        "name": "Aisne",
+        "country": "FRA",
+        "state": "02"
+    },
+    {
+        "id": 4969,
+        "name": "Allier",
+        "country": "FRA",
+        "state": "03"
+    },
+    {
+        "id": 4970,
+        "name": "Alpes-de-Haute-Provence",
+        "country": "FRA",
+        "state": "04"
+    },
+    {
+        "id": 4972,
+        "name": "Alpes-Maritimes",
+        "country": "FRA",
+        "state": "06"
+    },
+    {
+        "id": 4811,
+        "name": "Alsace",
+        "country": "FRA",
+        "state": "6AE"
+    },
+    {
+        "id": 4973,
+        "name": "Ardèche",
+        "country": "FRA",
+        "state": "07"
+    },
+    {
+        "id": 4974,
+        "name": "Ardennes",
+        "country": "FRA",
+        "state": "08"
+    },
+    {
+        "id": 4975,
+        "name": "Ariège",
+        "country": "FRA",
+        "state": "09"
+    },
+    {
+        "id": 4976,
+        "name": "Aube",
+        "country": "FRA",
+        "state": "10"
+    },
+    {
+        "id": 4977,
+        "name": "Aude",
+        "country": "FRA",
+        "state": "11"
+    },
+    {
+        "id": 4798,
+        "name": "Auvergne-Rhône-Alpes",
+        "country": "FRA",
+        "state": "ARA"
+    },
+    {
+        "id": 4978,
+        "name": "Aveyron",
+        "country": "FRA",
+        "state": "12"
+    },
+    {
+        "id": 5035,
+        "name": "Bas-Rhin",
+        "country": "FRA",
+        "state": "67"
+    },
+    {
+        "id": 4979,
+        "name": "Bouches-du-Rhône",
+        "country": "FRA",
+        "state": "13"
+    },
+    {
+        "id": 4825,
+        "name": "Bourgogne-Franche-Comté",
+        "country": "FRA",
+        "state": "BFC"
+    },
+    {
+        "id": 4807,
+        "name": "Bretagne",
+        "country": "FRA",
+        "state": "BRE"
+    },
+    {
+        "id": 4981,
+        "name": "Calvados",
+        "country": "FRA",
+        "state": "14"
+    },
+    {
+        "id": 4982,
+        "name": "Cantal",
+        "country": "FRA",
+        "state": "15"
+    },
+    {
+        "id": 4818,
+        "name": "Centre-Val de Loire",
+        "country": "FRA",
+        "state": "CVL"
+    },
+    {
+        "id": 4983,
+        "name": "Charente",
+        "country": "FRA",
+        "state": "16"
+    },
+    {
+        "id": 4984,
+        "name": "Charente-Maritime",
+        "country": "FRA",
+        "state": "17"
+    },
+    {
+        "id": 4985,
+        "name": "Cher",
+        "country": "FRA",
+        "state": "18"
+    },
+    {
+        "id": 5064,
+        "name": "Clipperton",
+        "country": "FRA",
+        "state": "CP"
+    },
+    {
+        "id": 4986,
+        "name": "Corrèze",
+        "country": "FRA",
+        "state": "19"
+    },
+    {
+        "id": 4806,
+        "name": "Corse",
+        "country": "FRA",
+        "state": "20R"
+    },
+    {
+        "id": 4996,
+        "name": "Corse-du-Sud",
+        "country": "FRA",
+        "state": "2A"
+    },
+    {
+        "id": 4987,
+        "name": "Côte-d'Or",
+        "country": "FRA",
+        "state": "21"
+    },
+    {
+        "id": 4988,
+        "name": "Côtes-d'Armor",
+        "country": "FRA",
+        "state": "22"
+    },
+    {
+        "id": 4989,
+        "name": "Creuse",
+        "country": "FRA",
+        "state": "23"
+    },
+    {
+        "id": 5047,
+        "name": "Deux-Sèvres",
+        "country": "FRA",
+        "state": "79"
+    },
+    {
+        "id": 4990,
+        "name": "Dordogne",
+        "country": "FRA",
+        "state": "24"
+    },
+    {
+        "id": 4991,
+        "name": "Doubs",
+        "country": "FRA",
+        "state": "25"
+    },
+    {
+        "id": 4992,
+        "name": "Drôme",
+        "country": "FRA",
+        "state": "26"
+    },
+    {
+        "id": 5059,
+        "name": "Essonne",
+        "country": "FRA",
+        "state": "91"
+    },
+    {
+        "id": 4993,
+        "name": "Eure",
+        "country": "FRA",
+        "state": "27"
+    },
+    {
+        "id": 4994,
+        "name": "Eure-et-Loir",
+        "country": "FRA",
+        "state": "28"
+    },
+    {
+        "id": 4995,
+        "name": "Finistère",
+        "country": "FRA",
+        "state": "29"
+    },
+    {
+        "id": 4822,
+        "name": "French Guiana",
+        "country": "FRA",
+        "state": "973"
+    },
+    {
+        "id": 4824,
+        "name": "French Polynesia",
+        "country": "FRA",
+        "state": "PF"
+    },
+    {
+        "id": 5065,
+        "name": "French Southern and Antarctic Lands",
+        "country": "FRA",
+        "state": "TF"
+    },
+    {
+        "id": 4998,
+        "name": "Gard",
+        "country": "FRA",
+        "state": "30"
+    },
+    {
+        "id": 5000,
+        "name": "Gers",
+        "country": "FRA",
+        "state": "32"
+    },
+    {
+        "id": 5001,
+        "name": "Gironde",
+        "country": "FRA",
+        "state": "33"
+    },
+    {
+        "id": 4820,
+        "name": "Grand-Est",
+        "country": "FRA",
+        "state": "GES"
+    },
+    {
+        "id": 4829,
+        "name": "Guadeloupe",
+        "country": "FRA",
+        "state": "971"
+    },
+    {
+        "id": 5036,
+        "name": "Haut-Rhin",
+        "country": "FRA",
+        "state": "68"
+    },
+    {
+        "id": 4997,
+        "name": "Haute-Corse",
+        "country": "FRA",
+        "state": "2B"
+    },
+    {
+        "id": 4999,
+        "name": "Haute-Garonne",
+        "country": "FRA",
+        "state": "31"
+    },
+    {
+        "id": 5011,
+        "name": "Haute-Loire",
+        "country": "FRA",
+        "state": "43"
+    },
+    {
+        "id": 5020,
+        "name": "Haute-Marne",
+        "country": "FRA",
+        "state": "52"
+    },
+    {
+        "id": 5039,
+        "name": "Haute-Saône",
+        "country": "FRA",
+        "state": "70"
+    },
+    {
+        "id": 5043,
+        "name": "Haute-Savoie",
+        "country": "FRA",
+        "state": "74"
+    },
+    {
+        "id": 5055,
+        "name": "Haute-Vienne",
+        "country": "FRA",
+        "state": "87"
+    },
+    {
+        "id": 4971,
+        "name": "Hautes-Alpes",
+        "country": "FRA",
+        "state": "05"
+    },
+    {
+        "id": 5033,
+        "name": "Hautes-Pyrénées",
+        "country": "FRA",
+        "state": "65"
+    },
+    {
+        "id": 4828,
+        "name": "Hauts-de-France",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 5060,
+        "name": "Hauts-de-Seine",
+        "country": "FRA",
+        "state": "92"
+    },
+    {
+        "id": 5002,
+        "name": "Hérault",
+        "country": "FRA",
+        "state": "34"
+    },
+    {
+        "id": 4796,
+        "name": "Île-de-France",
+        "country": "FRA",
+        "state": "IDF"
+    },
+    {
+        "id": 5003,
+        "name": "Ille-et-Vilaine",
+        "country": "FRA",
+        "state": "35"
+    },
+    {
+        "id": 5004,
+        "name": "Indre",
+        "country": "FRA",
+        "state": "36"
+    },
+    {
+        "id": 5005,
+        "name": "Indre-et-Loire",
+        "country": "FRA",
+        "state": "37"
+    },
+    {
+        "id": 5006,
+        "name": "Isère",
+        "country": "FRA",
+        "state": "38"
+    },
+    {
+        "id": 5007,
+        "name": "Jura",
+        "country": "FRA",
+        "state": "39"
+    },
+    {
+        "id": 4823,
+        "name": "La Réunion",
+        "country": "FRA",
+        "state": "974"
+    },
+    {
+        "id": 5008,
+        "name": "Landes",
+        "country": "FRA",
+        "state": "40"
+    },
+    {
+        "id": 5009,
+        "name": "Loir-et-Cher",
+        "country": "FRA",
+        "state": "41"
+    },
+    {
+        "id": 5010,
+        "name": "Loire",
+        "country": "FRA",
+        "state": "42"
+    },
+    {
+        "id": 5012,
+        "name": "Loire-Atlantique",
+        "country": "FRA",
+        "state": "44"
+    },
+    {
+        "id": 5013,
+        "name": "Loiret",
+        "country": "FRA",
+        "state": "45"
+    },
+    {
+        "id": 5014,
+        "name": "Lot",
+        "country": "FRA",
+        "state": "46"
+    },
+    {
+        "id": 5015,
+        "name": "Lot-et-Garonne",
+        "country": "FRA",
+        "state": "47"
+    },
+    {
+        "id": 5016,
+        "name": "Lozère",
+        "country": "FRA",
+        "state": "48"
+    },
+    {
+        "id": 5017,
+        "name": "Maine-et-Loire",
+        "country": "FRA",
+        "state": "49"
+    },
+    {
+        "id": 5018,
+        "name": "Manche",
+        "country": "FRA",
+        "state": "50"
+    },
+    {
+        "id": 5019,
+        "name": "Marne",
+        "country": "FRA",
+        "state": "51"
+    },
+    {
+        "id": 4827,
+        "name": "Martinique",
+        "country": "FRA",
+        "state": "972"
+    },
+    {
+        "id": 5021,
+        "name": "Mayenne",
+        "country": "FRA",
+        "state": "53"
+    },
+    {
+        "id": 4797,
+        "name": "Mayotte",
+        "country": "FRA",
+        "state": "976"
+    },
+    {
+        "id": 5038,
+        "name": "Métropole de Lyon",
+        "country": "FRA",
+        "state": "69M"
+    },
+    {
+        "id": 5022,
+        "name": "Meurthe-et-Moselle",
+        "country": "FRA",
+        "state": "54"
+    },
+    {
+        "id": 5023,
+        "name": "Meuse",
+        "country": "FRA",
+        "state": "55"
+    },
+    {
+        "id": 5024,
+        "name": "Morbihan",
+        "country": "FRA",
+        "state": "56"
+    },
+    {
+        "id": 5025,
+        "name": "Moselle",
+        "country": "FRA",
+        "state": "57"
+    },
+    {
+        "id": 5026,
+        "name": "Nièvre",
+        "country": "FRA",
+        "state": "58"
+    },
+    {
+        "id": 5027,
+        "name": "Nord",
+        "country": "FRA",
+        "state": "59"
+    },
+    {
+        "id": 4804,
+        "name": "Normandie",
+        "country": "FRA",
+        "state": "NOR"
+    },
+    {
+        "id": 4795,
+        "name": "Nouvelle-Aquitaine",
+        "country": "FRA",
+        "state": "NAQ"
+    },
+    {
+        "id": 4799,
+        "name": "Occitanie",
+        "country": "FRA",
+        "state": "OCC"
+    },
+    {
+        "id": 5028,
+        "name": "Oise",
+        "country": "FRA",
+        "state": "60"
+    },
+    {
+        "id": 5029,
+        "name": "Orne",
+        "country": "FRA",
+        "state": "61"
+    },
+    {
+        "id": 4816,
+        "name": "Paris",
+        "country": "FRA",
+        "state": "75C"
+    },
+    {
+        "id": 5030,
+        "name": "Pas-de-Calais",
+        "country": "FRA",
+        "state": "62"
+    },
+    {
+        "id": 4802,
+        "name": "Pays-de-la-Loire",
+        "country": "FRA",
+        "state": "PDL"
+    },
+    {
+        "id": 4812,
+        "name": "Provence-Alpes-Côte-d’Azur",
+        "country": "FRA",
+        "state": "PAC"
+    },
+    {
+        "id": 5031,
+        "name": "Puy-de-Dôme",
+        "country": "FRA",
+        "state": "63"
+    },
+    {
+        "id": 5032,
+        "name": "Pyrénées-Atlantiques",
+        "country": "FRA",
+        "state": "64"
+    },
+    {
+        "id": 5034,
+        "name": "Pyrénées-Orientales",
+        "country": "FRA",
+        "state": "66"
+    },
+    {
+        "id": 5037,
+        "name": "Rhône",
+        "country": "FRA",
+        "state": "69"
+    },
+    {
+        "id": 4821,
+        "name": "Saint Pierre and Miquelon",
+        "country": "FRA",
+        "state": "PM"
+    },
+    {
+        "id": 4794,
+        "name": "Saint-Barthélemy",
+        "country": "FRA",
+        "state": "BL"
+    },
+    {
+        "id": 4809,
+        "name": "Saint-Martin",
+        "country": "FRA",
+        "state": "MF"
+    },
+    {
+        "id": 5040,
+        "name": "Saône-et-Loire",
+        "country": "FRA",
+        "state": "71"
+    },
+    {
+        "id": 5041,
+        "name": "Sarthe",
+        "country": "FRA",
+        "state": "72"
+    },
+    {
+        "id": 5042,
+        "name": "Savoie",
+        "country": "FRA",
+        "state": "73"
+    },
+    {
+        "id": 5045,
+        "name": "Seine-et-Marne",
+        "country": "FRA",
+        "state": "77"
+    },
+    {
+        "id": 5044,
+        "name": "Seine-Maritime",
+        "country": "FRA",
+        "state": "76"
+    },
+    {
+        "id": 5061,
+        "name": "Seine-Saint-Denis",
+        "country": "FRA",
+        "state": "93"
+    },
+    {
+        "id": 5048,
+        "name": "Somme",
+        "country": "FRA",
+        "state": "80"
+    },
+    {
+        "id": 5049,
+        "name": "Tarn",
+        "country": "FRA",
+        "state": "81"
+    },
+    {
+        "id": 5050,
+        "name": "Tarn-et-Garonne",
+        "country": "FRA",
+        "state": "82"
+    },
+    {
+        "id": 5058,
+        "name": "Territoire de Belfort",
+        "country": "FRA",
+        "state": "90"
+    },
+    {
+        "id": 5063,
+        "name": "Val-d'Oise",
+        "country": "FRA",
+        "state": "95"
+    },
+    {
+        "id": 5062,
+        "name": "Val-de-Marne",
+        "country": "FRA",
+        "state": "94"
+    },
+    {
+        "id": 5051,
+        "name": "Var",
+        "country": "FRA",
+        "state": "83"
+    },
+    {
+        "id": 5052,
+        "name": "Vaucluse",
+        "country": "FRA",
+        "state": "84"
+    },
+    {
+        "id": 5053,
+        "name": "Vendée",
+        "country": "FRA",
+        "state": "85"
+    },
+    {
+        "id": 5054,
+        "name": "Vienne",
+        "country": "FRA",
+        "state": "86"
+    },
+    {
+        "id": 5056,
+        "name": "Vosges",
+        "country": "FRA",
+        "state": "88"
+    },
+    {
+        "id": 4810,
+        "name": "Wallis and Futuna",
+        "country": "FRA",
+        "state": "WF"
+    },
+    {
+        "id": 5057,
+        "name": "Yonne",
+        "country": "FRA",
+        "state": "89"
+    },
+    {
+        "id": 5046,
+        "name": "Yvelines",
+        "country": "FRA",
+        "state": "78"
+    }
+]

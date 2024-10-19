@@ -1,0 +1,3206 @@
+[
+    {
+        "id": 68007,
+        "name": "1ra. Sección de Izapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68008,
+        "name": "2da. Sección de Medio Monte",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68013,
+        "name": "Abasolo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68024,
+        "name": "Acacoyagua",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68029,
+        "name": "Acala",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68036,
+        "name": "Acapetahua",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68089,
+        "name": "Adolfo López Mateos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68101,
+        "name": "Agrónomos Mexicanos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68102,
+        "name": "Agua Azul",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68105,
+        "name": "Agua Blanca Serranía",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68120,
+        "name": "Agua Zarca",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68122,
+        "name": "Aguacatenango",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68130,
+        "name": "Agustín de Iturbide",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68135,
+        "name": "Ahuacatlán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68165,
+        "name": "Ajilhó",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68186,
+        "name": "Aldama",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68195,
+        "name": "Alfonso Moguel",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68224,
+        "name": "Altamirano",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76395,
+        "name": "Álvaro Obregón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68234,
+        "name": "Amado Nervo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68247,
+        "name": "Amatán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68237,
+        "name": "Amatenango de la Frontera",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68238,
+        "name": "Amatenango del Valle",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68264,
+        "name": "América Libre",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76404,
+        "name": "Ángel Albino Corzo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76405,
+        "name": "Ángel Albino Corzo (Guadalupe)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68295,
+        "name": "Apas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68320,
+        "name": "Aquiles Serdán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68349,
+        "name": "Arimatea",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68355,
+        "name": "Arriaga",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68358,
+        "name": "Arroyo Grande",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68359,
+        "name": "Arroyo Granizo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68363,
+        "name": "Arroyo Palenque",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68378,
+        "name": "Arvenza Uno",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68445,
+        "name": "Aurora Ermita",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68446,
+        "name": "Aurora Esquipulas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68474,
+        "name": "Azteca",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68475,
+        "name": "Aztlán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68487,
+        "name": "Bachajón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68504,
+        "name": "Bajucu",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68567,
+        "name": "Bautista Chico",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68570,
+        "name": "Bejucal de Ocampo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68574,
+        "name": "Belisario Domínguez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68576,
+        "name": "Bella Vista",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68585,
+        "name": "Benemérito de las Américas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68601,
+        "name": "Benito Juárez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68611,
+        "name": "Berriozábal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68612,
+        "name": "Betania",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68625,
+        "name": "Bochil",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68626,
+        "name": "Bochojbo Alto",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68649,
+        "name": "Brisas Barra de Suchiate",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68673,
+        "name": "Buenavista",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68676,
+        "name": "Buenavista (Matasanos)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68686,
+        "name": "Buenos Aires",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68702,
+        "name": "Cabeza de Toro",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68705,
+        "name": "Cacahoatán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68715,
+        "name": "Cacaté",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69657,
+        "name": "Cálido",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68753,
+        "name": "Calzada Larga",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68786,
+        "name": "Cancuc",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68797,
+        "name": "Cantioc",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68801,
+        "name": "Cantón las Delicias",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68799,
+        "name": "Cantón Rancho Nuevo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68800,
+        "name": "Cantón Villaflor",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68829,
+        "name": "Carmen Yalchuch",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68830,
+        "name": "Carmen Zacatal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68837,
+        "name": "Carrillo Puerto",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68856,
+        "name": "Cash",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68862,
+        "name": "Catazajá",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68864,
+        "name": "Catishtic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68884,
+        "name": "Cebadilla 1ra. Sección",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68895,
+        "name": "Cenobio Aguilar (La Trinidad)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68905,
+        "name": "Cereso 14 (El Amate)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68946,
+        "name": "Chacaljocóm",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68949,
+        "name": "Chacoma",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68955,
+        "name": "Chalam",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68960,
+        "name": "Chalchihuitán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68969,
+        "name": "Chamula",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68970,
+        "name": "Chamulapita",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68973,
+        "name": "Chanal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68980,
+        "name": "Chapallal Grande",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 68989,
+        "name": "Chapultenango",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69010,
+        "name": "Chiapa de Corzo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69011,
+        "name": "Chiapilla",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69034,
+        "name": "Chicoasén",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69037,
+        "name": "Chicomuselo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69048,
+        "name": "Chicumtantic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69055,
+        "name": "Chihuahua",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69071,
+        "name": "Chiloljá",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69075,
+        "name": "Chilón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69079,
+        "name": "Chimhucum",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69092,
+        "name": "Chiquinival",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69093,
+        "name": "Chiquinshulum",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69096,
+        "name": "Chixtontic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69113,
+        "name": "Chulum Cárdenas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69114,
+        "name": "Chulum Juárez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69136,
+        "name": "Cintalapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69137,
+        "name": "Cintalapa de Figueroa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69153,
+        "name": "Ciudad Cuauhtémoc",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69160,
+        "name": "Ciudad Hidalgo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69222,
+        "name": "Coapilla",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69342,
+        "name": "Colonia Obrera",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69417,
+        "name": "Comalapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69425,
+        "name": "Comitán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69432,
+        "name": "Concepción",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69453,
+        "name": "Congregación Reforma",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69465,
+        "name": "Constitución",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69469,
+        "name": "Copainalá",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69474,
+        "name": "Copoya",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69535,
+        "name": "Cristóbal Colón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69536,
+        "name": "Cristóbal Obregón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69548,
+        "name": "Cruztón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69580,
+        "name": "Cuauhtémoc",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69606,
+        "name": "Cuchulumtic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69665,
+        "name": "Damasco",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69683,
+        "name": "Diamante de Echeverría",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69685,
+        "name": "Dieciséis de Septiembre",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69693,
+        "name": "Doctor Belisario Domínguez (La Barra)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69695,
+        "name": "Doctor Domingo Chanona",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69700,
+        "name": "Doctor Rodulfo Figueroa (Tierra Blanca)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69701,
+        "name": "Doctor Samuel León Brindis",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69707,
+        "name": "Dolores Jaltenango",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69755,
+        "name": "Efraín A. Gutiérrez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69756,
+        "name": "Egipto",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70264,
+        "name": "El Águila",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70267,
+        "name": "El Ámbar",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70268,
+        "name": "El Ámbar (El Ámbar de Echeverría)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69832,
+        "name": "El Arenal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69848,
+        "name": "El Bosque",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69855,
+        "name": "El Calvario",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69870,
+        "name": "El Carmen",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69876,
+        "name": "El Carmen (El Limón)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69892,
+        "name": "El Censo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69920,
+        "name": "El Consuelo Ulapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69923,
+        "name": "El Copal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69924,
+        "name": "El Copalar",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69950,
+        "name": "El Edén",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69952,
+        "name": "El Encanto",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 69960,
+        "name": "El Espinal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70001,
+        "name": "El Jardín",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70007,
+        "name": "El Jobo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70014,
+        "name": "El Limar",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70015,
+        "name": "El Limonar",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70032,
+        "name": "El Mango",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70067,
+        "name": "El Nopal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70076,
+        "name": "El Pacayal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70081,
+        "name": "El Palmar (San Gabriel)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70082,
+        "name": "El Palmar Grande",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70083,
+        "name": "El Palmarcito",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70091,
+        "name": "El Paraíso",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70095,
+        "name": "El Parral",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70114,
+        "name": "El Portal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70118,
+        "name": "El Porvenir",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70120,
+        "name": "El Porvenir Agrarista",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70122,
+        "name": "El Porvenir de Velasco Suárez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70128,
+        "name": "El Pozo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70133,
+        "name": "El Progreso",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70139,
+        "name": "El Puerto",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70143,
+        "name": "El Ramal (Porvenir)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70182,
+        "name": "El Sacrificio",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70205,
+        "name": "El Sibal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70235,
+        "name": "El Triunfo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70237,
+        "name": "El Triunfo 1ra. Sección (Cardona)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70238,
+        "name": "El Triunfo de las Tres Maravillas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70244,
+        "name": "El Tumbo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70246,
+        "name": "El Tzay",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70255,
+        "name": "El Vergel",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70260,
+        "name": "El Zapotal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70263,
+        "name": "El Zapotillo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70276,
+        "name": "Emiliano Zapata",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70323,
+        "name": "Escuintla",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70343,
+        "name": "Estación Huehuetán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70354,
+        "name": "Estación San Manuel",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70357,
+        "name": "Estación Tuzantán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70373,
+        "name": "Estrella de Belén",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70392,
+        "name": "Faja de Oro",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70405,
+        "name": "Flor de Cacao",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70469,
+        "name": "Francisco I. Madero",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70473,
+        "name": "Francisco León",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70475,
+        "name": "Francisco Sarabia",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70480,
+        "name": "Francisco Villa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70492,
+        "name": "Frontera Corozal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70493,
+        "name": "Frontera Hidalgo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70501,
+        "name": "Gabriel Esquinca",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70512,
+        "name": "Galecio Narcia",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70571,
+        "name": "Guadalupe",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70583,
+        "name": "Guadalupe Grijalva",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70605,
+        "name": "Guadalupe Victoria",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70619,
+        "name": "Guaquitepec",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70669,
+        "name": "Hermenegildo Galeana",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70829,
+        "name": "Héroes de Chapultepec",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70682,
+        "name": "Hidalgo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70688,
+        "name": "Hidalgo Joshil",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70762,
+        "name": "Huehuetán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70801,
+        "name": "Huitiupán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70821,
+        "name": "Huixtla",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70822,
+        "name": "Huizachal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70838,
+        "name": "Ignacio Allende",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70842,
+        "name": "Ignacio López Rayón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70845,
+        "name": "Ignacio Ramírez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70857,
+        "name": "Ignacio Zaragoza",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70858,
+        "name": "Ignacio Zaragoza (El Morro)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70869,
+        "name": "Independencia",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70916,
+        "name": "Ixhuatán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70923,
+        "name": "Ixtacomitán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70926,
+        "name": "Ixtapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70933,
+        "name": "Ixtapangajoya",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70973,
+        "name": "Jalisco",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 70983,
+        "name": "Jaltenango de la Paz",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71006,
+        "name": "Jardínes del Grijalva",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71019,
+        "name": "Jericó",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71020,
+        "name": "Jerusalén",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71033,
+        "name": "Jesús María Garza",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71054,
+        "name": "Jiquilpan (Estación Bonanza)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71055,
+        "name": "Jiquipilas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71059,
+        "name": "Jitotol",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71064,
+        "name": "Joaquín Miguel Gutiérrez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71065,
+        "name": "Joaquín Miguel Gutiérrez (Margaritas)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71071,
+        "name": "Joljá",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71074,
+        "name": "Jolsibaquil",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71075,
+        "name": "Joltealal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71076,
+        "name": "Jomanichim",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71097,
+        "name": "José María Morelos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71105,
+        "name": "José María Morelos y Pavón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71108,
+        "name": "José María Pino Suárez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71087,
+        "name": "Joshil",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71112,
+        "name": "Juan Aldama",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71129,
+        "name": "Juan del Grijalva",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71145,
+        "name": "Juárez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71137,
+        "name": "Julián Grajales",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71143,
+        "name": "Justo Sierra",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71168,
+        "name": "Kotolte",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71195,
+        "name": "La Candelaria",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71210,
+        "name": "La Ceiba",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71226,
+        "name": "La Competencia",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71242,
+        "name": "La Concordia",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71271,
+        "name": "La Esperanza",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71276,
+        "name": "La Esperanza (El Zapotal)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71292,
+        "name": "La Floresta",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71302,
+        "name": "La Gloria",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71307,
+        "name": "La Grandeza",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71323,
+        "name": "La Independencia",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71324,
+        "name": "La Independencia (Las Pilas)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71343,
+        "name": "La Laguna",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71351,
+        "name": "La Libertad",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71379,
+        "name": "La Línea",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71434,
+        "name": "La Patria",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71448,
+        "name": "La Pimienta",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71477,
+        "name": "La Rinconada",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71502,
+        "name": "La Tigrilla",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71516,
+        "name": "La Trinitaria",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71540,
+        "name": "Lacandón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71557,
+        "name": "Laguna del Cofre",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71571,
+        "name": "Larráinzar",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71579,
+        "name": "Las Brisas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71586,
+        "name": "Las Chicharras",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71596,
+        "name": "Las Delicias",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71599,
+        "name": "Las Flechas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71616,
+        "name": "Las Maravillas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71617,
+        "name": "Las Margaritas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71628,
+        "name": "Las Ollas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71637,
+        "name": "Las Rosas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71642,
+        "name": "Las Tazas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71888,
+        "name": "Lázaro Cárdenas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71896,
+        "name": "Lázaro Cárdenas (Chilil)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71670,
+        "name": "Libertad Melchor Ocampo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71671,
+        "name": "Libertad Ventanas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71693,
+        "name": "Llano de la Lima",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71713,
+        "name": "Loma Bonita",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71741,
+        "name": "Lomantán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71782,
+        "name": "Los Cafetales",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71793,
+        "name": "Los Corazones",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71819,
+        "name": "Los Naranjos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71827,
+        "name": "Los Palacios",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71832,
+        "name": "Los Pinos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71834,
+        "name": "Los Plátanos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71836,
+        "name": "Los Pozos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71853,
+        "name": "Los Riegos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71880,
+        "name": "Luis Espinoza",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71915,
+        "name": "Macvilhó",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71942,
+        "name": "Majastic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71943,
+        "name": "Majomut",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71966,
+        "name": "Manuel Ávila Camacho",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71968,
+        "name": "Manuel Ávila Camacho (Ponte Duro)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71961,
+        "name": "Manuel Lazos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71977,
+        "name": "Mapastepec",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71981,
+        "name": "Maravilla Tenejapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71982,
+        "name": "Maravillas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71993,
+        "name": "Mariano Matamoros",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71995,
+        "name": "Mariscal Subikuski",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 71998,
+        "name": "Marqués de Comillas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72000,
+        "name": "Marte R. Gómez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72023,
+        "name": "Matzam",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72036,
+        "name": "Mazapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72038,
+        "name": "Mazapa de Madero",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72049,
+        "name": "Mazatán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72262,
+        "name": "Mérida",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72087,
+        "name": "Metapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72128,
+        "name": "Miguel Hidalgo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72135,
+        "name": "Miguel Utrilla (Los Chorros)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72158,
+        "name": "Misija",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72161,
+        "name": "Mitontic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72163,
+        "name": "Mitzitón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72164,
+        "name": "Mixcum",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72205,
+        "name": "Monte Redondo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72212,
+        "name": "Montecristo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72213,
+        "name": "Montecristo de Guerrero",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72218,
+        "name": "Monterrey",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72226,
+        "name": "Morelia (Victórico Rodolfo Grajales)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72241,
+        "name": "Motozintla",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72246,
+        "name": "Moyos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72256,
+        "name": "Muquén",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72265,
+        "name": "Nachig",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72285,
+        "name": "Narciso Mendoza",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72296,
+        "name": "Navenchauc",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72323,
+        "name": "Nicolás Bravo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72328,
+        "name": "Nicolás Ruiz",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72359,
+        "name": "Nueva América",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72362,
+        "name": "Nueva Colombia",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72364,
+        "name": "Nueva Esperanza",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72366,
+        "name": "Nueva Independencia",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72368,
+        "name": "Nueva Libertad",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72369,
+        "name": "Nueva Libertad (El Colorado)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72370,
+        "name": "Nueva Morelia",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72371,
+        "name": "Nueva Palestina",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72375,
+        "name": "Nueva Sesecapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72376,
+        "name": "Nueva Tenochtitlán (Rizo de Oro)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72378,
+        "name": "Nuevo Amatenango",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72380,
+        "name": "Nuevo Carmen Tonapac",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72385,
+        "name": "Nuevo Francisco León",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72389,
+        "name": "Nuevo Juan del Grijalva",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72391,
+        "name": "Nuevo León",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72393,
+        "name": "Nuevo Limar",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72398,
+        "name": "Nuevo México",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72395,
+        "name": "Nuevo Milenio Valdivia",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72399,
+        "name": "Nuevo Naranjo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72401,
+        "name": "Nuevo Nicapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72402,
+        "name": "Nuevo Pacayal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72407,
+        "name": "Nuevo Pumpuapa (Cereso)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72409,
+        "name": "Nuevo San Juan Chamula",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72413,
+        "name": "Nuevo Sitalá",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72419,
+        "name": "Nuevo Vicente Guerrero",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72420,
+        "name": "Nuevo Vicente Guerrero (El Chichonal)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72421,
+        "name": "Nuevo Volcán Chichonal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72423,
+        "name": "Nuevo Xochimilco",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72447,
+        "name": "Ochusjob",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72448,
+        "name": "Ococh",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72450,
+        "name": "Ocosingo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72452,
+        "name": "Ocotepec",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72464,
+        "name": "Ocozocoautla de Espinosa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72467,
+        "name": "Octavio Paz",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72484,
+        "name": "Ojo de Agua",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72508,
+        "name": "Omoa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72510,
+        "name": "Once de Abril",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72534,
+        "name": "Ostuacán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72535,
+        "name": "Osumacinta",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72546,
+        "name": "Oxchuc",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72550,
+        "name": "Oxinam",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72564,
+        "name": "Pablo L. Sidar",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72571,
+        "name": "Pacú",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72582,
+        "name": "Palenque",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72625,
+        "name": "Pantelhó",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72626,
+        "name": "Pantepec",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72650,
+        "name": "Paraíso del Grijalva",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72653,
+        "name": "Paredón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72680,
+        "name": "Paso Hondo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72704,
+        "name": "Pasté",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72709,
+        "name": "Patosil",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72712,
+        "name": "Patria Nueva (San José el Contento)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72714,
+        "name": "Pavencul",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72736,
+        "name": "Perla de Acapulco",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72742,
+        "name": "Petalcingo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72761,
+        "name": "Pichucalco",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72766,
+        "name": "Piedra Labrada",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72774,
+        "name": "Pijijiapan",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72795,
+        "name": "Plan de Agua Prieta",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72798,
+        "name": "Plan de Ayala",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72846,
+        "name": "Pomposo Castellanos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72861,
+        "name": "Potrerillo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72891,
+        "name": "Presidente Echeverría (Laja Tendida)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72895,
+        "name": "Primer Cantón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72907,
+        "name": "Profresor Roberto Barrios",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72927,
+        "name": "Puebla",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72938,
+        "name": "Pueblo Nuevo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72971,
+        "name": "Puerto Madero",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72983,
+        "name": "Pugchén Mumuntic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 72986,
+        "name": "Punta Arena",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73024,
+        "name": "Querétaro",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73036,
+        "name": "Quintana Roo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73046,
+        "name": "Rafael Pascacio Gamboa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73047,
+        "name": "Rafael Ramírez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73052,
+        "name": "Ramón F. Balboa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73082,
+        "name": "Raudales Malpaso",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73084,
+        "name": "Raymundo Enríquez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73087,
+        "name": "Rayón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73094,
+        "name": "Reforma",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73096,
+        "name": "Reforma y Planada",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73100,
+        "name": "Revolución Mexicana",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73106,
+        "name": "Ricardo Flores Magón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73118,
+        "name": "Rincón Chamula",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73168,
+        "name": "Río Blanco",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73171,
+        "name": "Río Chancalá",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73178,
+        "name": "Río Jordán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73143,
+        "name": "Rizo de Oro",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73145,
+        "name": "Roblada Grande",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73151,
+        "name": "Rodulfo Figueroa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73153,
+        "name": "Romerillo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73192,
+        "name": "Sabanilla",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73195,
+        "name": "Sabinalito",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73198,
+        "name": "Saclamantón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73225,
+        "name": "Saltillo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73227,
+        "name": "Salto de Agua",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73230,
+        "name": "Salvador Urbina",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73278,
+        "name": "San Andrés Duraznal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73325,
+        "name": "San Antonio Buenavista",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73326,
+        "name": "San Antonio Bulujib",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73380,
+        "name": "San Antonio del Monte",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73455,
+        "name": "San Caralampio",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73466,
+        "name": "San Cayetano",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73483,
+        "name": "San Cristóbal de las Casas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73526,
+        "name": "San Felipe Tizapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73535,
+        "name": "San Fernando",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73547,
+        "name": "San Francisco (El Calvito)",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73569,
+        "name": "San Francisco Jaconá",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73588,
+        "name": "San Francisco Pujiltic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73665,
+        "name": "San Isidro",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73691,
+        "name": "San Isidro las Banderas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73720,
+        "name": "San Jerónimo Tulijá",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73756,
+        "name": "San José Chapayal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73855,
+        "name": "San José las Chicharras",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73803,
+        "name": "San José Yashitinín",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 73804,
+        "name": "San José Yocnajab",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74021,
+        "name": "San Lucas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74061,
+        "name": "San Luqueño",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74150,
+        "name": "San Miguel",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74242,
+        "name": "San Miguel la Sardina",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74290,
+        "name": "San Pablo Huacano",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74321,
+        "name": "San Pedro Buenavista",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74362,
+        "name": "San Pedro Nichtalucum",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74420,
+        "name": "San Quintín",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74510,
+        "name": "San Vicente la Mesilla",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74653,
+        "name": "Santa Elena",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74704,
+        "name": "Santa María",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74829,
+        "name": "Santa Rita",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74989,
+        "name": "Santiago el Pinar",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74936,
+        "name": "Santiago Pojcol",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 74993,
+        "name": "Santo Domingo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75019,
+        "name": "Santo Domingo de las Palmas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75068,
+        "name": "Señor del Pozo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75069,
+        "name": "Shoctic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75070,
+        "name": "Sibacá",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75071,
+        "name": "Sibaniljá Pocolum",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75081,
+        "name": "Siltepec",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75084,
+        "name": "Simojovel",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75085,
+        "name": "Simojovel de Allende",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75089,
+        "name": "Sinaloa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75099,
+        "name": "Sitalá",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75107,
+        "name": "Socoltenango",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75109,
+        "name": "Soconusco",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75119,
+        "name": "Solosuchiapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75129,
+        "name": "Soyaló",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75133,
+        "name": "Soyatitán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75138,
+        "name": "Suchiapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75139,
+        "name": "Suchiate",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75161,
+        "name": "Tacuba Nueva",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75172,
+        "name": "Talismán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75176,
+        "name": "Tamaulipas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75214,
+        "name": "Taniperla",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75221,
+        "name": "Tapachula",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75222,
+        "name": "Tapalapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75227,
+        "name": "Tapilula",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75288,
+        "name": "Tecpatán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75352,
+        "name": "Tenango",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75371,
+        "name": "Tentic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75381,
+        "name": "Teopisca",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75506,
+        "name": "Texcaltic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75556,
+        "name": "Tierra y Libertad",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75565,
+        "name": "Tila",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75569,
+        "name": "Tiltepec",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75574,
+        "name": "Tinajas 1ra. Sección",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75715,
+        "name": "Tocob Leglemal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75738,
+        "name": "Tonalá",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75750,
+        "name": "Totolapa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75771,
+        "name": "Tres Cerros",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75777,
+        "name": "Tres Picos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75805,
+        "name": "Tumbala",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75825,
+        "name": "Tuxtla",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75827,
+        "name": "Tuxtla Chico",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75831,
+        "name": "Tuzantán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75833,
+        "name": "Tz'Aquiviljok",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75835,
+        "name": "Tzajalá",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75834,
+        "name": "Tzajalchén",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75836,
+        "name": "Tzeltal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75840,
+        "name": "Tzimol",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75842,
+        "name": "Tzinil",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75848,
+        "name": "Tziscao",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75850,
+        "name": "Tzoeptic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75852,
+        "name": "Tzontehuitz",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75853,
+        "name": "Tzopilja",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75860,
+        "name": "Ubilio García",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75881,
+        "name": "Unión Buena Vista",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75882,
+        "name": "Unión Buenavista",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75885,
+        "name": "Unión Juárez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75886,
+        "name": "Unión Roja",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75901,
+        "name": "Usipa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75940,
+        "name": "Vega del Rosario",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75943,
+        "name": "Veinte de Noviembre",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75963,
+        "name": "Venustiano Carranza",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75966,
+        "name": "Veracruz",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75967,
+        "name": "Verapaz",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75973,
+        "name": "Vicente Guerrero",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75986,
+        "name": "Vida Mejor I",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75995,
+        "name": "Villa Comaltitlán",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 75996,
+        "name": "Villa Corzo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76010,
+        "name": "Villa Hidalgo",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76077,
+        "name": "Villaflores",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76081,
+        "name": "Villahermosa Yaluma",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76084,
+        "name": "Villamorelos",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76100,
+        "name": "Viva Cárdenas",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76101,
+        "name": "Viva México",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76163,
+        "name": "Xochiltepec",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76211,
+        "name": "Yajalón",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76214,
+        "name": "Yaltem",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76217,
+        "name": "Yasha",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76218,
+        "name": "Yashanal",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76238,
+        "name": "Yibeljoj",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76244,
+        "name": "Yoshib",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76278,
+        "name": "Zacatonal de Juárez",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76282,
+        "name": "Zacualpa",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76295,
+        "name": "Zamora Pico de Oro",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76317,
+        "name": "Zaragoza",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76323,
+        "name": "Zaragoza la Montaña",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76331,
+        "name": "Zequentic",
+        "country": "MEX",
+        "state": "CHP"
+    },
+    {
+        "id": 76340,
+        "name": "Zinacantán",
+        "country": "MEX",
+        "state": "CHP"
+    }
+]

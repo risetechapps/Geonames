@@ -1,0 +1,5528 @@
+[
+    {
+        "id": 39235,
+        "name": "Abbeville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39238,
+        "name": "Ablain-Saint-Nazaire",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39247,
+        "name": "Abscon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39250,
+        "name": "Achicourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39251,
+        "name": "Achiet-le-Grand",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39260,
+        "name": "Agnetz",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39261,
+        "name": "Agny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39282,
+        "name": "Ailly-sur-Noye",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39283,
+        "name": "Ailly-sur-Somme",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39287,
+        "name": "Airaines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39288,
+        "name": "Aire-sur-la-Lys",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39292,
+        "name": "Aix-Noulette",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39303,
+        "name": "Albert",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39324,
+        "name": "Allennes-les-Marais",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39329,
+        "name": "Allonne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39332,
+        "name": "Allouagne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39352,
+        "name": "Amblainville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39353,
+        "name": "Ambleny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39354,
+        "name": "Ambleteuse",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39364,
+        "name": "Amiens",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39381,
+        "name": "Andeville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39387,
+        "name": "Andres",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39401,
+        "name": "Angicourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39406,
+        "name": "Angres",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39408,
+        "name": "Angy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39409,
+        "name": "Anhiers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39411,
+        "name": "Aniche",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39412,
+        "name": "Anizy-le-Château",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39413,
+        "name": "Annay",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39417,
+        "name": "Annequin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39421,
+        "name": "Annezin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39422,
+        "name": "Annoeullin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39425,
+        "name": "Anor",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39427,
+        "name": "Ansauvillers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39430,
+        "name": "Anstaing",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39438,
+        "name": "Anzin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39439,
+        "name": "Anzin-Saint-Aubin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39469,
+        "name": "Ardres",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39490,
+        "name": "Arleux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39491,
+        "name": "Armbouts-Cappel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39493,
+        "name": "Armentières",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39504,
+        "name": "Arnèke",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39508,
+        "name": "Arques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39511,
+        "name": "Arras",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39530,
+        "name": "Artres",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39556,
+        "name": "Athies-sous-Laon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39561,
+        "name": "Attiches",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39562,
+        "name": "Attichy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39570,
+        "name": "Auberchicourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39573,
+        "name": "Aubers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39580,
+        "name": "Aubigny-au-Bac",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39581,
+        "name": "Aubigny-en-Artois",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39588,
+        "name": "Aubry-du-Hainaut",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39590,
+        "name": "Auby",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39593,
+        "name": "Auchel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39595,
+        "name": "Auchy-lès-Hesdin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39594,
+        "name": "Auchy-les-Mines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39599,
+        "name": "Audruicq",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39611,
+        "name": "Aulnois-sous-Laon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39612,
+        "name": "Aulnoy-lez-Valenciennes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39613,
+        "name": "Aulnoye-Aymeries",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39614,
+        "name": "Ault",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39621,
+        "name": "Auneuil",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39645,
+        "name": "Auxi-le-Château",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39661,
+        "name": "Avelin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39664,
+        "name": "Avesnelles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39665,
+        "name": "Avesnes-le-Comte",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39666,
+        "name": "Avesnes-le-Sec",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39667,
+        "name": "Avesnes-les-Aubert",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39671,
+        "name": "Avilly-Saint-Léonard",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39672,
+        "name": "Avion",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39679,
+        "name": "Avrechy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39700,
+        "name": "Bachant",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39701,
+        "name": "Bachy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39725,
+        "name": "Bailleul",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39726,
+        "name": "Bailleul-Sir-Berthoult",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39727,
+        "name": "Bailleul-sur-Thérain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39728,
+        "name": "Bailleval",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39733,
+        "name": "Baincthun",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39740,
+        "name": "Baisieux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39742,
+        "name": "Balagny-sur-Thérain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39764,
+        "name": "Bapaume",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39787,
+        "name": "Barlin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39816,
+        "name": "Bauvin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39818,
+        "name": "Bavay",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39837,
+        "name": "Beaucamps-le-Vieux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39839,
+        "name": "Beauchamps",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39858,
+        "name": "Beaumetz-lès-Loges",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39879,
+        "name": "Beauquesne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39880,
+        "name": "Beaurains",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39881,
+        "name": "Beaurainville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39884,
+        "name": "Beaurevoir",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39888,
+        "name": "Beautor",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39889,
+        "name": "Beauvais",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39890,
+        "name": "Beauval",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39895,
+        "name": "Beauvois-en-Cambrésis",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39908,
+        "name": "Bellaing",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39920,
+        "name": "Belleu",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39943,
+        "name": "Berck",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39944,
+        "name": "Berck-Plage",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39948,
+        "name": "Bergues",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39949,
+        "name": "Berlaimont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39951,
+        "name": "Bernaville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39966,
+        "name": "Bersée",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39967,
+        "name": "Berteaucourt-les-Dames",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39968,
+        "name": "Berthecourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39970,
+        "name": "Bertry",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40430,
+        "name": "Béthencourt-sur-Mer",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40432,
+        "name": "Béthisy-Saint-Martin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40433,
+        "name": "Béthisy-Saint-Pierre",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40434,
+        "name": "Béthune",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39988,
+        "name": "Betz",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39992,
+        "name": "Beuvrages",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 39993,
+        "name": "Beuvry",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40004,
+        "name": "Biache-Saint-Vaast",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40012,
+        "name": "Bierne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40022,
+        "name": "Billy-Berclau",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40023,
+        "name": "Billy-Montigny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40024,
+        "name": "Billy-sur-Aisne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40047,
+        "name": "Blaincourt-lès-Précy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40058,
+        "name": "Blaringhem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40064,
+        "name": "Blendecques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40075,
+        "name": "Blérancourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40080,
+        "name": "Boeschepe",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40081,
+        "name": "Bohain-en-Vermandois",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40085,
+        "name": "Bois-Grenier",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40103,
+        "name": "Bollezeele",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40112,
+        "name": "Bondues",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40135,
+        "name": "Boran-sur-Oise",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40142,
+        "name": "Bornel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40151,
+        "name": "Bouchain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40238,
+        "name": "Boué",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40174,
+        "name": "Boulogne-sur-Mer",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40181,
+        "name": "Bourbourg",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40200,
+        "name": "Bourghelles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40208,
+        "name": "Bourlon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40214,
+        "name": "Bousbecque",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40215,
+        "name": "Bousies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40220,
+        "name": "Boussois",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40225,
+        "name": "Bouttencourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40227,
+        "name": "Bouvignies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40228,
+        "name": "Bouvigny-Boyeffles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40239,
+        "name": "Boves",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40249,
+        "name": "Braine",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40259,
+        "name": "Brasles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40266,
+        "name": "Bray-Dunes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40269,
+        "name": "Bray-sur-Somme",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40271,
+        "name": "Brebières",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40365,
+        "name": "Brêmes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40274,
+        "name": "Brenouille",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40276,
+        "name": "Bresles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40283,
+        "name": "Breteuil",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40293,
+        "name": "Breuil-le-Sec",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40294,
+        "name": "Breuil-le-Vert",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40336,
+        "name": "Brouckerque",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40338,
+        "name": "Bruay-la-Buissière",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40339,
+        "name": "Bruay-sur-l’Escaut",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40344,
+        "name": "Bruille-lez-Marchiennes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40343,
+        "name": "Bruille-Saint-Amand",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40349,
+        "name": "Bruyères-et-Montbérault",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40372,
+        "name": "Bucquoy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40373,
+        "name": "Bucy-le-Long",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40378,
+        "name": "Buironfosse",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40384,
+        "name": "Bully-les-Mines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40385,
+        "name": "Burbure",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40392,
+        "name": "Bury",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40393,
+        "name": "Busigny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40394,
+        "name": "Busnes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40630,
+        "name": "Caëstre",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40460,
+        "name": "Cagny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40469,
+        "name": "Calais",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40475,
+        "name": "Calonne-Ricouart",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40476,
+        "name": "Calonne-sur-la-Lys",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40486,
+        "name": "Camblain-Châtelain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40489,
+        "name": "Cambrai",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40491,
+        "name": "Cambronne-lès-Clermont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40492,
+        "name": "Cambronne-lès-Ribécourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40493,
+        "name": "Camiers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40494,
+        "name": "Camon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40496,
+        "name": "Campagne-lès-Hesdin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40499,
+        "name": "Camphin-en-Carembault",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40500,
+        "name": "Camphin-en-Pévèle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40521,
+        "name": "Cantin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40529,
+        "name": "Capinghem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40530,
+        "name": "Cappelle-en-Pévèle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40531,
+        "name": "Cappelle-la-Grande",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40547,
+        "name": "Carlepont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40566,
+        "name": "Cartignies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40567,
+        "name": "Carvin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40569,
+        "name": "Cassel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40598,
+        "name": "Catenoy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40600,
+        "name": "Cauchy-à-la-Tour",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40604,
+        "name": "Caudry",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40605,
+        "name": "Cauffry",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40614,
+        "name": "Cauvigny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40622,
+        "name": "Cayeux-sur-Mer",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40702,
+        "name": "Chamant",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40706,
+        "name": "Chambly",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40775,
+        "name": "Chantilly",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40805,
+        "name": "Charly-sur-Marne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40807,
+        "name": "Charmes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40946,
+        "name": "Château-Thierry",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40841,
+        "name": "Chaulnes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40844,
+        "name": "Chaumont-en-Vexin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40849,
+        "name": "Chauny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41012,
+        "name": "Chépy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41015,
+        "name": "Chéreng",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40902,
+        "name": "Chevrières",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41017,
+        "name": "Chézy-sur-Marne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40906,
+        "name": "Chierry",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40915,
+        "name": "Chiry-Ourscamp",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40918,
+        "name": "Chocques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 40921,
+        "name": "Choisy-au-Bac",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41022,
+        "name": "Cinqueux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41025,
+        "name": "Cires-lès-Mello",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41036,
+        "name": "Clairoix",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41044,
+        "name": "Clary",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41047,
+        "name": "Clermont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41085,
+        "name": "Coincy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41089,
+        "name": "Colleret",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41116,
+        "name": "Comines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41124,
+        "name": "Compiègne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41141,
+        "name": "Condé-sur-l’Escaut",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41132,
+        "name": "Condette",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41158,
+        "name": "Conty",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41159,
+        "name": "Coquelles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41163,
+        "name": "Corbehem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41168,
+        "name": "Corbie",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41218,
+        "name": "Coucy-le-Château-Auffrique",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41219,
+        "name": "Coudekerque-Branche",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41220,
+        "name": "Coudekerque-Village",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41222,
+        "name": "Coudun",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41232,
+        "name": "Coulogne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41243,
+        "name": "Courcelles-lès-Lens",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41246,
+        "name": "Courchelettes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41254,
+        "name": "Courmelles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41260,
+        "name": "Courrières",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41276,
+        "name": "Cousolre",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41281,
+        "name": "Coutiches",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41284,
+        "name": "Couvron-et-Aumencourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41289,
+        "name": "Coye-la-Forêt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41341,
+        "name": "Crécy-en-Ponthieu",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41342,
+        "name": "Crécy-sur-Serre",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41302,
+        "name": "Creil",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41349,
+        "name": "Crépy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41350,
+        "name": "Crépy-en-Valois",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41306,
+        "name": "Crespin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41339,
+        "name": "Crèvecœur-le-Grand",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41352,
+        "name": "Crézancy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41320,
+        "name": "Crisolles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41322,
+        "name": "Croisilles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41325,
+        "name": "Croix",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41331,
+        "name": "Crouy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41332,
+        "name": "Crouy-en-Thelle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41357,
+        "name": "Cucq",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41360,
+        "name": "Cuffies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41365,
+        "name": "Cuinchy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41366,
+        "name": "Cuincy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41367,
+        "name": "Cuise-la-Motte",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41375,
+        "name": "Curgies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41388,
+        "name": "Cysoing",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41405,
+        "name": "Dainville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41430,
+        "name": "Dannes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41433,
+        "name": "Dargnies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41446,
+        "name": "Dechy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41450,
+        "name": "Denain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41609,
+        "name": "Département de l'Aisne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41621,
+        "name": "Département de l'Oise",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41457,
+        "name": "Desvres",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41463,
+        "name": "Deûlémont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41496,
+        "name": "Divion",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41502,
+        "name": "Doingt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41513,
+        "name": "Domart-en-Ponthieu",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41528,
+        "name": "Don",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41545,
+        "name": "Douai",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41549,
+        "name": "Douchy-les-Mines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41553,
+        "name": "Doullens",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41555,
+        "name": "Dourges",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41560,
+        "name": "Douvrin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41572,
+        "name": "Dreslincourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41573,
+        "name": "Dreuil-lès-Amiens",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41575,
+        "name": "Drocourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41588,
+        "name": "Duisans",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41592,
+        "name": "Dunkerque",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41598,
+        "name": "Dury",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48037,
+        "name": "Écaillon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48049,
+        "name": "Écourt-Saint-Quentin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41657,
+        "name": "Ecques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48064,
+        "name": "Éleu-dit-Leauwette",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48067,
+        "name": "Émerchicourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41667,
+        "name": "Emmerin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41670,
+        "name": "Englefontaine",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41673,
+        "name": "Ennetières-en-Weppes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41674,
+        "name": "Ennevelin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48071,
+        "name": "Épehy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48072,
+        "name": "Éperlecques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41688,
+        "name": "Eppeville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48088,
+        "name": "Équihen-Plage",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41691,
+        "name": "Ercuis",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41699,
+        "name": "Erquinghem-Lys",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41701,
+        "name": "Erre",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41706,
+        "name": "Escaudain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41707,
+        "name": "Escaudœuvres",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41708,
+        "name": "Escautpont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41712,
+        "name": "Esches",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41723,
+        "name": "Esquéhéries",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41720,
+        "name": "Esquelbecq",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41721,
+        "name": "Esquerdes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41724,
+        "name": "Essars",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41727,
+        "name": "Essigny-le-Grand",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41728,
+        "name": "Essômes-sur-Marne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41730,
+        "name": "Estaires",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41732,
+        "name": "Estevelles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41737,
+        "name": "Estrées",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41738,
+        "name": "Estrées-Saint-Denis",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48096,
+        "name": "Étampes-sur-Marne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48098,
+        "name": "Étaples",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48107,
+        "name": "Étreillers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48111,
+        "name": "Étreux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48119,
+        "name": "Évin-Malmaison",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41762,
+        "name": "Faches-Thumesnil",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41769,
+        "name": "Famars",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41771,
+        "name": "Fampoux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41780,
+        "name": "Faumont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42000,
+        "name": "Féchain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41792,
+        "name": "Feignies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41797,
+        "name": "Fenain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41998,
+        "name": "Fère-en-Tardenois",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42005,
+        "name": "Férin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41802,
+        "name": "Ferques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41805,
+        "name": "Ferrière-la-Grande",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41809,
+        "name": "Festubert",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41811,
+        "name": "Feuchy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41812,
+        "name": "Feuquières",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41813,
+        "name": "Feuquières-en-Vimeu",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41827,
+        "name": "Fitz-James",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41833,
+        "name": "Flavy-le-Martel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41837,
+        "name": "Flers-en-Escrebieux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41838,
+        "name": "Flesselles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41840,
+        "name": "Fleurbaix",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41844,
+        "name": "Fleurines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41853,
+        "name": "Flines-lès-Mortagne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41852,
+        "name": "Flines-lez-Raches",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41855,
+        "name": "Flixecourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41868,
+        "name": "Folembray",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41878,
+        "name": "Fontaine-au-Pire",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41877,
+        "name": "Fontaine-Notre-Dame",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41911,
+        "name": "Forest-sur-Marque",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41914,
+        "name": "Formerie",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41916,
+        "name": "Fort-Mahon-Plage",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41917,
+        "name": "Fort-Mardyck",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41930,
+        "name": "Fouquereuil",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41931,
+        "name": "Fouquières-lès-Béthune",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41932,
+        "name": "Fouquières-lès-Lens",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41935,
+        "name": "Fourmies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41936,
+        "name": "Fournes-en-Weppes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41955,
+        "name": "Frelinghien",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41959,
+        "name": "Fresnes-sur-Escaut",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41960,
+        "name": "Fresnoy-le-Grand",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41962,
+        "name": "Fressenneville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41988,
+        "name": "Fréthun",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41963,
+        "name": "Fretin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41989,
+        "name": "Frévent",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41966,
+        "name": "Friville-Escarbotin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 41982,
+        "name": "Fruges",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42024,
+        "name": "Gamaches",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42053,
+        "name": "Gauchy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42063,
+        "name": "Genech",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42085,
+        "name": "Ghyvelde",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42106,
+        "name": "Givenchy-en-Gohelle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42116,
+        "name": "Godewaersvelde",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42303,
+        "name": "Gœulzin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42118,
+        "name": "Goincourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42122,
+        "name": "Gommegnies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42125,
+        "name": "Gondecourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42131,
+        "name": "Gonnehem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42140,
+        "name": "Gosnay",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42156,
+        "name": "Gouvieux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42158,
+        "name": "Gouy-sous-Bellonne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42159,
+        "name": "Gouzeaucourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42173,
+        "name": "Grand-Fort-Philippe",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42176,
+        "name": "Grande-Synthe",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42178,
+        "name": "Grandfresnoy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42181,
+        "name": "Grandvilliers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42189,
+        "name": "Gravelines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42198,
+        "name": "Grenay",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42218,
+        "name": "Groffliers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42231,
+        "name": "Gruson",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42238,
+        "name": "Guarbecque",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42247,
+        "name": "Guesnain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42257,
+        "name": "Guignicourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42290,
+        "name": "Guînes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42268,
+        "name": "Guiscard",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42270,
+        "name": "Guise",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42311,
+        "name": "Haillicourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42312,
+        "name": "Haisnes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42313,
+        "name": "Hallencourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42314,
+        "name": "Hallennes-lez-Haubourdin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42315,
+        "name": "Hallines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42316,
+        "name": "Halluin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42317,
+        "name": "Ham",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42321,
+        "name": "Hames-Boucres",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42325,
+        "name": "Harbonnières",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42326,
+        "name": "Hardinghen",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42330,
+        "name": "Harly",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42331,
+        "name": "Harnes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42332,
+        "name": "Hasnon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42334,
+        "name": "Haspres",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42336,
+        "name": "Haubourdin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42338,
+        "name": "Haulchin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42339,
+        "name": "Haussy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42354,
+        "name": "Hautmont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42358,
+        "name": "Haveluy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42359,
+        "name": "Haverskerque",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42362,
+        "name": "Hazebrouck",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42451,
+        "name": "Hélesmes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42365,
+        "name": "Helfaut",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42366,
+        "name": "Hem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42453,
+        "name": "Hénin-Beaumont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42376,
+        "name": "Hergnies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42460,
+        "name": "Hérin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42377,
+        "name": "Herlies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42379,
+        "name": "Hermes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42380,
+        "name": "Hermies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42386,
+        "name": "Hersin-Coupigny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42387,
+        "name": "Herzeele",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42388,
+        "name": "Hesdin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42392,
+        "name": "Heuringhem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42398,
+        "name": "Hinges",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42402,
+        "name": "Hirson",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42408,
+        "name": "Holnon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42412,
+        "name": "Hombleux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42413,
+        "name": "Homblières",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42416,
+        "name": "Hondschoote",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42419,
+        "name": "Hordain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42421,
+        "name": "Hornaing",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42422,
+        "name": "Hornoy-le-Bourg",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42423,
+        "name": "Houdain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42429,
+        "name": "Houplin-Ancoisne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42430,
+        "name": "Houplines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42434,
+        "name": "Hoymille",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42440,
+        "name": "Hulluch",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42481,
+        "name": "Illies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42498,
+        "name": "Isbergues",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42503,
+        "name": "Isques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42511,
+        "name": "Itancourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42518,
+        "name": "Iwuy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42543,
+        "name": "Jaux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42549,
+        "name": "Jenlain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42550,
+        "name": "Jeumont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42597,
+        "name": "Jussy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42614,
+        "name": "Killem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42635,
+        "name": "La Bassée",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42667,
+        "name": "La Capelle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42668,
+        "name": "La Capelle-lès-Boulogne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42697,
+        "name": "La Chapelle-en-Serval",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42719,
+        "name": "La Couture",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42759,
+        "name": "La Fère",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42741,
+        "name": "La Ferté-Milon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42745,
+        "name": "La Flamengrie",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42769,
+        "name": "La Gorgue",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42793,
+        "name": "La Longueville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42797,
+        "name": "La Madeleine",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42877,
+        "name": "La Sentinelle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42932,
+        "name": "Labeuvrière",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42934,
+        "name": "Laboissière-en-Thelle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42936,
+        "name": "Labourse",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42945,
+        "name": "Lachapelle-aux-Pots",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42948,
+        "name": "Lacroix-Saint-Ouen",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42958,
+        "name": "Lagny-le-Sec",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42967,
+        "name": "Laigneville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42976,
+        "name": "Lallaing",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42986,
+        "name": "Lambersart",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42988,
+        "name": "Lambres-lez-Douai",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42990,
+        "name": "Lamorlaye",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 42999,
+        "name": "Landas",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43009,
+        "name": "Landrecies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43038,
+        "name": "Lannoy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43057,
+        "name": "Laon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43064,
+        "name": "Lapugnoy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43087,
+        "name": "Lassigny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43105,
+        "name": "Lauwin-Planque",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43115,
+        "name": "Laventie",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43177,
+        "name": "Le Crotoy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43181,
+        "name": "Le Doulieu",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43228,
+        "name": "Le Mesnil-en-Thelle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43232,
+        "name": "Le Meux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43242,
+        "name": "Le Nouvion-en-Thiérache",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43263,
+        "name": "Le Plessis-Belleville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43265,
+        "name": "Le Plessis-Brion",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43278,
+        "name": "Le Portel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43290,
+        "name": "Le Quesnoy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43321,
+        "name": "Le Touquet-Paris-Plage",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43338,
+        "name": "Lecelles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43681,
+        "name": "Lécluse",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43341,
+        "name": "Leers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43342,
+        "name": "Leffrinckoucke",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43343,
+        "name": "Leforest",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43350,
+        "name": "Lens",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43357,
+        "name": "Les Ageux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43367,
+        "name": "Les Attaques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43441,
+        "name": "Lesquin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43444,
+        "name": "Lestrem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43448,
+        "name": "Leval",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43454,
+        "name": "Lewarde",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43460,
+        "name": "Lezennes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43463,
+        "name": "Liancourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43464,
+        "name": "Libercourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43466,
+        "name": "Licques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43468,
+        "name": "Liesse-Notre-Dame",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43469,
+        "name": "Lieu-Saint-Amand",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43525,
+        "name": "Liévin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43478,
+        "name": "Ligny-en-Cambrésis",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43485,
+        "name": "Lille",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43487,
+        "name": "Lillers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43503,
+        "name": "Linselles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43532,
+        "name": "Locon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43545,
+        "name": "Loison-sous-Lens",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43549,
+        "name": "Lomme",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43550,
+        "name": "Lompret",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43560,
+        "name": "Longfossé",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43567,
+        "name": "Longpré-les-Corps-Saints",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43568,
+        "name": "Longueau",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43569,
+        "name": "Longueil-Annel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43570,
+        "name": "Longueil-Sainte-Marie",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43571,
+        "name": "Longuenesse",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43578,
+        "name": "Looberghe",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43579,
+        "name": "Loon-Plage",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43580,
+        "name": "Loos",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43581,
+        "name": "Loos-en-Gohelle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43585,
+        "name": "Lorgies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43590,
+        "name": "Lormaison",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43607,
+        "name": "Lourches",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43619,
+        "name": "Louvroil",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43626,
+        "name": "Lozinghem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43647,
+        "name": "Lumbres",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43679,
+        "name": "Lys-lez-Lannoy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43732,
+        "name": "Maignelay-Montigny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43738,
+        "name": "Maing",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43742,
+        "name": "Maisnil-lès-Ruitz",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43769,
+        "name": "Mametz",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43800,
+        "name": "Marchiennes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43809,
+        "name": "Marck",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43811,
+        "name": "Marcoing",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43812,
+        "name": "Marconne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43813,
+        "name": "Marconnelle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43816,
+        "name": "Marcq-en-Barœul",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43824,
+        "name": "Maretz",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43831,
+        "name": "Mareuil-sur-Ourcq",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43835,
+        "name": "Margny-lès-Compiègne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43848,
+        "name": "Marle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43851,
+        "name": "Marles-les-Mines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43853,
+        "name": "Marly",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43927,
+        "name": "Marœuil",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43865,
+        "name": "Maroilles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43870,
+        "name": "Marpent",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43872,
+        "name": "Marquette-en-Ostrevant",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43873,
+        "name": "Marquette-lez-Lille",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43874,
+        "name": "Marquillies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43875,
+        "name": "Marquion",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43876,
+        "name": "Marquise",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43929,
+        "name": "Masnières",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43930,
+        "name": "Masny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43945,
+        "name": "Maubeuge",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 43975,
+        "name": "Mazingarbe",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44455,
+        "name": "Méaulte",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44471,
+        "name": "Méricourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44474,
+        "name": "Mérignies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44017,
+        "name": "Merlimont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44018,
+        "name": "Mers-les-Bains",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44476,
+        "name": "Méru",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44023,
+        "name": "Merville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44484,
+        "name": "Méteren",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44048,
+        "name": "Meurchin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44077,
+        "name": "Milly-sur-Thérain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44110,
+        "name": "Mogneville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44117,
+        "name": "Moislains",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44129,
+        "name": "Monchecourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44130,
+        "name": "Monchy-Saint-Éloi",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44148,
+        "name": "Mons-en-Barœul",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44149,
+        "name": "Mons-en-Pévèle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44154,
+        "name": "Mont-Bernanchon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44158,
+        "name": "Mont-Saint-Éloi",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44182,
+        "name": "Montataire",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44209,
+        "name": "Montcornet",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44214,
+        "name": "Montdidier",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44225,
+        "name": "Montescourt-Lizerolles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44258,
+        "name": "Montigny-en-Gohelle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44259,
+        "name": "Montigny-en-Ostrevent",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44278,
+        "name": "Montmacq",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44308,
+        "name": "Montreuil",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44310,
+        "name": "Montreuil-aux-Lions",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44343,
+        "name": "Morbecque",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44350,
+        "name": "Moreuil",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44353,
+        "name": "Morienval",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44369,
+        "name": "Mortagne-du-Nord",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44384,
+        "name": "Mouchin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44414,
+        "name": "Mouvaux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44416,
+        "name": "Mouy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44509,
+        "name": "Nanteuil-le-Haudouin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44513,
+        "name": "Naours",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44532,
+        "name": "Nesle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44533,
+        "name": "Nesles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44534,
+        "name": "Nesles-la-Montagne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44537,
+        "name": "Neuf-Berquin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44541,
+        "name": "Neufchâtel-Hardelot",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44548,
+        "name": "Neuilly-en-Thelle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44547,
+        "name": "Neuilly-Saint-Front",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44551,
+        "name": "Neuilly-sous-Clermont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44567,
+        "name": "Neuville-en-Ferrain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44563,
+        "name": "Neuville-Saint-Rémy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44564,
+        "name": "Neuville-Saint-Vaast",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44570,
+        "name": "Neuville-sur-Escaut",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44594,
+        "name": "Nieppe",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44607,
+        "name": "Noailles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44701,
+        "name": "Nœux-les-Mines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44614,
+        "name": "Nogent-l’Artaud",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44616,
+        "name": "Nogent-sur-Oise",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44619,
+        "name": "Nogentel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44634,
+        "name": "Nomain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44640,
+        "name": "Nord",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44643,
+        "name": "Norrent-Fontes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44646,
+        "name": "Nortkerque",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44660,
+        "name": "Nouvion",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44675,
+        "name": "Noyelles-Godault",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44676,
+        "name": "Noyelles-lès-Vermelles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44677,
+        "name": "Noyelles-sous-Lens",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44680,
+        "name": "Noyon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44722,
+        "name": "Ognes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44724,
+        "name": "Oignies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44726,
+        "name": "Oisemont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44730,
+        "name": "Oisy-le-Verger",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44740,
+        "name": "Omissy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44744,
+        "name": "Onnaing",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44745,
+        "name": "Ons-en-Bray",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44759,
+        "name": "Orchies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44769,
+        "name": "Origny-en-Thiérache",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44768,
+        "name": "Origny-Sainte-Benoite",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44782,
+        "name": "Orry-la-Ville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44794,
+        "name": "Ostricourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44813,
+        "name": "Outreau",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44818,
+        "name": "Oye-Plage",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44862,
+        "name": "Pas-de-Calais",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44864,
+        "name": "Pasly",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44880,
+        "name": "Pecquencourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44891,
+        "name": "Pendé",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45350,
+        "name": "Pérenchies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44897,
+        "name": "Pernes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45363,
+        "name": "Péronne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45365,
+        "name": "Péroy-les-Gombries",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44919,
+        "name": "Petite-Forêt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44942,
+        "name": "Phalempin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44947,
+        "name": "Picquigny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44956,
+        "name": "Pierrefonds",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44972,
+        "name": "Pinon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 44988,
+        "name": "Plailly",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45139,
+        "name": "Poix-de-Picardie",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45140,
+        "name": "Poix-du-Nord",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45160,
+        "name": "Ponchon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45196,
+        "name": "Pont-à-Marcq",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45198,
+        "name": "Pont-à-Vendin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45180,
+        "name": "Pont-de-Metz",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45168,
+        "name": "Pont-Remy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45174,
+        "name": "Pont-Sainte-Maxence",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45192,
+        "name": "Pont-sur-Sambre",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45216,
+        "name": "Pontpoint",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45258,
+        "name": "Poulainville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45307,
+        "name": "Précy-sur-Oise",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45310,
+        "name": "Prémesques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45312,
+        "name": "Préseau",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45295,
+        "name": "Prouvy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45296,
+        "name": "Proville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45297,
+        "name": "Provin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45371,
+        "name": "Quaëdypre",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45370,
+        "name": "Quarouble",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45374,
+        "name": "Quend",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45377,
+        "name": "Quesnoy-sur-Deûle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45383,
+        "name": "Quevauvillers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45404,
+        "name": "Quiévrechain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45405,
+        "name": "Quiévy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45682,
+        "name": "Râches",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45413,
+        "name": "Racquinghem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45414,
+        "name": "Radinghem-en-Weppes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45418,
+        "name": "Raillencourt-Sainte-Olle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45419,
+        "name": "Raimbeaucourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45420,
+        "name": "Raismes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45426,
+        "name": "Ranchicourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45428,
+        "name": "Rang-du-Fliers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45430,
+        "name": "Rantigny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45434,
+        "name": "Ravenel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45441,
+        "name": "Recquignies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45455,
+        "name": "Remy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45459,
+        "name": "Renescure",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45464,
+        "name": "Ressons-sur-Matz",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45471,
+        "name": "Rety",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45479,
+        "name": "Rexpoëde",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45491,
+        "name": "Ribemont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45494,
+        "name": "Richebourg",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45495,
+        "name": "Richebourg-l'Avoué",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45501,
+        "name": "Rieulay",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45505,
+        "name": "Rieux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45508,
+        "name": "Rieux-en-Cambrésis",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45515,
+        "name": "Rinxent",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45528,
+        "name": "Rivery",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45531,
+        "name": "Rivière",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45536,
+        "name": "Robecq",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45697,
+        "name": "Rœulx",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45698,
+        "name": "Rœux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45564,
+        "name": "Roisel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45585,
+        "name": "Ronchin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45586,
+        "name": "Roncq",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45587,
+        "name": "Roost-Warendin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45595,
+        "name": "Roquetoire",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45604,
+        "name": "Rosières-en-Santerre",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45612,
+        "name": "Rosult",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45616,
+        "name": "Roubaix",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45635,
+        "name": "Rousies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45642,
+        "name": "Rouvroy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45648,
+        "name": "Roye",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45654,
+        "name": "Rozoy-sur-Serre",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45659,
+        "name": "Rue",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45668,
+        "name": "Ruitz",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45670,
+        "name": "Rumegies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45673,
+        "name": "Rumilly-en-Cambrésis",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45674,
+        "name": "Ruminghem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45709,
+        "name": "Sacy-le-Grand",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45717,
+        "name": "Sailly-Flibeaucourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45718,
+        "name": "Sailly-Labourse",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45719,
+        "name": "Sailly-lez-Lannoy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45720,
+        "name": "Sailly-sur-la-Lys",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45722,
+        "name": "Sainghin-en-Mélantois",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45723,
+        "name": "Sainghin-en-Weppes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45724,
+        "name": "Sains-du-Nord",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45725,
+        "name": "Sains-en-Amiénois",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45726,
+        "name": "Sains-en-Gohelle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45744,
+        "name": "Saint-Amand-les-Eaux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45766,
+        "name": "Saint-André-lez-Lille",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45779,
+        "name": "Saint-Aubert",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45787,
+        "name": "Saint-Aubin-en-Bray",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45878,
+        "name": "Saint-Crépin-Ibouvillers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45922,
+        "name": "Saint-Erme-Outre-et-Ramecourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46642,
+        "name": "Saint-Étienne-au-Mont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 45939,
+        "name": "Saint-Folquin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46023,
+        "name": "Saint-Germer-de-Fly",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46039,
+        "name": "Saint-Gobain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46066,
+        "name": "Saint-Hilaire-lez-Cambrai",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46079,
+        "name": "Saint-Jans-Cappel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46130,
+        "name": "Saint-Josse",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46161,
+        "name": "Saint-Just-en-Chaussée",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46173,
+        "name": "Saint-Laurent-Blangy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46216,
+        "name": "Saint-Léger-lès-Domart",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46221,
+        "name": "Saint-Léonard",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46267,
+        "name": "Saint-Martin-au-Laërt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46261,
+        "name": "Saint-Martin-Boulogne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46264,
+        "name": "Saint-Martin-Longueau",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46324,
+        "name": "Saint-Maximin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46334,
+        "name": "Saint-Michel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46362,
+        "name": "Saint-Nicolas",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46373,
+        "name": "Saint-Omer",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46374,
+        "name": "Saint-Omer-en-Chaussée",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46378,
+        "name": "Saint-Ouen",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46401,
+        "name": "Saint-Paul",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46456,
+        "name": "Saint-Pol-sur-Mer",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46457,
+        "name": "Saint-Pol-sur-Ternoise",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46476,
+        "name": "Saint-Python",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46485,
+        "name": "Saint-Quentin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46497,
+        "name": "Saint-Riquier",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46525,
+        "name": "Saint-Saulve",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46528,
+        "name": "Saint-Sauveur",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46557,
+        "name": "Saint-Souplet",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46559,
+        "name": "Saint-Sulpice",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46572,
+        "name": "Saint-Sylvestre-Cappel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46597,
+        "name": "Saint-Valery-sur-Somme",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46604,
+        "name": "Saint-Venant",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46667,
+        "name": "Sainte-Catherine",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46691,
+        "name": "Sainte-Geneviève",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46708,
+        "name": "Sainte-Marie-Kerque",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46747,
+        "name": "Saleux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46758,
+        "name": "Sallaumines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46765,
+        "name": "Salomé",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46767,
+        "name": "Salouël",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46777,
+        "name": "Saméon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46772,
+        "name": "Samer",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46787,
+        "name": "Sangatte",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46799,
+        "name": "Santes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46819,
+        "name": "Sars-Poteries",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46847,
+        "name": "Saultain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46851,
+        "name": "Saulzoir",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46888,
+        "name": "Savy-Berlette",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46909,
+        "name": "Seboncourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46910,
+        "name": "Sebourg",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46911,
+        "name": "Seclin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46935,
+        "name": "Selvigny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46940,
+        "name": "Senlis",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46952,
+        "name": "Sequedin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47143,
+        "name": "Sérifontaine",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46962,
+        "name": "Serques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 46998,
+        "name": "Silly-le-Long",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47003,
+        "name": "Sin-le-Noble",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47004,
+        "name": "Sinceny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47008,
+        "name": "Sissonne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47015,
+        "name": "Socx",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47018,
+        "name": "Soissons",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47024,
+        "name": "Solesmes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47033,
+        "name": "Solre-le-Château",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47034,
+        "name": "Somain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47035,
+        "name": "Somme",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47038,
+        "name": "Songeons",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47058,
+        "name": "Souchez",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47094,
+        "name": "Spycker",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47099,
+        "name": "Steenbecque",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47100,
+        "name": "Steene",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47101,
+        "name": "Steenvoorde",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47102,
+        "name": "Steenwerck",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47167,
+        "name": "Talmas",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47184,
+        "name": "Tatinghem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47197,
+        "name": "Templemars",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47198,
+        "name": "Templeuve-en-Pévèle",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47207,
+        "name": "Tergnier",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47417,
+        "name": "Téteghem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47267,
+        "name": "Thélus",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47271,
+        "name": "Thérouanne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47226,
+        "name": "Thiant",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47230,
+        "name": "Thiers-sur-Thève",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47239,
+        "name": "Thiverny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47256,
+        "name": "Thourotte",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47260,
+        "name": "Thumeries",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47261,
+        "name": "Thun-Saint-Amand",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47286,
+        "name": "Tillé",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47284,
+        "name": "Tilloy-lès-Mofflaines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47287,
+        "name": "Tilques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47308,
+        "name": "Toufflers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47320,
+        "name": "Tourcoing",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47325,
+        "name": "Tournehem-sur-la-Hem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47345,
+        "name": "Tracy-le-Mont",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47399,
+        "name": "Trélon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47365,
+        "name": "Tressin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47368,
+        "name": "Tricot",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47369,
+        "name": "Trie-Château",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47376,
+        "name": "Trith-Saint-Léger",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47379,
+        "name": "Troissereux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47381,
+        "name": "Trosly-Breuil",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47425,
+        "name": "Ully-Saint-Georges",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47444,
+        "name": "Uxem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47456,
+        "name": "Vailly-sur-Aisne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47474,
+        "name": "Valenciennes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47540,
+        "name": "Vaulx-Vraucourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47542,
+        "name": "Vaumoise",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47569,
+        "name": "Vendegies-sur-Écaillon",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47573,
+        "name": "Vendeville",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47574,
+        "name": "Vendin-le-Vieil",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47575,
+        "name": "Vendin-lès-Béthune",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47582,
+        "name": "Venette",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47584,
+        "name": "Venizel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47589,
+        "name": "Ver-sur-Launette",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47591,
+        "name": "Verberie",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47602,
+        "name": "Verlinghem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47603,
+        "name": "Vermand",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47604,
+        "name": "Vermelles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47612,
+        "name": "Verneuil-en-Halatte",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47628,
+        "name": "Verquin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47641,
+        "name": "Verton",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47644,
+        "name": "Vervins",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47667,
+        "name": "Vic-sur-Aisne",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47671,
+        "name": "Vicq",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47677,
+        "name": "Vieille-Église",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47686,
+        "name": "Viesly",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47687,
+        "name": "Vieux-Berquin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47690,
+        "name": "Vieux-Condé",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47694,
+        "name": "Vignacourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47766,
+        "name": "Villeneuve-d'Ascq",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47778,
+        "name": "Villeneuve-les-Sablons",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47764,
+        "name": "Villeneuve-Saint-Germain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47795,
+        "name": "Villers-Bocage",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47797,
+        "name": "Villers-Bretonneux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47798,
+        "name": "Villers-Cotterêts",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47803,
+        "name": "Villers-en-Cauchies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47799,
+        "name": "Villers-Outréaux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47800,
+        "name": "Villers-Pol",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47801,
+        "name": "Villers-Saint-Paul",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47807,
+        "name": "Villers-sous-Saint-Leu",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47808,
+        "name": "Villers-sur-Coudun",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47841,
+        "name": "Vimy",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47847,
+        "name": "Vineuil-Saint-Firmin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47852,
+        "name": "Violaines",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47868,
+        "name": "Viry-Noureuil",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47872,
+        "name": "Vitry-en-Artois",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47919,
+        "name": "Vred",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47935,
+        "name": "Wahagnies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47936,
+        "name": "Wailly",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47939,
+        "name": "Walincourt-Selvigny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47940,
+        "name": "Wallers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47942,
+        "name": "Wambrechies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47943,
+        "name": "Wandignies-Hamage",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47946,
+        "name": "Wardrecques",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47947,
+        "name": "Wargnies-le-Grand",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47948,
+        "name": "Warhem",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47949,
+        "name": "Warluis",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47951,
+        "name": "Wasquehal",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47953,
+        "name": "Wassigny",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47955,
+        "name": "Watten",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47956,
+        "name": "Wattignies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47957,
+        "name": "Wattrelos",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47959,
+        "name": "Wavignies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47960,
+        "name": "Wavrechain-sous-Denain",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47961,
+        "name": "Wavrin",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47962,
+        "name": "Waziers",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47964,
+        "name": "Wervicq-Sud",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47970,
+        "name": "Wignehies",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47972,
+        "name": "Willems",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47974,
+        "name": "Wimereux",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47975,
+        "name": "Wimille",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47979,
+        "name": "Wingles",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47980,
+        "name": "Winnezeele",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47983,
+        "name": "Wissant",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47990,
+        "name": "Wizernes",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47992,
+        "name": "Woincourt",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 47996,
+        "name": "Wormhout",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48025,
+        "name": "Zegerscappel",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48029,
+        "name": "Zutkerque",
+        "country": "FRA",
+        "state": "HDF"
+    },
+    {
+        "id": 48030,
+        "name": "Zuydcoote",
+        "country": "FRA",
+        "state": "HDF"
+    }
+]

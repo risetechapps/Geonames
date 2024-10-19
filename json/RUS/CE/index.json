@@ -1,0 +1,512 @@
+[
+    {
+        "id": 97499,
+        "name": "Achkhoy-Martan",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97500,
+        "name": "Achkhoy-Martanovskiy Rayon",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97593,
+        "name": "Alkhan-Kala",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97594,
+        "name": "Alkhan-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97595,
+        "name": "Alkhazurovo",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97597,
+        "name": "Alleroy",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97601,
+        "name": "Alpatovo",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97662,
+        "name": "Argun",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97705,
+        "name": "Assinovskaya",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97725,
+        "name": "Avtury",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97749,
+        "name": "Bachi-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97787,
+        "name": "Bamut",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97847,
+        "name": "Belgatoy",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 97886,
+        "name": "Benoy-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98045,
+        "name": "Borzoy",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98130,
+        "name": "Chechen-Aul",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98196,
+        "name": "Chiri-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98333,
+        "name": "Duba-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98365,
+        "name": "Dyshne-Vedeno",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98373,
+        "name": "Dzhalka",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98388,
+        "name": "Elin-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98397,
+        "name": "Engel’-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98473,
+        "name": "Gekhi",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98484,
+        "name": "Germenchuk",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98485,
+        "name": "Gerzel’-Aul",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98516,
+        "name": "Goragorskiy",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98573,
+        "name": "Goyty",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98582,
+        "name": "Grebenskaya",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98593,
+        "name": "Groznenskiy Rayon",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98594,
+        "name": "Groznyy",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98606,
+        "name": "Gudermes",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98607,
+        "name": "Gudermesskiy Rayon",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98644,
+        "name": "Ilaskhan-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98702,
+        "name": "Ishcherskaya",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98707,
+        "name": "Ishkhoy-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98724,
+        "name": "Itum-Kali",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98725,
+        "name": "Itum-Kalinskiy Rayon",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98794,
+        "name": "Kalinovskaya",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98876,
+        "name": "Kargalinskaya",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98911,
+        "name": "Katyr-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98956,
+        "name": "Khambi-Irze",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 98960,
+        "name": "Khankala",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 99429,
+        "name": "Kulary",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 99456,
+        "name": "Kurchaloy",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 99537,
+        "name": "Lakha Nëvre",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 99541,
+        "name": "Lakkha Nëvre",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 99804,
+        "name": "Martan-Chu",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 99829,
+        "name": "Mayrtup",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 99871,
+        "name": "Mesker-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 100041,
+        "name": "Nadterechnyy Rayon",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 100067,
+        "name": "Naurskaya",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 100068,
+        "name": "Naurskiy Rayon",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 100189,
+        "name": "Nogamerzin-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 100356,
+        "name": "Novyye Atagi",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 100365,
+        "name": "Nozhay-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 100366,
+        "name": "Nozhay-Yurtovskiy Rayon",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 100516,
+        "name": "Oyskhara",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 100615,
+        "name": "Pervomayskaya",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 100654,
+        "name": "Petropavlovskaya",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 100820,
+        "name": "Prigorodnoye",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101000,
+        "name": "Roshni-Chu",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101087,
+        "name": "Samashki",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101186,
+        "name": "Sernovodsk",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101196,
+        "name": "Serzhen’-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101227,
+        "name": "Shaami-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101244,
+        "name": "Shalazhi",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101245,
+        "name": "Shali",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101246,
+        "name": "Shalinskiy Rayon",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101269,
+        "name": "Shatoy",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101365,
+        "name": "Shëlkovskaya",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101292,
+        "name": "Shelkovskiy Rayon",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101566,
+        "name": "Staraya Sunzha",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101610,
+        "name": "Staryye Atagi",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101880,
+        "name": "Tolstoy-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101943,
+        "name": "Tsentoroy",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 101953,
+        "name": "Tsotsin-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 102087,
+        "name": "Urus-Martan",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 102088,
+        "name": "Urus-Martanovskiy Rayon",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 102182,
+        "name": "Valerik",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 102208,
+        "name": "Vedeno",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 102209,
+        "name": "Vedenskiy Rayon",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 102474,
+        "name": "Yalkhoy-Mokhk",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 102634,
+        "name": "Zakan-Yurt",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 102642,
+        "name": "Zandak",
+        "country": "RUS",
+        "state": "CE"
+    },
+    {
+        "id": 102761,
+        "name": "Znamenskoye",
+        "country": "RUS",
+        "state": "CE"
+    }
+]

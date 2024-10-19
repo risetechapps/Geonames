@@ -1,0 +1,932 @@
+[
+    {
+        "id": 8217,
+        "name": "Banovići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8218,
+        "name": "Barice",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8219,
+        "name": "Bihać",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8220,
+        "name": "Bijela",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8222,
+        "name": "Bila",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8224,
+        "name": "Blagaj",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8226,
+        "name": "Bosanska Krupa",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8227,
+        "name": "Bosanski Petrovac",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8228,
+        "name": "Bosansko Grahovo",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8229,
+        "name": "Breza",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8234,
+        "name": "Bugojno",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8235,
+        "name": "Busovača",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8236,
+        "name": "Bužim",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8431,
+        "name": "Čapljina",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8237,
+        "name": "Cazin",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8433,
+        "name": "Čelić",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8238,
+        "name": "Cim",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8435,
+        "name": "Čitluk",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8429,
+        "name": "Ćoralići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8239,
+        "name": "Crnići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8241,
+        "name": "Divičani",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8243,
+        "name": "Dobrinje",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8245,
+        "name": "Domaljevac",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8246,
+        "name": "Donja Dubica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8247,
+        "name": "Donja Mahala",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8248,
+        "name": "Donja Međiđa",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8249,
+        "name": "Donji Vakuf",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8250,
+        "name": "Drežnica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8251,
+        "name": "Drinovci",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8252,
+        "name": "Drvar",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8253,
+        "name": "Dubrave Donje",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8254,
+        "name": "Dubrave Gornje",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8255,
+        "name": "Dubravica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8257,
+        "name": "Fojnica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8260,
+        "name": "Glamoč",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8261,
+        "name": "Gnojnica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8262,
+        "name": "Goražde",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8263,
+        "name": "Gorica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8264,
+        "name": "Gornja Breza",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8265,
+        "name": "Gornja Koprivna",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8266,
+        "name": "Gornja Tuzla",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8267,
+        "name": "Gornje Moštre",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8268,
+        "name": "Gornje Živinice",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8269,
+        "name": "Gornji Vakuf",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8270,
+        "name": "Gostovići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8273,
+        "name": "Gračanica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8271,
+        "name": "Gradačac",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8274,
+        "name": "Gromiljak",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8275,
+        "name": "Grude",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8276,
+        "name": "Hadžići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8277,
+        "name": "Hercegovačko-Neretvanski Kanton",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8279,
+        "name": "Hotonj",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8281,
+        "name": "Ilići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8280,
+        "name": "Ilijaš",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8283,
+        "name": "Izačić",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8284,
+        "name": "Jablanica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8285,
+        "name": "Jajce",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8287,
+        "name": "Jelah",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8288,
+        "name": "Jezerski",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8293,
+        "name": "Kačuni",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8289,
+        "name": "Kakanj",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8291,
+        "name": "Kanton Sarajevo",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8292,
+        "name": "Karadaglije",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8294,
+        "name": "Kiseljak",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8295,
+        "name": "Kladanj",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8296,
+        "name": "Ključ",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8299,
+        "name": "Kobilja Glava",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8306,
+        "name": "Kočerin",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8300,
+        "name": "Konjic",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8304,
+        "name": "Kovači",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8310,
+        "name": "Liješnica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8311,
+        "name": "Livno",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8313,
+        "name": "Ljubuški",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8314,
+        "name": "Lokvine",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8316,
+        "name": "Lukavac",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8317,
+        "name": "Lukavica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8318,
+        "name": "Maglaj",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8320,
+        "name": "Mahala",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8321,
+        "name": "Mala Kladuša",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8322,
+        "name": "Malešići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8327,
+        "name": "Mionica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8329,
+        "name": "Mostar",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8330,
+        "name": "Mramor",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8332,
+        "name": "Neum",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8336,
+        "name": "Novi Šeher",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8335,
+        "name": "Novi Travnik",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8338,
+        "name": "Odžak",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8339,
+        "name": "Olovo",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8340,
+        "name": "Omanjska",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8344,
+        "name": "Orahovica Donja",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8345,
+        "name": "Orašac",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8346,
+        "name": "Orašje",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8347,
+        "name": "Orguz",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8348,
+        "name": "Ostrožac",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8349,
+        "name": "Otoka",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8351,
+        "name": "Pajić Polje",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8353,
+        "name": "Pazarić",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8356,
+        "name": "Peći",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8357,
+        "name": "Pećigrad",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8359,
+        "name": "Pjanići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8361,
+        "name": "Podhum",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8362,
+        "name": "Podzvizd",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8363,
+        "name": "Polje",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8364,
+        "name": "Polje-Bijela",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8366,
+        "name": "Potoci",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8370,
+        "name": "Prozor",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8371,
+        "name": "Puračić",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8372,
+        "name": "Radišići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8373,
+        "name": "Rodoč",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8376,
+        "name": "Rumboci",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8377,
+        "name": "Sanica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8378,
+        "name": "Sanski Most",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8379,
+        "name": "Sapna",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8380,
+        "name": "Sarajevo",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8438,
+        "name": "Šerići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8440,
+        "name": "Široki Brijeg",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8381,
+        "name": "Skokovi",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8382,
+        "name": "Sladna",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8384,
+        "name": "Solina",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8387,
+        "name": "Srebrenik",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8390,
+        "name": "Stijena",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8391,
+        "name": "Stjepan-Polje",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8392,
+        "name": "Stolac",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8441,
+        "name": "Šturlić",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8442,
+        "name": "Šumatac",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8394,
+        "name": "Tasovčići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8396,
+        "name": "Tešanj",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8397,
+        "name": "Tešanjka",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8398,
+        "name": "Todorovo",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8399,
+        "name": "Tojšići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8400,
+        "name": "Tomislavgrad",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8401,
+        "name": "Travnik",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8404,
+        "name": "Tržačka Raštela",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8405,
+        "name": "Turbe",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8406,
+        "name": "Tuzla",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8408,
+        "name": "Ustikolina",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8409,
+        "name": "Vareš",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8410,
+        "name": "Varoška Rijeka",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8411,
+        "name": "Velagići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8412,
+        "name": "Velika Kladuša",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8414,
+        "name": "Vidoši",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8415,
+        "name": "Visoko",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8416,
+        "name": "Vitez",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8417,
+        "name": "Vitina",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8420,
+        "name": "Vogošća",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8421,
+        "name": "Voljevac",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8422,
+        "name": "Vrnograč",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8423,
+        "name": "Vukovije Donje",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8424,
+        "name": "Zabrišće",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8425,
+        "name": "Zavidovići",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8426,
+        "name": "Zborište",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8443,
+        "name": "Željezno Polje",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8427,
+        "name": "Zenica",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8444,
+        "name": "Žepče",
+        "country": "BIH",
+        "state": "BIH"
+    },
+    {
+        "id": 8445,
+        "name": "Živinice",
+        "country": "BIH",
+        "state": "BIH"
+    }
+]

@@ -1,0 +1,824 @@
+[
+    {
+        "id": 89893,
+        "name": "Aghireș",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 89900,
+        "name": "Agrij",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 89936,
+        "name": "Almaşu",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90468,
+        "name": "Băbeni",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90502,
+        "name": "Bălan",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90536,
+        "name": "Bănişor",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90093,
+        "name": "Benesat",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90172,
+        "name": "Bobota",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90177,
+        "name": "Bocşa",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90199,
+        "name": "Boghiș",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90356,
+        "name": "Buciumi",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90567,
+        "name": "Camăr",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90576,
+        "name": "Carastelec",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90609,
+        "name": "Cehei",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90610,
+        "name": "Cehu Silvaniei",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90655,
+        "name": "Chendrea",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90665,
+        "name": "Chieşd",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90762,
+        "name": "Cizer",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90832,
+        "name": "Comuna Agrij",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90856,
+        "name": "Comuna Almaşu",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91200,
+        "name": "Comuna Băbeni",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91211,
+        "name": "Comuna Bălan",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91234,
+        "name": "Comuna Bănişor",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 90957,
+        "name": "Comuna Benesat",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91012,
+        "name": "Comuna Bobota",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91016,
+        "name": "Comuna Bocşa",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91032,
+        "name": "Comuna Boghiş",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91133,
+        "name": "Comuna Buciumi",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91256,
+        "name": "Comuna Camăr",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91258,
+        "name": "Comuna Carastelec",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91277,
+        "name": "Comuna Cehu Silvaniei",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91313,
+        "name": "Comuna Chieşd",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91378,
+        "name": "Comuna Cizer",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91473,
+        "name": "Comuna Coşeiu",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91487,
+        "name": "Comuna Crasna",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91488,
+        "name": "Comuna Creaca",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91506,
+        "name": "Comuna Crişeni",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91501,
+        "name": "Comuna Cristolţ",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91538,
+        "name": "Comuna Cuzăplac",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91639,
+        "name": "Comuna Dobrin",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91678,
+        "name": "Comuna Dragu",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91761,
+        "name": "Comuna Fildu De Jos",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91962,
+        "name": "Comuna Gâlgău",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91964,
+        "name": "Comuna Gârbou",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91990,
+        "name": "Comuna Halmăşd",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91997,
+        "name": "Comuna Hereclean",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 91999,
+        "name": "Comuna Hida",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92021,
+        "name": "Comuna Horoatu Crasnei",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92069,
+        "name": "Comuna Ileanda",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92088,
+        "name": "Comuna Ip",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92156,
+        "name": "Comuna Letca",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92186,
+        "name": "Comuna Lozna",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92385,
+        "name": "Comuna Măerişte",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92240,
+        "name": "Comuna Marca",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93586,
+        "name": "Comună Meseşenii de Jos",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92304,
+        "name": "Comuna Mirşid",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92464,
+        "name": "Comuna Năpradea",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92459,
+        "name": "Comuna Nuşfalău",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92549,
+        "name": "Comuna Pericei",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92598,
+        "name": "Comuna Plopiş",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92625,
+        "name": "Comuna Poiana Blenchii",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92785,
+        "name": "Comuna Românaşi",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92814,
+        "name": "Comuna Rus",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93044,
+        "name": "Comuna Sâg",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93101,
+        "name": "Comuna Sălăţig",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93497,
+        "name": "Comuna Şamşud",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93057,
+        "name": "Comuna Sânmihaiu Almaşului",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93566,
+        "name": "Comuna Şărmăşag",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93522,
+        "name": "Comuna Şimişna",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 92975,
+        "name": "Comuna Someş-Odorhei",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93039,
+        "name": "Comuna Surduc",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93191,
+        "name": "Comuna Treznea",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93297,
+        "name": "Comuna Valcãu De Jos",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93448,
+        "name": "Comuna Vârşolţ",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93470,
+        "name": "Comuna Zalha",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93478,
+        "name": "Comuna Zimbor",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93689,
+        "name": "Coşeiu",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93707,
+        "name": "Crasna",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93709,
+        "name": "Creaca",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93735,
+        "name": "Crişeni",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93725,
+        "name": "Cristolţ",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93789,
+        "name": "Cuzăplac",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93911,
+        "name": "Deja",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93924,
+        "name": "Derșida",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93940,
+        "name": "Dioșod",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 93959,
+        "name": "Dobrin",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94024,
+        "name": "Dragu",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94169,
+        "name": "Fildu de Jos",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94478,
+        "name": "Gâlgău",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94479,
+        "name": "Gâlgău Almaşului",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94482,
+        "name": "Gârbou",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94355,
+        "name": "Giurtelecu Șimleului",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94519,
+        "name": "Halmăşd",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94531,
+        "name": "Hereclean",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94534,
+        "name": "Hida",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94565,
+        "name": "Horoatu Crasnei",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94655,
+        "name": "Ileanda",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94682,
+        "name": "Ip",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94730,
+        "name": "Jibou",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94785,
+        "name": "Letca",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94835,
+        "name": "Lozna",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 95236,
+        "name": "Măerişte",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94909,
+        "name": "Mal",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94925,
+        "name": "Marca",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94931,
+        "name": "Marin",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 94961,
+        "name": "Meseşenii de Jos",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 95026,
+        "name": "Mirşid",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 95197,
+        "name": "Municipiul Zalãu",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 95373,
+        "name": "Năpradea",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 95366,
+        "name": "Nuşfalău",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 95640,
+        "name": "Oraș Jibou",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 95629,
+        "name": "Oraş Şimleu Silvaniei",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 95719,
+        "name": "Peceiu",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 95729,
+        "name": "Pericei",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 95821,
+        "name": "Plopiş",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 95868,
+        "name": "Poiana Blenchii",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 95986,
+        "name": "Pusta",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 96109,
+        "name": "Românaşi",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 96157,
+        "name": "Rus",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 96516,
+        "name": "Sâg",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 106024,
+        "name": "Sălăţig",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 97029,
+        "name": "Şamşud",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 96534,
+        "name": "Sânmihaiu Almaşului",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 97098,
+        "name": "Şărmăşag",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 97124,
+        "name": "Șimișna",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 97052,
+        "name": "Şimleu Silvaniei",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 96408,
+        "name": "Someş-Odorhei",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 96474,
+        "name": "Stârciu",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 96508,
+        "name": "Surduc",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 106098,
+        "name": "Tihău",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 106154,
+        "name": "Treznea",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 96706,
+        "name": "Valcău de Jos",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 96949,
+        "name": "Vârşolţ",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 96982,
+        "name": "Zalău",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 96981,
+        "name": "Zalha",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 97019,
+        "name": "Zăuan",
+        "country": "ROU",
+        "state": "SJ"
+    },
+    {
+        "id": 96994,
+        "name": "Zimbor",
+        "country": "ROU",
+        "state": "SJ"
+    }
+]

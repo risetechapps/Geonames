@@ -1,0 +1,710 @@
+[
+    {
+        "id": 17357,
+        "name": "Aarau",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17359,
+        "name": "Aarburg",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17407,
+        "name": "Aristau",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17424,
+        "name": "Auw",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17431,
+        "name": "Bad Zurzach",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17432,
+        "name": "Baden",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17460,
+        "name": "Berikon",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17467,
+        "name": "Besenbüren",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17471,
+        "name": "Bezirk Aarau",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17475,
+        "name": "Bezirk Baden",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17476,
+        "name": "Bezirk Bremgarten",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17477,
+        "name": "Bezirk Brugg",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17491,
+        "name": "Bezirk Kulm",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17494,
+        "name": "Bezirk Laufenburg",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17496,
+        "name": "Bezirk Lenzburg",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17501,
+        "name": "Bezirk Muri",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17506,
+        "name": "Bezirk Rheinfelden",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17521,
+        "name": "Bezirk Zofingen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17522,
+        "name": "Bezirk Zurzach",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17536,
+        "name": "Birmenstorf",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17537,
+        "name": "Birr",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17549,
+        "name": "Boniswil",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17558,
+        "name": "Bremgarten",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17565,
+        "name": "Brittnau",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17570,
+        "name": "Brugg",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17579,
+        "name": "Buchs",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17588,
+        "name": "Buttwil",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17682,
+        "name": "Densbüren",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17705,
+        "name": "Dottikon",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17717,
+        "name": "Dürrenäsch",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17732,
+        "name": "Egliswil",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17734,
+        "name": "Ehrendingen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17737,
+        "name": "Eiken",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17749,
+        "name": "Endingen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17810,
+        "name": "Frick",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17824,
+        "name": "Gebenstorf",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17834,
+        "name": "Gipf-Oberfrick",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17853,
+        "name": "Gontenschwil",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17880,
+        "name": "Gränichen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17939,
+        "name": "Hägglingen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17895,
+        "name": "Hausen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17960,
+        "name": "Jonen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17966,
+        "name": "Kaiseraugst",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17967,
+        "name": "Kaisten",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17978,
+        "name": "Killwangen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17985,
+        "name": "Klingnau",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 17999,
+        "name": "Koblenz",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18010,
+        "name": "Kölliken",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18012,
+        "name": "Künten",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18020,
+        "name": "Küttigen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18043,
+        "name": "Laufenburg",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18044,
+        "name": "Lauffohr (Brugg)",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18062,
+        "name": "Leibstadt",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18066,
+        "name": "Lenzburg",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18115,
+        "name": "Magden",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18144,
+        "name": "Meisterschwanden",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18148,
+        "name": "Mellingen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18151,
+        "name": "Menziken",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18154,
+        "name": "Merenschwand",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18191,
+        "name": "Möhlin",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18176,
+        "name": "Muhen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18177,
+        "name": "Mumpf",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18181,
+        "name": "Murgenthal",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18182,
+        "name": "Muri",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18215,
+        "name": "Neuenhof",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18227,
+        "name": "Niederlenz",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18228,
+        "name": "Niederrohrdorf",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18250,
+        "name": "Oberentfelden",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18257,
+        "name": "Oberlunkhofen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18263,
+        "name": "Oberrohrdorf",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18264,
+        "name": "Oberrüti",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18266,
+        "name": "Obersiggenthal",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18281,
+        "name": "Oftringen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18293,
+        "name": "Othmarsingen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18363,
+        "name": "Reinach",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18366,
+        "name": "Rheinfelden",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18394,
+        "name": "Rothrist",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18397,
+        "name": "Rudolfstetten",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18399,
+        "name": "Rupperswil",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18419,
+        "name": "Safenwil",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18446,
+        "name": "Sarmenstorf",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18456,
+        "name": "Schafisheim",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18462,
+        "name": "Schinznach Bad",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18463,
+        "name": "Schinznach Dorf",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18483,
+        "name": "Schöftland",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18474,
+        "name": "Schwaderloch",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18501,
+        "name": "Seengen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18511,
+        "name": "Seon",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18523,
+        "name": "Sins",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18534,
+        "name": "Spreitenbach",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18544,
+        "name": "Staffelbach",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18548,
+        "name": "Staufen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18551,
+        "name": "Stein",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18559,
+        "name": "Strengelbach",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18562,
+        "name": "Suhr",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18564,
+        "name": "Sulz",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18577,
+        "name": "Tegerfelden",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18580,
+        "name": "Teufenthal",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18614,
+        "name": "Turgi",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18625,
+        "name": "Uerkheim",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18633,
+        "name": "Unterkulm",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18634,
+        "name": "Unterlunkhofen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18636,
+        "name": "Untersiggenthal",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18664,
+        "name": "Veltheim",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18683,
+        "name": "Villigen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18684,
+        "name": "Villmergen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18685,
+        "name": "Villnachern",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18692,
+        "name": "Vordemwald",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18719,
+        "name": "Waltenschwil",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18728,
+        "name": "Wegenstetten",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18736,
+        "name": "Wettingen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18757,
+        "name": "Windisch",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18760,
+        "name": "Wittnau",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18761,
+        "name": "Wohlen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18782,
+        "name": "Wölflinswil",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18788,
+        "name": "Würenlingen",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18789,
+        "name": "Würenlos",
+        "country": "CHE",
+        "state": "AG"
+    },
+    {
+        "id": 18796,
+        "name": "Zofingen",
+        "country": "CHE",
+        "state": "AG"
+    }
+]

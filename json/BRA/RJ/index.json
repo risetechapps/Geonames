@@ -1,0 +1,566 @@
+[
+    {
+        "id": 10257,
+        "name": "Angra dos Reis",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10291,
+        "name": "Aperibé",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10356,
+        "name": "Araruama",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10381,
+        "name": "Areal",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10402,
+        "name": "Armação dos Búzios",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10408,
+        "name": "Arraial do Cabo",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10540,
+        "name": "Barra do Piraí",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10520,
+        "name": "Barra Mansa",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10602,
+        "name": "Belford Roxo",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10694,
+        "name": "Bom Jardim",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10711,
+        "name": "Bom Jesus do Itabapoana",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10853,
+        "name": "Cabo Frio",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10875,
+        "name": "Cachoeiras de Macacu",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 10948,
+        "name": "Cambuci",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 11019,
+        "name": "Campos dos Goytacazes",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 11052,
+        "name": "Cantagalo",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 11108,
+        "name": "Carapebus",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 11123,
+        "name": "Cardoso Moreira",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 11142,
+        "name": "Carmo",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 11180,
+        "name": "Casimiro de Abreu",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 11341,
+        "name": "Comendador Levy Gasparian",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 11352,
+        "name": "Conceição de Macabu",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 11399,
+        "name": "Cordeiro",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 11664,
+        "name": "Duas Barras",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 11669,
+        "name": "Duque de Caxias",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 11702,
+        "name": "Engenheiro Paulo de Frontin",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12028,
+        "name": "Guapimirim",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12195,
+        "name": "Iguaba Grande",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12207,
+        "name": "Ilha Grande",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12336,
+        "name": "Itaboraí",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12357,
+        "name": "Itaguaí",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12374,
+        "name": "Italva",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12397,
+        "name": "Itaocara",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12410,
+        "name": "Itaperuna",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12454,
+        "name": "Itatiaia",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12569,
+        "name": "Japeri",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12774,
+        "name": "Laje do Muriaé",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12892,
+        "name": "Macaé",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12903,
+        "name": "Macuco",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12914,
+        "name": "Magé",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 12947,
+        "name": "Mangaratiba",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13012,
+        "name": "Maricá",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13097,
+        "name": "Mendes",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13104,
+        "name": "Mesquita",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13112,
+        "name": "Miguel Pereira",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13132,
+        "name": "Miracema",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13301,
+        "name": "Natividade",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13325,
+        "name": "Nilópolis",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13331,
+        "name": "Niterói",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13380,
+        "name": "Nova Friburgo",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13389,
+        "name": "Nova Iguaçu",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13623,
+        "name": "Paracambi",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13658,
+        "name": "Paraíba do Sul",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13654,
+        "name": "Paraty",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13713,
+        "name": "Paty do Alferes",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13821,
+        "name": "Petrópolis",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13866,
+        "name": "Pinheiral",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13910,
+        "name": "Piraí",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 13984,
+        "name": "Porciúncula",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14013,
+        "name": "Porto Real",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14131,
+        "name": "Quatis",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14141,
+        "name": "Queimados",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14155,
+        "name": "Quissamã",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14197,
+        "name": "Resende",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14261,
+        "name": "Rio Bonito",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14270,
+        "name": "Rio Claro",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14305,
+        "name": "Rio das Flores",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14306,
+        "name": "Rio das Ostras",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14309,
+        "name": "Rio de Janeiro",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14504,
+        "name": "Santa Maria Madalena",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14620,
+        "name": "Santo Antônio de Pádua",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14878,
+        "name": "São Fidélis",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14886,
+        "name": "São Francisco de Itabapoana",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14916,
+        "name": "São Gonçalo",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15006,
+        "name": "São João da Barra",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15021,
+        "name": "São João de Meriti",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14958,
+        "name": "São José de Ubá",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14989,
+        "name": "São José do Vale do Rio Preto",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15105,
+        "name": "São Pedro",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15108,
+        "name": "São Pedro da Aldeia",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15143,
+        "name": "São Sebastião do Alto",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14662,
+        "name": "Sapucaia",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14666,
+        "name": "Saquarema",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14720,
+        "name": "Seropédica",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14775,
+        "name": "Silva Jardim",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 14824,
+        "name": "Sumidouro",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15218,
+        "name": "Tanguá",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15286,
+        "name": "Teresópolis",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15350,
+        "name": "Trajano de Moraes",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15383,
+        "name": "Três Rios",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15500,
+        "name": "Valença",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15521,
+        "name": "Varre-Sai",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15524,
+        "name": "Vassouras",
+        "country": "BRA",
+        "state": "RJ"
+    },
+    {
+        "id": 15610,
+        "name": "Volta Redonda",
+        "country": "BRA",
+        "state": "RJ"
+    }
+]

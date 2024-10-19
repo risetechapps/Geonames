@@ -1,0 +1,836 @@
+[
+    {
+        "id": 16146,
+        "name": "Abbotsford",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16150,
+        "name": "Agassiz",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16155,
+        "name": "Aldergrove",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16156,
+        "name": "Aldergrove East",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16169,
+        "name": "Anmore",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16172,
+        "name": "Arbutus Ridge",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16173,
+        "name": "Armstrong",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16176,
+        "name": "Ashcroft",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16194,
+        "name": "Barrière",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16235,
+        "name": "Bowen Island",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16253,
+        "name": "Burnaby",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16254,
+        "name": "Burns Lake",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16257,
+        "name": "Cache Creek",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16263,
+        "name": "Campbell River",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16286,
+        "name": "Castlegar",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16288,
+        "name": "Cedar",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16289,
+        "name": "Central Coast Regional District",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16298,
+        "name": "Chase",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16302,
+        "name": "Chemainus",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16306,
+        "name": "Chetwynd",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16308,
+        "name": "Chilliwack",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16326,
+        "name": "Colwood",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16334,
+        "name": "Coombs",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16335,
+        "name": "Coquitlam",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16341,
+        "name": "Courtenay",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16344,
+        "name": "Cowichan Bay",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16346,
+        "name": "Cranbrook",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16347,
+        "name": "Creston",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16350,
+        "name": "Cumberland",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16359,
+        "name": "Dawson Creek",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16366,
+        "name": "Delta",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16367,
+        "name": "Denman Island",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16368,
+        "name": "Denman Island Trust Area",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16386,
+        "name": "Duck Lake",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16387,
+        "name": "Duncan",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16394,
+        "name": "East Wellington",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16400,
+        "name": "Elkford",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16402,
+        "name": "Ellison",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16404,
+        "name": "Enderby",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16414,
+        "name": "Fairwinds",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16421,
+        "name": "Fernie",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16432,
+        "name": "Fort Nelson",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16435,
+        "name": "Fort St. John",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16440,
+        "name": "Fraser Valley Regional District",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16442,
+        "name": "French Creek",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16443,
+        "name": "Fruitvale",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16451,
+        "name": "Gibsons",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16458,
+        "name": "Golden",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16465,
+        "name": "Grand Forks",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16487,
+        "name": "Hanceville",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16507,
+        "name": "Hope",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16508,
+        "name": "Hornby Island",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16510,
+        "name": "Houston",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16523,
+        "name": "Invermere",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16531,
+        "name": "Kamloops",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16536,
+        "name": "Kelowna",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16545,
+        "name": "Kimberley",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16554,
+        "name": "Kitimat",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16586,
+        "name": "Ladner",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16587,
+        "name": "Ladysmith",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16588,
+        "name": "Lake Cowichan",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16595,
+        "name": "Langford",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16597,
+        "name": "Langley",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16616,
+        "name": "Lillooet",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16621,
+        "name": "Lions Bay",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16626,
+        "name": "Logan Lake",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16635,
+        "name": "Lumby",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16641,
+        "name": "Mackenzie",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16656,
+        "name": "Maple Ridge",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16681,
+        "name": "Merritt",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16684,
+        "name": "Metchosin",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16685,
+        "name": "Metro Vancouver Regional District",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16696,
+        "name": "Mission",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16727,
+        "name": "Nakusp",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16728,
+        "name": "Nanaimo",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16735,
+        "name": "Nelson",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16742,
+        "name": "New Westminster",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16757,
+        "name": "North Cowichan",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16758,
+        "name": "North Oyster/Yellow Point",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16760,
+        "name": "North Saanich",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16761,
+        "name": "North Vancouver",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16769,
+        "name": "Oak Bay",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16772,
+        "name": "Okanagan",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16773,
+        "name": "Okanagan Falls",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16776,
+        "name": "Oliver",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16784,
+        "name": "Osoyoos",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16798,
+        "name": "Parksville",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16804,
+        "name": "Peace River Regional District",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16805,
+        "name": "Peachland",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16808,
+        "name": "Pemberton",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16811,
+        "name": "Penticton",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16826,
+        "name": "Pitt Meadows",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16837,
+        "name": "Port Alberni",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16839,
+        "name": "Port Coquitlam",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16842,
+        "name": "Port McNeill",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16843,
+        "name": "Port Moody",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16851,
+        "name": "Powell River",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16856,
+        "name": "Prince George",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16857,
+        "name": "Prince Rupert",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16858,
+        "name": "Princeton",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16863,
+        "name": "Puntledge",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16865,
+        "name": "Quesnel",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16877,
+        "name": "Regional District of Alberni-Clayoquot",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16878,
+        "name": "Regional District of Central Okanagan",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16882,
+        "name": "Revelstoke",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16885,
+        "name": "Richmond",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16904,
+        "name": "Rossland",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 16908,
+        "name": "Royston",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17016,
+        "name": "Salmo",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17017,
+        "name": "Salmon Arm",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17018,
+        "name": "Salt Spring Island",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17019,
+        "name": "Saltair",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17025,
+        "name": "Sechelt",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17043,
+        "name": "Sicamous",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17047,
+        "name": "Six Mile",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17050,
+        "name": "Smithers",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17053,
+        "name": "Sooke",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17058,
+        "name": "South Pender Harbour",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17060,
+        "name": "Sparwood",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17086,
+        "name": "Summerland",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17089,
+        "name": "Surrey",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17102,
+        "name": "Terrace",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17119,
+        "name": "Tofino",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17125,
+        "name": "Trail",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17128,
+        "name": "Tsawwassen",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17129,
+        "name": "Tumbler Ridge",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17133,
+        "name": "Ucluelet",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17145,
+        "name": "Vancouver",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17146,
+        "name": "Vanderhoof",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17155,
+        "name": "Vernon",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17156,
+        "name": "Victoria",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17168,
+        "name": "Walnut Grove",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17183,
+        "name": "Welcome Beach",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17189,
+        "name": "West End",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17190,
+        "name": "West Kelowna",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17193,
+        "name": "West Vancouver",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17200,
+        "name": "Whistler",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17202,
+        "name": "White Rock",
+        "country": "CAN",
+        "state": "BC"
+    },
+    {
+        "id": 17207,
+        "name": "Williams Lake",
+        "country": "CAN",
+        "state": "BC"
+    }
+]

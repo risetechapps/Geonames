@@ -1,0 +1,572 @@
+[
+    {
+        "id": 30993,
+        "name": "Aarhus",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30994,
+        "name": "Aarhus Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30580,
+        "name": "Allingåbro",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30585,
+        "name": "Assentoft",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30587,
+        "name": "Auning",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30588,
+        "name": "Avlum",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30591,
+        "name": "Beder",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30596,
+        "name": "Bjerringbro",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30600,
+        "name": "Bording Kirkeby",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30604,
+        "name": "Brande",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30609,
+        "name": "Brædstrup",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30626,
+        "name": "Ebeltoft",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30639,
+        "name": "Favrskov Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30647,
+        "name": "Framlev",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30663,
+        "name": "Galten",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30669,
+        "name": "Gjellerup",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30675,
+        "name": "Grenaa",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30688,
+        "name": "Hadsten",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30692,
+        "name": "Hammel",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30693,
+        "name": "Hammerum",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30695,
+        "name": "Harboøre",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30698,
+        "name": "Hedensted",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30699,
+        "name": "Hedensted Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30705,
+        "name": "Herning",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30706,
+        "name": "Herning Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30709,
+        "name": "Hinnerup",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30712,
+        "name": "Hjortshøj",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30719,
+        "name": "Holstebro",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30720,
+        "name": "Holstebro Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30723,
+        "name": "Hornslet",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30724,
+        "name": "Hornsyld",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30725,
+        "name": "Horsens",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30726,
+        "name": "Horsens Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30738,
+        "name": "Hørning",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30730,
+        "name": "Hvide Sande",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30743,
+        "name": "Ikast",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30744,
+        "name": "Ikast-Brande Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30749,
+        "name": "Juelsminde",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30755,
+        "name": "Karup",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30758,
+        "name": "Kibæk",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30760,
+        "name": "Kjellerup",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30765,
+        "name": "Kolt",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30775,
+        "name": "Langå",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30778,
+        "name": "Lemvig",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30779,
+        "name": "Lemvig Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30781,
+        "name": "Lind",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30790,
+        "name": "Løgten",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30787,
+        "name": "Lystrup",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30794,
+        "name": "Malling",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30804,
+        "name": "Mårslet",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30813,
+        "name": "Norddjurs Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30827,
+        "name": "Odder",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30828,
+        "name": "Odder Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30838,
+        "name": "Randers",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30839,
+        "name": "Randers Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30843,
+        "name": "Ringkøbing",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30844,
+        "name": "Ringkøbing-Skjern Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30860,
+        "name": "Rønde",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30851,
+        "name": "Ry",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30852,
+        "name": "Ryomgård",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30863,
+        "name": "Sabro",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30865,
+        "name": "Samsø Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30867,
+        "name": "Silkeborg",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30868,
+        "name": "Silkeborg Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30872,
+        "name": "Skanderborg",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30873,
+        "name": "Skanderborg Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30875,
+        "name": "Skive",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30876,
+        "name": "Skive Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30877,
+        "name": "Skjern",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30878,
+        "name": "Skovby",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30886,
+        "name": "Snejbjerg",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30888,
+        "name": "Solbjerg",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30925,
+        "name": "Søften",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30894,
+        "name": "Spentrup",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30897,
+        "name": "Stavtrup",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30903,
+        "name": "Stilling",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30904,
+        "name": "Stoholm",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30909,
+        "name": "Struer",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30910,
+        "name": "Struer Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30915,
+        "name": "Sunds",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30917,
+        "name": "Svejbæk",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30923,
+        "name": "Syddjurs Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30931,
+        "name": "Tarm",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30936,
+        "name": "Thyborøn",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30952,
+        "name": "Tørring",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30942,
+        "name": "Tranbjerg",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30943,
+        "name": "Trige",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30953,
+        "name": "Ulfborg",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30955,
+        "name": "Ulstrup",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30972,
+        "name": "Viborg",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30973,
+        "name": "Viborg Kommune",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30975,
+        "name": "Videbæk",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30976,
+        "name": "Vildbjerg",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30978,
+        "name": "Vinderup",
+        "country": "DNK",
+        "state": "82"
+    },
+    {
+        "id": 30981,
+        "name": "Virklund",
+        "country": "DNK",
+        "state": "82"
+    }
+]

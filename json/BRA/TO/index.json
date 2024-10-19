@@ -1,0 +1,836 @@
+[
+    {
+        "id": 10067,
+        "name": "Abreulândia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10101,
+        "name": "Aguiarnópolis",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10138,
+        "name": "Aliança do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10140,
+        "name": "Almas",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10194,
+        "name": "Alvorada",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10235,
+        "name": "Ananás",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10255,
+        "name": "Angico",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10289,
+        "name": "Aparecida do Rio Negro",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10317,
+        "name": "Aragominas",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10318,
+        "name": "Araguacema",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10326,
+        "name": "Araguaçu",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10327,
+        "name": "Araguaína",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10322,
+        "name": "Araguanã",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10325,
+        "name": "Araguatins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10338,
+        "name": "Arapoema",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10409,
+        "name": "Arraias",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10442,
+        "name": "Augustinópolis",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10453,
+        "name": "Aurora do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10462,
+        "name": "Axixá do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10466,
+        "name": "Babaçulândia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10502,
+        "name": "Bandeirantes do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10539,
+        "name": "Barra do Ouro",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10565,
+        "name": "Barrolândia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10636,
+        "name": "Bernardo Sayão",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10715,
+        "name": "Bom Jesus do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10773,
+        "name": "Brasilândia do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10787,
+        "name": "Brejinho de Nazaré",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10827,
+        "name": "Buriti do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 10878,
+        "name": "Cachoeirinha",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11012,
+        "name": "Campos Lindos",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11133,
+        "name": "Cariri do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11150,
+        "name": "Carmolândia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11165,
+        "name": "Carrasco Bonito",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11178,
+        "name": "Caseara",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11235,
+        "name": "Centenário",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11261,
+        "name": "Chapada da Natividade",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11262,
+        "name": "Chapada de Areia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11325,
+        "name": "Colinas do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11326,
+        "name": "Colméia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11339,
+        "name": "Combinado",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11363,
+        "name": "Conceição do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11455,
+        "name": "Couto Magalhães",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11472,
+        "name": "Cristalândia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11484,
+        "name": "Crixás do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11562,
+        "name": "Darcinópolis",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11590,
+        "name": "Dianópolis",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11608,
+        "name": "Divinópolis do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11617,
+        "name": "Dois Irmãos do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11666,
+        "name": "Dueré",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11728,
+        "name": "Esperantina",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11906,
+        "name": "Fátima",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11818,
+        "name": "Figueirópolis",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11820,
+        "name": "Filadélfia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11859,
+        "name": "Formoso do Araguaia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11865,
+        "name": "Fortaleza do Tabocão",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11961,
+        "name": "Goianorte",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 11966,
+        "name": "Goiatins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12061,
+        "name": "Guaraí",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12088,
+        "name": "Gurupi",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12294,
+        "name": "Ipueiras",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12338,
+        "name": "Itacajá",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12354,
+        "name": "Itaguatins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12425,
+        "name": "Itapiratins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12434,
+        "name": "Itaporã do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12610,
+        "name": "Jaú do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12670,
+        "name": "Juarina",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12750,
+        "name": "Lagoa da Confusão",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12764,
+        "name": "Lagoa do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12776,
+        "name": "Lajeado",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12807,
+        "name": "Lavandeira",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12845,
+        "name": "Lizarda",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 12876,
+        "name": "Luzinópolis",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13010,
+        "name": "Marianópolis do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13051,
+        "name": "Mateiros",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13081,
+        "name": "Maurilândia do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13133,
+        "name": "Miracema do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13144,
+        "name": "Miranorte",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13214,
+        "name": "Monte do Carmo",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13210,
+        "name": "Monte Santo do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13282,
+        "name": "Muricilândia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13302,
+        "name": "Natividade",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13310,
+        "name": "Nazaré",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13409,
+        "name": "Nova Olinda",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13429,
+        "name": "Nova Rosalândia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13450,
+        "name": "Novo Acordo",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13452,
+        "name": "Novo Alegre",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13467,
+        "name": "Novo Jardim",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13508,
+        "name": "Oliveira de Fátima",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13587,
+        "name": "Palmas",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13596,
+        "name": "Palmeirante",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13599,
+        "name": "Palmeiras do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13602,
+        "name": "Palmeirópolis",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13664,
+        "name": "Paraíso do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13649,
+        "name": "Paranã",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13716,
+        "name": "Pau d'Arco",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13772,
+        "name": "Pedro Afonso",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13787,
+        "name": "Peixe",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13801,
+        "name": "Pequizeiro",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13855,
+        "name": "Pindorama do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13905,
+        "name": "Piraquê",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13926,
+        "name": "Pium",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13966,
+        "name": "Ponte Alta do Bom Jesus",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13968,
+        "name": "Ponte Alta do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 13997,
+        "name": "Porto Alegre do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14012,
+        "name": "Porto Nacional",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14065,
+        "name": "Praia Norte",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14088,
+        "name": "Presidente Kennedy",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14115,
+        "name": "Pugmil",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14181,
+        "name": "Recursolândia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14208,
+        "name": "Riachinho",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14303,
+        "name": "Rio da Conceição",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14317,
+        "name": "Rio dos Bois",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14297,
+        "name": "Rio Sono",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14409,
+        "name": "Sampaio",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14412,
+        "name": "Sandolândia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14467,
+        "name": "Santa Fé do Araguaia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14517,
+        "name": "Santa Maria do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14538,
+        "name": "Santa Rita do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14549,
+        "name": "Santa Rosa do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14556,
+        "name": "Santa Tereza do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14564,
+        "name": "Santa Terezinha do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14841,
+        "name": "São Bento do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14905,
+        "name": "São Félix do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15096,
+        "name": "São Miguel do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15134,
+        "name": "São Salvador do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15152,
+        "name": "São Sebastião do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15165,
+        "name": "São Valério",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14776,
+        "name": "Silvanópolis",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15178,
+        "name": "Sítio Novo do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 14817,
+        "name": "Sucupira",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15198,
+        "name": "Taguatinga",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15203,
+        "name": "Taipas do Tocantins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15207,
+        "name": "Talismã",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15327,
+        "name": "Tocantínia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15326,
+        "name": "Tocantinópolis",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15406,
+        "name": "Tupirama",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15407,
+        "name": "Tupiratins",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15627,
+        "name": "Wanderlândia",
+        "country": "BRA",
+        "state": "TO"
+    },
+    {
+        "id": 15633,
+        "name": "Xambioá",
+        "country": "BRA",
+        "state": "TO"
+    }
+]

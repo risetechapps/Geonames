@@ -1,0 +1,656 @@
+[
+    {
+        "id": 97542,
+        "name": "Aksay",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 97598,
+        "name": "Almaznyy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 97622,
+        "name": "Anastasiyevka",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 97731,
+        "name": "Ayutinskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 97734,
+        "name": "Azov",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 97752,
+        "name": "Bagayevskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 97811,
+        "name": "Bataysk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 97842,
+        "name": "Belaya Kalitva",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 97985,
+        "name": "Bokovskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98101,
+        "name": "Bystrogorskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98110,
+        "name": "Chaltyr",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98186,
+        "name": "Chertkovo",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98310,
+        "name": "Donetsk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98311,
+        "name": "Donskoy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98340,
+        "name": "Dubovskoye",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98489,
+        "name": "Gigant",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98501,
+        "name": "Glubokiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98538,
+        "name": "Gornyatskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98540,
+        "name": "Gornyy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98595,
+        "name": "Grushevskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98608,
+        "name": "Gukovo",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98612,
+        "name": "Gundorovskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98776,
+        "name": "Kagal’nitskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98785,
+        "name": "Kalinin",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98818,
+        "name": "Kamenolomni",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98819,
+        "name": "Kamensk-Shakhtinskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98890,
+        "name": "Kashary",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 98927,
+        "name": "Kazanskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99066,
+        "name": "Kirovskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99134,
+        "name": "Koksovyy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99189,
+        "name": "Konstantinovsk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99284,
+        "name": "Krasnaya Polyana",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99293,
+        "name": "Krasnoarmeyskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99341,
+        "name": "Krasnovka",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99344,
+        "name": "Krasnoyarskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99373,
+        "name": "Krasnyy Sulin",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99385,
+        "name": "Krasyukovskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99395,
+        "name": "Krivyanskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99407,
+        "name": "Krym",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99431,
+        "name": "Kuleshovka",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99494,
+        "name": "Kuybyshevo",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99607,
+        "name": "Letnik",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99625,
+        "name": "Likhovskoy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99626,
+        "name": "Likhoy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99806,
+        "name": "Martynovskiy Rayon",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99809,
+        "name": "Masalovka",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99815,
+        "name": "Matveyev Kurgan",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99832,
+        "name": "Mayskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99838,
+        "name": "Mechetinskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99857,
+        "name": "Melikhovskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99910,
+        "name": "Millerovo",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99912,
+        "name": "Milyutinskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99913,
+        "name": "Milyutinskiy Rayon",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 99966,
+        "name": "Morozovsk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100082,
+        "name": "Nedvigovka",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100137,
+        "name": "Nikolayevskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100226,
+        "name": "Novobataysk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100228,
+        "name": "Novobessergenovka",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100235,
+        "name": "Novocherkassk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100297,
+        "name": "Novoshakhtinsk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100354,
+        "name": "Novyy Yegorlyk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100384,
+        "name": "Oblivskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100436,
+        "name": "Ol’ginskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100473,
+        "name": "Orlovskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100612,
+        "name": "Persianovka",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100631,
+        "name": "Peschanokopskoye",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100633,
+        "name": "Peshkovo",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100747,
+        "name": "Pokrovskoye",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100781,
+        "name": "Port-Katon",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100829,
+        "name": "Primorka",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100863,
+        "name": "Proletarsk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100944,
+        "name": "Rassvet",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100960,
+        "name": "Remontnoye",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100975,
+        "name": "Rodionovo-Nesvetaiskoye",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100976,
+        "name": "Rodionovo-Nesvetayskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 100990,
+        "name": "Romanovskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101007,
+        "name": "Rostov-na-Donu",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101083,
+        "name": "Sal’sk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101086,
+        "name": "Samarskoye",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101088,
+        "name": "Sambek",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101097,
+        "name": "Sandata",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101163,
+        "name": "Semikarakorsk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101241,
+        "name": "Shakhty",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101337,
+        "name": "Sholokhovskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101374,
+        "name": "Sinegorskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101378,
+        "name": "Sinyavskoye",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101438,
+        "name": "Sokolovo-Kundryuchenskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101507,
+        "name": "Sovetskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101565,
+        "name": "Staraya Stanitsa",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101575,
+        "name": "Starocherkasskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101740,
+        "name": "Taganrog",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101756,
+        "name": "Talovyy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101765,
+        "name": "Tanais",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101770,
+        "name": "Tarasovskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101798,
+        "name": "Tatsinskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101938,
+        "name": "Tselina",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 101949,
+        "name": "Tsimlyansk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 102028,
+        "name": "Uglegorskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 102031,
+        "name": "Uglerodovskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 102118,
+        "name": "Ust’-Donetskiy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 102292,
+        "name": "Vesëlyy",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 102289,
+        "name": "Veshenskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 102344,
+        "name": "Volgodonsk",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 102524,
+        "name": "Yegorlykskaya",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 102668,
+        "name": "Zavetnoye",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 102707,
+        "name": "Zernograd",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 102734,
+        "name": "Zhirnov",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 102748,
+        "name": "Zimovniki",
+        "country": "RUS",
+        "state": "ROS"
+    },
+    {
+        "id": 102781,
+        "name": "Zverevo",
+        "country": "RUS",
+        "state": "ROS"
+    }
+]

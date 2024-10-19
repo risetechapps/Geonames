@@ -1,0 +1,596 @@
+[
+    {
+        "id": 22111,
+        "name": "Babice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22191,
+        "name": "Bánov",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22195,
+        "name": "Bílovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22144,
+        "name": "Bojkovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22151,
+        "name": "Boršice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22205,
+        "name": "Březnice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22208,
+        "name": "Březolupy",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22211,
+        "name": "Březová",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22174,
+        "name": "Buchlovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22188,
+        "name": "Bystřice pod Hostýnem",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22233,
+        "name": "Chropyně",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22239,
+        "name": "Chvalčov",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22272,
+        "name": "Dolní Bečva",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22287,
+        "name": "Dolní Němčí",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22325,
+        "name": "Francova Lhota",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22330,
+        "name": "Fryšták",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22339,
+        "name": "Halenkov",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22340,
+        "name": "Halenkovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22357,
+        "name": "Hluk",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22368,
+        "name": "Holešov",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22375,
+        "name": "Horní Bečva",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22382,
+        "name": "Horní Lideč",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22410,
+        "name": "Hošťálková",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22406,
+        "name": "Hovězí",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22434,
+        "name": "Hulín",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22439,
+        "name": "Hvozdná",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22450,
+        "name": "Jablůnka",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22452,
+        "name": "Jalubí",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22500,
+        "name": "Karolinka",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22509,
+        "name": "Kelč",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22523,
+        "name": "Kněžpole",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22535,
+        "name": "Koryčany",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22560,
+        "name": "Kroměříž",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22569,
+        "name": "Kunovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22578,
+        "name": "Kvasice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22601,
+        "name": "Lešná",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22616,
+        "name": "Lidečko",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22620,
+        "name": "Liptál",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22646,
+        "name": "Luhačovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22650,
+        "name": "Lukov",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22699,
+        "name": "Mistřice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22749,
+        "name": "Napajedla",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22753,
+        "name": "Nedakonice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22754,
+        "name": "Nedašov",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22767,
+        "name": "Nivnice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22787,
+        "name": "Nový Hrozenkov",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22831,
+        "name": "Okres Kroměříž",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22869,
+        "name": "Okres Uherské Hradiště",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22870,
+        "name": "Okres Vsetín",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22872,
+        "name": "Okres Zlín",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22909,
+        "name": "Ostrožská Lhota",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22910,
+        "name": "Ostrožská Nová Ves",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22915,
+        "name": "Otrokovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22950,
+        "name": "Polešovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22956,
+        "name": "Popovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22963,
+        "name": "Pozlovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22980,
+        "name": "Prostřední Bečva",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 22984,
+        "name": "Prusinovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23023,
+        "name": "Rataje",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23024,
+        "name": "Ratiboř",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23043,
+        "name": "Rožnov pod Radhoštěm",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23080,
+        "name": "Slavičín",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23084,
+        "name": "Slušovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23096,
+        "name": "Spytihněv",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23107,
+        "name": "Staré Město",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23424,
+        "name": "Štítná nad Vláří",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23125,
+        "name": "Strání",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23143,
+        "name": "Suchá Loz",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23431,
+        "name": "Šumice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23163,
+        "name": "Tečovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23167,
+        "name": "Tlumačov",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23169,
+        "name": "Topolná",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23172,
+        "name": "Traplice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23176,
+        "name": "Trnava",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23185,
+        "name": "Tupesy",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23206,
+        "name": "Uherské Hradiště",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23207,
+        "name": "Uherský Brod",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23208,
+        "name": "Uherský Ostroh",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23354,
+        "name": "Újezd",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23215,
+        "name": "Valašská Bystřice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23216,
+        "name": "Valašská Polanka",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23217,
+        "name": "Valašské Klobouky",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23218,
+        "name": "Valašské Meziříčí",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23226,
+        "name": "Velehrad",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23241,
+        "name": "Velké Karlovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23267,
+        "name": "Vidče",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23275,
+        "name": "Vizovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23278,
+        "name": "Vlachovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23284,
+        "name": "Vlčnov",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23317,
+        "name": "Všemina",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23303,
+        "name": "Vsetín",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23349,
+        "name": "Záhorovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23327,
+        "name": "Zašová",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23329,
+        "name": "Zborovice",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23336,
+        "name": "Zdounky",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23340,
+        "name": "Zlechov",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23343,
+        "name": "Zlín",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23455,
+        "name": "Žlutava",
+        "country": "CZE",
+        "state": "724"
+    },
+    {
+        "id": 23346,
+        "name": "Zubří",
+        "country": "CZE",
+        "state": "724"
+    }
+]

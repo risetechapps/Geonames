@@ -1,0 +1,614 @@
+[
+    {
+        "id": 85799,
+        "name": "Banie Mazurskie",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 85807,
+        "name": "Barciany",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 85809,
+        "name": "Barczewo",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 85813,
+        "name": "Bartoszyce",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 85835,
+        "name": "Biała Piska",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 85874,
+        "name": "Biskupiec",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 85877,
+        "name": "Bisztynek",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 85936,
+        "name": "Braniewo",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86145,
+        "name": "Czerwonka",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86245,
+        "name": "Dąbrówno",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86172,
+        "name": "Dobre Miasto",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86214,
+        "name": "Dywity",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86216,
+        "name": "Działdowo",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86263,
+        "name": "Dźwierzuty",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86264,
+        "name": "Elbląg",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86265,
+        "name": "Ełk",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86275,
+        "name": "Frombork",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86301,
+        "name": "Gierłoż",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86300,
+        "name": "Gierzwałd",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86302,
+        "name": "Gietrzwałd",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86305,
+        "name": "Giżycko",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86355,
+        "name": "Gołdap",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86417,
+        "name": "Górowo Iławeckie",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86382,
+        "name": "Gronowo Elbląskie",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86383,
+        "name": "Gronowo Górne",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86472,
+        "name": "Iława",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86474,
+        "name": "Iłowo -Osada",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86546,
+        "name": "Jedwabno",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86556,
+        "name": "Jeziorany",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86567,
+        "name": "Jonkowo",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86858,
+        "name": "Kętrzyn",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86640,
+        "name": "Kisielice",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86706,
+        "name": "Korsze",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86707,
+        "name": "Kortowo",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86728,
+        "name": "Kowale Oleckie",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86738,
+        "name": "Kozłowo",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86791,
+        "name": "Kruklanki",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86842,
+        "name": "Kurzętnik",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86879,
+        "name": "Lelkowo",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86899,
+        "name": "Lidzbark",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86900,
+        "name": "Lidzbark Warmiński",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86934,
+        "name": "Lubawa",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 86954,
+        "name": "Lubomino",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87006,
+        "name": "Małdyty",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87042,
+        "name": "Mikołajki",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87070,
+        "name": "Miłakowo",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87072,
+        "name": "Miłomłyn",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87129,
+        "name": "Młynary",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87093,
+        "name": "Morąg",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87106,
+        "name": "Mrągowo",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87146,
+        "name": "Nidzica",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87186,
+        "name": "Nowe Miasto Lubawskie",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87236,
+        "name": "Olecko",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87248,
+        "name": "Olsztyn",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87249,
+        "name": "Olsztynek",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87268,
+        "name": "Orneta",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87274,
+        "name": "Orzysz",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87307,
+        "name": "Ostróda",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87353,
+        "name": "Pasłęk",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87351,
+        "name": "Pasym",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87374,
+        "name": "Piecki",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87380,
+        "name": "Pieniężno",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87398,
+        "name": "Pisz",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87459,
+        "name": "Powiat bartoszycki",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87472,
+        "name": "Powiat braniewski",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87494,
+        "name": "Powiat działdowski",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87498,
+        "name": "Powiat elbląski",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87499,
+        "name": "Powiat ełcki",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87502,
+        "name": "Powiat giżycki",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87511,
+        "name": "Powiat gołdapski",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87525,
+        "name": "Powiat iławski",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87561,
+        "name": "Powiat kętrzyński",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87569,
+        "name": "Powiat lidzbarski",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87592,
+        "name": "Powiat mrągowski",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87599,
+        "name": "Powiat nidzicki",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87603,
+        "name": "Powiat nowomiejski",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87610,
+        "name": "Powiat olecki",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87614,
+        "name": "Powiat olsztyński",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87624,
+        "name": "Powiat ostródzki",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87634,
+        "name": "Powiat piski",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87693,
+        "name": "Powiat szczycieński",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87731,
+        "name": "Powiat węgorzewski",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87773,
+        "name": "Pozezdrze",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87791,
+        "name": "Prostki",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87848,
+        "name": "Purda",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87939,
+        "name": "Reszel",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87965,
+        "name": "Rozogi",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87969,
+        "name": "Ruciane-Nida",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 87996,
+        "name": "Rybno",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88011,
+        "name": "Ryn",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88332,
+        "name": "Sępopol",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88163,
+        "name": "Srokowo",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88184,
+        "name": "Stare Juchy",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88199,
+        "name": "Stawiguda",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88267,
+        "name": "Susz",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88276,
+        "name": "Swiętajno",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88305,
+        "name": "Szczytno",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88377,
+        "name": "Tolkmicko",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88641,
+        "name": "Węgorzewo",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88498,
+        "name": "Wielbark",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88611,
+        "name": "Wydminy",
+        "country": "POL",
+        "state": "28"
+    },
+    {
+        "id": 88688,
+        "name": "Zalewo",
+        "country": "POL",
+        "state": "28"
+    }
+]

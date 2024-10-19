@@ -1,0 +1,494 @@
+[
+    {
+        "id": 111095,
+        "name": "Alamo",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 111908,
+        "name": "Battle Mountain",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 111982,
+        "name": "Beatty",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 112602,
+        "name": "Boulder City",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 113043,
+        "name": "Bunkerville",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 113213,
+        "name": "Caliente",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 113399,
+        "name": "Carlin",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 113478,
+        "name": "Carson City",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 114012,
+        "name": "Churchill County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 114129,
+        "name": "Clark County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 114389,
+        "name": "Cold Springs",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 115098,
+        "name": "Dayton",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 115434,
+        "name": "Douglas County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 115768,
+        "name": "East Valley",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 116008,
+        "name": "Elko",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 116009,
+        "name": "Elko County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 116086,
+        "name": "Ely",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 116149,
+        "name": "Enterprise",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 116186,
+        "name": "Esmeralda County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 116237,
+        "name": "Eureka",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 116238,
+        "name": "Eureka County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 116378,
+        "name": "Fallon",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 116491,
+        "name": "Fernley",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 117078,
+        "name": "Gardnerville",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 117079,
+        "name": "Gardnerville Ranchos",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 117357,
+        "name": "Golden Valley",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 117363,
+        "name": "Goldfield",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 118176,
+        "name": "Hawthorne",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 118278,
+        "name": "Henderson",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 118780,
+        "name": "Humboldt County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 118888,
+        "name": "Incline Village",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 118909,
+        "name": "Indian Hills",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 119057,
+        "name": "Jackpot",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 119273,
+        "name": "Johnson Lane",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 119610,
+        "name": "Kingsbury",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 120097,
+        "name": "Lander County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 120163,
+        "name": "Las Vegas",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 120185,
+        "name": "Laughlin",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 120358,
+        "name": "Lemmon Valley",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 120532,
+        "name": "Lincoln County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 120825,
+        "name": "Lovelock",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 120939,
+        "name": "Lyon County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 121502,
+        "name": "McGill",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 121727,
+        "name": "Mesquite",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 121930,
+        "name": "Minden",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 121936,
+        "name": "Mineral County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 122007,
+        "name": "Moapa Town",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 122008,
+        "name": "Moapa Valley",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 122017,
+        "name": "Mogul",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 122622,
+        "name": "Nellis Air Force Base",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 123052,
+        "name": "North Las Vegas",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 123222,
+        "name": "Nye County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 123724,
+        "name": "Pahrump",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 123819,
+        "name": "Paradise",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 124091,
+        "name": "Pershing County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 124273,
+        "name": "Pioche",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 125020,
+        "name": "Reno",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 125885,
+        "name": "Sandy Valley",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 126435,
+        "name": "Silver Springs",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 126510,
+        "name": "Smith",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 126517,
+        "name": "Smith Valley",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 126801,
+        "name": "Spanish Springs",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 126805,
+        "name": "Sparks",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 126854,
+        "name": "Spring Creek",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 126881,
+        "name": "Spring Valley",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 126939,
+        "name": "Stagecoach",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 127102,
+        "name": "Storey County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 127205,
+        "name": "Summerlin South",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 127242,
+        "name": "Sun Valley",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 127269,
+        "name": "Sunrise Manor",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 127722,
+        "name": "Tonopah",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 127731,
+        "name": "Topaz Ranch Estates",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 128180,
+        "name": "Verdi",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 128290,
+        "name": "Virginia City",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 128590,
+        "name": "Washoe County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 128783,
+        "name": "Wells",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 129004,
+        "name": "West Wendover",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 129153,
+        "name": "White Pine County",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 129209,
+        "name": "Whitney",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 129361,
+        "name": "Winchester",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 129411,
+        "name": "Winnemucca",
+        "country": "USA",
+        "state": "NV"
+    },
+    {
+        "id": 129682,
+        "name": "Yerington",
+        "country": "USA",
+        "state": "NV"
+    }
+]

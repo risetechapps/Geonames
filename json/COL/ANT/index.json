@@ -1,0 +1,752 @@
+[
+    {
+        "id": 20485,
+        "name": "Abejorral",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20487,
+        "name": "Abriaquí",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20504,
+        "name": "Alejandría",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20512,
+        "name": "Amagá",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20513,
+        "name": "Amalfi",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20520,
+        "name": "Andes",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20521,
+        "name": "Angelópolis",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20522,
+        "name": "Angostura",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20747,
+        "name": "Anorí",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20527,
+        "name": "Anza",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20529,
+        "name": "Apartadó",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20541,
+        "name": "Arboletes",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20544,
+        "name": "Argelia",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20551,
+        "name": "Armenia",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20566,
+        "name": "Barbosa",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20579,
+        "name": "Bello",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20580,
+        "name": "Belmira",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20588,
+        "name": "Betania",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20589,
+        "name": "Betulia",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20602,
+        "name": "Briceño",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20613,
+        "name": "Buriticá",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20763,
+        "name": "Cáceres",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20621,
+        "name": "Caicedo",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20631,
+        "name": "Caldas",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20638,
+        "name": "Campamento",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20667,
+        "name": "Cañasgordas",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20649,
+        "name": "Caracolí",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20650,
+        "name": "Caramanta",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20652,
+        "name": "Carepa",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20658,
+        "name": "Carolina",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20666,
+        "name": "Caucasia",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20683,
+        "name": "Chigorodó",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20710,
+        "name": "Cisneros",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20711,
+        "name": "Ciudad Bolívar",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20716,
+        "name": "Cocorná",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20724,
+        "name": "Concepción",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20727,
+        "name": "Concordia",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20735,
+        "name": "Copacabana",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20773,
+        "name": "Dabeiba",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20781,
+        "name": "Donmatías",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20785,
+        "name": "Ebéjico",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20786,
+        "name": "El Bagre",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20656,
+        "name": "El Carmen de Viboral",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21441,
+        "name": "El Santuario",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20838,
+        "name": "Entrerrios",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20840,
+        "name": "Envigado",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20859,
+        "name": "Fredonia",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20861,
+        "name": "Frontino",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20885,
+        "name": "Giraldo",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20888,
+        "name": "Girardota",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20931,
+        "name": "Gómez Plata",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20893,
+        "name": "Granada",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20901,
+        "name": "Guadalupe",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20913,
+        "name": "Guarne",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20915,
+        "name": "Guatapé",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20939,
+        "name": "Heliconia",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20942,
+        "name": "Hispania",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20953,
+        "name": "Itagui",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20955,
+        "name": "Ituango",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20959,
+        "name": "Jardín",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20961,
+        "name": "Jericó",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20974,
+        "name": "La Ceja",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 20983,
+        "name": "La Estrella",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21000,
+        "name": "La Pintada",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21009,
+        "name": "La Unión",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21028,
+        "name": "Liborina",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21044,
+        "name": "Maceo",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21066,
+        "name": "Marinilla",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21074,
+        "name": "Medellín",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21097,
+        "name": "Montebello",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21120,
+        "name": "Murindó",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21121,
+        "name": "Mutatá",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21126,
+        "name": "Nariño",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21129,
+        "name": "Nechí",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21130,
+        "name": "Necoclí",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21149,
+        "name": "Olaya",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21197,
+        "name": "Peñol",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21194,
+        "name": "Peque",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21227,
+        "name": "Pueblorrico",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21234,
+        "name": "Puerto Berrío",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21248,
+        "name": "Puerto Nare",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21258,
+        "name": "Puerto Triunfo",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21281,
+        "name": "Remedios",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21286,
+        "name": "Retiro",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21293,
+        "name": "Rionegro",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21311,
+        "name": "Sabanalarga",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21314,
+        "name": "Sabaneta",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21323,
+        "name": "Salgar",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21330,
+        "name": "San Andrés de Cuerquía",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21345,
+        "name": "San Carlos",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21357,
+        "name": "San Francisco",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21362,
+        "name": "San Jerónimo",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21366,
+        "name": "San José de la Montaña",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21376,
+        "name": "San Juan de Urabá",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 149253,
+        "name": "San Luis",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21117,
+        "name": "San Pedro de los Milagros",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21399,
+        "name": "San Pedro de Uraba",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21402,
+        "name": "San Rafael",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21403,
+        "name": "San Roque",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21407,
+        "name": "San Vicente Ferrer",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21414,
+        "name": "Santa Bárbara",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21417,
+        "name": "Santa Fe de Antioquia",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21425,
+        "name": "Santa Rosa de Osos",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21439,
+        "name": "Santo Domingo",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21449,
+        "name": "Segovia",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21474,
+        "name": "Sonson",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21476,
+        "name": "Sopetrán",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21562,
+        "name": "Támesis",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21513,
+        "name": "Tarazá",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21514,
+        "name": "Tarso",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21532,
+        "name": "Titiribí",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21537,
+        "name": "Toledo",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21557,
+        "name": "Turbo",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21572,
+        "name": "Uramita",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21574,
+        "name": "Urrao",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21577,
+        "name": "Valdivia",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21584,
+        "name": "Valparaíso",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21585,
+        "name": "Vegachí",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21588,
+        "name": "Venecia",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21595,
+        "name": "Vigía del Fuerte",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21621,
+        "name": "Yalí",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21622,
+        "name": "Yarumal",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21624,
+        "name": "Yolombó",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21625,
+        "name": "Yondó",
+        "country": "COL",
+        "state": "ANT"
+    },
+    {
+        "id": 21632,
+        "name": "Zaragoza",
+        "country": "COL",
+        "state": "ANT"
+    }
+]

@@ -1,0 +1,752 @@
+[
+    {
+        "id": 329,
+        "name": "Abim District",
+        "country": "UGA",
+        "state": "314"
+    },
+    {
+        "id": 361,
+        "name": "Adjumani District",
+        "country": "UGA",
+        "state": "301"
+    },
+    {
+        "id": 392,
+        "name": "Agago District",
+        "country": "UGA",
+        "state": "322"
+    },
+    {
+        "id": 344,
+        "name": "Alebtong District",
+        "country": "UGA",
+        "state": "323"
+    },
+    {
+        "id": 416,
+        "name": "Amolatar District",
+        "country": "UGA",
+        "state": "315"
+    },
+    {
+        "id": 353,
+        "name": "Amudat District",
+        "country": "UGA",
+        "state": "324"
+    },
+    {
+        "id": 352,
+        "name": "Amuria District",
+        "country": "UGA",
+        "state": "216"
+    },
+    {
+        "id": 335,
+        "name": "Amuru District",
+        "country": "UGA",
+        "state": "316"
+    },
+    {
+        "id": 328,
+        "name": "Apac District",
+        "country": "UGA",
+        "state": "302"
+    },
+    {
+        "id": 447,
+        "name": "Arua District",
+        "country": "UGA",
+        "state": "303"
+    },
+    {
+        "id": 441,
+        "name": "Budaka District",
+        "country": "UGA",
+        "state": "217"
+    },
+    {
+        "id": 349,
+        "name": "Bududa District",
+        "country": "UGA",
+        "state": "218"
+    },
+    {
+        "id": 387,
+        "name": "Bugiri District",
+        "country": "UGA",
+        "state": "201"
+    },
+    {
+        "id": 391,
+        "name": "Buhweju District",
+        "country": "UGA",
+        "state": "420"
+    },
+    {
+        "id": 377,
+        "name": "Buikwe District",
+        "country": "UGA",
+        "state": "117"
+    },
+    {
+        "id": 343,
+        "name": "Bukedea District",
+        "country": "UGA",
+        "state": "219"
+    },
+    {
+        "id": 375,
+        "name": "Bukomansimbi District",
+        "country": "UGA",
+        "state": "118"
+    },
+    {
+        "id": 385,
+        "name": "Bukwo District",
+        "country": "UGA",
+        "state": "220"
+    },
+    {
+        "id": 428,
+        "name": "Bulambuli District",
+        "country": "UGA",
+        "state": "225"
+    },
+    {
+        "id": 389,
+        "name": "Buliisa District",
+        "country": "UGA",
+        "state": "416"
+    },
+    {
+        "id": 419,
+        "name": "Bundibugyo District",
+        "country": "UGA",
+        "state": "401"
+    },
+    {
+        "id": 381,
+        "name": "Bunyangabu District",
+        "country": "UGA",
+        "state": "430"
+    },
+    {
+        "id": 386,
+        "name": "Bushenyi District",
+        "country": "UGA",
+        "state": "402"
+    },
+    {
+        "id": 431,
+        "name": "Busia District",
+        "country": "UGA",
+        "state": "202"
+    },
+    {
+        "id": 365,
+        "name": "Butaleja District",
+        "country": "UGA",
+        "state": "221"
+    },
+    {
+        "id": 384,
+        "name": "Butambala District",
+        "country": "UGA",
+        "state": "119"
+    },
+    {
+        "id": 388,
+        "name": "Butebo District",
+        "country": "UGA",
+        "state": "233"
+    },
+    {
+        "id": 414,
+        "name": "Buvuma District",
+        "country": "UGA",
+        "state": "120"
+    },
+    {
+        "id": 380,
+        "name": "Buyende District",
+        "country": "UGA",
+        "state": "226"
+    },
+    {
+        "id": 396,
+        "name": "Central Region",
+        "country": "UGA",
+        "state": "C"
+    },
+    {
+        "id": 341,
+        "name": "Dokolo District",
+        "country": "UGA",
+        "state": "317"
+    },
+    {
+        "id": 372,
+        "name": "Eastern Region",
+        "country": "UGA",
+        "state": "E"
+    },
+    {
+        "id": 366,
+        "name": "Gomba District",
+        "country": "UGA",
+        "state": "121"
+    },
+    {
+        "id": 413,
+        "name": "Gulu District",
+        "country": "UGA",
+        "state": "304"
+    },
+    {
+        "id": 339,
+        "name": "Ibanda District",
+        "country": "UGA",
+        "state": "417"
+    },
+    {
+        "id": 340,
+        "name": "Iganga District",
+        "country": "UGA",
+        "state": "203"
+    },
+    {
+        "id": 383,
+        "name": "Isingiro District",
+        "country": "UGA",
+        "state": "418"
+    },
+    {
+        "id": 367,
+        "name": "Jinja District",
+        "country": "UGA",
+        "state": "204"
+    },
+    {
+        "id": 434,
+        "name": "Kaabong District",
+        "country": "UGA",
+        "state": "318"
+    },
+    {
+        "id": 426,
+        "name": "Kabale District",
+        "country": "UGA",
+        "state": "404"
+    },
+    {
+        "id": 326,
+        "name": "Kabarole District",
+        "country": "UGA",
+        "state": "405"
+    },
+    {
+        "id": 336,
+        "name": "Kaberamaido District",
+        "country": "UGA",
+        "state": "213"
+    },
+    {
+        "id": 403,
+        "name": "Kagadi District",
+        "country": "UGA",
+        "state": "427"
+    },
+    {
+        "id": 399,
+        "name": "Kakumiro District",
+        "country": "UGA",
+        "state": "428"
+    },
+    {
+        "id": 405,
+        "name": "Kalangala District",
+        "country": "UGA",
+        "state": "101"
+    },
+    {
+        "id": 398,
+        "name": "Kaliro District",
+        "country": "UGA",
+        "state": "222"
+    },
+    {
+        "id": 394,
+        "name": "Kalungu District",
+        "country": "UGA",
+        "state": "122"
+    },
+    {
+        "id": 382,
+        "name": "Kampala District",
+        "country": "UGA",
+        "state": "102"
+    },
+    {
+        "id": 334,
+        "name": "Kamuli District",
+        "country": "UGA",
+        "state": "205"
+    },
+    {
+        "id": 360,
+        "name": "Kamwenge District",
+        "country": "UGA",
+        "state": "413"
+    },
+    {
+        "id": 373,
+        "name": "Kanungu District",
+        "country": "UGA",
+        "state": "414"
+    },
+    {
+        "id": 432,
+        "name": "Kapchorwa District",
+        "country": "UGA",
+        "state": "206"
+    },
+    {
+        "id": 440,
+        "name": "Kasese District",
+        "country": "UGA",
+        "state": "406"
+    },
+    {
+        "id": 420,
+        "name": "Katakwi District",
+        "country": "UGA",
+        "state": "207"
+    },
+    {
+        "id": 368,
+        "name": "Kayunga District",
+        "country": "UGA",
+        "state": "112"
+    },
+    {
+        "id": 436,
+        "name": "Kibaale District",
+        "country": "UGA",
+        "state": "407"
+    },
+    {
+        "id": 347,
+        "name": "Kiboga District",
+        "country": "UGA",
+        "state": "103"
+    },
+    {
+        "id": 338,
+        "name": "Kibuku District",
+        "country": "UGA",
+        "state": "227"
+    },
+    {
+        "id": 355,
+        "name": "Kiruhura District",
+        "country": "UGA",
+        "state": "419"
+    },
+    {
+        "id": 346,
+        "name": "Kiryandongo District",
+        "country": "UGA",
+        "state": "421"
+    },
+    {
+        "id": 409,
+        "name": "Kisoro District",
+        "country": "UGA",
+        "state": "408"
+    },
+    {
+        "id": 348,
+        "name": "Kitgum District",
+        "country": "UGA",
+        "state": "305"
+    },
+    {
+        "id": 345,
+        "name": "Koboko District",
+        "country": "UGA",
+        "state": "319"
+    },
+    {
+        "id": 401,
+        "name": "Kole District",
+        "country": "UGA",
+        "state": "325"
+    },
+    {
+        "id": 443,
+        "name": "Kotido District",
+        "country": "UGA",
+        "state": "306"
+    },
+    {
+        "id": 425,
+        "name": "Kumi District",
+        "country": "UGA",
+        "state": "208"
+    },
+    {
+        "id": 369,
+        "name": "Kween District",
+        "country": "UGA",
+        "state": "228"
+    },
+    {
+        "id": 325,
+        "name": "Kyankwanzi District",
+        "country": "UGA",
+        "state": "123"
+    },
+    {
+        "id": 437,
+        "name": "Kyegegwa District",
+        "country": "UGA",
+        "state": "422"
+    },
+    {
+        "id": 402,
+        "name": "Kyenjojo District",
+        "country": "UGA",
+        "state": "415"
+    },
+    {
+        "id": 448,
+        "name": "Kyotera District",
+        "country": "UGA",
+        "state": "125"
+    },
+    {
+        "id": 411,
+        "name": "Lamwo District",
+        "country": "UGA",
+        "state": "326"
+    },
+    {
+        "id": 342,
+        "name": "Lira District",
+        "country": "UGA",
+        "state": "307"
+    },
+    {
+        "id": 445,
+        "name": "Luuka District",
+        "country": "UGA",
+        "state": "229"
+    },
+    {
+        "id": 433,
+        "name": "Luwero District",
+        "country": "UGA",
+        "state": "104"
+    },
+    {
+        "id": 417,
+        "name": "Lwengo District",
+        "country": "UGA",
+        "state": "124"
+    },
+    {
+        "id": 376,
+        "name": "Lyantonde District",
+        "country": "UGA",
+        "state": "114"
+    },
+    {
+        "id": 438,
+        "name": "Manafwa District",
+        "country": "UGA",
+        "state": "223"
+    },
+    {
+        "id": 421,
+        "name": "Maracha District",
+        "country": "UGA",
+        "state": "320"
+    },
+    {
+        "id": 356,
+        "name": "Masaka District",
+        "country": "UGA",
+        "state": "105"
+    },
+    {
+        "id": 354,
+        "name": "Masindi District",
+        "country": "UGA",
+        "state": "409"
+    },
+    {
+        "id": 418,
+        "name": "Mayuge District",
+        "country": "UGA",
+        "state": "214"
+    },
+    {
+        "id": 350,
+        "name": "Mbale District",
+        "country": "UGA",
+        "state": "209"
+    },
+    {
+        "id": 415,
+        "name": "Mbarara District",
+        "country": "UGA",
+        "state": "410"
+    },
+    {
+        "id": 435,
+        "name": "Mitooma District",
+        "country": "UGA",
+        "state": "423"
+    },
+    {
+        "id": 364,
+        "name": "Mityana District",
+        "country": "UGA",
+        "state": "115"
+    },
+    {
+        "id": 395,
+        "name": "Moroto District",
+        "country": "UGA",
+        "state": "308"
+    },
+    {
+        "id": 363,
+        "name": "Moyo District",
+        "country": "UGA",
+        "state": "309"
+    },
+    {
+        "id": 327,
+        "name": "Mpigi District",
+        "country": "UGA",
+        "state": "106"
+    },
+    {
+        "id": 371,
+        "name": "Mubende District",
+        "country": "UGA",
+        "state": "107"
+    },
+    {
+        "id": 410,
+        "name": "Mukono District",
+        "country": "UGA",
+        "state": "108"
+    },
+    {
+        "id": 393,
+        "name": "Nakapiripirit District",
+        "country": "UGA",
+        "state": "311"
+    },
+    {
+        "id": 423,
+        "name": "Nakaseke District",
+        "country": "UGA",
+        "state": "116"
+    },
+    {
+        "id": 406,
+        "name": "Nakasongola District",
+        "country": "UGA",
+        "state": "109"
+    },
+    {
+        "id": 351,
+        "name": "Namayingo District",
+        "country": "UGA",
+        "state": "230"
+    },
+    {
+        "id": 400,
+        "name": "Namisindwa District",
+        "country": "UGA",
+        "state": "234"
+    },
+    {
+        "id": 337,
+        "name": "Namutumba District",
+        "country": "UGA",
+        "state": "224"
+    },
+    {
+        "id": 430,
+        "name": "Napak District",
+        "country": "UGA",
+        "state": "327"
+    },
+    {
+        "id": 446,
+        "name": "Nebbi District",
+        "country": "UGA",
+        "state": "310"
+    },
+    {
+        "id": 424,
+        "name": "Ngora District",
+        "country": "UGA",
+        "state": "231"
+    },
+    {
+        "id": 332,
+        "name": "Northern Region",
+        "country": "UGA",
+        "state": "N"
+    },
+    {
+        "id": 422,
+        "name": "Ntoroko District",
+        "country": "UGA",
+        "state": "424"
+    },
+    {
+        "id": 404,
+        "name": "Ntungamo District",
+        "country": "UGA",
+        "state": "411"
+    },
+    {
+        "id": 378,
+        "name": "Nwoya District",
+        "country": "UGA",
+        "state": "328"
+    },
+    {
+        "id": 374,
+        "name": "Omoro District",
+        "country": "UGA",
+        "state": "331"
+    },
+    {
+        "id": 390,
+        "name": "Otuke District",
+        "country": "UGA",
+        "state": "329"
+    },
+    {
+        "id": 397,
+        "name": "Oyam District",
+        "country": "UGA",
+        "state": "321"
+    },
+    {
+        "id": 408,
+        "name": "Pader District",
+        "country": "UGA",
+        "state": "312"
+    },
+    {
+        "id": 357,
+        "name": "Pakwach District",
+        "country": "UGA",
+        "state": "332"
+    },
+    {
+        "id": 412,
+        "name": "Pallisa District",
+        "country": "UGA",
+        "state": "210"
+    },
+    {
+        "id": 439,
+        "name": "Rakai District",
+        "country": "UGA",
+        "state": "110"
+    },
+    {
+        "id": 358,
+        "name": "Rubanda District",
+        "country": "UGA",
+        "state": "429"
+    },
+    {
+        "id": 442,
+        "name": "Rubirizi District",
+        "country": "UGA",
+        "state": "425"
+    },
+    {
+        "id": 331,
+        "name": "Rukiga District",
+        "country": "UGA",
+        "state": "431"
+    },
+    {
+        "id": 324,
+        "name": "Rukungiri District",
+        "country": "UGA",
+        "state": "412"
+    },
+    {
+        "id": 427,
+        "name": "Sembabule District",
+        "country": "UGA",
+        "state": "111"
+    },
+    {
+        "id": 333,
+        "name": "Serere District",
+        "country": "UGA",
+        "state": "232"
+    },
+    {
+        "id": 407,
+        "name": "Sheema District",
+        "country": "UGA",
+        "state": "426"
+    },
+    {
+        "id": 429,
+        "name": "Sironko District",
+        "country": "UGA",
+        "state": "215"
+    },
+    {
+        "id": 444,
+        "name": "Soroti District",
+        "country": "UGA",
+        "state": "211"
+    },
+    {
+        "id": 359,
+        "name": "Tororo District",
+        "country": "UGA",
+        "state": "212"
+    },
+    {
+        "id": 362,
+        "name": "Wakiso District",
+        "country": "UGA",
+        "state": "113"
+    },
+    {
+        "id": 370,
+        "name": "Western Region",
+        "country": "UGA",
+        "state": "W"
+    },
+    {
+        "id": 330,
+        "name": "Yumbe District",
+        "country": "UGA",
+        "state": "313"
+    },
+    {
+        "id": 379,
+        "name": "Zombo District",
+        "country": "UGA",
+        "state": "330"
+    }
+]
